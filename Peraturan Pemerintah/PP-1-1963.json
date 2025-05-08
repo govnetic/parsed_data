@@ -1,0 +1,648 @@
+{
+    "results": [
+        {
+            "id": "0d37fd67-e743-488a-9d01-eb77e74d21f7",
+            "name": "Chapter I",
+            "title": ".\nPENDIRIAN.",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "f775e4d0-fc0e-4bfb-8f13-9af40b7a09a7",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "9ffab84a-cb64-4cfd-9224-10e6dec6910f",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Undang-undang No. 19 Prp tahun 1960, dalam lapangan gula.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "83e256a5-f6e5-4f06-b97d-951280a1de03",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Perusahaan pabrik gula termaksud dalam lajur 2 lampiran Peraturan Pemerintah ini, serta\nsegala hak, kewajiban, kekayaan dan perlengkapan serta usahanya, begitu pula segenap\npegawai/pekerjaanya diserahkan/beralih kepada perusahaan negara tersebut dalam lajur 6\nlampiran tersebut.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "7e75ad49-4c0c-4a77-bbaf-c14e9ef8ee11",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Soal-soal yang timbul dalam melaksanakan ketentuan pada ayat (2) diatur oleh Menteri\nPertanian dan Agraria.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3087684c-bf99-4b95-9b1c-72d7dc59c62f",
+            "name": "Chapter II",
+            "title": ".\nANGGARAN DASAR.\nKetentuan umum.",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "2e560c14-fdac-4f6c-9f47-63adf9823af8",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "3624c247-8f82-42be-aa2d-5111f06a96d2",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Perusahaan adalah badan hukum, yang berhak melakukan usaha-usaha berdasarkan\n    Peraturan Pemerintah ini.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "3730e14b-3afa-4c38-bce7-9b4bca9354f9",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Dalam Peraturan Pemerintah ini yang dimaksud dengan:\n    a. \"Pemerintah\" ialah Presiden Republik Indonesia;\n    b. \"Menteri\" ialah Menteri Pertanian dan Agraria:,\n    c. \"Perusahaan\" ialah masing-masing Perusahaan Perkebunan Gula Negara dan\n       masing-masing perusahaan negara Karung Goni termaksud dalam pasal 1;\n    d. \"Direksi\" ialah Direksi Perusahaan;\n    e. \"B.P.U.\" ialah Badan Pimpinan Umum Perusahaan Per kebunan Gula Negara,\n       sebagaimana termaksud dalam Per aturan Pemerintah No. 2 tahun 1963.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "59fc7ff7-c3f3-482d-892c-645c7d94e20c",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "ee80a0a6-b1ab-4c9c-9068-171942f43cf9",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDengan tidak mengurangi ketentuan-ketentuan dalam Peraturan Pemerintah ini, maka\nterhadap Perusahaan berlaku hukum Indonesia.\nTujuan dan lapangan usaha.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "f0829c7e-5ca5-4d46-bd22-a38fa535b222",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f9952f5f-e54b-46a0-8b96-6feec2a27796",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Perusahaan adalah suatu kesatuan produksi yang turut membangun ekonomi nasional sesuai\n    dengan ekonomi terpimpin dengan mengutamakan kebutuhan rakyat dan ketenteraman serta\n    kegairahan kerja dalam Perusahaan, menuju masyarakat yang adil dan makmur materiil dan\n    spiritual, dengan bekerja dalam rangka sinchronisasi dan kerja-sama yang dilakukan oleh\n    B.P.U.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "fea80d72-a6e0-44d0-940f-0a14b36755fa",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Untuk mencapai tujuan termaktub dalam ayat (1) tersebut diatas Perusahaan dengan\n    berpedoman kepada dasar-dasar ekonomis yang sehat bertugas :\n    a.menyelenggarakan produksi gula atau goni dan usaha- usaha samping yang bersangkutan\n      dengan bidang tersebut;\n    b.memberi bimbingan dan bantuan dibidang usaha memper baiki mutu dan hasil tanaman\n      rakyat (tebu atau rami). Cadangan dan perubahan modal.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "4103d852-3137-4d1c-a527-4d786b1267b8",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a33b03b4-8481-417c-a92f-b41264204e54",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Perusahaan mempunyai cadangan umum yang dibentuk dan dipupuk menurut ketentuan\n    dalam pasal 20 ayat (1) Peraturan Pemerintah ini.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "a3c9e0a3-6f3b-4853-90b2-15071c86b522",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Perusahaan tidak mengadakan cadangan diam dan/atau cadangan rahasia.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "c62cb5c9-fd3e-4754-8c63-6fb7b1f1c9f7",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Modal Perusahaan dapat ditambah dengan Peraturan Pemerintah.\nPimpinan",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "cc4892e4-602d-4771-8357-ba9d962a02f0",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "c320da02-49af-4a69-b283-93a488716ded",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Perusahaan dipimpin oleh suatu Direksi yang terdiri dari seorang Direktur.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "d4c64f61-434c-4ad9-808c-849a875b6427",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Kekuasaan Direktur diatur dengan Peraturan Menteri, dengan mengindahkan Undang-undang No. 19 Prp tahun 1960.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "10ed2eb8-a417-4694-91a9-77dc1e6917e7",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Dengan tidak mengurangi tanggung jawab kepada Menteri maka Direktur bertanggung jawab pula kepada B.P.U.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "a5c36ab2-5cc8-47a5-9cca-e7afc14b2f5b",
+                            "name": "Verse 4",
+                            "number": "(4)",
+                            "type": "verse",
+                            "content": " Gaji dan penghasilan lain dari Direktur ditetapkan oleh Menteri dengan mengingat ketentuan yang ditetapkan dengan atau berdasarkan Peraturan Pemerintah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "4e1cc86d-5bf6-437d-a1d2-0efee1c93afd",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": {
+                        "id": "953b7019-5ec5-42bc-b3de-179601e84739",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDirektur adalah warga-negara Indonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "f3c6ed53-3391-42ab-8308-b733b1e774c3",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "92f9d9d5-fcca-4b83-8792-ffb13a1d35d7",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Direktur tidak boleh merangkap jabatan lain, kecuali dengan ijin Menteri. Tidak termasuk dalam hal ini ialah jabatan yang dipikulkan oleh Pemerintah kepadanya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "84841913-0451-4cef-88eb-b7377f7e3b36",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Direktur tidak boleh mempunyai kepentingan pribadi langsung atau tidak langsung dalam perkumpulan/perusahaan lain yang berusaha dalam lapangan yang bertujuan mencari laba.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "9bf9dc0d-b1c7-4468-8c35-508067bf35e3",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "16aab40d-a205-4dc9-b471-665d98a1e1d6",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Direktur diangkat oleh Pemerintah untuk selama-lamanya lima tahun. Setelah waktu itu berakhir Direktur tersebut dapat diangkat kembali.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "9843746b-e65e-4842-9891-5a1a11d506b5",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Dalam hal-hal dibawah ini Pemerintah dapat memberhentikan Direktur, meskipun waktu tersebut dalam ayat (1) belum berakhir:\na. atas permintaan sendiri;\nb. karena tindakan yang merugikan Perusahaan;\nc. karena tindakan atau sikap yang bertentangan dengan kepentingan Negara;\nd. karena meninggal dunia.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "61019fbd-7929-4017-bb30-959594b4580b",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Pemberhentian karena alasan tersebut dalam ayat (2) huruf b dan huruf c, jika merupakan suatu pelanggaran dari peraturan hukum pidana, merupakan pemberhentian tidak dengan hormat.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "5ecebf4e-aaa1-4ba0-bb8c-a20ae3459ae2",
+                            "name": "Verse 4",
+                            "number": "(4)",
+                            "type": "verse",
+                            "content": " Sebelum pemberhentian karena alasan tersebut dalam ayat (2) huruf b dan huruf c dilakukan, Direktur tersebut diberi kesempatan untuk membela diri, hal mana harus dilaksanakan dalam waktu satu bulan setelah Direktur tadi diberitahukan tentang niat akan pemberhentian itu oleh Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "e63c3f7c-2d30-44b4-a91e-0e835290adc5",
+                            "name": "Verse 5",
+                            "number": "(5)",
+                            "type": "verse",
+                            "content": " Selama persoalan tersebut dalam ayat (4) belum diputuskan, maka Menteri dapat memberhentikan untuk sementara waktu Direktur yang bersangkutan.\nJika dalam waktu dua bulan setelah pemberhentian sementara dijatuhkan belum ada keputusan mengenai pemberhentian Direktur tadi berdasarkan ayat (3), maka pemberhentian sementara itu menjadi batal dan Direktur tersebut dapat segera menjalankan jabatannya lagi, kecuali bilamana untuk keputusan pemberhentian tersebut diperlukan keputusan pengadilan dan hal itu harus diberitahukan kepada yang bersangkutan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "c0ff67eb-e3af-442e-8e63-634372e8cb8d",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "de98412d-032d-49b4-b17d-fe656700e55b",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Direksi, dalam batas-batas kekuasaannya, seperti diatur dalam pasal 6, mewakili Perusahaan\ndidalam dan diluar pengadilan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "b18a98c9-6745-4516-844e-60f8ee4b4432",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Direksi dapat menyerahkan kekuasaan mewakili tersebut dalam ayat (1) kepada\nseorang/beberapa orang pegawai Perusahaan, baik sendiri maupun bersama-sama atau\nkepada orang/badan lain.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "671cd63c-a607-41f5-82cc-5429b4e6d16e",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "dd5a7e30-df36-49e6-ae1b-3732722d9583",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Direksi, dalam batas-batas kekuasaannya, seperti diatur dalam pasal 6, menentukan\nkebijaksanaan Perusahaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "ebcb859f-b1cd-40df-b39b-7229b0eef3e2",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Direksi, dalam batas-batas kekuasaannya seperti diatur dalam pasal 6, mengurus dan\nmenguasai kekayaan Perusahaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "8dc4347b-f151-4682-9d5a-62ead81ba322",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Direksi dalam melaksanakan tugasnya mengindahkan petunjuk-petunjuk Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "7b5feddc-5cfa-4c0c-b2de-682afdbebb57",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "c45b9104-901c-4fd6-9c4e-2143e905633c",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " B.P.U.:\na. menyelenggarakan pemasaran hasil-hasil Perusahaan;\nb. mengatur pembiayaan Perusahaan;\nc. menyelenggarakan pendidikan dan penelitian yang bersangkutan dengan perusahaan\ngula;\nd. menentukan kebijaksanaan umum dibidang perburuhan bagi Perusahaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "7217998a-2c27-47a3-b230-77193a7893bb",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Menteri menetapkan selanjutnya sifat hubungan, pembagian tugas dan pekerjaan antara\nPerusahaan dan B.P.U.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "484a8f73-78bb-4860-a67e-a159213f6154",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Selain dari pekerjaan-pekerjaan termaksud pada ayat (1) dan dengan tidak mengurangi\nketentuan pada ayat (2), maka lain-lain pekerjaan menguasai dan mengurus Perusahaan\nadalah tugas dan tanggung jawab Direksi.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "1a7395fb-1888-4468-890e-f9c904e08925",
+                            "name": "Verse 4",
+                            "number": "(4)",
+                            "type": "verse",
+                            "content": " Semua berkas-berkas yang tersebut didalam pasal-pasal 17, 18 dan 19 dikirimkan oleh\nDireksi kepada B.P.U. untuk disampaikan kepada Menteri disertai pertimbangan dan pen\ndapat B.P.U.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "91ab99b5-7f73-4b8d-a0a0-04d097a3abb8",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": {
+                        "id": "ee1d20ad-8429-4407-87ca-17f5cae72802",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPerusahaan memberikan iuran wajib/pembayaran jasa kepada B.P.U. menurut jumlah yang\nditentukan oleh Menteri. Tanggung-jawab dan tuntutan ganti rugi pegawai.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "08b2603c-9d5b-44e5-92dc-e35adaad2908",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "1b923135-2e7a-422b-b33a-0081ae2621c3",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Semua pegawai Perusahaan, termasuk Direktur dalam kedudukan selaku demikian, yang\ntidak dibebani tugas penyimpanan uang, surat-surat berharga dan barang-barang persediaan,\nyang karena tindakan melawan hukum atau karena melalaikan kewajiban dan tugas yang\ndibebankan kepada mereka, dengan langsung atau tidak langsung, telah menimbulkan\nkerugian bagi Perusahaan, diwajibkan mengganti kerugian tersebut.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "70409555-c1c1-46e6-9113-91abadfaa34b",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Ketentuan-ketentuan tentang tuntutan ganti rugi terhadap pegawai negeri berlaku\nsepenuhnya terhadap pegawai Perusahaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "fa2acfe1-2d6f-4c58-8540-8740fec5e8a5",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Semua pegawai Perusahaan yang dibebani tugas penyimpanan, pembayaran atau penyerahan\nuang dan surat-surat berharga milik Perusahaan dan barang-barang persediaan milik\nPerusahaan yang disimpan didalam gudang atau tempat penyimpanan yang khusus dan\nsemata-mata digunakan untuk keperluan itu, diwajibkan memberikan pertanggungan jawab\ntentang pelaksanaan tugasnya kepada Badan Pemeriksa Keuangan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "710267e4-46fd-475a-b495-92679b525eb9",
+                            "name": "Verse 4",
+                            "number": "(4)",
+                            "type": "verse",
+                            "content": " Pegawai termaksud pada ayat (3) tidak perlu mengirimkan pertanggungan jawab mengenai\ncara pengurusannya kepada Badan Pemeriksa Keuangan. Tuntutan terhadap pegawai\ntersebut dilakukan menurut ketentuan yang ditetapkan bagi pegawai bendaharawan yang\noleh Badan Pemeriksa Keuangan dibebaskan dari kewajiban mengirimkan pertanggungan\njawab mengenai cara mengurusnya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "caf9be44-2a99-48fc-b07b-3c5425f8097b",
+                            "name": "Verse 5",
+                            "number": "(5)",
+                            "type": "verse",
+                            "content": " Semua surat bukti dan surat lainnya, bagaimanapun juga sifatnya. yang termasuk bilangan\ntata buku dan administrasi Perusahaan, disimpan ditempat Perusahaan atau ditempat lain\nyang ditunjuk oleh Menteri, kecuali jika untuk sementara dipindahkan ke Badan Pemeriksa\nKeuangan dalam hal dianggapnya perlu untuk kepentingan suatu pemeriksaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "7fe6f7b7-810d-459a-842d-68cab7e29dc5",
+                            "name": "Verse 6",
+                            "number": "(6)",
+                            "type": "verse",
+                            "content": " Untuk keperluan pemeriksaan bertalian dengan penetapan pajak dan kontrol akuntan pada\numumnya surat bukti dan surat lainnya termaksud pada ayat (5) untuk sementara\ndipindahkan ke Jawatan Akuntan Negara.\nKepegawaian.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "e9f5fab4-6aed-4d09-beb3-6a2c0d5055a8",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": {
+                        "id": "2ff77d12-e5a9-4783-adf2-d1d275fdacd7",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDireksi mengangkat dan memberhentikan pegawai/pekerja Perusahaan menurut peraturan\nkepegawaian yang ditentukan oleh Menteri berdasarkan peraturan kepegawaian perusahaan negara\nyang ditetapkan oleh Pemerintah.\nTahun buku.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "14e46a0f-a733-40d7-bfad-e7f81467c099",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": {
+                        "id": "9e35c49e-cbeb-4890-9125-b48cbfa45c37",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nTahun buku Perusahaan adalah tahun takwim.\nAnggaran Perusahaan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "9519a081-f8e1-4f6f-b807-2835a8ede2ec",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ada79a11-aad9-49a2-b673-3cb8ecdb366f",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Dalam waktu yang ditetapkan oleh Menteri, selambat-lambatnya tiga bulan sebelum tahun\nbuku baru mulai berlaku, maka oleh Direksi dikirimkan anggaran Perusahaan kepada B.P.U.\nuntuk dimintakan persetujuan Menteri, menurut cara yang ditentukan dalam pasal 12 ayat",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "52078d3d-5c64-45fc-a4d5-463125bf031f",
+                            "name": "Verse 4",
+                            "number": "(4)",
+                            "type": "verse",
+                            "content": ".",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "dff0ab85-0907-47a5-add7-72c2379e9ddf",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Kecuali apabila Menteri mengemukakan keberatan atau menolak proyek yang dimuat\ndidalam anggaran Perusahaan sebelum menginjak tahun baru, maka anggaran tersebut\nberlaku sepenuhnya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "4d9b3df4-889a-41bd-92df-4ce4dafc489a",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Anggaran tambahan atau perubahan anggaran yang terjadi dalam tahun buku yang\nbersangkutan harus mendapat persetujuan terlebih dahulu dari Menteri.\nLaporan perhitungan hasil usaha berkala dan kegiatan Perusahaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "651181bd-68e1-40e7-b207-78bd8fa84f2c",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": {
+                        "id": "af7fe579-483c-426b-9e03-de714a8a952c",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nLaporan perhitungan tahunan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "dac4ef8e-4ade-43d0-bd8b-e56cda540ff2",
+                    "name": "Article 19",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "228a5759-8e17-42b1-ba31-d897d35f2ebc",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Untuk tiap tahun buku oleh Direksi disusun perhitungan tahunan yang terdiri dari neraca dan perhitungan laba rugi.\nNeraca dan perhitungan laba rugi tersebut dikirimkan kepada Menteri dan Badan Pemeriksa Keuangan menurut cara yang tersebut dalam pasal 12 ayat (4).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "95d2c84e-5e76-4137-b54f-3d79925aa440",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Cara penilaian pos dalam perhitungan tahunan harus disebutkan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "b1a49c44-62f5-4b92-bc82-778cc4751416",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Jika dalam waktu dua bulan sesudah menerima perhitungan tahunan itu oleh Menteri tidak diajukan keberatan tertulis, maka perhitungan tahunan itu dianggap telah disahkan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "14cd1702-6fbd-407e-99bd-e506320a71f6",
+                            "name": "Verse 4",
+                            "number": "(4)",
+                            "type": "verse",
+                            "content": " Perhitungan tahunan disahkan oleh Menteri; pengesahan termaksud memberi pembebasan kepada Direksi terhadap segala sesuatu yang termuat dalam perhitungan tahunan tersebut.\nPenggunaan laba.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "baba77e6-0cb4-412e-9b33-99696ce9db23",
+                    "name": "Article 20",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "646a9324-1cfe-442b-94be-e3abe6114850",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Dari laba bersih yang telah disahkan menurut pasal 19 disisihkan untuk:\na. dana Pembangunan Semesta sebesar 55%;\nb. untuk cadangan umum sebesar 20%, sampai cadangan umum tersebut mencapai jumlah dua kali modal Perusahaan, untuk ganti rugi 3%, sedangkan sisanya dipisahkan untuk sumbangan dana pensiun dan sokongan pegawai, sosial dan pendidikan dan jasa produksi yang jumlah persentasenya masing-masing akan ditetapkan oleh Pemerintah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "e598a2f2-50a4-4bf0-9959-01ae021ff92d",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " )Penggunaan laba untuk cadangan umum, bilamana telah tercapai tujuannya, dapat dialihkan kepada penggunaan lain dengan Peraturan Pemerintah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "24ef1ee2-bbc2-49c3-9101-40ce2ca733eb",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Cara mengurus dan menggunakan dana penyusutan dan cadangan tujuan termaksud pada pasal 18 ayat (2) Undang-undang No. 19 Prp tahun 1960 ditentukan dengan Peraturan Menteri.\nPembubaran.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "6eacc43b-6418-47d8-935b-88a0e3f4c1a0",
+                    "name": "Article 21",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "19af58e0-b245-41cd-bb59-382452a13644",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Pembubaran Perusahaan dan penunjukan likwidaturnya ditetapkan dengan Peraturan Pemerintah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "fa69a583-a7b3-4c93-8a0d-fb74af43bbeb",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Semua kekayaan Perusahaan setelah diadakan likwidasi menjadi milik Negara.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "d3f43ed5-ad83-4329-b007-2137f91750f5",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Pertanggungan jawab likwidasi oleh likwidatur dilakukan kepada Menteri yang memberi pembebasan tanggung jawab tentang pekerjaan yang telah diselesaikan olehnya.\nKETENTUAN PENUTUP.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "d1ebf3b3-e020-4d8c-b87d-c8aeb89d93cb",
+                    "name": "Article 22",
+                    "type": "article",
+                    "children": {
+                        "id": "2483e367-0709-4964-b650-3517dfd9cc37",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nHal-hal yang belum atau belum cukup diatur dalam Peraturan Pemerintah ini ditetapkan oleh\nMenteri.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "c44844a6-afa5-4ebc-920b-fe621f4dbe9d",
+                    "name": "Article 23",
+                    "type": "article",
+                    "children": {
+                        "id": "cbbe1445-9eb2-493b-bdb2-ace188834b63",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada hari ditetapkan dan berlaku surut hingga\ntanggal 1 Januari 1963. Agar supaya setiap orang dapat mengetahuinya memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam Lembaran-Negara Republik\nIndonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "1",
+        "Tahun": "1963",
+        "Tentang": "PENDIRIAN PERUSAHAAN-PERUSAHAAN PERKEBUNAN GULA NEGARA.",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa untuk menambah daya guna dan daya hasil perusahaan-perusahaan perkebunan gula\nnegara dianggap perlu untuk mendirikan satu perusahaan negara sebagai termaksud pada\npasal 3 ayat (1) Undang-undang No. 19 Prp tahun 1960, bagi tiap pabrik gula negara;",
+            "b": " bahwa pabrik karung milik negara pula perlu dibentuk menjadi perusahaan negara\ntermaksud diatas;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat 2 Undang-undang Dasar;",
+            "2": " Undang-undang No. 19 Prp tahun 1960;",
+            "3": " Peraturan Pemerintah No. 159, No. 160, No. 161, No. 165, No. 166, No. 167, No. 168, No.\n169 dan No. 175 tahun 1961;",
+            "4": " Peraturan Pemerintah No. 2 tahun 1963;\nMendengar\nMenteri Pertama, Wakil Menteri Pertama bidang Produuksi dan Menteri Pertanian dan Agraria;"
+        },
+        "Menetapkan": "\nNot Available",
+        "tanggal sah": "1 Januari 1963"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "7c90fc42-3baf-479d-a177-38c03b28cabe",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "415037c4-d324-4062-9206-16448c8ab3fe",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Memperpanjang waktu termaksud dalam pasal 3 Peraturan\nPemerintah No. 44 tahun 1952 dengan satu tahun, yaitu sampai akhir\nDesember 1954.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "2d916e63-a9a1-4407-a8ef-12b0d20eb9b3",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "1648b1d2-f078-41bc-beee-371a17c02de5",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada akhir Desember\n1953.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "1",
+        "Tahun": "1954",
+        "Tentang": "MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN PEMERINTAH NO. 44\nTAHUN 1952 (LEMBARAN-NEGARA NO. 72 TAHUN 1952), MENGENAI\nPENUNJUKAN DAERAH DI INDONESIA, DIMANA UANG ASING DAPAT\nDITERIMA SEBAGAI ALAT PEMBAYARAN YANG SAH DENGAN\nMENYAMPINGKAN ALAT PEMBAYARAN INDONESIA YANG SAH",
+        "Menimbang": {
+            "Introduction": "\nbahwa setelah ditinjau kembali ternyata, bahwa keadaan di daerah,\nyang ditunjuk dengan Peraturan Pemerintah No. 44 tahun 1952\nsebagai daerah di Indonesia dimana uang asing dapat diterima\nsebagai alat pembayar yang sah dengan menyampingkan alat pembayar\nIndonesia yang sah, belum mengizinkan Pemerintah memasukkan uang\nrupiah di daerah termaksud;\nbahwa berhubung dengan itu dianggap perlu untuk memperpanjang\nwaktu berlakunya Peraturan Pemerintah No. 44 tahun 1952 dengan\nsatu tahun yaitu sampai akhir Desember 1954;"
+        },
+        "Mengingat": {
+            "Introduction": "\npasal 3 Peraturan Pemerintah No. 44 tahun 1952 (Lembaran Negara\nNo. 72 tahun 1952);\nMendengar\nDewan Menteri dalam rapatnya yang ke 21 pada tanggal 17 Nopember\n1953;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH UNTUK MEMPERPANJANG WAKTU BERLAKUNYA\nPERATURAN PEMERINTAH NO, 44 TAHUN 1952,",
+        "tanggal sah": "28 Desember 1953"
+    }
+}

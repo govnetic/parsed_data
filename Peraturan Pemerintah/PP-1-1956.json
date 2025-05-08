@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "1f04428f-af61-41ee-8c87-1ec34fcc4f87",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "9cba1c45-1d82-4153-8fb4-f48fc7ff2a3b",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Diadakan penjabat Sekretaris pada :\na. Kementerian Pekerjaan Umum & Tenaga;\nb. Kementerian Perburuhan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "efd1ca8d-482a-422c-b924-1bd874f1f6a4",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "cfb3dce7-012d-43c5-aa51-299ed2bd5481",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari\n1956.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran-Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "1",
+        "Tahun": "1956",
+        "Tentang": "MENGADAKAN JABATAN SEKRETARIS DI KEMENTERIAN PEKERJAAN UMUM &\nTENAGA DAN KEMENTERIAN PERBURUHAN",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk membantu Sekretaris-Jenderal dalam pekerjaanya\nsehari-hari perlu mengadakan penjabat Sekretaris pada beberapa\nKementerian"
+        },
+        "Mengingat": {
+            "Introduction": "\na. Peraturan Pemerintah No. 23 tahun 1955 (Lembaran-Negara tahun\n955 No. 48) juncto Peraturan Pemerintah No. 32 tahun 1955\ntentang P.G.P.N. 1955 (Lembaran-Negara tahun 955 No. 75);\nb. Peraturan Pemerintah No. 20 tahun 1952 tentang susunan dan\npimpinan Kementerian-kementerian (Lembaran-Negara tahun 1952\nNo. 26);\nMendengar\nDewan Menteri dalam rapatnya yang ke-36 tanggal 10 Januari 1956"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG MENGADAKAN JABATAN SEKRETARIS DI\nKEMENTERIAN PEKERJAAN UMUM & TENAGA DAN KEMENTERIAN PERBURUHAN",
+        "tanggal sah": "1 Januari 1956"
+    }
+}

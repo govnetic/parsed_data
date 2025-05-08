@@ -1,0 +1,47 @@
+{
+    "results": [
+        {
+            "id": "5efcbb58-d0f0-4f3b-bb68-6f6fc344902c",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "4d1ebfb3-4523-4248-8a89-7a1783f85aa8",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1. Perusahaan Dagang milik Belanda yang ada di dalam wilayah Republik Indonesia,\nsebagaimana tercantum di dalam daftar terlampir dikenakan nasionalisasi.\n2. Jika perusahaan-perusahaan termaksud ayat (1) merupakan Badan Hukum,\nnasionalisasi dikenakan terhadap Badan Hukum tersebut, jika bukan, maka\nnasionalisasi dikenakan terhadap seluruh harta kekayaan-perusahaan tersebut.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "099ac4b2-e280-4d71-829e-18702397889e",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "a58f684a-726d-40cb-9d95-b882102cccda",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan dan mempunyai daya\nsurut terhitung mulai tanggal 3 Desember 1957.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatan dalam Lembaran-Negara Republik\nIndonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "1",
+        "Tahun": "1961",
+        "Tentang": "PENENTUAN PERUSAHAAN DAGANG MILIK BELANDA\nYANG DIKENAKAN AKAN NASIONALISASI\nMembaca:\nSurat Menteri Pertama tanggal 29 Desember 1960 Nomor 28411/60.",
+        "Menimbang": {
+            "Introduction": "\nahwa untuk melaksanakan nasionalisasi perusahaan-perusahaan dagang milik Belanda\nyang berada di dalam wilayah Republik Indonesia maka perlu ditentukan perusahaan-\nperusahaan yang dikenakan nasionalisasi."
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Undang-undang Nomor 86 Tahun 1958 tentang \"Nasionalisasi perusahaan\nBelanda\" (Lembaran Negara 1958 Nomor 162).",
+            "2": " Peraturan Pemerintah Nomor 2 Tahun 1959 tentang \"Pokok-pokok Pelaksanaan\nUndang-undang Nasionalisasi Perusahaan Belanda\" (Lembaran Negara 1959\nNomor 5)",
+            "3": " Peraturan Pemerintah Nomor 3 Tahun 1959 tentang \"Pembentukan Badan\nNasionalisasi Perusahaan Belanda\" (Lembaran Negara 1959 Nomor 6).",
+            "4": " Peraturan Pemerintah Nomor 33 Tahun 1959 tentang \"Penentuan Perusahaan\nDagang yang besar milik Belanda beserta Cabang-cabangnya dan anak-anak\nperusahaannya yang dikenakan nasionalisasi.\nMendengar \nDewan Pimpinan Banas dalam sidangnya pada tanggal 23 Agustus 1960."
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENENTUAN PERUSAHAAN DAGANG MILIK\nBELANDA YANG DIKENAKAN NASIONALISASI.",
+        "tanggal sah": "3 Desember 1957"
+    }
+}
