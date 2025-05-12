@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "id": "63a6e4f5-5cb1-456d-96a6-236ab39f9889",
+            "id": "8043b86a-3a00-4cc5-add2-ff549bd1ec98",
             "name": "Article I",
             "type": "article",
             "children": [
@@ -10,88 +10,276 @@
                         "CHANGE",
                         "INSERT"
                     ],
-                    "id": "39d958e6-0a8b-47a1-933e-6aa9c288e2b1",
-                    "name": "9b542a05-ce57-4675-8419-1Chapter6de5c9ee",
-                    "title": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1.  Desa adalah Desa dan Desa adat atau yang disebut\ndengan nama lain selanjutnya disebut Desa adalah\nkesatuan masyarakat hukum yang memiliki batas\nwilayah yang berwenang untuk mengatur dan\nmengurus urusan pemerintahan, kepentingan\nmasyarakat setempat berdasarkan prakarsa\nmasyarakat, hak asalusul, dan/atau hak tradisional\nyang diakui dan dihormati dalam sistem\npemerintahan Negara Kesatuan Republik Indonesia.\n2.  Dana Desa adalah dana yang bersumber dari\nAnggaran Pendapatan dan Belanja Negara yang\ndiperuntukkan bagi Desa yang ditransfer melalui\nAnggaran Pendapatan dan Belanja Daerah\nkabupaten/kota dan digunakan untuk membiayai\npenyelenggaraan pemerintahan, pelaksanaan\npembangunan, pembinaan kemasyarakatan, dan\npemberdayaan masyarakat.\n3.  Pemerintahan Desa adalah penyelenggaraan urusan\npemerintahan dan kepentingan masyarakat setempat\ndalam sistem pemerintahan Negara Kesatuan\nRepublik Indonesia.\n4.  Pemerintah Desa adalah Kepala Desa atau yang\ndisebut dengan nama lain dibantu perangkat Desa\nsebagai unsur penyelenggara Pemerintahan Desa.\n5.  Pemerintah Pusat yang selanjutnya disebut\nPemerintah adalah Presiden Republik Indonesia\nyang memegang kekuasaan pemerintahan Negara\nRepublik Indonesia sebagaimana dimaksud dalam\nUndang-Undang Dasar Negara Republik Indonesia\nTahun 1945.\n\n6. Anggaran Pendapatan dan Belanja Negara yang selanjutnya disingkat APBN adalah rencana keuangan tahunan pemerintahan negara yang disetujui oleh Dewan Perwakilan Rakyat.\n7. Transfer ke Daerah adalah bagian dari belanja negara dalam rangka mendanai pelaksanaan desentralisasi fiskal berupa dana perimbangan, dana otonomi khusus, dan dana transfer lainnya.\n8. Anggaran Pendapatan dan Belanja Daerah yang selanjutnya disingkat APBD adalah rencana keuangan tahunan pemerintahan daerah yang dibahas dan disetujui bersama oleh Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah, dan ditetapkan dengan Peraturan Daerah.\n9. Anggaran Pendapatan dan Belanja Desa yang selanjutnya disingkat APBDesa adalah rencana keuangan tahunan Pemerintahan Desa.\n10. Rekening Kas Umum Negara yang selanjutnya disingkat RKUN adalah rekening tempat penyimpanan uang negara yang ditentukan oleh Menteri Keuangan selaku Bendahara Umum Negara untuk menampung seluruh penerimaan negara dan membayar seluruh pengeluaran negara pada bank sentral.\n11. Rekening Kas Umum Daerah yang selanjutnya disingkat RKUD adalah rekening tempat penyimpanan uang daerah yang ditentukan oleh bupati/walikota untuk menampung seluruh penerimaan daerah dan membayar seluruh pengeluaran daerah pada bank yang ditetapkan.\n11a. Rekening Kas Desa yang selanjutnya disingkat RKD adalah rekening tempat menyimpan uang Pemerintahan Desa yang menampung seluruh penerimaan Desa dan untuk membayar seluruh pengeluaran Desa pada bank yang ditetapkan.\n\n12. Sisa Dana Desa adalah Dana Desa yang disalurkan\noleh Pemerintah kepada kabupaten/kota yang\ntidak habis disalurkan ke Desa sampai akhir tahun\nanggaran atau Dana Desa yang disalurkan oleh\nkabupaten/kota kepada Desa yang tidak habis\ndigunakan oleh Desa sampai akhir tahun anggaran\ndan menjadi bagian dari sisa lebih perhitungan\nanggaran APBDesa.\n13. Menteri teknis/pimpinan lembaga pemerintah\nnonkementerian adalah menteri/pimpinan lembaga\nyang menyelenggarakan urusan pemerintahan di\nbidang tertentu.\n14. Menteri Keuangan yang selanjutnya disebut\nMenteri adalah menteri yang menyelenggarakan\nurusan pemerintahan di bidang keuangan negara.",
-                    "type": "chapter"
+                    "id": "f1c6571b-203f-41a1-af88-de7420ed1e58",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "0e3d70a7-a517-486e-9fef-9ffee78e9b77",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1.   Desa adalah Desa dan Desa adat atau yang disebut dengan nama lain selanjutnya disebut Desa adalah kesatuan masyarakat hukum yang memiliki batas wilayah yang berwenang untuk mengatur dan mengurus urusan pemerintahan, kepentingan masyarakat setempat berdasarkan prakarsa masyarakat, hak asalusul, dan/atau hak tradisional yang diakui dan dihormati dalam sistem pemerintahan Negara Kesatuan Republik Indonesia.\n2.   Dana Desa adalah dana yang bersumber dari Anggaran Pendapatan dan Belanja Negara yang diperuntukkan bagi Desa yang ditransfer melalui Anggaran Pendapatan dan Belanja Daerah kabupaten/kota dan digunakan untuk membiayai penyelenggaraan pemerintahan, pelaksanaan pembangunan, pembinaan kemasyarakatan, dan pemberdayaan masyarakat.\n3.   Pemerintahan Desa adalah penyelenggaraan urusan pemerintahan dan kepentingan masyarakat setempat dalam sistem pemerintahan Negara Kesatuan Republik Indonesia.\n4.   Pemerintah Desa adalah Kepala Desa atau yang disebut dengan nama lain dibantu perangkat Desa sebagai unsur penyelenggara Pemerintahan Desa.\n5.   Pemerintah Pusat yang selanjutnya disebut Pemerintah adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan NegaraRepublik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\n\n6. Anggaran Pendapatan dan Belanja Negara yang selanjutnya disingkat APBN adalah rencana keuangan tahunan pemerintahan negara yang disetujui oleh Dewan Perwakilan Rakyat.\n7. Transfer ke Daerah adalah bagian dari belanja negara dalam rangka mendanai pelaksanaan desentralisasi fiskal berupa dana perimbangan, dana otonomi khusus, dan dana transfer lainnya.\n8. Anggaran Pendapatan dan Belanja Daerah yang selanjutnya disingkat APBD adalah rencana keuangan tahunan pemerintahan daerah yang dibahas dan disetujui bersama oleh Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah, dan ditetapkan dengan Peraturan Daerah.\n9. Anggaran Pendapatan dan Belanja Desa yang selanjutnya disingkat APBDesa adalah rencana keuangan tahunan Pemerintahan Desa.\n10. Rekening Kas Umum Negara yang selanjutnya disingkat RKUN adalah rekening tempat penyimpanan uang negara yang ditentukan oleh Menteri Keuangan selaku Bendahara Umum Negara untuk menampung seluruh penerimaan negara dan membayar seluruh pengeluaran negara pada bank sentral.\n11. Rekening Kas Umum Daerah yang selanjutnya disingkat RKUD adalah rekening tempat penyimpanan uang daerah yang ditentukan oleh bupati/walikota untuk menampung seluruh penerimaan daerah dan membayar seluruh pengeluaran daerah pada bank yang ditetapkan.\n11a. Rekening Kas Desa yang selanjutnya disingkat RKD adalah rekening tempat menyimpan uang Pemerintahan Desa yang menampung seluruh penerimaan Desa dan untuk membayar seluruh pengeluaran Desa pada bank yang ditetapkan.\n\n12. Sisa Dana Desa adalah Dana Desa yang disalurkan\noleh Pemerintah kepada kabupaten/kota yang\ntidak habis disalurkan ke Desa sampai akhir tahun\nanggaran atau Dana Desa yang disalurkan oleh\nkabupaten/kota kepada Desa yang tidak habis\ndigunakan oleh Desa sampai akhir tahun anggaran\ndan menjadi bagian dari sisa lebih perhitungan\nanggaran APBDesa.\n13. Menteri teknis/pimpinan lembaga pemerintah\nnonkementerian adalah menteri/pimpinan lembaga\nyang menyelenggarakan urusan pemerintahan di\nbidang tertentu.\n14. Menteri Keuangan yang selanjutnya disebut\nMenteri adalah menteri yang menyelenggarakan\nurusan pemerintahan di bidang keuangan negara."
+                        }
+                    ]
                 },
                 {
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "f048d539-6be1-4288-9f9e-d2ad0a584406",
-                    "name": "38f41f82-f8d5-4ed7-989c-9c37864188d4",
-                    "title": "",
-                    "type": "verse"
+                    "id": "9f119184-3f43-4075-9b57-ee44deffb36f",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "80e10098-17b6-41be-a0bb-47e1c2b9e46e",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Penyaluran Dana Desa sebagaimana dimaksud dalam\nPasal 15 dilakukan secara bertahap pada tahun\nanggaran berjalan."
+                        },
+                        {
+                            "id": "3f3eeec3-d5c2-48e6-9c1e-98626365d019",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Penyaluran Dana Desa sebagaimana dimaksud dalam\nPasal 15 dilakukan paling lambat 7 (tujuh) hari kerja\nsetelah diterima di RKUD."
+                        },
+                        {
+                            "id": "6ed86164-cd75-4248-8891-15bd367d0d1c",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " diatur dengan Peraturan Menteri.\n3. Ketentuan"
+                        },
+                        {
+                            "id": "50e93e70-2209-4965-8a03-cb8e6f51bef7",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai tata cara pengenaan\nsanksi administratif sebagaimana dimaksud pada ayat"
+                        }
+                    ]
                 },
                 {
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "cae98c94-5c50-4bc1-a5e1-23a881a49860",
-                    "name": "4f28fa64-cdfe-45e9-9f7c-26841c7638e6",
-                    "title": "",
-                    "type": "verse"
+                    "id": "04dc5f5f-00d1-4c2d-be71-a45d5275bc9d",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a422de98-d711-41ce-ae95-aad1b335aca4",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Penyaluran Dana Desa dari RKUN ke RKUD dilakukan\nsetelah Menteri menerima dari bupati/walikota:\na. peraturan daerah mengenai APBD kabupaten/kota\ntahun berjalan;\nb. peraturan bupati/walikota mengenai tata cara\npembagian dan penetapan rincian Dana Desa\nsebagaimana dimaksud dalam Pasal 12 ayat (6); dan\nc. Laporan realisasi penyaluran dan konsolidasi\npenggunaan Dana Desa tahap sebelumnya."
+                        },
+                        {
+                            "id": "5ce63e50-17b8-4631-97af-194c86e708cb",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Penyaluran Dana Desa dari RKUD ke RKD dilakukan\nsetelah bupati/walikota menerima dari kepala Desa:\na. Peraturan Desa mengenai APBDesa tahun anggaran\nberjalan; dan\nb. laporan realisasi penggunaan Dana Desa tahap\nsebelumnya."
+                        },
+                        {
+                            "id": "90f9e842-3887-42ee-9079-b6e28dde7e37",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " diatur dengan Peraturan Menteri."
+                        },
+                        {
+                            "id": "d8a0ce6b-5ae1-49fe-8007-73c724f88aae",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai tata cara pengenaan\nsanksi administratif sebagaimana dimaksud pada ayat"
+                        }
+                    ]
                 },
                 {
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "c6f6643e-6eba-4415-ae2b-044631375c42",
-                    "name": "2c8036ea-48b3-4570-bdf3-c3bf0fc111a9",
-                    "title": "",
-                    "type": "verse"
+                    "id": "45fe9127-1e87-4ce3-9e54-01db7bef7a44",
+                    "name": "Article 24",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "0646a872-4433-426b-aed6-a50db072bb29",
+                            "explanation": "\nPenyampaian laporan kepala Desa kepada\nbupati/walikota dikoordinasikan oleh camat setempat.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Kepala Desa menyampaikan laporan realisasi\npenggunaan Dana Desa kepada bupati/walikota."
+                        },
+                        {
+                            "id": "a14831d4-86f9-497f-bb09-defdb5c4b5c6",
+                            "explanation": "\nYang dimaksud dengan \"laporan konsolidasi\npenggunaan adalah laporan gabungan atas realisasi\npenggunaan Dana Desa dari seluruh Desa di wilayah di\nkabupaten/kota.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " disampaikan sebelum penyaluran Dana Desa tahap\nberikutnya."
+                        },
+                        {
+                            "id": "b7ec7b31-2e53-4f6a-a034-bc3457c7a831",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Laporan sebagaimana dimaksud pada ayat (1) dan ayat"
+                        },
+                        {
+                            "id": "5057bd7a-5dd4-404f-b1d0-f041956fb1fd",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai tata cara pelaporan\nsebagaimana dimaksud pada ayat (1), ayat (2), dan\nayat (3) diatur dengan Peraturan Menteri."
+                        }
+                    ]
                 },
                 {
                     "change_type": [
                         "DELETE"
                     ],
-                    "id": "8d46a269-b860-406b-a6b0-2799c8bdcf05",
-                    "name": "ddae812e-4754-4a8f-a910-f8cb3b7594a4",
-                    "title": "\n",
-                    "type": "verse"
+                    "id": "00bce0c7-9041-4f31-9c43-d0df2c1db369",
+                    "name": "Article 25",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "aae403d2-26d6-4b2b-95c5-1fb212bbc95f",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
                 },
                 {
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "b36307f6-6657-46f4-9365-39738e3aacc4",
-                    "name": "33b1ae49-bc8b-424c-a5e5-b15a75e236d2",
-                    "title": "",
-                    "type": "verse"
+                    "id": "f1bb4cc4-6ed9-4741-9557-7e38701941dc",
+                    "name": "Article 26",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "5814627a-9c39-4e03-bf20-fe667cc4a34f",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pemerintah melakukan pemantauan dan evaluasi atas\npengalokasian, penyaluran, penggunaan, dan\npelaporan Dana Desa."
+                        },
+                        {
+                            "id": "8f6dc2ab-258a-4055-b89d-ee9e4958665d",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pemantauan sebagaimana dimaksud pada ayat (1)\ndilakukan terhadap:\na. penerbitan . . .\na. penerbitan peraturan bupati/walikota mengenai\ntata cara pembagian dan penetapan besaran Dana\nDesa;\nb. penyaluran Dana Desa dari RKUD ke RKD;\nc. penyampaian laporan realisasi penyaluran dan\nkonsolidasi penggunaan Dana Desa; dan\nd. Sisa Dana Desa."
+                        },
+                        {
+                            "id": "d692c4e2-2033-49e7-8eb2-e3cbc524aca0",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Evaluasi sebagaimana dimaksud pada ayat (1)\ndilakukan terhadap:\na. penghitungan pembagian besaran Dana Desa setiap\nDesa oleh kabupaten/kota; dan\nb. realisasi penggunaan Dana Desa."
+                        },
+                        {
+                            "id": "d247cfef-3819-4f4c-ac8f-8a5b76e5023a",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Hasil pemantauan dan evaluasi sebagaimana\ndimaksud pada ayat (1) menjadi dasar penyempurnaan\nkebijakan dan perbaikan pengelolaan Dana Desa."
+                        }
+                    ]
                 },
                 {
                     "change_type": [
                         "INSERT"
                     ],
-                    "id": "f55e62b1-3962-433f-8cba-450ec76ae089",
-                    "name": "08e8a215-dea9-4536-8faa-f1b653e04858",
-                    "title": "",
-                    "type": "verse"
+                    "id": "509b6c07-6c9e-47a9-b9e8-89ad0742813f",
+                    "name": "Article 26A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "680ce64e-aadf-477f-b821-a1043729bae9",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Sisa Dana Desa di RKUD dianggarkan kembali oleh\nbupati/walikota dalam rancangan APBD tahun\nanggaran berikutnya."
+                        },
+                        {
+                            "id": "96dfee4b-7b2c-4d86-9e56-e14c3f9198dd",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Dalam hal rancangan APBD tahun anggaran\nberikutnya sebagaimana dimaksud pada ayat (1) telah\nditetapkan, Sisa Dana Desa tersebut dapat disalurkan\nmendahului penetapan peraturan daerah tentang\nPerubahan APBD dengan cara menetapkan peraturan\nbupati/walikota tentang perubahan penjabaran APBD\ndan memberitahukan kepada Pimpinan DPRD untuk\nselanjutnya ditampung dalam peraturan daerah\ntentang perubahan APBD atau dicantumkan dalam\nLaporan Realisasi Anggaran bagi pemerintah daerah\nyang tidak melakukan Perubahan APBD.\n"
+                        }
+                    ]
                 },
                 {
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "9f74a009-2bc7-4973-b618-943b114ab4d4",
-                    "name": "97a8a321-e23b-465b-a527-1a559c935cc3",
-                    "title": "",
-                    "type": "verse"
+                    "id": "3ae61e74-26cc-428a-bb30-384a0c0d884d",
+                    "name": "Article 27",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ff86d771-7571-4d1a-89b6-8cd4342325ac",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " dan ayat (3) diatur dengan Peraturan Menteri."
+                        },
+                        {
+                            "id": "787e739e-055d-4e31-b5b9-c0f47d3c76a3",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Sanksi administratif sebagaimana dimaksud pada ayat"
+                        },
+                        {
+                            "id": "01be4498-3222-4dd7-a7cc-67bfc92d534f",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " berupa pemotongan penyaluran Dana Desa tahun\nanggaran berikutnya sebesar Sisa Dana Desa tahun\nberjalan."
+                        },
+                        {
+                            "id": "b36a6d16-d943-4297-9c3b-b50dee53a338",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Sanksi administratif sebagaimana dimaksud pada ayat"
+                        },
+                        {
+                            "id": "41608e0d-ca22-477e-94fc-dfe3177a3be4",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Pemotongan penyaluran Dana Desa sebagaimana\ndimaksud pada ayat (4) menjadi dasar Menteri\nmelakukan pemotongan penyaluran Dana Desa untuk\nkabupaten/kota tahun anggaran berikutnya."
+                        },
+                        {
+                            "id": "e6821636-ac55-4bec-ae08-5a602c1fe297",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai tata cara pengenaan\nsanksi administratif sebagaimana dimaksud pada ayat"
+                        }
+                    ]
                 }
             ]
         },
         {
-            "id": "67613319-1e4d-48a5-a288-16c4f4695549",
+            "id": "b4098189-bbf9-4875-9717-e7e9c8e081a6",
             "name": "Article II",
             "type": "article",
-            "children": {
-                "id": "0c9ed90e-af0d-46a3-977a-ddfe2926d02f",
-                "name": "Verse 1",
-                "number": "(1)",
-                "type": "verse",
-                "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
-                "explanation": "Tidak ada Penjelasan"
-            }
+            "children": [
+                {
+                    "id": "db175c10-d9f4-4e02-b7fd-c99591ee3e2c",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia."
+                }
+            ]
         }
     ],
     "metadata": {

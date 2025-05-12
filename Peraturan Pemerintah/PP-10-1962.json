@@ -1,0 +1,214 @@
+{
+    "results": [
+        {
+            "id": "55f0206d-41de-43a9-9dc5-9891d2630db3",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "d8593e70-5d4d-4d7b-8cfa-34254183c27d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "9e6b59a8-ed6c-49cd-975b-f3dffa8d5557",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "9cdb2fc4-3325-4f75-b673-eda29e535a6c",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ketentuan dalam pasal ini diadakan untuk mencegah timbulnya kenaikan harga,\npenggantian jasa atau sewa yang sewenang-wenang dimana tidak ada ketetapan maksimum\nmenurut atau berdasarkan Peraturan Pemerintah tentang pengendalian harga.\nMengingat bahwa pengambilan keuntungan yang layak, sebagaimana ditetapkan dalam\nPrijsbeheersing Verordening 1948 berpedoman pada keuntungan yang lazim diambil dalam\ntahun 1939, tidak lagi sesuai dengan keadaan pada waktu ini, maka dalam Peraturan ini diadakan\nketentuan yang lain, yaitu bahwa batas- batas layak atau tidak, harus berpedoman pada faktor-\nfaktor ekonomi-perusahaan agar kelangsungan perusahaan jangan menjadi terganggu.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "eb01b436-5cec-454c-9d9d-4ec4ea7a5bfd",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "41a54b9d-9eda-442b-9be6-258a52fa1f64",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "0796ae8c-3b60-4714-b0e1-29fd1ce86f67",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "b86208ea-fc5f-4e6c-ac32-12d38f206ef1",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Larangan menahan barang, menolak memberikan jasa atau menolak menyewakan sesuatu\nmasih diperlukan. Larangan ini dibatasi dan hanya berlaku apabila penahanan barang, penolakan\nmemberikan jasa atau menyewakan sesuatu itu dimaksudkan untuk dapat memperoleh harga,\njasa atau sewa yang lebih tinggi.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "56692bc9-a777-4ca5-a145-43a5d027088e",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "c9249e4d-1687-425e-9060-4a3315d930fc",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Yang dimaksudkan dalam pasal ini ialah untuk mencegah adanya perdagangan berantai\nyang tidak wajar.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "def05076-e89f-4f2e-a367-1fc6260fa74b",
+            "name": "Article 6",
+            "type": "article",
+            "children": {
+                "id": "16f4d584-936f-4098-844a-5696bb2b09cc",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Dengan ketentuan ini dilarang bagi pengusaha menjalankan sistim kawin.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "6323cc7b-a2d9-4737-b0a2-47c5061b55e0",
+            "name": "Article 7",
+            "type": "article",
+            "children": {
+                "id": "1437b600-3d55-4b96-9724-da10d0baa68f",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Dalam lelang umum boleh diusahakan untuk mendapat harga setinggi-tingginya buat\nsesuatu barang yang ditawarkan disitu.\nWalaupun demikian, pembatasan maksimum harga dan pembatasan keuntungan sampai\npada yang layak sebagai yang tersebut dalam pasal 1 dan 2, tetap berlaku, dalam arti-kata\npenawaran dalam lelang umum atas barang tersebut tidak boleh melampaui batas ketentuan yang\nditetapkan oleh Penguasa.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "5b357630-d442-4feb-8792-6d0a8329c589",
+            "name": "Article 8",
+            "type": "article",
+            "children": {
+                "id": "af2d5b3a-f59e-4282-91eb-6fd515725963",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "925cf567-3ab8-4d17-8f51-e0a192755abc",
+            "name": "Article 9",
+            "type": "article",
+            "children": {
+                "id": "54ca03e1-abbc-43ea-bc0c-43f3186e0058",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Kewajiban untuk mempunyai catatan ini dimaksudkan untuk memudahkan pengawasan\nharga, penggantian jasa atau sewa. Untuk para pengusaha kecil, mengingat kedudukannya, cara\nmembuat catatan akan ditetapkan oleh Menteri Perdagangan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "e26da26f-ff50-4f94-a92e-d081a4149b81",
+            "name": "Article 10",
+            "type": "article",
+            "children": {
+                "id": "544611f1-143d-4b75-a7e7-5f549b224ffa",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Dengan pasal ini dibuka kemungkinan untuk mengadakan pembebasan atau ketentuan-\nketentuan dalam Peraturan Pemerintah ini.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "e6eb29b2-162c-4f26-aa8d-7a9fea688a4b",
+            "name": "Article 11",
+            "type": "article",
+            "children": {
+                "id": "ed9f26b7-da7e-4653-bc78-8df7ad9be599",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "db042403-e957-42e6-a304-ef288b5860bf",
+            "name": "Article 12",
+            "type": "article",
+            "children": {
+                "id": "b0a1244b-3fca-4632-9920-9a626bbb3f96",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas, lihat penjelasan umum.\nPasal 13, 14 dan 15.\nCukup jelas.\nTermasuk Lembaran-Negara tahun 1962 No. 45.\nDiketahui\nSekretaris Negara\nMOHD. ICHSAN.\nCATATAN\nRALAT.\nHalaman 2 dari Penjelasan pasal 10 diantara kata-kata \"dalam\" dan \"Peraturan\" ditambah\nkata-kata \"atau berdasarkan\".\nKepala Bagian Perundang-undangan dari Biro III\nSekretariat Negara,\nSURJANTORO.\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN\n1962 YANG TELAH DICETAK ULANG\nSumber: LN 1962/45; TLN NO. 2472\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "07da164a-9649-4508-a8b2-de8413de78cc",
+            "name": "Article 13",
+            "type": "article",
+            "children": {
+                "id": "6f8e989c-5ca8-4853-8951-07db7f725a36",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Hal-hal yang belum diatur dalam Peraturan Pemerintah ini diatur lebih lanjut oleh Menteri Perdagangan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "78ef5960-d698-4da8-93ca-6259706a0e8a",
+            "name": "Article 14",
+            "type": "article",
+            "children": {
+                "id": "5bb49e3a-1d11-4932-beb6-81cdff5a3755",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini dinamakan : \"Peraturan Pengendalian Harga 1962\".",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "7bf317bd-ff81-4865-8d17-03d819148a19",
+            "name": "Article 15",
+            "type": "article",
+            "children": {
+                "id": "188fdf82-ba67-44c2-ae66-adb7d30dd420",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkannya.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatan dalam Lembaran-Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "10",
+        "Tahun": "1962",
+        "Tentang": "PENGENDALIAN HARGA",
+        "Menimbang": {
+            "Introduction": "\nbahwa perlu segera ditetapkan peraturan untuk melaksanakan Peraturan Pemerintah Pengganti\nUndang-undang No. 9 tahun 1962."
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-undang Dasar;",
+            "2": " Peraturan Pemerintah Pengganti Undang-undang No. 9 tahun 1962;"
+        },
+        "Menetapkan": "\n\"Peraturan Pemerintah tentang Pengendalian Harga\".",
+        "tanggal sah": "3 Agustus 1962"
+    }
+}

@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "ba8a1913-0c44-49c9-9dd8-9658e955a95a",
+            "id": "704e9750-960d-4703-a2b0-f7cf4c7a2c29",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "096db323-1e1a-419d-8ae2-aaf7f681f834",
+                "id": "d811f7f5-01db-4615-9c2c-dc4139da153d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "64a85ba2-eea7-4532-9504-59cea0700dfc",
+            "id": "4625439b-de56-4d87-8934-c4756c80fdd8",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "a3df2d05-1098-4392-a898-62b7e95cf224",
+                "id": "293397b3-411e-43bb-a2c9-7435181498b3",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "c37d562f-8d98-466f-b84f-3214f8a79b83",
+            "id": "8a2121f7-6df3-40cc-977d-2376a18a619d",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "8fb6aacc-86e1-47db-8466-9b1960d4698d",
+                "id": "3c48d451-465f-4e9a-814b-7c525774806d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "033cbbb2-531f-4b55-889c-680c6d662f0e",
+            "id": "84983f11-fe6c-4fd0-bd6d-24ff12774e0e",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "119c45ca-cb8f-46e6-9684-4150dd58b52e",
+                "id": "09558bce-a0ec-46c6-bba2-0586bcac491a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "0e510c53-89f2-4aa2-aebf-a8ac8038e333",
+            "id": "91e99b98-9b94-40b6-b98e-056758c8db2b",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "e969d86f-2be7-4d21-b88a-ff8366f88619",
+                "id": "a5306133-42fb-4013-92b7-09670af4f35c",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -75,10 +75,10 @@
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Pasal 4 ayat 1 dan pasal 5 ayat 2 Undang-undang Dasar;",
-            "2": " Pasal 6, 8 dan 15 Peraturan Devisen (S. 1940 - No. 291 jo. No. 380);",
-            "3": " Peraturan Pemerintah No. 196 tahun 1961 (L.N. tahun 1961 No. 233);",
-            "4": " Undang-undang No. 10 Prp tahun 1960 jo. Keputusan Presiden No 5 tahun 1964."
+            "1": "  Pasal 4 ayat 1 dan pasal 5 ayat 2 Undang-undang Dasar;",
+            "2": "  Pasal 6, 8 dan 15 Peraturan Devisen (S. 1940-No. 291 jo. No. 380);",
+            "3": "  Peraturan Pemerintah No. 196 tahun 1961 (L.N. tahun 1961 No. 233);",
+            "4": "  Undang-undang No. 10 Prp tahun 1960 jo. Keputusan Presiden No 5 tahun 1964."
         },
         "Menetapkan": "\nPeraturan Pemerintah tentang Harga Penjualan Barang-barang Ekspor.",
         "tanggal sah": "13 Januari 1964"

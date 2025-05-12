@@ -1,0 +1,404 @@
+{
+    "results": [
+        {
+            "id": "1fba80ec-87e9-4f76-9332-acf7b3c4be95",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "988c6153-614a-4b33-befc-3809158860c7",
+                    "name": "Article 34",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "2494c89e-b97c-488f-afa4-01f46d8f3a28",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Setiap Narapidana dan Anak Pidana berhak\nmendapatkan Remisi."
+                        },
+                        {
+                            "id": "6763d341-e029-4311-9473-4200cdbc869c",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Remisi sebagaimana dimaksud pada ayat (1) dapat\ndiberikan kepada Narapidana dan Anak Pidana\nyang telah memenuhi syarat:\na. berkelakuan baik; dan\nb. telah menjalani masa pidana lebih dari 6 (enam)\nbulan."
+                        },
+                        {
+                            "id": "24c3e458-91c6-47d4-bbc4-8576efceae4e",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Persyaratan berkelakuan baik sebagaimana\ndimaksud pada ayat (2) huruf a dibuktikan dengan:\na. tidak sedang menjalani hukuman disiplin\ndalam kurun waktu 6 (enam) bulan terakhir,\nterhitung sebelum tanggal pemberian Remisi;\ndan\nb. telah mengikuti program pembinaan yang\ndiselenggarakan oleh LAPAS dengan predikat\nbaik."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "ab5c8bb8-6980-4f66-9c79-30cf67e3d9dd",
+                    "name": "Article 34A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6f1b95ac-5d9e-4951-a91b-6f7dbfe6e4c4",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pemberian Remisi bagi Narapidana yang dipidana\nkarena melakukan tindak pidana terorisme,\nnarkotika dan prekursor narkotika, psikotropika,\nkorupsi, kejahatan terhadap keamanan negara,\nkejahatan hak asasi manusia yang berat, serta\nkejahatan transnasional terorganisasi lainnya, selain\nharus memenuhi persyaratan sebagaimana\ndimaksud dalam Pasal 34 juga harus memenuhi\npersyaratan:\na. bersedia . . .\na. bersedia bekerjasama dengan penegak hukum\nuntuk membantu membongkar perkara tindak\npidana yang dilakukannya;\nb. telah membayar lunas denda dan uang pengganti\nsesuai dengan putusan pengadilan untuk\nNarapidana yang dipidana karena melakukan\ntindak pidana korupsi; dan\nc. telah mengikuti program deradikalisasi yang\ndiselenggarakan oleh LAPAS dan/atau Badan\nNasional Penanggulangan Terorisme, serta\nmenyatakan ikrar:\n1) kesetiaan kepada Negara Kesatuan Republik\nIndonesia secara tertulis bagi Narapidana\nWarga Negara Indonesia, atau\n2) tidak akan mengulangi perbuatan tindak\npidana terorisme secara tertulis bagi\nNarapidana Warga Negara Asing,\nyang dipidana karena melakukan tindak pidana\nterorisme."
+                        },
+                        {
+                            "id": "6f25d388-5c84-4135-b32e-88cfc4b05482",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Narapidana yang dipidana karena melakukan tindak\npidana narkotika dan prekursor narkotika,\npsikotropika sebagaimana dimaksud pada ayat (1)\nhanya berlaku terhadap Narapidana yang dipidana\ndengan pidana penjara paling singkat 5 (lima)\ntahun."
+                        },
+                        {
+                            "id": "ea7bbaee-56f5-44e4-befc-682115f32f59",
+                            "explanation": "\nYang dimaksud dengan \"instansi penegak hukum\" adalah instansi yang menangani kasus terkait, antara lain:\na. Komisi Pemberantasan Korupsi;\nb. Kepolisian Negara Republik Indonesia;\nc. Kejaksaan Republik Indonesia;\nd. Badan Narkotika Nasional.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Kesediaan untuk bekerjasama sebagaimana\ndimaksud pada ayat (1) huruf a harus dinyatakan\nsecara tertulis dan ditetapkan oleh instansi penegak\nhukum sesuai dengan ketentuan peraturan\nperundang-undangan.\n3. Di antara . . ."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "b0a3b642-2371-48a1-a005-2f79c2a6bcd4",
+                    "name": "Article 34B",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "00940df9-3e76-4824-9682-93209f9488cb",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " diberikan oleh Menteri."
+                        },
+                        {
+                            "id": "0fa61b02-cea7-4229-984a-1e9f6cdd59fc",
+                            "explanation": "\nYang dimaksud dengan “menteri terkait” adalah menteri yang membidangi koordinasi urusan politik, hukum, dan keamanan.\nYang dimaksud dengan “pimpinan lembaga terkait” antara lain Kepala Kepolisian Negara Republik Indonesia, Jaksa Agung Republik Indonesia, Kepala Badan Nasional Penanggulangan Terorisme.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Narapidana sebagaimana dimaksud pada ayat (1)\nterdiri atas Narapidana yang:\na. dipidana dengan masa pidana paling lama 1\n(satu) tahun;\nb. berusia di atas 70 (tujuh puluh) tahun; atau\nc. menderita sakit berkepanjangan."
+                        },
+                        {
+                            "id": "4e6fcd38-2e7e-461c-b477-485f513efe2f",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Menteri dalam memberikan Remisi sebagaimana\ndimaksud pada ayat (1) setelah mempertimbangkan\nkepentingan umum, keamanan, dan rasa keadilan\nmasyarakat."
+                        },
+                        {
+                            "id": "afbe8547-ad1d-4cda-be38-d547099808a6",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Pemberian Remisi ditetapkan dengan Keputusan\nMenteri. Pasal 34C (1) Menteri dapat memberikan Remisi kepada Anak\nPidana dan Narapidana selain Narapidana yang\ndipidana karena melakukan tindak pidana\nsebagaimana dimaksud dalam Pasal 34A ayat (1)."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "5b8482f5-bf55-40ef-8721-38bbec121598",
+                    "name": "Article 36",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a121de4d-78a4-479c-b25c-8788b9f52641",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Setiap Narapidana dan Anak Didik Pemasyarakatan\nberhak mendapatkan Asimilasi."
+                        },
+                        {
+                            "id": "69316f5d-465c-44ef-ab28-cc31798c6138",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Asimilasi sebagaimana dimaksud pada ayat (1)\ndiberikan kepada:\na. Narapidana dan Anak Pidana yang telah\nmemenuhi persyaratan:\n1. berkelakuan baik:\n2. aktif mengikuti program pembinaan dengan\nbaik; dan\n3. telah menjalani 1/2 (satu per dua) masa\npidana.\nb. Anak Negara dan Anak Sipil, setelah menjalani\nmasa pendidikan di LAPAS Anak selama 6 (enam)\nbulan pertama.\nc. Narapidana yang dipidana karena melakukan\ntindak pidana sebagaimana dimaksud dalam\nPasal 34A ayat (1), setelah memenuhi\npersyaratan:\n1. berkelakuan baik;\n2. aktif mengikuti program pembinaan dengan\nbaik; dan\n3. telah menjalani 2/3 (dua per tiga) masa\npidana."
+                        },
+                        {
+                            "id": "27ff06bc-ee78-4497-b9cb-b8f8dcf464a1",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Asimilasi sewaktu-waktu dapat dicabut apabila\nNarapidana atau Anak Didik Pemasyarakatan\nmelanggar persyaratan Asimilasi sebagaimana\ndimaksud pada ayat (2)."
+                        },
+                        {
+                            "id": "0083b16e-1f14-4d7e-b634-d3785f3cdc1b",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Pemberian dan pencabutan Asimilasi sebagaimana\ndimaksud pada ayat (2) dan ayat (3) ditetapkan\ndengan Keputusan Menteri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "7941adf5-d711-40fe-a140-afba9cb3884b",
+                    "name": "Article 36A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "19971387-4902-4ed2-a7f0-795aa22228df",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Asimilasi bagi Narapidana yang dipidana\nsebagaimana dimaksud dalam Pasal 34A ayat (1)\ndiberikan oleh Menteri setelah mendapat\npertimbangan dari Direktur Jenderal\nPemasyarakatan."
+                        },
+                        {
+                            "id": "99903510-b4bb-4906-947c-dcc19dfb8eed",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Direktur Jenderal Pemasyarakatan dalam\nmemberikan pertimbangan sebagaimana dimaksud\npada ayat (1) wajib memperhatikan kepentingan\nkeamanan, ketertiban umum, dan rasa keadilan\nmasyarakat."
+                        },
+                        {
+                            "id": "80f7c263-79e7-4db5-bafb-2eed2de162e1",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Direktur Jenderal Pemasyarakatan dalam\nmemberikan pertimbangan sebagaimana dimaksud\npada ayat (2) wajib meminta rekomendasi dari\ninstansi terkait, yakni:\nA. Kepolisian Negara Republik Indonesia, Badan\nNasional Penanggulangan Terorisme, dan/atau\nKejaksaan Agung dalam hal Narapidana dipidana\nkarena melakukan tindak pidana terorisme,\nkejahatan terhadap keamanan negara, kejahatan\nhak asasi manusia yang berat, dan/atau\nkejahatan transnasional terorganisasi lainnya;\n\nb. Kepolisian Negara Republik Indonesia, Badan\nNarkotika Nasional, dan/atau Kejaksaan Agung\ndalam hal Narapidana dipidana karena\nmelakukan tindak pidana narkotika dan\nprekursor narkotika, psikotropika; dan\nc. Kepolisian Negara Republik Indonesia, Kejaksaan\nAgung, dan/atau Komisi Pemberantasan Korupsi\ndalam hal Narapidana dipidana karena\nmelakukan tindak pidana korupsi."
+                        },
+                        {
+                            "id": "bac8d751-4ff1-4730-97fe-8279f2e64a7c",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Rekomendasi sebagaimana dimaksud pada ayat (3)\ndisampaikan secara tertulis oleh instansi terkait\ndalam jangka waktu paling lama 12 (dua belas) hari\nkerja sejak diterimanya permintaan rekomendasi dari\nDirektur Jenderal Pemasyarakatan."
+                        },
+                        {
+                            "id": "a323a5b0-4081-4bf1-98ad-10196efec272",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Dalam hal batas waktu sebagaimana dimaksud pada\nayat (4) instansi terkait tidak menyampaikan\nrekomendasi secara tertulis, Direktur Jenderal\nPemasyarakatan menyampaikan pertimbangan\nAsimilasi kepada Menteri."
+                        },
+                        {
+                            "id": "e87d8214-fdfd-4621-8bab-c39abf9522ff",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Ketentuan mengenai tata cara pemberian\npertimbangan Asimilasi sebagaimana dimaksud\npada ayat (3) diatur dengan Peraturan Menteri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "6ee0bc58-3072-4ee7-b6a6-4d78368fb566",
+                    "name": "Article 38A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "7c871af9-fcd8-4de0-b350-d0ca36fe39ca",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Asimilasi untuk Narapidana yang dipidana karena\nmelakukan tindak pidana sebagaimana dimaksud\ndalam Pasal 34A ayat (1), diberikan dalam bentuk\nkerja sosial pada lembaga sosial."
+                        },
+                        {
+                            "id": "269a1961-b948-40af-8be6-a7ff8757ad44",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Narapidana yang dipidana karena melakukan tindak\npidana terorisme, Asimilasi sebagaimana dimaksud\npada ayat (1) diberikan setelah:\na. selesai mengikuti program deradikalisasi yang\ndiselenggarakan oleh LAPAS dan/atau Badan\nNasional Penanggulangan Terorisme, dan\nb. menyatakan ikrar:\n1) kesetiaan kepada Negara Kesatuan Republik\nIndonesia secara tertulis bagi Narapidana\nWarga Negara Indonesia, atau\n2) tidak akan mengulangi perbuatan tindak\npidana terorisme secara tertulis bagi\nNarapidana Warga Negara Asing."
+                        },
+                        {
+                            "id": "7e159eee-5ba4-4bd4-9cf0-78427a493087",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai bentuk kerja sosial,\njenis lembaga sosial, dan tata cara pelaksanaan\nAsimilasi sebagaimana dimaksud pada ayat (1)\ndiatur dengan Peraturan Menteri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "be2f6b0f-9401-40c4-ac62-815325a1c563",
+                    "name": "Article 39",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "afd466ed-d7db-46a0-9102-89a5bd04572c",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nDalam hal Asimilasi untuk Narapidana dan Anak Didik\nPemasyarakatan dicabut karena melanggar ketentuan\nAsimilasi, maka:\na. terhadap Narapidana dan Anak Pidana, untuk tahun\npertama setelah dilakukan pencabutan tidak dapat\ndiberikan Remisi, Asimilasi, Pembebasan Bersyarat,\nCuti Menjelang Bebas, dan Cuti Mengunjungi\nKeluarga;\nb. dalam . . .\nb. dalam hal Narapidana dan Anak Pidana yang\ndicabut asimilasinya untuk kedua kalinya, yang\nbersangkutan tidak diberikan hak Asimilasi,\nPembebasan Bersyarat, Cuti Menjelang Bebas, dan\nCuti Mengunjungi Keluarga;\nc. terhadap Anak Negara dan Anak Sipil, untuk 6\n(enam) bulan pertama setelah dilakukan pencabutan\nasimilasinya tidak dapat mengikuti kegiatan\nAsimilasi."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "7838a090-2910-4e31-ab22-e7284ebc68a3",
+                    "name": "Article 43",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e0498213-73b1-43ce-93db-1069fbef55c5",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Setiap Narapidana dan Anak Didik Pemasyarakatan\nkecuali Anak Sipil, berhak\nPembebasan Bersyarat.\nmendapatkan"
+                        },
+                        {
+                            "id": "235dfd31-8817-4930-853d-083166b9e172",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pembebasan Bersyarat sebagaimana dimaksud pada\nayat (1) diberikan dengan syarat:\na. telah menjalani masa pidana paling singkat 2/3\n(dua per tiga) dengan ketentuan 2/3 (dua per\ntiga) masa pidana tersebut paling sedikit 9\n(sembilan) bulan;\nb. berkelakuan baik selama menjalani masa pidana\npaling singkat 9 (sembilan) bulan terakhir\ndihitung sebelum tanggal 2/3 (dua per tiga) masa\npidana;\nc. telah . . .\nc. telah mengikuti program pembinaan dengan\nbaik, tekun, dan bersemangat; dan\nd. masyarakat dapat menerima program kegiatan\npembinaan Narapidana."
+                        },
+                        {
+                            "id": "514dcd28-a27e-423a-829d-f318ad94ee70",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Pembebasan Bersyarat bagi Anak Negara diberikan\nsetelah menjalani pembinaan paling sedikit 1 (satu)\ntahun."
+                        },
+                        {
+                            "id": "e37db8c3-08d6-498d-a144-b2277806f350",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Pemberian Pembebasan Bersyarat ditetapkan\ndengan Keputusan Menteri."
+                        },
+                        {
+                            "id": "7e4a4256-8f1a-4d6e-a28e-fed6ccbc6a6b",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Pembebasan Bersyarat dicabut jika Narapidana atau\nAnak Didik Pemasyarakatan melanggar persyaratan\nPembebasan Bersyarat sebagaimana dimaksud pada\nayat (2)."
+                        },
+                        {
+                            "id": "e3385fda-fd2e-4a46-95df-066caf2b328a",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Ketentuan mengenai pencabutan Pembebasan\nBersyarat sebagaimana dimaksud pada ayat (5)\ndiatur dalam Peraturan Menteri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "6c0fa789-3658-483d-94e5-891f21617d09",
+                    "name": "Article 43A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "d7864bbf-8518-40f0-afa2-a6adfe8ce83a",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pembebasan Bersyarat sebagaimana dimaksud\ndalam Pasal 43A ayat (1) diberikan oleh Menteri\nsetelah mendapatkan pertimbangan dari Direktur\nJenderal Pemasyarakatan."
+                        },
+                        {
+                            "id": "5c70979f-d911-4cb2-b5cb-cba00c518d8d",
+                            "explanation": "\nCukup jelas.",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Direktur Jenderal Pemasyarakatan dalam\nmemberikan pertimbangan sebagaimana dimaksud\npada ayat (1) wajib memperhatikan kepentingan\nkeamanan, ketertiban umum, dan rasa keadilan\nmasyarakat."
+                        },
+                        {
+                            "id": "29f057df-b760-49ff-9ac6-a9f79f7de6b7",
+                            "explanation": "\nYang dimaksud dengan \"instansi penegak hukum\" adalah\ninstansi yang menangani kasus terkait, antara lain:\na. Komisi Pemberantasan Korupsi;\nb. Kepolisian Negara Republik Indonesia;\nc. Kejaksaan Republik Indonesia;\nd. Badan Narkotika Nasional.",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Direktur Jenderal Pemasyarakatan dalam\nmemberikan pertimbangan sebagaimana dimaksud\npada ayat (2) wajib meminta rekomendasi dari\ninstansi terkait, yakni:\na. Kepolisian Negara Republik Indonesia, Badan\nNasional Penanggulangan Terorisme, dan/atau\nKejaksaan Agung dalam hal Narapidana dipidana\nkarena melakukan tindak pidana terorisme,\nkejahatan terhadap keamanan negara, kejahatan\nhak asasi manusia yang berat, dan/atau\nkejahatan transnasional terorganisasi lainnya;\nb. Kepolisian Negara Republik Indonesia, Badan\nNarkotika Nasional, dan/atau Kejaksaan Agung\ndalam hal Narapidana dipidana karena\nmelakukan tindak pidana narkotika dan\nprekursor narkotika, psikotropika; dan\nc. Kepolisian Negara Republik Indonesia, Kejaksaan\nAgung, dan/atau Komisi Pemberantasan Korupsi\ndalam hal Narapidana dipidana karena\nmelakukan tindak pidana korupsi."
+                        },
+                        {
+                            "id": "7d5b41dd-e110-49bf-819b-920d0830fe26",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Rekomendasi sebagaimana dimaksud pada ayat (3)\ndisampaikan secara tertulis oleh instansi terkait\ndalam jangka waktu paling lama 12 (dua belas) hari\nkerja sejak diterimanya permintaan rekomendasi dari\nDirektur Jenderal Pemasyarakatan."
+                        },
+                        {
+                            "id": "f9cb576e-672f-4815-8090-5d2a21f97d05",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Dalam hal batas waktu sebagaimana dimaksud pada\nayat (4) instansi terkait tidak menyampaikan\nrekomendasi secara tertulis, Direktur Jenderal\nPemasyarakatan menyampaikan pertimbangan\nPembebasan Bersyarat kepada Menteri."
+                        },
+                        {
+                            "id": "2592fe23-f0bd-41e6-b932-da96bfe37b03",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Ketentuan mengenai tata cara pemberian\nPembebasan Bersyarat sebagaimana dimaksud pada\nayat (3) diatur dengan Peraturan Menteri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "1ba6ad99-1534-4e66-bdba-50fb4ddbbe30",
+                    "name": "Article 54A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "fa020157-7e61-423b-8b50-faedca689517",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPada saat Peraturan Pemerintah ini mulai berlaku,\nsemua peraturan perundang-undangan yang\nmerupakan pelaksanaan dari Peraturan Pemerintah\nNomor 32 Tahun 1999 tentang Syarat dan Tata Cara\nPelaksanaan Hak Warga Binaan Pemasyarakatan\nsebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 28 Tahun 2006 tentang Perubahan\natas Peraturan Pemerintah Nomor 32 Tahun 1999\ntentang Syarat dan Tata Cara Pelaksanaan Hak Warga\nBinaan Pemasyarakatan, dinyatakan masih tetap\nberlaku sepanjang tidak bertentangan atau belum\ndiganti dengan yang baru berdasarkan Peraturan\nPemerintah ini."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "d756a6a4-74ee-4d57-ab35-284a4b2f3c11",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "723a9ae0-92d4-436f-b07b-f2f399cfca03",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar . . .\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nTindak pidana terorisme, narkotika dan prekursor narkotika,\npsikotropika, korupsi, kejahatan terhadap keamanan negara, kejahatan\nhak asasi manusia yang berat, serta kejahatan transnasional terorganisasi\nlainnya merupakan kejahatan luar biasa, oleh karena itu perlu\nmemperbaiki syarat dan tata cara pemberian Remisi, Asimilasi, dan\nPembebasan Bersyarat terhadap Narapidana yang sedang menjalani\nhukuman karena melakukan tindak pidana tersebut.\nKetentuan mengenai syarat dan tata cara pemberian Remisi,\nAsimilasi, dan Pembebasan Bersyarat yang diatur dalam Peraturan\nPemerintah Nomor 32 Tahun 1999 tentang Syarat dan Tata Cara\nPelaksanaan Hak Warga Binaan Pemasyarakatan sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 28 Tahun 2006 tentang\nPerubahan atas Peraturan Pemerintah Nomor 32 Tahun 1999 tentang\nSyarat dan Tata Cara Pelaksanaan Hak Warga Binaan\nPemasyarakatan, dipandang belum mencerminkan seutuhnya\nkepentingan keamanan, ketertiban umum, dan rasa keadilan yang\ndirasakan oleh masyarakat dewasa ini, sehingga perlu diubah.\nUndang-Undang Nomor 3 Tahun 1997 tentang Pengadilan Anak\nmasih menjadi dasar hukum dalam Peraturan Pemerintah ini\nmengingat Undang-Undang Nomor 11 Tahun 2012 tentang Sistem\nPeradilan Pidana Anak secara efektif mulai berlaku 2 (dua) tahun\nsetelah diundangkan, yaitu 30 Juli 2014.\nBerdasarkan\nBerdasarkan pertimbangan tersebut, perlu menetapkan Peraturan Pemerintah tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 32 Tahun 1999 tentang Syarat dan Tata Cara Pelaksanaan Hak Warga Binaan Pemasyarakatan.",
+        "Nomor": "99",
+        "Tahun": "2012",
+        "Tentang": "PERUBAHAN KEDUA ATAS\nPERATURAN PEMERINTAH NOMOR 32 TAHUN 1999\nTENTANG SYARAT DAN TATA CARA PELAKSANAAN HAK WARGA\nBINAAN PEMASYARAKATAN",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa tindak pidana terorisme, narkotika dan\nprekursor narkotika, psikotropika, korupsi, kejahatan\nterhadap keamanan negara dan kejahatan hak asasi\nmanusia yang berat, serta kejahatan transnasional\nterorganisasi lainnya merupakan kejahatan luar biasa\nkarena mengakibatkan kerugian yang besar bagi\nnegara atau masyarakat atau korban yang banyak\natau menimbulkan kepanikan, kecemasan, atau\nketakutan yang luar biasa kepada masyarakat;",
+            "b": " bahwa pemberian Remisi, Asimilasi, dan Pembebasan\nBersyarat bagi pelaku tindak pidana terorisme,\nnarkotika dan prekursor narkotika, psikotropika,\nkorupsi, kejahatan terhadap keamanan negara dan\nkejahatan hak asasi manusia yang berat, serta\nkejahatan transnasional terorganisasi lainnya perlu\ndiperketat syarat dan tata caranya untuk memenuhi\nrasa keadilan masyarakat;",
+            "c": " bahwa ketentuan mengenai syarat dan tata cara\npemberian Remisi, Asimilasi, dan Pembebasan\nBersyarat yang diatur dalam Peraturan Pemerintah\nNomor 32 Tahun 1999 tentang Syarat dan Tata\nCara Pelaksanaan Hak Warga Binaan\nPemasyarakatan sebagaimana telah diubah dengan\nPeraturan Pemerintah Nomor 28 Tahun 2006 tentang\nPerubahan atas Peraturan Pemerintah Nomor 32\nTahun 1999 tentang Syarat dan Tata Cara\nPelaksanaan Hak Warga Binaan Pemasyarakatan,\nbelum mencerminkan seutuhnya kepentingan\nkeamanan, ketertiban umum, dan rasa keadilan\nyang dirasakan oleh masyarakat dewasa ini,\nsehingga perlu diubah;",
+            "d": " bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, dan huruf c.\nperlu menetapkan Peraturan Pemerintah tentang\nPerubahan Kedua atas Peraturan Pemerintah Nomor\n32 Tahun 1999 tentang Syarat dan Tata Cara\nPelaksanaan Hak Warga Binaan Pemasyarakatan;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 12 Tahun 1995 tentang\nPemasyarakatan (Lembaran Negara Republik\nIndonesia Tahun 1995 Nomor 77, Tambahan\nLembaran Negara Republik Indonesia Nomor\n3614);",
+            "3": " Undang-Undang Nomor 3 Tahun 1997 tentang\nPengadilan Anak (Lembaran Negara Republik\nIndonesia Tahun 1997 Nomor 3, Tambahan\nLembaran Negara Republik Indonesia Nomor\n3668);",
+            "4": " Peraturan Pemerintah Nomor 32 Tahun 1999\ntentang Syarat dan Tata Cara Pelaksanaan Hak\nWarga Binaan Pemasyarakatan (Lembaran Negara\nRepublik Indonesia Tahun 1999 Nomor 69,\nTambahan Lembaran Negara Republik Indonesia\nNomor 3846);",
+            "5": " Peraturan Pemerintah Nomor 28 Tahun 2006\ntentang Perubahan atas Peraturan Pemerintah\nNomor 32 Tahun 1999 tentang Syarat dan Tata\nCara Pelaksanaan Hak Warga Binaan\nPemasyarakatan (Lembaran Negara Republik\nIndonesia Tahun 2006 Nomor 61, Tambahan\nLembaran Negara Republik Indonesia Nomor\n4632);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN KEDUA\nATAS PERATURAN PEMERINTAH NOMOR 32 TAHUN 1999\nTENTANG SYARAT DAN TATA CARA PELAKSANAAN HAK\nWARGA BINAAN PEMASYARAKATAN.",
+        "tanggal sah": "12 November 2012"
+    }
+}

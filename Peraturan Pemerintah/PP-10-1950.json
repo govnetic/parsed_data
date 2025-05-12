@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "e80b0bec-125b-483a-9da7-f70d5eb0c171",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "8e24e2f6-971d-4d56-a0ab-f097eec1128a",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Devisen (Staatsblad Indonesia 1940 No. 291) yang telah diubah terakhir dengan Staatsblad Indonesia Tahun 1948 No. 6 diubah sebagai berikut:\nPasal 26 ayat 1 dibaca :\n\"1. Impor barang-barang ke dalam Republik Indonesia Serikat, kecuali dengan pembebasan oleh atau atas nama Pemerintah Republik Indonesia Serikat, hanya diperkenankan dengan memperlihatkan surat-keterangan umum atau khusus yang dibelikan oleh atau atas nama Pemerintah Republik Indonesia Serikat yang menyatakan, bahwa, atas pertimbangan pembesar tersebut, impor ini tidak akan merugikan keadaan devisen Republik Indonesia Serikat ataupun tidak bertentangan dengan tujuan ordonansi, juga dengan menyerahkan dokumen-dokumen lain yang ditunjuk oleh atau atas nama Pemerintah Republik Indonesia Serikat yang menyatakan, bahwa telah dipenuhi aturan-aturan yang telah ditetapkan bagi mencapai tujuan ordonansi ini\".",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "61fe74cc-a273-4c9e-b910-a61f32e1ddf4",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "db53b5a4-fa67-4b2b-b75a-a500b7a84352",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diumumkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengumuman Peraturan Pemerintah ini dengan penempatan dalam Lembaran Negara Republik Indonesia Serikat.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "10",
+        "Tahun": "1950",
+        "Tentang": "MENGUBAH PERATURAN-DEVISEN",
+        "Menimbang": {
+            "Introduction": "\nBahwa untuk melaksanakan Ordonansi Devisen (Staatsblad Indonesia 1940 No. 205), seperti yang kemudian telah ditambah dan diubah, terakhir dengan Staatsblad Indonesia 1948 No. 141, perlu mengubah Peraturan Devisen (Staatsblad Indonesia 1940 No. 291);"
+        },
+        "Mengingat": {
+            "Introduction": "\nOrdonansi Devisen tersebut (Staatsblad Indonesia 1940 No. 205);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH UNTUK MENGUBAH PERATURAN DEVISEN (STAATSBLAD 1940 NO. 291).",
+        "tanggal sah": "20 Mei 1950"
+    }
+}

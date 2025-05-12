@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "7deb037b-a986-4ca4-bd33-897285acd9c1",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "920d7af4-8093-439d-ac38-6756b03d013e",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Kepada para Hakim tiap-tiap bulan diberikan tunjangan jabatan\nsebanyak jumlah untuk masing-masing jabatan seperti tersebut di\nbawah ini:\n\nb. Ketua Muda Mahkamah Agung... Rp. 225,-\nc. 1. Ketua Pengadilan tinggi Rp. 200,-\n   2. Hakim Anggota Mahkamah Agung)... Rp. 200,-\nd. 1. Kepala Pengadilan Negeri 1\n   2. Hakim Anggota Pengadilan Tinggi.. Rp. 175,-\n   3. Kepala Pengadilan Negeri Jakarta\ne. 1. Hakim Tingkat I\n   2. Kepala Pengadilan Negeri II..... Rp. 150,-\n   3. Kepala Pengadilan Negeri III\nf. 1. Hakim Tingkat 2\n   2. Kepala Pengadilan Negeri IV...... Rp. 125,-\ng. Hakim yang telah menjabat pangkat sekurang-\n\nh. Hakim yang baru diangkat........ Rp. 75,-\ni. Pegawai yang menjalankan tugas Hakim.. Rp. 50,-",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "48cd3eb2-8c3d-4a0c-ba04-0c8d48d695e9",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "86f612db-39ff-465f-996b-eb9bb0cfc941",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan\ndan berlaku surut hingga tanggal 1 Januari 1956.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "10",
+        "Tahun": "1956",
+        "Tentang": "PEMBERIAN TUNJANGAN JABATAN KEPADA PARA HAKIM REPUBLIK INDONESIA",
+        "Menimbang": {
+            "Introduction": "\nbahwa kedudukan dan sifat pekerjaan Hakim dipandang mempunyai\nkewajiban kemasyarakatan, serta politis ada sangkut-pautnya dengan\nkedudukan Negara sehingga oleh karenanya dapat diberikan tunjangan\njabatan"
+        },
+        "Mengingat": {
+            "Introduction": "\npasal 119 ayat 1 Undang-undang Dasar Sementara Republik Indonesia\ndan pasal 21 ayat 1 P.G.P.N. 1955 (Peraturan Pemerintah No. 23 dan\nNo. 32 tahun 1955, Lembaran-Negara tahun 1955 No. 48 dan No. 75);\nMendengar\nDewan Menteri dalam rapatnya yang ke-54 pada tanggal 28 Pebruari\n1956;"
+        },
+        "Menetapkan": "\nPeraturan tentang pemberian tunjangan jabatan kepada\npara Hakim, sebagai berikut",
+        "tanggal sah": "1 Januari 1956"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "results": [
+        {
+            "id": "ece25e04-1ad9-4661-9d37-21ba17379fa2",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "403a1588-8775-427d-a7a5-b6a61e2468e2",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "e9ad1095-b0db-41ad-a5d6-972e4e5e72f6",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "451ff2bc-91f6-4233-8539-30007e367ea0",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "897b77d1-189b-4667-bd47-6cfe88dbb086",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "3428c46d-48b6-4056-9f65-09be6daec6e6",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "217a3c54-62a3-47d2-a79c-9bd37819d4fe",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "cf215cd5-07bc-40a5-a987-9685fb5682d5",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "491af053-6809-4d34-a7fe-1e52e5eca8cc",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "004a77d4-55d6-4f06-93b5-fbd522f8b687",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "10",
+        "Tahun": "2005",
+        "Tentang": "PENGHITUNGAN JUMLAH HAK SUARA KREDITOR",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 87 ayat (3) Undang-Undang\nNomor 37 Tahun 2004 tentang Kepailitan dan Penundaan Kewajiban\nPembayaran Utang dipandang perlu menetapkan Peraturan Pemerintah\ntentang Penghitungan Jumlah Hak Suara Kreditor;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia\nTahun 1945;",
+            "2": " Undang-Undang Nomor 37 Tahun 2004 tentang Kepailitan dan\nPenundaan Kewajiban Pembayaran Utang (Lembaran Negara\nRepublik Indonesia Tahun 2004 Nomor 131, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4443);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENGHITUNGAN\nJUMLAH HAK SUARA KREDITOR.",
+        "tanggal sah": ""
+    }
+}

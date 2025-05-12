@@ -1,28 +1,28 @@
 {
     "results": [
         {
-            "id": "1f04428f-af61-41ee-8c87-1ec34fcc4f87",
+            "id": "df8847d0-9732-40c0-98d0-52514aaf8fed",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "9cba1c45-1d82-4153-8fb4-f48fc7ff2a3b",
+                "id": "b51786f1-0983-4d5f-acc9-7f3908c8ce81",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Diadakan penjabat Sekretaris pada :\na. Kementerian Pekerjaan Umum & Tenaga;\nb. Kementerian Perburuhan.",
+                "content": "Diadakan penjabat Sekretaris pada:\na. Kementerian Pekerjaan Umum & Tenaga;\nb. Kementerian Perburuhan.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "efd1ca8d-482a-422c-b924-1bd874f1f6a4",
+            "id": "4dc40084-bbc3-452b-9a68-f40f2f81de9a",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "cfb3dce7-012d-43c5-aa51-299ed2bd5481",
+                "id": "07f2507c-409e-44b6-8b26-3fdd744faa4e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari\n1956.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran-Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari 1956.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran-Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

@@ -1,0 +1,72 @@
+{
+    "results": [
+        {
+            "id": "cb8a42f6-a945-4093-8a17-8ecc219cfcad",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "96a1cfd2-d2b6-4dbb-a462-0375c372f14d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "dc819afb-6998-4d70-9bf3-20e9c2d5e68a",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "2dec76fe-cd4e-4c4f-8f06-1606c45ae567",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "1298aa2a-6e0e-401a-9bb2-2ed90d2d2ff6",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "b4c53b67-a7a1-4603-9994-bddd268cd8c7",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Yang dimaksud dengan Kas Negara adalah sebagaimana dimaksud dalam\nUndang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara Bukan Pajak.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "15177928-1aac-438b-8133-895a18228301",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "96d50091-6a32-46b6-8bb7-5dd9602c61ad",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "10",
+        "Tahun": "2002",
+        "Tentang": "TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK\nYANG BERLAKU\nPADA KANTOR MENTERI NEGARA LINGKUNGAN HIDUP\nDI BIDANG PENGENDALIAN DAMPAK LINGKUNGAN",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk melaksanakan ketentuan Undang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara Bukan Pajak, dipandang perlu untuk menetapkan Peraturan Pemerintah tentang Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kantor Menteri Negara Lingkungan Hidup di Bidang Pengendalian Dampak Lingkungan;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945 sebagaimana telah diubah dengan Perubahan Ketiga Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara Bukan Pajak (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 43, Tambahan Lembaran Negara Nomor 3687);",
+            "3": " Peraturan Pemerintah Nomor 22 Tahun 1997 tentang Jenis dan Penyetoran Penerimaan Negara Bukan Pajak (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 57, Tambahan Lembaran Negara Nomor 3694) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 52 Tahun 1998 (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 85, Tambahan Lembaran Negara Nomor 3760);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA KANTOR MENTERI NEGARA LINGKUNGAN HIDUP DI BIDANG PENGENDALIAN DAMPAK LINGKUNGAN.",
+        "tanggal sah": "17 APRIL 2002"
+    }
+}

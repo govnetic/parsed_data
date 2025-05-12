@@ -1,0 +1,638 @@
+{
+    "results": [
+        {
+            "id": "a5603c10-5c99-43bc-8669-f29120c9f55e",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "e5d269e5-e5bc-4d0d-832d-84930381cccb",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "5cb82e14-7f28-4b82-9b9f-7d1522daa489",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\na. Daftar Penilaian Pelaksanaan Pekerjaan Pegawai Negeri Sipil, yang selanjutnya\ndalam Peraturan Pemerintah ini disebut Daftar Penilaian Pelaksanaan Pekerjaan,\nadalah suatu daftar yang memuat hasil penilaian pelaksanaan pekerjaan seorang\nPegawai Negeri Sipil dalam jangka waktu 1 (satu) tahun yang dibuat oleh Pejabat\nPenilai;\nb. Pejabat\nb.  Pejabat Penilai adalah atasan langsung Pegawai Negeri Sipil yang dinilai, dengan\nketentuan serendah-rendahnya Kepala Urusan atau pejabat lain yang setingkat\ndengan itu, kecuali ditentukan lain oleh Menteri, Jaksa Agung, Pimpinan\nKesekretariatan Lembaga Tertinggi/Tinggi Negara, Pimpinan Lembaga Pemerintah\nNon Departemen, dan Gubernur Kepala Daerah Tingkat I dalam lingkungannya\nmasing-masing;\nc.  Atasan Pejabat Penilai adalah atasan langsung dari Pejabat Penilai.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "91c9cf2f-df24-4797-9c24-a3d4430076cc",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": {
+                        "id": "50454963-0e47-440b-aed8-a5c527be82ea",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nTujuan dari Daftar Penilaian Pelaksanaan Pekerjaan, adalah untuk memperoleh bahan-\nbahan pertimbangan yang obyektif dalam pembinaan Pegawai Negeri Sipil.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "49b985dc-4eca-428b-8715-2fbe99542235",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "28be2486-1553-4a46-b3e4-58df9a4b6f7a",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nTerhadap setiap Pegawai Negeri Sipil, dilakukan penilaian pelaksanaan pekerjaan sekali\nsetahun oleh Pejabat Penilai.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aa7a5eca-1728-4286-b9c4-930f8b0dbc65",
+            "name": "Chapter II",
+            "title": "\nDAFTAR PENILAIAN PELAKSANAAN PEKERJAAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "4c9918d9-bd1b-482d-a287-4e9e2a1e5659",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a8d6ab78-d4a1-45a6-bfe2-83011c6704f9",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Hasil penilaian pelaksanaan pekerjaan Pegawai Negeri Sipil, dituangkan dalam\nDaftar Penilaian Pelaksanaan Pekerjaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "aed08935-59cc-439c-9092-258612607bf7",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Dalam Daftar Penilaian Pelaksanaan Pekerjaan unsur-unsur yang dinilai adalah :\na.  kesetiaan;\nb.  prestasi kerja;\nc.  tanggungjawab;\nd.  ketaatan;\ne.  kejujuran;\nf.  kerjasama;\ng.  prakarsa; dan\nh.  kepemimpinan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "f01e1e9e-e299-4ef4-8d35-63d027ca2c49",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Unsur kepemimpinan sebagaimana dimaksud dalam ayat (2) huruf h, hanya dinilai\nbagi Pegawai Negeri Sipil yang berpangkat Pengatur Muda golongan ruang II/a ke\natas yang memangku suatu jabatan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "935121d5-08be-403e-b883-607d84bc7dc8",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "885902db-5ca3-4b06-8585-0f57f683f71f",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Nilai pelaksanaan pekerjaan dinyatakan dengan sebutan dan angka sebagai berikut:\na.  amat baik = 91-100\nb.  baik = 76-90\n\nc. cukup = 61-75\nd. sedang = 51-60\ne. kurang = 50 ke bawah",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "f9ba75b9-271f-4f8e-840a-87f7e4868ec7",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Pedoman dalam memberikan nilai pelaksanaan pekerjaan Pegawai Negeri Sipil,\nadalah sebagai tersebut dalam Lampiran Peraturan Pemerintah ini.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "3d4d8ce1-9fff-4ad9-aa61-320bca8cc991",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "90e242a6-d5a3-4974-a362-07635f538c43",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDaftar Penilaian Pelaksanaan Pekerjaan adalah bersifat rahasia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "863768c6-c999-479a-a00b-6f73bd5dc1bf",
+            "name": "Chapter III",
+            "title": "\nPEJABAT PENILAI, ATASAN PEJABAT PENILAI, DAN TATACARA PENILAIAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "e49108cd-3f82-4129-997d-83e8e0045696",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "fa59ae31-54a9-4938-bc34-1f0a51da5105",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Pejabat Penilai wajib melakukan penilaian pelaksanaan pekerjaan terhadap\nPegawai Negeri Sipil yang berada dalam lingkungannya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "7f2fc2a8-14ab-48c2-a330-de4bab99eb53",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Penilaian pelaksanaan pekerjaan sebagaimana dimaksud dalam ayat (1), dilakukan\npada tiap-tiap akhir tahun.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "6fb60acd-cb74-4ee0-a8e5-7d4ab4e6cb71",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": {
+                        "id": "0a62e72d-fc37-42d5-a54f-8941a86b717f",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPejabat Penilai baru dapat melakukan penilaian pelaksanaan pekerjaan, apabila ia telah\nmembawahkan Pegawai Negeri Sipil yang bersangkutan sekurang-kurangnya 6 (enam)\nbulan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "2a7cf0d3-81d2-4b43-8475-ab41f18c100b",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "4c5d5edf-9488-4e92-8a96-2e1d200a05d2",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Daftar Penilaian Pelaksanaan Pekerjaan diberikan oleh Pejabat Penilai kepada\nPegawai Negeri Sipil yang dinilai.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "a0c0ff3b-020e-4021-8969-fd22fccb3595",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Apabila Pegawai Negeri Sipil yang dinilai berkeberatan atas nilai dalam Daftar\nPenilaian Pelaksanaan Pekerjaan, maka ia dapat mengajukan keberatan disertai\ndengan alasan-alasannya, kepada Atasan Pejabat Penilai melalui hierarki dalam\njangka waktu 14 (empat belas) hari sejak tanggal diterimanya Daftar Penilaian\nPelaksanaan Pekerjaan tersebut.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "61d15823-8be0-4713-b9f9-f4e8e7690df6",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Pegawai Negeri Sipil yang dinilai wajib mengembalikan Daftar Penilaian\nPelaksanaan Pekerjaan sebagaimana dimaksud dalam ayat (2) kepada Pejabat\nPenilai selambat-lambatnya dalam jangka waktu 14 (empat belas) hari sejak\ntanggal diterimanya Daftar Penilaian Pelaksanaan Pekerjaan tersebut.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "c2b672a8-6564-42ff-8873-7e0ae8a29d0f",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "91a89bff-56e9-4b27-9d44-8507cebcd8c3",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Pejabat Penilai menyampaikan Daftar Penilaian Pelaksanaan Pekerjaan kepada\nAtasan Pejabat Penilai dengan ketentuan sebagai berikut:\na. apabila tidak ada keberatan dari Pegawai Negeri Sipil yang dinilai, Daftar\nPenilaian Pelaksanaan Pekerjaan tersebut disampaikan tanpa catatan;\nb. apabila ada keberatan dari Pegawai Negeri Sipil yang dinilai, Daftar Penilaian\nPelaksanaan Pekerjaan tersebut disampaikan dengan catatan tentang\ntanggapan Pejabat Penilai atas keberatan yang diajukan oleh Pegawai Negeri\nSipil yang dinilai.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "c8dcd330-3bc8-4323-b18d-1ad584b9c090",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Atasan Pejabat Penilai memeriksa dengan saksama Daftar Penilaian Pelaksanaan\nPekerjaan yang disampaikan kepadanya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "b4fcc5b7-de35-4069-bec0-0e8518eb4a6e",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Apabila terdapat alasan-alasan yang cukup, Atasan Pejabat Penilai dapat\nmengadakan perubahan nilai yang tercantum dalam Daftar Penilaian Pelaksanaan\nPekerjaan sebagaimana dimaksud dalam ayat (2).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "ab45c7cb-3cc4-4596-84df-a83e13e606e0",
+                            "name": "Verse 4",
+                            "number": "(4)",
+                            "type": "verse",
+                            "content": " Daftar Penilaian Pelaksanaan Pekerjaan baru berlaku sesudah ada pengesahan dari\nAtasan Pejabat Penilai.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "b214873a-8477-4a23-8c5d-bb95ff13fa35",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": {
+                        "id": "bd6855cf-44c3-4d71-b3c6-8c53e1e5de08",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nMenteri, Jaksa Agung, Pimpinan Kesekretariatan Lembaga Tertinggi/Tinggi Negara,\nPimpinan Lembaga Pemerintah Non Departemen, dan Gubernur Kepala Daerah Tingkat I,\nadalah Pejabat Penilai dan atau Atasan Pejabat Penilai yang tertinggi dalam\nlingkungannya masing-masing.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1565c65f-c6ff-4f87-9d64-ed79e848137a",
+            "name": "Chapter IV",
+            "title": "\nKETENTUAN LAIN-LAIN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "6b3e4c50-d14e-465a-aab0-cff72716d098",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "338cb232-6715-46bf-b231-52399053511d",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Daftar Penilaian Pelaksanaan Pekerjaan bagi Pegawai Negeri Sipil yang diangkat\nmenjadi Pejabat Negara, dibuat oleh Pejabat Penilai dengan menggunakan bahan-\nbahan yang diberikan oleh pimpinan badan atau dewan tempat Pegawai Negeri\nSipil yang bersangkutan menjalankan tugasnya sebagai Pejabat Negara.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "512a0cb4-ea7e-40e7-9e2c-005a0049f6fa",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Khusus bagi Pegawai Negeri Sipil yang diangkat menjadi Anggota Dewan.\nPerwakilan Rakyat Republik Indonesia dan Dewan Perwakilan Rakyat Daerah,\nbahan-bahan penilaian pelaksanaan pekerjaan tersebut diberikan oleh Ketua Fraksi\nyang bersangkutan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "de6af31b-5ff1-4540-8cba-25bbaa03b002",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "cc2caec6-1573-4897-8a27-b93190f64056",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Daftar Penilaian Pelaksanaan Pekerjaan bagi Pegawai Negeri Sipil yang sedang menjalankan tugas belajar, dibuat oleh Pejabat Penilai dengan menggunakan bahan-bahan yang diberikan oleh pimpinan perguruan tinggi, sekolah, atau kursus yang bersangkutan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "4bfa1b0a-d616-49ce-8dcc-6d2a1d42ff8f",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Khusus bagi Pegawai Negeri Sipil yang menjalankan tugas belajar di luar negeri, bahan-bahan penilaian pelaksanaan pekerjaan tersebut diberikan oleh Kepala Perwakilan Republik Indonesia di Negara yang bersangkutan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "7907d1bd-ed57-47f0-8be0-4027edb79a1e",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": {
+                        "id": "102a8ff7-aacb-4689-99bb-26d885578503",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDaftar Penilaian Pelaksanaan Pekerjaan bagi Pegawai Negeri Sipil yang diperbantukan atau dipekerjakan pada Daerah Otonom atau instansi Pemerintah lainnya, dibuat oleh Pejabat Penilai dari Daerah Otonom atau instansi Pemerintah yang bersangkutan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "2e44046c-41bc-40f1-aca7-3618a407225e",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "4f34b451-7a24-47f7-88ec-430eb0ffd8a1",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Daftar Penilaian Pelaksanaan Pekerjaan bagi Pegawai Negeri Sipil yang diperbantukan atau dipekerjakan pada perusahaan milik Negara, organisasi profesi, badan swasta yang ditentukan, negara sahabat, atau badan internasional, dibuat oleh Pejabat Penilai dengan menggunakan bahan-bahan dari pimpinan perusahaan, organisasi, atau badan yang bersangkutan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "1df8dbdb-4027-4f36-9e1d-f615245e0249",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Khusus bagi Pegawai Negeri Sipil yang diperbantukan atau dipekerjakan pada negara sahabat atau badan internasional bahan-bahan penilaian pelaksanaan pekerjaan tersebut diberikan oleh Kepala Perwakilan Republik Indonesia di Negara yang bersangkutan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "25c0794d-3e4d-435f-af03-42b954c1e4c8",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": {
+                        "id": "5db27d30-1e94-4d5f-9311-c917316cbe98",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nHal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini diatur lebih lanjut dengan Keputusan Presiden.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "21a1b57a-181b-4421-9f62-ce37121ee73b",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": {
+                        "id": "fdf85cb8-2af6-45a9-a8fd-db178cde18dc",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKetentuan-ketentuan teknis tentang pelaksanaan Peraturan Pemerintah ini, ditetapkan lebih lanjut oleh Kepala Badan Administrasi Kepegawaian Negara.\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "4dfcfbb0-e3fa-40d1-b20b-9113617955ea",
+            "name": "Chapter V",
+            "title": "\nKETENTUAN PERALIHAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "751d4c51-ae17-4ca7-9573-4314062de0b0",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": {
+                        "id": "e5d5dd0f-03af-419a-bb31-ea025a9fe17b",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDaftar Penilaian Pelaksanaan Pekerjaan yang dibuat sebelum berlakunya Peraturan Pemerintah ini dianggap dibuat berdasarkan Peraturan Pemerintah ini.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "b1c84c58-61a6-40ea-bdf6-a8ce0b96877a",
+            "name": "Chapter VI",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "ba4808af-133f-4c7d-afa9-2c0748bbaae9",
+                    "name": "Article 19",
+                    "type": "article",
+                    "children": {
+                        "id": "305e5034-cafa-480b-a53d-7ce31b260e14",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDengan berlakunya Peraturan Pemerintah ini, maka Peraturan Pemerintah Nomor 10 Tahun 1952 tentang Daftar Pernyataan Kecakapan Pegawai Negeri (Lembaran Negara Tahun 1952 Nomor 155, Tambahan Lembaran Negara Nomor 201) dan segala peraturan perundang-undangan lainnya yang bertentangan dengan Peraturan Pemerintah ini dinyatakan tidak berlaku lagi.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "7ee64129-5093-4a2a-a269-5d078892d76b",
+                    "name": "Article 20",
+                    "type": "article",
+                    "children": {
+                        "id": "bc061cc8-85ef-4eab-b635-188c7b278438",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 15 Mei 1979\nPRESIDEN REPUBLIK INDONESIA,\nttd\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 15 Mei 1979\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd\nSUDHARMONO, SH.\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1979 NOMOR 17\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 10 TAHUN 1979\nTENTANG\nPENILAIAN PELAKSANAAN PEKERJAAN\nPEGAWAI NEGERI SIPIL\nUMUM\nDalam rangka usaha untuk lebih menjamin obyektivitas dalam pembinaan Pegawai Negeri\nSipil berdasarkan sistem karier dan sistem prestasi kerja, maka perlu diadakan penilaian\npelaksanaan pekerjaan Pegawai Negeri Sipil.\nHasil penilaian pelaksanaan pekerjaan tersebut dituangkan dalam satu daftar yang disebut\nDaftar Penilaian Pelaksanaan Pekerjaan. Dalam Peraturan Pemerintah ini ditentukan,\nbahwa yang berwenang membuat penilaian pelaksanaan pekerjaan Pegawai Negeri Sipil\nadalah Pejabat Penilai, yaitu atasan langsung dari Pegawai Negeri Sipil yang bersangkutan\ndengan ketentuan serendah-rendahnya Kepala Urusan atau pejabat lain yang setingkat\ndengan itu.\nPejabat lain yang setingkat dengan Kepala Urusan, antara lain adalah Penilik Sekolah\nDasar, Penilik Pendidikan Agama, Kepala Sekolah Dasar, dan pejabat lain yang\nditentukan oleh Menteri, Jaksa Agung, Pimpinan Kesekretariatan Lembaga\nTertinggi/Tinggi Negara, Pimpinan Lembaga Pemerintah NonDepartemen, dan Gubernur\nKepala Daerah Tingkat I dalam lingkungannya masing-masing.\nDengan adanya ketentuan sebagai tersebut di atas, maka Pejabat Penilai benar-benar\nmengenal secara pribadi Pegawai Negeri Sipil yang dinilai, sehingga dengan demikian\ndiharapkan penilaian dapat dilakukan lebih obyektif.\nPASAL DEMI PASAL",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "56c74e94-1cb1-4770-bc58-d1b1b8c3bfa1",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "18f1cf41-7bbe-4b3a-bace-d01dfc81c32f",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nCukup jelas.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "fc54061c-82f4-409f-8372-a90e8734cb6a",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": {
+                        "id": "07cfee22-4453-40c6-8f54-90044ecbff51",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDaftar Penilaian Pelaksanaan Pekerjaan digunakan sebagai bahan dalam\nmelaksanakan pembinaan Pegawai Negeri Sipil, antara lain dalam\nmempertimbangkan kenaikan pangkat, penempatan dalam jabatan,pemindahan,\nkenaikan gaji berkala, dan lain-lain.\nNilai dalam Daftar Penilaian Pelaksanaan Pekerjaan, digunakan sebagai bahan\npertimbangan dalam menetapkan suatu mutasi kepegawaian dalam tahun\nberikutnya, kecuali ada perbuatan tercela dari Pegawai Negeri Sipil yang\nbersangkutan yang dapat mengurangi nilai tersebut.\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "0e04a803-3f88-4e49-ab47-002618e19e4e",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "48efda69-18d9-439c-be89-265def5186d6",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPenilaian pelaksanaan pekerjaan dilakukan juga terhadap calon Pegawai Negeri Sipil.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "51188dc9-e647-4bee-a2e7-14a5da6bae78",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "62ad72b5-e7aa-44d5-9309-c703a78a2a57",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nAyat (1)\nCukup jelas.\nAyat (2)\nHuruf a\nYang dimaksud dengan kesetiaan, adalah kesetiaan, ketaan, dan pengabdian kepada Pancasila, Undang-Undang Dasar 1945, Negara, dan Pemerintah.\nPada umumnya yang dimaksud dengan kesetiaan, adalah tekad dan kesanggupan mentaati melaksanakan, dan mengamalkan sesuatu yang disetiai dengan penuh kesadaran dan tanggungjawab. Tekad dan kesanggupan tersebut harus dibuktikan dalam sikap dan tingkah laku sehari-hari serta dalam perbuatan dalam melaksanakan tugas.\nPada umumnya yang dimaksud dengan pengabdian, adalah penyumbangan pikiran dan tenaga secara ikhlas dengan mengutamakan kepentingan umum di atas kepentingan golongan atau pribadi.\nPegawai Negeri Sipil sebagai unsur Aparatur Negara, Abdi Negara, dan Abdi Masyarakat wajib setia, taat, dan mengabdi sepenuhnya kepada Pancasila, Undang-Undang Dasar 1945, Negara, dan Pemerintah.\nPada umumnya kesetiaan, ketaatan, dan pengabdian timbul dari pengetahuan dan pemahaman yang mendalam, oleh sebab itu setiap Pegawai Negeri Sipil wajib mempelajari, memahami, melaksanakan, dan mengamalkan Pancasila, Undang-Undang Dasar 1945, Haluan Negara, politik, kebijaksanaan, dan rencana-rencana Pemerintah.\nHuruf b\nPrestasi kerja adalah hasil kerja yang dicapai oleh seorang Pegawai Negeri Sipil dalam melaksanakan tugas yang dibebankan kepadanya.\nPada umumnya, prestasi kerja seorang Pegawai Negeri Sipil antara lain dipengaruhi oleh kecakapan, ketrampilan, pengalaman, dan kesungguhan Pegawai Negeri Sipil yang bersangkutan.\nHuruf c\nTanggungjawab adalah kesanggupan seorang Pegawai Negeri Sipil menyelesaikan pekerjaan yang diserahkan kepadanya dengan sebaik-baiknya dan tepat pada waktunya serta berani mimikul risiko atas keputusan yang diambilnya atau tindakan yang dilakukannya.\n\nHuruf d\nKetaatan adalah kesanggupan seorang Pegawai Negeri Sipil,untuk\nmentaati segala peraturan perundang-undangan dan peraturan kedinasan\nyang berlaku, mentaati perintah kedinasan yang diberikan oleh atasan yang\nberwenang, serta kesanggupan untuk tidak melanggar larangan yang\nditentukan.\nHuruf e\nPada umumnya yang dimaksud dengan kejujuran, adalah ketulusan\nhati seorang Pegawai Negeri Sipil dalam melaksanakan tugas dan\nkemampuan untuk tidak menyalah gunakan wewenang yang diberikan\nkepadanya.\nHuruf f\nKerjasama, adalah kemampuan seorang Pegawai Negeri Sipil untuk\nbekerja bersama-sama dengan orang lain dalam menyelesaikan sesuatu tugas\nyang ditentukan, sehingga mencapai dayaguna dan hasilguna yang sebesar-\nbesarnya.\nHuruf g\nPrakarsa, adalah kemampuan seorang Pegawai Negeri Sipil untuk\nmengambil keputusan, langkah-langkah, atau melaksanakan sesuatu\ntindakan yang diperlukan dalam melaksanakan tugas pokok tanpa menunggu\nperintah dari atasan.\nHuruf h\nKepemimpinan, adalah kemampuan seorang Pegawai negeri Sipil\nuntuk meyakinkan orang lain sehingga dapat dikerahkan secara maksimal\nuntuk melaksanakan tugas pokok.\nAyat (3)\nCukup jelas",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "348936c0-ff2f-4eb3-b266-bd48ed108a52",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": {
+                        "id": "9c895f70-3d5f-4183-ace0-12df6ed7485e",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nCukup jelas",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "977953f9-155f-4174-8487-034f01ce4e16",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "964b0bd4-603c-4a34-89ea-62b995070bf7",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDaftar Penilaian Pelaksanaan Pekerjaan hanya dapat diketahui oleh Pejabat Penilai\nYang tertingi, Atasan Pejabat Penilai, Pejabat Penilai. Pejabat Negeri Sipil yang\ndinilai, dan atau pejabat lain yang karena tugas atau jabatannya mengetahui Daftar\nPenilaian Pelaksanaan Pekerjaan.\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "424597a6-34c6-4cf2-b928-607ddcc7b98d",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": {
+                        "id": "1014b65b-c47b-4e69-b996-e551d67b641d",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nAyat (1)\nPejabat Penilai wajib membuat dan memelihara catatan mengenai diri\nPegawai Negeri Sipil yang berada dalam lingkungannya, tentang unsur-unsur\nsebagimana dimaksud dalam Pasal 4 ayat(2), sehingga dengan demikian Pejabat\nPenilai yang bersangkutan dapat membuat penilaian dengan sebaik-baiknya.\nAyat (2)\nPenilaian dilakukan pada bulan Desember tiap-tiap tahun. Jangka waktu\npenilaian adalah mulai bulan Januari sampai bulan Desember dalam tahun yang\nbersangkutan.\nBagi calon Pegawai Negeri Sipil, Daftar Penilaian Pelaksanaan Pekerjaan\nhanya dibuat dalam tahun yang bersangkutan apabila ia sampai dengan bulan\nDesember telah 6 (enam) bulan menjadi calon Pegawai Negeri Sipil. Apabila\nseorang calon Pegawai Negeri Sipil dalam tahun yang bersangkutan belum 6\n(enam) bulan menjadi calon Pegawai Negeri Sipil, penilaian pelaksanaan pekerjaan\nterhadapnya dilakukan dalam tahun berikutnya.\nKhusus bagi calon Pegawai Negeri Sipil yang akan diangkat menjadi\nPegawai Negeri Sipil, penilaian pelaksanaan pekerjaan dilakukan setelah ia\nsekurang-kurangnya 1 (satu) tahun menjadi calon Pegawai Negeri Sipil.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "8a16bac3-26ee-4376-8d38-9b9348f5c38e",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": {
+                        "id": "ba2ee26a-265a-40b0-a590-f51f7a937d19",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKetentuan pasal ini, adalah untuk memberikan kesempatan kepada Pejabat Penilai\nuntuk mengenal dengan baik Pegawai Negeri Sipil yang dinilai, sehingga dengan\ndemikian diharapkan adanya obyektivitas di dalam memberikan penilaian.\nApabila Daftar Penilaian Pelaksanaan Pekerjaan diperlukan untuk suatu mutasi\nkepegawaian, sedang Pejabat Penilai belum 6 (enam) bulan membawahi Pegawai\nNegeri Sipil yang dinilai, maka Pejabat Penilai tersebut dapat melakukan penilaian\npelaksanaan pekerjaan dengan menggunakan bahan-bahan yang ditinggalkan oleh\npejabat lama.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "89043494-2fb3-456c-9232-b6648917302e",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": {
+                        "id": "2b9f62ec-068b-4938-9bcd-3dec7aacff68",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nAyat (1)\nDaftar Penilaian Pelaksanaan Pekerjaan sebagaimana dimaksud dalam ayat\nini, diberikan secara langsung oleh Pejabat Penilai kepada Pegawai Negeri Sipil\nyang dinilai. Apabila tempat bekerja antara Pejabat Penilai dengan Pegawai Negeri\nSipil yang dinilai berjauhan, maka Daftar Penilaian Pelaksanaan Pekerjaan tersebut\ndikirimkan kepada Pegawai Negeri Sipil yang dinilai.\nDengan adanya ketentuan sebagaimana dimaksud dalam ayat ini, maka\nPegawai Negeri Sipil yang bersangkutan mengetahui penilaian atasannya terhadap\ndirinya, sehingga dengan demikian ia dapat berusaha mengembangkan hal-hal yang\ntelah baik dan memperbaiki hal-hal yang kurang.\nApabila\nApabila isi Daftar Penilaian Pelaksanaan Pekerjaan dapat diterima oleh\nPegawai Negeri Sipil yang dinilai, maka ia menandatanganinya pada tempat yang\ntelah disediakan.\nAyat (2)\nPegawai Negeri Sipil yang dinilai berhak mengajukan keberatan apabila\nmenurut pendapatnya ada, nilai yang kurang sesuai. Keberatan tersebut harus sudah\ndiajukan dalam jangka waktu 14 (empat belas) hari terhitung mulai ia menerima\nDaftar Penilaian Pelaksanaan Pekerjaan tersebut. Keberatan yang diajukan\nmelebihi jangka waktu 14 (empat belas) hari tidak dipertimbangkan. Alasan-alasan\nkeberatan harus dikembangkan dengan lengkap secara tertulis.\nKeberatan tersebut diajukan kepada Atasan Pejabat Penilai melalui Pejabat\nPenilai.\nWalaupun Pegawai Negeri Sipil yang dinilai keberatan atas seluruh atau\nsebagian nilai yang tercantum dalam Daftar Penilaian Pelaksanaan Pekerjaan ia\nharus juga menanda tangani Daftar Penilaian Pelaksanaan Pekerjaan tersebut\ndengan mencantumkan catatan pada tempat yang disediakan bahwa ia keberatan.\nAyat (3)\nCukup jelas.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "33c4ed88-cfbc-47ac-82db-0339042373ef",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": {
+                        "id": "9600f5d5-8873-4657-b16e-95c9966f4594",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nAtasan Pejabat Penilai memeriksa dengan seksama isi Daftar Penilaian\nPelaksanaan Pekerjaan termasuk keberatan yang diajukan oleh Pegawai Negeri\nSipil yang dinilai dan tanggapan Pejabat Penilai atas keberatan itu (apabila ada).\nAyat (3)\nApabila Atasan Pejabat Penilai mempunyai alasan-alasan yang cukup, maka\nia dapat mengadakan perubahan terhadap nilai yang diberikan oleh Pejabat Penilai,\nbaik dalam arti menaikkan nilai atau menurunkan nilai.\nPerubahan nilai yang dilakukan oleh Atasan Pejabat Penilai tidak dapat\ndiganggu gugat.\nAyat (4)\nCukup jelas.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "7e255134-ea5d-4d66-8614-1518a28b1d78",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": {
+                        "id": "339227d1-6150-456f-9d7a-eb341514d8b2",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPasal 11\nPara pejabat yang dimaksud dalam pasal ini, adalah Pejabat Penilai dan sekaligus\nmenjadi Atasan Pejabat Penilai Tertinggi dalam Lingkungannya masing-masing.\nUmpamanya Menteri adalah Pejabat Penilai dan sekaligus menjadi Atasan Pejabat\nPenilai terhadap seorang Direktur Jenderal dalam lingkungannya. Nilai yang\ndiberikan oleh Pejabat sebagaimana dimaksud dalam pasal ini tidak dapat diganggu\ngugat.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "7c616b1e-5e8a-4046-bafe-9b8446fcc921",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": {
+                        "id": "53340342-317c-4356-b0d6-56be11490b19",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nAyat (1)\nYang dimaksud dengan Pejabat Penilai dalam ayat ini adalah Pejabat Penilai\ndari instansi semula tempat Pegawai Negeri Sipil yang bersangkutan bekerja\nsebelum ia diangkat menjadi Pejabat Negara.\nBahan-bahan yang diperlukan dalam membuat Daftar Penilaian Pelaksanaan\nPekerjaan, diminta oleh Pejabat Penilai dari pimpinan badan atau dewan dimana\nPegawai Negeri Sipil yang bersangkutan menjalankan tugasnya sebagai Pejabat\nNegara.\nAyat (2)\nCukup jelas.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "5939cb6f-eb21-446c-9a0c-d9f89fd77ae1",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": {
+                        "id": "63f1b245-d175-4fa4-b4da-696e4bc1e48f",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nAyat (1)\nLihat penjelesan Pasal 12 ayat (1)\nAyat (2)\nUntuk dapat memberikan bahan-bahan penilaian, maka Kepala Perwakilan\nRepublik Indonesia di luar negeri atau pejabat lain yang ditunjuk olehnya\nmengikuti dan mencatat tingkah laku dan kegiatan Pegawai Negeri Sipil yang\nsedang melakukan tugas belajar di Negara yang bersangkutan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "1c863aa3-a685-4968-8255-a15b2bc3bb8d",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": {
+                        "id": "a2cd23ff-148f-4179-b97e-4fa62e872a30",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nCukup jelas.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "50cf4b28-224e-490c-96fe-82b930acb488",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f222cb24-94cd-47ec-87e1-db1442c36a0d",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": ".\n\nPasal 16 sampai dengan Pasal 20\nCukup jelas.\n",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "10",
+        "Tahun": "1979",
+        "Tentang": "PENILAIAN PELAKSANAAN PEKERJAAN PEGAWAI NEGERI SIPIL\nPresiden Republik Indonesia,",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa dalam rangka usaha menjamin obyektivitas dalam\npembinaan Pegawai Negeri Sipil berdasarkan sistem karier dan\nsistem prestasi kerja, dipandang perlu menetapkan Peraturan\nPemerintah tentang penilaian pelaksanaan pekerjaan Pegawai\nNegeri Sipil;",
+            "b": " bahwa Peraturan Pemerintah Nomor 10 Tahun 1952 tentang\nDaftar Pernyataan Kecakapan Untuk Pegawai Negeri dipandang\ntidak sesuai lagi, oleh sebab itu perlu ditinjau kembali dan\ndisempurnakan;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 8 Tahun 1974 tentang Pokok-pokok\nKepegawaian (Lembaran Negara Tahun 1974 Nomor 55,\nTambahan Lembaran Negara Nomor 3041);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENILAIAN\nPELAKSANAAN PEKERJAAN PEGAWAI NEGERI SIPIL.",
+        "tanggal sah": ""
+    }
+}

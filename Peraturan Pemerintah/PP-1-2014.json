@@ -1,0 +1,71 @@
+{
+    "results": [
+        {
+            "id": "0d88091d-f676-40a3-8a43-238652d1f012",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [],
+                    "id": "6ebc6aa4-52c5-413b-b830-05121d98d9a4",
+                    "name": "Article 170",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f78ea3c8-7bf4-47ce-a58e-3f862f1d4e5d",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "9b1f718f-67f1-4f56-86d3-07f307fbaebd",
+                    "name": "Article 112",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "89a6e6db-ea7e-41d3-ab7a-02f2cf7acfbe",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4271997f-b54a-4c17-8f04-b309c55b2098",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "4a6b99e9-2382-4693-85e3-7556fcfad809",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "1",
+        "Tahun": "2014",
+        "Tentang": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 23 TAHUN\n2010 TENTANG PELAKSANAAN KEGIATAN USAHA PERTAMBANGAN\nMINERAL DAN BATUBARA",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa dalam rangka meningkatkan manfaat mineral bagi\nrakyat dan untuk kepentingan pembangunan daerah,\nmaka perlu peningkatan nilai tambah mineral melalui\nkegiatan pengolahan dan pemurnian sumber daya\nmineral di dalam negeri sebagaimana dimaksud dalam\nPasal 103 dan Pasal 170 Undang-Undang Nomor 4 Tahun\n2009 tentang Pertambangan Mineral dan Batubara;",
+            "b": " bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nPemerintah tentang Perubahan Kedua Atas Peraturan\nPemerintah Nomor 23 Tahun 2010 tentang Pelaksanaan\nKegiatan Usaha Pertambangan Mineral dan Batubara;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 4 Tahun 2009 tentang\nPertambangan Mineral dan Batubara"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN KEDUA\nATAS PERATURAN PEMERINTAH NOMOR 23 TAHUN 2010\nTENTANG PELAKSANAAN KEGIATAN USAHA\nPERTAMBANGAN MINERAL DAN BATUBARA.",
+        "tanggal sah": "11 Januari 2014"
+    }
+}

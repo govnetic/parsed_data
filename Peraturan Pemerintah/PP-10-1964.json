@@ -1,0 +1,186 @@
+{
+    "results": [
+        {
+            "id": "be32ef06-904b-4c53-a64a-cdcb43438b7c",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "35801a1f-ceee-4796-8f8c-e22fa699053e",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Bagian dari penerimaan pajak pendapatan (Ordonansi Pajak Pendapatan 1944, Staatsblad 1944 No. 17 yang terakhir diubah dngan Undang-undang No. 55 Prp tahun 1960, Lembaran-Negara tahun 1960 No. 173) seperti dimaksudkan dalam pasal 4 ayat (1) huruf a Undang-undang Perimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956) ditetapkan sebesar 75% (tujuh puluh lima persen) bagi Daerah, kecuali Daerah Khusus Ibu Kota Jakarta Raya, dan bagian itu diserahkan kepada masing-masing Daerah tingkat I dalam wilayah mana pajak tersebut dipungut.\n(2) Kepada Daerah Khusus Ibu Kota Jakarta Raya diserahkan 10% (sepuluh persen) dari penerimaan pajak pendapatan dimaksud, yang dipungut dalam wilayahnya.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "9517ed28-901a-4f3f-b292-f4a0ee778849",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "64f4f543-3d59-49fb-87c5-f84d4276ac77",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Bagian dari penerimaan pajak meterai (Aturan bea meterai 1921, Staatsblad 1921 No. 498 yang terakhir diubah dengan Undang-undang No. 24 Prp tahun 1959, Lembaran-Negara tahun 1959 No. 141) seperti dimaksudkan dalam pasal 4 ayat (1) huruf c Undang-undang Perimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956) ditetapkan sebesar 75% (tujuh puluh lima persen) bagi Daerah, kecuali Daerah Khusus Ibu Kota Jakarta Raya dan bagian itu diserahkan kepada masing-masing Daerah tingkat I, dalam wilayah mana pajak tersebut dipungut.\n(2) Kepada Daerah Khusus Ibu Kota Jakarta Raya diserahkan 10% (sepuluh persen) dari penerimaan pajak meterai dimaksud, yang dipungut dalam wilayahnya.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "959ee562-30f5-4bc1-9423-c1549b7a383b",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "057ca46c-1e7d-420c-9b0e-ac07d8dead19",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Bagian dari penerimaan pajak kekayaan (Ordonansi Pajak Kekayaan 1932, Staatsblad 1932 No. 405 yang terakhir diubah dengan Undang-undang No. 24 Prp tahun 1959, Lembaran-Negara tahun 1959 No. 141) seperti dimaksudkan dalam pasal 4 ayat (2) Undang-undang Perimbangan Keuangan 1957 (undang-undang No. 32 tahun 1956), ditetapkan sebesar 75% (tujuh puluh lima persen) bagi Daerah, kecuali Daerah Khusus Ibu Kota Jakarta Raya, dan bagian itu diserahkan kepada masing-masing Daerah tingkat I, dalam wilayah mana pajak tersebut dipungut.\n(2) Kepada Daerah Khusus Ibu Kota Jakarta Raya diserahkan 10% (sepuluh persen) dari penerimaan pajak kekayaan dimaksud, yang dipungut dalam wilayahnya.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "2033f3fa-51b2-4b69-afe4-1198456bb57c",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "68d86830-e229-401f-aef9-d0e8e47f1772",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Bagian dari penerimaan pajak perseroan (Ordonansi Pajak Perseroan 1925, Staatsblad 1925 No. 319 yang terakhir diubah dengan Undang-undang No. 24 Prp tahun 1959, Lembaran-Negara tahun 1956 No. 141) seperti dimaksudkan dalam pasal 4 ayat (2) Undang-undang Perimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956, ditetapkan sebesar 25% (dua puluh lima persen) bagi Daerah kecuali Daerah Khususi Ibu Kota Jakarta Raya, dan bagian itu diserahkan kepada masing-masing Daerah tingkat I, dalam wilayah mana pajak tersebut dipungut.\n(2) Kepada Daerah Khusus Ibu Kota Jakarta Raya diserahkan 1% (satu persen) dari penerimaan",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "d7cba54d-17d5-4f98-843a-3579ae590b6e",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "417f85e8-0ad3-4d85-88e1-1433d45318c1",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Persentasi untuk tiap-tiap Daerah tingkat I tersebut dalam pasal ini didasarkan atas\nangka-angka ekspor dari Daerah Khusus Ibu Kota Jakarta Raya/Daerah tingkat I yang\nbersangkutan menurut angka-angka dari Kantor Pusat Statistik.\nPasal 6 dan 7.\nCukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "094f22f1-469f-4418-ab43-e52aa2875283",
+            "name": "Article 6",
+            "type": "article",
+            "children": {
+                "id": "ac82a399-5943-4cec-8ff8-8ce5053ff887",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Bagian dari penerimaan bea-masuk seperti dimaksudkan dalam pasal 5 ayat (1) Undang- undang Perimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956) ditetapkan sebesar 10% (sepuluh persen) bagi Daerah.\n(2) Penyerahan bagian Daerah dari penerimaan bea-masuk kepada Daerah Khusus Ibukota Jakarta Raya dan masing-masing Daerah tingkat I didasarkan atas jumlah penduduk di Daerah yang bersangkutan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "f3f01d2b-a95f-47f6-909c-19bb59ad8089",
+            "name": "Article 7",
+            "type": "article",
+            "children": {
+                "id": "0da50f1a-bf35-4ba1-b33d-b1eb3a027302",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Bagian dari penerimaan cukai seperti dimaksud dalam pasal 5 ayat (1) Undang-undang\nPerimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956) ditetapkan sebesar 5%\n(lima persen) bagi Daerah.\n(2) Penyerahan bagian Daerah dari penerimaan cukai kepada Daerah Khusus Ibu Kota Jakarta\nRaya/dan masing-masing Daerah tingkat I didasarkan atas jumlah penduduk di Daerah-\ndaerah yang bersangkutan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "67d2141f-88ee-469b-9083-a0c35cca0152",
+            "name": "Article 8",
+            "type": "article",
+            "children": {
+                "id": "59117b1b-f6a3-4b0c-862e-07c3ede704f8",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Berhubung dengan ketentuan pada ayat (1) pasal ini, maka untuk memperoleh\nseperempat dari jumlah bagian sebagai tercantum dalam lajur 10 dari daftar penyerahan pajak,\nbea dan cukai terlampir. Gubernur Kepala Daerah sebelum permulaan tiap triwulan hendaknya\nsudah mengajukan daftar permintaan kepada Kantor Pusat Perbendaharaan Negara, agar jumlah\ndimaksud tepat pada waktunya dapat diterima, sehingga kemungkinan akan adanya kesulitan-\nkesulitan pembiayaan pemerintah Daerah sehari-hari dengan demikian dapat dihindarkan.\nBerdasarkan ketentuan-ketentuan dan persentasi-persentasi bagian pajak Negara, bea dan\ncukai sebagai ditetapkan dalam Peraturan Pemerintah ini, maka jumlah taksiran seluruhnya dari\nbagian pajak Negara, bea dan cukai untuk Daerah ialah sebesar Rp. 4.132.630.000,- ditambah\ndengan M.$. 1.789 bagi Riau kepulauan sedangkan perincian jumlah dimaksud bagi tiap Daerah\ndicantumkan dalam lajur 8 dari daftar terlampir.\nOleh karena ternyata, bahwa ada sebelas Daerah-daerah yang akan mendapat kurang berdasarkan Peraturan Pemerintah ini, jika diperbandingkan dengan jumlah-jumlah yang daerah-\ndaerah itu diperoleh menurut Peraturan Pemerintah No.41 tahun 1961 yaitu:\n1. Daerah tingkat I Sumatera-Utara,\n2. Daerah tingkat I Sumatera-Barat,\n3. Daerah tingkat I Riau (kepulauan),\n4. Daerah tingkat I Jambi,\n5. Daerah tingkat I Kalimantan-Barat,\n6. Daerah tingkat I Kalimantan-Tengah,\n7. Daerah tingkat I Sulawesi-Utara/Tengah,\n8. Daerah tingkat I Sulawesi-Selatan/Tenggara,\n9. Daerah tingkat I Maluku,\n10. Daerah tingkat I Nusa-Tenggara-Barat,\n11. Daerah tingkat I Nusa-Tenggara-Timur,\nmaka Pemerintah mengambil kebijaksanaan untuk menambah jumlah-jumlah bagi Daerah-\ndaerah dimaksud (lihat lajur 8), dengan jumlah-jumlah kekurangannya (lihat lajur 9), sehingga\nDaerah-daerah yang bersangkutan akan mendapat jumlah-jumlah yang sama besarnya dengan jumlah-jumlah yang diperolehnya dalam tahun 1962 lihat (lajur 10).\nDengan demikian jumlah taksiran seluruhnya dari bagian pajak Negara, bea dan cukai untuk Daerah dalam tahun 1962 ialah sebesar Rp. 4.205.853.500,- ditambah dengan M.$.\n1.996.860 bagi Riau kepulauan.\nPasal 9 s/d 12.\nCukup jelas.\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1964 YANG TELAH DICETAK ULANG\nSumber: LN 1964/21 ,TLN 2637\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "613d654a-adb4-4748-8ef9-5b1dc57a2e19",
+            "name": "Article 9",
+            "type": "article",
+            "children": {
+                "id": "fb836654-db3e-4d95-adcd-8005230a5ea2",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Dari jumlah yang diserahkan kepada Daerah tingkat I menurut ketentuan dalam peraturan\nini, Gubernur Kepala Daerah menetapkan bagian untuk Daerah tingkat I dan masing-masing Daerah\ntingkat II dalam wilayahnya berdasarkan pedoman Menteri Dalam Negeri.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "73cfc5cd-492f-43da-9d00-a6126d0c6945",
+            "name": "Article 10",
+            "type": "article",
+            "children": {
+                "id": "723d9eb3-1550-49eb-ac2f-7f0913052aed",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Kesulitan yang timbul dalam pelaksanaan Peraturan Pemerintah ini diselesaikan oleh\nMenteri Dalam Negeri dan Menteri Urusan Pendapatan, Pembiayaan dan Pengawasan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "4878bde7-8591-4868-8360-be152cf6c2e9",
+            "name": "Article 11",
+            "type": "article",
+            "children": {
+                "id": "47e89b81-cbf2-47aa-814e-7fa1d012a2ba",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini berlaku untuk tahun anggaran 1962.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "338559b5-48fe-4746-adfc-eb4da3384f40",
+            "name": "Article 12",
+            "type": "article",
+            "children": {
+                "id": "101f98d8-9f0a-4ef5-a440-1eb590f508f0",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan dan mempunyai daya-surut\nsampai tanggal 1 Januari 1962.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatan dalam Lembaran-Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 26 Maret 1964\nSUKARNO\nDiundangkan di Jakarta\npada tanggal 26 Maret 1964\nMOHD. ICHSAN\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH No. 10 TAHUN 1964\nTENTANG\nPENETAPAN PERSENTASI DARI BEBERAPA PENERIMAAN\nNEGARA UNTUK DAERAH TAHUN 1962.\nUMUM.\n1. Seperti dimaklumi Peraturan Pemerintah No. 241 tahun 1961 berlaku hanya untuk\ntahun anggaran 1961 saja, sehingga guna pelaksanaan lebih lanjut dari perimbangan keuangan\nantara Negara dan Daerah dalam tahun 1962 khusus untuk mengatur pelaksanaan ketentuan-\nketentuan dalam pasal-pasal 4 dan 5 Undang-undang Perimbangan Keuangan 1957 (Undang-\nundang No. 32 tahun 1956) yaitu penetapan persentasi Daerah dari beberapa penerimaan Negara,\ndipandang perlu untuk mengeluarkan Peraturan Pemerintah ini sesuai dengan kebijaksanaan\nPemerintah dan dalam batas-batas kesanggupan keuangan.\n2. Sebagai Peraturan Pemerintah No. 41 tahun 1961 maka ketentuan dalam Peraturan\nPemerintah ini disesuaikan dengan kebijaksanaan Pemerintah dalam bidang moneter di samping\npenghapusan pajak upah dalam tahun 1961, sedangkan dimuat juga dasar-dasar untuk\npenyederhanaan administrasi dengan memperhatikan pula bahan-bahan dan angka-angka serta\npengalaman yang telah diperoleh dalam tahun-tahun yang terdahulu.\n3. Dalam Peraturan Pemerintah ini ditetapkan pula, bahwa bagian Daerah dari berbagai-\nbagai penerimaan Negara diberikan langsung kepada Daerah Khusus Ibu Kota Jakarta\nRaya/Daerah tingkat I untuk selanjutnya berdasarkan pedoman Menteri Dalam Negeri oleh\nGubernur Kepala Daerah ditetapkan pembagiannya antara Daerah Khusus Ibukota Jakarta\nRaya/Daerah tingkat I dan Daerah-daerah tingkat II di dalam wilayahnya, satu dan lain supaya\nGubernur Kepala Daerah dapat memberikan bimbingan dan menjalankan pengawasan yang lebih\nefektif.\n4. Penetapan persentasi dari pajak-pajak Negara didasarkan atas jumlah yang dipungut di\ndalam wilayah Daerah Khusus Ibu Kota Jakarta Raya/Daerah tingkat I masing-masing.\n5. Penetapan bagian dari bea-keluar didasarkan pada jumlah nilai hasil-hasil Daerah\nmasing-masing yang diekspor, sehingga sistim yang dianut ini selain mencerminkan keadaan\nyang senyata-nyatanya pun akan dapat mendorong Daerah untuk lebih mencurahkan\nperhatiannya terhadap produksi ekspor.\n6. Mengenai penetapan bagian dari pada bea-masuk dan cukai, yang diperoleh dari\nbarang-barang yang dipakai dan dikonsumir oleh penduduk di dalam wilayah Daerah yang\nbersangkutan, yang pada pokoknya harus menjadi dasar dari penetapan bagian ini, akan tetapi\nberhubung dengan belum diketahuinya angka-angka yang riil mengenai hal ini, maka\ndipergunakanlah sebagai dasar jumlah penduduk dari masing-masing Daerah menurut angka-\nangka sensus tahun 1961, hal mana dianggap lebih mendekati kenyataan dan keadilan.\n7. Berdasarkan persentasi sebagai ditetapkan dalam Peraturan Pemerintah ini, maka\ntaksiran bagian pajak, bea dan cukai untuk Daerah dengan memakai angka-angka penerimaan\ndalam anggaran pendapatan dan belanja Negara tahun 1962 sebagai dasar akan belumlah Rp. 4\nmilyard yaitu sama dengan perkiraan jumlah bagian menurut persentasi-persentasi sebagai\ntercantum dalam Peraturan Pemerintah No. 241 tahun 1961.\nPASAL DEMI PASAL.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "8df86f90-9dee-4b96-99ca-355c6c76a76f",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "e27677b8-a5d9-49c8-b27c-70f93a33a7f0",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Yang diatur dalam pasal ini hanyalah mengenai pajak pendapatan menurut Undang-\nundang No. 55 Prp tahun 1960 dan yang tidak, lagi membedakan adanya pajak pendapatan besar\ndan pajak pendapatan kecil. Di samping ini mulai 1 Januari 1961 pajak upah telah dihapuskan.\nPasal 2 s/d 4.\nCukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "10",
+        "Tahun": "1964",
+        "Tentang": "PENETAPAN PERSENTASI DARI BEBERAPA PENERIMANAAN NEGARA\nUNTUK DAERAH DALAM TAHUN 1962\nMembaca:\n1. Surat Wakil Menteri Pertama Bidang Keuangan tanggal 29 Juni 1963 No. UAN 3 - 1 - 43;\n2. Surat Menteri Pemerintahan Umum dan Otonomi Daerah tanggal 16 Pebruari 1963 No. Des. 8/2/8;\n3. Surat Panitia Negara Perimbangan Keuangan tanggal 22 Nopember 1962 No. 1/Pr./63;",
+        "Menimbang": {
+            "Introduction": "\nbahwa penyerahan sebagian hasil pendapatan Negara dalam tahun 1962 kepada daerah dalam rangka pelaksanaan ketentuan dalam pasal 4 ayat (1) dan ayat (2) dan pasal 5 ayat (1) Undang-undang Perimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956, Lembaran-Negara tahun 1956 No. 77), perlu diatur dengan Peraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "\nA. Pasal 5 ayat 2 Undang-undang Dasar;\nB. Undang-undang Perimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956, Lembaran-Negara tahun 1956 No. 77);\nC. Undang-undang NO. 1 tahun 1957 tentang Pokok-pokok Pemerintahan Daerah (Lembaran-Negara tahun 1957 No. 6);\nD. Penetapan Presiden No. 6 tahun 1959 tentang Pemerintah Daerah (Disempurnakan) (Lembaran-Negara tahun 1959 No. 129);\nE. Keputusan M.P.R.S. tanggal 3 Desember 1960 No. II/MPRS/1960;\nF. Penetapan Presiden No. 2 tahun 1961 tentang Pemerintahan Daerah Khusus Ibu Kota Jakarta Raya (Lembaran-Negara tahun 1961 No. 274);\nG. Penetapan Presiden No. 1 tahun 1962 tentang Pembentukan Propinsi Irian Barat Bentuk Baru (Lembaran-Negara tahun 1962 No. 1);\nH. Undang-undang No. 9 tahun 1962 tentang Penetapan Anggaran Pendapatan dan Belanja Negara dari Republik Indonesia tahun dinas 1962 (Lembaran-Negara tahun 1962 No. 27) jo Undang-undang No. 8 tahun 1963 (Lembaran-Negara tahun 1963 No. 40);\nI. Undang-undang No. 10 tahun 1962 tentang Penetapan Anggaran Bagian-bagian Perusahaan Negara I.B.W. dari Anggaran Negara Republik Indonesia untuk tahun dinas 1962 (Lembaran-Negara tahun 1962 No. 28);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENETAPAN PERSENTASI DARI BEBERAPA PENERIMAAN NEGARA UNTUK DAERAH DALAM TAHUN 1962.",
+        "tanggal sah": "1 Januari 1961"
+    }
+}

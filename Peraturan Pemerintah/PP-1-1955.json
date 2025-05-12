@@ -1,37 +1,37 @@
 {
     "results": [
         {
-            "id": "748f2694-445d-435f-9b5f-122b8e392007",
+            "id": "20c9d62c-4858-4b0d-8070-ae3c6f9acfc1",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "8e16ab53-505b-42a6-8bc6-d73d488d3019",
+                "id": "c5a32307-6ed8-426a-8594-f9e07d1de3f4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Dalam peraturan ini yang dimaksud dengan :\na.\tbadan-badan kredit, ialah: bank-bank dan bank-bank tabungan;\nb.\tbank-bank, ialah, semua perusahaan dan badan-badan, tidak\nmemandang bentuk hukumnya, yang secara terang-terangan\nmenawarkan diri atau untuk bagian besar melakukan usaha-usaha\nguna menerima uang-uang dalam deposito atau dalam rekening-\nkoran dan juga mengadakan usaha-usaha untuk memberi kredit\natas tanggungan sendiri;\nc.\tbank-bank tabungan, ialah : semua perusahaan dan badan-badan,\ntidak memandang bentuk-hukumnya, yang semata-mata bertujuan\nmemajukan penabungan dan untuk tujuan itu menerima uang dalam\ndeposito, yang penagihan kembalinya diatur oleh ketentuan-\nketentuan yang membatasi;\nd.\tBank. ialah: Bank Indonesia.",
+                "content": "Dalam peraturan ini yang dimaksud dengan :\nA. badan-badan kredit, ialah: bank-bank dan bank-bank tabungan;\nB. bank-bank, ialah, semua perusahaan dan badan-badan, tidak\nmemandang bentuk hukumnya, yang secara terang-terangan\nmenawarkan diri atau untuk bagian besar melakukan usaha-usaha\nguna menerima uang-uang dalam deposito atau dalam rekening-\nkoran dan juga mengadakan usaha-usaha untuk memberi kredit\natas tanggungan sendiri;\nC. bank-bank tabungan, ialah : semua perusahaan dan badan-badan,\ntidak memandang bentuk-hukumnya, yang semata-mata bertujuan\nmemajukan penabungan dan untuk tujuan itu menerima uang dalam\ndeposito, yang penagihan kembalinya diatur oleh ketentuan-\nketentuan yang membatasi;\nD. Bank. ialah: Bank Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "9b9b71aa-1a9b-465b-968b-0dbdeb5fc80e",
+            "id": "60b5f698-2b63-4be2-9b1c-ef111e77b8a7",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "4ee2a50c-df96-4b46-903d-d4b5a4002ef7",
+                "id": "c56569b4-25a1-487c-9250-8a894e559270",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "1.\tSesudah tanggal pengundangan peraturan ini tidak suatu badan\nkredit boleh didirikan dan menamakan dirinya \"bank\" dan/atau\n\"bank tabungan,\" jikalau tidak mempunyai izin tertulis dari\nMenteri Keuangan setelah mendengar pertimbangan-pertimbangan\nDireksi Bank.\n2.\tIzin itu hanya dapat diberikan jika Bank mempunyai modal yang\ntelah dibayar sekurang-kurangnya Rp. 2.500.000,-, dan bank",
+                "content": "1. Sesudah tanggal pengundangan peraturan ini tidak suatu badan\nkredit boleh didirikan dan menamakan dirinya \"bank\" dan/atau\n\"bank tabungan,\" jikalau tidak mempunyai izin tertulis dari\nMenteri Keuangan setelah mendengar pertimbangan-pertimbangan\nDireksi Bank.\n2. Izin itu hanya dapat diberikan jika Bank mempunyai modal yang\ntelah dibayar sekurang-kurangnya Rp. 2.500.000,-, dan bank",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "35e8b241-0f47-42ef-ac88-e46e3f0dab41",
+            "id": "a5231983-794c-4bbb-b3ac-c0b85b2fe947",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "251158e3-35dc-4034-b670-75a498c291fa",
+                "id": "4872288e-e7d2-4cc9-abae-e7be674af3d3",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "4a1f59cf-39a8-4340-9125-fd2e4f87d731",
+            "id": "a0871c00-ff9c-4e11-a0ca-53835e0a2332",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "afae3fd6-6d68-4801-99b8-7a3ec4dcf740",
+                "id": "989d017b-5d95-4aec-99f8-5ed1d13969c2",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "85e3b877-1da2-4f80-b8ce-ab7275ff8d72",
+            "id": "eead6aec-89ce-49a4-89b1-34491a1bf773",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "1686d039-568e-41c8-9a7d-6cadb15d77f9",
+                "id": "cbb92d62-63a4-404a-823c-f002a56969b7",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,63 +66,63 @@
             }
         },
         {
-            "id": "b4800f60-ec5c-4061-8eb2-4d4bcb1f5b19",
+            "id": "a783bb60-d02c-42ac-b4da-44d02f5a0a0e",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "6d59c69a-fbf5-4f5f-9b99-fbc71fb19da7",
+                "id": "c1a59ee4-2fe7-4a70-9131-6a463c918f13",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "1. Bank berhak meminta dari badan-badan kredit segala keterangan-keterangan dan angka-angka yang dianggapnya perlu untuk melaksanakan tugasnya sebagai termaksud dalam pasal 5 dari peraturan ini.\n2. Setiap badan kredit wajib memberikan keterangan-keterangan dan angka-angka yang diminta kepadanya berdasarkan ayat kesatu dari pasal ini, dalam waktu yang ditetapkan oleh Bank.\n3. Setiap badan kredit wajib atas permintaan Bank atau seseorang yang ditugaskan oleh Bank, untuk memberi kesempatan bagi pemeriksaan buku-buku dan surat-surat yang ada padanya guna penyelidikan kebenaran dari keterangan-keterangan dan angka-\nangka yang telah diberikannya itu, dan seterusnya memberikan\nsegala bantuan dalam pelaksanaan pemeriksaan buku-buku dan\nsurat-surat tersebut.\n4.  Yang menguasai buku-buku dan surat-surat termaksud dalam ayat\n    ketiga dari pasal ini, wajib, jika diminta, memperlihatkannya\n    dengan segera pada Bank atau orang yang ditugaskan oleh Bank\n    untuk melakukan pemeriksaan.\n5.  Keterangan-keterangan tentang badan-badan kredit yang\n    diperoleh berdasarkan pasal ini tidak diumumkan dan bersifat\n    rahasia, kecuali menurut ketentuan-ketentuan tersebut dalam\n    pasal 10.",
+                "content": "1. Bank berhak meminta dari badan-badan kredit segala keterangan-keterangan dan angka-angka yang dianggapnya perlu untuk melaksanakan tugasnya sebagai termaksud dalam pasal 5 dari peraturan ini.\n2. Setiap badan kredit wajib memberikan keterangan-keterangan dan angka-angka yang diminta kepadanya berdasarkan ayat kesatu dari pasal ini, dalam waktu yang ditetapkan oleh Bank.\n3. Setiap badan kredit wajib atas permintaan Bank atau seseorang yang ditugaskan oleh Bank, untuk memberi kesempatan bagi pemeriksaan buku-buku dan surat-surat yang ada padanya guna penyelidikan kebenaran dari keterangan-keterangan dan Angka-\nangka yang telah diberikannya itu, dan seterusnya memberikan\nsegala bantuan dalam pelaksanaan pemeriksaan buku-buku dan\nsurat-surat tersebut.\n4. Yang menguasai buku-buku dan surat-surat termaksud dalam ayat\nketiga dari pasal ini, wajib, jika diminta, memperlihatkannya\ndengan segera pada Bank atau orang yang ditugaskan oleh Bank\nuntuk melakukan pemeriksaan.\n5. Keterangan-keterangan tentang badan-badan kredit yang\ndiperoleh berdasarkan pasal ini tidak diumumkan dan bersifat\nrahasia, kecuali menurut ketentuan-ketentuan tersebut dalam\npasal 10.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "4b4c24d2-ba4b-492e-b988-d9fec1cd26b0",
+            "id": "8c3c768a-8f31-47c9-8d2f-89f3184c0525",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "3ab1315f-130f-4f59-859d-f99a8846ae6a",
+                "id": "86491ec0-b13c-4f8a-a4c2-e3c1ee0201fa",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "1.  Setiap badan kredit wajib tiap-tiap tahun, dalam waktu yang\n    ditetapkan oleh Bank, mengirimkan pada Bank sebuah neraca\n    dengan baki laba rugi, menurut bentuk yang ditetapkan oleh\n    Bank, disertai penjelasan-penjelasan yang dianggap perlu oleh\n    Bank.\n2.  Bank dapat menetapkan, bahwa keterangan-keterangan tertulis\n    yang wajib dikirimkan kepadanya menurut ayat ke satu dari\n    pasal ini, terlebih dahulu diperiksa oleh akuntan yang\n    ditunjuk oleh Bank. Akuntan itu akan menyatakan hasil\n    pemeriksaannya dalam suatu laporan.\n3.  Persetujaun akuntan terhadap keterangan-keterangan tertulis\n    termaksud dalam ayat kedua dari pasal ini, dianggap\n    mengandung persetujuan sepenuhnya, kecuali jika persetujuan\n    itu diberikan \"dengan syarat.\" Persetujuan akuntan yang\n    bersifat sepenuhnya dianggap mengandung penegasan bahwa\n    keterangan-keterangan tertulis yang dikirimkan oleh badan-\n    badan kredit, telah disusun menurut kebiasaan yang berlaku\n    dalam dunia perusahaan dan penegasan tentang adanya aktiva\n    dan passiva menurut penilaian dan penjelasan-penjelasan yang\n    diberikan.",
+                "content": "1. Setiap badan kredit wajib tiap-tiap tahun, dalam waktu yang\nditetapkan oleh Bank, mengirimkan pada Bank sebuah neraca\ndengan baki laba rugi, menurut bentuk yang ditetapkan oleh\nBank, disertai penjelasan-penjelasan yang dianggap perlu oleh\nBank.\n2. Bank dapat menetapkan, bahwa keterangan-keterangan tertulis\nyang wajib dikirimkan kepadanya menurut ayat ke satu dari\npasal ini, terlebih dahulu diperiksa oleh akuntan yang\nditunjuk oleh Bank. Akuntan itu akan menyatakan hasil\npemeriksaannya dalam suatu laporan.\n3. Persetujaun akuntan terhadap keterangan-keterangan tertulis\ntermaksud dalam ayat kedua dari pasal ini, dianggap\nmengandung persetujuan sepenuhnya, kecuali jika persetujuan\nitu diberikan \"dengan syarat.\" Persetujuan akuntan yang\nbersifat sepenuhnya dianggap mengandung penegasan bahwa\nketerangan-keterangan tertulis yang dikirimkan oleh badan-\nbadan kredit, telah disusun menurut kebiasaan yang berlaku\ndalam dunia perusahaan dan penegasan tentang adanya aktiva\ndan passiva menurut penilaian dan penjelasan-penjelasan yang\ndiberikan.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "28be979b-045f-45a2-b472-63bf13e6597c",
+            "id": "f243f548-501a-43f7-a69d-9cb1e0547840",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "e82f167f-ff30-4573-bf24-7ba3bded4eee",
+                "id": "fe6eaf0b-257e-4514-bc96-4f7f9354c7e9",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "1.  Setiap badan kredit wajib memasukkan pada Bank secara\n    berkala, dalam waktu-waktu yang ditetapkan untuk itu, daftar-\n    daftar yang memuat keterangan-keterangan yang dianggap perlu\n    oleh Bank mengenai perusahaan badan kredit.\n2.  Bentuk daftar-daftar yang termaksud dalam ayat 1 dari pasal\n    ini dan waktu-waktu dalam mana daftar-daftar itu harus telah\n    dimasukkan ditetapkan oleh Bank.",
+                "content": "1. Setiap badan kredit wajib memasukkan pada Bank secara\nberkala, dalam waktu-waktu yang ditetapkan untuk itu, daftar-\ndaftar yang memuat keterangan-keterangan yang dianggap perlu\noleh Bank mengenai perusahaan badan kredit.\n2. Bentuk daftar-daftar yang termaksud dalam ayat 1 dari pasal\nini dan waktu-waktu dalam mana daftar-daftar itu harus telah\ndimasukkan ditetapkan oleh Bank.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "00328edc-5b1c-4089-92d2-77df04259bdb",
+            "id": "08f797d4-09ed-425b-b7ef-e3b75c35bb96",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "b62b7f54-1702-4714-8e8e-bf0d9e377bc1",
+                "id": "9e6810b7-b0b2-4324-9c81-358279404ec3",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "1.  Bank berhak menetapkan peraturan-peraturan umum yang berlaku\n    atas badan-badan kredit mengenai jalan-perusahaannya\n    berhubung dengan pelaksanaan tugas Bank termaksud dalam pasal\n    5 dari peraturan ini.\n2.  Mengenai pemberian kredit oleh badan-badan kredit itu,\n    peraturan-peraturan termaksud dalam ayat ke satu dari pasal\n    ini dapat memuat ketentuan-ketentuan sebagai berikut:\na. ketentuan-ketentuan mengenai jumlah setinggi-tingginya\ndari perkreditan atau beberapa bagiannya dengan atau\ndengan tidak mempergunakan jumlah uang yang\ndipercayakan padanya, atau bagian-bagian tertentu dari\njumlah itu, sebagai dasar perbandingan;\nb. larangan atau pembatasan terhadap pemberian beberapa\nmacam atau bentuk kredit atau kredit-kredit yang\nmelebihi suatu jumlah tertentu, ataupun larangan\nterhadap pemberian beberapa macam atau bentuk kredit\natau kredit-kredit yang melebihi suatu jumlah tertentu\ntanpa izin terlebih dahulu dari Bank;\nc. ketentuan-ketentuan mengenai bunga-debet minimum maupun\nmaksimum yang boleh diperhitungkan terhadap pihak\npengambil kredit.\n3. Berhubung dengan ketentuan dalam ayat kedua sub a dari pasal\nini Bank dapat menetapkan bahwa suatu bagian yang ditentukan\nolehnya daripada uang-tunai dari setiap badan kredit wajib\ndisimpan pada Bank atau diperbungakan dalam kertas\nperbendaharaan, atau dipisahkan secara lain.\n4. Bank berhak menetapkan dalam suatu peraturan umum, waktu,\ndalam mana peraturan-peraturan yang telah ditetapkan oleh\nBank harus telah dipenuhi, dan jika perlu untuk memperpanjang\nwaktu itu bagi semua ataupun satu atau lebih badan kredit.",
+                "content": "1. Bank berhak menetapkan peraturan-peraturan umum yang berlaku\natas badan-badan kredit mengenai jalan-perusahaannya\nberhubung dengan pelaksanaan tugas Bank termaksud dalam pasal\n5 dari peraturan ini.\n2. Mengenai pemberian kredit oleh badan-badan kredit itu,\nperaturan-peraturan termaksud dalam ayat ke satu dari pasal\nini dapat memuat ketentuan-ketentuan sebagai berikut:\na. ketentuan-ketentuan mengenai jumlah setinggi-tingginya\ndari perkreditan atau beberapa bagiannya dengan atau\ndengan tidak mempergunakan jumlah uang yang\ndipercayakan padanya, atau bagian-bagian tertentu dari\njumlah itu, sebagai dasar perbandingan;\nb. larangan atau pembatasan terhadap pemberian beberapa\nmacam atau bentuk kredit atau kredit-kredit yang\nmelebihi suatu jumlah tertentu, ataupun larangan\nterhadap pemberian beberapa macam atau bentuk kredit\natau kredit-kredit yang melebihi suatu jumlah tertentu\ntanpa izin terlebih dahulu dari Bank;\nc. ketentuan-ketentuan mengenai bunga-debet minimum maupun\nmaksimum yang boleh diperhitungkan terhadap pihak\npengambil kredit.\n3. Berhubung dengan ketentuan dalam ayat kedua sub a dari pasal\nini Bank dapat menetapkan bahwa suatu bagian yang ditentukan\nolehnya daripada uang-tunai dari setiap badan kredit wajib\ndisimpan pada Bank atau diperbungakan dalam kertas\nperbendaharaan, atau dipisahkan secara lain.\n4. Bank berhak menetapkan dalam suatu peraturan umum, waktu,\ndalam mana peraturan-peraturan yang telah ditetapkan oleh\nBank harus telah dipenuhi, dan jika perlu untuk memperpanjang\nwaktu itu bagi semua ataupun satu atau lebih badan kredit.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "c3fe3100-e99d-4d1a-9d18-890ed35510b9",
+            "id": "09fac5dc-21a3-46e7-9f93-c0e8b2334f67",
             "name": "Article 10",
             "type": "article",
             "children": {
-                "id": "cbf5107b-6847-4bd5-a0b6-f1ed2f4e2879",
+                "id": "bf047d8f-c6a2-475a-85b4-3db29c7c8073",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -131,63 +131,63 @@
             }
         },
         {
-            "id": "0f7679fd-dec1-4318-8025-84feda703fdc",
+            "id": "bdd764d0-d0a0-4813-b2f3-7d8f70442a83",
             "name": "Article 11",
             "type": "article",
             "children": {
-                "id": "5e1960d4-d11a-44fe-9971-d8422200c882",
+                "id": "f44d44f8-6471-4623-90f2-6189d6e0c83a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "1. Keputusan untuk mengumumkan nasihat, seperti termaksud dalam pasal 10, diberitahukan oleh Bank kepada badan kredit yang bersangkutan, selambat-lambatnya 20 hari sebelumnya pengumuman itu dilakukan. Dalam waktu 14 hari sesudah pemberitahuan itu dikirimkan kepada badan kredit yang bersangkutan, badan kredit itu dapat memajukan keberatan-keberatannya terhadap keputusan sedemikian kepada Dewan Moneter yang memberi putusan dalam tingkat tertinggi. Dengan pemajuan keberatan ini maka pengumuman itu tertunda.",
+                "content": "1.\tKeputusan untuk mengumumkan nasihat, seperti termaksud dalam pasal 10, diberitahukan oleh Bank kepada badan kredit yang bersangkutan, selambat-lambatnya 20 hari sebelumnya pengumuman itu dilakukan. Dalam waktu 14 hari sesudah pemberitahuan itu dikirimkan kepada badan kredit yang bersangkutan, badan kredit itu dapat memajukan keberatan-keberatannya terhadap keputusan sedemikian kepada Dewan Moneter yang memberi putusan dalam tingkat tertinggi. Dengan pemajuan keberatan ini maka pengumuman itu tertunda.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "7a0dfcd8-b523-4aeb-a913-31929efe3741",
+            "id": "09e881b8-f7fb-4726-a137-d947fd93d7c1",
             "name": "Article 12",
             "type": "article",
             "children": {
-                "id": "479f9bad-5bef-4f17-baf6-095ce1d3a41b",
+                "id": "a8052f9c-8574-4036-95ea-64d1733602a9",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "1. Jika suatu badan kredit tidak atau lalai memenuhi kewajiban-kewajibannya yang lahir dari, atau berdasarkan pada peraturan ini maka Menteri Keuangan setelah mendengar pertimbangan Bank, berhak mencabut izin sebagai termaksud dalam pasal 2 ayat 1, atau izin sementara sebagai termaksud dalam pasal 3 ayat 2, dalam hal mana berlaku ketetapan-ketetapan sebagai tersebut dalam pasal 4.\n2. Jika keputusan pencabutan izin menurut ayat satu dari pasal ini telah memperoleh kekuatan yang tak dapat dirubah lagi, maka keputusan itu diumumkan oleh Menteri Keuangan di dalam Berita Negara dan di dalam harian-harian yang ditetapkan oleh pejabat tersebut.",
+                "content": "1.\tJika suatu badan kredit tidak atau lalai memenuhi kewajiban-kewajibannya yang lahir dari, atau berdasarkan pada peraturan ini maka Menteri Keuangan setelah mendengar pertimbangan Bank, berhak mencabut izin sebagai termaksud dalam pasal 2 ayat 1, atau izin sementara sebagai termaksud dalam pasal 3 ayat 2, dalam hal mana berlaku ketetapan-ketetapan sebagai tersebut dalam pasal 4.\n2.\tJika keputusan pencabutan izin menurut ayat satu dari pasal ini telah memperoleh kekuatan yang tak dapat dirubah lagi, maka keputusan itu diumumkan oleh Menteri Keuangan di dalam Berita Negara dan di dalam harian-harian yang ditetapkan oleh pejabat tersebut.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "6a33a7c1-d324-4dc4-93d3-be4cfb04239f",
+            "id": "93e6eb0f-1742-46fd-a6fd-6915ded22d64",
             "name": "Article 13",
             "type": "article",
             "children": {
-                "id": "48449b85-6ad8-4b50-a000-a48b121e1b07",
+                "id": "ccbaefe0-aaae-4be2-9738-e89a3f75879d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan ini tidak berlaku untuk:\na. Bank, Lumbung dan Badan perkreditan Desa\nb. Badan perkreditan Koperasi\nc. Pegadaian\nd. Bank-bank Pasar\nc. Badan-badan perkreditan lain yang ditentukan oleh Menteri Keuangan.",
+                "content": "Peraturan ini tidak berlaku untuk:\na.\tBank, Lumbung dan Badan perkreditan Desa\nb.\tBadan perkreditan Koperasi\nc.\tPegadaian\nd.\tBank-bank Pasar\nc.\tBadan-badan perkreditan lain yang ditentukan oleh Menteri Keuangan.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "d7180af2-bbd2-4030-a408-e0bce585428a",
+            "id": "0b3a16c6-fb29-46a0-a855-51389991ab65",
             "name": "Article 14",
             "type": "article",
             "children": {
-                "id": "868b3966-0eee-4309-abf7-16e91a38756c",
+                "id": "4c3fac94-77a2-4b8f-bd82-a8cf6d1f3e31",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatan dalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta,\npada tanggal 15 Januari 1955.\nPresiden Republik Indonesia,\nttd.\nSOEKARNO.\nMenteri Keuangan,\nttd.\nONG ENG DIE\nDiundangkan\npada tanggal 4 Pebruari 1955.\nMenteri Kehakiman,\nttd.\nDJODY GONDOKUSUMO.\nPENJELASAN\nUMUM\n1. Pasal 7 ayat (5) dari Undang-undang Pokok Bank Indonesia\n1953 berbunyi:\n\"Menunggu terlaksananya suatu peraturan Undang-undang\ntentang pengawasan terhadap urusan kredit, maka dengan\nPeraturan Pemerintah dapat diadakan peraturan-peraturan\nlebih lanjut bagi Bank untuk menjalankan pengawasan\ntermaksud guna kepentingan kemampuan membayar\n(\"solvabiliteit\") dan kelanjutan keuangan (\"liquiditeit\")\nbadan-badan kredit, begitu juga untuk pemberian kredit\nsecara sehat dan berdasarkan asas-asas kebijaksanaan bank\nyang tepat\".\n2. Sampai kini belum diadakan peraturan-peraturan mengenai\npengawasan terhadap urusan kredit oleh Bank Sentral,\nsungguhpun di dalam prakteknya atas dasar \"understanding\"\ndengan bank-bank yang bersangkutan sedikit banyak telah\ndilakukan pengawasan dengan cara meminta berbagai\nketerangan-keterangan dari bank-bank itu, dan di mana perlu\nmenyampaikan kepada mereka anjuran-anjuran berhubung dengan\nperkembangan di lapangan finansiil dan moneter.\nAtas dasar tersebut itulah dilakukan pengawasan\nterhadap Bank-bank Tabungan, yakni semenjak tahun 1932,\nsedangkan Bank Sentral berdasarkan laporan-laporan neraca\nbank yang diterima setiap triwulan dapat memperoleh\ngambaran sekedarnya tentang keadaan sebagian besar dari\nbank-bank umum (dagang).\nAkan tetapi pengawasan yang efektif terhadap semua\nbank di Indonesia, yang jika perlu dapat diperkuat dengan\nsanksi-sanksi, hingga kini belumlah ada.\nMengingat jalannya perkembangan urusan bank dan kredit\ndi Indonesia, maka sekarang dirasakan sangat perlu adanya\nperaturan yang pasti tentang pengawasan terhadap urusan\nkredit.\nKiranya dalam hal ini beberapa peraturan umum yang\nluas dapat mencukupi, oleh karena jika kita hendak lebih\n3. Tujuan pengawasan terhadap urusan kredit pengawasan mana mengandung fungsi pendidikan adalah tiga jenis, yakni:\nprimo : memajukan perkembangan pemberian kredit oleh bank-bank secara sehat dan yang berdasar pada asas-asas kebijaksanaan bank yang tepat;\nSecundo : perlindungan langsung terhadap kredit-kredit bank-bank ini (perlindungan mana dengan sendirinya secara tak langsung juga didapati dari usaha, termaksud sub primo);\ntertio : pembatasan ataupun bimbingan dalam pemberian kredit oleh bank-bank menurut garis-garis yang tertentu, untuk dapat mengendalikan politik moneter dan ekonomi yang dianggap perlu bagi kepentingan Negara.\n4. Pengawasan ini hanya baru dapat dilakukan sebagaimana mestinya, jika perluasan jumlah bank-bank dapat diatur dengan memperhatikan segi-segi moneter, finansiil dan ekonomis, jadinya tidak sebagai keadaan pada waktu ini, di mana pendirian bank-bank dapat dilakukan dengan tiada pengawasan dan tidak terbatas. Suatu jumlah besar bank-bank kecil yang pada sendirinya sudah tidak bermanfaat bagi perkembangan urusan bank yang kokoh, oleh karena mereka, berhubung dengan banyaknya dan sungguhpun tidak berkekuatan cukup, harus berkonkurensi satu sama lain dengan sengit, sehingga terpaksa menawarkan syarat-syarat kredit yang dari sudut kepentingan bank tak dapat dipertanggung jawabkan merupakan rintangan bagi kemungkinan pengawasan yang efisien. Maka dari itu seharusnyalah dimuat suatu ketentuan dalam peraturan itu, yang menetapkan bahwa bank-bank yang didirikan sesudah pengundangan peraturan tersebut harus mempunyai modal, sekurang-kurangnya 22 juta rupiah. Bagi bank-bank yang sudah berdiri sebelumnya peraturan itu berlaku sebaiknya diadakan suatu masa peralihan.\n5. Selanjutnya Bank Indonesia harus melakukan pengawasan guna kepentingan solvabilitet dan likwiditet badan-badan kredit. Untuk sementara cukuplah, jika dalam hal ini diadakan ketentuan, bahwa Bank Indonesia tentang hal ini berhak mengadakan peraturan-peraturan guna menjaga terjaminnya solvabilitet dan likwiditet dari bank-bank yang bersangkuan. Mengingat perbedaan-perbedaan besar antara bank-bank yang ada, maka adalah terlalu sulit untuk mengadakan ukuran-ukuran yang mutlak mengenai hal itu.\n6. Untuk sementara Peraturan Pemerintah ini dinyatakan berlaku\nPENJELASAN PASAL DEMI PASAL",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan. Agar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatan dalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta,\npada tanggal 15 Januari 1955.\nPresiden Republik Indonesia,\nttd.\nSOEKARNO.\nMenteri Keuangan,\nttd.\nONG ENG DIE\nDiundangkan\npada tanggal 4 Pebruari 1955.\nMenteri Kehakiman,\nttd.\nDJODY GONDOKUSUMO.\nPENJELASAN\nUMUM\n1. Pasal 7 ayat (5) dari Undang-undang Pokok Bank Indonesia\n1953 berbunyi:\n\"Menunggu terlaksananya suatu peraturan Undang-undang\ntentang pengawasan terhadap urusan kredit, maka dengan\nPeraturan Pemerintah dapat diadakan peraturan-peraturan\nlebih lanjut bagi Bank untuk menjalankan pengawasan\ntermaksud guna kepentingan kemampuan membayar\n(\"solvabiliteit\") dan kelanjutan keuangan (\"liquiditeit\")\nbadan-badan kredit, begitu juga untuk pemberian kredit\nsecara sehat dan berdasarkan asas-asas kebijaksanaan bank\nyang tepat\".\n2. Sampai kini belum diadakan peraturan-peraturan mengenai\npengawasan terhadap urusan kredit oleh Bank Sentral,\nsungguhpun di dalam prakteknya atas dasar \"understanding\"\ndengan bank-bank yang bersangkutan sedikit banyak telah\ndilakukan pengawasan dengan cara meminta berbagai\nketerangan-keterangan dari bank-bank itu, dan di mana perlu\nmenyampaikan kepada mereka anjuran-anjuran berhubung dengan\nperkembangan di lapangan finansiil dan moneter.\nAtas dasar tersebut itulah dilakukan pengawasan\nterhadap Bank-bank Tabungan, yakni semenjak tahun 1932,\nsedangkan Bank Sentral berdasarkan laporan-laporan neraca\nbank yang diterima setiap triwulan dapat memperoleh\ngambaran sekedarnya tentang keadaan sebagian besar dari\nbank-bank umum (dagang).\nAkan tetapi pengawasan yang efektif terhadap semua\nbank di Indonesia, yang jika perlu dapat diperkuat dengan\nsanksi-sanksi, hingga kini belumlah ada.\nMengingat jalannya perkembangan urusan bank dan kredit\ndi Indonesia, maka sekarang dirasakan sangat perlu adanya\nperaturan yang pasti tentang pengawasan terhadap urusan\nkredit.\nKiranya dalam hal ini beberapa peraturan umum yang\nluas dapat mencukupi, oleh karena jika kita hendak lebih\n3. Tujuan pengawasan terhadap urusan kredit pengawasan mana mengandung fungsi pendidikan adalah tiga jenis, yakni:\nprimo : memajukan perkembangan pemberian kredit oleh bank-bank secara sehat dan yang berdasar pada asas-asas kebijaksanaan bank yang tepat;\nSecundo : perlindungan langsung terhadap kredit-kredit bank-bank ini (perlindungan mana dengan sendirinya secara tak langsung juga didapati dari usaha, termaksud sub primo);\ntertio : pembatasan ataupun bimbingan dalam pemberian kredit oleh bank-bank menurut garis-garis yang tertentu, untuk dapat mengendalikan politik moneter dan ekonomi yang dianggap perlu bagi kepentingan Negara.\n4. Pengawasan ini hanya baru dapat dilakukan sebagaimana mestinya, jika perluasan jumlah bank-bank dapat diatur dengan memperhatikan segi-segi moneter, finansiil dan ekonomis, jadinya tidak sebagai keadaan pada waktu ini, di mana pendirian bank-bank dapat dilakukan dengan tiada pengawasan dan tidak terbatas. Suatu jumlah besar bank-bank kecil yang pada sendirinya sudah tidak bermanfaat bagi perkembangan urusan bank yang kokoh, oleh karena mereka, berhubung dengan banyaknya dan sungguhpun tidak berkekuatan cukup, harus berkonkurensi satu sama lain dengan sengit, sehingga terpaksa menawarkan syarat-syarat kredit yang dari sudut kepentingan bank tak dapat dipertanggung jawabkan merupakan rintangan bagi kemungkinan pengawasan yang efisien. Maka dari itu seharusnyalah dimuat suatu ketentuan dalam peraturan itu, yang menetapkan bahwa bank-bank yang didirikan sesudah pengundangan peraturan tersebut harus mempunyai modal, sekurang-kurangnya 22 juta rupiah. Bagi bank-bank yang sudah berdiri sebelumnya peraturan itu berlaku sebaiknya diadakan suatu masa peralihan.\n5. Selanjutnya Bank Indonesia harus melakukan pengawasan guna kepentingan solvabilitet dan likwiditet badan-badan kredit. Untuk sementara cukuplah, jika dalam hal ini diadakan ketentuan, bahwa Bank Indonesia tentang hal ini berhak mengadakan peraturan-peraturan guna menjaga terjaminnya solvabilitet dan likwiditet dari bank-bank yang bersangkuan. Mengingat perbedaan-perbedaan besar antara bank-bank yang ada, maka adalah terlalu sulit untuk mengadakan ukuran-ukuran yang mutlak mengenai hal itu.\n6. Untuk sementara Peraturan Pemerintah ini dinyatakan berlaku\nPENJELASAN PASAL DEMI PASAL",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "cc121089-8334-43c8-9c20-ec199311215c",
+            "id": "2ab31bca-9fcb-4021-8fd4-4a2adf6e4cb5",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "5b2716b9-689d-4c8e-bf4a-e66b74d8d9f9",
+                "id": "6a566e27-0821-49d6-adc6-7cce21d2af7e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -196,24 +196,24 @@
             }
         },
         {
-            "id": "a5fcafef-6a92-46ae-9205-46735a7fc551",
+            "id": "197d42e3-b5aa-4058-b0c9-f25cb9090724",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "985c1ae9-a086-4b52-80cd-093841ef294e",
+                "id": "22d37ba3-8c99-4b7a-8bc1-1f23e0c8b6d4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Izin tertulis yang diberikan oleh Menteri Keuangan -\nuntuk mana Bank (Indonesia) juga akan diminta\npertimbangannya hanya akan diberikan kepada\n(2) Bank-bank yang mempunyai suatu modal-minimum sendiri\nyang tertentu. Alasan-alasan dari pembatasan ini telah\ndiuraikan dalam bagian Umum dari Penjelasan ini.\nBerhubung dengan tugas Dewan Moneter yang termaktub\ndalam pasal 22 dari Undang-undang Pokok Bank Indonesia\n1953, maka sudah selayaknyalah jika Dewan Moneter\nmenetapkan syarat-syarat tertentu mengenai pendirian\n(penempatan) bank-bank.",
+                "content": "(1) Izin tertulis yang diberikan oleh Menteri Keuangan\nuntuk mana Bank (Indonesia) juga akan diminta\npertimbangannya hanya akan diberikan kepada\n(2) Bank-bank yang mempunyai suatu modal-minimum sendiri\nyang tertentu. Alasan-alasan dari pembatasan ini telah\ndiuraikan dalam bagian Umum dari Penjelasan ini.\nBerhubung dengan tugas Dewan Moneter yang termaktub\ndalam pasal 22 dari Undang-undang Pokok Bank Indonesia\n1953, maka sudah selayaknyalah jika Dewan Moneter\nmenetapkan syarat-syarat tertentu mengenai pendirian\n(penempatan) bank-bank.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "1c1958e4-adbc-465a-a712-7ee1f065045f",
+            "id": "5bc0fc4a-825c-4f9a-a2f7-38f818fd1140",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "d3d0182c-a62e-429e-83d2-25297751617c",
+                "id": "eeb6826b-7fad-4e46-9204-f1e4dc536873",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -222,11 +222,11 @@
             }
         },
         {
-            "id": "a16bc620-3e10-4312-872f-50536281041a",
+            "id": "d6132881-4fb1-46ac-b314-f01c8f45eb8f",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "51e29a23-d32e-4d16-a198-4017fd59bf90",
+                "id": "2e8a512e-d44f-446d-9fb0-3d307b161d29",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -235,11 +235,11 @@
             }
         },
         {
-            "id": "52bfd826-f8b1-48ee-97ab-816bf88ed3b6",
+            "id": "9cdfbc2b-8443-46a9-ac95-6304b9aea63f",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "4c122c80-0670-401a-87bc-3d54177e719c",
+                "id": "e8bc8318-3c34-485e-890d-28ada7b13d34",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -248,11 +248,11 @@
             }
         },
         {
-            "id": "9ce98ebd-c40e-4628-8edb-879868247d27",
+            "id": "392b70c8-77fb-4b20-98f3-4a6bef8792fd",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "ffdaa8dc-37f3-4fa0-bec5-763f6b018a58",
+                "id": "d2635768-c5bc-430b-88f4-606bd5cda9ff",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -261,11 +261,11 @@
             }
         },
         {
-            "id": "eb8e06aa-f476-4c91-a865-81087d8ca6c8",
+            "id": "4ba8c23a-392c-4df4-ab73-8d2179379e1f",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "bf73062c-1eee-4ab6-aa36-2d6e300ed2ce",
+                "id": "4d66fa49-5ce9-4260-814b-f268bc7eed1e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -274,24 +274,24 @@
             }
         },
         {
-            "id": "2e0b0d06-ddd1-486d-8a4f-d7c56965860e",
+            "id": "a811f46e-c610-4625-9455-fc95039d20a5",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "b592cec3-0bd2-47e1-bbd5-69f269cfbf4e",
+                "id": "935ded42-6c99-4471-bf85-80879a29e220",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Pasal ini mengenai pemasukan keterangan-keterangan berkala,\nseperti misalnya perincian debitur-debitur dan kreditur-\nkreditur, daftar-daftar keterangan itu dibuat sesuai dengan\nformulir-formulir yang ditetapkan oleh Bank, agar dengan\ndemikian keterangan-keterangan itu dapat dikerjakan\nsecepat-cepatnya.",
+                "content": "Pasal ini mengenai pemasukan keterangan-keterangan berkala,\nseperti misalnya perincian debitur-debitur dan kreditur-\nkreditur. daftar-daftar keterangan itu dibuat sesuai dengan\nformulir-formulir yang ditetapkan oleh Bank, agar dengan\ndemikian keterangan-keterangan itu dapat dikerjakan\nsecepat-cepatnya.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "f87405ae-6f79-42b1-8926-0a13d95ff44e",
+            "id": "1480f64f-1a1d-498b-bac3-a24a758be047",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "391f8d54-dd73-4c4b-a2c2-83dc4a26d52a",
+                "id": "de098686-85fd-44c6-a347-e782118a785d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -300,11 +300,11 @@
             }
         },
         {
-            "id": "c7e3a5fa-7cdf-4d39-ba65-cd0368473181",
+            "id": "abee11c0-9b04-44fa-a807-c6243b7a8223",
             "name": "Article 12",
             "type": "article",
             "children": {
-                "id": "32ac53a4-f125-475a-ae9b-cfeacb3024b5",
+                "id": "def81c3f-0014-41ea-9cf5-bdc9bc1672ac",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",

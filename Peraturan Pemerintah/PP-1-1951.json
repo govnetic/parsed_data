@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "69704210-7bed-4e03-8430-6f9a0ae727b1",
+            "id": "b759ca01-f1e9-417c-bbb3-2932b657af88",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "7c2e6d29-6bc8-42f3-8116-86b046fa251c",
+                "id": "8ec51101-5e06-4e13-9a73-390c82a72da3",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,24 +14,24 @@
             }
         },
         {
-            "id": "948e817d-d4d6-4a8e-8830-9e579b74b772",
+            "id": "c2d711a8-5d02-4342-9ea4-3ccc248f2d58",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "c139212c-95d7-4249-a44c-00db5206be0b",
+                "id": "5660e60b-f9dd-4753-a80e-eb5ed4a096d1",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "1) Pemerintahan daerah Propinsi Sumatera Tengah untuk sementara\nwaktu dijalankan oleh seorang Gubernur, Kepala Daerah yang\ndiangkat oleh Pemerintah, bersama-sama dengan satu Dewan,\nyang terdiri dari seorang Ketua, yaitu Kepala Daerah dan\nsekurang-kurangnya 4 dan sebanyak banyaknya 6 orang anggauta\nyang diangkat dan diperhentikan oleh Menteri Dalam Negeri\natas usul Kepala Daerah.\n2) Dalam menjalankan tugasnya seperti tersebut dalam ayat 1\nDewan bertanggung-jawab kepada Menteri Dalam Negeri.",
+                "content": "1) Pemerintahan daerah Propinsi Sumatera Tengah untuk sementara\n   waktu dijalankan oleh seorang Gubernur, Kepala Daerah yang\n   diangkat oleh Pemerintah, bersama-sama dengan satu Dewan,\n   yang terdiri dari seorang Ketua, yaitu Kepala Daerah dan\n   sekurang-kurangnya 4 dan sebanyak banyaknya 6 orang anggauta\n   yang diangkat dan diperhentikan oleh Menteri Dalam Negeri\n   atas usul Kepala Daerah.\n2) Dalam menjalankan tugasnya seperti tersebut dalam ayat 1\n   Dewan bertanggung-jawab kepada Menteri Dalam Negeri.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "a20f360c-793d-4d05-9774-1a84d494bd2f",
+            "id": "bee838a3-8756-4ae8-87b9-c88e25d7ed11",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "3a5bc2e0-a02e-44a3-9785-c1b304d813fc",
+                "id": "5311c294-bca2-4888-a733-380ffc798805",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "287bd511-2ead-4aca-af43-35fd514e6ca7",
+            "id": "c748e2f2-74f7-4160-92ea-1fd606237f64",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "cae0b356-edda-413a-a6c7-2b766d895f82",
+                "id": "38172b0a-b4eb-4644-a342-d8a5e8cf2b22",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",

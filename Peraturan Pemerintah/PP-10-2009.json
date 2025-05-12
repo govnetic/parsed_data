@@ -1,0 +1,71 @@
+{
+    "results": [
+        {
+            "id": "a87946e2-9a36-4412-b69d-eae3828be404",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "aa3f035a-4774-4ef6-9558-3e285218b6c2",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "91048f12-214a-4d92-9716-c11237adb9d9",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "70ff75ba-ea3b-4520-b2f5-f6f6e28be2d4",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "acdc98f6-ec04-4e66-8fdf-f901a83af020",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "9208be55-23fa-4b52-b953-63819e6df40c",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "60b9c7db-cef6-4568-b862-fd8cde93b4ec",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "10",
+        "Tahun": "2009",
+        "Tentang": "PERUBAHAN KEDELAPAN ATAS\nPERATURAN PEMERINTAH NOMOR 10 TAHUN 1980\nTENTANG PEMBERIAN TUNJANGAN KEHORMATAN\nKEPADA BEKAS ANGGOTA KOMITE NASIONAL INDONESIA PUSAT\nDAN JANDA/DUDANYA",
+        "Menimbang": {
+            "Introduction": "\nbahwa besaran tunjangan kehormatan yang diberikan\nkepada Bekas Anggota Komite Nasional Indonesia Pusat\ndan Janda/Dudanya sebagaimana ditetapkan dalam\nPeraturan Pemerintah Nomor 10 Tahun 1980 tentang\nPemberian Tunjangan Kehormatan Kepada Bekas\nAnggota Komite Nasional Indonesia Pusat dan\nJanda/Dudanya, sebagaimana telah tujuh kali diubah\nterakhir dengan Peraturan Pemerintah Nomor 32 Tahun\n2008, tidak sesuai lagi dengan perkembangan keadaan,\nsehingga perlu mengubah besaran tunjangan kehormatan\nkepada Bekas Anggota Komite Nasional Indonesia Pusat\ndan Janda/Dudanya dengan Peraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
+            "2": " Peraturan Pemerintah Nomor 10 Tahun 1980 tentang\nPemberian Tunjangan Kehormatan Kepada Bekas\nAnggota Komite Nasional Indonesia Pusat dan\nJanda/Dudanya (Lembaran Negara Republik\nIndonesia Tahun 1980 Nomor 17) sebagaimana telah\ntujuh kali diubah terakhir dengan Peraturan\nPemerintah Nomor 32 Tahun 2008 (Lembaran Negara\nRepublik Indonesia Tahun 2008 Nomor 65);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN\nKEDELAPAN ATAS PERATURAN PEMERINTAH NOMOR\n10 TAHUN 1980 TENTANG PEMBERIAN TUNJANGAN\nKEHORMATAN KEPADA BEKAS ANGGOTA KOMITE\nNASIONAL INDONESIA PUSAT DAN JANDA/DUDANYA.",
+        "tanggal sah": "16 Januari 2009"
+    }
+}

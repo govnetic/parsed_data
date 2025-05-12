@@ -1,0 +1,155 @@
+{
+    "results": [
+        {
+            "id": "487974f7-f28d-4361-abc2-690ad1271dbf",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "8b1bfe51-1074-4fe1-9232-20611e492c1b",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "8919b257-e9b1-4037-937b-318b9d44b8dd",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Besaran nilai bantuan keuangan kepada Partai\nPolitik tingkat pusat yang mendapatkan kursi di\nDPR sebagaimana dimaksud dalam Pasal 2 ayat"
+                        },
+                        {
+                            "id": "0a4907ff-5ee7-4dc5-b1de-32a4305c97c5",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Besaran nilai bantuan keuangan kepada Partai\nPolitik tingkat provinsi yang mendapatkan kursi\ndi DPRD provinsi sebagaimana dimaksud dalam\nPasal 2 ayat (3) sebesar Rp1.200,00 (seribu dua\nratus rupiah) per suara sah."
+                        },
+                        {
+                            "id": "8d1b2e2c-9389-4d1f-9352-e5088d139c71",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Besaran nilai bantuan keuangan sebagaimana\ndimaksud pada ayat (1) dapat dinaikkan sesuai\ndengan kemampuan keuangan negara."
+                        },
+                        {
+                            "id": "a8a2a2ac-c9c5-4e49-b201-cbe4643bc986",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Bagi pemerintah provinsi yang alokasi anggaran\nbantuan keuangan kepada Partai Politik telah\nmelebihi Rp1.200,00 (seribu dua ratus rupiah) per\nsuara sah, alokasi anggaran bantuan keuangan\nkepada Partai Politik tahun berikutnya sama\ndengan jumlah bantuan keuangan kepada Partai\nPolitik tahun anggaran berjalan."
+                        },
+                        {
+                            "id": "69996064-261b-4ad9-807d-2505cadc5243",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Besaran nilai bantuan keuangan kepada Partai\nPolitik tingkat kabupaten/kota yang\nmendapatkan kursi di DPRD kabupaten/kota\nsebagaimana dimaksud dalam Pasal 2 ayat (3)\nsebesar Rp1.500,00 (seribu lima ratus rupiah) per\nsuara sah."
+                        },
+                        {
+                            "id": "63975ae7-f81b-4683-b779-2f56e8186662",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Bagi pemerintah kabupaten/kota yang alokasi\nanggaran bantuan keuangan kepada Partai Politik\ntelah melebihi Rp1.500,00 (seribu lima ratus\nrupiah) per suara sah, alokasi anggaran bantuan\nkeuangan kepada Partai Politik tahun berikutnya\nsama dengan jumlah bantuan keuangan kepada\nPartai Politik tahun anggaran berjalan."
+                        },
+                        {
+                            "id": "5f111b16-f3f6-45c6-acc4-f31b822ed6c2",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 7",
+                            "type": "verse",
+                            "content": " Besaran nilai bantuan keuangan sebagaimana\ndimaksud pada ayat (3), ayat (4), ayat (5), dan\nayat (6) dapat dinaikkan sesuai dengan\nkemampuan keuangan daerah setelah mendapat\npersetujuan Menteri Dalam Negeri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "31441a59-9070-46b7-a800-d3e91d1a12e2",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6b253de0-8fe7-44ca-8ca9-a58e0f54c4da",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Bantuan keuangan kepada Partai Politik\ndiprioritaskan untuk melaksanakan pendidikan\npolitik bagi anggota Partai Politik dan masyarakat."
+                        },
+                        {
+                            "id": "d4468999-2992-4e4a-877a-238d478eb180",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Selain digunakan untuk melaksanakan\npendidikan politik sebagaimana dimaksud pada\nayat (1), bantuan keuangan kepada Partai Politik\njuga digunakan untuk operasional sekretariat\nPartai Politik."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "e5290f49-370e-4a4d-afdc-07ad85df1318",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "17bd66d5-3a9a-44f9-b221-713d318d8e60",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Bagi Partai Politik yang melanggar ketentuan\nmelewati batas waktu atau tidak menyerahkan\nlaporan pertanggungjawaban sebagaimana\ndimaksud dalam Pasal 13 dikenai sanksi\nadministratif berupa tidak diberikan bantuan\nkeuangan APBN/APBD pada tahun anggaran\nberkenaan sampai laporan pertanggungjawaban\ndiperiksa oleh BPK."
+                        },
+                        {
+                            "id": "38767ab9-4db9-40fd-9d29-a2cd43646e0e",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pemeriksaan atas laporan pertanggungjawaban\nsebagaimana dimaksud pada ayat (1) dilakukan\npada tahun anggaran berikutnya."
+                        },
+                        {
+                            "id": "0c5c59df-de72-4f31-ba9c-ad2512e37958",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Laporan hasil pemeriksaan BPK sebagaimana\ndimaksud pada ayat (1) disampaikan kepada\nPartai Politik."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "e8f524b2-47fc-417a-b81b-717127fe51d5",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "d2ff7f16-a376-4012-99dd-e66d2ed4cf74",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "1",
+        "Tahun": "2018",
+        "Tentang": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 5\nTAHUN 2009 TENTANG BANTUAN KEUANGAN KEPADA PARTAI POLITIK",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa untuk memperkuat sistem dan kelembagaan\nPartai Politik melalui peningkatan bantuan keuangan\nkepada Partai Politik serta transparansi dan\nakuntabilitas pengelolaan bantuan keuangan Partai\nPolitik, beberapa ketentuan dalam Peraturan\nPemerintah Nomor 5 Tahun 2009 tentang Bantuan\nKeuangan Kepada Partai Politik sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 83 Tahun\n2012 tentang Perubahan atas Peraturan Pemerintah\nNomor 5 Tahun 2009 tentang Bantuan Keuangan\nKepada Partai Politik perlu dilakukan perubahan;",
+            "b": "  bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan untuk melaksanakan\nketentuan Pasal 34 ayat (4) Undang-Undang Nomor 2\nTahun 2011 tentang Perubahan atas Undang-Undang\nNomor 2 Tahun 2008 tentang Partai Politik, perlu\nmenetapkan Peraturan Pemerintah tentang Perubahan\nKedua atas Peraturan Pemerintah Nomor 5 Tahun"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 2 Tahun 2008 tentang Partai\nPolitik (Lembaran Negara Republik Indonesia Tahun\n2008 Nomor 2, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4801) sebagaimana telah diubah\ndengan Undang-Undang Nomor 2 Tahun 2011 tentang\nPerubahan atas Undang-Undang Nomor 2 Tahun 2008\ntentang Partai Politik (Lembaran Negara Republik\nIndonesia Tahun 2011 Nomor 8, Tambahan Lembaran\nNegara Republik Indonesia Nomor 5189);"
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang Perubahan\nKedua atas Peraturan Pemerintah Nomor 5 Tahun\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 2 Tahun 2008 tentang Partai\nPolitik (Lembaran Negara Republik Indonesia Tahun\n2008 Nomor 2, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4801) sebagaimana telah diubah\ndengan Undang-Undang Nomor 2 Tahun 2011 tentang\nPerubahan atas Undang-Undang Nomor 2 Tahun 2008\ntentang Partai Politik (Lembaran Negara Republik\nIndonesia Tahun 2011 Nomor 8, Tambahan Lembaran\nNegara Republik Indonesia Nomor 5189);\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG PERUBAHAN\nKEDUA ATAS PERATURAN PEMERINTAH NOMOR 5\nTAHUN 2009 ΤΕΝΤΑNG BANTUAN KEUANGAN KEPADA\nPARTAI POLITIK.",
+        "tanggal sah": "4 Januari 2018"
+    }
+}
