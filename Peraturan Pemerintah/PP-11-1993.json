@@ -1,0 +1,60 @@
+{
+    "results": [
+        {
+            "id": "9ec15695-1a37-457a-908a-a382716c1f24",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "54db9741-2926-410a-a937-fe001807c13d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "1a52c6ac-08c8-44de-9485-40b6b1d51ed2",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "0b00523a-315c-48ce-9fe0-368a158e0652",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Pejabat tersebut sesuai dengan Undang-undang Nomor 6 Tahun 1989 tentang\nPaten, adalah pejabat Kantor Paten.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "bac8b398-55b7-4be8-870e-9dd8f05249a2",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "27bd455f-b26a-48c5-ac62-459fc6e610a0",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "11",
+        "Tahun": "1993",
+        "Tentang": "BENTUK DAN ISI SURAT PATEN\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa dalam rangka penyelenggaraan sistem paten, Surat Paten\nmerupakan bukti pemberian paten yang sekaligus juga menjadi bukti\npemilikan paten atas sesuatu penemuan di bidang teknologi;",
+            "b": " bahwa berdasarkan Pasal 67 Undang-undang Nomor 6 Tahun 1989\ntentang Paten, bentuk dan isi Surat Paten harus ditetapkan dengan\nPeraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 6 Tahun 1989 tentang Paten (Lembaran\nNegara Tahun 1989 Nomor 39, Tambahan Lembaran Negara Nomor\n3398);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG\nBENTUK DAN ISI SURAT PATEN.",
+        "tanggal sah": ""
+    }
+}

@@ -1,38 +1,38 @@
 {
     "results": [
         {
-            "id": "b6dc406d-80a5-418d-baa1-521133c75228",
+            "id": "b270e632-5841-4d7e-bae5-cb86f5511ed9",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "dcc113e5-af13-4376-8445-f7f806c57f02",
+                    "id": "f4b5657e-a3b6-464f-891d-3b31ca1ed248",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "f0a70de4-ba06-439f-baaa-5a251bb9fee5",
+                        "id": "73b31e3f-d63d-4cdb-9606-17b52c2eb271",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\n1.  Pendidikan adalah usaha atau kegiatan untuk menyiapkan peserta\n    didikan melalui lembaga bimbingan, pengajaran dan/atau latihan\n    bagi peranannya dimasa yang akan datang.\n2.  Ilmu pengetahuan adalah pengetahuan tentang suatu bidang yang\n    disusun secara sistematis menurut metoda-metoda tertentu yang\n    dapat digunakan untuk menerangkan gejala-gejala tertentu dalam\n    bidang tersebut.\n3.  Penelitian dan pengembangan adalah usaha ilmiah yang sistematis\n    untuk menemukan hal-hal yang baru, memecahkan sesuatu\n    masalah, menguji kebenaran hipotesa atau teori, dan mencari\n    penerapan praktis.",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\n1. Pendidikan adalah usaha atau kegiatan untuk menyiapkan peserta\ndidikan melalui lembaga bimbingan, pengajaran dan/atau latihan\nbagi peranannya dimasa yang akan datang.\n2. Ilmu pengetahuan adalah pengetahuan tentang suatu bidang yang\ndisusun secara sistematis menurut metoda-metoda tertentu yang\ndapat digunakan untuk menerangkan gejala-gejala tertentu dalam\nbidang tersebut.\n3. Penelitian dan pengembangan adalah usaha ilmiah yang sistematis\nuntuk menemukan hal-hal yang baru, memecahkan sesuatu\nmasalah, menguji kebenaran hipotesa atau teori, dan mencari\npenerapan praktis.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "62a01e15-2a2e-447c-bdfb-19ecf2e754d3",
+            "id": "e99ff228-10a1-46e9-addc-adef68e49b82",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENERJEMAHAN DAN/ATAU\nPERBANYAKAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2f4db41a-1820-4535-af5a-8a5219e2ad9b",
+                    "id": "91d4208b-79fc-4324-810e-dfca5a6bcf52",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "8481525b-95dd-4a56-bf54-33a3ee00cf65",
+                        "id": "f4fada66-4780-464c-aa66-344c28556efd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -41,12 +41,12 @@
                     }
                 },
                 {
-                    "id": "21bc1b21-b137-4254-a8bd-2c4d02209740",
+                    "id": "d78df2ee-9c03-4796-b514-88bf2dfb559f",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9b460bfb-6c74-407f-a42f-499fb9bf4fa5",
+                            "id": "669c50fa-c805-431f-ad7f-8540e562c7bc",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -54,7 +54,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e3fd51ea-b085-4e34-b4a4-f4dbf263305f",
+                            "id": "4d29674b-e9fa-43f5-85c0-3de2617356b4",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -64,12 +64,12 @@
                     ]
                 },
                 {
-                    "id": "69ea652c-11be-471f-9f32-d167f134ee28",
+                    "id": "0096ecdd-1c42-4e67-a49b-4b1f0120b3f0",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e2e12925-3067-4d4a-965a-852fe3de4ce1",
+                            "id": "96380902-91d1-407a-8d28-9c15f46329b8",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -77,7 +77,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "38eea191-b9a8-4fb3-8717-22c5b8421e74",
+                            "id": "83b3e728-2bbe-4a52-9f83-1820dbdf8c8b",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -85,7 +85,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5e54fd29-99d5-4cd5-bda4-3f4982e1c66e",
+                            "id": "402c4e4f-2492-4cc7-988d-76b0a502aa05",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -95,11 +95,11 @@
                     ]
                 },
                 {
-                    "id": "419a5827-4b05-4756-9f75-ffca8be70fef",
+                    "id": "b54ccf63-3621-4c18-ad61-b42416376583",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "6cb226c1-822f-4dda-b8d6-2ebf0d0707d1",
+                        "id": "731497b4-39e9-405f-ab5c-72c820e0f84c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -108,11 +108,11 @@
                     }
                 },
                 {
-                    "id": "edc4ba68-f65e-460a-9108-0d509763ce05",
+                    "id": "e5662443-949a-4344-b975-960ccaa249ca",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "7a6292f5-7c94-4d19-950c-7ddf6a5a533e",
+                        "id": "28e09d6c-8017-4245-ba42-d827c7753a6d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -121,12 +121,12 @@
                     }
                 },
                 {
-                    "id": "d623e8c2-fcc6-465a-952f-4e920df29927",
+                    "id": "2be3f5e3-5005-4509-a5d4-a6f6598aa4ec",
                     "name": "Article 7",
                     "type": "article",
                     "children": [
                         {
-                            "id": "4b7eeced-aa4e-414b-bb00-49c437b44e2b",
+                            "id": "832b3c4b-e963-45a2-afbb-12f4cac5ba77",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -134,7 +134,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b657b25f-4ff1-4d98-92a5-755a4db6f209",
+                            "id": "a9ae27e1-33e5-43f2-89de-2288a4222d2f",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -142,7 +142,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b8a2f8fb-8604-48a2-8ef9-c0c94d595a07",
+                            "id": "1a38095a-d8b3-4cd4-a353-db04bebf137b",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -152,11 +152,11 @@
                     ]
                 },
                 {
-                    "id": "5bf7cc14-6746-4264-8d22-095ec56bdd00",
+                    "id": "fb454d5f-78b6-4346-974d-ed49d4c72774",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "2cc63945-b20b-4912-81d3-a9dcc78706d6",
+                        "id": "fe762ecb-4ec5-47a7-9ba3-bba5f9112397",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -165,12 +165,12 @@
                     }
                 },
                 {
-                    "id": "a41cd4d1-2e09-4d4c-9f6c-ccb1de6e56c5",
+                    "id": "77520f56-9300-48c4-9f6b-ebed23b8ab23",
                     "name": "Article 9",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8fe7a509-8eb3-44a6-9203-4c6e79cac79b",
+                            "id": "e951fb47-3f71-433e-a4ed-56e06993884c",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -178,7 +178,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2d7d712b-3022-45cc-9822-8545f03e3b75",
+                            "id": "048d6f99-a905-4360-b9e8-8eaf4d400334",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -186,7 +186,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b1fc2886-c046-4ce9-b68c-a1cbd6131b8d",
+                            "id": "a826accd-170f-43d1-8dbc-29840d565545",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -198,17 +198,17 @@
             ]
         },
         {
-            "id": "a9e74627-64cd-4621-b810-6e7361bf88bd",
+            "id": "6cfe84c7-a305-482d-bf74-211dfb96f223",
             "name": "Chapter III",
             "title": "\nPENILAIAN TENTANG KEPENTINGAN\nDAN PERLUNYA DILAKUKAN PENERJEMAHAN\nDAN/ATAU\nPERBANYAKAN SUATU CIPTAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f58cdb20-add2-4410-b10e-7b986ccd399e",
+                    "id": "c1af2692-0d27-4f36-882d-7b50694693ce",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "227b8ed6-b267-455c-87d9-6eeeeb7c25ef",
+                        "id": "55e962e8-6600-42d8-bad6-c4c4a892cc9d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -217,12 +217,12 @@
                     }
                 },
                 {
-                    "id": "f6359c17-b2fe-412d-b2d0-2c233d3116f7",
+                    "id": "270bb98a-cc1b-4ee9-8069-07207d9ce9e5",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "cd98e96e-e595-445c-9bbb-4b44bf998e4f",
+                            "id": "5b7aa790-ac42-477d-a363-4e13f0e32cca",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -230,7 +230,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f5fffd6d-3076-40c5-a4a3-0ada80e58e04",
+                            "id": "1453b965-c047-4cea-b0bc-216468e21323",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -238,7 +238,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2003b5ca-8272-4cb8-9d4f-ad05b9c02745",
+                            "id": "2b3845d1-7bbe-406f-9cc3-ed2955cec43a",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -248,11 +248,11 @@
                     ]
                 },
                 {
-                    "id": "31d88742-18e5-49f2-a0b5-b24e70654f7f",
+                    "id": "b44ae2f3-585e-4404-ad1a-f3678c2a5e63",
                     "name": "Article 12",
                     "type": "article",
                     "children": {
-                        "id": "10bb7617-8bbf-433b-ad58-91855dc333e2",
+                        "id": "5668de4b-dea8-45d0-ba82-8de7248e5b58",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -261,12 +261,12 @@
                     }
                 },
                 {
-                    "id": "8e80a3e6-fbda-4a3a-86d6-72f0e785f8b5",
+                    "id": "1a7bce5e-51d1-4496-a056-6cf30f9bb35c",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b0657939-ec43-43e5-9570-1c6be0c889ae",
+                            "id": "3d8ad797-3923-492e-87cf-935834eb2b0c",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -274,7 +274,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "52042dbc-02fa-4b08-8f9c-fc8b1652929c",
+                            "id": "195ef6b0-0297-4a03-84b2-14161fcef863",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -286,18 +286,18 @@
             ]
         },
         {
-            "id": "9c5ab4cf-555f-403d-b43d-e591547fe813",
+            "id": "bfd7010a-5326-49ad-8329-b8e5b57e288b",
             "name": "Chapter IV",
             "title": "\nTATA CARA PEMBERITAHUAN PERMINTAAN\nDAN PEMBEBANAN KEWAJIBAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "c9c93363-0297-4023-bfa6-7657de82d299",
+                    "id": "043c2b72-fb16-41d1-9aa0-02fec3825c57",
                     "name": "Article 14",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3e5a25c3-4945-4f7d-bdc8-d9d2d1bfe878",
+                            "id": "2c9fea10-92e7-4ca9-b3d8-1bdd688f55c0",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -305,7 +305,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "aa0122dc-f587-40ef-9b47-c055307d18f5",
+                            "id": "224ded7b-0438-459b-a953-b335fd9d057c",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -315,12 +315,12 @@
                     ]
                 },
                 {
-                    "id": "e9f37a1a-b834-41d7-a7b8-4fc422eb67c1",
+                    "id": "379bcebe-352a-490b-959b-0d8c8ada6753",
                     "name": "Article 15",
                     "type": "article",
                     "children": [
                         {
-                            "id": "02d7bed3-7f83-4a1f-8d83-8a9d816b8b9e",
+                            "id": "b4d58a4d-1aaa-4059-8e63-f90cf4dc78a7",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -328,7 +328,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1085861d-7ce4-4b59-a512-0aaca049bba4",
+                            "id": "5e220469-70b3-43ff-bd91-2248aaf1c611",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -338,12 +338,12 @@
                     ]
                 },
                 {
-                    "id": "8c2eb072-d0c8-48a4-9bc5-00f941515be8",
+                    "id": "8e57812c-8719-4add-8da4-fd0d5d11a44d",
                     "name": "Article 16",
                     "type": "article",
                     "children": [
                         {
-                            "id": "14300c19-fe93-4132-9a7a-0dd92796b584",
+                            "id": "333bac64-bf84-4934-8b1c-eb6e6aca1dea",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -351,7 +351,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "93741c9b-a4ea-40ae-9ed9-9001e74b3ad2",
+                            "id": "3943021f-0fa1-40c7-9209-a8fbbf1c43a7",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -359,7 +359,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a8be51c3-2b55-4264-8a7e-4482f05fc587",
+                            "id": "435b04fc-4f62-476e-8ffe-56e7f964c468",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -369,12 +369,12 @@
                     ]
                 },
                 {
-                    "id": "2f02295d-dede-4d9d-bf48-6fbc8946a079",
+                    "id": "13e2fc87-1967-4825-8960-6bde1a4dbd73",
                     "name": "Article 17",
                     "type": "article",
                     "children": [
                         {
-                            "id": "7c872f11-4120-4841-9e5c-4bea1f840c99",
+                            "id": "7a0081de-4d62-4883-b2be-8ebccacfda40",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -382,7 +382,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "cd342357-1f13-40c6-90cc-cd82e47cd518",
+                            "id": "f21faa0d-af79-4ad3-9f9e-7100d17664c4",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -392,11 +392,11 @@
                     ]
                 },
                 {
-                    "id": "62f772ad-11dd-4763-a199-dcbbef4f220e",
+                    "id": "6b1491ee-f2ed-493e-9966-f87debce3afb",
                     "name": "Article 18",
                     "type": "article",
                     "children": {
-                        "id": "f89817d6-0de5-45ea-991a-2126c6d34c70",
+                        "id": "62b6db10-0716-4870-a278-62a4ebc73d73",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -405,12 +405,12 @@
                     }
                 },
                 {
-                    "id": "82fb5c4a-cb8c-49fb-8e4e-b2d5aab5386d",
+                    "id": "5516d0d4-f226-48c8-8c5e-d41c8062a354",
                     "name": "Article 19",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d2a3be06-7768-4abf-a33b-f93bfd532965",
+                            "id": "5a7ee28a-ed16-4e7b-8fb7-b6dcfe348328",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -418,7 +418,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "bdd3d684-4f80-4855-b25b-cf9f9aa51b27",
+                            "id": "7dbb0c87-33bf-49a2-890f-e13e397dd613",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -430,18 +430,18 @@
             ]
         },
         {
-            "id": "406dd115-826d-4010-b59b-09e830b8cd65",
+            "id": "53c0c31c-ce90-4049-9a0b-3199cdad6059",
             "name": "Chapter V",
             "title": "\nIMBALAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f2d0b17b-a75f-4261-8aeb-08628d4cab43",
+                    "id": "a514c272-c5e9-4df6-bc26-5fa93e583ff8",
                     "name": "Article 20",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ec321322-a146-4e6a-8605-e514ab2948ef",
+                            "id": "c36aaf85-b575-45c4-b8fc-b32b8c51eda2",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -449,7 +449,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "88e8754c-23fc-42e4-b78f-298bede21c07",
+                            "id": "c1855f0b-ceee-42ce-8548-4ba4bf622fce",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -459,12 +459,12 @@
                     ]
                 },
                 {
-                    "id": "1f41f656-1c42-4359-b4f0-39f2159202ed",
+                    "id": "a94c0e01-98f7-4474-b3da-e6abe4b50f3f",
                     "name": "Article 21",
                     "type": "article",
                     "children": [
                         {
-                            "id": "2b28c824-f520-4ba3-84fd-97e202f0b64c",
+                            "id": "8d47ad8b-a699-4d1e-b308-d345d3d6685e",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -472,7 +472,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a217fc17-e283-4fef-aba5-07f9ef395956",
+                            "id": "3c7ca42c-3058-438a-8f8e-2269f5b0b80c",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -482,11 +482,11 @@
                     ]
                 },
                 {
-                    "id": "86e9826f-f4f1-4481-ba92-5f67f43cbb7e",
+                    "id": "9b438038-bcf0-4f26-81e0-5859fe2ea413",
                     "name": "Article 22",
                     "type": "article",
                     "children": {
-                        "id": "7d831fb4-b578-439e-9e05-680863abdd93",
+                        "id": "cc28458f-6002-44a7-85df-f2cf6fe8aed7",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -497,30 +497,30 @@
             ]
         },
         {
-            "id": "8138abf5-a1b6-4969-8f0b-1ace38aa2817",
+            "id": "aa7f6d15-88f8-4437-adb1-84bf986366e4",
             "name": "Chapter VI",
             "title": "\nPENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e70ed6d1-224a-40ad-8ae2-90b1a44c7b35",
+                    "id": "6036b5cf-2b17-43f0-af63-2f29371e85fd",
                     "name": "Article 23",
                     "type": "article",
                     "children": {
-                        "id": "e5f5d1e3-b34a-4b68-823a-c29f2b04ade7",
+                        "id": "150340bd-8f3d-4ec0-ab39-24bd57d9f1d5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nCukup jelas",
+                        "content": "\nCukup jelas\n",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "53325ff0-4b98-4a9d-9056-27f8375c23e2",
+                    "id": "0f72b7b9-de18-4de6-87c5-73af0a5d152d",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "4b37dd08-ba45-420a-81c2-fbedb11743c2",
+                        "id": "3913a072-a6d9-423f-bb6d-b29eb72ef5b0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -529,11 +529,11 @@
                     }
                 },
                 {
-                    "id": "c13f42be-0ff7-481b-8548-4ca1203b01df",
+                    "id": "21aa0d52-c10c-4865-8419-5b69307eb70d",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "1fa37eef-683f-46e3-9b4d-03c44e875a4c",
+                        "id": "ae1a1f01-a00c-4ce4-8f38-2962fe9f37ee",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -542,37 +542,37 @@
                     }
                 },
                 {
-                    "id": "9ddd46e1-648a-4a4d-aebc-d3caa0e74975",
+                    "id": "69554dab-30f7-425e-9ab6-b2d6dd69123b",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "95e7142c-55a2-4720-839f-814b05fa6e80",
+                        "id": "eaec0e54-0bfa-41b5-9551-d3acc6bd1c80",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nDalam hal ini Menteri Kehakiman bertindak untuk dan atas nama\nPemerintah, setelah mendengar pertimbangan Dewan Hak Cipta\nsebagaimana dimaksud dalam Peraturan Pemerintah Nomor 14\nTahun 1986 tentang Dewan Hak Cipta.\nAyat (2)\nSurat pemberitahuan disampaikan melalui dinas Pos secara\ntercatat dan bilamana dimungkinkan : melalui saluran diplomatik\ndengan mana Indonesia memiliki persetujuan kerjasama di",
+                        "content": "\nAyat (1)\nDalam hal ini Menteri Kehakiman bertindak untuk dan atas nama\nPemerintah, setelah mendengar pertimbangan Dewan Hak Cipta\nsebagaimana dimaksud dalam Peraturan Pemerintah Nomor 14\nTahun 1986 tentang Dewan Hak Cipta.\nAyat (2)\nSurat pemberitahuan disampaikan melalui dinas Pos secara\ntercatat dan bilamana dimungkinkan melalui saluran diplomatik\ndengan mana Indonesia memiliki persetujuan kerjasama di",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "f1c83267-59a9-45b0-bf38-554c4854df46",
+                    "id": "12b3546a-7844-4844-a56e-7203bb3fdfb0",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "8533c832-e752-465c-8a46-2286c60a97e8",
+                        "id": "7823a330-4c7c-4e7e-aa78-7b5e8a128084",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nPernyataan tersebut pada dasarnya bersifat kesediaan untuk memenuhi permintaan. Oleh karena yang penting adalah tersedianya ciptaan, maka Pemegang Hak Cipta boleh melakukannya dengan cara :\nPertama, segera mengekspor atau menambah ekspor ciptaan tersebut ke Indonesia;\nKedua, melalui perjanjian lisensi guna menerjemahkan dan/atau memperbanyak ciptaan tersebut di Indonesia;\nKetiga, gabungan kedua cara tersebut.\nJangka waktu 8 (delapan) bulan dinilai cukup untuk mempertimbangkan permintaan dan memberikan jawaban. Kapan harus dilaksanakan, periksa penjelasan berikutnya.\nTanggal penerimaan surat oleh dinas Pos yang tertera pada bukti pengiriman surat tercatat, digunakan sebagai saat mulai dihitungnya jangka waktu untuk pelaksanaan penerjemahan dan/atau perbanyakan. Pemilihan tanggal penerimaan oleh dinas Pos ini, semata-mata karena penggunaan jasa Pos, telah umum diketahui dan lazim digunakan\nAyat (2)\nJangka waktu 18 (delapan belas) bulan ini juga dihitung dari tanggal penerimaan surat pemberitahuan yang pertama oleh dinas Pos.\nYang dimaksud dengan saat mulainya pelaksanaan penerjemahan dan/atau perbanyakan adalah saat Pemegang Hak Cipta mulai melakukan langkah-langkah yang nyata untuk memperbanyak melalui cara ekspor ke Indonesia, atau memberi lisensi guna\nmenerjemahkan dan/atau memperbanyak ciptaannya di wilayah\nNegara Republik Indonesia.\nKetentuan ini diperlukan untuk mencegah upaya yang bersifat\nsemu dari Pemegang Hak Cipta, yaitu sekedar menyatakan\nkesediaan saja tetapi tidak mewujudkannya dalam\nlangkah-langkah yang kongkrit.\nDalam hal pemberian lisensi, jangka waktu selama 18 (delapan\nbelas) bulan tersebut memberikan kesempatan yang sangat\ncukup kepada Pemegang Hak Cipta untuk menemukan rekan\nusaha di Indonesia yang dapat diajak bekerja sama dalam rangka\npenerjemahan dan/atau perbanyakan. Seandainya kesediaan\ntersebut pada akhirnya baru diberikan pada bulan ke delapan\nsejak adanya pemberitahuan yang pertama kali, sisa waktu\nselama sepuluh bulan itupun dipandang masih cukup.\nAyat (3)\nPemegang Hak Cipta tidak diijinkan untuk melaksanakan sendiri\nsecara langsung di Indonesia. Kerja sama tersebut harus\ndilakukan dengan badan hukum Indonesia yang berusaha di\nbidang antara lain penerbitan di Indonesia. Bahwa sebagai\npenerbit badan hukum tersebut juga memiliki unit atau fasilitas\npercetakan; tidaklah menjadi masalah. Sebaliknya tidak\ndibolehkan apabila kerja sama itu dilakukan dengan badan\nhukum yang semata-mata hanya berusaha di bidang percetakan.\nUntuk kelancaran pelaksanaannya, apabila perlu Pemerintah\nmembantu Pemegang Hak Cipta dengan menyampaikan daftar\nbadan hukum serupa itu, atau alamat asosiasi-nya.",
+                        "content": "\nAyat (1)\nPernyataan tersebut pada dasarnya bersifat kesediaan untuk memenuhi permintaan. Oleh karena yang penting adalah tersedianya ciptaan, maka Pemegang Hak Cipta boleh melakukannya dengan cara :\nPertama, segera mengekspor atau menambah ekspor ciptaan tersebut ke Indonesia;\nKedua, melalui perjanjian lisensi guna menerjemahkan dan/atau memperbanyak ciptaan tersebut di Indonesia;\nKetiga, gabungan kedua cara tersebut.\nJangka waktu 8 (delapan) bulan dinilai cukup untuk mempertimbangkan permintaan dan memberikan jawaban. Kapan harus dilaksanakan, periksa penjelasan berikutnya.\nTanggal penerimaan surat oleh dinas Pos yang tertera pada bukti pengiriman surat tercatat, digunakan sebagai saat mulai dihitungnya jangka waktu untuk pelaksanaan penerjemahan dan/atau perbanyakan. Pemilihan tanggal penerimaan oleh dinas Pos ini, semata-mata karena penggunaan jasa Pos, telah umum diketahui dan lazim digunakan\nAyat (2)\nJangka waktu 18 (delapan belas) bulan ini juga dihitung dari tanggal penerimaan surat pemberitahuan yang pertama oleh dinas Pos. Yang dimaksud dengan saat mulainya pelaksanaan penerjemahan dan/atau perbanyakan adalah saat Pemegang Hak Cipta mulai melakukan langkah-langkah yang nyata untuk memperbanyak melalui cara ekspor ke Indonesia, atau memberi lisensi guna\nmenerjemahkan dan/atau memperbanyak ciptaannya di wilayah\nNegara Republik Indonesia.\nKetentuan ini diperlukan untuk mencegah upaya yang bersifat\nsemu dari Pemegang Hak Cipta, yaitu sekedar menyatakan\nkesediaan saja tetapi tidak mewujudkannya dalam\nlangkah-langkah yang kongkrit.\nDalam hal pemberian lisensi, jangka waktu selama 18 (delapan\nbelas) bulan tersebut memberikan kesempatan yang sangat\ncukup kepada Pemegang Hak Cipta untuk menemukan rekan\nusaha di Indonesia yang dapat diajak bekerja sama dalam rangka\npenerjemahan dan/atau perbanyakan. Seandainya kesediaan\ntersebut pada akhirnya baru diberikan pada bulan ke delapan\nsejak adanya pemberitahuan yang pertama kali, sisa waktu\nselama sepuluh bulan itupun dipandang masih cukup.\nAyat (3)\nPemegang Hak Cipta tidak diijinkan untuk melaksanakan sendiri\nsecara langsung di Indonesia. Kerja sama tersebut harus\ndilakukan dengan badan hukum Indonesia yang berusaha di\nbidang antara lain penerbitan di Indonesia. Bahwa sebagai\npenerbit badan hukum tersebut juga memiliki unit atau fasilitas\npercetakan; tidaklah menjadi masalah. Sebaliknya tidak\ndibolehkan apabila kerja sama itu dilakukan dengan badan\nhukum yang semata-mata hanya berusaha di bidang percetakan.\nUntuk kelancaran pelaksanaannya, apabila perlu Pemerintah\nmembantu Pemegang Hak Cipta dengan menyampaikan daftar\nbadan hukum serupa itu, atau alamat asosiasi-nya.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "da1328cd-edf9-453c-bbc3-730ef5a2cff3",
+                    "id": "42f6f853-367a-4e14-8475-413f1e2f1602",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "085dcc67-2719-43a4-b901-352d59f682b9",
+                        "id": "e876676d-9480-439d-b6b6-a13409a72b77",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -581,11 +581,11 @@
                     }
                 },
                 {
-                    "id": "f6df10ae-6d4e-401a-9471-b9cb92e7d703",
+                    "id": "96a9fa23-eda3-414f-9684-c2441d4036b3",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "e33ee2e5-aae6-4f5e-b033-bb55674652c3",
+                        "id": "85d89e98-d5e8-4619-956a-14992e9e5021",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -594,11 +594,11 @@
                     }
                 },
                 {
-                    "id": "04ed6bc4-6d29-4368-a6cd-6a3b2f77b1b1",
+                    "id": "b05e59f6-54be-40b5-ad51-48b184ff1b86",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "4ff23957-d702-43ab-8011-377964e6eb84",
+                        "id": "2dcf7d21-0935-4380-8a96-f887db5a277c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -607,11 +607,11 @@
                     }
                 },
                 {
-                    "id": "c5f468e9-64b7-45c8-bd70-db838da9ff22",
+                    "id": "896f868c-1e59-48e0-b089-b2ff1cf5850f",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "b1617c12-a73f-42e5-a142-c93af9b7ef92",
+                        "id": "13555ac8-d328-4d36-b928-8e2ce99b28ba",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -620,11 +620,11 @@
                     }
                 },
                 {
-                    "id": "ad1b3d14-6765-4bcf-b8e8-354fc614a246",
+                    "id": "67a4dd5a-8932-4146-9e19-e90fa1ffb948",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "b47711d9-94b5-4641-a850-3f56cb2b0aff",
+                        "id": "99e1d697-4d63-4ec5-b841-82ea4e74087a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -633,11 +633,11 @@
                     }
                 },
                 {
-                    "id": "0bbe4caf-29c1-43f5-8599-5c015cf121b9",
+                    "id": "e903d48e-1b5c-4117-891f-6feac8d1cb54",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "dd36fb49-2847-4c1d-8b9a-a28e290f649c",
+                        "id": "3f6476e4-fe10-489c-95e7-0e3ef7900c6d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -646,26 +646,26 @@
                     }
                 },
                 {
-                    "id": "bbd06b0c-b070-4f3d-9ddb-75cba5b8f28e",
+                    "id": "931be0c5-46f8-4af9-8994-49976c7cae8e",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "24758eb0-548a-4f05-bb3e-03144764d733",
+                            "id": "f8be098f-0a6f-494d-a995-b58c985bbbfa",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": ".",
+                            "content": "",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "e2463447-85b2-4982-bdad-d8f7783b4316",
+                    "id": "46aa752e-66c5-4d9d-baae-23a165974d14",
                     "name": "Article 12",
                     "type": "article",
                     "children": {
-                        "id": "ebd0a5b7-0426-4f3c-9317-fa7f7be3fc3d",
+                        "id": "c6435308-0e6d-4e2a-b5ac-5d7e34b1565c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -674,11 +674,11 @@
                     }
                 },
                 {
-                    "id": "de6ccfcb-c871-4d13-93e2-a16e172943b5",
+                    "id": "47db0464-f735-441d-907f-ae0474ad766b",
                     "name": "Article 13",
                     "type": "article",
                     "children": {
-                        "id": "fa723345-d236-4b4b-ab2b-5bb7d7ce41d6",
+                        "id": "1a7045a6-e53d-496b-a2a3-b1343ab19f1c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -687,24 +687,24 @@
                     }
                 },
                 {
-                    "id": "b935bef2-e9a2-4619-84e8-4e48f6ed3a28",
+                    "id": "6860f960-f02b-40b4-a3b0-093ecb8aa179",
                     "name": "Article 14",
                     "type": "article",
                     "children": {
-                        "id": "4fdb58c9-f30f-4d13-b2ea-9b34fa7c739b",
+                        "id": "7e1199ea-1993-4fd0-ad0f-664a760aa540",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nPencantuman hal-hal yang perlu diketahui tersebut dimaksudkan\nuntuk memberikan kejelasan bagi Pemegang Hak Cipta.\nSurat pemberitahuan disampaikan dengan cara sebagaimana\ndimaksud dalam Pasal 3.\nAyat (2)\nDengan ketentuan ini, diharapkan Pemegang Hak Cipta segera\nmemberikan tanggapan atas surat pemberitahuan tentang\npersetujuan atau penolakannya.\nDalam hal penolakan, harus disertakan pula alasan-alasannya.\nyang jelas. Persetujuan untuk memenuhi permintaan disertai\ndengan penjelasan tentang cara dan rencana pelaksanaannya :\nakan melakukannya dengan memperbanyak pemasukan (ekspor)\nke Indonesia, atau dengan memberikan lisensi, atau gabungan\nkedua cara tersebut. Kalau kesediaan untuk hanya\nmemperbanyak disebabkan karena kesulitan memperoleh tenaga\natau badan penerjemah yang dapat melakukan penerjemahan\ndengan benar dan tepat, Menteri Kehakiman dapat memberikan\nbantuan dengan memberitahukan alamat tenaga atau badan\npenerjemah yang diketahuinya.",
+                        "content": "\nAyat (1)\nPencantuman hal-hal yang perlu diketahui tersebut dimaksudkan\nuntuk memberikan kejelasan bagi Pemegang Hak Cipta.\nSurat pemberitahuan disampaikan dengan cara sebagaimana\ndimaksud dalam Pasal 3.\nAyat (2)\nDengan ketentuan ini, diharapkan Pemegang Hak Cipta segera\nmemberikan tanggapan atas surat pemberitahuan tentang\npersetujuan atau penolakannya.\nDalam hal penolakan, harus disertakan pula alasan-alasannya\nyang jelas. Persetujuan untuk memenuhi permintaan disertai\ndengan penjelasan tentang cara dan rencana pelaksanaannya :\nakan melakukannya dengan memperbanyak pemasukan (ekspor)\nke Indonesia, atau dengan memberikan lisensi, atau gabungan\nkedua cara tersebut. Kalau kesediaan untuk hanya\nmemperbanyak disebabkan karena kesulitan memperoleh tenaga\natau badan penerjemah yang dapat melakukan penerjemahan\ndengan benar dan tepat, Menteri Kehakiman dapat memberikan\nbantuan dengan memberitahukan alamat tenaga atau badan\npenerjemah yang diketahuinya.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "f5495cb0-8209-4a64-86d0-4875ec9fc2a6",
+                    "id": "e5619e12-d8f5-43ca-93fc-7bc769ce8987",
                     "name": "Article 15",
                     "type": "article",
                     "children": {
-                        "id": "627b7b74-43ed-45bd-a080-5be08294f86e",
+                        "id": "202b8b45-f1b2-4a9d-acbd-f6440b01268f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -713,11 +713,11 @@
                     }
                 },
                 {
-                    "id": "03a7d9bd-d78e-45af-8804-a9e89f3e6f79",
+                    "id": "c333a9d6-9865-4fcd-a6f7-417e87784455",
                     "name": "Article 16",
                     "type": "article",
                     "children": {
-                        "id": "ae242b3d-ae64-48a4-9057-6186ca69aebe",
+                        "id": "0af22b41-3275-469e-b64a-b000c069e812",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -726,63 +726,63 @@
                     }
                 },
                 {
-                    "id": "0fa417a9-35da-4cbe-b1eb-59814aee79b5",
+                    "id": "32327a1d-748c-4631-a80a-8bf543924731",
                     "name": "Article 17",
                     "type": "article",
                     "children": {
-                        "id": "b02f3218-2a9b-4919-b274-746fc5876784",
+                        "id": "84779ab4-2e9d-48ca-8376-8b22a6ea7609",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nKetentuan ini dengan demikian diberlakukan dalam hal Pemegang\nHak Cipta tidak bersedia melaksanakan kewajiban, atau tidak\nmenanggapi sama sekali pemberitahuan tentang kewajiban, atau\nkalau menyatakan kesediaan tetapi tidak mulai melaksanakannya\ndalam waktu yang ditentukan. Ketentuan ini juga diberlakukan\ndalam hal serupa, seperti diatur dalam Pasal 15 ayat (1).\nAyat (2)\nMenteri lain yang terkait antara lain adalah Menteri yang lingkup\ntugas dan kewenangannya meliputi pembinaan usaha penerbitan\natau Menteri yang berkaitan dengan sifat dan materi ciptaan\nsebagaimana dimaksud dalam Pasal 11 ayat (2). tidak ada tanggapan sama sekali, maka kepada Pemegang Hak\nCipta disediakan waktu untuk segera memberi lisensi dalam\nwaktu 10 (sepuluh) bulan.\nJangka waktu tersebut pada dasarnya adalah selisih waktu antara\njangka waktu yang disediakan untuk paling lambat melaksanakan\npenerjemahan dan/atau perbanyakan dalam Pasal 4 ayat (2),\ndengan jangka waktu untuk pemenuhan permintaan yang\ndisediakan dalam Pasal 4 ayat (1). Dengan sendirinya sisa jangka\nwaktu 10 (sepuluh) bulan tersebut, sudah termasuk di dalamnya\nuntuk juga mulai melaksanakan penerjemahan dan atau\nperbanyakan tersebut. Oleh karena itu, bila pernyataan tidak\nbersedia atau menolak untuk memenuhi permintaan tersebut\nberlangsung lebih awal, sisa waktu tersebut berarti dapat lebih\npanjang, sampai berakhirnya jangka waktu 18 (delapan belas)\nbulan seperti diatur dalam Pasal 4 ayat (2) tadi.",
+                        "content": "\nAyat (1)\nKetentuan ini dengan demikian diberlakukan dalam hal Pemegang\nHak Cipta tidak bersedia melaksanakan kewajiban, atau tidak\nmenanggapi sama sekali pemberitahuan tentang kewajiban, atau\nkalau menyatakan kesediaan tetapi tidak mulai melaksanakannya\ndalam waktu yang ditentukan. Ketentuan ini juga diberlakukan\ndalam hal serupa, seperti diatur dalam Pasal 15 ayat (1).\nAyat (2)\nMenteri lain yang terkait antara lain adalah Menteri yang lingkup\ntugas dan kewenangannya meliputi pembinaan usaha penerbitan\natau Menteri yang berkaitan dengan sifat dan materi ciptaan\nsebagaimana dimaksud dalam Pasal 11 ayat (2).",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "b7a280c1-d9d2-44ac-abe7-e72c6ca6d7d6",
+                    "id": "5b980db3-f07c-4b5f-9b8b-92ca27b3377c",
                     "name": "Article 18",
                     "type": "article",
                     "children": {
-                        "id": "bdef9abc-c531-4bce-b27b-f9113e853e24",
+                        "id": "1e0e45b4-1218-4478-bb81-b2ebad29fef5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nKetentuan ini dimaksudkan untuk mencegah timbulnya semacam\npersekongkolan antara Pemegang Hak Cipta dan badan hukum\nIndonesia yang menerima lisensi yang merugikan Bangsa dan\nNegara. Jangka waktu tersebut adalah sama dengan jangka waktu\npelaksanaan yang disediakan sebagaimana dimaksud dalam Pasal 4\nayat (2).",
+                        "content": "\nKetentuan ini dimaksudkan untuk mencegah timbulnya semacam persekongkolan antara Pemegang Hak Cipta dan badan hukum Indonesia yang menerima lisensi yang merugikan Bangsa dan Negara. Jangka waktu tersebut adalah sama dengan jangka waktu pelaksanaan yang disediakan sebagaimana dimaksud dalam Pasal 4 ayat (2).",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "8f87c54f-7282-459b-b0ce-15aa303bb4a8",
+                    "id": "e01b4752-c1c6-476b-8153-ab4be48afff7",
                     "name": "Article 19",
                     "type": "article",
                     "children": {
-                        "id": "f373a829-1bc1-41f3-85f7-a32227fbaeb3",
+                        "id": "2fc74ff5-762a-4698-8ef3-1ea707f7f12a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nYang diberikan adalah imbalan, dan bukan royalti ataupun ganti\nrugi.",
+                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nYang diberikan adalah imbalan, dan bukan royalti ataupun ganti rugi.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "94f0ac69-4a25-4411-9092-53bdb98d4e73",
+                    "id": "33d1d3ff-3a49-40cd-bf7f-7a6e59f53624",
                     "name": "Article 20",
                     "type": "article",
                     "children": {
-                        "id": "5eed8db6-55be-481f-90ac-24c48ffbcb87",
+                        "id": "f6414cd3-2835-4ea8-885a-d773845a719b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nSekalipun namanya imbalan, tetapi tidak berarti bahwa\npenetapan besar atau jumlahnya kemudian dapat dilakukan\ntanpa dasar. Penetapan besarnya imbalan tetap dengan\nmemperhatikan komponen atau unsur biaya yang lazim digunakan\ndalam penghitungan biaya-biaya dalam usaha penerbitan dengan\nlisensi.\nDengan begitu, pada dasarnya penetapan imbalan itupun\nberlangsung dengan wajar.",
+                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nSekalipun namanya imbalan, tetapi tidak berarti bahwa penetapan besar atau jumlahnya kemudian dapat dilakukan tanpa dasar. Penetapan besarnya imbalan tetap dengan memperhatikan komponen atau unsur biaya yang lazim digunakan dalam penghitungan biaya-biaya dalam usaha penerbitan dengan lisensi.\nDengan begitu, pada dasarnya penetapan imbalan itupun berlangsung dengan wajar.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "e701274e-c24b-4828-b83d-34774bb4decb",
+                    "id": "6104642f-4154-4d59-b52a-d1ebdd5a4e1d",
                     "name": "Article 21",
                     "type": "article",
                     "children": {
-                        "id": "4b0e3066-2faf-4b5f-86eb-8fc388e71201",
+                        "id": "bbc619f6-4b98-4a26-b500-97479dbeaeb3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -791,11 +791,11 @@
                     }
                 },
                 {
-                    "id": "dafd618c-82d6-4b91-940c-745ac9929fcd",
+                    "id": "206ea4ad-9301-473a-8363-e31ce9ae95a8",
                     "name": "Article 22",
                     "type": "article",
                     "children": {
-                        "id": "afc2e251-376f-43af-b703-848f91ba95f9",
+                        "id": "4783eace-696c-4ec5-83a8-5fa7ec42fed4",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -811,7 +811,7 @@
         "Tahun": "1989",
         "Tentang": "Not Available",
         "Menimbang": {
-            "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 15 Undang-undang Nomor\n6 Tahun 1982 tentang Hak Cipta sebagaimana telah diubah dengan\nUndang-undang Nomor 7 Tahun 1987, dipandang perlu mengatur lebih\nlanjut hal-hal mengenai pelaksanaan penerjemahan dan/atau\nperbanyakan ciptaan untuk kepentingan pendidikan, ilmu\npengetahuan, dan penelitian dan pengembangan;"
+            "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 15 Undang-undang Nomor\n6 Tahun 1982 tentang Hak Cipta sebagaimana telah diubah dengan\nUndang-undang Nomor 7 Tahun 1987, dipandang perlu mengatur lebih\nlanjut hal-hal mengenai pelaksanaan penerjemahan dan/atau\nperbanyakan ciptaan untuk kepentingan pendidikan,\npengetahuan, dan penelitian dan pengembangan;"
         },
         "Mengingat": {
             "Introduction": "",

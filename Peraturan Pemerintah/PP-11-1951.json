@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "9efb6387-fbad-4957-84bc-afadc5d0e65b",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "4c1ef9a2-c679-4288-bd8e-ea01974b03bf",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Semua ketentuan termuat dalam Peraturan Pemerintah No. 2\ntahun 1951 tentang Peraturan Pemberian pensiun kepada janda-janda\ndan onderstan kepada anak-anak yatim/piatu dari para anggauta\nTentara Angkatan Darat sebagai termaktub dalam Lembaran Negara\nNo. 5 tahun 195 1, berlaku juga untuk para anggauta Angkatan Laut\ndan Angkatan Udara.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "ba265ae4-e2a8-48ff-ba2a-4ed3257350ee",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "f4317f67-bcc8-4e78-a593-ce2f95bb99f8",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan\ndan berlaku surut sampai tanggal 1 Januari 1950.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "11",
+        "Tahun": "1951",
+        "Tentang": "PENETAPAN BERLAKUNYA PERATURAN PEMERINTAH\nNOMOR 2 TAHUN 1951, MENGENAI PEMBERIAN PENSIUN\nDAN ONDERSTAN UNTUK PARA ANGGAUTA ANGKATAN LAUT\nDAN ANGKATAN UDARA",
+        "Menimbang": {
+            "Introduction": "\nBahwa Peraturan Pemerintah Nomor 2 Tahun 1951 tentang Peraturan\nPemberian pensiun kepada janda-janda dan onderstan kepada anak-\nanak yatim/piatu dari para anggauta Tentara Angkatan Darat,\nsebagai termaktub dalam Lembaran Negara Nomor 5 Tahun 1951, perlu\nditetapkan berlaku juga untuk para anggauta dari Angkatan Laut\ndan Angkatan Udara;"
+        },
+        "Mengingat": {
+            "Introduction": "\nPasal 36 dan 98 Undang-undang Dasar Sementara Republik Indonesia\ndan pasal 7 dari Undang-undang Darurat Republik Indonesia Serikat\nNo. 4 tahun 1950 (Lembaran Negara No. 5 tahun 1950);\nMendengar \nDewan Menteri."
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENETAPAN BERLAKUNYA PERATURAN\nPEMERINTAH No. 2 TAHUN 1951 UNTUK PARA ANGGAUTA ANGKATAN LAUT DAN\nANGKATAN UDARA.",
+        "tanggal sah": "1 Januari 1950"
+    }
+}

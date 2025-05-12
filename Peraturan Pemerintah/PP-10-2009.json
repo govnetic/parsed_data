@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "id": "a87946e2-9a36-4412-b69d-eae3828be404",
+            "id": "ca6c2f2a-5a53-4d0a-81e1-31431f05cd3c",
             "name": "Article I",
             "type": "article",
             "children": [
@@ -9,12 +9,12 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "aa3f035a-4774-4ef6-9558-3e285218b6c2",
+                    "id": "da1e7435-d806-4273-bfa5-d73e531be457",
                     "name": "Article 1",
                     "type": "article",
                     "children": [
                         {
-                            "id": "91048f12-214a-4d92-9716-c11237adb9d9",
+                            "id": "b6709ff8-d5c4-488e-8b06-1dde960e0ab7",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\n"
@@ -25,12 +25,12 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "70ff75ba-ea3b-4520-b2f5-f6f6e28be2d4",
+                    "id": "58b71f97-1db2-4e88-a6ce-7726b45f991e",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "acdc98f6-ec04-4e66-8fdf-f901a83af020",
+                            "id": "efd5350a-b9d1-466c-bf42-0a9b8236b9f6",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\n"
@@ -40,12 +40,12 @@
             ]
         },
         {
-            "id": "9208be55-23fa-4b52-b953-63819e6df40c",
+            "id": "6ebc1cbc-93b5-46f7-b2e2-0d0bc0a3b058",
             "name": "Article II",
             "type": "article",
             "children": [
                 {
-                    "id": "60b9c7db-cef6-4568-b862-fd8cde93b4ec",
+                    "id": "847d9b68-7c02-4cf0-b812-186b56ea3884",
                     "name": "Verse 1",
                     "type": "verse",
                     "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia."

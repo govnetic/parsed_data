@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "id": "961fb55b-0d49-4c1e-8510-801bf9fd2abd",
+            "id": "40d477be-eed0-4b46-b98a-3ff2510fa88f",
             "name": "Article I",
             "type": "article",
             "children": [
@@ -9,19 +9,19 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "2859411c-887e-4c15-b34b-2b3c1e6314a8",
+                    "id": "f1904e63-44f0-46fb-90f5-951c9b2d7ecf",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9ec2edb5-c2b4-4e1e-8eb6-9a8a5599dfe7",
+                            "id": "7b6f6528-5e35-4dd5-ad4d-e0b7d8eaad7e",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 1",
                             "type": "verse",
-                            "content": " Perusahaan Penerbit SBSN Indonesia II didirikan\nuntuk jangka waktu yang tidak ditentukan.\n2017, No.58"
+                            "content": " Perusahaan Penerbit SBSN Indonesia II didirikan untuk jangka waktu yang tidak ditentukan.\n2017, No.58"
                         },
                         {
-                            "id": "1141c987-64e8-42bc-b414-02acc8195563",
+                            "id": "d54fdb30-8fe8-4378-b39f-e36035cbca41",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 2",
                             "type": "verse",
@@ -33,12 +33,12 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "24bc2f50-66e2-4d7e-8f85-4d954be1cb45",
+                    "id": "1c1263b6-f15a-4bf2-bd32-771b94c77558",
                     "name": "Article 14",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0f5b74e1-6948-4548-9c87-0365d9f855e5",
+                            "id": "e4a21472-e0aa-4db7-92eb-5dc1363761db",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\nAnggota dewan direktur sebagaimana dimaksud dalam\nPasal 13 ditetapkan dengan Keputusan Menteri\nberdasarkan ketentuan peraturan perundang-undangan\nmengenai Perusahaan Penerbit Surat Berharga Syariah\nNegara."
@@ -49,42 +49,42 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "7d37fb51-5303-4713-8cd5-39123f45ba66",
+                    "id": "cbec01c8-18b1-4871-84b2-7a36dd4567f7",
                     "name": "Article 17",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d8ff766b-7ac7-4cad-879c-2fe6a88be339",
+                            "id": "723d4899-45f1-4f44-9b11-6b6a8b633579",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": " Perusahaan Penerbit SBSN Indonesia II wajib\nmenyampaikan laporan pelaksanaan penerbitan\nSBSN kepada Menteri."
                         },
                         {
-                            "id": "d4edf48c-4d6e-4bc5-8160-6b92c934c376",
+                            "id": "386a04f3-9784-4baa-9d97-7fe4c4e3e7df",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 2",
                             "type": "verse",
                             "content": " Perusahaan Penerbit SBSN Indonesia II wajib\nmenyusun dan menyampaikan laporan tahunan\nkepada Menteri."
                         },
                         {
-                            "id": "b17d1e59-a520-4223-b874-2056a0900502",
+                            "id": "3e1830ac-2161-48ab-805e-3809fecd4c59",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 3",
                             "type": "verse",
-                            "content": " Laporan sebagaimana dimaksud pada ayat (1) dan\nayat (2) disusun berdasarkan ketentuan peraturan\nperundang-undangan mengenai Perusahaan\nPenerbit Surat Berharga Syariah Negara."
+                            "content": " Laporan sebagaimana dimaksud pada ayat (1) dan\nayat (2) disusun berdasarkan ketentuan peraturan\nperundang-undangan\nmengenai Perusahaan\nPenerbit Surat Berharga Syariah Negara."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "4b7d85f0-bcba-49a7-acdc-c28c63a2a5ad",
+            "id": "394147b8-2e9b-4b70-a1eb-19b5f0a581f2",
             "name": "Article II",
             "type": "article",
             "children": [
                 {
-                    "id": "2d49c67d-21c3-4031-87a5-b6ab0acea32a",
+                    "id": "39580164-0743-4453-9766-bc0010eff745",
                     "name": "Verse 1",
                     "type": "verse",
                     "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia."
@@ -104,9 +104,11 @@
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
-            "2": " Undang-Undang Nomor 19 Tahun 2008 tentang Surat\nBerharga Syariah Negara (Lembaran Negara Republik"
+            "2": " Undang-Undang Nomor 19 Tahun 2008 tentang Surat\nBerharga Syariah Negara (Lembaran Negara Republik",
+            "3": " Indonesia Tahun 2008 Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 4852);\nPeraturan Pemerintah Nomor 56 Tahun 2008 tentang Perusahaan Penerbit Surat Berharga Syariah Negara (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 117, Tambahan Lembaran Negara Republik Indonesia Nomor 4887) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 73 Tahun 2012 tentang Perubahan atas Peraturan Pemerintah Nomor 56 Tahun 2008 tentang Perusahaan Penerbit Surat Berharga Syariah Negara (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 168);",
+            "4": " Peraturan Pemerintah Nomor 51 Tahun 2010 tentang Pendirian Perusahaan Penerbit Surat Berharga Syariah Negara Indonesia II (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 72);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 51 TAHUN 2010\nTENTANG PENDIRIAN PERUSAHAAN PENERBIT SURAT\nBERHARGA SYARIAH NEGARA INDONESIA II.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 51 TAHUN 2010 TENTANG PENDIRIAN PERUSAHAAN PENERBIT SURAT BERHARGA SYARIAH NEGARA INDONESIA II.",
         "tanggal sah": "22 Maret 2017"
     }
 }

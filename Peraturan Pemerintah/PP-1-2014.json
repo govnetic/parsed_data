@@ -1,18 +1,18 @@
 {
     "results": [
         {
-            "id": "0d88091d-f676-40a3-8a43-238652d1f012",
+            "id": "76c76b22-89a9-4bc8-a119-663b68dcd3e7",
             "name": "Article I",
             "type": "article",
             "children": [
                 {
                     "change_type": [],
-                    "id": "6ebc6aa4-52c5-413b-b830-05121d98d9a4",
+                    "id": "279047fe-7170-4a11-964e-fb8ddef32bc0",
                     "name": "Article 170",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f78ea3c8-7bf4-47ce-a58e-3f862f1d4e5d",
+                            "id": "10ee1816-dcae-4c49-badf-cfa16233653e",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\n"
@@ -23,12 +23,12 @@
                     "change_type": [
                         "INSERT"
                     ],
-                    "id": "9b1f718f-67f1-4f56-86d3-07f307fbaebd",
+                    "id": "09fd24eb-ab05-43cc-8034-2a350c518640",
                     "name": "Article 112",
                     "type": "article",
                     "children": [
                         {
-                            "id": "89a6e6db-ea7e-41d3-ab7a-02f2cf7acfbe",
+                            "id": "3470a217-bd35-4030-b524-3e1209c80a7c",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\n"
@@ -38,15 +38,15 @@
             ]
         },
         {
-            "id": "4271997f-b54a-4c17-8f04-b309c55b2098",
+            "id": "a8400d41-d1b8-44e3-b1b6-d605707fda64",
             "name": "Article II",
             "type": "article",
             "children": [
                 {
-                    "id": "4a6b99e9-2382-4693-85e3-7556fcfad809",
+                    "id": "f05c390f-d518-4b1b-a6ba-e350f31f4dd5",
                     "name": "Verse 1",
                     "type": "verse",
-                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia."
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia."
                 }
             ]
         }
@@ -63,7 +63,7 @@
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
-            "2": " Undang-Undang Nomor 4 Tahun 2009 tentang\nPertambangan Mineral dan Batubara"
+            "2": " Undang-Undang Nomor 4 Tahun 2009 tentang\nPertambangan Mineral dan Batubara (Lembaran Negara"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN KEDUA\nATAS PERATURAN PEMERINTAH NOMOR 23 TAHUN 2010\nTENTANG PELAKSANAAN KEGIATAN USAHA\nPERTAMBANGAN MINERAL DAN BATUBARA.",
         "tanggal sah": "11 Januari 2014"

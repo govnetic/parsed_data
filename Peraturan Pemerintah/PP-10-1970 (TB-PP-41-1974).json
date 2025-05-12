@@ -1,37 +1,37 @@
 {
     "results": [
         {
-            "id": "072281f9-6da7-4b99-8bd9-9d5931555c79",
+            "id": "4f488423-ffd5-4260-a82e-93f367480eb2",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "de22ed61-e0c6-4963-905c-2b0b4e5aae2e",
+                "id": "8a3c019a-2b7b-4c99-9608-90fb78321d96",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "(1) Kepada Pegawai Negeri Sipil diberikan setiap bulan\ntunjangan kerja sebesar 50% (lima puluh perseratus) diatas\npenghasilan yang berhak diterima menurut \"PGPS-1968\" (Peraturan\nPemerintah Nomor 12 tahun 1967) dengan ketentuan, bahwa tunjangan\nkerja tersebut berjumlah sekurang-kurangnya Rp. 700,- (tujuh ratus\nrupiah) sebulan.\n(2) Yang dimaksud dengan penghasilan dalam ayat (1) pasal\nini ialah jumlah dari gaji pokok ditambah tunjangan keluarga,\ntunjangan khusus, tunjangan pelaksanaan, dan tunjangan jabatan\npimpinan.\n(3) Jumlah penghasilan baru setelah ditambah menurut\nketentuan ayat (1) pasal ini dibulatkan keatas menjadi rupiahan\npenuh.",
-                "explanation": "Tidak ada Penjelasan"
+                "explanation": "\nTunjangan-kerja ini pada dasarnya tidak diberikan kepada\nmereka yang tidak bekerja aktip; akan tetapi dianggap layak untuk\nmemberikan tunjangan tersebut juga kepada Pegawai yang\ndiberhentikan dari pekerjaannya/dibebaskan dari tugasnya karena\nalasan-alasan diluar kehendak atau kesalahannya sendiri."
             }
         },
         {
-            "id": "a8774c1b-8769-4c56-ab8f-7c0de2c4f2be",
+            "id": "2caf4e7a-aafb-4774-9fbf-e753d2678f65",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "520694d7-0835-4b4c-8322-4e73a61d09a7",
+                "id": "9d1bd860-cbc9-45ac-902e-03ace657b3f7",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "(1) Besarnya iuran-iuran yang dipungut dari gaji pegawai\nNegeri untuk membiayai usaha-usaha dalam bidang Pemeliharaan\nKesejahteraan Pegawai Negeri sebagaimana dimaksud dalam pasal 2\nPeraturan Pegawai Negeri sebagai mana dimaksud dalam pasal 2\nPeraturan Pemerintah Nomor 13 tahun 1967 (Lembaran Negara tahun\n1967 Nomor 25), ditetapkan menurut persentasi-persentasi dari\npenghasilan termaksud ayat (3) pasal 1 Peraturan Pemerintah ini.\n(2) Besarnya persentasi-persentasi termaksud ayat (1) pasal\nini dan perincian penggunaannya ditentukan lebih lanjut dengan\nSurat Keputusan Presiden.",
-                "explanation": "Tidak ada Penjelasan"
+                "explanation": "\nUntuk lebih mudah mengaturnya dan agar senantiasa dapat\ndisesuaikan dengan kepentingan Pegawai, tujuan dan pentingnya\nkebutuhan-kebutuhan dalam bidang Kesejahteraan, maka besarnya\npersentasi dan pembagian penggunaannya ditentukan dengan Surat\nKeputusan Presiden.\nCukup jelas.\nPasal 3 dan 4.\n"
             }
         },
         {
-            "id": "7a66a112-d6ca-46d9-8b1a-bb153064f9d2",
+            "id": "007665df-8e5f-45b5-a366-d2a67b2f1aee",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "c4bb1498-a447-4fe7-bad3-07f8186c3b9f",
+                "id": "5d14b687-0d78-4359-af74-ae041955fdcb",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "ab33d4f2-6977-4aa7-8a38-4d1128c9b316",
+            "id": "8ef9cdb9-1bfd-4610-bc11-0af172076582",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "1ebba70c-0cc7-4718-ab53-dacd753f5656",
+                "id": "05dbce9d-fe4d-4b25-9805-1116b974d506",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "cdd762d8-0808-4bc7-bad2-78436ad14803",
+            "id": "67b025c0-0d12-451d-890e-21edec09fb3d",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "71382648-0052-4516-8443-25f1a4324713",
+                "id": "3748d6e0-a298-41ce-8c6b-bcee731e5f83",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",

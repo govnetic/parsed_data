@@ -1,0 +1,69 @@
+{
+    "results": [
+        {
+            "id": "2af95aa3-19da-4548-ba05-cc17b0c69aa5",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "865ccd4b-c3de-44db-80dc-a7ff385d7d97",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "208a1674-90a3-446b-8e08-e4b248c9f7d5",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "c875d0d5-0e21-4e76-a0f7-dded646c595f",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "a2feb197-607d-4e98-9dd9-d24f9deec9c2",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "be4025cf-dfb4-45ad-b478-8903a27d1001",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "11",
+        "Tahun": "1974",
+        "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 35 TAHUN 1973\nTENTANG PENINGKATAN TUNJANGAN KERJA BAGI PEGAWAI DAN\nPENJABAT NEGARA\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa dipandang perlu untuk meningkatkan upah dan gaji secara\nbertahap, sehingga dicapai gaji/upah yang memadai untuk keperluan\nhidup ;",
+            "b": " bahwa berhubung dengan itu perlu mengubah persentasi tambahan\ntunjangan kerja bagi Pegawai Negeri dan Penjabat Negara,\nsebagaimana ditetapkan dalam Peraturan Pemerintah Nomor 35\nTahun 1973 tentang Perubahan Jumlah Minimal Tambahan\nTunjangan Kerja Bagi Pegawai Negeri dan Penjabat Negara\nsebagaimana ditetapkan dalam Peraturan Pemerintah Nomor 12\nTahun 1973."
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-undang Dasar 1945;",
+            "2": " Undang-undang Nomor 18 Tahun 1961 tentang Ketentuan-\nketentuan Pokok Kepegawaian (Lembaran Negara Tahun 1961\nNomor 263, Tambahan Lembaran Negara Nomor 2312);",
+            "3": " Undang-undang Nomor 2 Tahun 1974 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 1974/1975\n(Lembaran Negara Tahun 1974 Nomor 9, Tambahan Lembaran\nNegara Nomor 3022);",
+            "4": " Peraturan Pemerintah Nomor 10 Tahun 1970 tentang Pemberian\nTunjangan Kerja Bagi Pegawai Negeri Sipil (Lembaran Negara\nTahun 1970 Nomor 16);",
+            "5": " Peraturan Pemerintah Nomor 11 Tahun 1970 tentang Pemberian\nTunjangan Kerja Bagi Anggota A.B.R.I. (Lembaran Negara Tahun\n1970 Nomor 17, Tambahan Lembaran Negara Nomor 2926);",
+            "6": " Peraturan Pemerintah Nomor 14 Tahun 1970 tentang Pemberian\nTunjangan Kerja kepada Menteri Negara Republik Indonesia (Lembaran\nNegara Tahun 1970 Nomor 23);",
+            "7": " Peraturan Pemerintah Nomor 15 Tahun 1970 tentang Pemberian\nTunjangan Kerja kepada Pejabat Lembaga-lembaga Negara Tertinggi\ntermaksud ayat (1) sampai dengan (3) Pasal 1 Peraturan Pemerintah\nNomor 23 Tahun 1969 (Lembaran Negara Tahun 1970 Nomor 24);",
+            "8": " Peraturan Pemerintah Nomor 17 Tahun 1971 tentang Perbaikan\nTunjangan Kerja Bagi Pegawai Negeri dan Pejabat Negara sebagaimana\nditetapkan dalam Peraturan Pemerintah Nomor 10, 11, 14 dan 15\nTahun 1970 (Lembaran Negara Tahun 1971 Nomor 22, Tambahan\nLembaran Negara Nomor 2961);",
+            "9": " Peraturan Pemerintah Nomor 13 Tahun 1972 tentang Peningkatan\nTunjangan Kerja Bagi Pegawai Negeri dan Pejabat Negara sebagaimana\nditetapkan dalam Peraturan Pemerintah Nomor 17 Tahun 1971\n(Lembaran Negara Tahun 1972 Nomor 18, Tambahan Lembaran Negara\nNomor 2981);",
+            "10": " Peraturan Pemerintah Nomor 12 Tahun 1973 tentang Perubahan atas\nPeraturan Pemerintah Nomor 13 Tahun 1972 tentang Peningkatan\nTunjangan Kerja Bagi Pegawai Negeri dan Pejabat Negara (Lembaran\nNegara Tahun 1973 Nomor 18, Tambahan Lembaran Negara Nomor\n3001);",
+            "11": " Peraturan Pemerintah Nomor 35 Tahun 1973 tentang Perubahan Jumlah\nMinimal Tambahan Tunjangan Kerja Bagi Pegawai Negeri dan Pejabat\nNegara sebagaimana ditetapkan dalam Peraturan Pemerintah Nomor 12\nTahun 1973 (Lembaran Negara Tahun 1973 Nomor 44);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 35 TAHUN 1973 TENTANG\nPENINGKATAN TUNJANGAN KERJA BAGI PEGAWAI NEGERI\nDAN PENJABAT NEGARA.",
+        "tanggal sah": ""
+    }
+}

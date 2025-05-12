@@ -1,0 +1,74 @@
+{
+    "results": [
+        {
+            "id": "57e7b227-3d5b-4b41-9984-0a44e6754efe",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "6d7633bc-bffa-4e5c-850d-6aebacaeca07",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "1ae571a1-bb21-4c80-a509-73aac0ba1151",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "e0482f6c-66c6-429e-be38-385af0562b32",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "ccaa30fc-5786-4482-969c-db4c7c71b8c2",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "4e007101-57d6-486b-af01-43606135f9bb",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "eb5f44df-ceb6-431b-b34b-0247ab818811",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "ebe728ef-7f26-4e34-ada5-686f66e662e3",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.\nCATATAN\nKutipan: LEMBARAN NEGARA DAN ",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "11",
+        "Tahun": "1966",
+        "Tentang": "PENGANGKATAN DAN PEMBERHENTIAN PEGAWAI GOLONGAN GAJI\nF/V, F/VI, F/VII, F/VIII, P.G.P.N. 1961\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk melancarkan jalannya administrasi negara pada umumnya\ndan administrasi kepegawaian pada khususnya, perlu diusahakan\nuntuk mempercepat penyelesaian keputusan-keputusan Presiden\ntentang pengangkatan dan pemberhentian Pegawai Negeri Sipil yang\ndigaji menurut golongan gaji F/V \"P.G.P.N. 1961\";"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) dan pasal 17 Undang-Undang Dasar;",
+            "2": " Undang-undang Nomor 18 Tahun 1961 (Lembaran Negara Tahun 1961\nNomor 263 jo. Tambahan Lembaran Negara Nomor 2312) tentang\nKetentuan-ketentuan Pokok Kepegawaian. Undang-undang Nomor 21\nTahun 1952 (Lembaran Negara Tahun 1952 Nomor 78) tentang hak\npengangkatan dan pemberhentian Pegawai Negeri Sipil;",
+            "3": " Peraturan Pemerintah Nomor 34 Tahun 1954 (Lembaran Negara\nNomor 55 Tahun 1954) tentang hak kekuasaan untuk memberikan\nkenaikan gaji tertentu kepada pegawai Negeri;",
+            "4": " Peraturan Pemerintah Nomor 200 Tahun 1961 tentang Peraturan\ngaji Pegawai Negeri Sipil (Lembaran Negara Nomor 239 Tahun\n1961) jo. Tambahan Lembaran Negara Nomor 2280);",
+            "5": " Keputusan-keputusan Presiden Republik Indonesia Nomor 63, 64\ndan 65 Tahun 1966 tentang susunan Kabinet Dwikora yang\ndisempurnakan lagi.\nMendengar Presidium Kabinet Dwikora."
+        },
+        "Menetapkan": "\n",
+        "tanggal sah": ""
+    }
+}

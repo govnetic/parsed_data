@@ -1,39 +1,39 @@
 {
     "results": [
         {
-            "id": "59116304-45f3-4940-aa0c-feca8af1a5bf",
+            "id": "00aa7214-643b-45b5-8f81-f66880cf76e5",
             "name": "Chapter I",
             "title": ".\nPENDIRIAN.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "eb0ee0fd-8b7e-4ed4-8bfb-e3ce8db2a1c5",
+                    "id": "e8d42180-88ac-4b8a-974f-2bd83c52e595",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "043693d6-d256-4169-9dc1-c78f1752db0f",
+                        "id": "f492b3d8-8878-4f12-bf3c-7567eee8b939",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDengan nama Perusahaan Negara Asuransi Keurigan Jasa Aneka\nselanjutnya disebut Perusahaan Negara Jasa Aneka didirikan suatu\nPerusahaan Negara sebagai yang dimaksud dalam Undang-undang No. 19\nPrp tahun 1960 (Lembaran-Negara tahun 1960 No. 59) tentang\nPerusahaan Negara.",
+                        "content": "\nDengan nama Perusahaan Negara Asuransi Keurigan Jasa Aneka selanjutnya disebut Perusahaan Negara Jasa Aneka didirikan suatu Perusahaan Negara sebagai yang dimaksud dalam Undang-undang No. 19 Prp tahun 1960 (Lembaran-Negara tahun 1960 No. 59) tentang Perusahaan Negara.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "74e8d5b4-00e9-4a59-911b-0569ab2ae02b",
+                    "id": "fa2f9534-b74f-4143-9479-f0df3dcc7938",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8ed76a4c-0491-49b3-b4f7-656ff32a9140",
+                            "id": "c71ec5a6-f4b8-406b-99c4-3063b85e3ee9",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Perusahaan Negara Asuransi Kerugian Eka Nusa yang didirikan\ndengan Peraturan Pemerintah No. 16 tahun 1961 (Lembaran-\nNegara tahun 1961 No. 37) dan Perseroan Terbatas Milik Negara\nKritabhaya yang didirikan dengan akta Notaris No. 195\ntertanggal 11 Juni 1959, dengan ini dilebur dalam Perusahaan\nNegara Jasa Aneka tersebut;",
+                            "content": " Perusahaan Negara Asuransi Kerugian Eka Nusa yang didirikan dengan Peraturan Pemerintah No. 16 tahun 1961 (Lembaran- Negara tahun 1961 No. 37) dan Perseroan Terbatas Milik Negara Kritabhaya yang didirikan dengan akta Notaris No. 195 tertanggal 11 Juni 1959, dengan ini dilebur dalam Perusahaan Negara Jasa Aneka tersebut;",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "50333945-e57f-4e98-959b-a57bf6d04080",
+                            "id": "8ac191b1-4c3a-4aad-aa4a-c1e87272b865",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -43,11 +43,11 @@
                     ]
                 },
                 {
-                    "id": "ae559dcb-3234-4d52-a571-2c7d8f4f96ee",
+                    "id": "7eac36fc-9a4a-4422-bfc9-66c5b4e7f9dd",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "c9fb0217-7e43-4400-8e59-63fb92b0951d",
+                        "id": "38a09edc-b678-4ad0-a7f6-c7286e6e8013",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -58,18 +58,18 @@
             ]
         },
         {
-            "id": "2b69ecf0-63d4-43f9-9752-15dd47dec8c6",
+            "id": "4efdbad1-9740-4fbf-ac70-ec8104eee228",
             "name": "Chapter II",
             "title": ".\nANGGARAN DASAR.\nKetentuan Umum.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "13ff4b76-6850-467c-9691-8eca1fad7c85",
+                    "id": "b9cd4704-714e-493c-86d8-7a82174080a3",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0f6d79e5-0a01-4e87-b9a1-c93fe7f4485f",
+                            "id": "69da24e7-bd9a-4a6c-b524-42f8bda86b91",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -77,7 +77,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e374919c-a5bb-4ca7-88af-92ef2cc5c67c",
+                            "id": "202beb01-f1f4-4778-92c2-96dc38005b78",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -87,11 +87,11 @@
                     ]
                 },
                 {
-                    "id": "f92a4840-218a-4276-802e-f1ee59272b5a",
+                    "id": "7ec198d8-0836-47ba-8a24-c48afef068a1",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "284331a4-01fa-41d3-bbf2-bbbb72737c21",
+                        "id": "1a215bc4-acfc-4787-83f3-21810afc02ed",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -100,11 +100,11 @@
                     }
                 },
                 {
-                    "id": "b4538d39-b7af-445b-838a-f6f932fe8d48",
+                    "id": "bf195325-cc1a-47ee-b76c-fb1eeb5da7f0",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "62d1500d-91e7-4bb2-a31b-03f9e90c03b1",
+                        "id": "4387fc13-e313-4c99-9c32-ce6bddb5e3c1",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -113,11 +113,11 @@
                     }
                 },
                 {
-                    "id": "dc621a3a-c1ac-4f44-b2cc-fe6ed3f2dc3f",
+                    "id": "5da9add0-c21c-4d3e-9925-0715a960acc7",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "2a9365f0-e82e-4ef9-88a8-fe407f7760c7",
+                        "id": "e022c83a-d971-4d00-aad8-41883e90c665",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -126,11 +126,11 @@
                     }
                 },
                 {
-                    "id": "15ef9057-efd4-47b8-a5b4-6f699627f85c",
+                    "id": "47e83641-92fd-4a9d-a22a-1ba884f6866a",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "1690831b-d75f-411d-b7fe-81ed451d6679",
+                        "id": "4464246a-c4a5-4999-b8c2-9c4ce6d9e047",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -139,12 +139,12 @@
                     }
                 },
                 {
-                    "id": "22d24f17-e0c1-4c28-97ae-00ca667362dc",
+                    "id": "4e9d1fa9-5bf3-4cf1-b728-faf1e25bf9de",
                     "name": "Article 9",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b0f21fdc-2f1d-433a-9280-e953654f338d",
+                            "id": "f84f33f3-da18-4229-9989-4ca4c821cf15",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -152,7 +152,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7a3a2308-2cdb-47a3-b6d8-5bd3f9b68d7c",
+                            "id": "6443dc7f-8236-41f8-95ac-fc0d4c80da63",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -160,7 +160,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "31616e21-c722-412a-a25b-ca9a780f4342",
+                            "id": "8f4817a9-e19a-4da1-8d02-a83f0bce549d",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -168,7 +168,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "bb5aaa3c-40eb-4202-b717-6ae9a58252c7",
+                            "id": "ef1b3653-8737-4c66-8fab-5c54bc03a32e",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -178,12 +178,12 @@
                     ]
                 },
                 {
-                    "id": "05c2afd7-e1c5-48bc-a4c3-116949f96a88",
+                    "id": "622302a8-5d97-45d8-891b-1427534ff20a",
                     "name": "Article 10",
                     "type": "article",
                     "children": [
                         {
-                            "id": "51477e0a-b687-40c4-8223-ff6b1724b94f",
+                            "id": "afbc5409-26e8-4400-ad23-b20d2e6efbca",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -191,7 +191,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4d8d044c-b0ed-494e-b964-06ef129aabdf",
+                            "id": "63d27ee9-745b-40d6-9c4a-63c3edceb6ce",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -199,7 +199,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5052909f-74e1-4233-8f12-c146961ec8fe",
+                            "id": "0056bb6f-d7aa-429a-b13f-94afa68032d1",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -209,11 +209,11 @@
                     ]
                 },
                 {
-                    "id": "998ccc16-db16-425a-a464-1dc5866b26d9",
+                    "id": "580cf50f-6ac5-483b-8a74-96446456aad0",
                     "name": "Article 11",
                     "type": "article",
                     "children": {
-                        "id": "d0b00154-bac5-4ec1-962a-d824e0590394",
+                        "id": "93b5a8fe-cfec-4f9e-aa84-9ad94eaf8be2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -222,12 +222,12 @@
                     }
                 },
                 {
-                    "id": "bda1237d-00db-477b-b004-c384269d963d",
+                    "id": "041ebe96-df5a-490c-bc42-7a1e0e277f7d",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "aaab9426-ce09-4f15-8e9b-3f5173d850fa",
+                            "id": "2156ea1b-c758-40e9-a9a4-7b493ba38e9d",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -235,7 +235,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9d16826d-2a87-471a-be57-74f51944ecea",
+                            "id": "feb2e649-95f1-40f9-b0f4-34ab599012f1",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -243,7 +243,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4658d4da-d212-4884-9236-34bfada075da",
+                            "id": "cec6e0ca-5400-494c-bd16-dbbf6d0ec754",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -253,59 +253,59 @@
                     ]
                 },
                 {
-                    "id": "64fde295-89dc-4f3f-964f-0460708ea9a8",
+                    "id": "b22a81a7-182c-4d2b-8737-6cd08b19937d",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3b487c42-262c-481f-b046-1f74dab87628",
+                            "id": "8b40b003-30e8-4a14-9d69-f80867187847",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Anggota Direksi diangkat oleh Pemerintah atas usul Menteri\nuntuk selama-lamanya 5 (lima), tahun. Setelah waktu itu berakhir anggota yang bersangkutan dapat diangkat kembali.",
+                            "content": " Anggota Direksi diangkat oleh Pemerintah atas usul Menteri.\nuntuk selama-lamanya 5 (lima), tahun. Setelah waktu itu\nberakhir anggota yang bersangkutan dapat diangkat kembali.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0a59a27f-83a4-49e2-be4b-ee7355a50c10",
+                            "id": "46518a38-9f9b-4133-a395-84037e2fe494",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Dalam hal-hal di bawah ini Pemerintah dapat memberhentikan anggota Direksi, meskipun waktu tersebut dalam ayat (1) belum berakhir:\na. atas permintaan sendiri;\nb. karena tindakan yang merugikan perusahaan;\nc. karena tindakan atau sikap yang bertentangan dengan kepentingan Negara;\nd. karena meninggal dunia.",
+                            "content": " Dalam hal-hal di bawah ini Pemerintah dapat memberhentikan\nanggota Direksi, meskipun waktu tersebut dalam ayat (1)\nbelum berakhir:\na.   atas permintaan sendiri;\nb.   karena tindakan yang merugikan perusahaan;\nc.   karena tindakan atau sikap yang bertentangan dengan\nkepentingan Negara;\nd.   karena meninggal dunia.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d01b32a9-c78d-40a2-b6bc-a5a056c01bef",
+                            "id": "4dbe4f0b-3c0b-4fb8-80e2-e63f3ba9b11d",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Pemberhentian karena alasan tersebut dalam ayat (2) sub b dan sub c, jika merupakan suatu pelanggaran dari peraturan hukum pidana, merupakan pemberhentian tidak dengan hormat.",
+                            "content": " Pemberhentian karena alasan tersebut dalam ayat (2) sub b\ndan sub c, jika merupakan suatu pelanggaran dari peraturan\nhukum pidana, merupakan pemberhentian tidak dengan hormat.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "fc1d0325-6c3d-4f87-9be9-2b3aa49a7417",
+                            "id": "f1239082-726e-4ee2-9935-802a8fdd1c38",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Sebelum pemberhentian karena alasan tersebut dalam ayat (2) sub b dan sub c dilakukan, anggota Direksi yang bersangkutan diberi kesempatan untuk membela diri, hal mana harus dilaksanakan dalam waktu satu bulan setelah anggota Direksi yang bersangkutan diberitahukan tentang niat akan pemberhentian itu oleh Menteri.",
+                            "content": " Sebelum pemberhentian karena alasan tersebut dalam ayat (2)\nsub b dan sub c dilakukan, anggota Direksi yang bersangkutan\ndiberi kesempatan untuk membela diri, hal mana harus\ndilaksanakan dalam waktu satu bulan setelah anggota Direksi\nyang bersangkutan diberitahukan tentang niat akan\npemberhentian itu oleh Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f63bddc3-db73-430c-8537-e72ca433e3b4",
+                            "id": "cf216d69-7947-4893-9492-612139c3c1b4",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
-                            "content": " Selama persoalan tersebut dalam ayat (4) belum diputus, maka Menteri dapat memberhentikan untuk sementara waktu anggota Direksi yang bersangkutan. Jika dalam waktu dua bulan setelah pemberhentian sementara dijatuhkan belum ada keputusan mengenai pemberhentian anggota Direksi. berdasarkan ayat (3), maka pemberhentian sementara itu menjadi batal dan anggota Direksi yang bersangkutan dapat segera menjalankan jabatannya lagi, kecuali bilamana untuk keputusan pemberhentian tersebut diperlukan keputusan pengadilan, dalam hal mana itu harus diberitahukan kepada yang bersangkutan.",
+                            "content": " Selama persoalan tersebut dalam ayat (4) belum diputus, maka\nMenteri dapat memberhentikan untuk sementara waktu anggota\nDireksi yang bersangkutan. Jika dalam waktu dua bulan\nsetelah pemberhentian sementara dijatuhkan belum ada\nkeputusan mengenai pemberhentian anggota Direksi.\nberdasarkan ayat (3), maka pemberhentian sementara itu\nmenjadi batal dan anggota Direksi yang bersangkutan dapat\nsegera menjalankan jabatannya lagi, kecuali bilamana untuk\nkeputusan pemberhentian tersebut diperlukan keputusan\npengadilan, dalam hal mana itu harus diberitahukan kepada\nyang bersangkutan.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "dc5e8ece-6a36-4ce7-9f23-243a2954ffe5",
+                    "id": "7ab18118-c736-4569-9109-d93cbb6c4a98",
                     "name": "Article 14",
                     "type": "article",
                     "children": [
                         {
-                            "id": "491ba31d-9316-4257-8e77-a2ec77d0c22a",
+                            "id": "652d9084-06dc-4219-ba96-1e4d981c7b25",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -313,22 +313,22 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "66ef58cc-a6be-4556-913e-3d0798722a80",
+                            "id": "14bcd0d2-59c7-4999-930e-383ea41ace0f",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Direksi dapat menyerahkan kekuasaan mewakili tersebut dalam ayat (1) kepada anggota Direksi yang khusus ditunjuk untuk itu atau kepada seorang/beberapa orang pegawai Perusahaan, baik sendiri maupun bersama atau kepada orang badan lain.",
+                            "content": " Direksi dapat menyerahkan kekuasaan mewakili tersebut dalam\nayat (1) kepada anggota Direksi yang khusus ditunjuk untuk\nitu atau kepada seorang/beberapa orang pegawai Perusahaan,\nbaik sendiri maupun bersama atau kepada orang badan lain.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "069ca51a-6bb0-49d7-9153-6c03317ba80f",
+                    "id": "2cb2a58c-8343-49dd-89f5-1b159c841ee5",
                     "name": "Article 15",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b9f083a0-7a33-4051-bc28-16aa1bfdd770",
+                            "id": "c6b6fb3f-0251-4bfc-b037-050c8ee801d7",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -336,7 +336,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4cd23254-d2dd-4101-a5e8-3aa72c6f4d94",
+                            "id": "18482dca-c45e-4046-abb0-d229348c6d48",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -344,22 +344,22 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "c66dbd3b-9de5-4e9d-b22b-56664cf9157d",
+                            "id": "3e5c3a1c-fbe4-41e9-b604-434a47e3a633",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Tata-tertib dan cara menjalankan pekerjaan Direksi diatur dalam suatu peraturan yang ditetapkan oleh Direksi.\nPembinaan dan pengawasan Perusahaan.",
+                            "content": " Tata-tertib dan cara menjalankan pekerjaan Direksi diatur\ndalam suatu peraturan yang ditetapkan oleh Direksi.\nPembinaan dan pengawasan Perusahaan.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "989db29f-8903-4be7-b010-6ea99f04d458",
+                    "id": "d9340ed5-1651-44c1-a8fd-480676bd27b7",
                     "name": "Article 16",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9ac6816c-8cf3-4cd2-a38a-9b12a508e70c",
+                            "id": "fcc8999e-fab8-4cf4-a7c9-030d488e2d07",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -367,89 +367,89 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "674cb933-d839-4fd0-96a7-77efbe324a0d",
+                            "id": "c42958c4-7bc6-47c4-bd5a-ee73a7f53dee",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Untuk pelaksanaan tugas itu Menteri menunjuk seorang pejabat yang khusus ditugaskan untuk keperluan tersebut.",
+                            "content": " Untuk pelaksanaan tugas itu Menteri menunjuk seorang pejabat\nyang khusus ditugaskan untuk keperluan tersebut.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "c94c6920-cb2a-4db4-945d-b5355c3e9b92",
+                    "id": "422fd167-97e6-4f19-94e3-c57b7fd48521",
                     "name": "Article 17",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8326a65a-16f1-4000-9808-8306f421a34c",
+                            "id": "f094f7d1-2c31-4c91-894c-a81fe771292b",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " pegawai Perusahaan, termasuk anggota Direksi dalam kedudukan\nselaku demikian, yang tidak dibebani tugas penyimpanan uang,\nsurat berharga dan barang-barang persediaan, yang karena\ntindakan melawan hukum atau karena melalaikan kewajiban dan\ntugas yang dibebankan kepada mereka dengan langsung atau\ntidak langsung telah menimbulkan kerugian bagi Perusahaan,\ndiwajibkan mengganti kerugian tersebut.",
+                            "content": " pegawai Perusahaan, termasuk anggota Direksi dalam kedudukan selaku demikian, yang tidak dibebani tugas penyimpanan uang, surat berharga dan barang-barang persediaan, yang karena tindakan melawan hukum atau karena melalaikan kewajiban dan tugas yang dibebankan kepada mereka dengan langsung atau tidak langsung telah menimbulkan kerugian bagi Perusahaan, diwajibkan mengganti kerugian tersebut.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "93dbae0a-13b1-4dd6-8382-85ce9b99572f",
+                            "id": "fc4facb9-ab24-4fb2-892d-62f5f0454aa6",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Ketentuan tentang tuntutan-tuntutan ganti-rugi terhadap\npegawai negeri berlaku sepenuhnya terhadap pegawai\nPerusahaan, termasuk anggota Direksi dalam kedudukan selaku\ndemikian.",
+                            "content": " Ketentuan tentang tuntutan-tuntutan ganti-rugi terhadap pegawai negeri berlaku sepenuhnya terhadap pegawai Perusahaan, termasuk anggota Direksi dalam kedudukan selaku demikian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6f5c6ef1-a064-4960-9a3d-ba0431a36fff",
+                            "id": "9c827348-0658-40e7-b6a4-748dc9badc10",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Semua pegawai Perusahaan yang dibebani tugas penyimpanan milik\nPerusahaan dan barang-barang persediaan milik Perusahaan\nyang disimpan di dalam gudang atau tempat penyimpanan yang\nkhusus dan semata-mata digunakan untuk keperluan itu\ndiwajibkan memberikan pertanggungan-jawab tentang\npelaksanaan tugasnya kepada Badan Pemeriksa Keuangan.",
+                            "content": " Semua pegawai Perusahaan yang dibebani tugas penyimpanan milik Perusahaan dan barang-barang persediaan milik Perusahaan yang disimpan di dalam gudang atau tempat penyimpanan yang khusus dan semata-mata digunakan untuk keperluan itu diwajibkan memberikan pertanggungan-jawab tentang pelaksanaan tugasnya kepada Badan Pemeriksa Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "061e49f3-4af1-4cd8-889a-3f5c8ebe4017",
+                            "id": "fad62dce-2e34-4885-a9ab-6a25bdfe52f6",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Pegawai termaksud pada ayat (3) tidak perlu mengirimkan\npertanggungan-jawab mengenai cara mengurusnya kepada Badan\nPemeriksa Keuangan. Tuntutan terhadap pengawai tersebut\ndilakukan menurut ketentuan yang ditetapkan bagi pegawai\nnegeri bendaharawan, yang oleh Badan Pemeriksa Keuangan\ndibebaskan dari kewajiban mengirimkan pertanggungan-jawab\nmengenai cara mengurus.",
+                            "content": " Pegawai termaksud pada ayat (3) tidak perlu mengirimkan pertanggungan-jawab mengenai cara mengurusnya kepada Badan Pemeriksa Keuangan. Tuntutan terhadap pengawai tersebut dilakukan menurut ketentuan yang ditetapkan bagi pegawai negeri bendaharawan, yang oleh Badan Pemeriksa Keuangan dibebaskan dari kewajiban mengirimkan pertanggungan-jawab mengenai cara mengurus.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "81a3531b-76d0-4ec5-8dfa-ff695ac2ceb0",
+                            "id": "ddd988ff-cbb0-4a35-b0d4-6eddb5cda68b",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
-                            "content": " Semua surat bukti dan surat lainnya bagaimanapun juga sifatnya\nyang termasuk bilangan tata-buku dan administrasi\nPerusahaan, disimpan di tempat Perusahaan atau di tempat\nlain yng ditunjuk oleh Menteri, kecuali jika untuk sementara\ndipindahkan ke Badan Pemeriksa Keuangan dalam hal\ndianggapnya kepentingan sesuatu pemeriksaan.",
+                            "content": " Semua surat bukti dan surat lainnya bagaimanapun juga sifatnya yang termasuk bilangan tata-buku dan administrasi Perusahaan, disimpan di tempat Perusahaan atau di tempat lain yng ditunjuk oleh Menteri, kecuali jika untuk sementara dipindahkan ke Badan Pemeriksa Keuangan dalam hal dianggapnya kepentingan sesuatu pemeriksaan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "269f9687-51b1-4262-8bf2-e7b6fd53bb5a",
+                            "id": "3a8b7403-b89c-4617-98d6-216d111c9d90",
                             "name": "Verse 6",
                             "number": "(6)",
                             "type": "verse",
-                            "content": " Untuk keperluan pemeriksaan bertalian dengan penetapan pajak\ndan kontrole akuntan pada umumnya surat bukti dan surat\nlainnya dimaksud dalam ayat (5) untuk sementara dipindahkan\nke Jawatan Akuntan Negara.\nKepegawaian.",
+                            "content": " Untuk keperluan pemeriksaan bertalian dengan penetapan pajak dan kontrole akuntan pada umumnya surat bukti dan surat lainnya dimaksud dalam ayat (5) untuk sementara dipindahkan ke Jawatan Akuntan Negara.\nKepegawaian.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "8207f3bb-8bde-456c-98fe-f93e88d150f3",
+                    "id": "f2834a2c-e85a-4b0b-abc9-91f18b96c567",
                     "name": "Article 18",
                     "type": "article",
                     "children": {
-                        "id": "a45c2e33-b63a-4244-bff4-e8145b772271",
+                        "id": "72e9bb57-b70f-45ae-9e47-e3d00572bb20",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDireksi mengangkat dan memberhentikan pegawai Perusahaan\nmenurut peraturan kepegawaian yang disetujui oleh Menteri\nberdasarkan peraturan pokok kepegawaian yang ditetapkan oleh\nPemerintah.\nTahun buku.",
+                        "content": "\nDireksi mengangkat dan memberhentikan pegawai Perusahaan menurut peraturan kepegawaian yang disetujui oleh Menteri berdasarkan peraturan pokok kepegawaian yang ditetapkan oleh Pemerintah.\nTahun buku.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "84573bcd-1519-42c9-8f5c-6ea84c397980",
+                    "id": "4c38105f-90a0-4750-b6bb-b6d3fb963f69",
                     "name": "Article 19",
                     "type": "article",
                     "children": {
-                        "id": "a55bfc30-77c9-4b6a-9ab6-b6a502e5751e",
+                        "id": "9d03657b-3b3b-4778-a63f-aaae31618abd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -458,12 +458,12 @@
                     }
                 },
                 {
-                    "id": "d65d5e6c-1f8d-47e8-88c9-2ca761b13675",
+                    "id": "2cc15106-b71f-4af6-ab42-3c79a5425d15",
                     "name": "Article 20",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b21405ac-f6a3-4eb9-80ad-e988e49e539b",
+                            "id": "41cd566d-c5a4-4a73-8aba-4f3d31be244d",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -471,7 +471,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "69f4ca63-971a-4489-b3cc-742afae77542",
+                            "id": "79667f23-29a8-4897-878d-f8dcf148b5bd",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -479,7 +479,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "dc723184-e5cd-4aba-a90c-d9ef2c66ba41",
+                            "id": "de3dd602-0390-4568-aba8-b907af2773f4",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -489,11 +489,11 @@
                     ]
                 },
                 {
-                    "id": "7559c526-4546-477f-afb0-ddede89e37ed",
+                    "id": "a738dc78-601e-4291-8237-2bbebe83781a",
                     "name": "Article 21",
                     "type": "article",
                     "children": {
-                        "id": "ef49733c-7e04-4b6f-b545-bec294fb3388",
+                        "id": "c60bd74c-e54d-4221-bd47-1acd01c25d8e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -502,12 +502,12 @@
                     }
                 },
                 {
-                    "id": "41fcd063-12f7-4229-ae88-e880764bab83",
+                    "id": "93dbc4c8-4662-41b7-896f-8477effa1030",
                     "name": "Article 22",
                     "type": "article",
                     "children": [
                         {
-                            "id": "95fffd42-625e-4266-845b-961160679086",
+                            "id": "91271d53-1377-4ee1-8581-c2544192aef8",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -515,7 +515,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9aa88dc7-9377-4671-8c26-69a2229a02b0",
+                            "id": "de369098-1a3a-407e-bb1c-0282ef0f1ab5",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -523,7 +523,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1be15950-b834-440a-84ff-3396c392bca2",
+                            "id": "0c6bef89-460b-4946-826d-6a7238c697a2",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -531,7 +531,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "85ba4e3a-36a9-4cb0-bfe2-119a7a7195fd",
+                            "id": "3a580b7c-e319-420c-92ab-b096622068c1",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -541,20 +541,20 @@
                     ]
                 },
                 {
-                    "id": "935c4231-7fc0-4add-9382-fa36590bd297",
+                    "id": "47fb765c-ddae-4411-91a8-b9ae4a53e204",
                     "name": "Article 23",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e8fc13a1-3f76-4fc6-b147-ba367cc82eab",
+                            "id": "58393993-304b-4959-879f-811ccbd21739",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Dari laba bersih yang telah disyahkan menurut pasal 22\ndisisihkan untuk:\na.dana pembangunan semesta sebesar 55%;\nb.cadangan umum sebesar 20% sampai cadangan umum tersebut\nmencapai jumlah dua kali modal perusahaan, ganti-rugi\n3%, sedangkan sisanya dipisahkan untuk sumbangan dana\npensiun dan sokongan pegawai, sosial dan pendidikan dan\njaga produksi yang jumlah persentasinya masing-masing\nditetapkan oleh Direksi dengan persetujuan Menteri.",
+                            "content": "Dari laba bersih yang telah disyahkan menurut pasal 22\ndisisihkan untuk:\na.dana pembangunan semesta sebesar 55%;\nb.cadangan umum sebesar 20% sampai cadangan umum tersebut\nmencapai jumlah dua kali modal perusahaan, ganti-rugi\n3%, sedangkan sisanya dipisahkan untuk sumbangan dana\npensiun dan sokongan pegawai, sosial dan pendidikan dan\njaga produksi yang jumlah persentasinya masing-masing\nditetapkan oleh Direksi dengan persetujuan Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "079473c2-589e-4445-91c4-3042109a9a00",
+                            "id": "95eb79a6-13f8-44ad-ba08-401ee590110f",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -562,7 +562,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1976978c-9ed5-44fc-89ea-d203f1b4ea42",
+                            "id": "65b6eae5-b1c3-4e25-bc5c-91a62aace99c",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -572,12 +572,12 @@
                     ]
                 },
                 {
-                    "id": "f5e1f76f-e39c-4170-a020-aa1c03de4c0f",
+                    "id": "54c9c812-7571-4108-9a17-6e411533c58a",
                     "name": "Article 24",
                     "type": "article",
                     "children": [
                         {
-                            "id": "72a2121b-da8a-4d98-bc4e-f250b22645c7",
+                            "id": "0da1b34c-5893-47aa-a815-8d42490e2e30",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -585,7 +585,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d6341e2c-8fe7-441f-9f04-82b18228b469",
+                            "id": "697ab440-5d42-468d-9d31-058c2f904aab",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -593,7 +593,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7e54293e-4e59-4d23-9255-e2f5a85ccd41",
+                            "id": "b3b1c4f8-5e36-4f5b-92ad-01aa55458c08",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -605,17 +605,17 @@
             ]
         },
         {
-            "id": "0ce2c52e-bf94-43b7-a5a6-33ba155116c8",
+            "id": "a5821dba-2289-42db-8465-683457caada5",
             "name": "Chapter III",
             "title": ".\nKETENTUAN PERALIHAN.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ac2a1a09-6b6b-4835-8ef1-54b74c8ec021",
+                    "id": "a9c2156b-0f1e-4faf-8564-088cfa4f0790",
                     "name": "Article 25",
                     "type": "article",
                     "children": {
-                        "id": "355632dd-91e9-4262-83e3-60e06ef0397f",
+                        "id": "59112d60-2937-4cac-8bd3-ecb363957190",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -626,17 +626,17 @@
             ]
         },
         {
-            "id": "f4103f69-da6a-4246-9793-22cd62aa7cbe",
+            "id": "c7fffe10-6efb-4de4-bcd9-166080a8f71e",
             "name": "Chapter IV",
             "title": ".\nKETENTUAN PENUTUP.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "1b32fc7b-86c1-4bdb-807d-77516cb04bca",
+                    "id": "8a6c5871-61f4-4d8c-899d-42bfe7499131",
                     "name": "Article 26",
                     "type": "article",
                     "children": {
-                        "id": "e1547350-2978-47de-991a-713d9ea7d858",
+                        "id": "b935065f-c437-41fe-b97f-9feb27de8dd3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -645,11 +645,11 @@
                     }
                 },
                 {
-                    "id": "85204b11-5fac-43b8-9bf0-c1b6da4088b0",
+                    "id": "af9dae2a-b0cf-449e-8528-47e4425b38de",
                     "name": "Article 27",
                     "type": "article",
                     "children": {
-                        "id": "0027e0d1-7424-4bd7-bef2-7eed6b7766a3",
+                        "id": "4b747600-f3f0-4824-8a06-5ca272cae7cd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -666,17 +666,17 @@
         "Tentang": "PENDIRIAN PERUSAHAAN NEGARA ASURANSI KERUGIAN JASA ANEKA",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa perlu segera dilaksanaka spesialisasi dalam bidang\nperasuransian kerugian untuk meningkatkan efisiensi kerja dan\nproduktivitas masing-masing unit;",
-            "b": " bahwa berhubungan dengan itu perlu didirikan suatu Perusahaan\nNegara menurut Undang-undang No. 19 Prp tahun 1960 tentang\nPerusahaan Negara (Lembaran-Negara tahun 1960 No. 59), yang\nkhusus berusaha dalam bidang perasuransian non-marine\n(kebakaran dan varia);"
+            "a": " bahwa perlu segera dilaksanaka spesialisasi dalam bidang perasuransian kerugian untuk meningkatkan efisiensi kerja dan produktivitas masing-masing unit;",
+            "b": " bahwa berhubungan dengan itu perlu didirikan suatu Perusahaan Negara menurut Undang-undang No. 19 Prp tahun 1960 tentang Perusahaan Negara (Lembaran-Negara tahun 1960 No. 59), yang khusus berusaha dalam bidang perasuransian non-marine (kebakaran dan varia);"
         },
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat 2 Undang-undang Dasar;",
-            "2": " Pasal 3 ayat (1) undang-undang No. 19 Prp. tahun 1960\n(Lembaran-Negara tahun 1960 No. 59);",
-            "3": " Peraturan Pemerintah No. 26 tahun 1964 (Lembaran-Negara tahun\nNo. 60);",
-            "4": " Undang-undang No. 28 tahun 1964 (Lembaran-Negara tahun 1964\nNo. 119);\nMendengar;\nPresidium Kabinet Republik Indonesia;"
+            "2": " Pasal 3 ayat (1) undang-undang No. 19 Prp. tahun 1960 (Lembaran-Negara tahun 1960 No. 59);",
+            "3": " Peraturan Pemerintah No. 26 tahun 1964 (Lembaran-Negara tahun No. 60);",
+            "4": " Undang-undang No. 28 tahun 1964 (Lembaran-Negara tahun 1964 No. 119);\nMendengar;\nPresidium Kabinet Republik Indonesia;"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang Pendirian Perusahaan Negara Asuransi\nKerugian Jasa Aneka.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang Pendirian Perusahaan Negara Asuransi Kerugian Jasa Aneka.",
         "tanggal sah": "1 Januari 1965"
     }
 }

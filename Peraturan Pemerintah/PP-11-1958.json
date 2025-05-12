@@ -1,0 +1,147 @@
+{
+    "results": [
+        {
+            "id": "f45a625c-77fa-48aa-abda-bc800f1b3efc",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "fd1c22ec-f35e-4556-b635-677c6e9eba29",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Dengan bertempat kedudukan di Jakarta dibentuk \"Badan Urusan Dagang\" dengan\nsingkat B.U.D.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "3e54536b-786d-4d0e-abe4-8d027e65ea1d",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "0173fc40-61ab-4e5e-9691-764384be5d90",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Yang dimaksud dengan perusahaan-perusahaan perdagangan dalam peraturan ini ialah perusahaan-perusahaan perdagangan yang walaupun perusahaan-perusahaan ini mempunyai cabang usaha di lapangan lain, telah dikuasai oleh Pemerintah berdasarkan peraturan Penguasa Militer No. kpts/ 160/PKMDR/ 1957.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "b4d4c120-2791-4855-bcd8-6da73f846bd6",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "4ee52e82-d9be-401b-977c-fab3cc592748",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1. B.U.D. dipimpin oleh suatu Direksi yang terdiri dari seorang Presiden Direktur dan dua orang Direktur yang diangkat oleh Pemerintah.\n2. B.U.D. dapat mengadakan cabang-cabangnya baik di dalam maupun di luar negeri, bila dianggap perlu.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "73f5734e-c2e5-496b-8799-0ec5a7ad74be",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "92e33098-bb64-4598-a2af-88fbf2e0278d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Tugas dari B.U.D. antara lain ialah :\n1. menguasai serta menyelenggarakan management sebaik-baiknya atas perusahaan-perusahaan yang telah dikuasai oleh Pemerintah, agar supaya perusahaan-perusahaan tersebut dapat melanjutkan funksinya di lapangan perdagangan ataupun di lapangan lain seperti yang dikehendaki oleh Pemerintah;\n2. mengurus hal-hal mengenai pembiayaan transaksi dagang ataupun biaya-biaya lainnya dari perusahaan-perusahaan tersebut.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "551e6611-f03f-4104-b7b3-5b501377c3a8",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "41777579-9159-4055-ad86-de4f8d765d4a",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Pada tiap perusahaan perdagangan tersebut ditunjuk tenaga- tenaga warga negara Indonesia untuk melakukan management pada perusahaan itu atas petunjuk-petunjuk dari Badan Urusan Dagang.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "bfd3685f-ef3e-4778-b170-9ed4506b7a8f",
+            "name": "Article 6",
+            "type": "article",
+            "children": {
+                "id": "4afb99bf-38a5-4a88-ad45-25930fee5ebf",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Tenaga-tenaga tersebut pada pasal 5 diambil dari kalangan pejabat-pejabat Pemerintah sipil dan militer yang telah berpengalaman di lapangan perdagangan ataupun di lapangan lain bila diperlukan dan/atau dari kalangan partikelir, termasuk tenaga-tenaga Indonesia yang sekarang sudah bekerja pada perusahaan-perusahaan tersebut.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "ed3e0bcc-8a6e-45cd-b608-c1c44234f869",
+            "name": "Article 7",
+            "type": "article",
+            "children": {
+                "id": "d66fd0df-ef54-4e09-91f6-06782a366cc1",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1. Tenaga-tenaga tersebut pada pasal 5 diangkat oleh Menteri Perdagangan dengan surat keputusan.\n2. Jika dianggapnya perlu Menteri Perdagangan dapat mengangkat seorang tenaga ahli yang tidak langsung berhubungan dengan soal-soal perdagangan; dalam hal ini pengangkatan tersebut dilakukan setelah mendengar usul dari Menteri lainnya yang\ntugasnya meliputi pekerjaan untuk hal mana dibutuhkan pengangkatan tenaga ahli\ntersebut di atas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "09b68fbf-416c-4775-972f-92e715cdaa6b",
+            "name": "Article 8",
+            "type": "article",
+            "children": {
+                "id": "bdcaa31d-0730-465c-aa41-24dcbcb24925",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Jika dianggapnya perlu, Menteri Perdagangan dapat membentuk Badan Penasehat.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "06a71e8c-748c-4771-908f-85067cdeaaff",
+            "name": "Article 9",
+            "type": "article",
+            "children": {
+                "id": "a0e1623c-faa3-48a1-941d-b76f758513ee",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Hal-hal yang belum diatur dalam peraturan ini, diatur lebih lanjut oleh Menteri\nPerdagangan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "baf7d52f-616f-4b1e-9914-911d9c13afbd",
+            "name": "Article 10",
+            "type": "article",
+            "children": {
+                "id": "4301532b-eb20-425c-a506-cdad6c494d1b",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah dengan penempatan dalam Lembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "11",
+        "Tahun": "1958",
+        "Tentang": "PEMBENTUKAN BADAN URUSAN DAGANG",
+        "Menimbang": {
+            "Introduction": "\n1 bahwa perlu diadakan penguasaan perusahaan-perusahaan perdagangan yang\ntelah dikuasai Pemerintah dengan tujuan agar supaya perusahaan-perusahaan\ntersebut dapat melanjutkan funksinya di lapangan perdagangan ataupun di\nlapangan lain seperti dikehendaki oleh Pemerintah;\n2 bahwa perlu segera membentuk badan urusan dagang tersebut;\n3 bahwa perlu segera menunjuk tenaga-tenaga warga negara Indonesia yang akan\nmelakukan pimpinan pada perusahaan-perusahan tersebut masing-masing;"
+        },
+        "Mengingat": {
+            "Introduction": "\n1 Keputusan Presiden R.I. No. 225 tahun 1957 jo. Undang-undang No. 79 tahun\n1957 (Lembaran-Negara tahun 1957 No. 170 dan Tambahan Lembaran-Negara\nNo. 1491) tentang pernyataan keadaan perang atas seluruh wilayah Republik\nIndonesia;\n2 Undang-undang No. 74 tahun 1957 (Lembaran-Negara tahun 1957 No. 160) pasal\n8 ayat (5);\n3 Algemene machtiging-ordonnantie (Stbl. 1939 No. 557) yang telah diubah dan\nditambah;\n4 Verorderning Medewerking Bedrijven (Stbl. 1940 No. 203);\nMendengar\nDewan Menteri dalam rapatnya pada tanggal 14 Pebruari 1958;"
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang pembentukan badan urusan dagang yang telah dikuasai\noleh Pemerintah sebagai berikut",
+        "tanggal sah": "4 Maret 1958"
+    }
+}

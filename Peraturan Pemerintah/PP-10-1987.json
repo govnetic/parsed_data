@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "1443dcc6-d798-4fd4-9bb1-8d698ba79021",
+            "id": "07fafd6a-8635-4c9f-9787-d6df9be0e912",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "037693cf-03c7-405c-ae31-57ff574fe54d",
+                    "id": "855eebe0-8953-424d-952f-a146a8b54281",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "13b775e8-dac9-4d57-96e0-917a4121933b",
+                        "id": "55cde7aa-221a-487e-98c0-8c7a57b8677e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,11 +20,11 @@
                     }
                 },
                 {
-                    "id": "5fbbb679-acc7-4036-9fce-30676214edcc",
+                    "id": "51cd7934-7a3a-4043-9fc9-9f5d310a1466",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "81257990-d741-4ee6-aa05-b5f746318af3",
+                        "id": "d9c4d4d9-ca59-47c5-90f7-e93730be204b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -35,51 +35,51 @@
             ]
         },
         {
-            "id": "056c7fae-8aa1-449a-aa9b-da77ba83b27e",
+            "id": "e50b458d-89d5-4fac-84b8-850a65a07dcd",
             "name": "Chapter II",
             "title": "\nSATUAN TURUNAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "5bc41199-9e55-4203-bdb6-089c2054f2e4",
+                    "id": "ff38bac5-5611-4ddc-9c78-b56f22bba943",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "3ac639c3-2519-4372-af63-909bde821a98",
+                        "id": "2d0d4024-ddd8-493d-a5e6-c1650e75d20f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nSatuan Turunan sebagaimana dimaksud dalam Pasal 2 dibagi atas 3 (tiga) golongan, yaitu :\na.  Satuan Turunan untuk besaran dengan nama dan lambang satuan yang dinyatakan dalam\nnama dan lambang Satuan Dasar;\nb.  Satuan Turunan untuk besaran dengan nama dan lambang khusus;\nc. Satuan Turunan untuk besaran yang menggunakan gabungan Satuan Dasar dan Satuan\nTurunan tersebut pada huruf b atau gabungan Satuan Turunan tersebut pada huruf a dan\nhuruf b.",
+                        "content": "\nSatuan Turunan sebagaimana dimaksud dalam Pasal 2 dibagi atas 3 (tiga) golongan, yaitu :\na. Satuan Turunan untuk besaran dengan nama dan lambang satuan yang dinyatakan dalam nama dan lambang Satuan Dasar;\nb. Satuan Turunan untuk besaran dengan nama dan lambang khusus;\nc. Satuan Turunan untuk besaran yang menggunakan gabungan Satuan Dasar dan Satuan Turunan tersebut pada huruf b atau gabungan Satuan Turunan tersebut pada huruf a dan huruf b.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "407a9358-e0c9-4603-8c9d-685842eb3d84",
+                    "id": "282a1244-4a83-423a-8ae4-a66ab9579bab",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3d645ae2-cb9c-4299-8fc2-f1d02d5d6810",
+                            "id": "0e1cbebf-4f21-40c0-a087-939e9942b79f",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Satuan Turunan untuk besaran sebagaimana dimaksud dalam Pasal 3 huruf a adalah\nsebagaimana tercantum dalam Lampiran I.",
+                            "content": " Satuan Turunan untuk besaran sebagaimana dimaksud dalam Pasal 3 huruf a adalah sebagaimana tercantum dalam Lampiran I.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b3245376-467d-467a-913b-8bd0c96d8a7d",
+                            "id": "9c18f43b-aec4-4a9d-b68e-bfbd0724db39",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Satuan Turunan untuk besaran sebagaimana dimaksud dalam Pasal 3 huruf b adalah\nsebagaimana tercantum dalam Lampiran II.",
+                            "content": " Satuan Turunan untuk besaran sebagaimana dimaksud dalam Pasal 3 huruf b adalah sebagaimana tercantum dalam Lampiran II.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "051ebca4-e91f-4f52-9370-f32c44d5b515",
+                            "id": "26203316-0a8a-4ee6-bbf7-11f27ec2dafb",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Satuan Turunan untuk besaran sebagaimana dimaksud dalam Pasal 3 huruf c adalah\nsebagaimana tercantum dalam Lampiran III.",
+                            "content": " Satuan Turunan untuk besaran sebagaimana dimaksud dalam Pasal 3 huruf c adalah sebagaimana tercantum dalam Lampiran III.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -87,18 +87,18 @@
             ]
         },
         {
-            "id": "60cda4af-e5ef-419e-94ac-9bdd69a1896e",
+            "id": "7667458b-12ad-49f9-aad7-81686ca9b1ba",
             "name": "Chapter III",
             "title": "\nSATUAN TAMBAHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "85529aae-866a-4c6a-8b9c-0c42869d228d",
+                    "id": "09b4772e-5408-46bf-98d8-0d5ad14f5594",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "c5ea41ad-53cb-4bb9-bfb9-ade803f79a87",
+                            "id": "301f1dc3-9acd-4dac-88d5-bf53666a767a",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -106,11 +106,11 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7cbc7f7d-5ec9-4a43-8e5d-a2517095e44e",
+                            "id": "4657c1a3-8736-4dce-ba1e-32c5dba3905d",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Bersama Satuan Dasar dan/atau Satuan Turunan, Satuan Tambahan dapat membentuk\nturunan sebagaimana tercantum dalam Lampiran V.",
+                            "content": " Bersama Satuan Dasar dan/atau Satuan Turunan, Satuan Tambahan dapat membentuk turunan sebagaimana tercantum dalam Lampiran V.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -118,17 +118,17 @@
             ]
         },
         {
-            "id": "7041a8c3-1da0-42ad-9df9-40bd1fd8d30c",
+            "id": "7af091d4-ffed-454d-bfce-a1cfc9b89d36",
             "name": "Chapter IV",
             "title": "\nSATUAN LAIN YANG BERLAKU",
             "type": "chapter",
             "children": [
                 {
-                    "id": "3761b18b-29b0-4949-8d4f-73ff54abb111",
+                    "id": "05019900-1e78-49f9-8213-e50f759fc7b8",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "d666bb09-ef9e-4a78-a525-106ed5632140",
+                        "id": "1c851165-e788-4e4b-a48d-0e001cfecd1f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -139,31 +139,31 @@
             ]
         },
         {
-            "id": "aad207ad-09d6-44d4-b1fa-29f07baed877",
+            "id": "3099bd14-4ce9-4c7a-95d5-df09e015b65e",
             "name": "Chapter V",
             "title": "\nTATA CARA PENULISAN SATUAN DAN AWAL KATA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "50359be6-a9c1-43ad-be62-3afb42cf7945",
+                    "id": "5acb34a6-0877-4fc9-862d-c70d5517ad65",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "c66bd3f7-9365-4a98-902f-f2c1f35a00db",
+                        "id": "a4cddbfe-197b-4e47-9b3c-8c478f428a21",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nBesaran, nama, dan lambang satuan serta nama dan lambang awal kata ditulis dalam huruf\nLatin.",
+                        "content": "\nBesaran, nama, dan lambang satuan serta nama dan lambang awal kata ditulis dalam huruf Latin.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "497f42b5-3c68-4239-95da-cef6a7465540",
+                    "id": "ee6b17a2-897a-4241-b8cc-27259c7d2d55",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "cf46020b-c750-480c-ab84-2511aaa569b0",
+                            "id": "2885ab3c-6912-47cc-b0bc-9017114a36df",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -171,15 +171,15 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e297927b-4e5e-4444-9652-7a46ff5c1b42",
+                            "id": "60fc7273-7063-46bd-8371-ab6ffc234f8c",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Lambang satuan yang berasal dari nama orang ditulis dengan huruf kapital untuk hurup\nawalnya.",
+                            "content": " Lambang satuan yang berasal dari nama orang ditulis dengan huruf kapital untuk hurup awalnya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e99e69f8-2d30-4732-9d05-e164c05fa41d",
+                            "id": "a6603502-511e-4a5c-bfcf-f60dd8975650",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -187,46 +187,46 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "652564f5-eae9-422e-8a93-73c11f82e20c",
+                            "id": "ceed8778-f620-490c-abe2-cc82864badbe",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Lambang satuan tidak berubah baik dalam kedudukannya sebagai bagian dari setiap\nbentuk kalimat maupun jika berdiri sendiri.",
+                            "content": " Lambang satuan tidak berubah baik dalam kedudukannya sebagai bagian dari setiap bentuk kalimat maupun jika berdiri sendiri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "08a2d499-2d37-44d2-b426-da169997cb90",
+                            "id": "08f8cd11-6bd5-4e06-93eb-3c9beb7fc115",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
-                            "content": " Perkalian dari dua atau lebih lambang satuan, dinyatakan dengan titik dan titik tersebut\ndapat ditiadakan jika tidak akan mengakibatkan kekeliruan terhadap lambang satuan\nlainnya.",
+                            "content": " Perkalian dari dua atau lebih lambang satuan, dinyatakan dengan titik dan titik tersebut dapat ditiadakan jika tidak akan mengakibatkan kekeliruan terhadap lambang satuan lainnya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6b251828-1250-4dea-aa90-33e950da0327",
+                            "id": "03f22abb-0e19-41ab-aa1d-ff5478ff49c2",
                             "name": "Verse 6",
                             "number": "(6)",
                             "type": "verse",
-                            "content": " Garis miring (/) atau garis bagi (-) atau pangkat negatif dapat digunakan untuk menyatakan\nlambang Satuan Turunan yang dibentuk dari pembagian lambang satuan yang berlainan.",
+                            "content": " Garis miring (/) atau garis bagi (-) atau pangkat negatif dapat digunakan untuk menyatakan lambang Satuan Turunan yang dibentuk dari pembagian lambang satuan yang berlainan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "fa8aec54-bf40-4840-9b30-8b6982cb39e9",
+                            "id": "ca75c08a-8279-4552-a059-c485ee46312c",
                             "name": "Verse 7",
                             "number": "(7)",
                             "type": "verse",
-                            "content": " Garis miring atau garis bagi tidak boleh diulang dalam satu pernyataan lambang satuan,\nsedangkan keragu-raguan atau salah pengertian dapat dihindari dengan menggunakan\ntanda kurung.",
+                            "content": " Garis miring atau garis bagi tidak boleh diulang dalam satu pernyataan lambang satuan, sedangkan keragu-raguan atau salah pengertian dapat dihindari dengan menggunakan tanda kurung.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "98ff9a85-beb2-46bb-8509-5c935d38549d",
+                    "id": "7f7931f0-2b0f-4d66-928a-d524878ab2c8",
                     "name": "Article 9",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1c1266ee-366d-4c23-93d0-a4c8c2214570",
+                            "id": "703a1c7d-ec8b-4643-9837-ed73902e7a64",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -234,7 +234,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "52e1b131-6cf8-49eb-986a-b4b9517ba809",
+                            "id": "b60d3d82-6dc7-4a7e-9803-40d859b7e0c9",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -244,36 +244,36 @@
                     ]
                 },
                 {
-                    "id": "41f61286-fb2f-4758-84b5-261e40c532fe",
+                    "id": "b42a8a99-611b-41e0-895e-effe9587fa36",
                     "name": "Article 10",
                     "type": "article",
                     "children": [
                         {
-                            "id": "718c5699-b21b-4b2a-b7d3-33ffa1719f3f",
+                            "id": "54aecf01-24a8-49fd-add9-aaa4635039aa",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Lambang awal kata yang diletakkan di depan lambang satuan, ditulis tanpa jarak dengan\nlambang satuannya.",
+                            "content": " Lambang awal kata yang diletakkan di depan lambang satuan, ditulis tanpa jarak dengan lambang satuannya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "15b94374-e17f-4832-8926-4d9092d85b3c",
+                            "id": "34f034a7-d989-430f-bd5c-58623e1d6c91",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Lambang awal kata tidak berubah baik dalam kedudukannya sebagai bagian dari setiap\nbentuk kalimat maupun jika berdiri sendiri.",
+                            "content": " Lambang awal kata tidak berubah baik dalam kedudukannya sebagai bagian dari setiap bentuk kalimat maupun jika berdiri sendiri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "99e07242-d488-4fac-86cc-17e6e4f710de",
+                            "id": "f73adf94-b956-4bbf-b65f-6e3597449389",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Pangkat yang dibubuhkan pada suatu lambang satuan yang ada lambang awal katanya\nmenunjukkan bahwa lambang awal kata tersebut ikut dipangkatkan sebanyak yang\ndinyatakan oleh pangkat tersebut.",
+                            "content": " Pangkat yang dibubuhkan pada suatu lambang satuan yang ada lambang awal katanya menunjukkan bahwa lambang awal kata tersebut ikut dipangkatkan sebanyak yang dinyatakan oleh pangkat tersebut.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "45dbdaf1-b87e-452a-9f6e-8353e7458372",
+                            "id": "dd90bb02-82f7-48c6-b451-0e4be53d897f",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -281,7 +281,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9dcb203c-8679-441c-8377-b108a0e87292",
+                            "id": "4825d4f9-d4ca-416f-93fa-a32f989a61f1",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
@@ -293,30 +293,30 @@
             ]
         },
         {
-            "id": "e98d29b3-495a-451b-a90a-248724e60717",
+            "id": "e113ce2b-aa81-4ccf-b607-b0b1885cd78b",
             "name": "Chapter VI",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "78ce4c94-fb19-4d18-8bbe-bf5e5bbac0a1",
+                    "id": "64d1026c-51b5-4cd4-9fc8-1f3359d2971d",
                     "name": "Article 11",
                     "type": "article",
                     "children": {
-                        "id": "c8526984-dd7e-4158-a4b8-0561f685e2ad",
+                        "id": "5b95db9f-b382-40ac-aec6-8e763b9849d8",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPerubahan besaran, nama, lambang, dan lain-lainnya yang tercantum dalam Lampiran I sampai\ndengan Lampiran VI diatur dengan Peraturan Pemerintah.",
+                        "content": "\nPerubahan besaran, nama, lambang, dan lain-lainnya yang tercantum dalam Lampiran I sampai dengan Lampiran VI diatur dengan Peraturan Pemerintah.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "829d6636-6993-471e-8167-dc35c3e72e80",
+                    "id": "efa62ce7-bf27-46c7-8dcc-e948be48c1ed",
                     "name": "Article 12",
                     "type": "article",
                     "children": {
-                        "id": "f114e6db-4ccf-463f-8bd7-20576d20e9b3",
+                        "id": "5037d5d3-a418-4d9c-8d8d-bbd822c7ebaf",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -325,37 +325,37 @@
                     }
                 },
                 {
-                    "id": "4c88d071-7b5b-40ce-a0ab-507a4a6b0af7",
+                    "id": "8e0a69cd-cdbb-4474-8738-28b3771446be",
                     "name": "Article 13",
                     "type": "article",
                     "children": {
-                        "id": "7c60c92c-d4f3-4291-8a67-9ca6b8869349",
+                        "id": "2487cb04-dc47-48ee-8b65-d77aea08090c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Perraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 19 Mei 1987\nPRESIDEN REPUBLIK INDONESIA\nttd\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 19 Mei 1987\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd\nSUDHARMONO, S.H.\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1987 NOMOR 17\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 10 TAHUN 1987\nTENTANG\nSATUAN TURUNAN, SATUAN TAMBAHAN, DAN\nSATUAN LAIN YANG BERLAKU\nUMUM\nDalam Undang-undang Nomor 2 Tahun 1981 tentang Metrologi Legal ditetapkan bahwa satuan\nyang berlaku sah di Indonesia adalah Satuan Sistem Internasional yang terdiri dari Satuan\nDasar, Satuan Turunan, dan Satuan Tambahan yang merupakan satu kesatuan yang satu sama\nlain berkaitan secara terpadu (\"koheren\").\nMengingat penggunannya yang sangat luas, selain satuan-satuan tersebut di atas diperlukan\njuga adanya Satuan Lain yang berlaku. Oleh CGPM, Satuan Lain yang berlaku ini masih\nditerima untuk dipakai, akan tetapi dengan pembatasan-pembatasan tertentu. Sebagai contoh:\nsatuan jam dengan lambang h yang besarnya 3.600 s dibatasi penggunaannya hanya untuk\nmenyatakan waktu.\nPengaturan satuan-satuan dalam Peraturan Pemerintah ini dimaksudkan untuk menuju\nkeseragaman pemakaian Satuan Ukuran dan untuk membatasi perluasan penggunaan secara\nbebas dari satuan-satuan tertentu.\nSampai dengan saat ini Satuan Tambahan hanya terdiri dari 2 (dua) satuan yakni Satuan\nTambahan Untuk Sudut Datar dan Satuan Tambahan Untuk Sudut Ruang. Kedua satuan ini\nbelum dapat digolongkan sebagai Satuan Dasar ataupun Satuan Turunan, dan karenanya\ndigolongkan sebagai Satuan Tambahan. Akan tetapi dalam praktek, salah satu atau kedua\nsatuan ini pada suatu saat dapat berfungsi/berkedudukan sebagai Satuan Dasar atau sebagai\nSatuan Turunan.\nPASAL DEMI PASAL",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Perraturan Pemerintah ini\ndengan penempatannya dalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 19 Mei 1987\nPRESIDEN REPUBLIK INDONESIA\nttd\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 19 Mei 1987\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd\nSUDHARMONO, S.H.\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1987 NOMOR 17\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 10 TAHUN 1987\nTENTANG\nSATUAN TURUNAN, SATUAN TAMBAHAN, DAN\nSATUAN LAIN YANG BERLAKU\nUMUM\nDalam Undang-undang Nomor 2 Tahun 1981 tentang Metrologi Legal ditetapkan bahwa satuan\nyang berlaku sah di Indonesia adalah Satuan Sistem Internasional yang terdiri dari Satuan\nDasar, Satuan Turunan, dan Satuan Tambahan yang merupakan satu kesatuan yang satu sama\nlain berkaitan secara terpadu (\"koheren\").\nMengingat penggunannya yang sangat luas, selain satuan-satuan tersebut di atas diperlukan\njuga adanya Satuan Lain yang berlaku. Oleh CGPM, Satuan Lain yang berlaku ini masih\nditerima untuk dipakai, akan tetapi dengan pembatasan-pembatasan tertentu. Sebagai contoh:\nsatuan jam dengan lambang h yang besarnya 3.600 s dibatasi penggunaannya hanya untuk\nmenyatakan waktu.\nPengaturan satuan-satuan dalam Peraturan Pemerintah ini dimaksudkan untuk menuju\nkeseragaman pemakaian Satuan Ukuran dan untuk membatasi perluasan penggunaan secara\nbebas dari satuan-satuan tertentu.\nSampai dengan saat ini Satuan Tambahan hanya terdiri dari 2 (dua) satuan yakni Satuan\nTambahan Untuk Sudut Datar dan Satuan Tambahan Untuk Sudut Ruang. Kedua satuan ini\nbelum dapat digolongkan sebagai Satuan Dasar ataupun Satuan Turunan, dan karenanya\ndigolongkan sebagai Satuan Tambahan. Akan tetapi dalam praktek, salah satu atau kedua\nsatuan ini pada suatu saat dapat berfungsi/berkedudukan sebagai Satuan Dasar atau sebagai\nSatuan Turunan.\nPASAL DEMI PASAL",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "15238315-526b-4e61-814b-984eb35f6247",
+                    "id": "46f1a34e-d37d-4c51-991b-7b434fe9b5c8",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "c34b49ba-06b7-4564-8683-169bb7363a49",
+                        "id": "810b1c97-654c-4a25-916e-653f163176a7",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nYang dimaksud dengan hubungan aljabar di sini terbatas pada perkalian dan\npembagian saja.\nContoh: 1. Lambang satuan m2 untuk besaran luas adalah merupakan\nSatuan Turunan dari m (Satuan Dasar) dikalikan m (Satuan\nDasar);\n2. Lambang satuan m/s untuk besaran kecepatan linear adalah\nmerupakan Satuan Turunan dari m (Satuan Dasar) dibagi s\n(Satuan Dasar);\n3. Lambang satuan m-1 untuk besaran bilangan gelombang adalah\nmerupakan Satuan Turunan dari I dibagi m (Satuan Dasar).\nHuruf e\nOleh karena Satuan Tambahan kadang-kadang dapat berfungsi sebagai Satuan Dasar dan kadang-kadang dapat pula berfungsi sebagai Satuan Tamabahan, maka CGPM belum dapat memasukkannya baik sebagai Satuan Dasar maupun sebagai Satuan Turunan.\nHuruf f\nSatuan ini sebenarnya tidak termasuk Satuan SI. Mengingat bahwa satuan ini masih berlaku dalam arti bahwa satuan ini masih dipakai secara luas dalam bidang ilmu pengetahuan dan bidang lainnya, maka CGPM masih dapat menerima pemakaiannya asalkan diberi ketentuan/ batasan tertentu.\nHuruf g\nAwal kata dapat dibagi menjadi 2 (dua) bagian, yaitu\n1. Nama awal kata.contoh : kilo:\n2. Lambang awal kata,contoh : k.\nPemakaian kedua bagian tersebut di atas diatur dalam Peraturan Pemerintah ini.\nHuruf h\nCukup jelas",
+                        "content": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nYang dimaksud dengan hubungan aljabar di sini terbatas pada perkalian dan\npembagian saja.\nContoh : 1. Lambang satuan m2 untuk besaran luas adalah merupakan\nSatuan Turunan dari m (Satuan Dasar) dikalikan m (Satuan\nDasar);\n2. Lambang satuan m/s untuk besaran kecepatan linear adalah\nmerupakan Satuan Turunan dari m (Satuan Dasar) dibagi s\n(Satuan Dasar);\n3. Lambang satuan m-1 untuk besaran bilangan gelombang adalah\nmerupakan Satuan Turunan dari I dibagi m (Satuan Dasar).\nHuruf e\nOleh karena Satuan Tambahan kadang-kadang dapat berfungsi sebagai Satuan Dasar dan kadang-kadang dapat pula berfungsi sebagai Satuan Tamabahan, maka CGPM belum dapat memasukkannya baik sebagai Satuan Dasar maupun sebagai Satuan Turunan.\nHuruf f\nSatuan ini sebenarnya tidak termasuk Satuan SI. Mengingat bahwa satuan ini masih berlaku dalam arti bahwa satuan ini masih dipakai secara luas dalam bidang ilmu pengetahuan dan bidang lainnya, maka CGPM masih dapat menerima pemakaiannya asalkan diberi ketentuan/ batasan tertentu.\nHuruf g\nAwal kata dapat dibagi menjadi 2 (dua) bagian, yaitu\n1. Nama awal kata.contoh: kilo:\n2. Lambang awal kata, contoh : k.\nPemakaian kedua bagian tersebut di atas diatur dalam Peraturan Pemerintah ini.\nHuruf h\nCukup jelas",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "f1eec59d-d213-407f-96d2-35ead1149410",
+                    "id": "35aea41e-dc67-470d-8194-91894e354c79",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "7c108863-8d96-4769-bc00-c790a6f1e3f7",
+                        "id": "0b73c92f-21dd-4027-9ab5-288b4cbe33b1",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -364,11 +364,11 @@
                     }
                 },
                 {
-                    "id": "fd642c0a-291e-4cf7-bf01-7511f9d14881",
+                    "id": "17317a3d-8810-4024-9be1-9a6fa5926402",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "6a75af96-6b3c-482c-a50d-729d67fef766",
+                        "id": "3c7727c2-f31c-4311-b2f1-5f753dd7830d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -377,11 +377,11 @@
                     }
                 },
                 {
-                    "id": "b197e505-02df-489f-b4df-9b0074dcab62",
+                    "id": "54674d57-2888-4291-900d-b7b140cb6916",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "b325a331-0058-4c72-ba3d-d5aaaa500efb",
+                        "id": "0bdde120-1874-4b63-b3a6-9b077366cc66",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -404,7 +404,7 @@
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
             "2": " Undang-undang Nomor 2 Tahun 1981 tentang Metrologi Legal (Lembaran\nNegara Tahun 1981 Nomor 11, Tambahan Lembaran Negara Nomor 3193),"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG SATUAN\nTURUNAN, SATUAN TAMBAHAN, DAN SATUAN LAIN YANG BERLAKU.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG SATUAN\nTURUNAN, SATUAN TAMBAHAN, DAN SATUAN LAIN YANG BELAKU.",
         "tanggal sah": ""
     }
 }

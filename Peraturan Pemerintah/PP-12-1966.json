@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+            "id": "10874a9a-b2bb-4a39-9195-1b2fe41168ea",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "e81db354-a24e-409d-97d6-373a7588b8a9",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Pasal 1 dari Peraturan Pemerintah Nomor 22 Tahun 1965\n(Lembaran-Negara Tahun 1965 Nomor 37) tentang Perubahan Susunan\nDewan Lalu Lintas Devisa diubah lagi sehingga Susunan Dewan Lalu\nLintas Devisa adalah sebagai berikut:\na. Wakil Perdana Menteri Bidang Ekonomi, Keuangan dan\nPembangunan sebagai Ketua,\nb. Menteri Keuangan sebagai Wakil Ketua dan Anggota,\nc. Menteri Perdagangan sebagai Anggota,\nd. Menteri Perindustrian Dasar/Ringan sebagai Anggota,\ne. Deputy Menteri Urusan Bank Sentral/Gubernur Bank Negara\nIndonesia sebagai Anggota.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "2e38a5c3-f1af-4bae-83bb-10d776d7560f",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "07208a51-af9c-483c-864a-25157de58fe9",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Deputy Menteri Urusan Bank Sentral/Gubernur Bank Negara\nIndonesia bertindak sebagai Pelaksana tugas sehari-hari dari Dewan\ndan juga selaku Pimpinan dari Biro sebagaimana dimaksud dalam\npasal 5 dari Undang-undang Nomor 32 tahun 1964 (Lembaran Negara\nTahun 1964 Nomor 131).",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "a3cce36f-c2e1-4e97-91d6-b7b8a8e2c4cd",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "fb484b1f-2263-4a4f-b930-ef2cd8c4f5e7",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari\nditetapkannya.\nAgar supaya setiap orang dapat mengetahuinya memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya dalam\nLembaran-Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "12",
+        "Tahun": "1966",
+        "Tentang": "PERUBAHAN SUSUNAN DEWAN LALU LINTAS DEVISA",
+        "Menimbang": {
+            "Introduction": "\nbahwa dalam rangka penyempurnaan susunan Kabinet Dwikora, maka\ndipandang perlu untuk mengubah susunan Dewan Lalu Lintas Devisa."
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat 2 Undang-Undang Dasar;",
+            "2": " Undang-undang Nomor 32 Tahun 1964 tentang Peraturan Lalu\nLintas Devisa (Lembaran Negara Tahun 1964 Nomor 131).\nMendengar Presidium Kabinet Republik Indonesia."
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN SUSUNAN DEWAN LALU LINTAS\nDEVISA.",
+        "tanggal sah": "20 Juli 1966"
+    }
+}

@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "c2510cf6-07c8-464e-aaac-333c794fef07",
+            "id": "600419a6-d1be-4da7-9e70-c074591f54af",
             "name": "Chapter I",
             "title": "\nPENYERTAAN MODAL NEGARA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "907de6f7-da66-47ab-b217-59878eec29f9",
+                    "id": "2aee13ad-619c-4b10-9bd0-6f4a0cd445e6",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "30e571a5-6fce-4ece-a1e6-8e5139353cdf",
+                        "id": "ef539d97-0ac5-486a-baad-cf66f5bf2f6d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,41 +20,41 @@
                     }
                 },
                 {
-                    "id": "30bcc183-5c38-46d8-a634-f536a1160010",
+                    "id": "e293db75-7671-43d7-908c-1b413e70fc91",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "b4884bd9-14dc-4494-9245-799b85a9c01e",
+                        "id": "78909a5c-21b7-457f-9c8a-0803a1e250a3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMaksud dan tujuan Perusahaan Perseroan (PERSERO) tersebut pada Pasal 1 Peraturan Pemerintah ini, selanjutnya dalam Peraturan Pemerintah ini disebut PERSERO, adalah untuk mengadakan usaha-usaha produktif di bidang penerbitan dalam rangka peningkatan pendapatan nasional demi kemakmuran dan kesejahteraan Rakyat, dengan cara menyelenggarakan usaha penerbitan dan pemasaran barang-barang cetakan dalam arti kata seluas-luasnya.",
+                        "content": "\nMaksud dan tujuan Perusahaan Perseroan (PERSERO) tersebut\npada Pasal 1 Peraturan Pemerintah ini, selanjutnya dalam Peraturan\nPemerintah ini disebut PERSERO, adalah untuk mengadakan\nusaha-usaha produktif di bidang penerbitan dalam rangka\npeningkatan pendapatan nasional demi kemakmuran dan\nkesejahteraan Rakyat, dengan cara menyelenggarakan usaha\npenerbitan dan pemasaran barang-barang cetakan dalam arti kata\nseluas-luasnya.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "ba005137-cb20-428e-b8ff-455a0cbdc1bb",
+            "id": "4a848909-6c52-4cdd-b582-9d90bf280b78",
             "name": "Chapter II",
             "title": "\nMODAL PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2816c638-ba69-4e1a-beaa-a7fbd95b2784",
+                    "id": "265dec41-8882-4851-a573-2697efc88c31",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9e239268-e7db-4ed7-a8c2-5a7fbf414711",
+                            "id": "af516a03-724c-46b5-b36f-fe9916310148",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": ". Modal PERSERO pada saat pendiriannya seluruhnya merupakan penyertaan Negara Republik Indonesia sebagai kekayaan Negara yang dipisahkan yang berasal dari dan yang tertanam dalam perusahaan- perusahaan N.V. J.B. Wolters Uitgevers Maatschappij. W. Versluijs Uitsgevers Maatschappij N.V. dan N.V. Technische Uitgevers H. Stam, yang nilainya akan ditetapkan secara bersama oleh Menteri Keuangan dan Menteri Penerangan.\n",
+                            "content": ". Modal PERSERO pada saat pendiriannya seluruhnya\nmerupakan penyertaan Negara Republik Indonesia sebagai\nkekayaan Negara yang dipisahkan yang berasal dari dan yang\ntertanam dalam perusahaan perusahaan N.V. J.B. Wolters\nUitgevers Maatschappij. W. Versluijs Uitsgevers\nMaatschappij N.V. dan N.V. Technische Uitgevers H. Stam,\nyang nilainya akan ditetapkan secara bersama oleh Menteri\nKeuangan dan Menteri Penerangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "83b6e8e6-eb8c-4410-928e-f53aab10229d",
+                            "id": "453fe813-bf57-4185-bd7c-77ebbe21daca",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -62,7 +62,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b01a7f76-8887-4299-8fd2-55f94b42f8af",
+                            "id": "98bd83da-62a7-470c-92eb-0f23ecbae30e",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -74,17 +74,17 @@
             ]
         },
         {
-            "id": "325f7166-6262-4e8f-8982-bbe97e73b2d9",
+            "id": "81d499de-6fb3-43fb-af87-aa941145af78",
             "name": "Chapter III",
             "title": "\nPELAKSANAAN PENDIRIAN PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "dacd59d1-7ab8-4aef-9af5-ba6e920c6357",
+                    "id": "057aeecf-a0d3-42e6-a214-5728177cf962",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "6e4e50d4-319d-4e98-8d5e-ae8256149f06",
+                        "id": "1ed2771f-ce49-495d-99a0-f243ffce7a91",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -93,32 +93,32 @@
                     }
                 },
                 {
-                    "id": "3ca21f92-201a-4af3-b951-c145e93c6821",
+                    "id": "757f21ea-7bd9-4e7c-9347-6573a682bde2",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "072d6054-fd49-451b-ab14-7ef925c4a8be",
+                            "id": "0380a13b-9025-4ca4-b44c-e70e0aa6846c",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": ". Penyelesaian pendirian PERSERO dikuasakan kepada Menteri\nKeuangan, sesuai dengan ketentuan yang termaktub dalam\nPasal 3 Peraturan Pemerintah Nomor 12 Tahun 1969\n(Lembaran Negara Republik Indonesia Tahun 1969 Nomor\n21; Tambahan Lembaran Negara Republik Indonesia Nomor\n2894).",
+                            "content": ". Penyelesaian pendirian PERSERO dikuasakan kepada Menteri Keuangan, sesuai dengan ketentuan yang termaktub dalam Pasal 3 Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran Negara Republik Indonesia Tahun 1969 Nomor 21; Tambahan Lembaran Negara Republik Indonesia Nomor 2894).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e3d1bdcb-6531-49e3-a42d-2a75d460f3f6",
+                            "id": "1027ab8b-2d8e-46b5-922f-d7ef8156a7b5",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": ". Menteri Keuangan dapat menyerahkan kekuasaan tersebut\npada ayat (1) Pasal ini, dengan disertai hak substitusi, kepada\nMenteri Penerangan dengan ketentuan bahwa Rancangan\nAnggaran Dasar PERSERO harus mendapat persetujuan\nterlebih dahulu dari Menteri Keuangan.",
+                            "content": ". Menteri Keuangan dapat menyerahkan kekuasaan tersebut pada ayat (1) Pasal ini, dengan disertai hak substitusi, kepada Menteri Penerangan dengan ketentuan bahwa Rancangan Anggaran Dasar PERSERO harus mendapat persetujuan terlebih dahulu dari Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "302967e2-671c-4eb6-b7e8-1b5cad9a2b7a",
+                            "id": "a0624367-2124-41c5-9556-f497ca844076",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": ". Kepada Menteri Penerangan diberikan kekuasaan untuk\nmenunjuk seseorang untuk ikut serta mendirikan PERSERO\ntersebut, sesuai dengan ketentuan yang termaktub dalam Pasal\n6 Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran\nNegara Republik Indonesia Tahun 1969 Nomor 21; Tambahan\nLembaran Negara Republik Indonesia Nomor 2894).",
+                            "content": ". Kepada Menteri Penerangan diberikan kekuasaan untuk menunjuk seseorang untuk ikut serta mendirikan PERSERO tersebut, sesuai dengan ketentuan yang termaktub dalam Pasal 6 Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran Negara Republik Indonesia Tahun 1969 Nomor 21; Tambahan Lembaran Negara Republik Indonesia Nomor 2894).",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -126,26 +126,26 @@
             ]
         },
         {
-            "id": "987595df-2d33-41db-aeef-36cd9ed4d76b",
+            "id": "bea6ccd8-67a5-41a4-a064-4a8d512d1626",
             "name": "Chapter IV",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "64654e46-68d8-4031-84c8-83190bf8867d",
+                    "id": "cbad4767-cd67-4bfa-a5f2-ea5346c80fb1",
                     "name": "Article 6",
                     "type": "article",
                     "children": [
                         {
-                            "id": "441d6ce2-6253-44b2-9ca5-2b9e57e49fc0",
+                            "id": "f8116f5a-ba29-40f1-996f-e49ed66baa80",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": ". Pada saat berdirinya PERSERO, maka Perusahaan Negara\n(P.N.) \"Pradnja Paramita\" sebagaimana yang dimaksudkan\ndalam Surat Keputusan Wakil Menteri Pertama/Menteri\nPenerangan Nomor 22/W.M.P.-Bch/63 jis. Surat-surat\nKeputusan Menteri Penerangan Nomor 42/SK/M/65 dan\nNomor 59/SK/M/1966 dinyatakan bubar.\n",
+                            "content": ". Pada saat berdirinya PERSERO, maka Perusahaan Negara (P.N.) \"Pradnja Paramita\" sebagaimana yang dimaksudkan dalam Surat Keputusan Wakil Menteri Pertama/Menteri Penerangan Nomor 22/W.M.P.-Bch/63 jis. Surat-surat Keputusan Menteri Penerangan Nomor 42/SK/M/65 dan Nomor 59/SK/M/1966 dinyatakan bubar.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "fd2d4f68-c649-4e20-8d2a-ea533b61885a",
+                            "id": "85977e96-ea1d-493c-a8c2-c89eb6320516",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -157,17 +157,17 @@
             ]
         },
         {
-            "id": "587d02ba-776d-4a31-bd22-10252e7ebcce",
+            "id": "70c6f16e-5ba5-4321-9097-9e50ccf04692",
             "name": "Chapter V",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "aefcab32-4975-4af5-8abe-873e75a15c39",
+                    "id": "10e0fe62-65e6-4b1c-b1c8-4bf7d82f9fc4",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "55cba434-4924-48a3-be73-a03020ba3d6a",
+                        "id": "102b5bbd-8e41-410c-b119-967882efc0bc",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -176,11 +176,11 @@
                     }
                 },
                 {
-                    "id": "38dc3d2b-e2ab-44c4-b732-426bca0d98d4",
+                    "id": "9c4d2102-88a6-4079-9240-f47efaf27116",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "0232062a-7460-4639-aa5f-9249a2aa0efd",
+                        "id": "41d68bc9-a517-4487-ac68-cc59c8734a28",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -201,7 +201,7 @@
         },
         "Mengingat": {
             "Introduction": "\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Kitab Undang-undang Hukum Dagang Stbl. 1847  23\nsebagaimana yang telah beberapa kali diubah dan ditambah,\nterakhir dengan Undang-Undang Nomor 4 Tahun 1971\n(Lembaran Negara Republik Indonesia Tahun 1971 Nomor\n20; Tambahan Lembaran Negara Republik Indonesia Nomor\n2959);",
+            "2": " Kitab Undang-undang Hukum Dagang Stbl. 1847 23\nsebagaimana yang telah beberapa kali diubah dan ditambah,\nterakhir dengan Undang-Undang Nomor 4 Tahun 1971\n(Lembaran Negara Republik Indonesia Tahun 1971 Nomor\n20; Tambahan Lembaran Negara Republik Indonesia Nomor\n2959);",
             "3": " Undang-undang Nomor 9 Tahun 1969 (Lembaran Negara\nRepublik Indonesia Tahun 1969 Nomor 40; Tambahan\nLembaran Negara Republik Indonesia Nomor 2904);",
             "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran\nNegara Republik Indonesia Tahun 1969 Nomor 21; Tambahan\nLembaran Negara Republik Indonesia Nomor 2894)."
         },

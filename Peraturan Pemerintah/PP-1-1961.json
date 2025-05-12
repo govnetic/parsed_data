@@ -1,24 +1,24 @@
 {
     "results": [
         {
-            "id": "0ed2b1f7-4632-4e2e-8e0c-1cedfbb3c6f8",
+            "id": "536f1f3f-d15c-4a65-907b-a06debbaae0c",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "7fea0361-793d-43f2-8493-cddd1bc8579a",
+                "id": "22d202bb-721f-41ce-b0e8-70040088a476",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "1. Perusahaan Dagang milik Belanda yang ada di dalam wilayah Republik Indonesia,\n   sebagaimana tercantum di dalam daftar terlampir dikenakan nasionalisasi.\n2. Jika perusahaan-perusahaan termaksud ayat (1) merupakan Badan Hukum,\n   nasionalisasi dikenakan terhadap Badan Hukum tersebut, jika bukan, maka\n   nasionalisasi dikenakan terhadap seluruh harta kekayaan-perusahaan tersebut.",
+                "content": "1. Perusahaan Dagang milik Belanda yang ada di dalam wilayah Republik Indonesia,\nsebagaimana tercantum di dalam daftar terlampir dikenakan nasionalisasi.\n2. Jika perusahaan-perusahaan termaksud ayat (1) merupakan Badan Hukum,\nnasionalisasi dikenakan terhadap Badan Hukum tersebut, jika bukan, maka\nnasionalisasi dikenakan terhadap seluruh harta kekayaan-perusahaan tersebut.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "deba0266-8a7c-4415-ba8f-0fd0dba73a43",
+            "id": "f893f168-95f5-4580-aa6f-efe23729a75b",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "dcb5897d-8434-4290-a7da-cf48fa66503e",
+                "id": "6f11ce9c-18c0-4b5e-a39d-15f187709193",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -36,10 +36,10 @@
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Undang-undang Nomor 86 Tahun 1958 tentang \"Nasionalisasi perusahaan\n   Belanda\" (Lembaran Negara 1958 Nomor 162).",
-            "2": " Peraturan Pemerintah Nomor 2 Tahun 1959 tentang \"Pokok-pokok Pelaksanaan\n   Undang-undang Nasionalisasi Perusahaan Belanda\" (Lembaran Negara 1959\n   Nomor 5)",
-            "3": " Peraturan Pemerintah Nomor 3 Tahun 1959 tentang \"Pembentukan Badan\n   Nasionalisasi Perusahaan Belanda\" (Lembaran Negara 1959 Nomor 6).",
-            "4": " Peraturan Pemerintah Nomor 33 Tahun 1959 tentang \"Penentuan Perusahaan\n   Dagang yang besar milik Belanda beserta Cabang-cabangnya dan anak-anak\n   perusahaannya yang dikenakan nasionalisasi.\nMendengar \nDewan Pimpinan Banas dalam sidangnya pada tanggal 23 Agustus 1960."
+            "1": " Undang-undang Nomor 86 Tahun 1958 tentang \"Nasionalisasi perusahaan\nBelanda\" (Lembaran Negara 1958 Nomor 162).",
+            "2": " Peraturan Pemerintah Nomor 2 Tahun 1959 tentang \"Pokok-pokok Pelaksanaan\nUndang-undang Nasionalisasi Perusahaan Belanda\" (Lembaran Negara 1959\nNomor 5)",
+            "3": " Peraturan Pemerintah Nomor 3 Tahun 1959 tentang \"Pembentukan Badan\nNasionalisasi Perusahaan Belanda\" (Lembaran Negara 1959 Nomor 6).",
+            "4": " Peraturan Pemerintah Nomor 33 Tahun 1959 tentang \"Penentuan Perusahaan\nDagang yang besar milik Belanda beserta Cabang-cabangnya dan anak-anak\nperusahaannya yang dikenakan nasionalisasi.\nMendengar \nDewan Pimpinan Banas dalam sidangnya pada tanggal 23 Agustus 1960."
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENENTUAN PERUSAHAAN DAGANG MILIK\nBELANDA YANG DIKENAKAN NASIONALISASI.",
         "tanggal sah": "3 Desember 1957"

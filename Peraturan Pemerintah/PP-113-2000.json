@@ -1,0 +1,71 @@
+{
+    "results": [
+        {
+            "id": "fe03e0ea-ec37-4ea2-8736-e6604c281ec2",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "e241cf4c-480f-4f9f-8fb6-d9feac021aea",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "bd516057-3e11-4d94-85d0-dd7603dbe2ea",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "ee3833cc-c9ca-47d8-82fc-adf74f7119e5",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "473c2c1f-2ef2-44f5-9335-7a41484dbff3",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "b6e4d48b-9c7e-43f1-99ef-62263565e341",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "86dc33e7-2e13-470e-8c54-160eefb8d6e1",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "d9283bbc-5bcd-4b48-9d1b-2ebc65b81288",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "113",
+        "Tahun": "2000",
+        "Tentang": "PENENTUAN BESARNYA\nNILAI PEROLEHAN OBJEK PAJAK TIDAK KENA PAJAK\nBEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+        "Menimbang": {
+            "Introduction": "\nbahwa sebagai pelaksanaan ketentuan Pasal 7 ayat (2) Undang-undang Nomor 21\nTahun 1997 tentang Bea Perolehan Hak atas Tanah dan Bangunan sebagaimana telah\ndiubah dengan Undang-undang Nomor 20 Tahun 2000, perlu menetapkan Peraturan\nPemerintah tentang Penentuan Besarnya Nilai Perolehan Objek Pajak Tidak Kena Pajak\nBea Perolehan Hak atas Tanah dan Bangunan;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang Undang Dasar 1945 sebagaimana telah diubah dengan\nPerubahan Kedua Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 21 Tahun 1997 tentang Bea Perolehan Hak atas Tanah dan\nBangunan (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 44, Tambahan\nLembaran Negara Nomor 3688) sebagaimana telah diubah dengan Undang-undang\nNomor 20 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor\n130, Tambahan Lembaran Negara Nomor 3988);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENENTUAN BESARNYA NILAI PEROLEHAN\nOBJEK PAJAK TIDAK KENA PAJAK BEA PEROLEHAN HAK ATAS TANAH DAN\nBANGUNAN.",
+        "tanggal sah": ""
+    }
+}

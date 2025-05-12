@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "55f0206d-41de-43a9-9dc5-9891d2630db3",
+            "id": "72ffc0c5-3239-4d2b-bbe2-100d2cf37290",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "d8593e70-5d4d-4d7b-8cfa-34254183c27d",
+                "id": "290508e9-8c5b-4602-ac86-96124afbfbec",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "9e6b59a8-ed6c-49cd-975b-f3dffa8d5557",
+            "id": "d042fbc6-95cb-4e30-a387-1e4c738489e7",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "9cdb2fc4-3325-4f75-b673-eda29e535a6c",
+                "id": "1b3eb4cd-91c9-490a-93e3-e23c5ca9450f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "eb01b436-5cec-454c-9d9d-4ec4ea7a5bfd",
+            "id": "14b40d7d-ade7-44ca-8a2b-01c9ba9771fc",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "41a54b9d-9eda-442b-9be6-258a52fa1f64",
+                "id": "e29e0921-77d0-47a6-bd04-236469202cc5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "0796ae8c-3b60-4714-b0e1-29fd1ce86f67",
+            "id": "0c43e4cc-a96e-4626-a8da-953c078fabb3",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "b86208ea-fc5f-4e6c-ac32-12d38f206ef1",
+                "id": "c9210217-7685-4e75-b95e-1dbc9a1eb086",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "56692bc9-a777-4ca5-a145-43a5d027088e",
+            "id": "7eb21dd4-a336-4aeb-b54d-2df32166d692",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "c9249e4d-1687-425e-9060-4a3315d930fc",
+                "id": "084300c5-089f-47b2-aa94-8dec254ce462",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "def05076-e89f-4f2e-a367-1fc6260fa74b",
+            "id": "84f803c6-ecf5-483d-bee3-dedddb0b2479",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "16f4d584-936f-4098-844a-5696bb2b09cc",
+                "id": "b0d63dca-1894-4459-98af-772c25271dbc",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -79,11 +79,11 @@
             }
         },
         {
-            "id": "6323cc7b-a2d9-4737-b0a2-47c5061b55e0",
+            "id": "326e9b91-e71b-4ebd-8873-048ab5470657",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "1437b600-3d55-4b96-9724-da10d0baa68f",
+                "id": "4dd764e1-800c-4ff8-a694-8c1789cd3b80",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -92,11 +92,11 @@
             }
         },
         {
-            "id": "5b357630-d442-4feb-8792-6d0a8329c589",
+            "id": "83c8f178-b463-4f7b-a0de-9aeb204ebc0b",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "af2d5b3a-f59e-4282-91eb-6fd515725963",
+                "id": "254cb9ec-8cb2-4c8e-a176-dd842b6ee677",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -105,11 +105,11 @@
             }
         },
         {
-            "id": "925cf567-3ab8-4d17-8f51-e0a192755abc",
+            "id": "ee84eab5-2ced-49ca-8000-29abd0b354a9",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "54ca03e1-abbc-43ea-bc0c-43f3186e0058",
+                "id": "96b9733e-c0d1-4f5c-8b2c-d0fe6d2aea38",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -118,11 +118,11 @@
             }
         },
         {
-            "id": "e26da26f-ff50-4f94-a92e-d081a4149b81",
+            "id": "b23a8372-1e1c-4e37-925d-0e8da2885313",
             "name": "Article 10",
             "type": "article",
             "children": {
-                "id": "544611f1-143d-4b75-a7e7-5f549b224ffa",
+                "id": "63cd3678-bd79-4e02-a422-2230988d3f3e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -131,11 +131,11 @@
             }
         },
         {
-            "id": "e6eb29b2-162c-4f26-aa8d-7a9fea688a4b",
+            "id": "40e2135e-65de-4a40-9629-958057a01da6",
             "name": "Article 11",
             "type": "article",
             "children": {
-                "id": "ed9f26b7-da7e-4653-bc78-8df7ad9be599",
+                "id": "066a7078-0608-43ef-ba0f-70ad2026c826",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -144,11 +144,11 @@
             }
         },
         {
-            "id": "db042403-e957-42e6-a304-ef288b5860bf",
+            "id": "77705775-992e-42a1-8321-cae2c9ffc041",
             "name": "Article 12",
             "type": "article",
             "children": {
-                "id": "b0a1244b-3fca-4632-9920-9a626bbb3f96",
+                "id": "293bd60f-97f8-4cf8-b9a3-809ecc62133c",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -157,24 +157,24 @@
             }
         },
         {
-            "id": "07da164a-9649-4508-a8b2-de8413de78cc",
+            "id": "be056f1f-c32d-407f-a130-652d1c958c6c",
             "name": "Article 13",
             "type": "article",
             "children": {
-                "id": "6f8e989c-5ca8-4853-8951-07db7f725a36",
+                "id": "7e78fcb6-b4f4-404f-b973-73e2ae55f4dd",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Hal-hal yang belum diatur dalam Peraturan Pemerintah ini diatur lebih lanjut oleh Menteri Perdagangan.",
+                "content": "Hal-hal yang belum diatur dalam Peraturan Pemerintah ini diatur lebih lanjut oleh Menteri\nPerdagangan.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "78ef5960-d698-4da8-93ca-6259706a0e8a",
+            "id": "fca27dab-505c-429a-8136-2dee61938218",
             "name": "Article 14",
             "type": "article",
             "children": {
-                "id": "5bb49e3a-1d11-4932-beb6-81cdff5a3755",
+                "id": "163d2dac-f998-47e5-be6a-9c6fc9eb9640",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -183,15 +183,15 @@
             }
         },
         {
-            "id": "7bf317bd-ff81-4865-8d17-03d819148a19",
+            "id": "ebf47b95-a277-4999-a0c9-1f8e5e2a3009",
             "name": "Article 15",
             "type": "article",
             "children": {
-                "id": "188fdf82-ba67-44c2-ae66-adb7d30dd420",
+                "id": "53463405-efa3-4704-a4ed-ad837ab2469e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkannya.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatan dalam Lembaran-Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkannya.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatan dalam Lembaran-Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

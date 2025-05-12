@@ -1,0 +1,84 @@
+{
+    "results": [
+        {
+            "id": "bf941b5f-5935-4538-9dce-66306bd032fe",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "c460cc5b-36d8-40ef-88e5-141b07b301c6",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "db76f75e-4e0c-4b78-b6db-37b47e7e1212",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "35c2590b-0cfc-4fef-bae6-74affb48a190",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ayat (1)\nPembagian hasil penerimaan Pajak Penghasilan orang pribadi dalam negeri dan Pajak\nPenghasilan Pasal 21 antara Pemerintah Pusat dan Pemerintah daerah dikaitkan dengan tempat\nWajib Pajak terdaftar, karena terdapat hubungan yang erat dengan daerah tempat Wajib Pajak\nmemperoleh penghasilan. Pada umumnya Wajib Pajak orang pribadi dalam negeri terdaftar\nberdasarkan tempat tinggal (domisili), tempat usaha, tempat kegiatan atau pelaksanaan pekerjaan\n(lokasi).\n\nAyat (2) dan (3)\nCukup jelas\nPasal 3 s.d 5\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4034\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "40fca1c2-3e55-44ae-b656-fb05bec3b68f",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "c7bccc3c-fad5-4f70-a1bc-1cd54203874d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Bagian penerimaan Pemerintah Daerah sebagaimana dimaksud dalam Pasal 2 merupakan\npendapatan daerah untuk masing-masing Daerah Propinsi dan Daerah Kabupaten/Kota dan setiap tahun\nanggaran dicantumkan dalam Anggaran Pendapatan dan Belanja Daerah.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "94fb2e95-bc00-4651-bf21-619e16807a64",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "1a0d1ba2-31fa-4e2c-89d0-a493fc5f635b",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ketentuan lebih lanjut yang dipelrukan bagi pelaksanaan Peraturan Pemerintah ini diatur dengan\nKeputusan Menteri Keuangan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "bd5f2383-f15c-472e-a2cb-79c6a4233939",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "865eab74-86d8-4e10-938c-b97f880c6237",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari 2001.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "115",
+        "Tahun": "2000",
+        "Tentang": "PEMBAGIAN HASIL PENERIMAAN PAJAK PENGHASILAN ORANG PRIBADI\nDALAM NEGERI DAN PAJAK PENGHASILAN PASAL 21\nANTARA PEMERINTAH PUSAT DAN PEMERINTAH DAERAH",
+        "Menimbang": {
+            "Introduction": "\nbahwa dalam rangka pelaksanaan ketentuan Pasal 31 C ayat (2) Undang-undang No. 7\nTahun 1983 tentang pajak Penghasilan sebagaimana telah beberapa kali diubah terakhir\ndengan Undang-undang No. 17 Tahun 2000, dipandang perlu untuk menetapkan\nPeraturan Pemerintah tentang Pembagian Hasil Penerimaan Pajak Penghasilan Orang\nPribadi Dalam negeri dan Pajak Penghasilan Pasal 21 antara Pemerintah Pusat dan\nPemerintah Daerah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945 sebagaimana telah diubah dengan\nPerubahan kedua Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan (Lembaran Negara\nTahun 1983 Nomor 50, Tambahan Lembaran Negara Nomor 3263) sebagaimana\ntelah beberapa kali dirubah terakhir dengan Undang-Undang Nomor 17 Tahun 2000\n(Lembaran Negara Tahun 2000 Nomor 127, Tambahan lembaran Negara Nomor\n3985);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PEMBAGIAN HASIL PENERIMAAN PAJAK\nPENGHASILAN ORANG PRIBADI DALAM NEGERI DAN PAJAK PENGHASILAN\nPASAL 21 ANTARA PEMERINTAH PUSAT DAN DAERAH.",
+        "tanggal sah": "1 Januari 2001"
+    }
+}

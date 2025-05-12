@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "9e0b990e-26d7-4667-bf74-dd1b00b76c56",
+            "id": "38b9f24b-6a1a-4cc6-b541-b4bcce3b010d",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e25596b0-465f-412c-b32f-fed98ae0ab29",
+                    "id": "fdd8cd0c-9bac-4832-879d-62c246540bbf",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "7bda30cc-1e3b-49ca-9fab-d72227cad9dd",
+                        "id": "df21872e-4305-4b22-9e01-1a58608f694b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -22,18 +22,18 @@
             ]
         },
         {
-            "id": "1774930d-23bc-4557-8e9a-5a711a609d78",
+            "id": "7d46a9fe-e7e3-4639-b50f-742972395408",
             "name": "Chapter II",
             "title": "\nKEWAJIBAN MELAPOR",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ac5d6d93-232d-4f2f-bd8c-0461167e0289",
+                    "id": "ce3ee7eb-1df0-4a98-855f-aa2a7a4ed108",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b54cb8fe-b51a-4d86-bec6-0606b4358e92",
+                            "id": "1a644c2b-de94-4442-8c03-1a40ee9374da",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -41,21 +41,21 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "802e6f80-e0e6-4ce2-9542-c4d2331c5c98",
+                            "id": "dfd6f227-7275-424c-a675-008e5d853a60",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": "\nLaporan sebagaimana dimaksud dalam ayat (1) harus ditanda tangani oleh\npenanggungjawab yang tercantum dalam surat izin.",
+                            "content": " Laporan sebagaimana dimaksud dalam ayat (1) harus ditanda tangani oleh\npenanggungjawab yang tercantum dalam surat izin.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "60c6e1f0-a40a-4407-afdb-d5cc842dd1d9",
+                    "id": "6ac570b3-10ae-4a83-83f6-e773ec20d6f6",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "b94362c2-7a14-43b2-a6d2-f3ebcdb113ed",
+                        "id": "79c74970-afad-4217-94af-36fcbaf58fa7",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -64,11 +64,11 @@
                     }
                 },
                 {
-                    "id": "c53f5f81-bcbf-4dde-be37-db6baaf71ed5",
+                    "id": "df6ca440-9c1d-4037-8959-0944e30a771b",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "79daed0d-278c-40c4-899a-9c8492579f2f",
+                        "id": "9dd19a17-79a9-4d2a-b533-64903c93d3e6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -79,17 +79,17 @@
             ]
         },
         {
-            "id": "83df6df2-1f09-4862-aec0-c23c5a42d564",
+            "id": "503877c3-73b4-4c1a-86a3-32dc341232ea",
             "name": "Chapter III",
             "title": "\nPERBUATAN YANG DILARANG",
             "type": "chapter",
             "children": [
                 {
-                    "id": "149dd3a5-1436-42ff-bdaa-e5c4bad1d378",
+                    "id": "d92f864d-eaf0-4444-a759-2c3c445425e5",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "13595e41-c57e-4394-b0a7-103ad7755130",
+                        "id": "d79bb20e-1f7c-4a3a-bad3-94b4d3dcc97f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -98,11 +98,11 @@
                     }
                 },
                 {
-                    "id": "b2c80a49-6e4f-43dc-b05c-013fd3d5e5f5",
+                    "id": "b8e8badf-72bb-4b75-b580-049b58c2ea85",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "b0ddcb86-e0df-4672-80d6-774b182d8b25",
+                        "id": "e8f3d6ba-a76f-4c57-b306-28947f69e238",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -113,18 +113,18 @@
             ]
         },
         {
-            "id": "b6bb2cc5-bc8d-45a8-91dd-9dc16aa47323",
+            "id": "398f159b-7d35-4fd7-b486-ce565585e177",
             "name": "Chapter IV",
             "title": "\nKETENTUAN PIDANA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "227acc12-a096-4eb8-b3ca-6b0ebffaeddf",
+                    "id": "ae7ad3a3-067f-4f21-89c7-f218603119dc",
                     "name": "Article 7",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5f8c61e2-b27d-4b57-9f0e-2c3ace054c74",
+                            "id": "bcf2bc5a-e25a-420a-83e5-d7cea3b0d8d2",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -132,11 +132,11 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "49e06756-a05a-476a-8707-23ce9f03a466",
+                            "id": "1aba5863-2b0e-42d6-b27e-2e1e4171affc",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": "\nPenanggungjawab Lembaga yang melanggar ketentuan Pasal 5 dan Pasal 6\ndipidana sesuai dengan ketentuan Pasal 36 ayat (1) huruf a dan huruf b Undang-\nundang Nomor 9 Tahun 1976 tentang Narkotika.",
+                            "content": " Penanggungjawab Lembaga yang melanggar ketentuan Pasal 5 dan Pasal 6\ndipidana sesuai dengan ketentuan Pasal 36 ayat (1) huruf a dan huruf b Undang-\nundang Nomor 9 Tahun 1976 tentang Narkotika.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -144,17 +144,17 @@
             ]
         },
         {
-            "id": "0c32e33a-0381-40cf-af22-08bac3ed0be3",
+            "id": "710145c8-b17e-46d0-8a06-09d80075f619",
             "name": "Chapter V",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f10bdb80-2c5f-4751-b23a-3589bbd9c52b",
+                    "id": "7d592d34-3263-4818-ada7-ca634e0dd978",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "5a1488ee-2f1b-4811-a9db-622af34d501d",
+                        "id": "3f31b08d-0c1c-4084-9895-7213b508fcbf",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -163,11 +163,11 @@
                     }
                 },
                 {
-                    "id": "895e555b-4cb4-4ab7-8c12-d2b852bbf6d5",
+                    "id": "98652edd-a1e7-4142-994e-b20531563ed7",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "dc189303-961e-4ff7-a088-2b9b154c8ee9",
+                        "id": "3320383b-7a8d-4230-aefc-d1612e09967b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -176,11 +176,11 @@
                     }
                 },
                 {
-                    "id": "4519caea-d629-4a53-9949-8c67188d1f2c",
+                    "id": "b354e140-ad53-4390-9549-534c8ddc74de",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "0093e198-ba8a-4e76-bc31-2d4e25be4f48",
+                        "id": "d03f0d42-2783-4455-85b0-385e9bf863ba",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -189,11 +189,11 @@
                     }
                 },
                 {
-                    "id": "aaba4a85-e979-4a90-80c5-8b79a40b2532",
+                    "id": "da23484b-a5c9-4600-91b8-94866a465627",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "7a6352f9-ab12-40d3-9791-9a04434fe3ad",
+                        "id": "a7e58e34-311f-4c5d-bf56-0805ad6f7c5c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -202,11 +202,11 @@
                     }
                 },
                 {
-                    "id": "d90f4fb9-c1a5-497c-bc05-807540b1a14d",
+                    "id": "e35db6e7-ae1f-4e1b-a579-417b04e75835",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "ec58709a-f5b0-4f65-b9d2-ed351f9d5775",
+                        "id": "50690328-dee3-4ec7-a4c7-d6a42a6e90a4",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -215,11 +215,11 @@
                     }
                 },
                 {
-                    "id": "b68726fe-c739-44fc-9cf3-d305345b0fc5",
+                    "id": "537fdf5e-f36f-49e2-ab32-a5daf80a21eb",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "64289ad8-1f58-4bfa-b0e1-af8df1614665",
+                        "id": "b4056024-6372-4878-9163-346ef2eb97c6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -228,11 +228,11 @@
                     }
                 },
                 {
-                    "id": "de670b8f-8b45-48a1-a913-e469e7215f52",
+                    "id": "f6509b3c-2bb8-41af-a94a-199ba2e8f158",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "03ab4cb4-833d-43f7-9b30-c062b8926d0c",
+                        "id": "58a4300f-9f8e-4586-8f2e-2ef18fa971a0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -241,24 +241,24 @@
                     }
                 },
                 {
-                    "id": "f685d0b9-646e-41ba-9a48-75de90c0fd52",
+                    "id": "3aef5f3e-be4e-46a3-a146-2c71e19d957f",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "66a6f842-114d-4840-84eb-6b46f9b733b2",
+                        "id": "3b9495dc-0b2d-415f-b706-390f0ced1bea",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nLembaga yang telah mendapat izin hanya boleh menanam. menyimpan dan menguasai\ntanaman Narkotika dan hasilnya untuk Pengobatan dan Ilmu Pengetahuan.",
+                        "content": "\nLembaga yang telah mendapat izin hanya boleh menanam, menyimpan dan menguasai\ntanaman Narkotika dan hasilnya untuk Pengobatan dan Ilmu Pengetahuan.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "2e162fcb-411a-4462-ab22-8cc53d9e7d50",
+                    "id": "66d072bd-60e1-44ef-8b83-328b750733eb",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "c9a66e3e-f4c2-450c-9ce5-ea1defd996c0",
+                        "id": "41daed25-525c-423f-ae39-3333f218f60e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -280,7 +280,7 @@
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-undang Dasar 1945;",
             "2": " Undang-undang Nomor 9 Tahun 1960 tentang Pokok-pokok\nKesehatan (Lembaran Negara Tahun 1960 Nomor 131, Tambahan\nLembaran Negara Nomor 2068);",
-            "3": " Undang-undang Nomor 7 Tahun 1963 tentang Farmasi\n(Lembaran Negara Tahun 1963 Nomor 81, Tambahan Lembaran\nNegara Nomor 2580);",
+            "3": " Undang-undang\nNomor 7 Tahun 1963 tentang Farmasi\n(Lembaran Negara Tahun 1963 Nomor 81, Tambahan Lembaran\nNegara Nomor 2580);",
             "4": " Undang-undang Nomor 9 Tahun 1976 tentang Narkotika\n(Lembaran Negara Tahun 1976 Nomor 37, Tambahan Lembaran\nNegara Nomor 3086);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG KETENTUAN PENANAMAN\nPAPAVER, KOKA DAN GANJA.",

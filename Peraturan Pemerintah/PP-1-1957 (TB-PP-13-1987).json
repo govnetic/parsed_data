@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "125f7c02-e52a-4149-a26b-2a7b3cad824f",
+            "id": "8bcd6c4f-81ee-4929-a8fc-ce5f2b66e3e1",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "8e5a8ab9-9bdb-42a2-8fdb-43fee9d3917c",
+                "id": "12fc1c31-eaf3-4378-88aa-0baf28a51aac",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "c788bcd4-04ab-449f-a263-cff8ef919d17",
+            "id": "361f4179-4821-4481-9ed8-a74671839cb1",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "64df5ff8-80e3-4338-85ff-45cbc1372561",
+                "id": "0190dc3f-244c-41a4-88d7-e98979fde106",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "44ff4941-3910-45fe-868e-dca379bd5b44",
+            "id": "4a73692d-01e9-4e71-846e-c0ec74c094bc",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "96166a93-1273-4e36-86e6-8d58963f483c",
+                "id": "d941ae95-7f14-43da-87eb-ab50d3a13702",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "c5cad7d8-a2b4-45c2-9613-5a7bd196f070",
+            "id": "2c12f120-c9e2-4a4b-954b-a7bb8ec02111",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "23eda265-69b1-48c4-9318-6d5ecc2aecd1",
+                "id": "6d51beab-c983-4dc9-9988-2b8aec22eac8",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,28 +53,28 @@
             }
         },
         {
-            "id": "3e86bf4f-f19f-4b9e-9b58-d2da654778de",
+            "id": "894b66d0-2f53-4b19-bba0-16171b5909f5",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "e06f9103-0470-405e-95a4-76d1766e005c",
+                "id": "234fc4c1-892e-4c9e-855f-58275300c0ad",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Dengan instansi atau pegawai lain yang ditunjuk oleh Menteri yang bersangkutan bernama dengan Menteri Perekonomian diartikan tidak saja terbatas pada pegawai-pegawai atau instansi-instansi Kementerian-kementerian Pusat tetapi juga instansi-instansi atau pegawai-pegawai daerah otonom.\nDiketahui\nMenteri Kehakiman a.i\nTtd.\nSOENARJO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1956 NOMOR 7\nDAN TAMBAHAN LEMBARAN NEGARA NOMOR 1144\n",
+                "content": "Dengan instansi atau pegawai lain yang ditunjuk oleh Menteri yang bersangkutan bernama dengan Menteri Perekonomian diartikan tidak saja terbatas pada pegawai-pegawai atau instansi-instansi Kementerian-kementerian Pusat tetapi juga instansi-instansi atau pegawai-pegawai daerah otonom.\nDiketahui\nMenteri Kehakiman a.i\nTtd.\nSOENARJO\n---",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "de1b4877-491d-4de4-95f0-d8e441bed76c",
+            "id": "d8a043e5-e99e-4a49-aec9-65cd88a02781",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "c49fe865-d2a1-47ff-9d7e-ac537e1345a4",
+                "id": "88385056-4294-42fc-a5dd-cbf513f347cd",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan ini dapat disebut \"Peraturan Pemerintah tentang Penyaluran Perusahaan-perusahaan\"dan mulai berlaku pada tanggal ditetapkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatan dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan ini dapat disebut \"Peraturan Pemerintah tentang\nPenyaluran Perusahaan-perusahaan\"dan mulai berlaku pada tanggal\nditetapkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -84,10 +84,10 @@
         "Tahun": "1957",
         "Tentang": "PENYALURAN PERUSAHAAN-PERUSAHAAN",
         "Menimbang": {
-            "Introduction": "\nbahwa untuk kepentingan bimbingan dan pengawasan\nperusahaan-perusahaan dianggap perlu mengadakan peraturan\npenyaluran;"
+            "Introduction": "\nbahwa untuk kepentingan bimbingan dan pengawasan perusahaan-perusahaan dianggap perlu mengadakan peraturan penyaluran;"
         },
         "Mengingat": {
-            "Introduction": "\nBedrijforeglementering ordonnantie 1934 (Staatsblad 1938 Nomor 86\nserta peraturan-peraturan pelaksanaannya;\nMendengar \nDewan Pembatasan Perindustrian;\nDewan Menteri dalam rapatnya yang ke 42 pada tanggal 29 Nopember\n1956;"
+            "Introduction": "\nBedrijforeglementering ordonnantie 1934 (Staatsblad 1938 Nomor 86 serta peraturan-peraturan pelaksanaannya;\nMendengar \nDewan Pembatasan Perindustrian;\nDewan Menteri dalam rapatnya yang ke 42 pada tanggal 29 Nopember 1956;"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENYALURAN PERUSAHAAN-PERUSAHAAN.",
         "tanggal sah": "19 Januari 1957"

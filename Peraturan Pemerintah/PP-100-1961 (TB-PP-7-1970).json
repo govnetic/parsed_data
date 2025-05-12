@@ -1,38 +1,46 @@
 {
     "results": [
         {
-            "id": "f7484057-9174-4ae6-a1e5-2f3caf455f7a",
+            "id": "b1fb92ac-5745-4663-a83f-ec790494f408",
             "name": "Chapter I",
             "title": "\nPENDIRIAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "19935fc2-ec4f-4a6b-b592-24a5eec8344b",
+                    "id": "a03ef704-3588-4f04-8a10-c3de33f4cb91",
                     "name": "Article 1",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d5f4b999-c7a1-4b55-955f-d7081bf055b3",
+                            "id": "a45d47c2-a3f5-4cba-99ff-f512cd210e37",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Dengan nama Badan Pimpinan Umum (BPU) Industri Kimia disingkat BPU Kimia\ndidirikan suatu Badan Pimpinan Umum yang diserahi tugas mengadakan\nkerjasama dan kesatuan tindakan dalam mengurus Perusahaan-perusahaan\nNegara serta mengawasi pekerjaan menguasai dan mengurus Perusahaan-",
+                            "content": " Dengan nama Badan Pimpinan Umum (BPU) Industri Kimia disingkat BPU Kimia didirikan suatu Badan Pimpinan Umum yang diserahi tugas mengadakan kerjasama dan kesatuan tindakan dalam mengurus Perusahaan-perusahaan Negara serta mengawasi pekerjaan menguasai dan mengurus Perusahaan-",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2e763872-7728-4794-881d-81d8af9bc77c",
+                            "id": "9752b2ab-7e19-409a-ba5e-48a39e2b2ad1",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": "\nperusahaan Negara, sebagai tercantum dalam Pasal 20 ayat (1) sub c dan d,\nPasal 23 ayat (4) Undang-undang Nomor 19 Prp Tahun 1960 (Lembaran Negara\nTahun 1960 Nomor 59).",
+                            "content": "\nperusahaan Negara, sebagai tercantum dalam Pasal 20 ayat (1) sub c dan d,\nPasal 23 ayat (4) Undang-undang Nomor 19 Prp Tahun 1960 (Lembaran Negara\nTahun 1960 Nomor 59).\nPerusahaan Negara termaksud dalam ayat (1) adalah Perusahaan Negara yang\ntercantum dalam daftar terlampir dan Perusahaan Negara lainnya yang akan\nditunjuk oleh Menteri Perindustrian Dasar/Pertambangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "acd52dcc-7150-473d-81eb-2f013d4c47ab",
+                            "id": "b3b8f439-d637-4766-87e0-dcecb9bddcbf",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": "\nSegala hak dan kewajiban, perlengkapan dan kekayaan serta usaha dari Badan\nPusat Penyelenggaraan Industri dan Tambang (disingkat BAPPIT) dan Bank\nPembangunan Indonesia (disingkat BAPINDO) dalam lingkungan Industri Kimia\ndialihkan kepada BPU Kimia.",
+                            "content": " Segala hak dan kewajiban, perlengkapan dan kekayaan serta usaha dari Badan\nPusat Penyelenggaraan Industri dan Tambang (disingkat BAPPIT) dan Bank\nPembangunan Indonesia (disingkat BAPINDO) dalam lingkungan Industri Kimia\ndialihkan kepada BPU Kimia.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "a2a968d4-d684-4ecb-b380-94dc5a35da6b",
+                            "name": "Verse 4",
+                            "number": "(4)",
+                            "type": "verse",
+                            "content": "\nPelaksanaan peleburan termaksud dalam ayat (3), diatur oleh Menteri\nPerindustrian Dasar/Pertambangan.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -40,40 +48,40 @@
             ]
         },
         {
-            "id": "f9dc628b-1d73-4e0c-899d-c46d9d84873a",
+            "id": "b9c2774b-48a7-42cc-8cdb-fee66220289d",
             "name": "Chapter II",
             "title": "\nANGGARAN DASAR\nKetentuan Umum.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8c27ec45-ba07-441f-9864-4e669f2569aa",
+                    "id": "0ebe24fb-afc3-4972-b591-1295aeec53f0",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f71d215d-9727-4f0b-a839-8071cb90b0da",
+                            "id": "ad942339-7704-4c7d-b95c-83bc93f99bf3",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " BPU Kimia adalah Badan Hukum yang berhak melakukan usaha berdasarkan\nPeraturan Pemerintah ini.",
+                            "content": "\nBPU Kimia adalah Badan Hukum yang berhak melakukan usaha berdasarkan\nPeraturan Pemerintah ini.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "cb39617c-feb3-47e6-a6f4-b1c947a03497",
+                            "id": "c7e054f2-6fc4-412d-8ec2-c213679e0037",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Dalam Peraturan Pemerintah ini yang dimaksud dengan:\na. \"Pemerintah\" ialah Presiden Republik Indonesia;\nb. \"Menteri\" ialah Menteri Perindustrian Dasar/Pertambangan;\nc. \"Perusahaan\" ialah Industri Kimia;\nd. \"Direksi\" ialah Direksi BPU Industri Kimia.",
+                            "content": " Dalam Peraturan Pemerintah ini yang dimaksud dengan:\na. \"Pemerintah\" ialah Presiden Republik Indonesia;\nb. \"Menteri\" ialah Menteri Perindustrian Dasar/Pertambangan;\nC. \"Perusahaan\" ialah Industri Kimia;\nd. \"Direksi\" ialah Direksi BPU Industri Kimia.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "8ef073c7-af79-4744-9070-d7e1bd7808ed",
+                    "id": "412bbed0-e0b3-4312-8f44-0e9ae4df8fda",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "3e288033-2108-4f71-bcec-dd24f79ed3c6",
+                        "id": "b230e2d6-b9ee-43c9-a3bc-c9ed6f0c2361",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -82,11 +90,11 @@
                     }
                 },
                 {
-                    "id": "82f81c3b-d68b-448e-bd98-f00e39887581",
+                    "id": "5c34f5b4-5f57-4b40-8b8c-3f3cd206f6f3",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "f9b903c1-b6cf-4586-b748-614e2369428b",
+                        "id": "0e0fe19a-e10e-4910-a3a7-096d095a8b98",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -95,11 +103,11 @@
                     }
                 },
                 {
-                    "id": "831fcc2e-0a1d-4926-ba67-121e4d6165b5",
+                    "id": "0e960b8c-b117-4117-b7c5-fb5509b1b3d6",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "60af1734-57ec-42d6-81d6-31b791c5a5ea",
+                        "id": "5104f967-4490-464f-899a-570690cf9ca8",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -108,12 +116,12 @@
                     }
                 },
                 {
-                    "id": "884b9c9e-7446-4161-83d2-970a1cdbe267",
+                    "id": "12393fbd-a5f8-45b6-9bb2-394e36149857",
                     "name": "Article 6",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3ffb8da8-3e0d-401e-b1dd-0d22917824ca",
+                            "id": "e8f8a867-8532-4cfe-ac7b-ebf16eebffd1",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -121,22 +129,22 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5e28febe-b0fc-497e-92fb-3540e537a694",
+                            "id": "14990a6a-93dc-47ec-922a-18321d0b2915",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Yang dimaksud dengan mengadakan kerjasama dan kesatuan tindakan ialah\nkerjasama dan kesatuan tindakan dalam lapang-an:\n1. Penyediaan perlengkapan bagi perusahaan-perusahaan di dalam\nlingkungannya.\n2. Pengurusan hal-hal mengenai pembiayaan.\n3. Pengaturan penjualan hasil produksi perusahaan di dalam lingkungannya.\n4. Mengadakan kerjasama dan kesatuan tindakan dalam bidang:\n   a. Teknik;\n   b. Organisasi dan Administrasi;\n   c. Personalia.\nModal.",
+                            "content": " Yang dimaksud dengan mengadakan kerjasama dan kesatuan tindakan ialah\nkerjasama dan kesatuan tindakan dalam lapang- an:\n1.  Penyediaan perlengkapan bagi perusahaan-perusahaan di dalam\nlingkungannya.\n2.  Pengurusan hal-hal mengenai pembiayaan.\n3.  Pengaturan penjualan hasil produksi perusahaan di dalam lingkungannya.\n4.  Mengadakan kerjasama dan kesatuan tindakan dalam bidang:\n    a. Teknik;\n    b. Organisasi dan Administrasi;\n    c. Personalia.\nModal.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "811b57b2-6808-4ed7-8c91-8eb1b85f9d72",
+                    "id": "95c32868-32dd-4bb9-96d5-2320bb690795",
                     "name": "Article 7",
                     "type": "article",
                     "children": [
                         {
-                            "id": "4116cc63-770a-4fc4-a1d3-90ebc29cd25b",
+                            "id": "9b5f8a0d-b2d4-4914-a2ca-9b7cf37d8164",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -144,7 +152,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a94c7604-a7f8-451e-a6d8-6facd3b7c742",
+                            "id": "bb3ae9a8-7e1a-4410-bf2c-8477ea84f506",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -152,7 +160,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6d7b8ba4-2f35-4157-ab36-1a5e60726f9f",
+                            "id": "c0aa3ae9-153c-4c6f-a087-3fbb9ad77e62",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -160,7 +168,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2ac05d4b-8d21-4305-b615-8df2a7718ac1",
+                            "id": "6a0ff5e1-e56a-4732-a876-763dc5dcc256",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -168,7 +176,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "00faad62-7f07-4fc8-8453-8d7e589f72a8",
+                            "id": "469a2d16-dbdd-484d-bcfd-1d1597a1deb5",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
@@ -178,12 +186,12 @@
                     ]
                 },
                 {
-                    "id": "cfebdb18-b525-4172-ac60-adda1bfd7d19",
+                    "id": "d0df8d6c-df8f-4296-9a27-efad75d783d7",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f0eb339b-7385-43ad-9b61-9d070c8abacb",
+                            "id": "98726975-5efb-49de-bb0e-72a5afbbb81c",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -191,7 +199,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "184bc61a-bb41-40c3-b8e7-bf56200c679b",
+                            "id": "d58a0aa2-baaf-4b7d-a787-97bb38f6ba76",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -199,7 +207,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e83c767c-2f8a-43d0-87fd-cf8c9b4defd1",
+                            "id": "dae3a72e-c447-4a3c-b86e-1f61bfcd3546",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -209,11 +217,11 @@
                     ]
                 },
                 {
-                    "id": "2440b3c2-9e35-4fed-9dcd-00cfecbd4cc0",
+                    "id": "e816d86d-d320-415d-b4b1-6b762e39cfc8",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "49ca59da-faf1-4da1-a21c-9fa28a353328",
+                        "id": "299fffbe-6529-468d-9415-ca0bc6bd96f4",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -222,12 +230,12 @@
                     }
                 },
                 {
-                    "id": "1687b2a8-98f9-4dc2-8d85-938b01c6a213",
+                    "id": "38b3d6e7-a7ce-48fa-8d9f-6c87bc7389c9",
                     "name": "Article 10",
                     "type": "article",
                     "children": [
                         {
-                            "id": "2c638fa5-8a0a-4a31-91b7-de6cd4c66663",
+                            "id": "eb3e1adf-7900-4b2b-8386-e889981b65f5",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -235,7 +243,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "3f822b57-67f6-4122-80db-7e4a43a73263",
+                            "id": "4a85839f-3cf4-4ff6-bb24-897c6e7e2913",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -243,7 +251,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4a6505e9-effe-45b1-b6c3-7aa720643cb6",
+                            "id": "3e21549a-4eda-4222-9eae-41a4c996db47",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -253,12 +261,12 @@
                     ]
                 },
                 {
-                    "id": "495a022b-9793-4b9d-8d1f-f2472fe15ed3",
+                    "id": "f759f32d-74ac-426e-94f9-deab8eb01779",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "02edb35c-4538-4404-9772-909fffdad9c5",
+                            "id": "0dfcdef4-9e09-410b-9ad1-468e4102a86a",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -266,7 +274,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ffeff8b7-e21a-4d39-9350-7c1dbac20a31",
+                            "id": "cd0c29e7-3c9b-4dd4-af0d-da822fbab7d0",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -274,7 +282,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e3e8bdc2-7521-4b81-a9ee-76c9dd9b939b",
+                            "id": "cae05322-2ad7-438d-915c-89874343879f",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -282,7 +290,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "880cec60-8f21-411e-98d8-c337c217fcd5",
+                            "id": "e682f8f1-14a0-473f-8c3c-2adc2a5e9bc2",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -290,7 +298,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "aa121a28-db99-4bb1-acad-18ea78929e78",
+                            "id": "a3cc208b-862f-4ff8-a4d0-bf7b0d2b0436",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
@@ -300,12 +308,12 @@
                     ]
                 },
                 {
-                    "id": "4439f7ab-7915-410a-98b2-fc6dccaffc2f",
+                    "id": "eca3a23f-fd7e-4a20-9b98-373cb384e1a1",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "96aaae11-a0c6-4e00-baf8-916805f030e6",
+                            "id": "0d4ff426-951f-4fb8-a131-4cf222e7f974",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -313,7 +321,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e06044d8-7073-4de7-bf67-752fa282dc47",
+                            "id": "fdc195a6-4eb4-4874-b482-53c63499f1e1",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -321,7 +329,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d38dfecf-24b9-4860-bd5e-983432c5575d",
+                            "id": "d4ff555c-06dd-4514-8a3c-ef3cb347ee78",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -331,12 +339,12 @@
                     ]
                 },
                 {
-                    "id": "fe0c6ef6-ad20-40ba-9a5c-c571bd1f73d4",
+                    "id": "80f5e286-1dfa-40df-8727-772738b1e2f2",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "152a817b-e310-4a77-b3a7-6b779cce149a",
+                            "id": "793cb0e4-8360-42dd-9308-10f91594f205",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -344,7 +352,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4bf94b29-4a1e-45a6-ae2b-70af611428f1",
+                            "id": "4c42d218-8cd4-463a-9e4a-f97ecaed7181",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -352,7 +360,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e0a28ad8-34e0-4010-89ba-1de5d0dc61e2",
+                            "id": "03b62e67-9c9d-4382-81cc-6e3f34039e8a",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -362,12 +370,12 @@
                     ]
                 },
                 {
-                    "id": "26d9bb6c-6955-4256-b889-3b14f7b28d9f",
+                    "id": "a0ef23ab-7df9-4ee1-b913-c2c916157acb",
                     "name": "Article 14",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ec71a9bf-3edb-4c30-8f71-141337328ce0",
+                            "id": "e7ee5fc3-8f61-440d-8712-d29df3e979a2",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -375,7 +383,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4afb434c-b904-4e3f-9184-f93bcfc2d46d",
+                            "id": "79f6a7fb-2368-4910-8422-fbd7c8105f5e",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -385,11 +393,11 @@
                     ]
                 },
                 {
-                    "id": "91000352-ded8-4c7b-905e-3c802a17e9b7",
+                    "id": "78ffaad9-89b3-4b72-bfab-4e281b6bf8ca",
                     "name": "Article 15",
                     "type": "article",
                     "children": {
-                        "id": "badd9568-f537-4b19-beb4-93186bb52163",
+                        "id": "8c50c01b-7b38-4806-8d3e-7cdebfe6b0e6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -398,12 +406,12 @@
                     }
                 },
                 {
-                    "id": "d8cd4988-06ca-4794-9911-914b3153c0dc",
+                    "id": "f49b7e5c-3919-4e57-b8d8-ea595398b105",
                     "name": "Article 16",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8f4aa652-ef71-47bb-9f82-9a6e4c4c0bee",
+                            "id": "0150aa25-4f99-4a52-a82a-3c75e959e325",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -411,7 +419,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "88351305-5408-47a8-aaa8-97c84cc33d9e",
+                            "id": "a7b48a5b-4e24-459a-bd4d-ef52aa2b2bc2",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -419,7 +427,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "56aaba53-24e2-45b8-bfe1-797bf21b00f5",
+                            "id": "cc778d37-8f71-4761-8bcd-df6d9824ce2f",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -427,7 +435,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "67f6cfcd-934e-4b74-8d2a-b7208b0a27a5",
+                            "id": "12fdccc8-321e-4d3d-828f-3efc6d3f8095",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -435,7 +443,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "cc1412c0-8f06-47e0-8eda-cf9b01939cb3",
+                            "id": "1ee228b4-84da-42f7-bc60-5443dcffd5c0",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
@@ -443,7 +451,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b8cdfc07-42c2-4444-ad74-02c90948922d",
+                            "id": "0dc676c8-166f-4b3a-9bab-440a7f9e8605",
                             "name": "Verse 6",
                             "number": "(6)",
                             "type": "verse",
@@ -453,11 +461,11 @@
                     ]
                 },
                 {
-                    "id": "86fc5885-3e4b-41d0-83c8-14e393d95949",
+                    "id": "dbb2fb46-34fb-420f-9f41-40563aa1b6a9",
                     "name": "Article 17",
                     "type": "article",
                     "children": {
-                        "id": "7aaa9c89-6564-425e-8cde-0fce2ec298f6",
+                        "id": "663a8d65-4769-4323-9bed-44163d78e58b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -466,11 +474,11 @@
                     }
                 },
                 {
-                    "id": "f457d63d-352a-425d-84a1-b58e33d846d4",
+                    "id": "7de079cf-4906-450e-9d69-cd3ed17ecf9b",
                     "name": "Article 18",
                     "type": "article",
                     "children": {
-                        "id": "cd02ea55-1c40-4d78-bb47-018127a5fc70",
+                        "id": "86c4f802-997c-4f96-9287-1c49271a858d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -479,12 +487,12 @@
                     }
                 },
                 {
-                    "id": "1c8293a0-4c20-4459-8b05-043e1b8533c4",
+                    "id": "404aed6a-f27d-4451-b169-bcc176346ece",
                     "name": "Article 19",
                     "type": "article",
                     "children": [
                         {
-                            "id": "66ee2c28-9958-49e0-bf62-1a77c201bf5f",
+                            "id": "71533fae-15f3-4c33-a4e1-0e2baf02652c",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -492,7 +500,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d42e67e0-e4b0-4d2d-b7fa-3444240e8f37",
+                            "id": "fa04dca7-aead-434c-908f-6ab641925a21",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -500,21 +508,21 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d6d9f616-71ff-43cf-ae07-14218bc97b48",
+                            "id": "39f1ef96-165e-4943-b67f-a066f0f6d4f9",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Anggaran tambahan atau perubahan anggaran yang terjadi dalam tahun-buku yang bersangkutan harus mendapat persetujuan terlebih dahulu dari Menteri.\nPenghasilan Badan Pimpinan Umum Industri Kimia.",
+                            "content": " Anggaran tambahan atau perubahan anggaran yang terjadi dalam tahun-buku yang bersangkutan harus mendapat persetujuan terlebih dahulu dari Menteri.\nPenghasilan Badan Pimpinan Umum\nIndustri Kimia.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "0389d34b-5b82-4099-ae7b-7f1a4fd3e047",
+                    "id": "d886bec7-9bed-44e0-88fc-a168912ee5e9",
                     "name": "Article 20",
                     "type": "article",
                     "children": {
-                        "id": "9bb1743e-0101-4d9c-a3f2-e4d994b99224",
+                        "id": "82461b61-3808-4d4d-90f0-724155a9b4ae",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -523,11 +531,11 @@
                     }
                 },
                 {
-                    "id": "ada663bf-f656-4123-96e6-e821264737bb",
+                    "id": "dd4320e0-ccd2-45e8-a68f-94b3e6bf24ba",
                     "name": "Article 21",
                     "type": "article",
                     "children": {
-                        "id": "198250c4-a8e2-4d51-900b-57f8212ca897",
+                        "id": "a9a67667-bc95-4d75-932a-6ef3a3fe50ff",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -536,20 +544,20 @@
                     }
                 },
                 {
-                    "id": "2f2b7044-cbad-402e-b693-13889f514be9",
+                    "id": "15ce1ddf-2b1b-4ae1-b295-0b40946be3ac",
                     "name": "Article 22",
                     "type": "article",
                     "children": [
                         {
-                            "id": "75525268-0127-4363-9897-8027ccedb58c",
+                            "id": "6bb37ed4-8689-41b2-8fd6-a8632f3cb6cc",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Untuk tiap tahun buku, oleh Direksi disusun perhitungan tahunan yang terdiri dari neraca dan perhitungan laba-rugi. Neraca dan perhitungan laba-rugi tersebut dikirimkan kepada Menteri dan Badan Pemeriksa Keuangan menurut cara dan waktu yang ditetapkan oleh Menteri.",
+                            "content": " Untuk tiap tahun buku, oleh Direksi disusun perhitungan tahunan yang terdiri dan neraca dan perhitungan laba-rugi. Neraca dan perhitungan laba-rugi tersebut dikirimkan kepada Menteri dan Badan Pemeriksa Keuangan menurut cara dan waktu yang ditetapkan oleh Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7f56d72b-3142-43ff-b0f9-da734e33bb5c",
+                            "id": "d5348eba-4b07-4cb2-9e1b-3dcfa0256ea4",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -557,7 +565,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "223ecbed-9fbc-4156-b09d-ff6e5a3808cc",
+                            "id": "f292c5ec-7370-4ed3-a44b-11b9a55f5e51",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -565,7 +573,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "be6e26c7-be84-4488-b37c-c42df0084ee4",
+                            "id": "4be9b1af-8bcc-4cb5-a0a1-bf12c9f84445",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -575,20 +583,20 @@
                     ]
                 },
                 {
-                    "id": "654558a8-9dbc-4798-8410-7f6e5f3d464a",
+                    "id": "a0b9c3f5-a2b0-48ad-a93a-c8b16e09ca22",
                     "name": "Article 23",
                     "type": "article",
                     "children": [
                         {
-                            "id": "2dce4833-8dd8-458c-aaba-2a97b82a3c61",
+                            "id": "a8bd8cf2-5bb1-44fd-9089-02136fcc8e56",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Dari laba bersih yang telah disahkan menurut Pasal 22, disisihkan untuk:\n   A.  dana pembangunan semesta sebesar 55%;\n   B.  untuk cadangan umum sebesar 20%, sampai cadangan umum tersebut mencapai jumlah dua kali modal perusahaan dan untuk ganti rugi sebesar 3% sedangkan sisanya dipisahkan untuk sumbangan dana pensiun dan sokongan pegawai, sosial dan pendidikan, dan jasa produksi, yang jumlah persentasenya masing-masing ditetapkan oleh Pemerintah.",
+                            "content": " Dari laba bersih yang telah disahkan menurut Pasal 22, disisihkan untuk:\n    a. dana pembangunan semesta sebesar 55%;\n    b. untuk cadangan umum sebesar 20%, sampai cadangan umum tersebut mencapai jumlah dua kali modal perusahaan dan untuk ganti rugi sebesar 3% sedangkan sisanya dipisahkan untuk sumbangan dana pensiun dan sokongan pegawai, sosial dan pendidikan, dan jasa produksi, yang jumlah persentasenya masing-masing ditetapkan oleh Pemerintah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e7eb9920-c005-478b-82e7-4c7110d503ee",
+                            "id": "6c65b816-f367-4d59-8486-a4c59b49a8d9",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -596,22 +604,22 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5945da8b-5555-4c25-8c43-db304fa3216f",
+                            "id": "b46748e8-c810-4b05-a108-48a17cb5325a",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Cara mengurus dan menggunakan dana penyusutan dan cadangan tujuan yang dimaksudkan pada Pasal 18 ayat (2) Undang-undang Nomor 19 Prp Tahun 1960 ditentukan dengan Peraturan Menteri.\nPembubaran.",
+                            "content": " Cara mengurus dan menggunakan dana penyusutan dan cadangan tujuan yang dimaksudkan pada Pasal 18 ayat (2) Undang-undang Nomor 19 Prp Tahun 1 960 ditentukan dengan Peraturan Menteri.\nPembubaran.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "f625c1b4-5028-4306-bf0b-645293678449",
+                    "id": "14c626c5-86dd-49b1-8112-12c9057c499d",
                     "name": "Article 24",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b455cd53-69a6-4aa6-94c2-c7f8db284ffc",
+                            "id": "d1da8c2e-1b59-47b2-8e87-a2e698175fa3",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -619,7 +627,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "59c23f61-d6fb-4b1f-9f13-35cbf67c327c",
+                            "id": "868424d8-a702-4a2a-a830-70e767f09774",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -627,7 +635,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6c811782-269f-4cf5-9a21-6399d318a491",
+                            "id": "ab805724-2ae2-4ac1-803d-91f8bdf81904",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -639,17 +647,17 @@
             ]
         },
         {
-            "id": "a636ef7c-e274-4da0-9318-cc3b88a1c847",
+            "id": "dce4ee83-e907-4db1-af1c-64ac3b235ffa",
             "name": "Chapter III",
             "title": ".\nKETENTUAN PENUTUP.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "51dceb36-6f85-4224-9cd3-ce9d0ee4143e",
+                    "id": "7edceba0-275b-441b-be73-25cc301a8d6c",
                     "name": "Article 25",
                     "type": "article",
                     "children": {
-                        "id": "1ad7295f-e2e6-4edf-b242-81575f49ff00",
+                        "id": "c80583f7-96ca-4196-a51c-7328c52ae6bb",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -658,11 +666,11 @@
                     }
                 },
                 {
-                    "id": "c50f58da-9808-4b65-a026-155e2b6dac38",
+                    "id": "c4112175-f774-47cd-8dec-9c36d0e2a8db",
                     "name": "Article 26",
                     "type": "article",
                     "children": {
-                        "id": "2edc3a48-b1c1-48e0-be50-89ba70fabca2",
+                        "id": "17ceabe8-e38d-428e-9417-0e09d159b735",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -679,16 +687,16 @@
         "Tentang": "PENDIRIAN BADAN PIMPINAN UMUM INDUSTRI KIMIA",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa perlu segera melaksanakan Undang-undang Nomor 19 Prp Tahun 1960\n(Lembaran Negara Tahun 1960 Nomor 59) terhadap Perusahaan Negara yang\nberada dibawah lingkungan Departemen Perindustrian Dasar/Pertambangan;",
-            "b": " bahwa berhubung dengan itu perlu didirikan suatu Badan Pimpinan Umum yang\ndiserahi tugas menjalankan tugas menyelenggarakan sebagian dari pekerjaan\nmenguasai dan mengurus Perusahaan Negara yang berusaha dalam lapangan\nperindustrian dasar."
+            "A": " bahwa perlu segera melaksanakan Undang-undang Nomor 19 Prp Tahun 1960 (Lembaran Negara Tahun 1960 Nomor 59) terhadap Perusahaan Negara yang berada dibawah lingkungan Departemen Perindustrian Dasar/Pertambangan;",
+            "B": " bahwa berhubung dengan itu perlu didirikan suatu Badan Pimpinan Umum yang diserahi tugas menjalankan tugas menyelenggarakan sebagian dari pekerjaan menguasai dan mengurus Perusahaan Negara yang berusaha dalam lapangan perindustrian dasar."
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Pasal 5 ayat 2 dari Undang-Undang Dasar;",
-            "2": " Pasal 20 ayat (1) sub c dan d dan Pasal 23 ayat 4 Undang-Undang Nomor 19 Prp.\nTahun 1960 (Lembaran Negara Tahun 1960 Nomor 59);",
-            "3": " Undang-undang Nomor 10 Prp Tahun 1960 (Lembaran Negara Nomor 31).\nMendengar\nMusyawarah Kabinet Kerja pada tanggal 6 Oktober 1960"
+            "1": "  Pasal 5 ayat 2 dari Undang-Undang Dasar;",
+            "2": "  Pasal 20 ayat (1) sub c dan d dan Pasal 23 ayat 4 Undang-Undang Nomor 19 Prp.Tahun 1960 (Lembaran Negara Tahun 1960 Nomor 59);",
+            "3": "  Undang-undang Nomor 10 Prp Tahun 1960 (Lembaran Negara Nomor 31).\nMendengar\nMusyawarah Kabinet Kerja pada tanggal 6 Oktober 1960"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENDIRIAN BADAN PIMPINAN UMUM\nINDUSTRI KIMIA.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENDIRIAN BADAN PIMPINAN UMUM INDUSTRI KIΜΙΑ.",
         "tanggal sah": "1 Januari 1961"
     }
 }

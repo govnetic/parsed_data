@@ -1,0 +1,88 @@
+{
+    "results": [
+        {
+            "id": "77ae6f50-9f21-4c70-8b58-76d69989c339",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "91f5aae7-e9f0-4486-b37e-21efaba6b266",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "92aaff30-1404-40f4-9d0a-ad025cb5503d",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "e1f03837-a6fd-4fef-b443-26faa636d56a",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Pegawai Balai Besar Penelitian dan Pengembangan Industri Tekstil, Balai Besar\nPenelitian dan Pengembangan Industri Selulosa, dan Balai Besar Pengembangan\nIndustri Logam dan Mesin diangkat langsung menjadi Pegawai Negeri Sipil dengan\nmenyimpang seperlunya dari ketentuan Peraturan Pemerintah Nomor 6 Tahun 1976\ntentang Pengadaan Pegawai Negeri Sipil (Lembaran Negara Tahun 1976 Nomor 10,\nTambahan Lembaran Negara Nomor 3069) dan Peraturan Pemerintah Nomor 26 Tahun\n1977 tentang Pengujian Kesehatan Pegawai Negeri Sipil dan Tenaga-tenaga lainnya\nyang bekerja pada Negara Republik Indonesia (Lembaran Negara Tahun 1977 Nomor 36\nTambahan Lembaran Negara Nomor 3105).",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "78717444-0341-434d-a82f-dccd9e43f58a",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "c5b613ed-c742-445b-b970-1e23f97ec530",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ayat (1)\nYang ditetapkan dengan Keputusan Kepala Badan Administrasi Kepegawaian Negara,\nadalah pengangkatan pertama menjadi Pegawain Negeri Sipil.\nAyat (2)\nMutasi kepegawaian selanjutnya ditetapkan dengan keputusan pejabat yang\nberwenang sebagaimana dimaksud dalam Peraturan Pemerintah Nomor 20 Tahun 1975\ntentang Wewenang Pengangkatan, Pemindahan, dan Pemberhentian Pegawai Negeri\nSipil (Lembaran Negara Tahun 1975 Nomor 26, Tambahan Lembaran Negara Nomor\n3058).",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "0c37a549-232f-4d5e-8f1e-64846d7d641c",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "f53c7c4f-0999-4ff8-83c3-94315c740984",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "1e553265-6a22-4ba3-84da-2066546505dd",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "6171c35b-0a61-453f-b6df-347d9a37a600",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "11",
+        "Tahun": "1980",
+        "Tentang": "PENGANGKATAN PEGAWAI BALAI BESAR PENELITIAN DAN PENGEMBANGAN INDUSTRI\nTEKSTIL, BALAI BESAR PENELITIAN DAN PENGEMBANGAN INDUSTRI SELULOSA, DAN\nBALAI BESAR PENGEMBANGAN LOGAM DAN MESIN\nMENJADI PEGAWAI NEGERI SIPIL",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa dengan Keputusan Presiden Nomor 47 Tahun 1979 Balai\nBesar Penelitian dan Pengembangan Industri Tekstil, Balai Besar\nPenelitian dan Pengembangan Industri Selulosa, dan Balai Besar\nPengembangan Industri Logam dan Mesin, ditetapkan setingkat\nPusat dalam lingkungan Departemen Perindustrian;",
+            "b": " bahwa berhubung dengan itu maka dipandang perlu mengangkat\npegawai Balai Besar Penelitian dan Pengembangan Industri\nTekstil, Balai Besar Penelitian dan Pengembangan Industri\nSelulosa dan Balai Besar Pengembangan Industri Logam dan\nMesin menjadi Pegawai Negeri Sipil;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 8 Tahun 1974 tentang Pokok-pokok\nKepegawaian (Lembaran Negara Tahun 1974 Nomor 55,\nTambahan Lembaran Negara Nomor 3041);",
+            "3": " Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan\nGaji Pegawai Negeri Sipil (Lembaran Negara Tahun 1977 Nomor\n11, Tambahan Lembaran Negara Nomor 3098);",
+            "4": " Peraturan Pemerintah Nomor 3 Tahun 1980 tentang\nPengangkatan Dalam Pangkat Pegawai Negeri Sipil (Lembaran\nNegara Tahun 1980 Nomor 6, Tambahan Lembaran Negara\nNomor 3156);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENGANGKATAN PEGAWAI BALAI\nBESAR PENELITIAN DAN PENGEMBANGAN ISUDSTRI TEKSTIL, BALAI\nBESAR PENELITIAN DAN PENGEMBANGAN INDUSTRI SELULOSA, DAN\nBALAI BESAR PENGEMBANGAN INDUSTRI LOGAM DAN MESIN MENJADI\nPEGAWAI NEGERI SIPIL",
+        "tanggal sah": ""
+    }
+}

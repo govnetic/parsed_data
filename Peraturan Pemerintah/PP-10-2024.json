@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "d51a6e0d-1ba3-4b6b-ba38-096b840c285a",
+            "id": "a789827b-0482-4e9f-a5f2-c0f0aaaf3c6b",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "98ea7b70-e977-455f-aebc-53a326c393a9",
+                "id": "3631f73c-1085-4967-b64d-14dddf0f559f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "4c808af2-55a1-4464-a434-a7e2f2831fb8",
+            "id": "decd6296-b2a6-4e89-95b4-6d6b0e93a539",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "73cf3e31-16c8-4f0b-aa27-2fc4fd8c768c",
+                "id": "a0015ea1-2abc-489b-a61a-a08c6b12bbfb",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "261ee743-3e22-4fe0-92d8-e221abe5bdd9",
+            "id": "5d3e8b5c-c4cf-4781-830a-6e006a2feb3c",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "cc11c0c6-d8e8-4f7b-9631-e26c60c0516a",
+                "id": "b336bb45-b76c-49af-9a7d-6187df139db4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "366a79a3-4554-4c82-bc0f-96047e4716b5",
+            "id": "6b3acecc-d694-413c-ba48-3c7ed205b66e",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "20c51ea3-1383-4078-990a-a39c12faffbe",
+                "id": "831130b6-9052-4255-90e5-7574db8dee6f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "7bd3ac30-1650-4838-83af-f8c6bfb77357",
+            "id": "56092a6d-bb6c-4694-a719-216493f869f6",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "b37de6c5-e08a-4009-b6f7-28a5d13ac0e7",
+                "id": "db291700-49d8-4154-92b8-82a091c9da27",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,37 +66,37 @@
             }
         },
         {
-            "id": "ab73fb2a-2dc8-4fd6-8194-5804a3fccd3e",
+            "id": "e745de30-e657-42aa-bc29-9a262351fdb8",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "ca6d906f-95de-478e-b921-c8be9fed27fd",
+                "id": "49008f24-d094-4277-b1ec-507e2b6208f6",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Pembayaran pensiun pokok Purnawirawan,\nWarakawuri/Duda, tunjangan Anak Yatim/Piatu, Anak\nYatim Piatu, dan tunjangan Orang Tua Anggota\nKepolisian Negara Republik Indonesia yang\ngugur/tewas/meninggal dunia dalam dan karena dinas,\ndiberikan terhitung mulai tanggal 1 Januari 2024.\n(2) Sejak mulai diberlakukannya penetapan pensiun\npokok/tunjangan berdasarkan Peraturan Pemerintah\nini, kepada Purnawirawan, Warakawuri/Duda,\npenerima tunjangan Anak Yatim/Piatu, Anak Yatim\nPiatu, dan tunjangan Orang Tua Anggota Kepolisian\nNegara Republik Indonesia, diberikan selisih\npenghasilan yang diterima berdasarkan peraturan\nperundang-undangan sebelumnya\npenghasilan yang diterima berdasarkan Peraturan\nPemerintah ini.",
+                "content": "(1) Pembayaran pensiun pokok Purnawirawan,\nWarakawuri/Duda, tunjangan Anak Yatim/Piatu, Anak\nYatim Piatu, dan tunjangan Orang Tua Anggota\nKepolisian Negara Republik Indonesia yang\ngugur/tewas/meninggal dunia dalam dan karena dinas,\ndiberikan terhitung mulai tanggal 1 Januari 2024.\n(2) Sejak mulai diberlakukannya penetapan pensiun\npokok/tunjangan berdasarkan Peraturan Pemerintah\nini, kepada Purnawirawan, Warakawuri/Duda,\npenerima tunjangan Anak Yatim/Piatu, Anak Yatim\nPiatu, dan tunjangan Orang Tua Anggota Kepolisian\nNegara Republik Indonesia, diberikan selisih\npenghasilan yang diterima berdasarkan peraturan\nperundang-undangan sebelumnya dengan\npenghasilan yang diterima berdasarkan Peraturan\nPemerintah ini.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "fbbef315-17cb-4a73-9090-2d8696a6e57a",
+            "id": "d88d90be-400d-4e75-9701-9bf0863a8661",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "235b9d30-7e9a-4779-babb-220548e0c7e1",
+                "id": "ff105976-bf6d-429d-b7fd-2b97a6dff567",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Penyesuaian pensiun pokok/tunjangan sebagaimana\ndimaksud dalam Pasal 2, ditetapkan oleh Kepala Kepolisian\nNegara Republik Indonesia sebagai dasar pembayaran\npensiun.\n\ndengan",
+                "content": "Penyesuaian pensiun pokok/tunjangan sebagaimana\ndimaksud dalam Pasal 2, ditetapkan oleh Kepala Kepolisian\nNegara Republik Indonesia sebagai dasar pembayaran\npensiun.\n",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "0dbd2913-faf8-4a3f-b8f0-f581572be1d7",
+            "id": "5ac9fa12-493e-4b76-8b7e-f58bdc8c5142",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "61b8e835-c6d7-4c47-aa95-51e40dee2341",
+                "id": "892b0667-d3d6-478f-a6cb-3fa6113699e3",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -105,11 +105,11 @@
             }
         },
         {
-            "id": "48c3cd7b-f882-478d-b96f-d831286e6080",
+            "id": "c0546294-04d7-4f39-8250-fe219da08b79",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "fb240a96-1d3a-4b00-bcb8-f2e05278c1e7",
+                "id": "241043a1-a0bc-4ad4-ae10-6ec19bfb59bd",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -118,11 +118,11 @@
             }
         },
         {
-            "id": "4077f962-a7b6-41af-b6c6-4d46487faeb7",
+            "id": "806e49e2-b80e-47bc-bd08-52d84476a615",
             "name": "Article 10",
             "type": "article",
             "children": {
-                "id": "537d27e0-0de2-4da5-953c-6e12a09fdf9b",
+                "id": "a5636d33-d686-426f-8c9d-189cf03d5c8d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -131,11 +131,11 @@
             }
         },
         {
-            "id": "9d995a29-fb6f-4ebb-9497-2daee09a5bef",
+            "id": "78626449-9df4-44ad-bd62-ca79ac6210b6",
             "name": "Article 11",
             "type": "article",
             "children": {
-                "id": "d3ef4549-84a3-4a1b-b682-fe161649a473",
+                "id": "ad3e3516-3396-421e-b59a-2bf4606796e1",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -155,14 +155,14 @@
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
             "2": " Undang-Undang Nomor 2 Tahun 1959 tentang\nPenetapan Undang-Undang Darurat Nomor 19 Tahun\n1950 tentang Peraturan Pemberian Pensiun dan\nOnderstand Kepada Para Anggota Tentara Angkatan\nDarat (Lembaran Negara Republik Indonesia Tahun\n1950 Nomor 28) sebagaimana telah diubah dengan\nUndang-Undang Darurat Nomor 28 Tahun 1950\n(Lembaran Negara Republik Indonesia Tahun 1950\nNomor 50), Undang-Undang Darurat Nomor 11 Tahun\n1951 (Lembaran Negara Republik Indonesia Tahun\n1951 Nomor 76), Undang-Undang Darurat Nomor 10\nTahun 1952 (Lembaran Negara Republik Indonesia\nTahun 1952 Nomor 75), dan Undang-Undang Darurat\nNomor 6 Tahun 1954 (Lembaran Negara Republik\nIndonesia Tahun 1954 Nomor 50), sebagai Undang-\nUndang (Lembaran Negara Republik Indonesia Tahun\n1959 Nomor 4);",
-            "3": " Undang-Undang Nomor 6 Tahun 1966 tentang Pemberian Pensiun, Tunjangan Bersifat Pensiun dan Tunjangan Kepada Militer Sukarela (Lembaran Negara Republik Indonesia Tahun 1966 Nomor 33, Tambahan Lembaran Negara Republik Indonesia Nomor 2812);",
-            "4": " Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 2, Tambahan Lembaran Negara Republik Indonesia Nomor 4168);",
-            "5": " Peraturan Pemerintah Nomor 2 Tahun 1951 tentang Pemberian Pensiun Kepada Janda-Janda dan Onderstand Kepada Anak-Anak Yatim/Piatu dari Para Prajurit Tentara Angkatan Darat (Lembaran Negara Republik Indonesia Tahun 1951 Nomor 5) sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Pemerintah Nomor 40 Tahun 1956 tentang Pengubahan/Penambahan Peraturan Pemerintah Nomor 2 Tahun 1951 (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 84, Tambahan Lembaran Negara Republik Indonesia Nomor 1147);",
-            "6": " Peraturan Pemerintah Nomor 36 Tahun 1968 tentang Pemberian Pensiun Kepada Warakawuri, Tunjangan Kepada Anak Yatim/Piatu dan Anak Yatim Piatu Militer Sukarela (Lembaran Negara Republik Indonesia Tahun 1968 Nomor 61, Tambahan Lembaran Negara Republik Indonesia Nomor 2663) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 51 Tahun 1970 tentang Perubahan/Penambahan Pasal 5 Peraturan Pemerintah Nomor 36 Tahun 1968 (Lembaran Negara Republik Indonesia Tahun 1970 Nomor 69, Tambahan Lembaran Negara Republik Indonesia Nomor 2948);",
-            "7": " Peraturan Pemerintah Nomor 29 Tahun 2001 tentang Peraturan Gaji Anggota Kepolisian Negara Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 52, Tambahan Lembaran Negara Republik Indonesia Nomor 4094) sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Pemerintah Nomor 7 Tahun 2024 tentang Perubahan Ketiga Belas atas Peraturan Pemerintah Nomor 29 Tahun 2001 tentang Peraturan Gaji Anggota Kepolisian Negara Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 17);",
+            "3": " Undang-Undang Nomor 6 Tahun 1966 tentang\nPemberian Pensiun, Tunjangan Bersifat Pensiun dan\nTunjangan Kepada Militer Sukarela (Lembaran Negara\nRepublik Indonesia Tahun 1966 Nomor 33, Tambahan\nLembaran Negara Republik Indonesia Nomor 2812);",
+            "4": " Undang-Undang Nomor 2 Tahun 2002 tentang\nKepolisian Negara Republik Indonesia (Lembaran\nNegara Republik Indonesia Tahun 2002 Nomor 2,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4168);",
+            "5": " Peraturan Pemerintah Nomor 2 Tahun 1951 tentang\nPemberian Pensiun Kepada Janda-Janda dan\nOnderstand Kepada Anak-Anak Yatim/Piatu dari Para\nPrajurit Tentara Angkatan Darat (Lembaran Negara\nRepublik Indonesia Tahun 1951 Nomor 5)\nsebagaimana telah beberapa kali diubah, terakhir\ndengan Peraturan Pemerintah Nomor 40 Tahun 1956\ntentang Pengubahan/Penambahan Peraturan\nPemerintah Nomor 2 Tahun 1951 (Lembaran Negara\nRepublik Indonesia Tahun 1956 Nomor 84, Tambahan\nLembaran Negara Republik Indonesia Nomor 1147);",
+            "6": " Peraturan Pemerintah Nomor 36 Tahun 1968 tentang\nPemberian Pensiun Kepada Warakawuri, Tunjangan\nKepada Anak Yatim/Piatu dan Anak Yatim Piatu\nMiliter Sukarela (Lembaran Negara Republik Indonesia\nTahun 1968 Nomor 61, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 2663) sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 51\nTahun 1970 tentang Perubahan/Penambahan Pasal 5\nPeraturan Pemerintah Nomor 36 Tahun 1968\n(Lembaran Negara Republik Indonesia Tahun 1970\nNomor 69, Tambahan Lembaran Negara Republik\nIndonesia Nomor 2948);",
+            "7": " Peraturan Pemerintah Nomor 29 Tahun 2001 tentang\nPeraturan Gaji Anggota Kepolisian Negara Republik\nIndonesia (Lembaran Negara Republik Indonesia\nTahun 2001 Nomor 52, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4094) sebagaimana telah\nbeberapa kali diubah, terakhir dengan Peraturan\nPemerintah Nomor 7 Tahun 2024 tentang Perubahan\nKetiga Belas atas Peraturan Pemerintah Nomor 29\nTahun 2001 tentang Peraturan Gaji Anggota\nKepolisian Negara Republik Indonesia (Lembaran\nNegara Republik Indonesia Tahun 2024 Nomor 17);",
             "8": " Peraturan Pemerintah Nomor 42 Tahun 2010 tentang\nHak-Hak Anggota Kepolisian Negara Republik\nIndonesia (Lembaran Negara Republik Indonesia\nTahun 2010 Nomor 57, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5123);"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang Penetapan\nPensiun Pokok Purnawirawan, Warakawuri/Duda,\nTunjangan Anak Yatim/Piatu, Anak Yatim Piatu, dan\nTunjangan Orang Tua Anggota Kepolisian Negara Republik\nIndonesia;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 2 Tahun 1959 tentang\nPenetapan Undang-Undang Darurat Nomor 19 Tahun\n1950 tentang Peraturan Pemberian Pensiun dan\nOnderstand Kepada Para Anggota Tentara Angkatan\nDarat (Lembaran Negara Republik Indonesia Tahun\n1950 Nomor 28) sebagaimana telah diubah dengan\nUndang-Undang Darurat Nomor 28 Tahun 1950\n(Lembaran Negara Republik Indonesia Tahun 1950\nNomor 50), Undang-Undang Darurat Nomor 11 Tahun\n1951 (Lembaran Negara Republik Indonesia Tahun\n1951 Nomor 76), Undang-Undang Darurat Nomor 10\nTahun 1952 (Lembaran Negara Republik Indonesia\nTahun 1952 Nomor 75), dan Undang-Undang Darurat\nNomor 6 Tahun 1954 (Lembaran Negara Republik\nIndonesia Tahun 1954 Nomor 50), sebagai Undang-\nUndang (Lembaran Negara Republik Indonesia Tahun\n1959 Nomor 4);\n3. Undang-Undang Nomor 6 Tahun 1966 tentang Pemberian Pensiun, Tunjangan Bersifat Pensiun dan Tunjangan Kepada Militer Sukarela (Lembaran Negara Republik Indonesia Tahun 1966 Nomor 33, Tambahan Lembaran Negara Republik Indonesia Nomor 2812);\n4. Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 2, Tambahan Lembaran Negara Republik Indonesia Nomor 4168);\n5. Peraturan Pemerintah Nomor 2 Tahun 1951 tentang Pemberian Pensiun Kepada Janda-Janda dan Onderstand Kepada Anak-Anak Yatim/Piatu dari Para Prajurit Tentara Angkatan Darat (Lembaran Negara Republik Indonesia Tahun 1951 Nomor 5) sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Pemerintah Nomor 40 Tahun 1956 tentang Pengubahan/Penambahan Peraturan Pemerintah Nomor 2 Tahun 1951 (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 84, Tambahan Lembaran Negara Republik Indonesia Nomor 1147);\n6. Peraturan Pemerintah Nomor 36 Tahun 1968 tentang Pemberian Pensiun Kepada Warakawuri, Tunjangan Kepada Anak Yatim/Piatu dan Anak Yatim Piatu Militer Sukarela (Lembaran Negara Republik Indonesia Tahun 1968 Nomor 61, Tambahan Lembaran Negara Republik Indonesia Nomor 2663) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 51 Tahun 1970 tentang Perubahan/Penambahan Pasal 5 Peraturan Pemerintah Nomor 36 Tahun 1968 (Lembaran Negara Republik Indonesia Tahun 1970 Nomor 69, Tambahan Lembaran Negara Republik Indonesia Nomor 2948);\n7. Peraturan Pemerintah Nomor 29 Tahun 2001 tentang Peraturan Gaji Anggota Kepolisian Negara Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 52, Tambahan Lembaran Negara Republik Indonesia Nomor 4094) sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Pemerintah Nomor 7 Tahun 2024 tentang Perubahan Ketiga Belas atas Peraturan Pemerintah Nomor 29 Tahun 2001 tentang Peraturan Gaji Anggota Kepolisian Negara Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 17);\n8. Peraturan Pemerintah Nomor 42 Tahun 2010 tentang\nHak-Hak Anggota Kepolisian Negara Republik\nIndonesia (Lembaran Negara Republik Indonesia\nTahun 2010 Nomor 57, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5123);\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG PENETAPAN\nPENSIUN POKOK PURNAWIRAWAN, WARAKAWURI/\nDUDA, TUNJANGAN ANAK YATIM/PIATU, ANAK YATIM\nPIATU, DAN TUNJANGAN ORANG TUA ANGGOTA\nKEPOLISIAN NEGARA REPUBLIK INDONESIA.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang Penetapan\nPensiun Pokok Purnawirawan, Warakawuri/Duda,\nTunjangan Anak Yatim/Piatu, Anak Yatim Piatu, dan\nTunjangan Orang Tua Anggota Kepolisian Negara Republik\nIndonesia;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 2 Tahun 1959 tentang\nPenetapan Undang-Undang Darurat Nomor 19 Tahun\n1950 tentang Peraturan Pemberian Pensiun dan\nOnderstand Kepada Para Anggota Tentara Angkatan\nDarat (Lembaran Negara Republik Indonesia Tahun\n1950 Nomor 28) sebagaimana telah diubah dengan\nUndang-Undang Darurat Nomor 28 Tahun 1950\n(Lembaran Negara Republik Indonesia Tahun 1950\nNomor 50), Undang-Undang Darurat Nomor 11 Tahun\n1951 (Lembaran Negara Republik Indonesia Tahun\n1951 Nomor 76), Undang-Undang Darurat Nomor 10\nTahun 1952 (Lembaran Negara Republik Indonesia\nTahun 1952 Nomor 75), dan Undang-Undang Darurat\nNomor 6 Tahun 1954 (Lembaran Negara Republik\nIndonesia Tahun 1954 Nomor 50), sebagai Undang-\nUndang (Lembaran Negara Republik Indonesia Tahun\n1959 Nomor 4);\n3. Undang-Undang Nomor 6 Tahun 1966 tentang\nPemberian Pensiun, Tunjangan Bersifat Pensiun dan\nTunjangan Kepada Militer Sukarela (Lembaran Negara\nRepublik Indonesia Tahun 1966 Nomor 33, Tambahan\nLembaran Negara Republik Indonesia Nomor 2812);\n4. Undang-Undang Nomor 2 Tahun 2002 tentang\nKepolisian Negara Republik Indonesia (Lembaran\nNegara Republik Indonesia Tahun 2002 Nomor 2,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4168);\n5. Peraturan Pemerintah Nomor 2 Tahun 1951 tentang\nPemberian Pensiun Kepada Janda-Janda dan\nOnderstand Kepada Anak-Anak Yatim/Piatu dari Para\nPrajurit Tentara Angkatan Darat (Lembaran Negara\nRepublik Indonesia Tahun 1951 Nomor 5)\nsebagaimana telah beberapa kali diubah, terakhir\ndengan Peraturan Pemerintah Nomor 40 Tahun 1956\ntentang Pengubahan/Penambahan Peraturan\nPemerintah Nomor 2 Tahun 1951 (Lembaran Negara\nRepublik Indonesia Tahun 1956 Nomor 84, Tambahan\nLembaran Negara Republik Indonesia Nomor 1147);\n6. Peraturan Pemerintah Nomor 36 Tahun 1968 tentang\nPemberian Pensiun Kepada Warakawuri, Tunjangan\nKepada Anak Yatim/Piatu dan Anak Yatim Piatu\nMiliter Sukarela (Lembaran Negara Republik Indonesia\nTahun 1968 Nomor 61, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 2663) sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 51\nTahun 1970 tentang Perubahan/Penambahan Pasal 5\nPeraturan Pemerintah Nomor 36 Tahun 1968\n(Lembaran Negara Republik Indonesia Tahun 1970\nNomor 69, Tambahan Lembaran Negara Republik\nIndonesia Nomor 2948);\n7. Peraturan Pemerintah Nomor 29 Tahun 2001 tentang\nPeraturan Gaji Anggota Kepolisian Negara Republik\nIndonesia (Lembaran Negara Republik Indonesia\nTahun 2001 Nomor 52, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4094) sebagaimana telah\nbeberapa kali diubah, terakhir dengan Peraturan\nPemerintah Nomor 7 Tahun 2024 tentang Perubahan\nKetiga Belas atas Peraturan Pemerintah Nomor 29\nTahun 2001 tentang Peraturan Gaji Anggota\nKepolisian Negara Republik Indonesia (Lembaran\nNegara Republik Indonesia Tahun 2024 Nomor 17);\n8. Peraturan Pemerintah Nomor 42 Tahun 2010 tentang\nHak-Hak Anggota Kepolisian Negara Republik\nIndonesia (Lembaran Negara Republik Indonesia\nTahun 2010 Nomor 57, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5123);\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG PENETAPAN\nPENSIUN POKOK PURNAWIRAWAN, WARAKAWURI/\nDUDA, TUNJANGAN ANAK YATIM/PIATU, ANAK YATIM\nPIATU, DAN TUNJANGAN ORANG TUA ANGGOTA\nKEPOLISIAN NEGARA REPUBLIK INDONESIA.",
         "tanggal sah": "26 Januari 2024"
     }
 }

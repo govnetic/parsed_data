@@ -1,18 +1,18 @@
 {
     "results": [
         {
-            "id": "ce3fbf69-a199-4929-8fad-c587e299ee7a",
+            "id": "9163e575-574f-40c6-9dee-70056976ab6c",
             "name": "Chapter I",
             "title": "\nPENGALIHAN BENTUK DAN PEMBUBARAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f57b06d1-cac5-4fde-bcf8-25b3311bb724",
+                    "id": "3df19b01-ba60-4eb1-8515-0958843bd016",
                     "name": "Article 1",
                     "type": "article",
                     "children": [
                         {
-                            "id": "a8de00b3-e986-42c3-b6b7-d104d6c74717",
+                            "id": "19eace6f-2d76-447d-a2b4-b93ec3cab29a",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -20,7 +20,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0a7b1986-bea1-4ffd-8a92-13f76ff93231",
+                            "id": "f5b5c11d-bcf7-4756-ad84-ec7153937dad",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -28,7 +28,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ae814eca-3960-475f-bd7d-b53b3bd9d6dc",
+                            "id": "d1b7c2b6-1084-4f6b-a3be-ee02057a0d85",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -36,7 +36,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "be9b7f17-6817-4d5c-b363-373ac30c9a61",
+                            "id": "55062821-5a99-4195-8a16-a3c71ab8ab45",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -44,7 +44,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "61bf8ef5-0cc4-4c24-9caf-5a6b6415d5a3",
+                            "id": "7b20001d-329f-4f2d-8c6b-16a7fbd2e8ef",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
@@ -56,18 +56,18 @@
             ]
         },
         {
-            "id": "de312b2a-45b3-4fad-85ee-1c6bfee4d38d",
+            "id": "6b37e64e-a8fd-4b05-b0f6-a719a085070b",
             "name": "Chapter II",
             "title": "\nMODAL PERUSAHAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "c171db09-bcb3-4d53-88ed-14b7d234601e",
+                    "id": "14ccecee-9e0e-4442-b761-2f35bc5f9e01",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "a1c4cd03-3b0f-4f81-9548-88be5de7e832",
+                            "id": "2b978dd6-d81e-4297-940d-e6fd74f84d72",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -75,7 +75,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "74aa11fc-96a0-4c23-9b51-24a0ae16a3d7",
+                            "id": "88d7b1ae-a6f8-42b8-85d2-ffb52d11d074",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -83,7 +83,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "00a041ae-87c9-46d4-85f6-1881748f4e67",
+                            "id": "8bbfacc1-47a5-408f-b218-7505b7f048de",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -95,17 +95,17 @@
             ]
         },
         {
-            "id": "c60e3f5b-90ac-4ee9-8ada-0f62e31d1cbf",
+            "id": "de52b4df-8fcc-4d93-a45d-f5a43fd0cdc4",
             "name": "Chapter III",
             "title": "\nPELAKSANAAN PENDIRIAN PERUSAHAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "71caecde-c541-4376-b4e0-051770aab529",
+                    "id": "34ae93d3-9360-40ee-8417-8858e34eadb3",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "917bc8ab-d8c0-4b91-b96d-481c8fba8fe6",
+                        "id": "94007c78-0b7b-4248-a661-82b7833129ef",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -114,12 +114,12 @@
                     }
                 },
                 {
-                    "id": "0a28d87c-381f-458f-9003-afb2a4af445c",
+                    "id": "b358fde6-67bd-4e71-ad02-7e05d669eeac",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d56892e7-1c60-44f7-8588-c2cda7398ab1",
+                            "id": "abaca87f-ed56-4def-b479-bf01dffd19a4",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -127,7 +127,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1fb7b04d-4610-4eb3-acf6-fbc34b48c900",
+                            "id": "aeac0453-cf00-4ddc-b8c1-d7d7b83cce85",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -135,7 +135,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1c270a26-a608-4849-bb2a-9ec31b8ca5f4",
+                            "id": "bd90c848-34de-45a0-a236-59729271f803",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -147,17 +147,17 @@
             ]
         },
         {
-            "id": "b87b84d5-c54a-4e87-a5f5-74dcca52f806",
+            "id": "ee234476-9288-4a02-9b92-d7e0015d68d6",
             "name": "Chapter IV",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8edbe59b-fb41-477a-9ae8-7f77bfba281c",
+                    "id": "d54088fb-7f8b-4fda-b50f-e510e28ff82b",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "df98e651-812b-44d9-85f1-8e39d8368fa0",
+                        "id": "48cc16d5-816a-4aac-a722-1e8073593a8e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -166,11 +166,11 @@
                     }
                 },
                 {
-                    "id": "9cb7cbcf-3bf9-4579-b4ab-e482d2733a16",
+                    "id": "e057e650-fccf-40f3-9c17-38aa8a166fbc",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "7e457208-45f3-4db6-9eda-fbcd17b84cc4",
+                        "id": "64437a74-5fbb-41c5-8be9-9e141c5b9b45",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -179,15 +179,15 @@
                     }
                 },
                 {
-                    "id": "48494404-8d90-4137-ad3b-28e0650c6a29",
+                    "id": "007f2718-7448-40b3-a256-195000a286e2",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "7a659bba-a852-4817-bc6b-843e79377e15",
+                        "id": "5e15efd1-1098-421d-b67a-13aff01944d6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }

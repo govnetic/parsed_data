@@ -1,107 +1,120 @@
 {
     "results": [
         {
-            "id": "c9a108e4-8614-4d56-a8bf-0268cf2f67c2",
-            "name": "Article 2",
+            "id": "6a6ec065-00a5-4ad7-9f72-5dac2bf64013",
+            "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "086832f9-84ab-43d6-ba6b-f6c6fc2d7152",
+                "id": "f7cfe895-3f94-4473-b947-cabe4bc9bba5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Kepada Wajib Pajak badan dalam negeri berbentuk perseroan terbatas dan koperasi yang melakukan penanaman modal pada:\na. bidang-bidang usaha tertentu sebagaimana ditetapkan dalam Lampiran I Peraturan Pemerintah ini; atau\nb. bidang-bidang usaha tertentu dan daerah-daerah tertentu sebagaimana ditetapkan dalam Lampiran II Peraturan Pemerintah ini,\ndapat diberikan fasilitas Pajak Penghasilan.\n(2) Fasilitas Pajak Penghasilan sebagaimana dimaksud pada ayat (1) adalah:\na. pengurangan penghasilan neto sebesar 30% (tiga puluh persen) dari jumlah Penanaman Modal, dibebankan selama 6 (enam) tahun masing-masing sebesar 5% (lima persen) per tahun;\nb. penyusutan dan amortisasi yang dipercepat, sebagai berikut:\nKelompok Aktiva Tetap Berwujud Masa Manfaat Menjadi Tarif Penyusutan dan Amortisasi Berdasarkan Metode\nGaris Lurus Saldo Menurun\nI. Bukan Bangunan: Kelompok I 2 tahun 50% 100% (dibebankan sekaligus)\nKelompok II 4 tahun 25% 50%\nKelompok III 8 tahun 12,5% 25%\nKelompok IV 10 tahun 10% 20%\nII. Bangunan:\nPermanen 10 tahun 10% -\nTidak Permanen 5 tahun 20% -\nc. pengenaan\nc. pengenaan Pajak Penghasilan atas dividen yang\ndibayarkan kepada Subjek Pajak Luar Negeri sebesar\n10% (sepuluh persen), atau tarif yang lebih rendah\nmenurut Persetujuan Penghindaran Pajak Berganda\nyang berlaku; dan\nd. kompensasi kerugian yang lebih lama dari 5 (lima)\ntahun tetapi tidak lebih dari 10 (sepuluh) tahun dengan\nketentuan sebagai berikut:\n1) tambahan 1 tahun : apabila penanaman modal\nbaru pada bidang usaha yang\ndiatur dalam Pasal 2 ayat (1)\nhuruf a dilakukan di kawasan\nindustri dan kawasan berikat;\n2) tambahan 1 tahun : apabila mempekerjakan\nsekurang-kurangnya 500 (lima\nratus) orang tenaga kerja\nIndonesia selama 5 (lima)\ntahun berturut-turut;\n3) tambahan 1 tahun : apabila penanaman modal\nbaru memerlukan\ninvestasi/pengeluaran untuk\ninfrastruktur ekonomi dan\nsosial di lokasi usaha paling\nsedikit\nRp10.000.000.000,00\n(sepuluh miliar rupiah);\nsebesar\n4) tambahan 1 tahun : apabila mengeluarkan biaya\npenelitian dan pengembangan\ndi dalam negeri dalam rangka\npengembangan produk atau\nefisiensi produksi paling\nsedikit 5% (lima persen) dari\ninvestasi dalam jangka waktu\n5 (lima) tahun; dan/atau\n5) tambahan 1 tahun : apabila menggunakan bahan\nbaku dan atau komponen\nhasil produksi dalam negeri\npaling sedikit 70% (tujuh\npuluh persen) sejak tahun ke\n4 (empat).\n\n(3) Menteri Keuangan menerbitkan keputusan pemberian\nfasilitas Pajak Penghasilan setelah mempertimbangkan\nusulan dari Kepala Badan Koordinasi Penanaman Modal.",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Dalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Penanaman modal adalah investasi berupa aktiva tetap\nberwujud termasuk tanah yang digunakan untuk kegiatan\nutama usaha, baik untuk penanaman modal baru maupun\nperluasan dari usaha yang telah ada.\n2. Aktiva tetap berwujud adalah aktiva berwujud yang\nmempunyai masa manfaat lebih dari 1 (satu) tahun yang\ndiperoleh dalam bentuk siap pakai atau dibangun lebih\ndahulu, yang digunakan dalam operasi perusahaan, tidak\ndimaksudkan\ndipindahtangankan.\nuntuk\ndiperjualbelikan\natau\n3. Perluasan dari usaha yang telah ada adalah suatu kegiatan\ndalam rangka peningkatan kuantitas/ kualitas produk,\ndiversifikasi produk, atau perluasan wilayah operasi dalam\nrangka pengembangan kegiatan dan produksi perusahaan.\n4. Bidang-bidang usaha tertentu adalah bidang usaha di\nsektor kegiatan ekonomi yang mendapat prioritas tinggi\ndalam skala nasional.\n5. Daerah-daerah . . .\n5. Daerah-daerah tertentu adalah daerah yang secara ekonomis mempunyai potensi yang layak dikembangkan.",
+                "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "3fdc30bc-db8d-402d-95ad-21f8db01c5e0",
+            "id": "f1df9df8-28aa-470e-b412-940bc2e18cae",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "1c269345-3152-49c7-99f9-772f18d68dfa",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Kepada Wajib Pajak badan dalam negeri berbentuk perseroan terbatas dan koperasi yang melakukan penanaman modal pada:\n   a. bidang-bidang usaha tertentu sebagaimana ditetapkan dalam Lampiran I Peraturan Pemerintah ini; atau\n   b. bidang-bidang usaha tertentu dan daerah-daerah tertentu sebagaimana ditetapkan dalam Lampiran II Peraturan Pemerintah ini,\ndapat diberikan fasilitas Pajak Penghasilan.\n(2) Fasilitas Pajak Penghasilan sebagaimana dimaksud pada ayat (1) adalah:\n   a. pengurangan penghasilan neto sebesar 30% (tiga puluh persen) dari jumlah Penanaman Modal, dibebankan selama 6 (enam) tahun masing-masing sebesar 5% (lima persen) per tahun;\n   b. penyusutan dan amortisasi yang dipercepat, sebagai berikut:\n| Kelompok Aktiva Tetap Berwujud | Masa Manfaat Menjadi | Tarif Penyusutan dan Amortisasi Berdasarkan Metode                                    |\n| :--------------------------------- | :--------------------- | :------------------------------------------------------------------------------------- |\n|                                    |                        | Garis Lurus                                               | Saldo Menurun                                             |\n| I. Bukan Bangunan:                |                        |                                                                                       |\n| Kelompok I                         | 2 tahun                | 50%                                                       | 100% (dibebankan sekaligus)                              |\n| Kelompok II                        | 4 tahun                | 25%                                                       | 50%                                                       |\n| Kelompok III                       | 8 tahun                | 12,5%                                                     | 25%                                                       |\n| Kelompok IV                        | 10 tahun               | 10%                                                       | 20%                                                       |\n| II. Bangunan:                      |                        |                                                                                       |\n| Permanen                           | 10 tahun               | 10%                                                       | -                                                         |\n| Tidak Permanen                     | 5 tahun                | 20%                                                       | -                                                         |\nc. pengenaan . . .\nc. pengenaan Pajak Penghasilan atas dividen yang\ndibayarkan kepada Subjek Pajak Luar Negeri sebesar\n10% (sepuluh persen), atau tarif yang lebih rendah\nmenurut Persetujuan Penghindaran Pajak Berganda\nyang berlaku; dan\nd. kompensasi kerugian yang lebih lama dari 5 (lima)\ntahun tetapi tidak lebih dari 10 (sepuluh) tahun dengan\nketentuan sebagai berikut:\n1) tambahan 1 tahun : apabila penanaman modal\nbaru pada bidang usaha yang\ndiatur dalam Pasal 2 ayat (1)\nhuruf a dilakukan di kawasan\nindustri dan kawasan berikat;\n2) tambahan 1 tahun : apabila mempekerjakan\nsekurang-kurangnya 500 (lima\nratus) orang tenaga kerja\nIndonesia selama 5 (lima)\ntahun berturut-turut;\n3) tambahan 1 tahun : apabila penanaman modal\nbaru memerlukan\ninvestasi/pengeluaran untuk\ninfrastruktur ekonomi dan\nsosial di lokasi usaha paling\nsedikit\nRp10.000.000.000,00\n(sepuluh miliar rupiah);\nsebesar\n4) tambahan 1 tahun : apabila mengeluarkan biaya\npenelitian dan pengembangan\ndi dalam negeri dalam rangka\npengembangan produk atau\nefisiensi produksi paling\nsedikit 5% (lima persen) dari\ninvestasi dalam jangka waktu\n5 (lima) tahun; dan/atau\n5) tambahan 1 tahun : apabila menggunakan bahan\nbaku dan atau komponen\nhasil produksi dalam negeri\npaling sedikit 70% (tujuh\npuluh persen) sejak tahun ke\n4 (empat).\n(3) Menteri . . .\n(3) Menteri Keuangan menerbitkan keputusan pemberian\nfasilitas Pajak Penghasilan setelah mempertimbangkan\nusulan dari Kepala Badan Koordinasi Penanaman Modal.",
+                "explanation": "\nFasilitas Pajak Penghasilan sebagaimana diatur dalam Peraturan\nPemerintah ini hanya dapat diberikan kepada wajib pajak\nberbentuk Perseroan Terbatas (PT) dan Koperasi yang melakukan\npenanaman modal pada bidang usaha sebagaimana ditetapkan\ndalam Lampiran I dan Lampiran II Peraturan Pemerintah ini.\nPenanaman modal pada bidang-bidang usaha sebagaimana\nditetapkan dalam Lampiran I dapat dilakukan di seluruh wilayah\nIndonesia sedangkan penanaman modal pada bidang-bidang\nusaha sebagaimana ditetapkan dalam Lampiran II harus dilakukan\ndi daerah yang ditetapkan di Lampiran II tersebut.\n"
+            }
+        },
+        {
+            "id": "8e77d2f1-afee-422c-add7-8067f8374d7e",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "e620e3cd-06d2-4851-bcfe-781af54df608",
+                "id": "0924b363-cc5c-440c-8081-46b07f620b5f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "Wajib Pajak yang mendapat fasilitas sebagaimana dimaksud\ndalam Pasal 2 ayat (2), sebelum lewat jangka waktu 6 (enam)\ntahun sejak tanggal pemberian fasilitas tidak boleh :\na. menggunakan aktiva tetap yang mendapatkan fasilitas\nuntuk tujuan selain yang diberikan fasilitas; atau\nb. mengalihkan sebagian atau seluruh aktiva tetap yang\nmendapatkan fasilitas kecuali aktiva tetap yang dialihkan\ntersebut diganti dengan aktiva tetap baru.",
-                "explanation": "Tidak ada Penjelasan"
+                "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "16af169f-2561-444a-9c56-ca32d6128993",
+            "id": "43c787f3-1d88-485d-bc06-94672fd49307",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "bcb69a30-6d60-4acf-89a2-f3cc56e83705",
+                "id": "8bae330b-904e-4eae-bc9c-887c0e353922",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "Apabila Wajib Pajak yang telah mendapatkan fasilitas tidak\nmemenuhi ketentuan Pasal 3, maka:\na. fasilitas yang telah diberikan berdasarkan Peraturan\nPemerintah ini dicabut;\nb. terhadap Wajib Pajak yang bersangkutan dikenakan sanksi\nsesuai ketentuan peraturan perundang-undangan\nperpajakan yang berlaku; dan\nc. tidak dapat lagi diberikan fasilitas berdasarkan Peraturan\nPemerintah ini.",
-                "explanation": "Tidak ada Penjelasan"
+                "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "0b4c0860-5287-473c-8d5a-b89257faf31e",
+            "id": "509c8012-1398-4877-a48d-7db2887f8fb0",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "c77bfe07-708f-4869-886e-a102f0e42053",
+                "id": "3aec838e-59d0-416d-a061-e50ee607d22f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "(1) Pelaksanaan Peraturan Pemerintah ini akan dievaluasi\ndalam jangka waktu paling lama 1 (satu) tahun sejak\nPeraturan Pemerintah ini ditetapkan.\n(2) Evaluasi . . .\n(2) Evaluasi sebagaimana dimaksud pada ayat (1) dilakukan\noleh Tim monitoring dan evaluasi yang dibentuk dengan\nKeputusan Menteri Koordinator Bidang Perekonomian.",
-                "explanation": "Tidak ada Penjelasan"
+                "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "4b8fc689-6277-48ef-868a-be93c90efe0b",
+            "id": "af7d64cc-cb90-44af-b7eb-9b111aa04e21",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "0921f330-83a7-422e-a4ef-709285a76550",
+                "id": "78395fbf-cadc-4614-a3b2-9683398ded8a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "Wajib Pajak yang telah memperoleh fasilitas perpajakan atas\nkegiatan usaha di Kawasan Pengembangan Ekonomi Terpadu\n(KAPET) berdasarkan Peraturan Pemerintah Nomor 20 Tahun\n2000 tentang Perlakuan Perpajakan di Kawasan Pengembangan\nEkonomi Terpadu sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 147 Tahun 2000, maka atas kegiatan usaha\ntersebut tidak lagi diberikan fasilitas perpajakan sebagaimana\ndimaksud dalam Peraturan Pemerintah ini.",
-                "explanation": "Tidak ada Penjelasan"
+                "explanation": "\nPasal 6\nCukup jelas."
             }
         },
         {
-            "id": "5402611f-4b8d-45e2-87e2-7cb03a33d2e3",
+            "id": "9a279cbf-fbac-4473-b4de-87b2b0a2e0c9",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "ce410238-cdf8-46ba-9ece-a4ace57314ff",
+                "id": "6b4a11c4-4106-499e-a9b0-30e35a26cfba",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "Ketentuan lebih lanjut yang diperlukan dalam rangka\npelaksanaan Peraturan Pemerintah ini diatur dengan atau\nberdasarkan Peraturan Menteri Keuangan.",
-                "explanation": "Tidak ada Penjelasan"
+                "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "0c6893e6-e71b-4316-8d64-0dc9fb839b2a",
+            "id": "a02dce57-e6a1-407c-8bde-28cb932e8388",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "32f9cec7-05ca-405b-adbe-039d91687e49",
+                "id": "2a1b4e6d-309d-42dd-9bf0-0de94448f339",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan\nPemerintah Nomor 148 Tahun 2000 tentang Fasilitas Pajak\nPenghasilan untuk Penanaman Modal di Bidang-bidang Usaha\nTertentu dan atau di Daerah-daerah Tertentu (Lembaran Negara\nRepublik Indonesia Tahun 2000 Nomor 265 Tambahan\nLembaran Negara Republik Indonesia Nomor 4066), dicabut dan\ndinyatakan tidak berlaku.",
-                "explanation": "Tidak ada Penjelasan"
+                "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "9991f5ca-34e3-48d7-bbda-618143253dff",
+            "id": "63442394-fe15-466a-ba8e-0261ce2b7d64",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "abde9bc5-a698-46bb-a011-72b0b2f01a87",
+                "id": "76d1db13-972c-49a6-89bd-7db56f8344c8",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "Peraturan Pemerintah ini mulai berlaku sejak tanggal 1\nJanuari 2007.\nAgar . . .\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
-                "explanation": "Tidak ada Penjelasan"
+                "explanation": "\nCukup jelas.\n"
             }
         }
     ],
@@ -117,9 +130,12 @@
             "d": " bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, huruf b, dan huruf c, perlu menetapkan\nPeraturan Pemerintah tentang Fasilitas Pajak Penghasilan\nuntuk Penanaman Modal di Bidang-bidang Usaha Tertentu\ndan/atau di Daerah-daerah Tertentu;"
         },
         "Mengingat": {
-            "Introduction": "\nNot Available"
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan\nUmum dan Tata Cara Perpajakan (Lembaran Negara\nRepublik Indonesia Tahun 1983 Nomor 49, Tambahan\nLembaran Negara Nomor 3262) sebagaimana telah beberapa\nkali diubah terakhir dengan Undang-Undang Nomor 16\nTahun 2000 (Lembaran Negara Republik Indonesia Tahun\n2000 Nomor 126, Tambahan Lembaran Negara Nomor 3984);",
+            "3": " Undang-Undang Nomor 7 Tahun 1983 tentang Pajak\nPenghasilan (Lembaran Negara Republik Indonesia Tahun\n1983 Nomor 50, Tambahan Lembaran Negara Nomor 3263)\nsebagaimana telah beberapa kali diubah terakhir dengan\nUndang-Undang Nomor 17 Tahun 2000 (Lembaran Negara\nRepublik Indonesia Tahun 2000 Nomor 127, Tambahan\nLembaran Negara Nomor 3985);"
         },
-        "Menetapkan": "\nNot Available",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG FASILITAS PAJAK\nPENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-\nBIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH\nTERTENTU.",
         "tanggal sah": "1 Januari 2007"
     }
 }

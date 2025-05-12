@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "5b582184-31dc-4cf0-af44-57de7f7cc494",
+            "id": "3bc3c119-4cba-473e-ae18-83edbb2f0c79",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "97a37d64-e91b-4edb-b2d4-f75378652b7d",
+                "id": "68405025-8035-4b1e-8b8b-e7f13388a0e8",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "306a5914-994b-40ea-b364-f680b3dfad61",
+            "id": "7ff0193e-3c07-4ccf-8d36-f67ea53def83",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "b88ac978-0b1a-4728-85ed-45c35991708e",
+                "id": "4afc723a-4bb5-4fec-9495-9c8898fda1c5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "6cf867c6-d273-4031-90a5-56ddc4a0863d",
+            "id": "4c0311b0-22cb-4ed9-8594-72125e79917f",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "19423f8d-7f42-40c0-a19f-a0dc2005cd48",
+                "id": "3e9d5114-b235-4687-ac1b-27d1d0865dac",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,15 +40,15 @@
             }
         },
         {
-            "id": "15a78e09-0420-4806-9765-4feff84c0e2a",
+            "id": "5a7e84ab-fe4a-45a2-b973-fb6441a8c801",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "92712dcb-b298-4b6a-a9fe-37b64f0a1f74",
+                "id": "dd0efce0-7f7b-4481-b0a1-b89086fab809",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini muali berlaku pada hari diundangkan dan\nberlaku surut sampai 1 Januari 1954.",
+                "content": "Peraturan Pemerintah ini muali berlaku pada hari diundangkan dan\nberlaku surut sampai 1 Januari 1954.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

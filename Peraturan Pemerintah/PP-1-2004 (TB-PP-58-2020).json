@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "24ffeb5f-ab1a-4235-81a3-7fb6beff6b57",
+            "id": "8ecb2761-1507-44df-aeee-94efb00a013d",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "39af55d6-41df-45bd-bd81-90bd8d3c1d9c",
+                "id": "9882b808-c68d-4d71-90e6-ca7fe3de4fe5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "1f6f0228-d8a7-40e8-951b-8664b437f37a",
+            "id": "026d0bb3-8bbe-490e-9916-fdbc48da216c",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "0213850e-b8ae-405b-ad2a-50b8f99e331d",
+                "id": "62fd0923-8f2a-423d-9166-78007510e13a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "bbc9c151-62e5-438b-8990-3b96527d9d80",
+            "id": "385039ef-9de7-412d-93d4-c6efce353f04",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "90a37d5c-69d2-48e3-95ef-08203d442051",
+                "id": "c4632cb1-9933-4df2-96dc-bdb2db6178d8",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,50 +40,50 @@
             }
         },
         {
-            "id": "76c3298c-198a-414b-8cbb-099573537705",
+            "id": "512944ee-68cb-4570-aa8e-16c48931fa29",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "d2522d28-d7be-4c97-ab2a-6d7ae8e900f7",
+                "id": "4ea0f5b2-aa15-44d9-86c3-e9a8796e2af1",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Pasal 4\nAyat (1)\nYang dimaksud dengan Tahun Anggaran yang bersangkutan adalah Tahun Anggaran\nberjalan dengan terjadinya revisi.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas",
+                "content": "Pasal 4\nAyat (1)\nYang dimaksud dengan Tahun Anggaran yang bersangkutan adalah Tahun Anggaran berjalan dengan terjadinya revisi.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "23fd9ca8-f31f-4171-92fa-5597e4dbe424",
+            "id": "59f8c3be-0a2d-442c-b272-2e1c6c2f7235",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "50a80287-bcd2-4330-88d8-42a38e5e9d00",
+                "id": "2551ad8c-3448-490a-9404-a69ffae7539d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Ayat (1)\nWaktu penyampaian Laporan Realisasi PNBP triwulanan adalah :\na. Untuk triwulan I (Januari, Pebruari, Maret) disampaikan paling lambat tanggal 30\nApril.\nb. Untuk triwulan II (April, Mei, Juni) disampaikan paling lambat tanggal 31 Juli.\nc. Untuk triwulan III (Juli, Agustus, September) disampaikan paling lambat tanggal 31\nOktober.\nd. Untuk triwulan IV (Oktober, Nopember, Desember) disampaikan paling lambat\ntanggal 31 Januari.\nPenyampaian Laporan Realisasi PNBP dapat dilakukan secara langsung atau pengiriman\ntercatat melalui Kantor Pos/jasa pengiriman resmi kepada Menteri dengan tanda bukti\npengiriman.\nAyat (2)\nPenyampaian laporan perkiraan realisasi PNBP dapat dilakukan secara langsung atau\npengiriman tercatat melalui Kantor Pos/jasa pengiriman resmi kepada Menteri dengan\ntanda bukti pengiriman.\n",
+                "content": "Ayat (1)\nWaktu penyampaian Laporan Realisasi PNBP triwulanan adalah :\na. Untuk triwulan I (Januari, Pebruari, Maret) disampaikan paling lambat tanggal 30 April.\nb. Untuk triwulan II (April, Mei, Juni) disampaikan paling lambat tanggal 31 Juli.\nc. Untuk triwulan III (Juli, Agustus, September) disampaikan paling lambat tanggal 31 Oktober.\nd. Untuk triwulan IV (Oktober, Nopember, Desember) disampaikan paling lambat tanggal 31 Januari.\nPenyampaian Laporan Realisasi PNBP dapat dilakukan secara langsung atau pengiriman tercatat melalui Kantor Pos/jasa pengiriman resmi kepada Menteri dengan tanda bukti pengiriman.\nAyat (2)\nPenyampaian laporan perkiraan realisasi PNBP dapat dilakukan secara langsung atau pengiriman tercatat melalui Kantor Pos/jasa pengiriman resmi kepada Menteri dengan tanda bukti pengiriman.\n",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "7cbfcf3a-3a02-4f51-87a8-96ee9f1c58ca",
+            "id": "8b86e42b-b745-4110-aaab-adc0e9d5092c",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "a470c4b8-9655-4e04-8eae-c0abf91ae50b",
+                "id": "bff7549d-87c8-4638-a764-c65dcd781ce4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan perundang-undangan yang berlaku antara lain peraturan disiplin yang berlaku bagi Pegawai Negeri.",
+                "content": "Peraturan perundang-undangan yang berlaku antara lain peraturan disiplin yang berlaku\nbagi Pegawai Negeri.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "8b84255a-2e2e-4249-b445-12da53f79969",
+            "id": "09167eff-5586-47df-917e-d37128e7b1ce",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "b114277e-bacd-4513-997c-9e80d6ca7445",
+                "id": "a4552459-e0c6-4db1-91b0-1eefd53f8bbd",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -92,24 +92,24 @@
             }
         },
         {
-            "id": "f79a5a59-cd60-4cf9-b995-8903ab40f88e",
+            "id": "827d26be-c812-4904-8a2c-b841f98978a6",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "155135b9-6e59-40e9-bbb5-456530024023",
+                "id": "6ecaf622-22f7-4d3a-8a1d-6ad03a265bd4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Ketentuan lebih lanjut yang diperlukan antara lain isi dan bentuk Rencana dan Laporan Realisasi PNBP.",
+                "content": "Ketentuan lebih lanjut yang diperlukan antara lain isi dan bentuk Rencana dan Laporan\nRealisasi PNBP.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "4112ead2-ab42-4663-b955-f9595e18fa5d",
+            "id": "b4047857-da39-4430-aa4f-a24ca27132a2",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "ba90ef5b-dea2-483e-b868-e984fb68681b",
+                "id": "9bd6b624-2a54-4bf2-9d1a-66ba8a558e5c",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -123,15 +123,15 @@
         "Tahun": "2004",
         "Tentang": "TATA CARA PENYAMPAIAN RENCANA DAN LAPORAN REALISASI\nPENERIMAAN NEGARA BUKAN PAJAK",
         "Menimbang": {
-            "Introduction": "\nbahwa dalam rangka melaksanakan ketentuan Pasal 7 ayat (2) Undang-undang\nNomor 20 Tahun 1997 tentang Penerimaan Negara Bukan Pajak, dipandang perlu mengatur tata cara penyampaian Rencana dan Laporan Realisasi Penerimaan Negara Bukan Pajak dengan Peraturan Pemerintah;"
+            "Introduction": "\nbahwa dalam rangka melaksanakan ketentuan Pasal 7 ayat (2) Undang-undang\nNomor 20 Tahun 1997 tentang Penerimaan Negara Bukan Pajak, dipandang\nperlu mengatur tata cara penyampaian Rencana dan Laporan Realisasi\nPenerimaan Negara Bukan Pajak dengan Peraturan Pemerintah;"
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945 sebagaimana telah diubah dengan Perubahan Keempat Undang-Undang Dasar 1945;",
-            "2": " Undang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara Bukan Pajak (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 43, Tambahan Lembaran Negara Nomor 3687);",
-            "3": " Undang-undang Nomor 17 Tahun 2003 tentang Keuangan Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 47, Tambahan Lembaran Negara Nomor 4286);"
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945 sebagaimana telah diubah\ndengan Perubahan Keempat Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara Bukan\nPajak (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 43, Tambahan\nLembaran Negara Nomor 3687);",
+            "3": " Undang-undang Nomor 17 Tahun 2003 tentang Keuangan Negara (Lembaran\nNegara Republik Indonesia Tahun 2003 Nomor 47, Tambahan Lembaran Negara\nNomor 4286);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG TATA CARA PENYAMPAIAN RENCANA DAN LAPORAN REALISASI PENERIMAAN NEGARA BUKAN PAJAK.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG TATA CARA PENYAMPAIAN RENCANA\nDAN LAPORAN REALISASI PENERIMAAN NEGARA BUKAN PAJAK.",
         "tanggal sah": ""
     }
 }

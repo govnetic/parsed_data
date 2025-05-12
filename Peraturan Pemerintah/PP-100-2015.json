@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "8a3f88f6-06d7-4ef0-af7d-b0a71783df22",
+            "id": "c657c160-d5c8-4d57-af2d-da7c52336adf",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "8f74aa46-6f75-45b5-9cf4-0aa5a37bc612",
+                "id": "e4ebfd79-bd2b-4d1b-9ef9-55fa21c2f20d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "04fe5e65-b4ff-4411-afdd-5e0a5cb547f7",
+            "id": "bbb8e569-9ad5-4a00-b4aa-c8ce45703562",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "25663012-3a6b-438f-ad2f-d7cc5b1de758",
+                "id": "f1a5ce06-a3dd-47de-a9d4-41c06462622d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "ece3a6a3-cac4-4b15-8abe-9d8ef6f6a5e1",
+            "id": "01706cd4-a32a-4a0a-a0fa-48f2ad807a97",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "7e3be788-ab4c-4e90-967d-7811cba4c075",
+                "id": "6c08742f-792f-412d-9f5c-8207cfe165cc",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "85d1a54c-d4e5-4f34-9039-7621ed089430",
+            "id": "8be15755-afd1-4d42-bff1-d33e35bac60c",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "d52e4937-b3ea-43fb-8f42-a6d53fbca8c1",
+                "id": "d2831915-e9ad-40b4-a79f-ea6f94d6a4bc",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,15 +53,15 @@
             }
         },
         {
-            "id": "a08d2b51-cdb6-453d-be91-b037018e0ff3",
+            "id": "d48a0ec9-12f1-47cb-889e-b76ac223a695",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "36dd37fd-b320-4cfe-b5ba-d830c3ca52f1",
+                "id": "49720a17-77ed-40c5-aba7-d7e6e07946e2",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n2015, No.313\n-4-\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

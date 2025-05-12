@@ -1,39 +1,39 @@
 {
     "results": [
         {
-            "id": "3bc1c770-4d5e-4670-affc-111edeaa759f",
+            "id": "e3a69be6-3afc-4515-9200-75845c549549",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "73d34ec6-98e4-446f-8021-e7a9163535aa",
+                    "id": "125257fc-97bd-43d3-85d0-7fa165187440",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "30bfe2ec-ed34-4c5c-b456-eda5467fcbba",
+                        "id": "b282beaf-8fac-489a-9889-00864543e58d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n 1. Benda Cagar Budaya adalah :\n  a. Benda buatan manusia, bergerak atau tidak bergerak yang berupa kesatuan atau kelompok atau bagian-bagiannya atau sisa-sisanya, yang berumur sekurang-kurangnya 50 (lima puluh) tahun, atau mewakili masa gaya yang khas dan mewakili masa gaya sekurang-kurangnya 50 (lima puluh) tahun, serta dianggap mempunyai nilai penting bagi sejarah, ilmu pengetahuan, dan kebudayaan;\n  b. Benda-benda alam yang dianggap mempunyai nilai penting bagi sejarah, ilmu pengetahuan, dan kebudayaan.\n2. Situs adalah lokasi yang mengandung atau diduga mengandung benda cagar budaya termasuk lingkungannya yang diperlukan bagi pengamanannya.\n3. Benda berharga yang tidak diketahui pemiliknya adalah benda bukan kekayaan alam yang mempunyai nilai ekonomi/intrinsik tinggi yang tersembunyi atau terpendam di bawah permukaan tanah dan di bawah perairan di wilayah Republik Indonesia.\n4. Menteri adalah Menteri yang bertanggung jawab di bidang kebudayaan.\n",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Benda Cagar Budaya adalah :\n   a. Benda buatan manusia, bergerak atau tidak bergerak yang berupa\n      kesatuan atau kelompok atau bagian-bagiannya atau sisa-sisanya,\n      yang berumur sekurang-kurangnya 50 (lima puluh) tahun, atau\n      mewakili masa gaya yang khas dan mewakili masa gaya\n      sekurang-kurangnya 50 (lima puluh) tahun, serta dianggap\n      mempunyai nilai penting bagi sejarah, ilmu pengetahuan, dan\n      kebudayaan;\n   b. Benda-benda alam yang dianggap mempunyai nilai penting bagi\n      sejarah, ilmu pengetahuan, dan kebudayaan.\n2. Situs adalah lokasi yang mengandung atau diduga mengandung\n   benda cagar budaya termasuk lingkungannya yang diperlukan bagi\n   pengamanannya.\n3. Benda berharga yang tidak diketahui pemiliknya adalah benda\n   bukan kekayaan alam yang mempunyai nilai ekonomi/intrinsik\n   tinggi yang tersembunyi atau terpendam di bawah permukaan tanah\n   dan di bawah perairan di wilayah Republik Indonesia.\n4. Menteri adalah Menteri yang bertanggung jawab di bidang\n   kebudayaan.\n",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "5bd9411e-02a6-4410-a8aa-67bf3fbc84d2",
+            "id": "c3597429-e1ef-469b-88ca-fe2496731d65",
             "name": "Chapter II",
             "title": "\nPENGUASAAN, PEMILIKAN,\nPENDAFTARAN, DAN PENGALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "24e22d22-6534-4cf3-ab41-06e878a2d822",
+                    "id": "1d6711fe-8bf2-4be8-86de-be7fa1b42c3c",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e9bba315-a872-4185-abb4-888d4f38b858",
+                            "id": "a5bf0373-bda4-4486-9dda-4b9c37386fa3",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -41,7 +41,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ccdeb490-e2a2-4faf-877f-b6ff63b11904",
+                            "id": "d231b2ff-88b4-47a0-b3f0-814317287631",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -49,7 +49,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "68e3a02f-6f58-4f31-b18a-9abec4e3c75e",
+                            "id": "56c1efd9-2555-45eb-bc52-9ec2ad194fc6",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -59,12 +59,12 @@
                     ]
                 },
                 {
-                    "id": "81989a45-8665-4a4b-9d81-29140adde031",
+                    "id": "603b2efd-489a-40e9-a742-19410dd5d7e8",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e121a229-4113-40f5-88fc-4d33b0e99753",
+                            "id": "d7094990-5dcc-4172-a5df-69d5ae585d8c",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -72,7 +72,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "daa038c8-c22b-48f5-96a1-92be65df88aa",
+                            "id": "ec9f837d-b098-4010-b77d-37b096ca927e",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -80,7 +80,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2569ad38-071b-4bfc-9ce0-2ee4b07ae1bd",
+                            "id": "e3f75e00-f3c5-4787-9949-457b2714a059",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -88,7 +88,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "aba2612c-1d5f-4ffe-970b-b3ca0e075fe5",
+                            "id": "7b570cb4-38eb-4faa-be8c-7451d57c6136",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -98,12 +98,12 @@
                     ]
                 },
                 {
-                    "id": "0c9ff9d3-9bc5-4ff9-b4af-d2a397717836",
+                    "id": "3a568cb0-b58d-4909-ad9e-48a35ea98e08",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d0f43def-346c-4dce-859c-efb3b507a32d",
+                            "id": "ce548216-34e5-4752-b44e-21f5b5892249",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -111,7 +111,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4b71fe89-a214-4d8a-8f82-c5e17de780b3",
+                            "id": "2115c7e1-a822-4dd2-81ca-cc58443a90c5",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -119,7 +119,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2b7709d5-918e-4ddc-acf4-5c2ead7feac3",
+                            "id": "f6d61b22-c781-49dc-96d1-b35dfb6c5a24",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -129,12 +129,12 @@
                     ]
                 },
                 {
-                    "id": "a9c295af-5bd4-4c6e-b45c-5c546a3fe3d6",
+                    "id": "1d09b7f4-2dec-4b4e-8dd0-e470f2ef04fc",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1a674cc1-24d2-4fd0-994d-ca7857f7fee9",
+                            "id": "2b3507fc-07f0-4b3e-a33a-14bc7c02d397",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -142,7 +142,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "567cfea7-251c-4a4e-82f8-d3b958c5ed92",
+                            "id": "444d2a8c-c247-4f10-8859-442b61abddbe",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -150,7 +150,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6d9355b8-0fe9-41e2-a94d-74ca57bd2b57",
+                            "id": "ac452e38-4ce3-4a85-876c-dafa07e1eaa5",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -160,12 +160,12 @@
                     ]
                 },
                 {
-                    "id": "286bf50c-6773-4470-a565-d70971fe7fef",
+                    "id": "eacf9560-5ded-45bd-afbc-a08f1d64e46e",
                     "name": "Article 6",
                     "type": "article",
                     "children": [
                         {
-                            "id": "674551a8-1d2c-4100-8303-088156504730",
+                            "id": "9d849f8c-777d-4347-9e96-81806e89502d",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -173,7 +173,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b44b7056-d044-43f8-b9fc-7b1dc5fb2f72",
+                            "id": "c679d1b2-23ef-49f6-a9b1-de63396ce40f",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -181,7 +181,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e919f66d-02ad-4c69-882b-ad2642e20cf1",
+                            "id": "6e2c81ed-7e28-43cd-889e-c8d697033bf4",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -189,7 +189,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9e414a7d-adb5-4092-9930-f840cd379b3a",
+                            "id": "de5c1cfd-6e35-4e3b-9afd-861b29bba0f8",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -199,12 +199,12 @@
                     ]
                 },
                 {
-                    "id": "776eb338-c638-4cf8-a0d0-c4732deeec65",
+                    "id": "bb1915b3-46c7-4f73-97b7-7d10ecfc781d",
                     "name": "Article 7",
                     "type": "article",
                     "children": [
                         {
-                            "id": "53f6ad54-f1b3-4100-92c6-0471a29c238e",
+                            "id": "db241d72-5cad-4564-845f-3d19b1197969",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -212,7 +212,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "929fc871-3682-4d39-a3e3-a18dac2dc962",
+                            "id": "8fd79259-3db6-4053-8107-5e40d3728a12",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -220,7 +220,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "594f0adb-8a57-465b-a690-d35cfc8442ae",
+                            "id": "c26b8aa5-29ad-4531-806f-721ae0583a8c",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -230,12 +230,12 @@
                     ]
                 },
                 {
-                    "id": "75a9154c-67d4-445f-af46-f54549e7c9b3",
+                    "id": "5d0dd83d-ed3e-4f82-88f5-38a6074cc361",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "be42d3db-521f-4929-b307-fab2c07ff079",
+                            "id": "7c1a73c5-1071-406f-b4ef-b74c01fe89e7",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -243,7 +243,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1522190e-25d8-4d24-a941-eb588d89e4ab",
+                            "id": "e190f8a9-b1d9-4031-a373-796b46f4216f",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -251,7 +251,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e90c7eff-fbd3-41e6-9682-5e2959f0d877",
+                            "id": "8a95356b-8ea4-45c2-9389-e54657343437",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -259,7 +259,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "627ed0fb-001a-4eae-876b-460dbadcc802",
+                            "id": "a5a51b85-22fd-440e-b1ce-bc11f5681154",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -267,7 +267,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "91e18728-9160-42e9-bb29-cbf5415c7b44",
+                            "id": "1ecd2724-8729-4e6f-bb41-387bc6e06e55",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
@@ -275,7 +275,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7f2b0efa-bde2-4b27-bf5e-54410238a897",
+                            "id": "b599eb73-f9bb-4447-ae4f-a47927b1d3fe",
                             "name": "Verse 6",
                             "number": "(6)",
                             "type": "verse",
@@ -285,11 +285,11 @@
                     ]
                 },
                 {
-                    "id": "aecd4c4a-17a2-46cb-9820-bde1ec74cb3c",
+                    "id": "c00316b1-65e4-4a6f-98f9-57aade13d514",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "fec9ae52-1dac-42b7-ad79-defe6435fd47",
+                        "id": "5dc9302b-b72c-4b79-929b-cec2b2397c13",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -298,11 +298,11 @@
                     }
                 },
                 {
-                    "id": "b8113037-dc7e-4caf-980f-278e9ae56bf0",
+                    "id": "dd6a4451-22c3-46ae-a177-eeb1f7b2e11b",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "e3bc95ec-6340-468d-b58f-dfaa63335d5b",
+                        "id": "7637fc58-b74f-43af-a28c-5929c1884682",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -311,12 +311,12 @@
                     }
                 },
                 {
-                    "id": "2eb94d3a-8d75-47ef-8adb-00d7d607dd5c",
+                    "id": "028e5e50-a962-43ae-ac72-67e5e7b1bd1c",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "73906510-2c45-47e0-9656-a3d52ff0c513",
+                            "id": "abe2bbd0-1c53-49b7-9693-2faa79b1ce48",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -324,7 +324,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1b42a9ee-7cb9-48cc-9fac-222c17439427",
+                            "id": "ec2253b6-14df-4f09-ab92-68999f7c6f8d",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -332,7 +332,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f17b146f-bb9e-4e2d-a11d-c33e0d51e6c1",
+                            "id": "cc8914c5-488d-4e1b-8c18-ef4a413347ad",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -342,12 +342,12 @@
                     ]
                 },
                 {
-                    "id": "83669cbc-35ec-4a10-802e-7612a82681a1",
+                    "id": "b5e54dcc-5962-4a36-85a3-eea0407bd8d4",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "71a2203a-741f-4b58-852e-6b3aca9b1ad1",
+                            "id": "9d3796ec-dbc4-4f69-a08d-77cbff4e0859",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -355,7 +355,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "abb72bb1-7b9a-4dcc-a8e3-e3b8cdab3424",
+                            "id": "b74000d6-6380-4478-8798-1a136d260c40",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -363,7 +363,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0a6ced1b-860f-47d2-a5c7-a30bd600554b",
+                            "id": "e6b3e34e-247e-4ab7-9dd7-6a664b41a5ec",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -375,18 +375,18 @@
             ]
         },
         {
-            "id": "0a23dc13-9129-4f67-a739-4c1d6b3b433f",
+            "id": "f33f6663-d012-4b51-bf50-ff53640d8b8a",
             "name": "Chapter III",
             "title": "\nPENEMUAN DAN PENCARIAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "9678e344-facb-4a94-8d2b-55a18149135d",
+                    "id": "2ea499f4-a16e-4e58-bf82-7152e046aba9",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "cefd935e-b3ee-4d68-bcf4-85727aadd521",
+                            "id": "bc4f63a0-46a5-42df-ad7a-09d09c9c1996",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -394,7 +394,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "29d48a4e-3cce-42e8-8e03-d0eed506c372",
+                            "id": "e76efbd5-dfbb-4bcd-99d6-e9c8d0f9d455",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -402,7 +402,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b839b586-24be-4fd8-a445-2a7575100d3c",
+                            "id": "d78760c6-af6b-4d35-bbdf-32a0e86b5f67",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -410,69 +410,69 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "adadb491-cfaa-42a0-8d99-28227eb5fa25",
+                            "id": "a145de65-47be-4394-8142-245cc44e16a8",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Untuk menentukan temuan tersebut sebagai benda cagar budaya atau situs, dilakukan penelitian.",
+                            "content": " Untuk menentukan temuan tersebut sebagai benda cagar budaya\natau situs, dilakukan penelitian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "34dcbde7-641a-4cf2-9028-285fae2b8579",
+                            "id": "04ac2112-aa58-4b1c-8444-44c09c9a34b9",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
-                            "content": " Penelitian sebagaimana dimaksud dalam ayat (4) meliputi jenis, bahan, bentuk/wujud, ukuran, nilai sejarah dan nilai budaya yang dilakukan oleh tim dan/atau ahli yang dibentuk oleh Menteri.",
+                            "content": " Penelitian sebagaimana dimaksud dalam ayat (4) meliputi jenis,\nbahan, bentuk/wujud, ukuran, nilai sejarah dan nilai budaya yang\ndilakukan oleh tim dan/atau ahli yang dibentuk oleh Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "deb5e122-70b6-4b48-8196-a4d845765572",
+                            "id": "ebb47e2e-b2db-4cdd-98a0-d52bf6ef3744",
                             "name": "Verse 6",
                             "number": "(6)",
                             "type": "verse",
-                            "content": " Ketentuan lebih lanjut mengenai penelitian benda temuan sebagaimana dimaksud dalam ayat (4) diatur oleh Menteri.",
+                            "content": " Ketentuan lebih lanjut mengenai penelitian benda temuan\nsebagaimana dimaksud dalam ayat (4) diatur oleh Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "56e4b154-171f-4494-9be0-30d937cbf332",
+                    "id": "fa0ca622-da8d-4b4a-ad3f-84f9a2f8f755",
                     "name": "Article 14",
                     "type": "article",
                     "children": [
                         {
-                            "id": "eec1c1f4-fb0b-4633-b7d6-498a29c4b02e",
+                            "id": "64de981b-c1f7-403e-b9f8-61669a6005a9",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Selama proses penelitian, benda dan/atau lokasi temuan dilindungi sebagaimana perlindungan benda cagar budaya.",
+                            "content": " Selama proses penelitian, benda dan/atau lokasi temuan dilindungi\nsebagaimana perlindungan benda cagar budaya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d754dbca-b9aa-45a8-935b-9b60c74ee82b",
+                            "id": "f38fd070-431f-46fe-b09c-59e4e0320255",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Perlindungan sebagaimana dimaksud dalam ayat (1) meliputi pengamanan, perawatan, atau pemeliharaan agar tidak rusak, hilang, berubah bentuk dan wujud, nilai sejarah dan/atau keasliannya.",
+                            "content": " Perlindungan sebagaimana dimaksud dalam ayat (1) meliputi\npengamanan, perawatan, atau pemeliharaan agar tidak rusuk,\nhilang, berubah bentuk dan wujud, nilai sejarah dan/atau\nkeasliannya.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "d8af0552-7db6-4f66-9369-243d1aa88000",
+                    "id": "9bd6933b-7dd5-4457-a562-891cd54f1d3a",
                     "name": "Article 15",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1e228ebf-fd28-4af4-a0b8-423559ec2443",
+                            "id": "e810bf9f-7a3a-4c44-bf75-a252cc16bf9b",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Apabila hasil penelitian menunjukkan benda temuan tersebut sebagai benda cagar budaya sebagaimana dimaksud dalam Pasal 3 ayat (1), benda cagar budaya tersebut dimiliki oleh Negara dan kepada penemu dapat diberikan imbalan sesuai dengan ketentuan Pasal 8 ayat (5).",
+                            "content": " Apabila hasil penelitian menunjukkan benda temuan tersebut\nsebagai benda cagar budaya sebagaimana dimaksud dalam Pasal 3\nayat (1), benda cagar budaya tersebut dimiliki oleh Negara dan\nkepada penemu dapat diberikan imbalan sesuai dengan ketentuan\nPasal 8 ayat (5).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b3e2e446-2975-431f-837e-36d84e752ed4",
+                            "id": "3366b71d-831e-4381-b61c-a4e4b9472dee",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -480,7 +480,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2fc34dcc-2a9b-4d7c-bc27-59c8c0e91ae5",
+                            "id": "b54936ab-4796-432e-a207-b31f33f7e04d",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -488,7 +488,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9c760d70-5e40-4396-920d-cdb58b208b14",
+                            "id": "810470e8-91a1-4f12-879f-7575868cbb62",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -498,12 +498,12 @@
                     ]
                 },
                 {
-                    "id": "df4760e1-88d2-431d-9de0-7634b24b0672",
+                    "id": "2345fda8-178b-4207-b11b-2d11a98df78a",
                     "name": "Article 16",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5f16b952-27e2-42cf-9b97-25fd1dd1f7ec",
+                            "id": "421ddea5-6856-4744-b966-19a9f72b913d",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -511,7 +511,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1aaf44c1-1bc8-4711-af00-37a890f25e92",
+                            "id": "631d54c3-7c32-4b6c-897e-84c3b5c92013",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -521,12 +521,12 @@
                     ]
                 },
                 {
-                    "id": "8c422cff-c856-4cdf-872c-91912475c8b5",
+                    "id": "818cede9-d022-45ad-8d69-62c2e29592a6",
                     "name": "Article 17",
                     "type": "article",
                     "children": [
                         {
-                            "id": "49a311cd-51fd-45d5-901e-64c03cfd7adb",
+                            "id": "a28dbedb-a822-49ed-9dab-b99a04281386",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -534,7 +534,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "05d25e32-22c8-412f-816e-a4f5aae3d0df",
+                            "id": "accef17f-f615-4e48-b543-a1cb68116946",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -544,12 +544,12 @@
                     ]
                 },
                 {
-                    "id": "02b161d6-b7db-413c-aaca-abebefb2519e",
+                    "id": "9a0b0cd9-c5e4-40f2-9d63-b3bdee1ad327",
                     "name": "Article 18",
                     "type": "article",
                     "children": [
                         {
-                            "id": "67fdef2a-c4f6-49db-892a-b62c194a980e",
+                            "id": "482fc7ff-5dc3-47e0-89ea-3dca3ca226d7",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -557,15 +557,15 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0865b695-cf94-4cb0-bf93-1930200d7769",
+                            "id": "28ae0fbf-335b-4f64-ad69-4798d8edde7c",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Pemohon sebagaimana dimaksud dalam ayat (1) adalah :\na. instansi pemerintah atau swasta yang bergerak di bidang ilmiah;\nb. yayasan, organisasi kemasyarakatan, atau lembaga lain yang\nberkedudukan sebagai badan hukum yang bergerak di bidang\npelestarian benda cagar budaya;\nc. lembaga asing yang bergerak di bidang ilmiah yang memenuhi\npersyaratan berdasarkan ketentuan peraturan\nperundang-undangan yang berlaku.",
+                            "content": " Pemohon sebagaimana dimaksud dalam ayat (1) adalah :\na. instansi pemerintah atau swasta yang bergerak di bidang ilmiah;\nb. yayasan, organisasi kemasyarakatan, atau lembaga lain yang\nberkedudukan sebagai badan hukum yang bergerak di bidang\npelestarian benda cagar budaya;\nc. lembaga asing yang bergerak di bidang ilmiah yang memenuhi\npersyaratan\nberdasarkan\nperundang-undangan yang berlaku.\nketentuan peraturan",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "276bef4b-7d28-4f57-87cc-733d8c20ae64",
+                            "id": "3946c0c4-1611-4956-b82a-a4dc8f37a0e6",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -573,21 +573,21 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "266ef8f5-6b62-4939-bd10-8fd730056fb3",
+                            "id": "69d6f61e-bb1d-4e15-8c64-a4ca36f89b76",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Ketentuan lebih lanjut mengenai perizinan pencarian benda cagar\nbudaya diatur oleh Menteri.",
+                            "content": " Ketentuan lebih lanjut mengenai perizinan pencarian benda cagar\nbudaya diatur oleh Menteri.\n",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "186a02c2-9180-4bb2-94b2-28f97c9c8ed9",
+                    "id": "0a6e7241-e32a-49b6-ad38-3f99b4014975",
                     "name": "Article 19",
                     "type": "article",
                     "children": {
-                        "id": "93502f32-8653-4866-becf-faf901575107",
+                        "id": "eb56247a-9e5c-44cd-907f-979463a1495b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -596,12 +596,12 @@
                     }
                 },
                 {
-                    "id": "38f69f7a-3c42-4058-9982-991946135e3f",
+                    "id": "125e71a6-968b-45a5-b43e-ac2c25d8e6da",
                     "name": "Article 20",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f76f6b27-3a9b-45b4-afaf-82c15d519b0d",
+                            "id": "d90e21f0-0bca-49bb-95d1-08f7ff9b0fdc",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -609,7 +609,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "3ef54a42-2143-40e1-986a-14cac23d46bd",
+                            "id": "ffbbd2c7-be3f-43ec-937f-d3d46d5c6ae7",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -619,11 +619,11 @@
                     ]
                 },
                 {
-                    "id": "d54b4d1b-66d6-4114-b591-f7fe71898ec0",
+                    "id": "1dbf912e-cc49-4e34-b954-e325edaf28b1",
                     "name": "Article 21",
                     "type": "article",
                     "children": {
-                        "id": "aa0f590a-944a-4cb3-afdc-c4cd7a7bf0db",
+                        "id": "6fa9e426-2d1a-4f7d-83d1-7b88f30f1ea3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -634,17 +634,17 @@
             ]
         },
         {
-            "id": "0b2c371a-edcb-4fae-9b76-3eb0e0791de3",
+            "id": "1f8077b0-90f0-4f3a-b0ec-dcc23feb3ae8",
             "name": "Chapter IV",
             "title": "\nPERLINDUNGAN DAN PEMELIHARAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "5d2f6295-b275-457e-8ee2-f788f053fdd2",
+                    "id": "e37c0d58-e4ce-4594-9e7e-60e8c4dfb843",
                     "name": "Article 22",
                     "type": "article",
                     "children": {
-                        "id": "b55ea119-766b-4289-b022-55f47e874429",
+                        "id": "311386a3-26b9-408b-84c9-8f729e4e3c28",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -653,12 +653,12 @@
                     }
                 },
                 {
-                    "id": "c6261e79-a9bd-42fe-9b34-019aa8d6e9f0",
+                    "id": "b7df32ad-939c-47bd-821f-d646db75be96",
                     "name": "Article 23",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bbe4ac02-7694-4a01-b1a3-eb905eda740b",
+                            "id": "21cd1c73-81f2-4ca1-bb49-5d545fb89077",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -666,7 +666,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "982a2f52-8adf-48bc-be72-0d57ed81a96e",
+                            "id": "554aa7e0-aa39-491b-a132-c794c113b8c3",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -674,7 +674,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "879b611a-66e8-459b-97a5-f330494b643f",
+                            "id": "63e164e5-ee65-4dc6-9119-75714b694381",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -684,12 +684,12 @@
                     ]
                 },
                 {
-                    "id": "b5e79516-a32f-49a1-bfb3-bdc4b2913b95",
+                    "id": "2e14787f-96e0-482c-8f69-d0d085ebeb12",
                     "name": "Article 24",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0bd69cb8-8c5c-4a90-9192-55b7969685ca",
+                            "id": "377b4051-21fd-4347-93c1-c4ffe073fa5f",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -697,7 +697,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "cf4b2758-5849-468a-9646-dfa490a426e9",
+                            "id": "a9322ecd-42f0-45da-ba1b-45f71b74812f",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -707,12 +707,12 @@
                     ]
                 },
                 {
-                    "id": "fd2ea44f-5fc6-48bf-aef9-590ad5243cba",
+                    "id": "fc62d0a6-b0f7-417b-a677-6fa70abaea3a",
                     "name": "Article 25",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d7a235bf-9c45-41cf-84cf-6d16b2569078",
+                            "id": "55d932ed-20e6-4d58-a143-d337fc2880ab",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -720,7 +720,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "63229f01-54a6-410c-9117-913a33cf4615",
+                            "id": "350456a5-b125-410b-a2c3-9bf377557e8e",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -730,12 +730,12 @@
                     ]
                 },
                 {
-                    "id": "680d4aa5-e148-4cc2-9dbf-29245057d80a",
+                    "id": "6c5ce00b-7fb3-4a46-9803-21cdc73cd0d7",
                     "name": "Article 26",
                     "type": "article",
                     "children": [
                         {
-                            "id": "aada7a70-8b0f-491b-8290-ffcbb61de3c7",
+                            "id": "484e77bb-9085-44fb-be87-f30435b86dbb",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -743,7 +743,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "c50e2272-5797-4d56-94f0-4516353b9ba7",
+                            "id": "c9f417c5-82c0-4cd1-a4e0-fda5bb312cbf",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -751,7 +751,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e6da004e-ca05-4506-b6d3-6fc46f88b4ee",
+                            "id": "71d4378f-c110-409e-b361-1d8ca1a6a587",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -761,12 +761,12 @@
                     ]
                 },
                 {
-                    "id": "55f78750-6974-4b3d-9052-65bd67cd8cd9",
+                    "id": "9af9e162-17b1-44ab-9697-46a43fbbb200",
                     "name": "Article 27",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f896cd6a-9c1a-421f-bea3-e4319137cf03",
+                            "id": "18a44f96-4029-4f81-a75b-b9c5792a5f68",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -774,7 +774,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d6ecce4a-79b0-4d5b-8a0d-12e2f7327a52",
+                            "id": "8669fe6c-4444-4fae-91c9-05d674c668df",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -782,7 +782,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "3fe705cf-8647-4b36-9ea4-a8d27da51780",
+                            "id": "88fb0ea2-1766-48bd-bb25-e0e61e14cda2",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -792,67 +792,67 @@
                     ]
                 },
                 {
-                    "id": "bb4b6d46-0c57-4301-9016-8665fb91cb69",
+                    "id": "7a528cae-5a04-42c8-aa08-156d0f9cbdc2",
                     "name": "Article 28",
                     "type": "article",
                     "children": [
                         {
-                            "id": "54ce184e-5777-4ad0-a748-c56a840fd01c",
+                            "id": "c0f63023-cd6d-41ca-9bc5-53cd3d979e40",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Setiap orang yang memiliki atau yang menguasai benda cagar budaya tertentu yang tidak melaksanakan kewajiban untuk melindungi atau memeliharanya, yang dapat mengakibatkan rusak, hilang atau berubahnya nilai sejarah, nilai ilmu pengetahuan, dan nilai budayanya diberikan teguran.",
+                            "content": " Setiap orang yang memiliki atau yang menguasai benda cagar\nbudaya tertentu yang tidak melaksanakan kewajiban untuk\nmelindungi atau memeliharanya, yang dapat mengakibatkan rusak,\nhilang atau berubahnya nilai sejarah, nilai ilmu pengetahuan, dan\nnilai budayanya diberikan teguran.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "da1d8540-e929-45ac-b4c6-d5bb70810c16",
+                            "id": "c784a8f7-215f-49ff-8f42-ac3693e286a5",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Teguran sebagaimana dimaksud dalam ayat (1) dapat dilakukan secara tertulis oleh Menteri.",
+                            "content": " Teguran sebagaimana dimaksud dalam ayat (1) dapat dilakukan\nsecara tertulis oleh Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "164a907a-f2b2-41fb-80c3-18b38773966e",
+                            "id": "0b4d7594-fd5a-4fe3-a858-8f4f113247ad",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Teguran tertulis kepada yang bersangkutan diberikan dalam 3 (tiga) tahap paling lama dalam waktu 90 (sembilan puluh) hari.",
+                            "content": " Teguran tertulis kepada yang bersangkutan diberikan dalam 3 (tiga)\ntahap paling lama dalam waktu 90 (sembilan puluh) hari.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4a2c5f7d-94f4-4391-a773-394c05504616",
+                            "id": "433caab3-667a-4d8f-b434-c3138a1f8a5c",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Jika dalam waktu 90 (sembilan puluh) hari sejak dikeluarkan teguran tahap ketiga tetap tidak diindahkan upaya perlindungan dan pemeliharaan, Menteri dapat mengambil alih kewajiban perlindungan dan pemeliharaan benda cagar budaya atas biaya pemilik atau yang menguasainya.",
+                            "content": " Jika dalam waktu 90 (sembilan puluh) hari sejak dikeluarkan\nteguran tahap ketiga tetap tidak diindahkan upaya perlindungan dan\npemeliharaan, Menteri dapat mengambil alih kewajiban\nperlindungan dan pemeliharaan benda cagar budaya atas biaya\npemilik atau yang menguasainya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "fef154be-c8b5-4ade-b745-f9fce5128fc7",
+                            "id": "8c5a44bf-55f7-475f-93df-c333c645ebb2",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
-                            "content": " Apabila pemilik atau yang menguasai ternyata tidak mampu mengganti biaya yang dikeluarkan oleh Pemerintah, maka pemilik atau yang menguasai benda cagar budaya dapat :\na. memberikan hak untuk pemanfaatan dan/atau pengelolaan baik sebagian maupun seluruhnya sebagai imbalan atas perlindungan dan pemeliharaan kepada Pemerintah;\nb. mengalihkan hak pemilikan atau penguasaannya kepada Pemerintah dengan imbalan sesuai dengan ketentuan Pasal 8 ayat (5).",
+                            "content": ".",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2203c3ee-c6d9-47bd-9211-57880a18ad57",
+                            "id": "b3eb5e27-3e0b-4d5a-b39b-e45f097db96b",
                             "name": "Verse 6",
                             "number": "(6)",
                             "type": "verse",
-                            "content": " Ketentuan lebih lanjut mengenai syarat dan tata cara peneguran serta pengalihan hak pemanfaatan dan pengelolaan sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (4), dan ayat (5) diatur oleh Menteri.",
+                            "content": " Ketentuan lebih lanjut mengenai syarat dan tata cara peneguran\nserta pengalihan hak pemanfaatan dan pengelolaan sebagaimana\ndimaksud dalam ayat (1), ayat (2), ayat (4), dan ayat (5) diatur oleh\nMenteri.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "c292b633-2d96-4f40-8fee-ed1dd1c0bd6f",
+                    "id": "a71a4c8d-191c-4bc0-9a6f-5cf8d881dd9d",
                     "name": "Article 29",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5feb33a7-7696-48d6-a0a1-b4e4b304ae90",
+                            "id": "3c589c73-2538-4268-ae98-75bfecab4a0b",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -860,7 +860,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "05dc7aa5-bd2b-4cbc-bca0-4317380f8996",
+                            "id": "d696bc91-373a-4211-a04b-80939579eb3b",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -870,12 +870,12 @@
                     ]
                 },
                 {
-                    "id": "8ded69f5-f029-413e-8727-62344fd1fd16",
+                    "id": "16f5b30c-56fe-42e0-be8d-29580fc05eba",
                     "name": "Article 30",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1549acd7-39d8-46c6-a601-a621f02a53af",
+                            "id": "44ae7b1e-d423-494c-af6b-0449b76ffdd0",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -883,7 +883,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0e61cb66-8cbb-4b93-b601-628837fb0e4d",
+                            "id": "ac192c8e-0bde-4e3e-b027-c7691a06b5b8",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -891,7 +891,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e9ec12e7-1ab5-47ab-ab79-b77d8cf84ee8",
+                            "id": "fc78f08b-ea66-46f2-8ba2-0ec1069ea623",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -899,7 +899,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "05587daa-4472-4390-8650-357fa5c163b0",
+                            "id": "8302ee1f-6e24-4a9d-bda4-d66c37058d90",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -909,66 +909,66 @@
                     ]
                 },
                 {
-                    "id": "87b2a4da-cb07-44ce-b9b8-8c5dd0b6e849",
+                    "id": "d27e6823-4bb5-4c63-8928-c0878ed8fde3",
                     "name": "Article 31",
                     "type": "article",
                     "children": [
                         {
-                            "id": "4a61e6e1-eaee-4749-bff8-cc14af407be8",
+                            "id": "2db647c7-a06e-4993-85f7-3779cb74bf0a",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Setiap orang yang memiliki benda cagar budaya tertentu\nsebagaimana dimaksud dalam Pasal 4 ayat (2) huruf b yang akan\nmembawa dan memindahkan benda cagar budaya ke luar wilayah\nRepublik Indonesia wajib memperoleh izin Menteri dan dilakukan\nsesuai dengan ketentuan peraturan perundang-undangan yang\nberlaku.",
+                            "content": " Setiap orang yang memiliki benda cagar budaya tertentu sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf b yang akan membawa dan memindahkan benda cagar budaya ke luar wilayah Republik Indonesia wajib memperoleh izin Menteri dan dilakukan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f390975b-1955-4e50-b194-8a0a0c458420",
+                            "id": "67a0398e-53ba-44a6-8d57-5393a1e733b4",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Dalam hal orang sebagaimana dimaksud dalam ayat (1) adalah\nwarga negara asing, selain harus memenuhi ketentuan sebagaimana\ndimaksud dalam ayat (1) juga harus memenuhi ketentuan\nsebagaimana dimaksud dalam Pasal 5.",
+                            "content": " Dalam hal orang sebagaimana dimaksud dalam ayat (1) adalah warga negara asing, selain harus memenuhi ketentuan sebagaimana dimaksud dalam ayat (1) juga harus memenuhi ketentuan sebagaimana dimaksud dalam Pasal 5.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "9c8a8ffb-2d0a-4cdf-9b4a-4a3d33b8356e",
+                    "id": "5eaa5f74-a603-4f04-9e66-5d70281c1d6e",
                     "name": "Article 32",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ff350ad8-50d4-4f89-bf5b-12db1579d1c8",
+                            "id": "560dc320-ef1b-4fb2-ac0a-a610886a4f8a",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Setiap orang hanya dapat memindahkan benda cagar budaya\ntertentu dengan tidak menghilangkan atau mengurangi nilai sejarah\ndan fungsi pemanfaatannya dari daerah satu ke daerah lainnya atas\ndasar izin yang diberikan oleh Menteri.",
+                            "content": " Setiap orang hanya dapat memindahkan benda cagar budaya tertentu dengan tidak menghilangkan atau mengurangi nilai sejarah dan fungsi pemanfaatannya dari daerah satu ke daerah lainnya atas dasar izin yang diberikan oleh Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "31b6c8a9-f4c2-4062-b47f-a87ad7ebd574",
+                            "id": "03e2a59f-17fe-4756-92f8-d2974a908f52",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Tata cara perizinan sebagaimana dimaksud dalam ayat (1) diatur\noleh Menteri.",
+                            "content": " Tata cara perizinan sebagaimana dimaksud dalam ayat (1) diatur oleh Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "fdc20ea7-d970-424f-b43f-675f48cd80e8",
+                    "id": "1255616d-1373-4d13-bba9-7bd95df2c7f8",
                     "name": "Article 33",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5b0a8d5d-8428-4d2a-b8b3-e8e747d9fb97",
+                            "id": "4f5bdd48-fda6-4d27-a2d4-ba2cfdaeeeaf",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Setiap instansi yang terkait atas pengamanan benda cagar budaya\napabila mengetahui dibawanya atau dipindahkannya sebagian atau\nseluruh benda cagar budaya atau benda yang diduga benda cagar\nbudaya tanpa dilengkapi izin sebagaimana dimaksud dalam Pasal\n30, Pasal 31, dan Pasal 32 wajib melakukan penahanan atas benda\ntersebut.\n",
+                            "content": " Setiap instansi yang terkait atas pengamanan benda cagar budaya apabila mengetahui dibawanya atau dipindahkannya sebagian atau seluruh benda cagar budaya atau benda yang diduga benda cagar budaya tanpa dilengkapi izin sebagaimana dimaksud dalam Pasal 30, Pasal 31, dan Pasal 32 wajib melakukan penahanan atas benda tersebut.\n",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "84b7d26e-3d58-4bcf-b24c-6855b129434b",
+                            "id": "f5f0119a-e58d-40e3-a8e6-7afb68db1d29",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -976,7 +976,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f860f2e9-9927-4c95-990b-73279bdd85b2",
+                            "id": "be07fbba-095c-4312-a943-4f00a810d787",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -984,7 +984,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "75b614f8-994b-43ad-b284-3730932cca56",
+                            "id": "61e72103-32fa-4633-bca7-d7a8c7a1e362",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -994,12 +994,12 @@
                     ]
                 },
                 {
-                    "id": "c9f25f80-d8b6-4a90-98c2-fc0e7f3f978c",
+                    "id": "0ea1ae41-5d83-4c01-83f2-1fd9b9aab71b",
                     "name": "Article 34",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3b494254-31e0-4d59-9298-3fa8328a2438",
+                            "id": "7d2eb2a0-3846-4265-8d65-866b43cf5dda",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -1007,7 +1007,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a89a7859-b1b4-4b5b-b743-edf59b63e444",
+                            "id": "335c4393-6901-4a39-811a-8effb16729d3",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -1015,7 +1015,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2b22f400-5950-44a7-aad5-5db3710c386a",
+                            "id": "d91cfa51-a7d4-4dac-b241-7a394431b07f",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -1025,12 +1025,12 @@
                     ]
                 },
                 {
-                    "id": "4877faba-d7a1-4a03-8f57-c6144293fee5",
+                    "id": "3385f7c0-27f6-4128-86ab-3c6ec6f5438f",
                     "name": "Article 35",
                     "type": "article",
                     "children": [
                         {
-                            "id": "253ad168-fea6-4462-a502-f77eb829b47a",
+                            "id": "524c6d2a-63e0-4272-85c6-f3f4cb2aa6dd",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -1038,7 +1038,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d248e1b7-4938-4fa8-8a8e-9c0545b659c4",
+                            "id": "6ee66195-a728-49bc-b5bf-3698aae27689",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -1046,7 +1046,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "bdde6472-ef9b-4ec8-bba3-fa3ef6b12acf",
+                            "id": "20db58d7-7166-4da5-aca2-c074d3b304c0",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -1058,18 +1058,18 @@
             ]
         },
         {
-            "id": "72a3b9fb-71ec-40d3-b505-335c9128f161",
+            "id": "10025b67-1e1b-4ae7-8e93-3f6a983ea433",
             "name": "Chapter V",
             "title": "\nPEMANFAATAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6e604bac-bbfd-47b7-8966-844374c2c906",
+                    "id": "0cfd6f90-5545-4795-8477-47528561e6a3",
                     "name": "Article 36",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ca7351f0-9a9e-4998-af23-25cfbcf80671",
+                            "id": "78d15fca-d41c-4c97-ab96-351fe9c512dc",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -1077,7 +1077,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5eb113fa-de8d-4497-82d6-482f6ed07043",
+                            "id": "528c9872-f514-4255-a62f-f982b7239dae",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -1085,7 +1085,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5d91761b-7ac7-4223-823f-13ca1b42a145",
+                            "id": "bf3e8c3a-0faa-4697-92ea-072663c321d8",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -1093,7 +1093,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "deb81e1c-a01b-4e2d-8f2d-d44b789e3191",
+                            "id": "28493a51-bebd-4137-8e1f-895b637f0648",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -1101,7 +1101,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6c0a0dd6-6216-4fde-bd16-e0120c39fb1e",
+                            "id": "c504b1fe-7f48-4605-b9ce-0317f68cf7d3",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
@@ -1109,7 +1109,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "270ee693-77cb-4890-81c2-875bf4228278",
+                            "id": "413e2ac9-0dbf-474d-93b6-c71fc52cd298",
                             "name": "Verse 6",
                             "number": "(6)",
                             "type": "verse",
@@ -1117,7 +1117,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "30ff35c4-000c-4ecd-9c68-3a6df848ff3d",
+                            "id": "d0881b3a-df07-4f4f-ae28-8e7ecca9365e",
                             "name": "Verse 7",
                             "number": "(7)",
                             "type": "verse",
@@ -1125,7 +1125,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9c3ca114-4bf7-48c1-95f5-fdea6f966ff8",
+                            "id": "af41ad42-4365-458d-b7c9-fb8ec85b5da1",
                             "name": "Verse 8",
                             "number": "(8)",
                             "type": "verse",
@@ -1135,12 +1135,12 @@
                     ]
                 },
                 {
-                    "id": "1f0e010e-9e0d-4ffa-8a82-1743ff530bc9",
+                    "id": "bf1cc8a4-8c86-4acb-b247-90bf0ebb78d3",
                     "name": "Article 37",
                     "type": "article",
                     "children": [
                         {
-                            "id": "7910d45c-464a-4d55-8c6e-f6a10a03ed3d",
+                            "id": "cbaba145-ca0e-4239-b2a6-ebec93ff64b5",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -1148,7 +1148,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4c8200d6-a928-4e31-b9be-e89b5de12ce1",
+                            "id": "85987425-7faf-4dc8-a974-08538e38f655",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -1158,76 +1158,76 @@
                     ]
                 },
                 {
-                    "id": "393a427b-1e9f-4012-bd61-9183fc9ec016",
+                    "id": "40af59ac-433b-44ae-bc85-3e57b48b1705",
                     "name": "Article 38",
                     "type": "article",
                     "children": {
-                        "id": "210eccd6-20a4-4f2c-8222-266d6708bf32",
+                        "id": "17d6df08-da1b-4ef4-bdbc-97430104f711",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nBenda cagar budaya yang pada saat ditemukan ternyata sudah tidak dimanfaatkan lagi seperti fungsi semula dilarang untuk dimanfaatkan kembali.",
+                        "content": "\nBenda cagar budaya yang pada saat ditemukan ternyata sudah tidak\ndimanfaatkan lagi seperti fungsi semula dilarang untuk dimanfaatkan\nkembali.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "702cb6a8-ae87-42f0-97b6-154261654fdb",
+                    "id": "c0de6a71-f7ce-4b24-a063-fab7f900c365",
                     "name": "Article 39",
                     "type": "article",
                     "children": [
                         {
-                            "id": "dc4618c7-b944-40d0-bfec-a4e6c667eea6",
+                            "id": "d3e29824-0b9c-422b-b08b-a7e6aa6478d5",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Pemanfaatan benda cagar budaya dengan cara penggandaan hanya dapat dilakukan atas izin Menteri.",
+                            "content": " Pemanfaatan benda cagar budaya dengan cara penggandaan hanya\ndapat dilakukan atas izin Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6567d642-1c92-4a6c-9d39-41ac3e6a05c6",
+                            "id": "7e779a09-f3da-42d0-b33d-37f34ab475c9",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Permohonan izin diajukan kepada Menteri dengan disertai persetujuan tertulis dari pemilik benda cagar budaya.",
+                            "content": " Permohonan izin diajukan kepada Menteri dengan disertai\npersetujuan tertulis dari pemilik benda cagar budaya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d3680e48-3368-4132-aefb-268c4c7605d1",
+                            "id": "b0aa63ac-a562-47d2-aaab-b6b9ed051517",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Pemegang izin penggandaan benda cagar budaya wajib memberi tanda khusus pada setiap hasil penggandaannya.",
+                            "content": " Pemegang izin penggandaan benda cagar budaya wajib memberi\ntanda khusus pada setiap hasil penggandaannya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1291a49a-27fa-4f01-88eb-58c33a7a0d2d",
+                            "id": "131b274d-e735-4881-982b-ec181b170e37",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Ketentuan lebih lanjut mengenai perizinan dan tata cara penandaan diatur oleh Menteri.",
+                            "content": " Ketentuan lebih lanjut mengenai perizinan dan tata cara penandaan\ndiatur oleh Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "e922236d-765e-4c82-8da8-0a88b7771ad1",
+                    "id": "d0c2304a-f0ac-40cb-881d-e80df9d9358f",
                     "name": "Article 40",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1fd8ee92-d54b-439c-85e3-fd57d7be7630",
+                            "id": "6258931b-de4d-40d3-969f-aead5b4dd063",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Dalam rangka penyimpanan, perawatan, pengamanan, dan pemanfaatan benda cagar budaya bergerak atau benda cagar budaya tertentu baik yang dimiliki Negara maupun perorangan dapat disimpan dan dirawat di museum.",
+                            "content": " Dalam rangka penyimpanan, perawatan, pengamanan, dan\npemanfaatan benda cagar budaya bergerak atau benda cagar budaya\ntertentu baik yang dimiliki Negara maupun perorangan dapat\ndisimpan dan dirawat di museum.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "875aeaac-6516-4db5-9586-55b97f678d70",
+                            "id": "a1a63c5e-be45-45c5-98ad-c319dd7d207c",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Pengaturan mengenai permuseuman yang meliputi penyimpanan, perawatan, pengamanan, dan pemanfaatan koleksi museum yang berupa benda cagar budaya diatur tersendiri.",
+                            "content": " Pengaturan mengenai permuseuman yang meliputi penyimpanan,\nperawatan, pengamanan, dan pemanfaatan koleksi museum yang\nberupa benda cagar budaya diatur tersendiri.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -1235,34 +1235,34 @@
             ]
         },
         {
-            "id": "eecc0602-8828-4337-8f87-cd140e3db442",
+            "id": "fb099e2f-1caa-4b2d-8c3e-fe3999ffc099",
             "name": "Chapter VI",
             "title": "\nPEMBINAAN DAN PENGAWASAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f05a0f43-796d-4849-b576-2336c5a7bf87",
+                    "id": "97911e53-6e02-40cc-90c0-96a0c438f71d",
                     "name": "Article 41",
                     "type": "article",
                     "children": [
                         {
-                            "id": "73b47586-8670-4cc1-bfa7-20c0d6e13470",
+                            "id": "ae7ad584-9153-4765-aaee-9184251f7fb8",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Menteri bertanggung jawab atas pembinaan terhadap pengelolaan\nbenda cagar budaya.",
+                            "content": " Menteri bertanggung jawab atas pembinaan terhadap pengelolaan benda cagar budaya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f70eb29a-997e-4dfa-b085-b40a2ba59b1a",
+                            "id": "66b8c0be-aabe-4c6a-990b-b9a41e11aeaf",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Pembinaan pengelolaan sebagaimana dimaksud dalam ayat (1)\nmeliputi :\na. pembinaan terhadap pemilik atau yang menguasai benda cagar\nbudaya berkenaan dengan tata cara perlindungan, pemeliharaan,\ndan pemanfaatannya.\nb. pembinaan peranserta masyarakat dalam upaya pelestarian.",
+                            "content": " Pembinaan pengelolaan sebagaimana dimaksud dalam ayat (1) meliputi :\na. pembinaan terhadap pemilik atau yang menguasai benda cagar budaya berkenaan dengan tata cara perlindungan, pemeliharaan, dan pemanfaatannya.\nb. pembinaan peranserta masyarakat dalam upaya pelestarian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "dd2b3788-3349-428e-bd94-b978479b3ab3",
+                            "id": "a79f6679-f4f3-49f9-ba4b-eef78ed98972",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -1270,45 +1270,45 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ec151775-e2cf-4b96-b86e-ecd32272514d",
+                            "id": "def23bcc-5518-49cc-9cef-c7da0cede42c",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Ketentuan lebih lanjut mengenai pembinaan pengelolaan benda\ncagar budaya diatur oleh Menteri.",
+                            "content": " Ketentuan lebih lanjut mengenai pembinaan pengelolaan benda cagar budaya diatur oleh Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "1dcace0f-e02a-41ce-97fc-d185fbb033f8",
+                    "id": "42e05e3a-63f9-4058-8982-4da2010ebf67",
                     "name": "Article 42",
                     "type": "article",
                     "children": [
                         {
-                            "id": "7fbbdf5a-89a1-4047-8d2e-410538758258",
+                            "id": "a3a20f14-d934-4727-8d57-161b2ee37f28",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Peranserta masyarakat dalam pelestarian atau pengelolaan benda\ncagar budaya dapat dilakukan oleh perorangan atau badan hukum,\nyayasan, perhimpunan, perkumpulan, atau badan lain yang sejenis.",
+                            "content": " Peranserta masyarakat dalam pelestarian atau pengelolaan benda cagar budaya dapat dilakukan oleh perorangan atau badan hukum, yayasan, perhimpunan, perkumpulan, atau badan lain yang sejenis.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "bb5ea072-2c18-4a4c-87db-c943b89af310",
+                            "id": "86264aaa-823d-4ce9-bead-1766c272ac6b",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Peranserta masyarakat sebagimana dimaksud dalam ayat (1) dapat\nberupa penyuluhan, seminar, pengumpulan dana, dan kegiatan lain\ndalam upaya perlindungan dan pemeliharaan benda cagar budaya.",
+                            "content": " Peranserta masyarakat sebagimana dimaksud dalam ayat (1) dapat berupa penyuluhan, seminar, pengumpulan dana, dan kegiatan lain dalam upaya perlindungan dan pemeliharaan benda cagar budaya.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "0ae4f733-b425-4cad-9b9d-11f7af305047",
+                    "id": "f2306c91-7c4e-4ed7-9cb7-169b851c4061",
                     "name": "Article 43",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e1813538-8b8d-4956-941b-f0fa68c30251",
+                            "id": "fdf20b4f-993d-485d-8b14-c64450880047",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -1316,7 +1316,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "15a2e708-691f-4a74-b418-3116eafed454",
+                            "id": "bc015a98-4ee1-4bd1-bffd-721251bc74b1",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -1328,26 +1328,26 @@
             ]
         },
         {
-            "id": "eb61dd24-f328-4148-89d9-1e76148363f1",
+            "id": "9f925370-45b0-4c3b-9afe-fab3e6357a0d",
             "name": "Chapter VII",
             "title": "\nKETENTUAN LAIN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "25719db1-576b-48e6-9e29-612b092bfcf0",
+                    "id": "abf1d691-2957-4e76-8af4-3cb73441eb09",
                     "name": "Article 44",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e03e039e-9bd0-467c-b046-1144204779b6",
+                            "id": "8bb1b6b9-1a6b-4d17-a061-deca6dbe8572",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Setiap rencana kegiatan pembangunan yang dapat mengakibatkan:\nA.  tercemar, pindah, rusak, berubah, musnah, atau hilangnya nilai\nsejarah benda cagar budaya;\nB.  tercemar dan berubahnya situs beserta lingkungannya, wajib\ndilaporkan terlebih dahulu kepada Menteri.",
+                            "content": " Setiap rencana kegiatan pembangunan yang dapat mengakibatkan:\nA. tercemar, pindah, rusak, berubah, musnah, atau hilangnya nilai\nsejarah benda cagar budaya;\nB. tercemar dan berubahnya situs beserta lingkungannya, wajib\ndilaporkan terlebih dahulu kepada Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b04c4871-3b49-43fc-bb87-1b7677b28bb8",
+                            "id": "95652edd-97b9-4b5c-b944-ca25c5a3df20",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -1355,7 +1355,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e688b418-27b5-4d67-81c9-3a52ab7a2c17",
+                            "id": "db698cfe-9a1e-4768-9fec-1171c2d738ec",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -1363,11 +1363,11 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "49b0b466-3f60-4e3c-a539-7eab61f31df3",
+                            "id": "b1d53e20-f1a1-4389-94b8-a1c01e3198b5",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Pelaksanaan ketentuan lebih lanjut sebagaimana dimaksud dalam\nayat (1), ayat (2), dan ayat (3) diatur oleh Menteri.",
+                            "content": " Pelaksanaan ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) diatur oleh Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -1375,38 +1375,38 @@
             ]
         },
         {
-            "id": "7e5b2fc1-c8be-4229-b470-de41a9ed5ca3",
+            "id": "4daaedab-5de0-4879-b6c0-dca049181ffb",
             "name": "Chapter VIII",
             "title": "\nKETENTUAN PIDANA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f43cdee6-dd7a-464e-acb4-007e6680ad55",
+                    "id": "e6a11a07-cddc-4c8a-a6b0-507d98efda55",
                     "name": "Article 45",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b4349a56-b9e5-432b-bea6-c164ea6d4173",
+                            "id": "8f928527-3d05-4bfc-b25e-d1720eb23151",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Barang siapa dengan sengaja melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 27, pasal 29, Pasal 30, Pasal 31, Pasal 32,\ndan pasal 34 dipidana berdasarkan ketentuan Pasal 26\nUndang-undang Nomor 5 Tahun 1992 tentang Benda Cagar\nBudaya.",
+                            "content": " Barang siapa dengan sengaja melanggar ketentuan sebagaimana dimaksud dalam Pasal 27, pasal 29, Pasal 30, Pasal 31, Pasal 32, dan pasal 34 dipidana berdasarkan ketentuan Pasal 26 Undang-undang Nomor 5 Tahun 1992 tentang Benda Cagar Budaya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d1beb129-d7d2-4007-8ed1-3311bb247e4f",
+                            "id": "c5ffdc84-fc80-442a-9608-315b9b39f9fe",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Barang siapa dengan sengaja melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 17 dipidana berdasarkan ketentuan Pasal 27\nUndang-undang Nomor 5 Tahun 1992 tentang Benda Cagar\nBudaya.",
+                            "content": " Barang siapa dengan sengaja melanggar ketentuan sebagaimana dimaksud dalam Pasal 17 dipidana berdasarkan ketentuan Pasal 27 Undang-undang Nomor 5 Tahun 1992 tentang Benda Cagar Budaya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b5747287-c7ea-49e7-a74d-71b26d5b67ee",
+                            "id": "898cd23b-cc5d-4d04-8eaa-7effe0d63b21",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Barang siapa tidak melaksanakan kewajiban sebagaimana dimaksud\ndalam Pasal 6, Pasal 11, Pasal 12, Pasal 13, Pasal 38, dan Pasal 39,\ndipidana berdasarkan ketentuan Pasal 28 Undang-undang Nomor 5\nTahun 1992 tentang Benda Cagar Budaya.",
+                            "content": " Barang siapa tidak melaksanakan kewajiban sebagaimana dimaksud dalam Pasal 6, Pasal 11, Pasal 12, Pasal 13, Pasal 38, dan Pasal 39, dipidana berdasarkan ketentuan Pasal 28 Undang-undang Nomor 5 Tahun 1992 tentang Benda Cagar Budaya.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -1414,17 +1414,17 @@
             ]
         },
         {
-            "id": "c731ca4e-3363-42e9-986a-288d4989456d",
+            "id": "3ef86a4a-742f-4923-a764-aaba5c16a27d",
             "name": "Chapter IX",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ee1fa31f-37db-4d04-b6c0-378e07c03c93",
+                    "id": "06040312-f8bb-4291-971c-2c83dad091a7",
                     "name": "Article 46",
                     "type": "article",
                     "children": {
-                        "id": "8e7e3627-9657-40ed-b24f-038de22f8638",
+                        "id": "07e407d2-708c-44cc-895f-d6c2a2922954",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1435,30 +1435,30 @@
             ]
         },
         {
-            "id": "8a7bbe55-c907-412f-86d5-701d59974101",
+            "id": "7dbe341e-f0db-4bf2-9867-88f142f09328",
             "name": "Chapter X",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "b60024a2-32ed-46d5-8bfc-2deb796102b7",
+                    "id": "fbafca16-d9c6-4e24-aa8b-cee404ddf323",
                     "name": "Article 47",
                     "type": "article",
                     "children": {
-                        "id": "a18a9a66-1197-4ee5-b9c0-fe7cd5f520ba",
+                        "id": "09a5bfa5-712e-4c5b-afc2-bc0ab2be6e28",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 19 Pebruari 1993\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 19 Pebruari 1993\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nMOERDIOΝΟ\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1993 NOMOR 14\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 10 TAHUN 1993\nTENTANG\nPELAKSANAAN UNDANG-UNDANG NOMOR 5 TAHUN 1992\nTENTANG BENDA CAGAR BUDAYA\nUMUM\nPerlindungan benda cagar budaya sebagai salah satu upaya bagi pelestarian warisan\nbudaya bangsa, merupakan ikhtiar untuk memupuk kebanggaan nasional dan\nmemperkokoh jatidiri bangsa. Upaya pelestarian benda cagar budaya tersebut, sangat\nbesar artinya bagi kepentingan pembinaan dan pengembangan sejarah, ilmu pengetahuan,\ndan kebudayaan, serta pemanfaatan lainnya dalam rangka memajukan kebudayaan bangsa\ndemi kepentingan nasional.\nUndang-undang Nomor 5 Tahun 1992 tentang Benda Cagar Budaya telah memberikan\narah pengaturan bagi penguasaan, pemilikan, penemuan, pencarian, perlindungan,\npemeliharaan, pengelolaan, pemanfaatan, dan pengawasan benda cagar budaya. Selain\nhal di atas, di dalam beberapa pasal Undang-undang tersebut secara tegas juga telah\nmengamanatkan masalah-masalah yang pelaksanaan pengaturannya diatur lebih lanjut\ndengan Peraturan Pemerintah.\nBeranjak dari amanat tersebut, Peraturan Pemerintah ini disusun untuk memberi\npenjabaran, kejelasan, dan pedoman mengenai pengaturan penguasaan, pemilikan,\npendaftaran, pengalihan, penemuan, pencarian, perlindungan, pemeliharaan,\npemanfaatan, pembinaan, dan pengawasan serta hal-hal lain yang berkenaan dengan\nupaya pelestarian benda cagar budaya.\nMeskipun beberapa ketentuan dalam Undang-undang tersebut mengamanatkan bahwa\nsetiap masalah di atas perlu diatur dengan Peraturan Pemerintah, namun guna pengaturan\nyang bersifat tuntas serta menyeluruh, maka terhadap masalah-masalah lain yang saling\nberkaitan perlu pula diatur dalam Peraturan Pemerintah ini.\n\nUntuk pengaturan perlindungan dan pelestarian benda cagar budaya, baik mengenai\npenguasaan, pemilikan, pendaftaran, pengalihan, penemuan, pencarian, pemeliharaan\nmaupun pemanfaatan benda cagar budaya dalam Peraturan Pemerintah ini senantiasa\ntetap memperhatikan hak dan kewajiban serta kepentingan pemilik ataupun masyarakat.\nPerlindungan dan pelestarian benda cagar budaya di sini, bukan hanya meliputi benda\nbuatan manusia yang termasuk dalam pengertian dan kriteria sebagaimana dimaksud\ndalam Pasal 1 butir 1 huruf a Undang-undang Nomor 5 Tahun 1992 tentang Benda Cagar\nBudaya, tetapi juga termasuk benda warisan alam yang mempunyai nilai penting bagi\nsejarah, ilmu pengetahuan, dan kebudayaan, misalnya fosil manusia atau binatang purba,\nbenda sisa meteor dan sebagainya.\nBerkenaan dengan hal-hal di atas, selain mengatur upaya-upaya perlindungan dan\npelestarian benda cagar budaya, Peraturan Pemerintah ini juga memberikan arah dalam\ntata cara/syarat pemilikan, penguasaan, dan upaya membawa benda cagar budaya ke luar\nwilayah Republik Indonesia.\nMengingat pentingnya pemanfaatan benda cagar budaya untuk kepentingan kelancaran\nperibadatan, maka Peraturan pemerintah ini juga mengatur pelaksanaan pemanfaatannya\ndengan tetap memperhatikan ketentuan-ketentuan pelestarian dan perlindungan benda\ncagar budaya sebagaimana diatur dalam Peraturan Pemerintah ini.\nPASAL DEMI PASAL",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 19 Pebruari 1993\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 19 Pebruari 1993\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nMOERDIOΝΟ\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1993 NOMOR 14\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 10 TAHUN 1993\nTENTANG\nPELAKSANAAN UNDANG-UNDANG NOMOR 5 TAHUN 1992\nTENTANG BENDA CAGAR BUDAYA\nUMUM\nPerlindungan benda cagar budaya sebagai salah satu upaya bagi pelestarian warisan budaya bangsa, merupakan ikhtiar untuk memupuk kebanggaan nasional dan memperkokoh jatidiri bangsa. Upaya pelestarian benda cagar budaya tersebut, sangat besar artinya bagi kepentingan pembinaan dan pengembangan sejarah, ilmu pengetahuan, dan kebudayaan, serta pemanfaatan lainnya dalam rangka memajukan kebudayaan bangsa demi kepentingan nasional.\nUndang-undang Nomor 5 Tahun 1992 tentang Benda Cagar Budaya telah memberikan arah pengaturan bagi penguasaan, pemilikan, penemuan, pencarian, perlindungan, pemeliharaan, pengelolaan, pemanfaatan, dan pengawasan benda cagar budaya. Selain hal di atas, di dalam beberapa pasal Undang-undang tersebut secara tegas juga telah mengamanatkan masalah-masalah yang pelaksanaan pengaturannya diatur lebih lanjut dengan Peraturan Pemerintah.\nBeranjak dari amanat tersebut, Peraturan Pemerintah ini disusun untuk memberi penjabaran, kejelasan, dan pedoman mengenai pengaturan : penguasaan, pemilikan, pendaftaran, pengalihan, penemuan, pencarian, perlindungan, pemeliharaan, pemanfaatan, pembinaan, dan pengawasan serta hal-hal lain yang berkenaan dengan upaya pelestarian benda cagar budaya.\nMeskipun beberapa ketentuan dalam Undang-undang tersebut mengamanatkan bahwa setiap masalah di atas perlu diatur dengan Peraturan Pemerintah, namun guna pengaturan yang bersifat tuntas serta menyeluruh, maka terhadap masalah-masalah lain yang saling berkaitan perlu pula diatur dalam Peraturan Pemerintah ini.\n\nUntuk pengaturan perlindungan dan pelestarian benda cagar budaya, baik mengenai\npenguasaan, pemilikan, pendaftaran, pengalihan, penemuan, pencarian, pemeliharaan\nmaupun pemanfaatan benda cagar budaya dalam Peraturan Pemerintah ini senantiasa\ntetap memperhatikan hak dan kewajiban serta kepentingan pemilik ataupun masyarakat.\nPerlindungan dan pelestarian benda cagar budaya di sini, bukan hanya meliputi benda\nbuatan manusia yang termasuk dalam pengertian dan kriteria sebagaimana dimaksud\ndalam Pasal 1 butir 1 huruf a Undang-undang Nomor 5 Tahun 1992 tentang Benda Cagar\nBudaya, tetapi juga termasuk benda warisan alam yang mempunyai nilai penting bagi\nsejarah, ilmu pengetahuan, dan kebudayaan, misalnya fosil manusia atau binatang purba,\nbenda sisa meteor dan sebagainya.\nBerkenaan dengan hal-hal di atas, selain mengatur upaya-upaya perlindungan dan\npelestarian benda cagar budaya, Peraturan Pemerintah ini juga memberikan arah dalam\ntata cara/syarat pemilikan, penguasaan, dan upaya membawa benda cagar budaya ke luar\nwilayah Republik Indonesia.\nMengingat pentingnya pemanfaatan benda cagar budaya untuk kepentingan kelancaran\nperibadatan, maka Peraturan pemerintah ini juga mengatur pelaksanaan pemanfaatannya\ndengan tetap memperhatikan ketentuan-ketentuan pelestarian dan perlindungan benda\ncagar budaya sebagaimana diatur dalam Peraturan Pemerintah ini.\nPASAL DEMI PASAL",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "63ccde7a-65c5-4bd3-8815-786666ed0ea3",
+                    "id": "f14977c8-b1c0-4659-a543-640ff8b3bfe3",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "cbb7574f-63f3-4d2a-abc5-4b8bc85a0605",
+                        "id": "6df8899b-b134-4982-be88-613067aec6b2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1467,11 +1467,11 @@
                     }
                 },
                 {
-                    "id": "5e5e7d70-eebe-4e7e-9a39-443ed77587d2",
+                    "id": "1c515893-c050-4a36-a22a-bf09ff458a9d",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "5d5238cf-36cb-42cb-9a41-b6b2b3ac6066",
+                        "id": "022bc9a8-1b89-4f56-95d7-c638c78ff68e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1480,11 +1480,11 @@
                     }
                 },
                 {
-                    "id": "feb66be6-7732-4f88-b713-c8893b024ce4",
-                    "name": "Article 3",
+                    "id": "b727dc39-1631-42fd-bd89-f47c5cf29af0",
+                    "name": "Article3",
                     "type": "article",
                     "children": {
-                        "id": "f39ea1b8-b20a-4669-b177-c2674973e2de",
+                        "id": "a0707d4a-8b69-47ad-9bd8-fd31958abbe4",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1493,11 +1493,11 @@
                     }
                 },
                 {
-                    "id": "bce012de-67f0-4532-af98-d082e9f19164",
+                    "id": "dad37059-d028-4757-9efe-b44ee281cb6b",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "207e7e4d-8604-4cf3-a7d6-b78027842438",
+                        "id": "25755cc1-45d3-4902-9a6c-220161bfa50b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1506,11 +1506,11 @@
                     }
                 },
                 {
-                    "id": "2e0386f3-ca7d-43e2-a202-93aebafca322",
+                    "id": "8c2a267f-02f3-4ea1-a9e9-0b3e216b8c8d",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "59bf7ebc-4fc6-4385-9fbe-3a977280a840",
+                        "id": "3500b013-75bb-4ff9-bee8-2fedf8a6025a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1519,11 +1519,11 @@
                     }
                 },
                 {
-                    "id": "28caf635-09e7-40fa-9aec-fdd2c25b5855",
+                    "id": "265f1e19-7f10-4462-a2b6-a5b31ab12a4a",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "152685ec-9607-41f4-9b8d-b298aef78bcc",
+                        "id": "cfa63194-2e20-4146-aa23-384b1b44f303",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1532,11 +1532,11 @@
                     }
                 },
                 {
-                    "id": "0bd0763d-d659-4e27-b938-731f7dbf3dfb",
+                    "id": "1cf014a5-cb69-4aae-845a-d313c8c89726",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "fad8b0ed-b365-4f42-9cab-c99cf4bb4fdd",
+                        "id": "b89dd29c-a05f-4beb-8eeb-88ccfa753659",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1545,24 +1545,24 @@
                     }
                 },
                 {
-                    "id": "6777de6c-4094-4515-8970-07df49260915",
+                    "id": "8ed41ea6-8851-4df6-9478-0171ed84000d",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "85997ed9-bc96-42f3-b08f-0c0074de547c",
+                        "id": "ac8f038a-e80a-40f1-836f-dfbfd531557a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nBenda cagar budaya tertentu dalam ayat ini hanya dapat dialihkan kepemilikannya dan/atau penguasaannya kepada ahli waris yang sah atau dialihkan pemilikannya kepada Negara, dimaksudkan untuk menghindari pindahnya pemilikan/penguasaan benda cagar budaya tersebut kepada orang lain selain kepada ahli waris atau Negara.\nAyat (2)\nCukup jelas\nAyat(3)\nCukup jelas\nAyat(4)\nCukup jelas\nAyat (5)\nCukup jelas\n\nAyat (6)\nCukup jelas",
+                        "content": "\nAyat (1)\nBenda cagar budaya tertentu dalam ayat ini hanya dapat dialihkan pemilikannya dan/atau penguasaannya kepada ahli waris yang sah atau dialihkan pemilikannya kepada Negara, dimaksudkan untuk menghindari pindahnya pemilikan/penguasaan benda cagar budaya tersebut kepada orang lain selain kepada ahli waris atau Negara.\nAyat (2)\nCukup jelas\nAyat(3)\nCukup jelas\nAyat(4)\nCukup jelas\nAyat (5)\nCukup jelas\n\nAyat (6)\nCukup jelas",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "88b8a64c-0791-40c7-954f-d77dd93801eb",
+                    "id": "2e5aa0a6-f20c-4c4b-be20-85976dfe6fed",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "ff249de9-70d1-45aa-ab43-4dbc03d6ddda",
+                        "id": "27d34569-5cd1-4855-a7dc-02bd9dd2fc49",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1571,11 +1571,11 @@
                     }
                 },
                 {
-                    "id": "f5016c11-82f4-4ef6-bbd6-398f2a1d9254",
+                    "id": "cf06d5d3-ff5e-4bac-af10-1e7c7c106ef4",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "48c30240-cabf-446c-9f2c-77266fd838ee",
+                        "id": "539edf86-bcd5-4eda-8472-3e8bb79eb43c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1584,24 +1584,24 @@
                     }
                 },
                 {
-                    "id": "0369ae17-e057-47ec-8dd5-91610f8dd6f6",
+                    "id": "47cb8035-a5a2-4d41-8b5f-c6c1c2623130",
                     "name": "Article 11",
                     "type": "article",
                     "children": {
-                        "id": "380944fc-f1a6-4b1e-b32f-5c37d4807b67",
+                        "id": "e3e697e5-ec1d-41bf-94d0-47329ba298d2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nKerusakan yang mengakibatkan musnahnya benda cagar budaya dapat terjadi karena akibat bencana, baik yang ditimbulkan oleh alam maupun ulah manusia atau akibat lainnya.\nAyat (3)\nCukup jelas",
+                        "content": "\n\nAyat (1)\nCukup jelas\nAyat (2)\nKerusakan yang mengakibatkan musnahnya benda cagar budaya dapat terjadi\nkarena akibat bencana, baik yang ditimbulkan oleh alam maupun ulah manusia\natau akibat lainnya.\nAyat (3)\nCukup jelas",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "3fc38637-8502-4cf3-a1d2-cf7f70a65ab2",
+                    "id": "7df7eb7a-9f5f-4f19-8e1a-4fbe40dd99f2",
                     "name": "Article 12",
                     "type": "article",
                     "children": {
-                        "id": "94ea989c-dbf2-4c10-bad8-31c6ba0d2fbb",
+                        "id": "67c86f08-143f-437c-b390-fadadea25be1",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1610,11 +1610,11 @@
                     }
                 },
                 {
-                    "id": "98d70e86-d0c8-4362-99e3-8b18792acb4e",
+                    "id": "cba346ed-47bf-48c0-b72a-b324b7511514",
                     "name": "Article 13",
                     "type": "article",
                     "children": {
-                        "id": "b05db836-adb6-4b8f-bc7e-434724bf9f3b",
+                        "id": "be6b5f21-da28-4900-bcb7-c024138be217",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1623,11 +1623,11 @@
                     }
                 },
                 {
-                    "id": "5a495ec3-09cc-450a-bec8-e95f2e5c3a14",
+                    "id": "ffc17a31-c058-4d1c-80ad-4fd3762c1743",
                     "name": "Article 14",
                     "type": "article",
                     "children": {
-                        "id": "68350c0f-dca0-490c-9013-312d83d02a44",
+                        "id": "3d954876-7dab-4b2c-9ddf-a3051f8283c7",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1636,63 +1636,63 @@
                     }
                 },
                 {
-                    "id": "3731473e-99e5-4f69-ba7f-c4b097097fee",
+                    "id": "73dfa50b-96cf-420c-93f6-8710fadc2f92",
                     "name": "Article 15",
                     "type": "article",
                     "children": {
-                        "id": "69247eef-07d3-425f-85d9-b05a7bfc15ef",
+                        "id": "b7617bba-240a-4649-9bd9-29b8657f6d85",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\n\nBenda cagar budaya bergerak asal temuan dapat disimpan di museum apabila\nbenda tersebut bukan merupakan bagian dari satu kesatuan atau kelompok\nbenda cagar budaya. Apabila benda temuan tersebut ternyata merupakan\nbagian dari satu kesatuan atau kelompok benda cagar budaya, benda tersebut\ndikembalikan kepada kesatuan atau kelompoknya, atau untuk pengamanannya\ndisimpan di museum.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas",
+                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\n\nBenda cagar budaya bergerak asal temuan dapat disimpan di museum apabila\nbenda tersebut bukan merupakan bagian dari satu kesatuan atau kelompok\nbenda cagar budaya. Apabila benda temuan tersebut ternyata merupakan\nbagian dari satu kesatuan atau kelompok benda cagar budaya, benda tersebut\ndikembalikan kepada kesatuan atau kelompoknya, atau untuk pengamanannya\ndisimpan di museum.\nAyat (3)\nCukup jelas\nAyat (4)",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "4cb1ff9c-e22b-4d70-90df-94963736941a",
+                    "id": "5fb553cf-9576-43c3-ae4b-571440cb3b66",
                     "name": "Article 16",
                     "type": "article",
                     "children": {
-                        "id": "6d51e1e8-2b5e-48ff-8880-d08fbe358f5f",
+                        "id": "9d753002-5dfb-4007-9299-37ca7647c36f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan ketentuan peraturan perundang-undangan yang berlaku\ndalam ayat ini, misalnya ketentuan Pasal 587 Kitab Undang-undang Hukum\nPerdata.",
+                        "content": "\nCukup jelas\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan ketentuan peraturan perundang-undangan yang berlaku\ndalam ayat ini, misalnya ketentuan Pasal 587 Kitab Undang-undang Hukum\nPerdata.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "e35a7ea4-5ebb-4a57-bce2-bb52a5d09561",
+                    "id": "8e386fa0-c57b-4bdc-90ac-bf89eb1f4ecd",
                     "name": "Article 17",
                     "type": "article",
                     "children": {
-                        "id": "68a9fc3c-4fdf-4fae-b64a-8b9d03378c65",
+                        "id": "d626007d-dff1-47f4-b5ab-f5fa6129ac17",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nYang dimaksud di darat dan di air dalam ayat ini adalah di bawah permukaan\ntanah dan di bawah perairan di wilayah Republik Indonesia.\nAyat(2)",
+                        "content": "\nAyat (1)\nYang dimaksud di darat dan di air dalam ayat ini adalah di bawah permukaan\ntanah dan di bawah perairan di wilayah Republik Indonesia.\nAyat(2)\nCukup jelas",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "50919231-3d83-4cae-ae12-05bb2eddd0e3",
+                    "id": "3160ae28-21f4-49a4-8827-906ba9bf8c22",
                     "name": "Article 18",
                     "type": "article",
                     "children": {
-                        "id": "59052168-0da4-4476-99f0-eed00a7da7e9",
+                        "id": "c53b5e03-8351-4cdb-b516-c81f1332c4db",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nKerangka acuan harus berisikan uraian antara lain mengenai tujuan, lokasi pencarian, jumlah dan jenis kemampuan tenaga, sarana, dan prasarana.\nAyat (4)\nCukup jelas",
+                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nKerangka acuan harus berisikan uraian antara lain mengenai tujuan, lokasi\npencarian, jumlah dan jenis kemampuan tenaga, sarana, dan prasarana.\nAyat (4)\nCukup jelas",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "85f88fc2-0bd1-46be-ac7e-1b81bcf1b7e9",
+                    "id": "c72f3228-0535-4270-a024-3decb44a5de6",
                     "name": "Article 19",
                     "type": "article",
                     "children": {
-                        "id": "9a4bcb0e-0deb-4514-aa8d-87fa986e440b",
+                        "id": "9c79947d-9ff8-4a14-ab54-24c509b3ade4",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1701,24 +1701,24 @@
                     }
                 },
                 {
-                    "id": "285a98bc-1c65-4b3e-a39c-8b58e2ba230b",
+                    "id": "f469c678-2355-4a40-95f4-1ed2ff1456f7",
                     "name": "Article20",
                     "type": "article",
                     "children": {
-                        "id": "009a384b-24f5-43c8-8a8b-18b86c30339c",
+                        "id": "38d09e7b-91d4-453a-b2b5-f95324dce4de",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\n\n---\nAyat (2)\nTermasuk badan hukum disini adalah yayasan/perhimpunan/perkumpulan, dan\nbadan lain yang sejenis.",
+                        "content": "\nAyat (1)\nCukup jelas\n\nAyat (2)\nTermasuk badan hukum disini adalah yayasan/perhimpunan/perkumpulan, dan\nbadan lain yang sejenis.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "edc39a74-b4f2-4dec-bb9a-141f3ee880bd",
-                    "name": "Article 21",
+                    "id": "be42a24d-5ce6-4146-b538-dc6464c11dd9",
+                    "name": "Article21",
                     "type": "article",
                     "children": {
-                        "id": "b5cad613-65ef-4a4a-b397-123f59005584",
+                        "id": "a390221a-1d5e-47ad-ae65-77df09914823",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1727,11 +1727,11 @@
                     }
                 },
                 {
-                    "id": "dccccebf-1d51-470e-82b0-ba2c39f7e813",
+                    "id": "ea90b33c-f1fa-4788-9191-6ba30cd113a0",
                     "name": "Article 22",
                     "type": "article",
                     "children": {
-                        "id": "c0412555-a970-49dc-8ef0-4cff7050a411",
+                        "id": "19628aad-4945-44c7-8175-168753ddd2e0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1740,37 +1740,37 @@
                     }
                 },
                 {
-                    "id": "bbc03003-6041-4cee-9199-391130647fce",
+                    "id": "726c4c42-8178-43a3-9e5d-9d94c94a5c57",
                     "name": "Article 23",
                     "type": "article",
                     "children": {
-                        "id": "6427338e-49c1-4c2a-9d0c-bcd8d7ce51f6",
+                        "id": "af65085e-d5b6-4c7f-b05e-a5d6d084b365",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nBatas-batas situs ditetapkan berdasarkan atas batas asli bila masih ada; atau\nbila tidak ada lagi ditinjau dari keadaan geotopografis setempat seperti lereng,\nsungai, lembah, dan sebagainya, atau kelayakan pandang untuk mengapresiasi\nbentuk atau nilai benda cagar budaya. Batas lingkungan situs ditetapkan sesuai\ndengan kebutuhan pengamanan ataupun pengembangan pemanfaatan benda\ncagar budaya sebagai objek wisata budaya.\nAyat (3)\nYang dimaksud dengan sistem pemintakatan (zoning) adalah penentuan\nwilayah mintakat situs dengan batas mintakat yang penentuannya disesuaikan\ndengan kebutuhan benda cagar budaya yang bersangkutan untuk tujuan\nperlindungan.\nSistem pemintakatan dapat terdiri dari mintakat inti atau mintakat cagar\nbudaya, yakni lahan situs; mintakan penyangga, yakni lahan di sekitar situs\nyang berfungsi sebagai penyangga bagi kelestarian situs, dan mintakat\npengembangan yakni lahan disekitar mintakat penyangga atau mintakat inti\nyang dapat dikembangkan untuk difungsikan sebagai sarana sosial, ekonomi,\ndan budaya yang tidak bertentangan dengan prinsip pelestarian benda cagar\nbudaya dan situsnya.",
+                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nBatas-batas situs ditetapkan berdasarkan atas batas asli bila masih ada; atau\nbila tidak ada lagi ditinjau dari keadaan geotopografis setempat seperti lereng,\nsungai, lembah, dan sebagainya, atau kelayakan pandang untuk mengapresiasi\nbentuk atau nilai benda cagar budaya. Batas lingkungan situs ditetapkan sesuai\ndengan kebutuhan pengamanan ataupun pengembangan pemanfaatan benda\ncagar budaya sebagai objek wisata budaya.\nAyat (3)\nYang dimaksud dengan sistem pemintakatan (zoning) adalah penentuan wilayah mintakat situs dengan batas mintakat yang penentuannya disesuaikan dengan kebutuhan benda cagar budaya yang bersangkutan untuk tujuan perlindungan.\nSistem pemintakatan dapat terdiri dari mintakat inti atau mintakat cagar budaya, yakni lahan situs; mintakan penyangga, yakni lahan di sekitar situs yang berfungsi sebagai penyangga bagi kelestarian situs, dan mintakat pengembangan yakni lahan disekitar mintakat penyangga atau mintakat inti yang dapat dikembangkan untuk difungsikan sebagai sarana sosial, ekonomi, dan budaya yang tidak bertentangan dengan prinsip pelestarian benda cagar budaya dan situsnya.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "f6579d4c-8a0e-4d71-8cde-b53d8bca6532",
+                    "id": "6555163d-4779-46ad-a6cf-1f566c5c4ea0",
                     "name": "Article 24",
                     "type": "article",
                     "children": {
-                        "id": "6a6368b5-0488-46aa-bda3-f51885e19ee5",
+                        "id": "8db3891f-5d21-4742-9773-52ffc8e49057",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nPenetapan situs di sini dapat dilakukan apabila dalam satu wilayah tertentu\nterdapat beberapa situs yang berdekatan dan saling mempunyai keterikatan\nkeruangan, sejarah, dan arkeologi.\nAyat (2)\nYang dimaksud dengan ketentuan peraturan perundang-undangan dalam ayat\nini, misalnya ketentuan yang mengatur masalah tata ruang, lingkungan hidup,\npertambangan, industri dan sebagainya, sehingga tidak terjadi benturan dalam\npengaturan benda cagar budaya dengan kepentingan lainnya dan/atau tidak\nmenimbulkan kerugian bagi masyarakat di sekitarnya.",
+                        "content": "\nAyat (1)\nPenetapan situs di sini dapat dilakukan apabila dalam satu wilayah tertentu terdapat beberapa situs yang berdekatan dan saling mempunyai keterikatan keruangan, sejarah, dan arkeologi.\nAyat (2)\nYang dimaksud dengan ketentuan peraturan perundang-undangan dalam ayat ini, misalnya ketentuan yang mengatur masalah tata ruang, lingkungan hidup, pertambangan, industri dan sebagainya, sehingga tidak terjadi benturan dalam pengaturan benda cagar budaya dengan kepentingan lainnya dan/atau tidak menimbulkan kerugian bagi masyarakat di sekitarnya.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "b8471e90-31cc-4f11-9d3d-93813ffdabf6",
+                    "id": "269d59f2-1c79-42de-8f18-4ef49f23c85e",
                     "name": "Article 25",
                     "type": "article",
                     "children": {
-                        "id": "d1a5a9ac-5576-4602-b8e2-d80c18c0f8b1",
+                        "id": "700a7aa8-7dd2-400e-b779-e2ec17e45a53",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1779,24 +1779,24 @@
                     }
                 },
                 {
-                    "id": "a95cebc1-8833-48bd-b093-1669b5fec72e",
+                    "id": "d5ec36d1-4710-45a8-8795-1c885d4cd1f4",
                     "name": "Article 26",
                     "type": "article",
                     "children": {
-                        "id": "52934f4c-0834-428f-b887-90f8465a254a",
+                        "id": "6906a9b6-956a-4816-a7ce-8624a6167acb",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nCukup jelas\nAyat (1)\nPemeliharaan benda cagar budaya dilakukan dengan cara perawatan sehari-hari\natau pengawetan (konservasi) bila perlu untuk mencegah/menanggulangi\nkerusakan dan/atau pelapukan benda cagar budaya akibat pengaruh faktor\nalami dan dalam rangka memelihara kelestarian benda cagar budaya.\nYang dimaksud dengan faktor hayati adalah faktor lingkungan yang\nmerupakan unsur hidup, yaitu tumbuh-tumbuhan, binatang, atau manusia;\nsedangkan faktor alami adalah faktor lingkungan non hayati yaitu\ngeotopografi, iklim atau bencana alam, seperti kebakaran, tanah longsor,\ngempa bumi, dan lain-lain. Pencemaran melekatnya unsur asing pada benda\ncagar budaya tidak dikehendaki, karena dapat menimbulkan kerusakan atau\npelapukan.\nAyat (2)\nPrinsip pelestarian benda cagar budaya meliputi aspek keaslian bentuk, bahan,\nteknik pengerjaan, dan tata letak untuk mempertahankan nilai sejarah dan\nbudayanya.\nAyat (3)\nCukup jelas",
+                        "content": "\nCukup jelas\n\nAyat (1)\nPemeliharaan benda cagar budaya dilakukan dengan cara perawatan sehari-hari\natau pengawetan (konservasi) bila perlu untuk mencegah/menanggulangi\nkerusakan dan/atau pelapukan benda cagar budaya akibat pengaruh faktor\nalami dan dalam rangka memelihara kelestarian benda cagar budaya.\nYang dimaksud dengan faktor hayati adalah faktor lingkungan yang\nmerupakan unsur hidup, yaitu tumbuh-tumbuhan, binatang, atau manusia;\nsedangkan faktor alami adalah faktor lingkungan non hayati yaitu\ngeotopografi, iklim atau bencana alam, seperti kebakaran, tanah longsor,\ngempa bumi, dan lain-lain. Pencemaran melekatnya unsur asing pada benda\ncagar budaya tidak dikehendaki, karena dapat menimbulkan kerusakan atau\npelapukan.\nAyat (2)\nPrinsip pelestarian benda cagar budaya meliputi aspek keaslian bentuk, bahan,\nteknik pengerjaan, dan tata letak untuk mempertahankan nilai sejarah dan\nbudayanya.\nAyat (3)\nCukup jelas",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "0d11b6ca-79ff-4542-8f0f-1536d930aa1b",
+                    "id": "70d8c946-da6e-48d2-b306-f74c1ddff358",
                     "name": "Article 27",
                     "type": "article",
                     "children": {
-                        "id": "0083ddd2-9fde-40f2-9d0a-96a9782b9cf1",
+                        "id": "450f30c5-0d84-493f-95c9-3293d69652a0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1805,11 +1805,11 @@
                     }
                 },
                 {
-                    "id": "495d56e2-378b-4875-9a9d-d43f139e5a3e",
+                    "id": "ebeafe82-ad70-4091-85cd-44efc4b95a96",
                     "name": "Article 28",
                     "type": "article",
                     "children": {
-                        "id": "8e2f272e-4509-418e-9a73-0f550b213182",
+                        "id": "842a4de9-9956-46cb-8ecb-236d2db9e2b5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1818,11 +1818,11 @@
                     }
                 },
                 {
-                    "id": "0f8de2b8-75a0-46b5-93b2-a8e2b79fdab8",
+                    "id": "7446b60b-c597-49c2-b981-49340093582f",
                     "name": "Article 29",
                     "type": "article",
                     "children": {
-                        "id": "43c729c2-5386-4f4d-b16f-7363136bb638",
+                        "id": "9248c027-5a32-465a-a56c-98d9ea79ca1f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1831,11 +1831,11 @@
                     }
                 },
                 {
-                    "id": "0689b3f7-5970-4e33-88ba-f4ba53806905",
+                    "id": "1a14e029-2934-4c42-a9f1-91c9fe03ea50",
                     "name": "Article 30",
                     "type": "article",
                     "children": {
-                        "id": "1713637c-44e9-4e5f-8b4f-59a238d72ee9",
+                        "id": "fb3e0216-4e2f-4d0f-92bb-94033eeb9992",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1844,24 +1844,24 @@
                     }
                 },
                 {
-                    "id": "f4a2c3ce-15f2-4b5a-b1aa-1df70144af37",
-                    "name": "Article31",
+                    "id": "db376272-013b-497a-8de8-5043f9439389",
+                    "name": "Article 31",
                     "type": "article",
                     "children": {
-                        "id": "18022585-2873-4306-8cc3-6fc30e337a2f",
+                        "id": "b14a5ffa-c66c-421a-8a17-a2629819e333",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nYang dimaksud dengan ketentuan peraturan perundang-undangan dalam ayat\nini, misalnya ketentuan mengenai pengiriman ekspor barang, ketentuan\nperpajakan, dan sebagainya.\nAyat (2)\nCukup jelas",
+                        "content": "\nAyat (1)\nYang dimaksud dengan ketentuan peraturan perundang-undangan dalam ayat ini, misalnya ketentuan mengenai pengiriman ekspor barang, ketentuan perpajakan, dan sebagainya.\nAyat (2)\nCukup jelas",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "ca648a16-b9bc-4e97-99e7-b20b6bcea3dc",
+                    "id": "bd85a8e7-0fc8-44ba-aca7-c48ee36dbf4f",
                     "name": "Article 32",
                     "type": "article",
                     "children": {
-                        "id": "5e35ed3d-af4c-45ae-9ac6-2e09e679f9a6",
+                        "id": "6bf4fd37-817a-4c69-84e0-b1fd11acaa38",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1870,24 +1870,24 @@
                     }
                 },
                 {
-                    "id": "e544661f-b000-4f29-8f06-0c74fa5eabf3",
+                    "id": "6510e828-d1d7-448a-aab5-11056f44665d",
                     "name": "Article 33",
                     "type": "article",
                     "children": {
-                        "id": "9e391a20-f7af-4656-b805-42e5b214d191",
+                        "id": "1878a347-aa81-4fd2-9093-4a2303e48e8c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nPenahanan terhadap benda cagar budaya atau yang diduga benda cagar budaya\ndilakukan apabila benda yang akan dipindahkan baik antar daerah maupun\nkeluar wilayah Republik Indonesia, dicurigai tidak memenuhi ketentuan\n\nCukup jelas\nperizinan pemindahan yang berlaku.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas",
+                        "content": "\nAyat (1)\nPenahanan terhadap benda cagar budaya atau yang diduga benda cagar budaya dilakukan apabila benda yang akan dipindahkan baik antar daerah maupun keluar wilayah Republik Indonesia, dicurigai tidak memenuhi ketentuan\nperizinan pemindahan yang berlaku.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "c0d0b6cd-5e3b-4455-8c98-ba56c8cf244e",
+                    "id": "3defbe8d-ea05-4f39-89dd-27fefbb7508a",
                     "name": "Article 34",
                     "type": "article",
                     "children": {
-                        "id": "ea74ba57-977f-455d-abdd-8d2ce48a8d03",
+                        "id": "421c65db-b743-4815-9a7c-e9804af4c9db",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1896,11 +1896,11 @@
                     }
                 },
                 {
-                    "id": "9ef975bf-71eb-46bf-b8b2-47032ec94001",
+                    "id": "4fd19138-71d6-4995-8e1a-ce1faf10e68b",
                     "name": "Article 35",
                     "type": "article",
                     "children": {
-                        "id": "1a92b47e-a7ed-4542-aa8c-bb7ab2d700ba",
+                        "id": "f0cd813b-a430-49f1-a649-68d05a6402af",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1909,11 +1909,11 @@
                     }
                 },
                 {
-                    "id": "f9f6d874-04ab-43e1-a3cb-e321b074b4a2",
+                    "id": "77f9f30c-3860-448d-83dd-93b139187473",
                     "name": "Article 36",
                     "type": "article",
                     "children": {
-                        "id": "3c56d95a-8952-4a3c-a08a-c740ba25f0a9",
+                        "id": "c8c7af12-1d3a-49f3-9b6d-5183cc15fd03",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1922,50 +1922,50 @@
                     }
                 },
                 {
-                    "id": "08e1bb8c-27c9-4e1b-bb16-922f24b77cad",
+                    "id": "1271e2ca-ee26-4030-9706-0afeafbfe27b",
                     "name": "Article37",
                     "type": "article",
                     "children": {
-                        "id": "c644cdfe-58ad-4f74-96c1-72610bd7fa06",
+                        "id": "3ffbd402-910c-46a3-8d61-011b5676c8fa",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nKetentuan dalam Pasal ini dimaksud agar masyarakat yang bersangkutan dapat melakukan kegiatan keagamaannya dengan lebih baik tanpa terganggu kelancarannya, baik dalam melakukan ibadah, maupun pemeliharaan tempat ibadah.\nAyat (2)\nCukup jelas",
+                        "content": "\nAyat (1)\nKetentuan dalam Pasal ini dimaksud agar masyarakat yang bersangkutan dapat\nmelakukan kegiatan keagamaannya dengan lebih baik tanpa terganggu\nkelancarannya, baik dalam melakukan ibadah, maupun pemeliharaan tempat\nibadah.\nAyat (2)\nCukup jelas",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "0aa642ce-c779-4598-b24e-229a3a52f24d",
+                    "id": "422f31e2-8dea-491a-bbba-2a317a6c4dc3",
                     "name": "Article 38",
                     "type": "article",
                     "children": {
-                        "id": "89cc124a-05ef-496d-bcb8-e16b813b31a8",
+                        "id": "817eab87-3828-48ad-97db-ba371a145248",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMeskipun dilarang untuk dimanfaatkan seperti fungsi semula, tetapi tidak tertutup kemungkinan untuk pemanfaatan lain sejauh tidak bertentangan dengan nilai penting yang terkandung dalam banda cagar budaya itu, misalnya untuk kepariwisataan, penelitian dan pengembangan ilmu pengetahuan, sejarah, dan kebudayaan.",
+                        "content": "\nMeskipun dilarang untuk dimanfaatkan seperti fungsi semula, tetapi tidak tertutup\nkemungkinan untuk pemanfaatan lain sejauh tidak bertentangan dengan nilai\npenting yang terkandung dalam banda cagar budaya itu, misalnya untuk\nkepariwisataan, penelitian dan pengembangan ilmu pengetahuan, sejarah, dan\nkebudayaan.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "90768ff9-c60d-4ab3-a5b2-bc88f0d01c6c",
+                    "id": "d845967d-56f6-40ee-9431-4cbb6d6da575",
                     "name": "Article 39",
                     "type": "article",
                     "children": {
-                        "id": "061810ae-85b8-4fc5-a6c1-26e27e267c24",
+                        "id": "c789d784-10c8-4b23-952b-c5492df12c07",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1)\nPemanfaatan benda cagar budaya dengan cara penggandaan sebagaimana\ndimaksud dalam ayat ini tidak mengurangi kewajiban untuk tetap tunduk\nkepada ketentuan sebagaimana dimaksud dalam Undang-undangan Nomor 6\ntahun 1982 tentang Hak Cipta, sebagaimana telah diubah dengan\nUndang-undang Nomor 7 Tahun 1987 tentang Perubahan atas Undang-undang\nNomor 6 Tahun 1982 tentang Hak Cipta.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas",
+                        "content": "\nAyat (1)\nPemanfaatan benda cagar budaya dengan cara penggandaan sebagaimana dimaksud dalam ayat ini tidak mengurangi kewajiban untuk tetap tunduk kepada ketentuan sebagaimana dimaksud dalam Undang-undangan Nomor 6 tahun 1982 tentang Hak Cipta, sebagaimana telah diubah dengan Undang-undang Nomor 7 Tahun 1987 tentang Perubahan atas Undang-undang Nomor 6 Tahun 1982 tentang Hak Cipta.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "8deb0daa-b389-4eb7-8305-99e35d43273d",
+                    "id": "54d9362a-93a7-4b4a-9058-3f960a52dc5d",
                     "name": "Article 40",
                     "type": "article",
                     "children": {
-                        "id": "a6c9ebbf-bbb0-4145-9564-6c10ad11b87a",
+                        "id": "e78ac89a-3bc8-40e9-aa11-1e2d2d762c0a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1974,11 +1974,11 @@
                     }
                 },
                 {
-                    "id": "a4a0c6e7-0c07-4f3f-afa5-9899a16b9c7f",
+                    "id": "9dc45b63-8a69-46e3-bb69-87db5b7c6145",
                     "name": "Article 41",
                     "type": "article",
                     "children": {
-                        "id": "57d203a9-ea40-407a-aaad-344bd01c9ad3",
+                        "id": "dc394a03-9655-4ed8-810e-76ffb1af333b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1987,11 +1987,11 @@
                     }
                 },
                 {
-                    "id": "020c17f2-c3d3-4a05-8342-04c890195919",
+                    "id": "fe2c9ea1-1650-4dbd-9f3a-9d3f1ff477c9",
                     "name": "Article 42",
                     "type": "article",
                     "children": {
-                        "id": "dc716fc4-193a-4f06-af51-3767854b64d4",
+                        "id": "ed1ab4a7-4e41-4129-9f16-b4904ff8fb55",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -2000,11 +2000,11 @@
                     }
                 },
                 {
-                    "id": "ae264235-2fd8-4101-9ce5-f4f8f797977a",
+                    "id": "c0aedd86-d552-48c4-8bf3-c79e356caef5",
                     "name": "Article 43",
                     "type": "article",
                     "children": {
-                        "id": "0d2e52c4-1003-4e9e-9a94-ee1774a18acf",
+                        "id": "c47c84af-1e38-407b-ae3e-4598ff949338",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -2013,11 +2013,11 @@
                     }
                 },
                 {
-                    "id": "e94f8646-e48c-489f-b20d-16af89105fee",
+                    "id": "04a77d48-9b50-46c2-9bc6-b5cdfc1c9e2f",
                     "name": "Article 44",
                     "type": "article",
                     "children": {
-                        "id": "e19979bb-f325-4bce-8724-e9f8a039a14e",
+                        "id": "34229700-63bf-4888-af35-ef181991b3b6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -2026,11 +2026,11 @@
                     }
                 },
                 {
-                    "id": "c99aefbf-9c52-4a9a-a089-871701db3ee0",
+                    "id": "4ae5d487-38c8-49b5-a620-48e0d9b3a21c",
                     "name": "Article 45",
                     "type": "article",
                     "children": {
-                        "id": "db74d061-fd70-4d36-892c-abc641324a95",
+                        "id": "0350e268-0356-4428-9244-4fec7c1cb3da",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -2039,24 +2039,24 @@
                     }
                 },
                 {
-                    "id": "809e8a17-2366-47a4-895f-e96b97a26734",
+                    "id": "696e3fb9-0e09-480a-aaa7-d17626b955f2",
                     "name": "Article 46",
                     "type": "article",
                     "children": {
-                        "id": "216edbf1-e963-44dd-ae9e-bfecd563aaac",
+                        "id": "4ff6cbf5-734f-404f-84af-5fbcc89f7db2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nKetentuan-ketentuan yang dimaksud dalam Pasal ini, misalnya ketentuan-ketentuan\nsebagaimana dimaksud dalam Keputusan Presiden Nomor 43 Tahun 1989 tentang\nPanitia Nasional Pengangkatan dan Pemanfaatan Benda Berharga, atau\nketentuan-ketentuan pelaksanaan lain yang berkaitan.",
+                        "content": "\nCukup jelas\nKetentuan-ketentuan yang dimaksud dalam Pasal ini, misalnya ketentuan-ketentuan\nsebagaimana dimaksud dalam Keputusan Presiden Nomor 43 Tahun 1989 tentang\nPanitia Nasional Pengangkatan dan Pemanfaatan Benda Berharga, atau\nketentuan-ketentuan pelaksanaan lain yang berkaitan.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "6dd471fe-e241-4284-8b9a-a339bd20ba3b",
+                    "id": "cbb64e7c-c748-4c7e-9604-94cf8f19417d",
                     "name": "Article47",
                     "type": "article",
                     "children": {
-                        "id": "4ac9dc7f-90b8-41c3-ac2f-0f792db234e0",
+                        "id": "f9f8c615-14af-49e5-99e3-091092a56a46",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",

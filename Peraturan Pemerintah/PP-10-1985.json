@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "29601a85-994a-4147-b19f-d4a8e96c30d9",
+            "id": "53ed4031-5508-49a2-a2c3-e853d6607375",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "55f1b964-e89c-4581-b5d1-32810071357e",
+                "id": "2d1caf78-ce62-443e-b878-25d99f3c1003",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "bb0fa6b7-67f8-4ab1-843e-2c682245b990",
+            "id": "a5c882d8-ef95-4864-8a08-90e86f8ff730",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "81b8b8a8-ef3a-4a65-8f1e-98a6bc93650f",
+                "id": "a98ab41b-13ff-441e-9e6c-51b5ecf5bda5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,28 +27,28 @@
             }
         },
         {
-            "id": "45cf6f6d-fa1d-4b9f-889b-ae4465b34c84",
+            "id": "71065685-c03d-4944-8654-37c1569d5c9d",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "8223b8a1-23a9-42c9-8f77-441bde900d8c",
+                "id": "f9275ac1-571e-4f62-8d3e-636d4ceb886e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Dengan berlakunya Peraturan Pemerintah ini dinyatakan tidak berlaku lagi :\na. Peraturan Pemerintah Nomor 15 Tahun 1974 tentang Gaji/Gaji Kehormatan/Uang\nKehormatan Ketua, Wakil Ketua, Dan Anggota Lembaga Tertinggi/Tinggi Negara\n(Lembaran Negara Tahun 1974 Nomor 18);\nb. Peraturan Pemerintah Nomor 11 Tahun 1977 tentang Perubahan Atas Peraturan\nPemerintah Nomor 15 Tahun 1974 tentang Gaji/Gaji Kehormatan/Uang Kehormatan\nKetua, Wakil Ketua, Dan Anggota Lembaga Tertinggi/Tinggi Negara (Lembaran Negara\nTahun 1977 Nomor 15);\nc. Peraturan Pemerintah Nomor 44 Tahun 1980 tentang Perubahan Atas Peraturan\nPemerintah Nomor 15 Tahun 1974 tentang Gaji/Gaji Kehormatan/Uang Kehormatan\nKetua, Wakil Ketua, Dan Anggota Lembaga Tertinggi/Tinggi Negara (Lembaran Negara\nTahun 1980 Nomor 72).",
+                "content": "Dengan berlakunya Peraturan Pemerintah ini dinyatakan tidak berlaku lagi:\na. Peraturan Pemerintah Nomor 15 Tahun 1974 tentang Gaji/Gaji Kehormatan/Uang Kehormatan Ketua, Wakil Ketua, Dan Anggota Lembaga Tertinggi/Tinggi Negara (Lembaran Negara Tahun 1974 Nomor 18);\nb. Peraturan Pemerintah Nomor 11 Tahun 1977 tentang Perubahan Atas Peraturan Pemerintah Nomor 15 Tahun 1974 tentang Gaji/Gaji Kehormatan/Uang Kehormatan Ketua, Wakil Ketua, Dan Anggota Lembaga Tertinggi/Tinggi Negara (Lembaran Negara Tahun 1977 Nomor 15);\nc. Peraturan Pemerintah Nomor 44 Tahun 1980 tentang Perubahan Atas Peraturan Pemerintah Nomor 15 Tahun 1974 tentang Gaji/Gaji Kehormatan/Uang Kehormatan Ketua, Wakil Ketua, Dan Anggota Lembaga Tertinggi/Tinggi Negara (Lembaran Negara Tahun 1980 Nomor 72).",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "08919459-4614-45b6-ab12-5eee3325c60e",
+            "id": "0c90f785-cd00-419e-bebc-ba074967e445",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "631d13bb-41e6-4ed9-a072-3a163fb83b2e",
+                "id": "534c4533-8f6b-4e9f-9c9b-46fd241b2988",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1985.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini\ndengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1985.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

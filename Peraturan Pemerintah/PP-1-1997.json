@@ -1,18 +1,18 @@
 {
     "results": [
         {
-            "id": "a3dc428c-64d9-4e8f-a6fb-1cacc5787a0b",
+            "id": "d1313c55-a84b-4f86-9b34-3491aaa17457",
             "name": "Chapter I",
             "title": "\nPENGALIHAN BENTUK DAN PEMBUBARAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "83cac7dd-544d-4f7a-89b1-b604b5b03527",
+                    "id": "eac78f6b-2a32-4b80-8953-8fc9301200c2",
                     "name": "Article 1",
                     "type": "article",
                     "children": [
                         {
-                            "id": "7c5fee44-01f7-4bfc-81bc-19885b8c8d9c",
+                            "id": "7323d39e-ae96-4330-b90e-c0e173532afe",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -20,7 +20,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b1adabd2-0f59-4b3c-8dd6-55c8dd1a6339",
+                            "id": "83b0c41f-926f-4326-b646-9244e966588c",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -32,67 +32,67 @@
             ]
         },
         {
-            "id": "d6d89ff9-6129-4723-9fde-04a2fc37be92",
+            "id": "c96ef12e-f8cc-4644-ac28-79203a1aad05",
             "name": "Chapter II",
             "title": "\nMAKSUD DAN TUJUAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "91801a53-a6bc-4d9b-90ef-f9b1207363ff",
+                    "id": "5d143782-c162-4043-9435-a6c0298416dc",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "4a73d604-b4f2-48e0-af49-c6e68b942253",
+                        "id": "a4a076fc-ecd3-4fa6-beff-3ab89fd29397",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMaksud dan tujuan Perusahaan Perseroasn (PERSERO) sebagaimana\ndimaksud dalam Pasal 1 adalah menyelenggarakan:\na. usaha dalam bidang penyediaan produk biologi dan farmasi dalam\narti yang seluas-luasnya untuk memenuhi kebutuhan umum\nsekaligus memupuk keuntungan berdasarkan prinsip pengelolaan\nperusahaan;\nb. usaha-usaha lain yang ditetapkan Pemerintah guna menunjang\nkegiatan sebagaimana dimaksud dalam huruf a.",
+                        "content": "\nMaksud dan tujuan Perusahaan Perseroasn (PERSERO) sebagaimana\ndimaksud dalam Pasal 1 adalah menyelenggarakan:\na.  usaha dalam bidang penyediaan produk biologi dan farmasi dalam\n    arti yang seluas-luasnya untuk memenuhi kebutuhan umum\n    sekaligus memupuk keuntungan berdasarkan prinsip pengelolaan\n    perusahaan;\nb.  usaha-usaha lain yang ditetapkan Pemerintah guna menunjang\n    kegiatan sebagaimana dimaksud dalam huruf a.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "9fc8d046-71a6-47eb-bcab-0419693c46ff",
+            "id": "73530cf3-a05a-4a6b-a279-3f6d761cdf27",
             "name": "Chapter III",
             "title": "\nMODAL PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6ca7486b-c352-4db0-b34a-d7fd75686d01",
+                    "id": "da1546ce-061b-4198-bc2e-0d8d2946489f",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "66ef97d2-90f4-4362-a776-ca346dd65c63",
+                            "id": "084a87e2-5cf9-4728-9008-e9b743cae2e9",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Modal Perusahaan Perseroan (PERSERO) yang ditempatkan dan\ndisetor pada saat pendiriannya berasal dari kekayaan negara yang\ntertanam dalam Perusahaan Umum (PERUM) Bio Farma dan\nProyek Pembangunan fasilitas produksi vaksin polio dan campak\nPerum Bio Farma.",
+                            "content": " Modal Perusahaan Perseroan (PERSERO) yang ditempatkan dan\n    disetor pada saat pendiriannya berasal dari kekayaan negara yang\n    tertanam dalam Perusahaan Umum (PERUM) Bio Farma dan\n    Proyek Pembangunan fasilitas produksi vaksin polio dan campak\n    Perum Bio Farma.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7d317d8e-d564-481a-901e-ab2e6758d374",
+                            "id": "5ec42ad2-4269-4f09-9d49-f50bdc4e2abe",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Nilai kekayaan negara sebagaimana dimaksud dalam ayat (1)\nditetapkan oleh Menteri Keuangan berdasarkan hasil perhitungan\nbersama oleh Departemen Keuangan dan Departemen Kesehatan.",
+                            "content": " Nilai kekayaan negara sebagaimana dimaksud dalam ayat (1)\n    ditetapkan oleh Menteri Keuangan berdasarkan hasil perhitungan\n    bersama oleh Departemen Keuangan dan Departemen Kesehatan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "aeb21e25-5e8f-4a93-84c9-a04b5d0b3ec1",
+                            "id": "9d65ff29-7582-4919-8620-9528b8493828",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Ketentuan-ketentuan lain mengenai permodalan Perusahaan\nPerseroan (PERSERO) diatur dalam Anggaran Dasarnya, termasuk\nketentuan mengenai modal dasar Perusahaan Perseroan\n(PERSERO) yang terbagi atas saham-saham sesuai dengan\nketentuan Peraturan Pemerintah Nomor 12 Tahun 1969\nsebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24\nTahun 1972.",
+                            "content": " Ketentuan-ketentuan lain mengenai permodalan Perusahaan\n    Perseroan (PERSERO) diatur dalam Anggaran Dasarnya, termasuk\n    ketentuan mengenai modal dasar Perusahaan Perseroan\n    (PERSERO) yang terbagi atas saham-saham sesuai dengan\n    ketentuan Peraturan Pemerintah Nomor 12 Tahun 1969\n    sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24\n    Tahun 1972.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2e47c09c-51b6-414f-aa13-0270099c56d0",
+                            "id": "58dc2ccf-3537-45b8-901c-970a0d5a05ba",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Neraca pembukaan Perusahaan Perseroan (PERSERO) ditetapkan\noleh Menteri Keuangan.\n",
+                            "content": " Neraca pembukaan Perusahaan Perseroan (PERSERO) ditetapkan\n    oleh Menteri Keuangan.\n",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -100,17 +100,17 @@
             ]
         },
         {
-            "id": "3e8af548-9acf-4c44-baa0-8a6f532f3555",
+            "id": "e6905a8f-0a17-479d-ba2e-9efde764b619",
             "name": "Chapter IV",
             "title": "\nPELAKSANAAN PENDIRIAN PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ea4e8ad3-b72f-4325-bd5b-d7b5871e3025",
+                    "id": "eea420c0-48c8-4ba9-a552-a6c71c215646",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "7e7084a9-2505-4891-b2e3-11f0f64adc06",
+                        "id": "4137622a-ae32-4a79-a31c-35f7483487cb",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -119,12 +119,12 @@
                     }
                 },
                 {
-                    "id": "b55d25c4-9f9e-4f28-9a8e-69efeef0747e",
+                    "id": "009fb105-c2bf-4572-b0c0-1c67c9444a0c",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "772c43c6-9e2f-4e50-93c4-d4671b6291e6",
+                            "id": "177a3db0-934c-41b8-b405-1bc3fe60238a",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -132,7 +132,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "81f3b314-ec44-4ce8-8bd3-f83fefc391ca",
+                            "id": "55c78a9b-46c1-433d-8785-96e6a7561246",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -144,17 +144,17 @@
             ]
         },
         {
-            "id": "f9ec1d6b-6bc7-4648-9b03-f1e2aecc60d3",
+            "id": "fd8e5e26-4f35-4ee6-bbf6-b8f0e1531b7a",
             "name": "Chapter V",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f6b17ad6-82b5-4232-8687-859b8974b8c4",
+                    "id": "d476fdd9-dbc8-475e-932b-18f9c6f72ec2",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "cdc2a651-9148-4fe6-9e10-f849148fbc32",
+                        "id": "a03e16e5-fcc2-41ca-8522-5460f3d421c1",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -163,11 +163,11 @@
                     }
                 },
                 {
-                    "id": "13008426-de07-4027-afdc-4cc06327acdd",
+                    "id": "e108a17f-ae55-427a-9d50-8b5a332ba246",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "cec8f301-c911-42ac-9b97-aae552c66b7e",
+                        "id": "bbe92f00-4c3e-4f0d-8b5e-02d255e99522",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -176,11 +176,11 @@
                     }
                 },
                 {
-                    "id": "b625574e-f968-4dc0-8204-5ac8806d3dfe",
+                    "id": "80ecdde9-d2d3-4ec2-8429-942e59918a1f",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "a7bb6794-5783-41d0-a92e-5899755b2cdb",
+                        "id": "c0071e5b-4dc9-462b-81d5-2971c067d29b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",

@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "2ea75ea4-8fce-4341-9f4d-4047a1be6ee4",
+            "id": "a0e1cb80-5111-4795-8912-661bf97a701e",
             "name": "Chapter I",
             "title": "\nPENYERTAAN MODAL NEGARA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2c63e335-e294-436e-be20-da22c3570a15",
+                    "id": "7d47efa2-758b-4fab-8851-05dcf094bb87",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "6be78472-208c-4958-8f98-3f48c4a4f755",
+                        "id": "deb40fe7-129b-49d0-9772-efd1df8d8282",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -22,17 +22,17 @@
             ]
         },
         {
-            "id": "999ef187-1240-4a74-95b1-ee5145e2afba",
+            "id": "3d71d424-4e20-408e-b35a-3e5d91d14815",
             "name": "Chapter II",
             "title": "\nMAKSUD DAN TUJUAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "feedb7ce-83f1-4b88-8582-86947a6445cc",
+                    "id": "4b8c2254-c86b-46b9-ba4f-18f979d933eb",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "53f907fe-5a68-48c0-8eec-34f714e790e3",
+                        "id": "0ce12491-9766-497d-888b-bb9ce3e07306",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -43,42 +43,42 @@
             ]
         },
         {
-            "id": "89720701-17a2-4a18-8c8d-93391b026e4c",
+            "id": "79a9aca2-8291-4d34-a44b-54600a7217d8",
             "name": "Chapter III",
             "title": "\nMODAL PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "434c6232-d879-4549-a41a-d09047e76c76",
+                    "id": "75c544e0-6867-46bc-addb-c825ab7a1b25",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "38174370-72c0-40c4-be4b-940578239c72",
+                            "id": "5d029dad-95a0-4255-9206-fb96cd112b0d",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Modal PERSERO sebagaimana dimaksud dalam Pasal 1 merupakan penyertaan Negara Republik Indonesia yaitu Balai Yasa Kereta Api di Madiun yang semula berada dalam Perusahaan Jawatan Kereta Api, sebagai sebagian dari kekayaan Negara yang ditempatkan dan disetor pada saat pendiriannya.",
+                            "content": " Modal PERSERO sebagaimana dimaksud dalam Pasal 1 merupakan\npenyertaan Negara Republik Indonesia yaitu Balai Yasa Kereta Api di\nMadiun yang semula berada dalam Perusahaan Jawatan Kereta Api,\nsebagai sebagian dari kekayaan Negara yang ditempatkan dan disetor pada\nsaat pendiriannya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "da5a8c0b-b09b-4b07-907e-5f59a6eb230c",
+                            "id": "76f2006a-8756-47bf-bc88-52273a84c82b",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Nilai Kekayaan Negara yang akan dipergunakan sebagai penyertaan modal saham PERSERO ditetapkan bersama oleh Menteri Keuangan dan Menteri Perhubungan.",
+                            "content": " Nilai Kekayaan Negara yang akan dipergunakan sebagai penyertaan modal\nsaham PERSERO ditetapkan bersama oleh Menteri Keuangan dan Menteri\nPerhubungan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "df928ce0-523a-493c-a011-76738904ea71",
+                            "id": "307602f9-36f1-4e89-8a11-924eee98c066",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Ketentuan-ketentuan lain mengenai permodalan PERSERO diatur dalam Anggaran Dasarnya, termasuk ketentuan mengenai modal dasar PERSERO yang terbagi atas saham-saham sesuai dengan ketentuan Pasal 1 Peraturan Pemerintah Nomor 24 Tahun 1971.",
+                            "content": " Ketentuan-ketentuan lain mengenai permodalan PERSERO diatur dalam\nAnggaran Dasarnya, termasuk ketentuan mengenai modal dasar PERSERO\nyang terbagi atas saham-saham sesuai dengan ketentuan Pasal 1 Peraturan\nPemerintah Nomor 24 Tahun 1971.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5e7885e9-7e07-459c-9bef-77341c447b99",
+                            "id": "e022b3c3-df62-493b-a33e-2d5f9fb2209f",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -90,31 +90,31 @@
             ]
         },
         {
-            "id": "d5fdee0d-8a7d-4cf3-9eb8-64dd5bf88adc",
+            "id": "859de31f-126f-4c59-b571-f99484e320c1",
             "name": "Chapter IV",
             "title": "\nPELAKSANAAN, PENDIRIAN PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "17e95016-4551-4504-a759-d914a3174561",
+                    "id": "9b3da453-26a9-4ea8-b7c3-77b85ce8b089",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "0c441502-f664-4623-9ac1-817223914517",
+                        "id": "5c466238-f1e0-4a48-a5da-c90481369041",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPelaksanaan pendirian PERSERO sebagaimana dimaksud dalam Pasal 1 dilakukan menurut ketentuan-ketentuan Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor 23) sebagaimana telah beberapa kali diubah dan ditambah, terakhir dengan Undang-undang Nomor 4 Tahun 1971, dengan memperhatikan ketentuan-ketentuan yang tercantum dalam Peraturan Pemerintah Nomor 12 Tahun 1969 juncto Peraturan Pemerintah Nomor 24 Tahun 1972.",
+                        "content": "\nPelaksanaan pendirian PERSERO sebagaimana dimaksud dalam Pasal 1\ndilakukan menurut ketentuan-ketentuan Kitab Undang-undang Hukum Dagang\n(Staatsblad Tahun 1847 Nomor 23) sebagaimana telah beberapa kali diubah dan\nditambah, terakhir dengan Undang-undang Nomor 4 Tahun 1971, dengan\nmemperhatikan ketentuan-ketentuan yang tercantum dalam Peraturan Pemerintah\nNomor 12 Tahun 1969 juncto Peraturan Pemerintah Nomor 24 Tahun 1972.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "695270b3-d705-48d8-bc24-92b2962ec259",
+                    "id": "ccb4a574-3bca-47af-896b-2d8b717743e2",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e28f034e-5692-4c3d-99b9-c564f7b7c260",
+                            "id": "065815b3-d209-4dd5-a446-ec765af8e6cc",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -122,7 +122,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "02c00f80-11bf-458d-8785-825b266eb3a6",
+                            "id": "b49f6b7a-b0aa-4377-90d1-b4098e102d3c",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -130,7 +130,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "3560def6-61b9-48d4-b21f-684813daa5da",
+                            "id": "60cd51b8-31b5-4449-8ec9-b94f9a571a19",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -142,30 +142,30 @@
             ]
         },
         {
-            "id": "638faf7f-9d5a-4e71-800d-14d03e79367d",
+            "id": "aa906053-ceb3-451b-8b61-cf61f9dad1d8",
             "name": "Chapter V",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "04da5937-db5b-4915-add9-4994d65aa6db",
+                    "id": "d8d4f96d-8104-4ef3-9f45-27c4893bc9a6",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "bcdc3668-362a-4243-bc66-124073e18118",
+                        "id": "72406f25-250e-4f42-b543-3e070d9ebb39",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nHal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini diatur lebih lanjut tersendiri.",
+                        "content": "\nHal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini diatur lebih\nlanjut tersendiri.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "7bf9034f-c0bf-4fe7-805d-de5e7af83a4f",
+                    "id": "acd7348c-9232-4c65-8f51-f53a8088e143",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "9a09c2d2-0c1a-46c8-b336-634862a49634",
+                        "id": "5437ec51-ed0d-4d77-bde2-dd23c87d8bcc",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -182,15 +182,15 @@
         "Tentang": "PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN\nPERUSAHAAN PERSEROAN (PERSERO) DI BIDANG INDUSTRI KERETA API",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa untuk menunjang pembangunan ekonomi Nasional khususnya di\nbidang perkereta-apian dengan melakukan kegiatan alih teknologi maju dalam\npembuatan gerbong, kereta, lokomotip, dan komponen-komponen\npendukungnya, dipandang perlu mendirikan Perusahaan Perseroan\n(PERSERO) di bidang Industri Kereta Api sebagaimana dimaksud data Pasal\n2 ayat (3) Undang-undang Nomor 9 Tahun 1969 yang berusaha di bidang\nIndustri Kereta Api;",
-            "b": " bahwa Balai Yasa di Madiun memiliki potensi untuk ditingkatkan dari\nfasilitas pemeliharaan menjadi fasilitas pembuatan dan karenanya perlu\nmemisahkan Balai Yasa dari Perusahaan Jawatan Kereta Api untuk dijadikan\nPerusahaan Perseroan (PERSERO);",
-            "c": " bahwa sesuai dengan ketentuan Pasal 2 ayat (1) Peraturan Pemerintah Nomor\n12 Tahun 1969, penyertaan modal Negara dalam rangka pendirian\nPerusahaan Perseroan (PERSERO) tersebut harus diatur dengan Peraturan\nPemerintah;"
+            "a": " bahwa untuk menunjang pembangunan ekonomi Nasional khususnya di bidang perkereta-apian dengan melakukan kegiatan alih teknologi maju dalam pembuatan gerbong, kereta, lokomotip, dan komponen-komponen pendukungnya, dipandang perlu mendirikan Perusahaan Perseroan (PERSERO) di bidang Industri Kereta Api sebagaimana dimaksud data Pasal 2 ayat (3) Undang-undang Nomor 9 Tahun 1969 yang berusaha di bidang Industri Kereta Api;",
+            "b": " bahwa Balai Yasa di Madiun memiliki potensi untuk ditingkatkan dari fasilitas pemeliharaan menjadi fasilitas pembuatan dan karenanya perlu memisahkan Balai Yasa dari Perusahaan Jawatan Kereta Api untuk dijadikan Perusahaan Perseroan (PERSERO);",
+            "c": " bahwa sesuai dengan ketentuan Pasal 2 ayat (1) Peraturan Pemerintah Nomor 12 Tahun 1969, penyertaan modal Negara dalam rangka pendirian Perusahaan Perseroan (PERSERO) tersebut harus diatur dengan Peraturan Pemerintah;"
         },
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor 23)\nsebagaimana telah beberapa kali diubah dan ditambah, terakhir dengan\nUndang-undang Nomor 4 Tahun 1971 (Lembaran Negara Tahun 1971\nNomor 20, Tambahan Lembaran Negara Nomor 2959);",
-            "3": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 (Lembaran\nNegara Tahun 1969 Nomor 16, Tambahan Lembaran Negara Nomor 2890).\ntentang Bentuk-bentuk Usaha Negara menjadi Undang-undang (Lembaran\nNegara Tahun 1969 Nomor 40, Tambahan Lembaran Negara Nomor 2904);"
+            "2": " Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor 23) sebagaimana telah beberapa kali diubah dan ditambah, terakhir dengan Undang-undang Nomor 4 Tahun 1971 (Lembaran Negara Tahun 1971 Nomor 20, Tambahan Lembaran Negara Nomor 2959);",
+            "3": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan Pemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 (Lembaran Negara Tahun 1969 Nomor 16, Tambahan Lembaran Negara Nomor 2890). tentang Bentuk-bentuk Usaha Negara menjadi Undang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan Lembaran Negara Nomor 2904);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENYERTAAN MODAL\nNEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN PERUSAHAAN\nPERSEROAN (PERSERO) DI BIDANG INDUSTRI KERETA API.",
         "tanggal sah": ""

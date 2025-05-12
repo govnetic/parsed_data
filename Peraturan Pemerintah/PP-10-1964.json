@@ -1,63 +1,63 @@
 {
     "results": [
         {
-            "id": "be32ef06-904b-4c53-a64a-cdcb43438b7c",
+            "id": "1c558467-e5b9-4468-93ec-e2e1980e9494",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "35801a1f-ceee-4796-8f8c-e22fa699053e",
+                "id": "61ebd24f-87cb-4da4-8238-b8baa3b8113e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Bagian dari penerimaan pajak pendapatan (Ordonansi Pajak Pendapatan 1944, Staatsblad 1944 No. 17 yang terakhir diubah dngan Undang-undang No. 55 Prp tahun 1960, Lembaran-Negara tahun 1960 No. 173) seperti dimaksudkan dalam pasal 4 ayat (1) huruf a Undang-undang Perimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956) ditetapkan sebesar 75% (tujuh puluh lima persen) bagi Daerah, kecuali Daerah Khusus Ibu Kota Jakarta Raya, dan bagian itu diserahkan kepada masing-masing Daerah tingkat I dalam wilayah mana pajak tersebut dipungut.\n(2) Kepada Daerah Khusus Ibu Kota Jakarta Raya diserahkan 10% (sepuluh persen) dari penerimaan pajak pendapatan dimaksud, yang dipungut dalam wilayahnya.",
+                "content": "(1) Bagian dari penerimaan pajak pendapatan (Ordonansi Pajak Pendapatan 1944, Staatsblad\n1944 No. 17 yang terakhir diubah dngan Undang-undang No. 55 Prp tahun 1960, Lembaran-\nNegara tahun 1960 No. 173) seperti dimaksudkan dalam pasal 4 ayat (1) huruf a Undang-\nundang Perimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956) ditetapkan\nsebesar 75% (tujuh puluh lima persen) bagi Daerah, kecuali Daerah Khusus Ibu Kota Jakarta\nRaya, dan bagian itu diserahkan kepada masing-masing Daerah tingkat I dalam wilayah\nmana pajak tersebut dipungut.\n(2)\nKepada Daerah Khusus Ibu Kota Jakarta Raya diserahkan 10% (sepuluh persen) dari\npenerimaan pajak pendapatan dimaksud, yang dipungut dalam wilayahnya.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "9517ed28-901a-4f3f-b292-f4a0ee778849",
+            "id": "fffb959e-ee70-47d7-aa5a-65e31db27fa5",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "64f4f543-3d59-49fb-87c5-f84d4276ac77",
+                "id": "550a65b8-d376-4d8c-9751-6d90f078c290",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Bagian dari penerimaan pajak meterai (Aturan bea meterai 1921, Staatsblad 1921 No. 498 yang terakhir diubah dengan Undang-undang No. 24 Prp tahun 1959, Lembaran-Negara tahun 1959 No. 141) seperti dimaksudkan dalam pasal 4 ayat (1) huruf c Undang-undang Perimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956) ditetapkan sebesar 75% (tujuh puluh lima persen) bagi Daerah, kecuali Daerah Khusus Ibu Kota Jakarta Raya dan bagian itu diserahkan kepada masing-masing Daerah tingkat I, dalam wilayah mana pajak tersebut dipungut.\n(2) Kepada Daerah Khusus Ibu Kota Jakarta Raya diserahkan 10% (sepuluh persen) dari penerimaan pajak meterai dimaksud, yang dipungut dalam wilayahnya.",
+                "content": "(1) Bagian dari penerimaan pajak meterai (Aturan bea meterai 1921, Staatsblad 1921 No. 498\nyang terakhir diubah dengan Undang-undang No. 24 Prp tahun 1959, Lembaran-Negara\ntahun 1959 No. 141) seperti dimaksudkan dalam pasal 4 ayat (1) huruf c Undang-undang\nPerimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956) ditetapkan sebesar 75%\n(tujuh puluh lima persen) bagi Daerah, kecuali Daerah Khusus Ibu Kota Jakarta Raya dan\nbagian itu diserahkan kepada masing-masing Daerah tingkat I, dalam wilayah mana pajak\ntersebut dipungut.\n(2)\nKepada Daerah Khusus Ibu Kota Jakarta Raya diserahkan 10% (sepuluh persen) dari\npenerimaan pajak meterai dimaksud, yang dipungut dalam wilayahnya.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "959ee562-30f5-4bc1-9423-c1549b7a383b",
+            "id": "88c875ea-ca26-46d4-a385-47d74e87d722",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "057ca46c-1e7d-420c-9b0e-ac07d8dead19",
+                "id": "d0a0cfe3-30c9-45d7-85e7-459aa1cf15a5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Bagian dari penerimaan pajak kekayaan (Ordonansi Pajak Kekayaan 1932, Staatsblad 1932 No. 405 yang terakhir diubah dengan Undang-undang No. 24 Prp tahun 1959, Lembaran-Negara tahun 1959 No. 141) seperti dimaksudkan dalam pasal 4 ayat (2) Undang-undang Perimbangan Keuangan 1957 (undang-undang No. 32 tahun 1956), ditetapkan sebesar 75% (tujuh puluh lima persen) bagi Daerah, kecuali Daerah Khusus Ibu Kota Jakarta Raya, dan bagian itu diserahkan kepada masing-masing Daerah tingkat I, dalam wilayah mana pajak tersebut dipungut.\n(2) Kepada Daerah Khusus Ibu Kota Jakarta Raya diserahkan 10% (sepuluh persen) dari penerimaan pajak kekayaan dimaksud, yang dipungut dalam wilayahnya.",
+                "content": "(1) Bagian dari penerimaan pajak kekayaan (Ordonansi Pajak Kekayaan 1932, Staatsblad 1932\nNo. 405 yang terakhir diubah dengan Undang-undang No. 24 Prp tahun 1959, Lembaran-\nNegara tahun 1959 No. 141) seperti dimaksudkan dalam pasal 4 ayat (2) Undang-undang\nPerimbangan Keuangan 1957 (undang-undang No. 32 tahun 1956), ditetapkan sebesar 75%\n(tujuh puluh lima persen) bagi Daerah, kecuali Daerah Khusus Ibu Kota Jakarta Raya, dan\nbagian itu diserahkan kepada masing-masing Daerah tingkat I, dalam wilayah mana pajak\ntersebut dipungut.\n(2) Kepada Daerah Khusus Ibu Kota Jakarta Raya diserahkan 10% (sepuluh persen) dari\npenerimaan pajak kekayaan dimaksud, yang dipungut dalam wilayahnya.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "2033f3fa-51b2-4b69-afe4-1198456bb57c",
+            "id": "a51eed55-0f9b-468e-a30b-3d8c517340c9",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "68d86830-e229-401f-aef9-d0e8e47f1772",
+                "id": "960b12ce-e3d7-4233-b3d8-c2a498091948",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Bagian dari penerimaan pajak perseroan (Ordonansi Pajak Perseroan 1925, Staatsblad 1925 No. 319 yang terakhir diubah dengan Undang-undang No. 24 Prp tahun 1959, Lembaran-Negara tahun 1956 No. 141) seperti dimaksudkan dalam pasal 4 ayat (2) Undang-undang Perimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956, ditetapkan sebesar 25% (dua puluh lima persen) bagi Daerah kecuali Daerah Khususi Ibu Kota Jakarta Raya, dan bagian itu diserahkan kepada masing-masing Daerah tingkat I, dalam wilayah mana pajak tersebut dipungut.\n(2) Kepada Daerah Khusus Ibu Kota Jakarta Raya diserahkan 1% (satu persen) dari penerimaan",
+                "content": "(1) Bagian dari penerimaan pajak perseroan (Ordonansi Pajak Perseroan 1925, Staatsblad 1925\nNo. 319 yang terakhir diubah dengan Undang-undang No. 24 Prp tahun 1959, Lembaran-\nNegara tahun 1956 No. 141) seperti dimaksudkan dalam pasal 4 ayat (2) Undang-undang\nPerimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956, ditetapkan sebesar 25%\n(dua puluh lima persen) bagi Daerah kecuali Daerah Khususi Ibu Kota Jakarta Raya, dan\nbagian itu diserahkan kepada masing-masing Daerah tingkat I, dalam wilayah mana pajak\ntersebut dipungut.\n(2) Kepada Daerah Khusus Ibu Kota Jakarta Raya diserahkan 1% (satu persen) dari penerimaan",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "d7cba54d-17d5-4f98-843a-3579ae590b6e",
+            "id": "8b5a6d43-7edb-44fa-a94e-2dd22d368376",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "417f85e8-0ad3-4d85-88e1-1433d45318c1",
+                "id": "097edc3b-9470-40f6-8924-5c1af6b8344b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,24 +66,24 @@
             }
         },
         {
-            "id": "094f22f1-469f-4418-ab43-e52aa2875283",
+            "id": "245d429a-1754-4507-a2ca-3583a5c0f9e4",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "ac82a399-5943-4cec-8ff8-8ce5053ff887",
+                "id": "07a4c7fe-7461-4cb0-ba23-4a2a3b1bcfec",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Bagian dari penerimaan bea-masuk seperti dimaksudkan dalam pasal 5 ayat (1) Undang- undang Perimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956) ditetapkan sebesar 10% (sepuluh persen) bagi Daerah.\n(2) Penyerahan bagian Daerah dari penerimaan bea-masuk kepada Daerah Khusus Ibukota Jakarta Raya dan masing-masing Daerah tingkat I didasarkan atas jumlah penduduk di Daerah yang bersangkutan.",
+                "content": "(1) Bagian dari penerimaan bea-masuk seperti dimaksudkan dalam pasal 5 ayat (1) Undang-undang Perimbangan Keuangan 1957 (Undang-undang No. 32 tahun 1956) ditetapkan sebesar 10% (sepuluh persen) bagi Daerah.\n(2) Penyerahan bagian Daerah dari penerimaan bea-masuk kepada Daerah Khusus Ibukota Jakarta Raya dan masing-masing Daerah tingkat I didasarkan atas jumlah penduduk di Daerah yang bersangkutan.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "f3f01d2b-a95f-47f6-909c-19bb59ad8089",
+            "id": "3d47455f-8137-4944-bb69-0ec0faca90c9",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "0da50f1a-bf35-4ba1-b33d-b1eb3a027302",
+                "id": "482bdd24-b9da-4e21-b6f9-94c1aa5315bd",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -92,24 +92,24 @@
             }
         },
         {
-            "id": "67d2141f-88ee-469b-9083-a0c35cca0152",
+            "id": "69d4b6a4-9f49-437c-8d97-4f09aa2f4317",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "59117b1b-f6a3-4b0c-862e-07c3ede704f8",
+                "id": "e38edbae-b05b-4f60-a60a-c28d8c26a784",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Berhubung dengan ketentuan pada ayat (1) pasal ini, maka untuk memperoleh\nseperempat dari jumlah bagian sebagai tercantum dalam lajur 10 dari daftar penyerahan pajak,\nbea dan cukai terlampir. Gubernur Kepala Daerah sebelum permulaan tiap triwulan hendaknya\nsudah mengajukan daftar permintaan kepada Kantor Pusat Perbendaharaan Negara, agar jumlah\ndimaksud tepat pada waktunya dapat diterima, sehingga kemungkinan akan adanya kesulitan-\nkesulitan pembiayaan pemerintah Daerah sehari-hari dengan demikian dapat dihindarkan.\nBerdasarkan ketentuan-ketentuan dan persentasi-persentasi bagian pajak Negara, bea dan\ncukai sebagai ditetapkan dalam Peraturan Pemerintah ini, maka jumlah taksiran seluruhnya dari\nbagian pajak Negara, bea dan cukai untuk Daerah ialah sebesar Rp. 4.132.630.000,- ditambah\ndengan M.$. 1.789 bagi Riau kepulauan sedangkan perincian jumlah dimaksud bagi tiap Daerah\ndicantumkan dalam lajur 8 dari daftar terlampir.\nOleh karena ternyata, bahwa ada sebelas Daerah-daerah yang akan mendapat kurang berdasarkan Peraturan Pemerintah ini, jika diperbandingkan dengan jumlah-jumlah yang daerah-\ndaerah itu diperoleh menurut Peraturan Pemerintah No.41 tahun 1961 yaitu:\n1. Daerah tingkat I Sumatera-Utara,\n2. Daerah tingkat I Sumatera-Barat,\n3. Daerah tingkat I Riau (kepulauan),\n4. Daerah tingkat I Jambi,\n5. Daerah tingkat I Kalimantan-Barat,\n6. Daerah tingkat I Kalimantan-Tengah,\n7. Daerah tingkat I Sulawesi-Utara/Tengah,\n8. Daerah tingkat I Sulawesi-Selatan/Tenggara,\n9. Daerah tingkat I Maluku,\n10. Daerah tingkat I Nusa-Tenggara-Barat,\n11. Daerah tingkat I Nusa-Tenggara-Timur,\nmaka Pemerintah mengambil kebijaksanaan untuk menambah jumlah-jumlah bagi Daerah-\ndaerah dimaksud (lihat lajur 8), dengan jumlah-jumlah kekurangannya (lihat lajur 9), sehingga\nDaerah-daerah yang bersangkutan akan mendapat jumlah-jumlah yang sama besarnya dengan jumlah-jumlah yang diperolehnya dalam tahun 1962 lihat (lajur 10).\nDengan demikian jumlah taksiran seluruhnya dari bagian pajak Negara, bea dan cukai untuk Daerah dalam tahun 1962 ialah sebesar Rp. 4.205.853.500,- ditambah dengan M.$.\n1.996.860 bagi Riau kepulauan.\nPasal 9 s/d 12.\nCukup jelas.\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1964 YANG TELAH DICETAK ULANG\nSumber: LN 1964/21 ,TLN 2637\n",
+                "content": "Berhubung dengan ketentuan pada ayat (1) pasal ini, maka untuk memperoleh\nseperempat dari jumlah bagian sebagai tercantum dalam lajur 10 dari daftar penyerahan pajak,\nbea dan cukai terlampir. Gubernur Kepala Daerah sebelum permulaan tiap triwulan hendaknya\nsudah mengajukan daftar permintaan kepada Kantor Pusat Perbendaharaan Negara, agar jumlah\ndimaksud tepat pada waktunya dapat diterima, sehingga kemungkinan akan adanya kesulitan-\nkesulitan pembiayaan pemerintah Daerah sehari-hari dengan demikian dapat dihindarkan.\nBerdasarkan ketentuan-ketentuan dan persentasi-persentasi bagian pajak Negara, bea dan\ncukai sebagai ditetapkan dalam Peraturan Pemerintah ini, maka jumlah taksiran seluruhnya dari\nbagian pajak Negara, bea dan cukai untuk Daerah ialah sebesar Rp. 4.132.630.000,- ditambah\ndengan M.$. 1.789 bagi Riau kepulauan sedangkan perincian jumlah dimaksud bagi tiap Daerah\ndicantumkan dalam lajur 8 dari daftar terlampir.\nOleh karena ternyata, bahwa ada sebelas Daerah-daerah yang akan mendapat kurang\nberdasarkan Peraturan Pemerintah ini, jika diperbandingkan dengan jumlah-jumlah yang daerah-\ndaerah itu diperoleh menurut Peraturan Pemerintah No.41 tahun 1961 yaitu:\n1. Daerah tingkat I Sumatera-Utara,\n2. Daerah tingkat I Sumatera-Barat,\n3. Daerah tingkat I Riau (kepulauan),\n4. Daerah tingkat I Jambi,\n5. Daerah tingkat I Kalimantan-Barat,\n6. Daerah tingkat I Kalimantan-Tengah,\n7. Daerah tingkat I Sulawesi-Utara/Tengah,\n8. Daerah tingkat I Sulawesi-Selatan/Tenggara,\n9. Daerah tingkat I Maluku,\n10. Daerah tingkat I Nusa-Tenggara-Barat,\n11. Daerah tingkat I Nusa-Tenggara-Timur,\nmaka Pemerintah mengambil kebijaksanaan untuk menambah jumlah-jumlah bagi Daerah-\ndaerah dimaksud (lihat lajur 8), dengan jumlah-jumlah kekurangannya (lihat lajur 9), sehingga\nDaerah-daerah yang bersangkutan akan mendapat jumlah-jumlah yang sama besarnya dengan\njumlah-jumlah yang diperolehnya dalam tahun 1962 lihat (lajur 10).\nDengan demikian jumlah taksiran seluruhnya dari bagian pajak Negara, bea dan cukai\nuntuk Daerah dalam tahun 1962 ialah sebesar Rp. 4.205.853.500,- ditambah dengan M.$.\n1.996.860 bagi Riau kepulauan.\nPasal 9 s/d 12.\nCukup jelas.\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN\n1964 YANG TELAH DICETAK ULANG\nSumber: LN 1964/21,TLN 2637\n",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "613d654a-adb4-4748-8ef9-5b1dc57a2e19",
+            "id": "5244ba66-4969-4d37-8816-20e1d32820cb",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "fb836654-db3e-4d95-adcd-8005230a5ea2",
+                "id": "10eee6d9-24ed-483d-9097-6ed9775fbe77",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -118,11 +118,11 @@
             }
         },
         {
-            "id": "73cfc5cd-492f-43da-9d00-a6126d0c6945",
+            "id": "6056ef8d-58dc-44a0-abc0-3a76910fce79",
             "name": "Article 10",
             "type": "article",
             "children": {
-                "id": "723d9eb3-1550-49eb-ac2f-7f0913052aed",
+                "id": "2ba3851b-1910-42de-a8cd-c9f5ae65b03e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -131,11 +131,11 @@
             }
         },
         {
-            "id": "4878bde7-8591-4868-8360-be152cf6c2e9",
+            "id": "4ef14739-ae25-48b7-b34f-1c8ec6ce6781",
             "name": "Article 11",
             "type": "article",
             "children": {
-                "id": "47e89b81-cbf2-47aa-814e-7fa1d012a2ba",
+                "id": "57478ec1-977f-4f99-8494-afca08c24e67",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -144,11 +144,11 @@
             }
         },
         {
-            "id": "338559b5-48fe-4746-adfc-eb4da3384f40",
+            "id": "48745c45-4db2-44eb-84f8-073335f00aaf",
             "name": "Article 12",
             "type": "article",
             "children": {
-                "id": "101f98d8-9f0a-4ef5-a440-1eb590f508f0",
+                "id": "267678d8-c80d-4e8c-b085-a64c422ecd93",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -157,11 +157,11 @@
             }
         },
         {
-            "id": "8df86f90-9dee-4b96-99ca-355c6c76a76f",
+            "id": "22d337b6-8f9c-40f1-9fbb-8c24692aee56",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "e27677b8-a5d9-49c8-b27c-70f93a33a7f0",
+                "id": "2c37359b-9a36-40fe-85b0-d15df4bfb4e4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",

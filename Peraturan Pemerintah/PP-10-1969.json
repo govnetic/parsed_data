@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "47007e13-e067-4925-8ee4-1e4a955e1306",
+            "id": "75dd39d8-82d9-4484-871a-5001f55ba28d",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "c4fb1cb5-5a1b-4de0-8e1d-b561ec6cf63f",
+                "id": "04cabd21-b174-4c3a-be4b-8bdb6fbee42f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,24 +14,24 @@
             }
         },
         {
-            "id": "316d7163-9c71-49cb-9b5a-45b68d5851c3",
+            "id": "469ebba7-4f49-4051-a8fd-34a94afe6bba",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "c38e1117-2c9f-4d17-b1ca-d98c6d24d4e4",
+                "id": "868afa3f-3396-4b00-b0a6-4441cae1d583",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Bab VIII \"Agreement Establishing The Asian Development Bank\"\n(pasal 48 sampai dengan pasal 58) mengatur tentang kedudukan,\nkekebalan serta hak-hak utama Asian Development Bank.\nKepada Dana Moneter Internasional, Bank Dunia, Internasional\nFinance Corporation, Internasional Development Association telah\ndijamin perlakuan yang serupa.  Pada dasarnya ini adalah\nkekebalan serupa yang dimiliki oleh badan-badan perwakilan\ndiplomatik di negara asing.",
+                "content": "Bab VIII \"Agreement Establishing The Asian Development Bank\"\n(pasal 48 sampai dengan pasal 58) mengatur tentang kedudukan,\nkekebalan serta hak-hak utama Asian Development Bank.\nKepada Dana Moneter Internasional, Bank Dunia, Internasional\nFinance Corporation, Internasional Development Association telah\ndijamin perlakuan yang serupa. Pada dasarnya ini adalah\nkekebalan serupa yang dimiliki oleh badan-badan perwakilan\ndiplomatik di negara asing.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "e75ce36a-1d41-4624-92de-9a142f366a68",
+            "id": "77acfd2f-e7e3-4fc1-b48d-1a4ef789fd25",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "2593f04a-572d-4724-8def-e02c29177a55",
+                "id": "db12b53e-d1ca-4fed-8671-21e4cd7dfcfa",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "6b5b01c6-55e1-40fe-8630-24c18e739da6",
+            "id": "2f2b72ce-7b07-45fe-8ae6-50127da51c08",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "b9e64df2-4bac-4be8-a237-ba3e4144a1d6",
+                "id": "6fa20e16-58dd-4c3a-a3c2-5c0ceb5f7e15",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "373b4dcc-9f95-4da1-863a-9579f6421eca",
+            "id": "f3c44839-f588-4404-8a58-196395b2b425",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "dc88bcd0-b115-4f28-8286-c4d6c1d434f0",
+                "id": "868e3d95-c200-4e30-bc52-8f4b871dcfa3",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,15 +66,15 @@
             }
         },
         {
-            "id": "34a93f7e-2b24-45c3-abc5-3e341088bfbc",
+            "id": "3af0a031-24b9-4f69-896f-8169a31c55f5",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "6980a118-acdc-4166-8f99-3089bbac46aa",
+                "id": "5d1e0b2f-fc0a-4087-82f5-cf3932760303",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas\nTidak ada isi hukum yang relevan pada gambar ini. Hanya ada catatan mengenai kutipan Lembaran Negara.",
+                "content": "Cukup jelas\nCATATAN\nKutipan: LEMBARAN NEGARA DAN ",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -92,7 +92,7 @@
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-undang Dasar 1945;",
             "2": " Undang-undang No. 8 tahun 1966 (Lembaran-Negara Republik\nIndonesia tahun 1966 No. 35);",
-            "3": " Peraturan Pemerintah No. 18 tahun 1966 (Lembaran-Negara Republik\nIndonesia tahun 1966 No. 37);"
+            "3": "Peraturan Pemerintah No. 18 tahun 1966 (Lembaran-Negara Republik\nIndonesia tahun 1966 No. 37);"
         },
         "Menetapkan": "\nPeraturan Pemerintah Republik Indonesia tentang Pelaksanaan\nPersetujuan Keanggotaan Republik Indonesia pada Bank Pembangunan\nAsia (Asian Development Bank).",
         "tanggal sah": ""

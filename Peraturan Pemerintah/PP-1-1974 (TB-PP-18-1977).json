@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "de747251-922f-477c-a2f6-0bf4ed0bd72f",
+            "id": "d91631c7-42ee-44b2-9314-6831df4f8c4a",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "1b871b7e-3296-4619-ba8a-c923ba59477a",
+                "id": "3635afb8-bef0-440d-8fe2-75cbdf2e62b8",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "5d5574d4-ac66-426d-8b0e-c7ae9105b1f2",
+            "id": "53c85da8-4f2c-4fc1-b302-2220a1667315",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "24bb2069-3643-44b3-8589-70c5d8043408",
+                "id": "e2217c6d-3b8b-49af-82a6-fb5f8fc1db4c",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "95ef21ff-15c9-488b-8325-fb6576e12be4",
+            "id": "030d4cdf-d569-4fee-a94c-9af86c6fba51",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "bd61668d-6d79-4d1d-a0b2-7b3d4c14025c",
+                "id": "0ea0a7d5-17b7-46b0-ae57-a8a6c4b25f48",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,9 +53,9 @@
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
             "2": " Peraturan Pemerintah Nomor 14 tahun 1967 (Lembaran Negara\nTahun 1967 Nomor 26) tentang Peraturan Gaji Anggota Angkatan\nBersenjata Republik Indonesia jis Peraturan Pemerintah Nomor 2\nTahun 1968 (Lembaran Negara Tahun 1968 Nomor 6) tentang\nPerubahan dan Penambahan atas Peraturan Pemerintah Nomor 14\nTahun 1967 dan Peraturan Pemerintah Nomor 5 Tahun 1968\n(Lembaran Negara Tahun 1968 Nomor 5) tentang Perobahan dan\nPenambahan atas Peraturan Pemerintah Nomor 14 Tahun 1967;",
-            "3": " Peraturan Pemerintah Nomor 24 Tahun 1973 (Lembaran Negara Tahun 1973 Nomor 30) tentang Kepangkatan Militer/Polisi dalam Angkatan Bersenjata Republik Indonesia."
+            "3": " Peraturan Pemerintah Nomor 24 Tahun 1973 (Lembaran Negara\nTahun 1973 Nomor 30) tentang Kepangkatan Militer/Polisi dalam\nAngkatan Bersenjata Republik Indonesia."
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG PERUBAHAN/TAMBAHAN PERATURAN PEMERINTAH NOMOR 14 TAHUN 1967 TENTANG PERATURAN GAJI ANGGOTA ANGKATAN BERSENJATA REPUBLIK INDONESIA",
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG\nPERUBAHAN/TAMBAHAN PERATURAN PEMERINTAH NOMOR\n14 TAHUN 1967 TENTANG PERATURAN GAJI ANGGOTA\nANGKATAN BERSENJATA REPUBLIK INDONESIA",
         "tanggal sah": ""
     }
 }

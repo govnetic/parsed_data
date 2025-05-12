@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "afcbc89e-d8af-4d35-abea-9b6afb5051ea",
+            "id": "84823b3b-1df4-4f12-be1e-2ac6ff9ed8db",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "0b253609-ae78-4a37-9365-cf960f55e05d",
+                    "id": "91440be5-8ba7-498a-8801-5a1986bb62b8",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "bb754034-ad37-4eb1-86aa-8b864f21d7b9",
+                        "id": "5338f803-96a9-41e4-b41c-402c2e71bfa9",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,11 +20,11 @@
                     }
                 },
                 {
-                    "id": "dda0c0e1-ac4a-4d8d-9e1e-37f16a19d5d3",
+                    "id": "bed079a5-e046-4b80-97e5-0b5bab1fdb09",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "b8a1e615-c9a6-486b-9c03-88d82dc3678e",
+                        "id": "e0d1814d-dffa-4be3-a3b3-9f2753e91a0e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -33,11 +33,11 @@
                     }
                 },
                 {
-                    "id": "f556d736-b353-4517-83a1-704553eb215e",
+                    "id": "9ad1dd16-ab98-4558-a3d8-53f110d1ea48",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "b0328a9e-b2db-4a44-b2ae-9c99e40f3e75",
+                        "id": "b3d44771-2b02-4486-aecc-97bc7d285a9d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -46,11 +46,11 @@
                     }
                 },
                 {
-                    "id": "41e55e22-6079-4b6a-887f-e46da113ede1",
+                    "id": "61071603-4811-4a92-b382-be74a4fbc821",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "1df3da38-31b3-4dbe-8b5d-7e1c6b487896",
+                        "id": "c16d65d4-322c-466a-8e58-8d9d99f7fc7e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -61,17 +61,17 @@
             ]
         },
         {
-            "id": "fd206b63-4307-4ce9-b29a-9a11544c8766",
+            "id": "231b2bf6-7e13-4e47-86d3-9568290f0461",
             "name": "Chapter II",
             "title": "\nKEDUDUKAN HUKUM.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2535c9ab-4002-4270-9c0a-aa3091169a16",
+                    "id": "d5155a2c-55c2-4806-a972-cdddfe9968ef",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "6728d20e-99e4-4ee8-90fa-5a94039dbfa0",
+                        "id": "e629dffa-f54e-46ff-9c35-75dc0c74edaf",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -80,11 +80,11 @@
                     }
                 },
                 {
-                    "id": "6db93b8c-e68e-4bba-874b-acf3dda5439d",
+                    "id": "728b9598-8ff8-405e-a3f6-259d4ff830c4",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "e0feff71-c7c4-4128-ad3a-55310e260074",
+                        "id": "37f35f70-36b9-4c2e-af5f-19551e4f6025",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -93,11 +93,11 @@
                     }
                 },
                 {
-                    "id": "c409e089-c084-4174-ad0b-4f5ede4e5454",
+                    "id": "da9784e5-9e3c-4ddf-8134-8d22b34f13a0",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "5483af5f-3b94-4fe1-9eec-fc2583a5326d",
+                        "id": "1c1c869d-7a7d-48f2-811d-6f3bef9a922d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -108,17 +108,17 @@
             ]
         },
         {
-            "id": "de8b1d5a-d20f-449f-a124-82878416ab5d",
+            "id": "02bdba07-e8b1-4186-8d94-7e8a3bcd38cf",
             "name": "Chapter III",
             "title": "\nUNSUR PIMPINAN KEPOLISIAN NEGARA.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ac497fa1-d014-47a7-970e-02c5632154ec",
+                    "id": "676a1e6b-cc17-4262-8187-e5341d3df81c",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "e906ed38-214a-418f-9f7d-5d7daec45ee5",
+                        "id": "37dcb48d-6761-43b8-b73b-9ef6c6b81712",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -127,11 +127,11 @@
                     }
                 },
                 {
-                    "id": "4553bb63-71be-4df5-b79b-ab98accc26d2",
+                    "id": "caa66b7e-0d0e-4623-a332-9aca1ddb582a",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "e30e484b-182f-4269-9b8b-d44ae5df9478",
+                        "id": "abd7a9c4-8bbd-4fda-b53f-b7fe67f23fcd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -140,11 +140,11 @@
                     }
                 },
                 {
-                    "id": "e5197cf6-2af0-44ca-a845-2e2b2dd0c713",
+                    "id": "76ce8b62-9780-4432-8b07-e387a80d300c",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "f7e039eb-bba0-44ce-82a6-60b2c19c37bf",
+                        "id": "d25951b4-7225-4482-8360-b0e230c52805",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -153,11 +153,11 @@
                     }
                 },
                 {
-                    "id": "8357ca4a-f5dc-4420-abfe-d80e67c98337",
+                    "id": "95889b2e-3cc9-40e2-8eb6-4db819cf1495",
                     "name": "Article 11",
                     "type": "article",
                     "children": {
-                        "id": "b427276c-b87a-4ae9-8b8d-5a43ad51094c",
+                        "id": "df31d6f9-70ec-432b-9584-17fb1d13edde",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -168,17 +168,17 @@
             ]
         },
         {
-            "id": "5cf9ca5d-57eb-4cef-a1fc-6a92901d0434",
+            "id": "222902d4-c809-4dd2-9eef-f5c7c9564a4a",
             "name": "Chapter IV",
             "title": "\nPENGGUNAAN.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "27eb0d52-0edf-48b5-aceb-5cc252464cbb",
+                    "id": "cd79ebd1-6921-4bf1-b117-ade761b7a8b7",
                     "name": "Article 12",
                     "type": "article",
                     "children": {
-                        "id": "560eafa1-d842-4526-9def-a9b7f39bc9e5",
+                        "id": "e473fa44-8731-49f1-bc67-944405fe93b2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -189,17 +189,17 @@
             ]
         },
         {
-            "id": "2ebe2da2-0c44-46ca-a957-abfc04418037",
+            "id": "6efc6b46-43d2-4d6b-adaa-fad20aa07ae9",
             "name": "Chapter V",
             "title": "\nKEPANGKATAN/LOGISTIK DAN LAIN-LAIN.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "b8f89be8-d79b-46e2-9f5d-ed8eaffe1253",
+                    "id": "ef871e57-7367-4eec-921f-7baa147aec3b",
                     "name": "Article 13",
                     "type": "article",
                     "children": {
-                        "id": "975e0f78-3b31-4cc8-925c-62acc8ef0d4a",
+                        "id": "f5d633cf-ff37-4063-80c8-0e2f2ddbb51e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -208,11 +208,11 @@
                     }
                 },
                 {
-                    "id": "cebb90d0-9b95-4713-935f-f45ed8022a92",
+                    "id": "35374bef-e01c-4a23-9697-d847d0fb2977",
                     "name": "Article 15",
                     "type": "article",
                     "children": {
-                        "id": "b8f37742-5afb-4d72-b271-22f4ac51f821",
+                        "id": "9f2354cd-0e94-4adc-8d42-8c7938eb8275",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -223,17 +223,17 @@
             ]
         },
         {
-            "id": "93312323-a253-4ab3-9ee4-2a630b9b7303",
+            "id": "277a5368-aa0d-41e9-b06d-8e26ef6b9cc0",
             "name": "Chapter VI",
             "title": "\nPENUTUP.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ee4fdd3b-3dc3-4491-9d14-31c4ec55d8f5",
+                    "id": "b65f43b7-bb26-4c00-a8cd-48b0795b56c3",
                     "name": "Article 16",
                     "type": "article",
                     "children": {
-                        "id": "b63d402c-f8ff-48f8-9c90-b0c34e2939b0",
+                        "id": "c62d3c30-b0d9-488b-8379-497a5800c96d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -242,11 +242,11 @@
                     }
                 },
                 {
-                    "id": "2fa01c92-47ea-4153-b9dc-e0f914749492",
+                    "id": "3d7c1795-2178-4cb3-934a-2d9d77b07a46",
                     "name": "Article 17",
                     "type": "article",
                     "children": {
-                        "id": "0dca1ddf-4e08-4dd8-ab7b-5db4defd323f",
+                        "id": "f23adaf2-d13a-4201-9fd9-91453dc3fd1b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",

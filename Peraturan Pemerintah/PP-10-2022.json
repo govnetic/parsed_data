@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "13ecf87e-981a-4a66-bea4-82d8eddf8dbd",
+            "id": "67fd6384-b9aa-4ff2-9b0c-7cea3969c4c1",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "2cfa5ef4-d1a6-44d9-88ae-1eced9c8846f",
+                "id": "083d5525-7f2b-496a-88fd-48e38c64072f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "eacd2396-b0a7-475e-8637-c756128007f0",
+            "id": "b6af0caf-4abf-4c97-8c27-1687ebb0d9ab",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "4dd89b6f-8103-421a-a707-adae294d249b",
+                "id": "a20d6d38-a2e5-4979-ad18-febbf224eee7",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "3718723d-787b-43a2-96fb-3707203719b4",
+            "id": "de43e755-0c93-48f9-be17-48fac68ece23",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "e8950b88-a1de-47d3-b5c1-2a435f92b9ef",
+                "id": "9941bcc9-4373-45a9-967d-ac8f6998280b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "1a9bf826-8bf9-4a10-9695-252685cd61fa",
+            "id": "11affc2f-1f64-4746-81ff-92c2c14ebce1",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "196a099e-c98b-4f87-be65-7a02b21bc8c3",
+                "id": "2e72598f-bdff-4a0b-b349-e4ad05480751",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "89a959e2-e9ad-40a2-b7bd-b0fd7d4bec53",
+            "id": "9120dad7-defe-4096-897a-47dc5b2c2b6b",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "a4565141-3a00-498c-8676-86fe07f5a516",
+                "id": "a9515768-020d-4002-b4fd-d6ceb07fe125",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "72bde936-adcc-45b2-b779-30dc0e7ea2cc",
+            "id": "8ad953c8-928b-4316-a8f2-aa5899ea18c7",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "e7d32265-e7f6-441f-8a29-9875d7c9700a",
+                "id": "84b12791-18ba-4ae7-a468-68ace825d61a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -85,7 +85,8 @@
         "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO)\nPT BIO FARMA",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa untuk memperkuat struktur permodalan dan\n   meningkatkan kapasitas usaha Perusahaan Perseroan\n   (Persero) PT Bio Farma, perlu melakukan penambahan\n   Penyertaan Modal Negara Republik Indonesia ke dalam\n   modal saham Perusahaan Perseroan (Persero) PT Bio\n   Farma yang berasal dari pengalihan seluruh saham\n   Seri B milik Negara Republik Indonesia pada\n   Perusahaan Perseroan (Persero) PT Industri Nuklir\n   Indonesia;\n b. bahwa berdasarkan pertimbangan sebagaimana\n   dimaksud dalam huruf a dan untuk melaksanakan\n   ketentuan Pasal 4 ayat (4) Undang-Undang Nomor 19\n   Tahun 2003 tentang Badan Usaha Milik Negara, perlu\n   menetapkan Peraturan Pemerintah tentang\n   Penambahan Penyertaan Modal Negara Republik\n   Indonesia ke Dalam Modal Saham Perusahaan\n   Perseroan (Persero) PT Bio Farma;"
+            "a": "\nbahwa untuk memperkuat struktur permodalan dan\nmeningkatkan kapasitas usaha Perusahaan Perseroan\n(Persero) PT Bio Farma, perlu melakukan penambahan\nPenyertaan Modal Negara Republik Indonesia ke dalam\nmodal saham Perusahaan Perseroan (Persero) PT Bio\nFarma yang berasal dari pengalihan seluruh saham\nSeri B milik Negara Republik Indonesia pada\nPerusahaan Perseroan (Persero) PT Industri Nuklir\nIndonesia;",
+            "b": " bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan untuk melaksanakan\nketentuan Pasal 4 ayat (4) Undang-Undang Nomor 19\nTahun 2003 tentang Badan Usaha Milik Negara, perlu\nmenetapkan Peraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nIndonesia ke Dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Bio Farma;"
         },
         "Mengingat": {
             "Introduction": "",
@@ -94,7 +95,7 @@
             "3": " Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);",
             "4": " Peraturan Pemerintah Nomor 44 Tahun 2005 tentang\nTata Cara Penyertaan dan Penatausahaan Modal\nNegara pada Badan Usaha Milik Negara dan Perseroan\nTerbatas (Lembaran Negara Republik Indonesia Tahun\n2005 Nomor 116, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4555) sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 72 Tahun\n2016 tentang Perubahan Atas Peraturan Pemerintah\nNomor 44 Tahun 2005 tentang Tata Cara Penyertaan\ndan Penatausahaan Modal Negara pada Badan Usaha\nMilik Negara dan Perseroan Terbatas (Lembaran\nNegara Republik Indonesia Tahun 2016 Nomor 325,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6006);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT BIO FARMA.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nIndonesia ke Dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Bio Farma;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 70, Tambahan\nLembaran Negara Republik Indonesia Nomor 4297);\n3. Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);\n4. Peraturan Pemerintah Nomor 44 Tahun 2005 tentang\nTata Cara Penyertaan dan Penatausahaan Modal\nNegara pada Badan Usaha Milik Negara dan Perseroan\nTerbatas (Lembaran Negara Republik Indonesia Tahun\n2005 Nomor 116, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4555) sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 72 Tahun\n2016 tentang Perubahan Atas Peraturan Pemerintah\nNomor 44 Tahun 2005 tentang Tata Cara Penyertaan\ndan Penatausahaan Modal Negara pada Badan Usaha\nMilik Negara dan Perseroan Terbatas (Lembaran\nNegara Republik Indonesia Tahun 2016 Nomor 325,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6006);\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT BIO FARMA.",
         "tanggal sah": "22 Februari 2022"
     }
 }

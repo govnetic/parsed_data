@@ -1,28 +1,28 @@
 {
     "results": [
         {
-            "id": "df8847d0-9732-40c0-98d0-52514aaf8fed",
+            "id": "8e8e3a22-9971-42d0-9967-131d806f24b5",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "b51786f1-0983-4d5f-acc9-7f3908c8ce81",
+                "id": "aa98b219-4e03-46a0-b599-d3b8b0231329",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Diadakan penjabat Sekretaris pada:\na. Kementerian Pekerjaan Umum & Tenaga;\nb. Kementerian Perburuhan.",
+                "content": "Diadakan penjabat Sekretaris pada :\na. Kementerian Pekerjaan Umum & Tenaga;\nb. Kementerian Perburuhan.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "4dc40084-bbc3-452b-9a68-f40f2f81de9a",
+            "id": "d3bcd8b8-8c28-4221-a7be-f7cd5eb723bc",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "07f2507c-409e-44b6-8b26-3fdd744faa4e",
+                "id": "d2531898-aef0-4cb0-be68-b5328b0a6f4b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari 1956.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran-Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari\n1956.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran-Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -35,7 +35,7 @@
             "Introduction": "\nbahwa untuk membantu Sekretaris-Jenderal dalam pekerjaanya\nsehari-hari perlu mengadakan penjabat Sekretaris pada beberapa\nKementerian"
         },
         "Mengingat": {
-            "Introduction": "\na. Peraturan Pemerintah No. 23 tahun 1955 (Lembaran-Negara tahun\n955 No. 48) juncto Peraturan Pemerintah No. 32 tahun 1955\ntentang P.G.P.N. 1955 (Lembaran-Negara tahun 955 No. 75);\nb. Peraturan Pemerintah No. 20 tahun 1952 tentang susunan dan\npimpinan Kementerian-kementerian (Lembaran-Negara tahun 1952\nNo. 26);\nMendengar\nDewan Menteri dalam rapatnya yang ke-36 tanggal 10 Januari 1956"
+            "Introduction": "\na. Peraturan Pemerintah No. 23 tahun 1955 (Lembaran-Negara tahun\n   955 No. 48) juncto Peraturan Pemerintah No. 32 tahun 1955\n   tentang P.G.P.N. 1955 (Lembaran-Negara tahun 955 No. 75);\nb. Peraturan Pemerintah No. 20 tahun 1952 tentang susunan dan\n   pimpinan Kementerian-kementerian (Lembaran-Negara tahun 1952\n   No. 26);\nMendengar\nDewan Menteri dalam rapatnya yang ke-36 tanggal 10 Januari 1956"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG MENGADAKAN JABATAN SEKRETARIS DI\nKEMENTERIAN PEKERJAAN UMUM & TENAGA DAN KEMENTERIAN PERBURUHAN",
         "tanggal sah": "1 Januari 1956"

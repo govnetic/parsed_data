@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "e7a5fdb1-e3dd-463d-87c4-db762ba7b563",
+            "id": "5e496581-6713-4f11-85df-389aca4f80a1",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "18703abf-17ff-44e1-b53b-d133fd44366f",
+                "id": "475f9cf7-d0a8-4bd5-824d-d708656b67d4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "adda5db4-0f22-457b-9820-ccbc8b96bae7",
+            "id": "63911548-1cb6-4ffa-92a8-8fb1d1b382a1",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "fdb9f1ef-ae8d-47b1-aa7f-4d199658c77b",
+                "id": "825d4ad3-fb40-48f2-b09e-651e70e0df02",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "14d8e2ad-2000-41be-b8ce-5ae0d8df6352",
+            "id": "b66b8c21-5007-4c5f-b2cc-0e4d83189865",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "39feae75-96a8-4d51-86b3-7c742fd64208",
+                "id": "8e7d377d-329c-4681-b609-f02bfcfc1496",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,24 +40,24 @@
             }
         },
         {
-            "id": "9193451b-a00a-4274-98d6-5ab4c9e4ace6",
+            "id": "95ff8c69-3ef7-4e6f-bdcf-b758273de5ee",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "c46c38be-f7cb-4fbd-a47d-1bbbbd59a26e",
+                "id": "f6568f3b-8f4b-42ac-b4ff-ada352314db8",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Berdasarkan pasal 322 KUHP, maka membocorkan rahasia jabatan,\ndalam hal ini rahasia kedokteran, adalah suatu tindak pidana yang\ndituntut atas pengaduan (klachdelict), apabila kejahatan itu\nditujukan pada seseorang tertentu. Demi kepentingan umum Menteri\nKesehatan dapat bertindak terhadap pembocoran rahasia kedokteran,\nmeskipun tidak ada suatu pengaduan.\nSebagai contoh:\nSeorang pejabat kedokteran berulangkali mengobrolkan di depan\norang banyak tentang keadaan dan tingkah laku pasien yang\ndiobatinya.\ndan\nDengan demikian ia merendahkan martabat jabatan kedokteran\nmengurangi kepercayaan orang kepada penjabat-penjabat\nkedokteran.",
+                "content": "Berdasarkan pasal 322 KUHP, maka membocorkan rahasia jabatan,\ndalam hal ini rahasia kedokteran, adalah suatu tindak pidana yang\ndituntut atas pengaduan (klachdelict), apabila kejahatan itu\nditujukan pada seseorang tertentu. Demi kepentingan umum Menteri\nKesehatan dapat bertindak terhadap pembocoran rahasia kedokteran,\nmeskipun tidak ada suatu pengaduan.\nSebagai contoh:\nSeorang pejabat kedokteran berulangkali mengobrolkan di depan\norang banyak tentang keadaan dan tingkah laku pasien yang\ndiobatinya.\nDengan demikian ia merendahkan martabat jabatan kedokteran\ndan mengurangi kepercayaan orang kepada penjabat-penjabat\nkedokteran.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "c7d1da4e-7305-4632-9a9e-3d05030265ec",
+            "id": "d92ff53e-ba2d-405a-aa62-183a6559bc31",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "5b301bae-3a46-4c02-8d4b-525a14509fe6",
+                "id": "23dfb599-0c1f-4f48-ae63-8e5c5738dc35",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "e8d71cbf-3c71-436e-ae92-afe22b2133e9",
+            "id": "ca9670b1-88df-4ea9-8376-a50b030d593a",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "d7023808-4c61-491a-879c-d6d6b58e8573",
+                "id": "21831257-dc2e-42fc-885e-4e92bacc16c5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -79,28 +79,28 @@
             }
         },
         {
-            "id": "b3f64210-c285-427a-ba3b-a6ca3b03b105",
+            "id": "c23a3917-6ed8-482e-8edc-8079996d11cc",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "32ef53cb-602e-4dd3-a116-7fc76dae6144",
+                "id": "d8fd0511-f510-453d-8875-edb21aa63cbc",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan ini dapat disebut \"Peraturan Pemerintah tentang Wajib Simpan Rahasia Kedokteran\".",
+                "content": "Peraturan ini dapat disebut \"Peraturan Pemerintah tentang\nWajib Simpan Rahasia Kedokteran\".",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "1408d9b0-0089-42a5-9994-06b43ca4ec6e",
+            "id": "c0eb0fec-1a1f-4b68-a72f-b07f9b06de26",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "87e9fb57-8f8f-4211-83a9-848640a8b31d",
+                "id": "edbca239-72c1-4455-be11-73a9963127b6",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan ini mulai berlaku pada hari diundangkannya.\nAgar setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan ini mulai berlaku pada hari diundangkannya.\nAgar setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya dalam\nLembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -110,13 +110,13 @@
         "Tahun": "1966",
         "Tentang": "WAJIB SIMPAN RAHASIA KEDOKTERAN",
         "Menimbang": {
-            "Introduction": "\nbahwa perlu ditetapkan peraturan tentang wajib simpan rahasia kedokteran."
+            "Introduction": "\nbahwa perlu ditetapkan peraturan tentang wajib simpan rahasia\nkedokteran."
         },
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Pasal 10 ayat (4) Undang-Undang Nomor 9 Tahun 1960 tentang Pokok-pokok Kesehatan (Lembaran Negara Tahun 1960 No. 131);",
-            "3": " Peraturan Pemerintah Nomor 26 Tahun 1960 tentang lafal sumpah dokter (Lembaran Negara Tahun 1960 Nomor 69);\nMendengar\nPresidium Kabinet Dwikora yang disempurnakan."
+            "2": " Pasal 10 ayat (4) Undang-Undang Nomor 9 Tahun 1960 tentang\nPokok-pokok Kesehatan (Lembaran Negara Tahun 1960 No. 131);",
+            "3": " Peraturan Pemerintah Nomor 26 Tahun 1960 tentang lafal sumpah\ndokter (Lembaran Negara Tahun 1960 Nomor 69);\nMendengar\nPresidium Kabinet Dwikora yang disempurnakan."
         },
         "Menetapkan": "\n\"PERATURAN PEMERINTAH TENTANG WAJIB SIMPAN RAHASIA KEDOKTERAN\".",
         "tanggal sah": "21 Mei 1966"

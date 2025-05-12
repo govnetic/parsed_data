@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "f7aa6430-33f6-44d4-900f-676d5f3042db",
+            "id": "817600e9-5477-4451-a326-06757d5e7b01",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "6eef8b53-5244-4598-9844-d1d0b72858aa",
+                "id": "9be7544e-c052-47fa-803c-39c4418f264c",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "9352627c-3290-4cae-b4c1-1d0e9b462b3f",
+            "id": "893200b4-ae1c-4ff8-b3e6-2acce3afcc37",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "ce1323c9-97be-456b-84a7-26ea95f1be01",
+                "id": "2d33f029-420f-4294-82ad-cc30be2db341",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "a135bfde-ccd8-4c06-838e-29230ae79f0a",
+            "id": "9ae0b370-ce81-4bec-891c-d6a07d7c8de6",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "f6bd59d4-d0c9-4142-84c0-54436ca5225f",
+                "id": "66df3135-2013-4078-90e3-f7548e1db758",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,15 +40,15 @@
             }
         },
         {
-            "id": "b8788bc4-afd8-4dce-8c7b-402ecb2cccf6",
+            "id": "79863ccb-ae80-4b69-b328-59a36fa2a705",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "6b1df42d-a02b-42cb-b265-c3cac5745006",
+                "id": "158b5255-8193-4401-8d73-9c070dd44d93",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari\n1953.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari\n1953.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatan dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

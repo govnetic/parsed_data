@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "403be923-e581-47da-890c-de6e06cd4752",
+            "id": "88c95f2d-2532-424c-9eb9-791179ac2fef",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "831b3053-0906-4c72-8b16-246cbe374314",
+                "id": "69334274-ea85-4d1c-b566-e0a86ca68928",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,28 +14,28 @@
             }
         },
         {
-            "id": "4caf1e53-875c-4781-a089-266165eeb6cc",
+            "id": "288e26bf-e696-4656-8861-27f7359fe741",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "3473b903-45b4-4bfa-96d6-4d3dc6d2c9d5",
+                "id": "211598e8-f3c1-4155-8cd4-c90f48b756de",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Nilai penambahan penyertaan modal Negara sebagaimana dimaksud\ndalam Pasal 1 sebesar Rp700.000.000.000,00 (tujuh ratus miliar\nrupiah).\n(2) Penambahan penyertaan modal Negara sebagaimana dimaksud pada\nayat (1) bersumber dari Anggaran Pendapatan dan Belanja Negara\nTahun Anggaran 2014.",
+                "content": "(1) Nilai penambahan penyertaan modal Negara sebagaimana dimaksud dalam Pasal 1 sebesar Rp700.000.000.000,00 (tujuh ratus miliar rupiah).\n(2) Penambahan penyertaan modal Negara sebagaimana dimaksud pada ayat (1) bersumber dari Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2014.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "121df43d-7fc8-4ab7-9138-d0fb4ba42e7e",
+            "id": "40c0a68c-57c3-4b96-9ebd-ad4f0bcac9a4",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "2405af40-3508-48b1-91a3-6feacc2a2092",
+                "id": "a663f334-11a5-45bb-aae0-9cd32faf4b26",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

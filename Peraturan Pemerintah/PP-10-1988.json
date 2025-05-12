@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "dc989ae3-781d-44c7-a66a-5251c4597d96",
+            "id": "22c63d70-6c7f-4c92-94af-3981b91d0e02",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f18cfea3-cec6-4a6d-9d1d-a9681b3f66c8",
+                    "id": "f888df37-f349-46f0-8d70-6ee5cda31129",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "c6ae7eb9-55a2-4199-b519-a9ed411bf836",
+                        "id": "2968932a-151a-4b93-9203-f32ce0831f59",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,12 +20,12 @@
                     }
                 },
                 {
-                    "id": "532861f5-bc77-4f53-8f25-d1d0f5448919",
+                    "id": "120c37c0-28b8-4445-928a-80af272c928d",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1ceef354-f1d8-4792-918a-ffe60482b6ac",
+                            "id": "ebc154ad-2077-475b-90c4-6c8deb45ce8d",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -33,7 +33,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "3f27d525-2f12-4d63-a790-3ebf12191c40",
+                            "id": "1959ef37-c38f-4a10-8faa-e86daae9e1b8",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -45,17 +45,17 @@
             ]
         },
         {
-            "id": "1277d727-8f7b-4d0b-9f0f-ab7ade7a65f8",
+            "id": "3ac5ed5f-adf7-4452-b68a-0409588037d7",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6db8c4e7-e647-49a5-97cf-234420d77c7d",
+                    "id": "646bcf60-1bba-40df-8474-3f87f8d4165c",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "a2b4a3ab-a472-4963-96f9-38242332c571",
+                        "id": "120945fa-d288-479b-bb48-29a27f5b3dcd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -66,17 +66,17 @@
             ]
         },
         {
-            "id": "5b5dcbf8-5f27-47eb-afb2-c7bfe9e93681",
+            "id": "61fb04a3-6349-4f28-ab0a-b2e2b0443318",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "a6aad421-849a-496f-bdeb-5f7dae4615a2",
+                    "id": "4c7447d6-1e99-4605-bfab-b05756143fae",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "2a6553b9-7f00-45b1-9c75-b778b0f13bf5",
+                        "id": "9c1bec0b-a073-4cf5-8471-33f41a0ae06f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -85,11 +85,11 @@
                     }
                 },
                 {
-                    "id": "8b055176-1a7c-4e66-aebf-31db9dc64454",
+                    "id": "e6bd6745-38ca-43d5-9819-b40bd04b2c28",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "872688d5-fb72-40a5-8d49-c0e2fa10b114",
+                        "id": "807f4649-4dbf-406e-a6f3-933effd5b3cd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",

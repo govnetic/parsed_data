@@ -1,46 +1,30 @@
 {
     "results": [
         {
-            "id": "7c1c4e69-158c-4f00-b88c-25a15aa16191",
+            "id": "9ff9cf77-9d06-4024-974b-c0ab2bfc231c",
             "name": "Chapter I",
             "title": ".\nPENDIRIAN.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "49cabdc7-803e-4161-a35c-94798c5b65ae",
+                    "id": "21868bfe-bf14-4fac-b726-0b1c829250f7",
                     "name": "Article 1",
                     "type": "article",
                     "children": [
                         {
-                            "id": "4d9eeb24-d6a3-4a8e-8de5-dc0a4b929c55",
+                            "id": "cd4a67b6-6ad8-4389-9cdc-2daa5379c8bd",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Dengan nama,, Perusahaan Negara Arta Yasa\" yang selanjutnya disebut P.N. Arta Yasa didirikan suatu perusahaan negara sebagai dimaksudkan dalam Undang-undang tentang Perusahaan Negara (Undang-undang No. 19 Prp. tahun 1960 pasal 3 ayat (1).",
+                            "content": " Dengan nama,, Perusahaan Negara Arta Yasa\" yang selanjutnya\n    disebut P.N. Arta Yasa didirikan suatu perusahaan negara\n    sebagai dimaksudkan dalam Undang-undang tentang Perusahaan\n    Negara (Undang-undang No. 19 Prp. tahun 1960 pasal 3 ayat\n    (1).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b74f8fcb-4f97-405e-992b-baaab2af266b",
+                            "id": "4cffb470-6b09-4005-b4bf-cff14f451aad",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Perusahaan yang namanya tersebut di bawah ini:,, Percetakan\nUang Logam\" yang didirikan berdasarkan surat Keputusan\nMenteri Keuangan tanggal 18-11-1945 No. 261155/ U.M.I. jo.\nSurat Keputusan Menteri Keuangan tanggal 30-9-1957 No.\n189293/U.M.I. dengan ini dilebur ke dalam P.N. Arta Yasa.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "3d6e0bb0-4636-4079-acb0-b0d74d15e7b4",
-                            "name": "Verse 3",
-                            "number": "(3)",
-                            "type": "verse",
-                            "content": " Segala hak dan kewajiban, perlengkapan dan kekayaan serta\nusaha dari Percetakan Uang Logam Arta Yasa dimaksudkan dalam\nsurat Keputusan Menteri Keuangan tanggal 18-11-1954 No.\n261155/U.Μ.I. jo. tanggal 30-9-1957 No. 189293/U.M.I. beralih\nmenjadi hak dan kewajiban, kekayaan serta usaha dari P.N.\nArta Yasa termaksud dalam ayat (1).",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "a5ed90e9-d99e-4340-94ea-9814f09ff098",
-                            "name": "Verse 4",
-                            "number": "(4)",
-                            "type": "verse",
-                            "content": " Pelaksanaan pengalihan termaksud dalam ayat (3) diatur oleh\nMenteri Urusan Pendapatan, Pembiayaan dan Pengawasan.",
+                            "content": " Perusahaan yang namanya tersebut di bawah ini:,, Percetakan",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -48,18 +32,18 @@
             ]
         },
         {
-            "id": "1340ccce-bcfc-441d-a21c-5af8782aceca",
+            "id": "e72743ee-ec8a-43b6-9657-09d60e9394a6",
             "name": "Chapter II",
             "title": "\nANGGARAN DASAR.\nKetentuan Umum.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "22f348a5-6a02-4781-a683-73a1f497d086",
+                    "id": "1785967c-60ae-453e-94b3-48a3c6207e1d",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "70694b21-a96f-421c-9720-aab54133bdbc",
+                            "id": "f03b83ce-273e-4e8f-a4a6-5965854f080e",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -67,7 +51,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d802fc9b-e356-4ab4-a9cb-5e20c96670d8",
+                            "id": "9174310a-da05-4347-994f-0e2fc8c8fdb8",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -77,11 +61,11 @@
                     ]
                 },
                 {
-                    "id": "a93153d9-8483-46ba-9dfe-d6780a0c5020",
+                    "id": "44ce1800-8e28-4500-9902-5d57959dce38",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "158b1df5-79b7-4746-bb23-0ae628b39680",
+                        "id": "97dcb6dc-4c3f-41f5-a13f-6a386debb679",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -90,11 +74,11 @@
                     }
                 },
                 {
-                    "id": "d5d82733-4ad5-42ef-9d36-6beaf81154f7",
+                    "id": "4e750006-f142-4643-993e-98c210483ebf",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "c493fb91-8e1a-473f-a796-029cfb0844ec",
+                        "id": "54d7dba5-cec5-462f-8d44-09d9458d4839",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -103,11 +87,11 @@
                     }
                 },
                 {
-                    "id": "6bbffafa-132e-40b1-981b-5443887e3d3c",
+                    "id": "f5197929-59ef-4a1a-808b-db787441f5ee",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "2031fe49-654a-477e-bfe0-4f1166257b9e",
+                        "id": "bea3bb80-5980-4a2f-8348-1d4cc99ee100",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -116,94 +100,104 @@
                     }
                 },
                 {
-                    "id": "f68d2f5f-3deb-4cf2-88eb-e5e462872217",
+                    "id": "c41a138b-0dbf-48ef-8ad4-ace2f676fb62",
                     "name": "Article 6",
                     "type": "article",
-                    "children": {
-                        "id": "3b9ffb63-5de7-4188-b87a-653a1d1f975b",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nPerusahaan ini berusaha dalam bidang perlogaman:\na. mencetak uang logam,\nb. membuat barang-barang logam lainnya baik untuk Pemerintah\nmaupun untuk umum,\nC.\nusaha lain-lain dalam bidang perlogaman dengan keputusan\nMenteri.\nModal.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
+                    "children": [
+                        {
+                            "id": "d5f12465-7dc7-440a-b0ef-457180a8d1f2",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Segala hak dan kewajiban, perlengkapan dan kekayaan serta\nusaha dari Percetakan Uang Logam Arta Yasa dimaksudkan dalam\nsurat Keputusan Menteri Keuangan tanggal 18-11-1954 No.\n261155/U.Μ.I. jo. tanggal 30-9-1957 No. 189293/U.M.I. beralih\nmenjadi hak dan kewajiban, kekayaan serta usaha dari P.N.\nArta Yasa termaksud dalam ayat (1).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "cb932d2a-aee7-4c00-8e61-bc9c4b3b61fa",
+                            "name": "Verse 4",
+                            "number": "(4)",
+                            "type": "verse",
+                            "content": " Pelaksanaan pengalihan termaksud dalam ayat (3) diatur oleh\nMenteri Urusan Pendapatan, Pembiayaan dan Pengawasan.\nUang Logam\" yang didirikan berdasarkan surat Keputusan\nMenteri Keuangan tanggal 18-11-1945 No. 261155/ U.M.I. jo.\nSurat Keputusan Menteri Keuangan tanggal 30-9-1957 No.\n189293/U.M.I. dengan ini dilebur ke dalam P.N. Arta Yasa.\nc. usaha lain-lain dalam bidang perlogaman dengan keputusan Menteri.\nModal.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
                 },
                 {
-                    "id": "ae3197ab-003f-477a-8af2-04ab5b90cbc4",
+                    "id": "7ab2e44e-4176-4dd6-9e17-d55e6e5d5d2f",
                     "name": "Article 7",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8378c3e5-5f3c-495d-9bff-6bbb3ca47796",
+                            "id": "f17930ab-716b-41fa-8377-dcf43abacf1b",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Modal Perusahaan sebesar Rp. 255, juta.",
+                            "content": " Modal Perusahaan sebesar Rp. 255,- juta.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4c6f02e0-5027-4df6-b247-fa659bb1b617",
+                            "id": "c19b2c56-cb56-44c6-b6eb-5fc0fe63e823",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Modal ini dapat ditambah dengan ketentuan-ketentuan yang\ndiatur dalam Perusahaan Pemerintah.",
+                            "content": " Modal ini dapat ditambah dengan ketentuan-ketentuan yang diatur dalam Perusahaan Pemerintah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "38803ea0-0293-45e5-adef-5f3ad8fed380",
+                            "id": "682a42bd-1a1e-4cc0-b11f-fff667b8c526",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Perusahaan mempunyai cadangan-umum yang dibentuk dan dipupuk\nmenurut ketentuan dalam pasal 21 ayat (1).",
+                            "content": " Perusahaan mempunyai cadangan-umum yang dibentuk dan dipupuk menurut ketentuan dalam pasal 21 ayat (1).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8a455808-b0a0-4564-a2f0-d5bf4b106b42",
+                            "id": "9a396832-57d8-4158-82e6-8e42c133f384",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Perusahaan tidak mengadakan cadangan-diam dan/atau cadangan\nrahasia.\nPimpinan.",
+                            "content": " Perusahaan tidak mengadakan cadangan-diam dan/atau cadangan rahasia.\nPimpinan.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "f73e20b6-8b67-4497-ae25-72bf7d6606fb",
+                    "id": "6d293ffd-545e-402a-a28e-6c5a0a0532da",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8bc11012-d648-4997-b4af-654eb2a0e20b",
+                            "id": "aa2263b0-01ca-4fab-92f2-4f093146b3c0",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Perusahaan dipimpin oleh suatu Direksi yang terdiri dari\nseorang Presiden Direktur dengan dibantu oleh sebanyak-banyak\n5 (lima) orang direktur yang bertanggung-jawab atas bidangnya\nmasing-masing.",
+                            "content": " Perusahaan dipimpin oleh suatu Direksi yang terdiri dari seorang Presiden Direktur dengan dibantu oleh sebanyak-banyak 5 (lima) orang direktur yang bertanggung-jawab atas bidangnya masing-masing.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "743f0a99-6d60-43ec-bfa4-b3c74b957d6e",
+                            "id": "5df6e125-205f-4f99-a7b6-2e68001a4248",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Presiden Direktur bertanggung jawab kepada Menteri dan para\nDirektur bertanggung jawab kepada Presiden Direktur.",
+                            "content": " Presiden Direktur bertanggung jawab kepada Menteri dan para Direktur bertanggung jawab kepada Presiden Direktur.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a37b83ca-d3e5-4f10-81f6-e33a33fa896b",
+                            "id": "77204be9-e7a0-4660-a66e-3b963667324c",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Gaji dan penghasilan lain dari anggota-anggota Direksi\nditetapkan oleh Menteri dengan mengingat ketentuan-ketentuan\nyang ditetapkan dengan atau berdasarkan Undang-\nundang/Peraturan Pemerintah.",
+                            "content": " Gaji dan penghasilan lain dari anggota-anggota Direksi ditetapkan oleh Menteri dengan mengingat ketentuan-ketentuan yang ditetapkan dengan atau berdasarkan Undang-undang/Peraturan Pemerintah.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "3ccfec0b-e295-4827-b35c-0aa97a59f110",
+                    "id": "d62e0577-320e-474a-acb9-ba52656f0795",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "98874e1e-369f-4c4e-b008-9ec9c3566cf6",
+                        "id": "8469d39f-5a2e-41f5-8336-0aac00bcf273",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -212,28 +206,28 @@
                     }
                 },
                 {
-                    "id": "ed200e1d-76d2-4ffa-a20d-40649a40123b",
+                    "id": "e653183a-e90a-47cb-8c0a-6de84d34f0e9",
                     "name": "Article 10",
                     "type": "article",
                     "children": [
                         {
-                            "id": "7e216675-b038-49f9-9bba-b64754c71132",
+                            "id": "901d9c29-ada0-498a-bc42-fca7fe405294",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Anggota Direksi diangkat oleh Pemerintah atas usul Menteri\nuntuk selama-lamanya lima tahun. Setelah waktu itu berakhir\nanggota yang bersangkutan dapat diangkat kembali.",
+                            "content": " Anggota Direksi diangkat oleh Pemerintah atas usul Menteri untuk selama-lamanya lima tahun. Setelah waktu itu berakhir anggota yang bersangkutan dapat diangkat kembali.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "38268dbe-53cc-4437-add0-cdbcb5ef00e3",
+                            "id": "7bfaf6ce-c3f3-4d1d-abf0-81abff272913",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Dalam, hal-hal di bawah ini Pemerintah dapat memberhentikan anggota Direksi, meskipun waktu tersebut dalam ayat (1) belum berakhir:\nA. atas permintaan sendiri;\nB. karena tindakan yang merugikan Perusahaan;\nC. karena tindakan atau sikap yang bertentangan dengan kepentingan Negara;\nD. karena meninggal dunia.",
+                            "content": " Dalam, hal-hal di bawah ini Pemerintah dapat memberhentikan anggota Direksi, meskipun waktu tersebut dalam ayat (1) belum berakhir:\na. atas permintaan sendiri;\nb. karena tindakan yang merugikan Perusahaan;\nc. karena tindakan atau sikap yang bertentangan dengan kepentingan Negara;\nd. karena meninggal dunia.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4c9e64b9-8eca-4a9a-942c-7645163e493d",
+                            "id": "3d5f43c8-0c23-48df-9ea9-32d2ae853fe4",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -241,7 +235,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5e472f72-8f41-471d-8cf9-ad1fea7171f8",
+                            "id": "20cc7f3d-9af0-4f56-9e57-8e5ed3e122e5",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -249,7 +243,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8ce10299-09f0-4a55-acf6-77edfe6a8838",
+                            "id": "9a60815e-6363-4150-9229-ad70caa53cdb",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
@@ -259,12 +253,12 @@
                     ]
                 },
                 {
-                    "id": "7a426c72-510c-46c5-bae2-d9ab1ae30119",
+                    "id": "d06ec37e-43e2-4d33-b01e-c890bc93c914",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ddf92ed8-6740-4b29-a1a2-64a6d43475fe",
+                            "id": "e6ef104b-487e-4ffc-b07d-b271743eb518",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -272,7 +266,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e10274fb-729d-4173-8ae9-e77715df62d4",
+                            "id": "7d080926-f1f6-4187-b9b2-975dd10da834",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -282,12 +276,12 @@
                     ]
                 },
                 {
-                    "id": "7f64c264-dbee-4015-88d1-38e7aa73ea4b",
+                    "id": "ebde88ad-520c-4f93-8b3e-44e6bab50f99",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9a3b78ba-5053-4922-9856-c88df035f769",
+                            "id": "0e00d6ea-5c09-4c06-8896-32fb5f9f3573",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -295,7 +289,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7ec7064f-d377-40c7-b9e9-41ef08cae6bb",
+                            "id": "c96529e9-7362-4424-a22d-8f6fad7510b5",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -303,7 +297,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ce250760-943d-44c6-9fd1-d097ea39d49f",
+                            "id": "f1728b67-5765-4a55-8242-2d1a6ce9bbab",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -313,11 +307,11 @@
                     ]
                 },
                 {
-                    "id": "a23dd30c-4661-474d-90e8-2269383d4001",
+                    "id": "467af4e7-3bd3-49bf-beed-151829dae983",
                     "name": "Article 14",
                     "type": "article",
                     "children": {
-                        "id": "bbb7b212-bed5-49d9-b709-ce088341e7d8",
+                        "id": "f7fef476-69b0-49a6-a278-98cf0c56311c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -326,12 +320,12 @@
                     }
                 },
                 {
-                    "id": "bec92d89-19ed-4539-830d-0c4cd57bef7b",
+                    "id": "057e2d3b-58f0-4779-babd-40ed37376154",
                     "name": "Article 15",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5ab24661-e3d0-4b48-9cd8-5ab09a1d3035",
+                            "id": "de166092-53d9-486b-bcf5-3e94bdd9d716",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -339,7 +333,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e2f27a0a-6a4c-427e-a5d6-427dfce3ac8e",
+                            "id": "4aabd312-b673-4bfe-b3e8-cd446bd4c203",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -347,7 +341,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "34640392-707b-4e52-a270-bf6f5d0f6ce2",
+                            "id": "1c57a8e0-f191-4b4f-b73e-608d21611e0a",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -355,7 +349,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "960b1a74-429a-4d0f-a5c0-8eb706cec857",
+                            "id": "5f452659-8825-4b1a-aec3-f13f314d501e",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -363,7 +357,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "28814eb2-df38-49b2-905e-19aec9af749c",
+                            "id": "de470a88-9c00-4ffe-81b0-a55a78654434",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
@@ -371,7 +365,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "904b27ff-8fe6-4004-96cc-fd70051d8a4b",
+                            "id": "5155b507-1737-4284-a0ca-cf0a0fd475b4",
                             "name": "Verse 6",
                             "number": "(6)",
                             "type": "verse",
@@ -381,12 +375,12 @@
                     ]
                 },
                 {
-                    "id": "66cbc645-8f5e-47ff-be9e-66a256775daa",
+                    "id": "91f22e4b-fa45-4ade-9183-b94cfcdeb50b",
                     "name": "Article 16",
                     "type": "article",
                     "children": [
                         {
-                            "id": "621895db-e501-423b-bb89-fed0e049730d",
+                            "id": "3abce109-5b34-4cab-9178-78a38020d893",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -394,7 +388,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "fa0596f5-b0df-4afe-93ee-2ecf2a99d1f7",
+                            "id": "36ac8d3d-242a-4529-85c3-bbd5bc3b97bc",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -404,11 +398,11 @@
                     ]
                 },
                 {
-                    "id": "0fb6a276-6574-4e22-bf76-2136e627b1c3",
+                    "id": "fa47875f-ea19-4f9d-b3fb-bbf7024ed208",
                     "name": "Article 17",
                     "type": "article",
                     "children": {
-                        "id": "3f9ea62d-3b7f-4f0a-a99a-0bbd066ff9d2",
+                        "id": "0b2769a2-0c8c-481c-b21c-2cadad9853ae",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -417,12 +411,12 @@
                     }
                 },
                 {
-                    "id": "c4029408-9050-4b6d-a9ca-34ad5937b6e4",
+                    "id": "c698ddea-129d-430a-a0d8-6ff9869a938b",
                     "name": "Article 18",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ebc45962-08df-473c-8d88-12d8357a7542",
+                            "id": "9457fef1-b76b-4342-85e2-2cff24016697",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -430,7 +424,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ae3296dc-407f-4d34-abab-3116e05cf501",
+                            "id": "0d722842-0299-4635-8698-44333e49a189",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -438,7 +432,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8167966e-2525-4158-8720-7a2fc145db23",
+                            "id": "cd300f54-66d2-4a05-b8dc-3816b3aaf509",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -448,11 +442,11 @@
                     ]
                 },
                 {
-                    "id": "043ef88e-29aa-4479-8420-c4f4a648ee21",
+                    "id": "59f81b42-2b2b-4a3b-9e51-74fe3ba6da86",
                     "name": "Article 19",
                     "type": "article",
                     "children": {
-                        "id": "19349e61-9c13-443e-9e8b-38f43d6c0d25",
+                        "id": "7ed4e831-41e3-4e58-ae58-68d3fb01da75",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -461,12 +455,12 @@
                     }
                 },
                 {
-                    "id": "62abb6bf-8e29-4ba8-bb73-702d1dc021b2",
+                    "id": "c066fbf7-8332-47de-9a8a-58e43976e66a",
                     "name": "Article 20",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bfa94a2c-e2d7-47ed-ae44-8d33044b9a7c",
+                            "id": "04ce1e0e-3bb6-49f7-b473-b6cb84b23f25",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -474,7 +468,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b1ff09f7-bf51-43da-934e-feaf8d78b90c",
+                            "id": "5570759f-2cf5-487c-9b17-84fe0a1d1627",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -482,7 +476,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e83e6f3f-2ed8-4ba2-a267-10d059b9244b",
+                            "id": "44f95dad-a6cc-4ed2-b216-fa7fcaa8eeda",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -490,7 +484,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "42d225ca-059f-4b38-b023-5e0278093da4",
+                            "id": "5e1e102d-32de-4c0a-8161-709857498d29",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -500,12 +494,12 @@
                     ]
                 },
                 {
-                    "id": "0def9829-b1f3-4daf-9180-dfbd7a971df4",
+                    "id": "37840eda-27ce-45ca-afe6-b9837bbf4a24",
                     "name": "Article 21",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b3edc0ce-a4f2-4a58-a334-2e08c3a0bdba",
+                            "id": "e8b3da03-f30d-4548-b94d-17db320b749b",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -513,7 +507,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "fcad0cb0-e421-4a74-a93b-485c5fc54b97",
+                            "id": "f2280495-6e54-4b0e-89b1-65594a5033ef",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -521,7 +515,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "38244d0a-5ca0-4b58-ab6d-f6d6c76c3753",
+                            "id": "310d36ac-16fd-4d04-a4a3-3897e2058845",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -531,12 +525,12 @@
                     ]
                 },
                 {
-                    "id": "415829ac-3604-474d-976d-be68d352602d",
+                    "id": "d4614e0f-4982-4a30-9949-5443d8b99993",
                     "name": "Article 22",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8cf6a117-21e8-4cd9-b921-c4f958f856ce",
+                            "id": "77d34071-34e3-4402-a33b-78f87c6add53",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -544,7 +538,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "522d7c07-2996-4ed8-8f9c-4f32130036db",
+                            "id": "31dc8bb0-8798-40ec-a6c4-2efd691301bb",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -552,7 +546,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "215977b7-2a0b-40c3-8cb8-9482f0bbbaad",
+                            "id": "79a5a146-7c81-4f4f-a5d9-8dce40be838a",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -564,17 +558,17 @@
             ]
         },
         {
-            "id": "75ac72d6-93cc-4c1d-9b46-25aa0f9ab578",
+            "id": "b53d5503-f404-4144-abd2-45b9879fb024",
             "name": "Chapter III",
             "title": ".\nKETENTUAN PENUTUP.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "c24e56a1-709f-470e-9b9b-958671ccfe95",
+                    "id": "b1403f7b-7a83-4c4e-8fa4-25bdbb3f3aef",
                     "name": "Article 23",
                     "type": "article",
                     "children": {
-                        "id": "340cdf36-692f-4d64-a363-ec9ba3dd9cb2",
+                        "id": "5a28394e-9b28-4fba-b720-fb6bbf84182f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -591,15 +585,15 @@
         "Tentang": "PENDIRIAN PERUSAHAA NEGARA ARTA YASA",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa perlu segera melaksanakan Undang-undang tentang Perusahaan Negara (Undang-undang No. 19 Prp tahun 1960) terhadap perusahaan-perusahaan negara yang berada di bawah lingkungan Departemen Urusan Pendapatan, Pembiayaan dan Pengawasan;",
-            "b": " bahwa berdasarkan surat Keputusan Menteri Keuangan tanggal 18-11-1945 No. 261155/U.Μ.Ι., surat Keputusan Menteri Keuangan tanggal 30-9-1957 No. 189239/U.M.I. dan surat Keputusan Menteri Urusan Pendapatan, Pembiayaan dan Pengawasan No. 78974/B.U.A.0./5 di bawah lingkungan Departemen Urusan Pendapatan, Pembiayaan dan Pengawasan telah didirikan suatu perusahaan percetakan uang logam ,,Arta Yasa\";",
-            "c": " bahwa tentang Perusahaan,, Arta Yasa\" milik negara di Jakarta hingga sekarang belum ditentukan statusnya;",
-            "d": " bahwa berhubung dengan itu perlu didirikan suatu perusahaan negara menurut\nUndang-undang No. 19 Prp tahun 1960 tentang Perusahaan Negara yang berusaha dalam bidang perlogaman;"
+            "a": " bahwa perlu segera melaksanakan Undang-undang tentang\n   Perusahaan Negara (Undang-undang No. 19 Prp tahun 1960)\n   terhadap perusahaan-perusahaan negara yang berada di bawah\n   lingkungan Departemen Urusan Pendapatan, Pembiayaan dan\n   Pengawasan;",
+            "b": " bahwa berdasarkan surat Keputusan Menteri Keuangan tanggal\n   18-11-1945 No. 261155/U.Μ.Ι., surat Keputusan Menteri\n   Keuangan tanggal 30-9-1957 No. 189239/U.M.I. dan surat\n   Keputusan Menteri Urusan Pendapatan, Pembiayaan dan\n   Pengawasan No. 78974/B.U.A.0./5 di bawah lingkungan\n   Departemen Urusan Pendapatan, Pembiayaan dan Pengawasan telah\n   didirikan suatu perusahaan percetakan uang logam, Arta\n   Yasa\";",
+            "c": " bahwa tentang Perusahaan,, Arta Yasa\" milik negara di Jakarta\n   hingga sekarang belum ditentukan statusnya;",
+            "d": " bahwa berhubung dengan itu perlu didirikan suatu perusahaan\n   negara menurut\n   Undang-undang No. 19 Prp tahun 1960 tentang Perusahaan Negara\n   yang berusaha dalam bidang perlogaman;"
         },
         "Mengingat": {
-            "Introduction": "\na. Pasal 5 ayat 2 Undang-undang Dasar;\nb. Pasal 3 ayat (1) Undang-undang No. 19 Prp tahun 1960 (Lembaran-Negara tahun 1960 No. 59);\nMendengar\nMenko Kompartemen Keuangan dan Menteri Urusan Pendapatan, Pembiayaan dan Pengawasan;"
+            "Introduction": "\na. Pasal 5 ayat 2 Undang-undang Dasar;\nb. Pasal 3 ayat (1) Undang-undang No. 19 Prp tahun 1960\n   (Lembaran-Negara tahun 1960 No. 59);\nMendengar\nMenko Kompartemen Keuangan dan Menteri Urusan Pendapatan,\nPembiayaan dan Pengawasan;"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang pendirian Perusahaan Negara Arta Yasa.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang pendirian Perusahaan Negara Arta\nYasa.",
         "tanggal sah": "1 Januari 1965"
     }
 }

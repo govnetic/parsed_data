@@ -1,0 +1,177 @@
+{
+    "results": [
+        {
+            "id": "c2ef5234-9e89-4c00-95ac-8b36ad7a618a",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "bc70c2d7-af2d-4099-a1ec-df8fb7126f72",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "4239f6f5-e055-48d0-bbcd-7e31f87ee143",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\na. Pemerintah adalah Pemerintah Republik Indonesia;\nb. Menteri adalah Menteriyang bertanggungjawab di bidang telekomunikasi;\nc. Perusahaan adalah Perusahaan Umum Telekomunikasi, disingkat PERUMTEL,\nsebagaimana dimaksud dalam Peraturan Pemerintah Nomor 21 Tahun 1984;\nd. Obligasi adalah Obligasi Perusahaan Umum Telekomunikasi yaitu surat Pengakuan Hutang\nJangka Panjang atas Pinjaman Uang dari masyarakat oleh PERUMTEL dengan\nmenjanjikan imbalan bunga tertentu dan pembayarannya dilakukan secara berkala,",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "300c3235-5bcb-4d80-9350-a892984f05ea",
+            "name": "Chapter II",
+            "title": "\nPENERBITAN OBLIGASI",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "9f3d7056-08ae-4a3d-9e94-9273c8825882",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "c18f0446-5212-4635-9425-34efc24854e3",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Dalam rangka mengembangkan usahanya Perusahaan diizinkan menerbitkan obligasi\ndengan jumlah maksimum sebesar Rp 400.000.000.000,-(empat ratus milyar rupiah), yang\npenerbitannya dilakukan secara bertahap.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "498ff245-d234-4ffc-a32f-b093039b1eba",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Penggunaan dana yang diperoleh dari pengeluaran obligasi sebagaimana dimaksud dalam\nayat (1) ditujukan untuk pembiayaan program pembangunan perusahaan dalam REPELITA\nIV.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "60504667-1ee4-4bf7-80bd-3e89e37393f4",
+                            "name": "Verse 3",
+                            "number": "(3)",
+                            "type": "verse",
+                            "content": " Penetapan jenis obligasi dan tata cara penerbitannya diatur sesuai dengan ketentuan\nperaturan perundang-undangan yang berlaku.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "c2cc133b-3b21-4516-93fc-b15f235dee5f",
+            "name": "Chapter III",
+            "title": "\nPELUNASAN OBLIGASI",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "d071c192-c512-4e53-9e1e-5b41322f37bc",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "e70c5557-dc78-4769-b7ad-6d16ee3a81e7",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nUntuk menjamin pelunasan obligasi yang dikeluarkan, Perusahaan dapat melakukan penyisihan\ndana yang pengaturan selanjutnya dilakukan oleh Menteri dan Menteri Keuangan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "88730e4e-984a-4b85-a0a8-53d5678100af",
+            "name": "Chapter IV",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "ffaac327-2cc2-4336-a6c4-76f2d00b2cc2",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "e3eda5bd-7c26-423c-afe8-aa7ce4570f31",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nCukup jelas",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "b900a4fe-689b-49ab-b4ca-b7aa8db724e6",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": {
+                        "id": "eba416a7-ee18-402a-8028-9a309d8e11f6",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1986 NOMOR 3323\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "7babb26a-2aac-446f-beb9-548f78a1d765",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "1306a6a7-995c-4aeb-915e-8e6b8da6e8cd",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "1c4e689d-b033-4efd-9222-f0bc2d9e96b4",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": {
+                        "id": "39f8eb10-82f6-46eb-9bee-0270cd5a5f20",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nAyat (1)\nBiaya investasi untuk pembangunan bidang telekomunikasi dalam PELITA IV\ndiperkirakan sebesar Rp 3.325.000.000.000,- (tiga trilyun tiga ratus dua puluh\nlima milyar rupiah), yang sumber pembiayaannya berasal dari:\n1. Modal sendiri (\"Equity\") 40% (empat puluh persen) sebesar Rp\n1.315.000.000.000,- (satu trilyun tiga ratus lima belas milyar rupiah),\ndiperkirakan terdiri dari :\na. dana sendiri Rp 1.0 1 5.000.000.000,- (satu trilyun lima belas milyar\nrupiah);\nb. penyertaan modal Pemerintah Rp 300.000.000.000,- (tiga ratus milyar\nrupiah).\n2. Modal pinjaman (\"Debt\") 60% (enam puluh persen) sebesar Rp\n2.010.000.000.000,- (dua trilyun sepuluh milyar rupiah), terdiri dari:\na. pinjaman dalam negeri Rp 1.240.000.000.000,- (satu trilyun dua ratus\nempat puluh milyar rupiah);\nb. pinjaman luar negeri Rp 372.000.000.000,- (tiga ratus tujuh puluh dua\nmilyar rupiah);\nc. obligasi Rp 398.000.000.000,- (tiga ratus sembilan puluh delapan milyar\nrupiah).\n3. Untuk memenuhi jumlah utang sebagaimana dimaksud pada angka 2, dari\npinjaman dalam negeri dan pinjaman luar negeri belum mencukupi, sehingga\nperlu dipenuhi dengan penerbitan obligasi dengan batas maksimum Rp\n400.000.000.000,- (empat ratus milyar rupiah).\nAyat (2)\nCukupjelas\nAyat (3)\nYang dimaksud dengan peraturan perundang-undangan yang berlaku yaitu\nperaturan perundang-undangan yang selama ini telah dikeluarkan oleh\nPemerintah yang berkaitan dengan penetapan jenis obligasi dan tata cara\npenerbitannya yang merupakan pelaksanaan dari Undang-undang Nomor 15\nTahun 1952 tentang Penetapan Undang-undang Darurat tentang Bursa yang\nketentuan teknis pelaksanaannya diatur oleh Menteri Keuangan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "9f52470c-d40f-4fb5-a08f-5683c15e3be9",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "5a14d970-7c76-4cfb-8eea-aadd2e0071c7",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nCukup jelas",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "11",
+        "Tahun": "1986",
+        "Tentang": "OBLIGASI PERUSAHAAN UMUM TELEKOMUNIKASI",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa telekomunikasi merupakan cabang produksi jasa yang mempunyai\nperanan penting dalam rangka pelaksanaan pembangunan nasional;",
+            "b": " bahwa sarana telekomunikasi yang dimiliki Perusahaan Umum\nTelekomunikasi dirasakan masih belum memadai, sehingga\npembangunannya perlu dilakukan secara terencana berdasarkan program\nPELITA IV Perusahaan Umum Telekomunikasi yang merupakan bagian\ndari Rencana Pembangunan Lima Tahun KE-IV;",
+            "c": " bahwa untuk pembiayaan pembangunan, Perusahaan Umum\nTelekomunikasi memerlukan dana yang cukup besar yang bersumber dari\ndana sendiri, pinjaman bank, pinjaman luar negeri, dan penarikan dana dari\nmasyarakat dalam bentuk obligasi;",
+            "d": " bahwa sesuai dengan ketentuan Pasal 9 ayat (2) Peraturan Pemerintah\nNomor 21 Tahun 1984, penarikan dana dalam bentuk obligasi pertu diatur\ndalam suatu Peraturan Pemerintah"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) dan Pasal 33 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Peraturan Pemerintah Nomor 21 Tahun 1984 tentang Perusahaan Umum\n(PERUM) Telekomunikasi (Lembaran Negara Tahun 1984 Nomor 31);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG OBLIGASI\nPERUSAHAAN UMUM TELEKOMUNIKASI.",
+        "tanggal sah": ""
+    }
+}

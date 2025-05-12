@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "6db5d4cd-f670-451d-8b67-da8ef0a8fa31",
+            "id": "b000c931-30e5-4ea8-a1b9-7f1ce9a22852",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "735a8045-fdf6-4e94-a88e-0b9992dabed8",
+                "id": "80ec3ce4-3d37-48c1-b2c7-4f302b2f0c34",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "5f427c85-2bbb-41f9-ac13-7ec6f1d63ea0",
+            "id": "52300c96-1078-4945-b0bd-050091362208",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "e01b67ee-7343-45c1-9b39-7421e4947daa",
+                "id": "bfe645fc-7193-4fdf-be82-71c6a50e4731",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "0375fba5-2936-44fd-b1c2-9d9ca226b8ee",
+            "id": "c6abdda8-394d-4c7d-a599-073fa399f716",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "4ec034a9-f357-4936-afbe-02a3ef65ca36",
+                "id": "0639a3c5-4603-4d19-8265-3b5fa3deeed4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,24 +40,24 @@
             }
         },
         {
-            "id": "e275c3e8-4237-4f89-90aa-e9b489837a4f",
+            "id": "5366f2db-c574-4e83-beb2-9a601c818abe",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "65243834-143f-4604-815d-62d1fb7cfb75",
+                "id": "71601d73-f7bc-499a-bbdc-543d63065e6b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Pengembalian dengan tanggal perlu, berhubung dengan\nkemungkinan pengajuan di muka pengadilan tertera dalam pasal\n8 kalimat kedua. Pengajuan sesuatu hal untuk mendapatkan\nkeputusan-atau penetapan-hakim adalah termasuk hak-hak dasar\nmanusia.\nPasal 5 dan 7\nUmumnya dalam hal menerima keterangan Menteri Kehakiman bersikap\npasif. Jika ia mendapat penunjukan-penunjukan yang cukup kuat\nbahwa penerimaan itu tidak benar, maka barulah ia bertindak aktif.\nJuga tindakan Menteri Kehakiman ini tidak mempunyai kekuatan\nkonstitutef.\nPasal 6, 8, 9 dan 10.\nSudah terang.\n",
+                "content": "Pengembalian dengan tanggal perlu, berhubung dengan\nkemungkinan pengajuan di muka pengadilan tertera dalam pasal\n8 kalimat kedua. Pengajuan sesuatu hal untuk mendapatkan\nkeputusan-atau penetapan-hakim adalah termasuk hak-hak dasar\nmanusia.\nPasal 5 dan 7\nUmumnya dalam hal menerima keterangan Menteri Kehakiman bersikap\npasif. Jika ia mendapat penunjukan-penunjukan yang cukup kuat\nbahwa penerimaan itu tidak benar, maka barulah ia bertindak aktif.\nJuga tindakan Menteri Kehakiman ini tidak mempunyai kekuatan konstitutef.\nPasal 6, 8, 9 dan 10.\nSudah terang.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "b4ed71da-ce79-4e46-9a02-f3117aa2d5b8",
+            "id": "2cda5047-936a-4c4b-88aa-de948416f82d",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "baafad26-abed-4288-8a1e-bbe86c288163",
+                "id": "bc7789fc-da86-4686-bba9-70e692fc8791",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "94169d94-40ed-4526-941b-88b54e06bad6",
+            "id": "194ca48c-d573-49d5-b8e2-23dcd249b7e2",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "eb750d3f-d8f5-425c-b725-5f42c76ffeca",
+                "id": "c373035a-c1d5-4c23-9823-890d10d321e1",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -79,54 +79,54 @@
             }
         },
         {
-            "id": "07c717ec-b21f-4f88-8da3-31cbd8e24ea5",
+            "id": "d7dcd1f9-110b-4611-8398-c2ff1a393eb0",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "b6e8338a-7939-42b2-8bf9-3f87eb01a634",
+                "id": "467dbeac-8764-4797-b1ca-a42e41f5a3f3",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Jika Menteri Kehakiman dapat mengetahui, bahwa seorang yang\nketerangannya tentang memilih atau menolak kebangsaan Indonesia\ntelah diterima, sesungguhnya tidak memenuhi syarat, maka segera ia\nmengembalikan surat (catatan) penyatakan keterangan yang masih ada\ndalam kementeriannya kepada orang yang menyatakan keterangan,\ndengan melalui pejabat yang menerimanya agar supaya daftar dan\nberkasnya dibetulkan.\nHal ini oleh Menteri Kehakiman diberitahukan kepada Komisaris\nAgung Kerajaan Belanda pada Pemerintah Republik Indonesia Serikat,\njika perlu, dan disiarkan juga di dalam Berita Negara.",
+                "content": "Jika Menteri Kehakiman dapat mengetahui, bahwa seorang yang keterangannya tentang memilih atau menolak kebangsaan Indonesia telah diterima, sesungguhnya tidak memenuhi syarat, maka segera ia mengembalikan surat (catatan) penyatakan keterangan yang masih ada dalam kementeriannya kepada orang yang menyatakan keterangan, dengan melalui pejabat yang menerimanya agar supaya daftar dan berkasnya dibetulkan.\nHal ini oleh Menteri Kehakiman diberitahukan kepada Komisaris Agung Kerajaan Belanda pada Pemerintah Republik Indonesia Serikat, jika perlu, dan disiarkan juga di dalam Berita Negara.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "35c9b26d-3ebb-4e6c-a169-38862ab9a7e9",
+            "id": "f9d2fc14-76f3-4c57-b44e-7b28171a656c",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "89bfc849-8c52-4cdd-9b9c-efe71983c35f",
+                "id": "832313c8-9cc8-4126-828f-b7c5ac3a4915",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Pemilihan atau penolakan kebangsaan Indonesia mulai berlaku pada\nhari surat catatan penyatakan keterangan dibuat atau pada hari\nsurat penyatakan keterangan diterima oleh pejabat yang berwajib.\nJikalau dengan suatu keputusan hakim diputus, bahwa orang yang\nbersangkutan dan/atau orang yang menyatakan keterangan, yang tidak\nditerima oleh pejabat sesungguhnya memenuhi syarat-syarat, maka\npemilihan atau penolakan kebangsaan Indonesia oleh orang itu\nberlaku juga mulai pada hari surat catatan tentang keterangan yang\ntidak diterima, seharusnya dibuat atau pada hari surat penyatakan\nketerangannya diterima oleh pejabat itu.\nGuna itu orang yang bersangkutan dapat mengirimkan tiga lembar\nsalinan yang sah dari keputusan hakim itu kepada yang berwajib.\nPejabat tersebut dan Menteri Kehakiman berbuat dengan salinan\nkeputusan hakim yang sah ini seperti dengan surat penyatakan\nketerangan, yang dibubuh keterangan penerimaan.",
+                "content": "Pemilihan atau penolakan kebangsaan Indonesia mulai berlaku pada hari surat catatan penyatakan keterangan dibuat atau pada hari surat penyatakan keterangan diterima oleh pejabat yang berwajib.\nJikalau dengan suatu keputusan hakim diputus, bahwa orang yang bersangkutan dan/atau orang yang menyatakan keterangan, yang tidak diterima oleh pejabat sesungguhnya memenuhi syarat-syarat, maka pemilihan atau penolakan kebangsaan Indonesia oleh orang itu berlaku juga mulai pada hari surat catatan tentang keterangan yang tidak diterima, seharusnya dibuat atau pada hari surat penyatakan keterangannya diterima oleh pejabat itu.\nGuna itu orang yang bersangkutan dapat mengirimkan tiga lembar salinan yang sah dari keputusan hakim itu kepada yang berwajib.\nPejabat tersebut dan Menteri Kehakiman berbuat dengan salinan keputusan hakim yang sah ini seperti dengan surat penyatakan keterangan, yang dibubuh keterangan penerimaan.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "238a37b8-75b3-4256-96d8-0c5897bbcda1",
+            "id": "c950b6e5-4a4b-4cf3-acd3-d4341a1cecbd",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "43f31f95-008d-4b56-8ade-51de85a64efc",
+                "id": "b403d24b-62bf-49db-b99f-134d6f4b2a17",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini dapat disebut : \"Peraturan Pemerintah\npelaksanaan pembagian warganegara\".",
+                "content": "Peraturan Pemerintah ini dapat disebut : \"Peraturan Pemerintah pelaksanaan pembagian warganegara\".",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "5c87f40c-8873-440d-900a-d34ed5877932",
+            "id": "3409faed-2abc-4225-906f-577d0e0652f8",
             "name": "Article 10",
             "type": "article",
             "children": {
-                "id": "dacc9f3c-06ea-44c6-8206-61a90cdb2b45",
+                "id": "b59d7cc0-e9fa-4bc5-8294-34f8b5c50667",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini segera berlaku dan berlaku surut sampai\npada waktu pemulihan kedaulatan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengumuman Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia Serikat.",
+                "content": "Peraturan Pemerintah ini segera berlaku dan berlaku surut sampai pada waktu pemulihan kedaulatan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengumuman Peraturan Pemerintah ini dengan penempatan dalam Lembaran Negara Republik Indonesia Serikat.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

@@ -1,0 +1,672 @@
+{
+    "results": [
+        {
+            "id": "289f1580-000c-4407-be90-92b207bff056",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "3d44158a-2eb7-4e5f-b2ce-f300a77cd659",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "4b6b638c-894c-47e9-9e5e-be70b3255666",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nYang dimaksudkan dalam Peraturan Pemerintah ini dengan:\na. Dosis Radiasi adalah jumlah energi yang dipindahkan dengan jalan\nionisasi kepada suatu volume tertentu atau kepada seluruh tubuh,\nyaitu biasanya disamakan dengan jumlah energi yang diserap oleh\njaringan atau zat lainnya tiap satuan massa pada tempat pengukuran,\nsedangkan satuannya ialah rad, ekivalen dengan jumlah energi yang\ndiserap sebesar 100 erg tiap gram zat yang terkena radiasi itu.\nb. Nilai Batas yang Diizinkan adalah dosis radiasi yang masih dapat\nditerima oleh seseorang tanpa menimbulkan kelainan-kelainan\ngenetik atau somatik yang berarti menurut tingkat\nkemajuan/pengetahuan pada dewasa ini, tidak termasuk untuk tujuan\nkedokteran.\nc. Petugas Proteksi Radiasi adalah petugas yang ditunjuk oleh Penguasa\nInstalasi Atom dan oleh Instansi yang berwenang dinyatakan mampu\nmelaksanakan pekerjaan-pekerjaan yang berhubungan dengan\npersoalan proteksi radiasi.\n\nd. Ahli Proteksi Radiasi adalah seorang yang telah mendapat pendidikan\nkhusus dalam kesehatan kerja terhadap radiasi yang menurut\npenilaian Instansi yang berwenang dianggap mempunyai cukup\nkeahlian dan kemampuan untuk menyelesaikan persoalan-persoalan\nyang berhubungan dengan proteksi radiasi dan diangkat oleh\nDepartemen Tenaga Kerja, Transmigrasi dan Koperasi sebagai Ahli\nKeselamatan Kerja atas usul Instansi yang berwenang.\ne. Pekerja Radiasi adalah setiap orang yang karena jabatannya atau\ntugasnya selalu berhubungan dengan medan radiasi dan oleh Instansi\nyang Berwenang senantiasa memperoleh pengamatan tentang dosis-\ndosis radiasi yang diterimanya.\nf. Penguasa Instalasi Atom adalah Kepala/Direktur Instalasi Atom atau\norang lain yang ditunjuk untuk mewakilinya.\ng. Kecelakaan adalah suatu kejadian di luar dugaan yang\nmemungkinkan timbulnya bahaya radiasi, dan kontaminasi, baik bagi\npekerja radiasi maupun bukan pekerja radiasi.\nh. Sampah Radioaktip adalah zat-zat radioaktip dan bahan-bahan serta\nperalatan yang telah terkena zat-zat radioaktip atau menjadi\nradioaktip karena operasi-operasi nuklir dan tidak dapat\ndipergunakan lagi.\ni. Instansi yang Berwenang adalah Badan Tenaga Atom Nasional.\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "63601636-8de5-475b-829b-2110d4919d87",
+            "name": "Chapter II",
+            "title": "\nNILAI BATAS YANG DIIZINKAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "f5c8a47a-06e1-4f1a-b170-faa5d4332881",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": {
+                        "id": "a05d98f0-870c-4621-b6a4-2ca08c72e19e",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nUntuk menentukan Nilai Batas Yang Diizinkan ditetapkan dosis tertentu sehingga menurut tingkat pengetahuan dewasa ini, kemungkinan luka somatik dan kerusakan genetik dapat dihindarkan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "daacf5da-858e-465e-ba1e-1c27a506e99f",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "065743f0-6abb-4280-910a-7e05545de655",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKetentuan-ketentuan Nilai Batas Yang Diizinkan sebagaimana dimaksudkan pada Pasal 2 akan diatur lebih lanjut oleh Instansi Yang Berwenang.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "db9fc3e2-3555-4b40-9156-181a474c3790",
+            "name": "Chapter III",
+            "title": "\nPETUGAS DAN AHLI PROTEKSI RADIASI",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "59c540ed-02e7-4175-a442-11822da50f33",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "08fbb71b-1d91-4173-9f42-03ee7d319791",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSetiap Instalasi Atom harus mempunyai sekurang-kurangnya seorang Petugas Proteksi Radiasi.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "2f990393-9dae-4bc7-839d-47bdbd3622ed",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "be23b5b3-5db2-482d-9522-b53cdd66c357",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Setiap Penguasa Instalasi Atom, dengan persetujuan Instansi Yang Berwenang, diwajibkan menunjuk dirinya sendiri atau orang lain dibawahnya selaku Petugas Proteksi Radiasi.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "d067abfd-f244-4440-a6fc-3a6a34142fa6",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Petugas Proteksi Radiasi bertanggungjawab atas segala sesuatu yang berhubungan dengan keselamatan setiap orang dalam lingkungan kekuasaaannya kepada Penguasa Instalasi Atom.\n",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "8cd454fa-42a7-473e-8652-98f729c581ed",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "61d3341e-4773-4691-aa74-474298730f17",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPetugas Proteksi Radiasi berkewajiban menyusun Pedoman Kerja,\nInstruksi dan lain-lain yang berlaku dalam lingkungan Instalasi atom yang\nbersangkutan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "7e9fd4cd-6f2e-4d73-926a-c89b7347020e",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a02e00b1-a08e-46ba-afdb-5d515959f78f",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Untuk mengawasi ditaatinya peraturan-peraturan keselamatan kerja\nterhadap radiasi, perlu ditunjuk Ahli Proteksi Radiasi oleh Instansi\nYang Berwenang.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "be595773-a3f2-4809-963d-feb2f699a26c",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Ahli Proteksi Radiasi diwajibkan memberikan laporan kepada\nInstansi Yang Berwenang dan Menteri Tenaga Kerja, Transmigrasi\ndan Koperasi secara berkala.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "9f12d090-547d-434b-8eb6-7a5aea65f466",
+            "name": "Chapter IV",
+            "title": "\nKESEHATAN\nBagian Pertama\nPemeriksaan Kesehatan Calon Pekerja dan Pekerja Radiasi\nPasal 8\nSetiap calon pekerja radiasi yang akan bekerja dalam Instansi Atom wajib\nmendapat pemeriksaan atas kesehatannya secara teliti dan menyeluruh\noleh dokter yang ditunjuk oleh Instalasi Atom setempat.\nPasal 9\nPasal 9\n(1) Setiap pekerja radiasi disyaratkan sehat jasmaniah maupun rohaniah.\n(2) Setiap pekerja radiasi. secara berkala wajib mendapat pemeriksaan\natas kesehatannya secara teliti dan menyeluruh oleh dokter yang\nditunjuk oleh Instalasi Atom setempat.\nPasal 10\n(1) Pemeriksaan berkala bagi pekerja radiasi dilakukan 1 (satu) kali\ndalam setahun.\n(2) Apabila dipandang perlu, pemeriksaan dapat dilakukan sewaktu-\nwaktu.\n(3) Setiap pekerja radiasi yang memutuskan hubungan kerja dengan\nInstalasi Atom wajib mendapat pemeriksaan atas kesehatannya secara\nteliti dan menyeluruh oleh dokter yang ditunjuk oleh Instalasi Atom\nsetempat.",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "a87734c3-caf5-45f6-a230-5d46d57039a8",
+                    "name": "Section Second",
+                    "title": "\nKartu Kesehatan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "07ee423f-230e-4018-9e8f-ea36c5438a93",
+                            "name": "Article 11",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "ef67aa37-57fb-4913-bdb0-89e60ca0c4c3",
+                                    "name": "Verse 1",
+                                    "number": "(1)",
+                                    "type": "verse",
+                                    "content": " Setiap pekerja radiasi mempunyai kartu kesehatan guna mencatat\nsecara teratur hasil pemeriksaan medis dan disimpan dibawah\npengawasan dokter yang ditunjuk oleh Instalasi Atom setempat.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "cff77a4a-ff75-4a18-82db-eaacd6c88423",
+                                    "name": "Verse 2",
+                                    "number": "(2)",
+                                    "type": "verse",
+                                    "content": " Petugas Proteksi Radiasi diwajibkan mencatat dalam kartu khusus\nsecara teratur banyaknya dosis radiasi menurut jenis yang diterima\noleh setiap pekerja dalam Instalasi Atom setempat dan kartu tersebut\ndisimpan dibawah pengawasan Petugas Proteksi Radiasi.\n",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "ed307190-05e4-46e2-899a-8a9c7160e92c",
+                            "name": "Article 12",
+                            "type": "article",
+                            "children": {
+                                "id": "0b4aa535-717e-4f23-a78c-0b3419205201",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nKartu Kesehatan tersebut pada Pasal 11, tetap mengikuti pekerja radiasi\ndalam tiap lingkungan pekerjaannya.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "9f4b3fd9-f2e8-48ae-9d35-9e59305a7008",
+                    "name": "Section Third",
+                    "title": "\nPenukaran Tugas Pekerjaan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "a9a162a6-9430-4275-8fde-6b4c53955b67",
+                            "name": "Article 13",
+                            "type": "article",
+                            "children": {
+                                "id": "516d5eb1-187d-4b15-8642-2be44574846e",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nPetugas Proteksi Radiasi dapat menasehatkan untuk memindahkan\nseseorang pekerja radiasi ketempat lain, apabila Nilai Batas yang\ndiizinkan untuk angka waktu tertentu dilampaui.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eb678b82-c686-400d-bf85-1bfbb21c501f",
+            "name": "Chapter V",
+            "title": "\nKETENTUAN-KETENTUAN KERJA DENGAN ZAT-ZAT RADIOAKTIP\nDAN ATAU SUMBER RADIASI LAINNYA",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "1c4c31a6-aea3-409f-a69a-e1ce34c2fbc6",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": {
+                        "id": "11fe79a0-df5b-4c57-b67b-0ceda5259288",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSemua pekerjaan yang memakai zat radioaktip terbuka dan zat radio-aktip\ntertutup serta sumber-sumber radiasi lainnya, harus mengikuti ketentuan-\nketentuan yang diatur lebih lanjut oleh Instansi Yang Berwenang.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "7d7b3282-47e0-43dd-a16c-9bf11e7a566a",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": {
+                        "id": "8963c88d-50a8-40de-8837-0f4fea68e10d",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nWanita hamil tidak diperkenankan menerima dosis radiasi yang melebihi\nNilai Batas Yang Diizinkan sebagai yang diatur pada Pasal 3.\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a91ec273-5209-4d33-b32b-80f6adff289b",
+            "name": "Chapter VI",
+            "title": "\nPEMBAGIAN DAERAH KERJA\nDAN PENGURUSAN SAMPAH RADIΟΑΚΤΙΡ",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "86285e6a-dfb7-45a4-b862-d22f5dea8e03",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": {
+                        "id": "b4759e04-1d44-4506-b109-292a8b60f790",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nUntuk menjaga keselamatan seseorang, maka didalam Instalasi Atom\nperlu diadakan pembagian daerah sesuai dengan tingkat bahaya radiasinya\nyang ditentukan oleh Instansi Yang Berwenang.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "70ed422a-971e-49d8-bf17-13a4142eaa3c",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": {
+                        "id": "3ceeb5b2-3e86-4b5b-98a9-ca939e15c8ed",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSampah radioaktip harus dikumpulkan, disimpan, dan dibuang pada\ntempat dan dengan cara sebagai yang ditentukan dalam peraturan yang\ndikeluarkan oleh Instansi Yang Berwenang.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "58fd02f8-0822-4fae-ae7a-f24ab16a7941",
+            "name": "Chapter VII",
+            "title": "\nKECELAKAAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "e558d46f-8202-47e7-bd4b-45601e2e9ccd",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": {
+                        "id": "b59e1bc9-dbc3-461e-b8f2-f1fc134550af",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam hal terjadi kecelakaan, setiap Instalasi Atom diwajibkan\nmengambil tindakan dan menyelenggarakan pengamanan untuk keadaan\ndarurat.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "7cfc3d94-fa0b-47f6-8110-7629cef81519",
+                    "name": "Article 19",
+                    "type": "article",
+                    "children": {
+                        "id": "94cb7566-d61d-4903-9054-3946bc0eedd8",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam hal terjadi kecelakaan, dimana anggota masyarakat umum\nmungkin menjadi korban, harus segera diadakan hubungan dengan\npejabat/penguasa setempat.\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "9e54a625-2284-4410-ae92-f5741a04f2ad",
+                    "name": "Article 20",
+                    "type": "article",
+                    "children": {
+                        "id": "08e7dfe9-c3d6-4148-b374-b68be37684db",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nTindakan pengamanan dipimpin oleh Penguasa Instalasi Atom atau orang\nlain yang khusus ditunjuk untuk itu dibantu oleh pejabat/penguasa\nsetempat.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "50cf3d64-b2cb-46e3-8ce7-f8362a8838f0",
+                    "name": "Article 21",
+                    "type": "article",
+                    "children": {
+                        "id": "00d41d0e-350a-48bd-b18b-6e42576b3202",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam semua tindakan pertolongan terhadap kecelakaan, keselamatan\nmanusia diutamakan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "799e1f27-7a61-4446-a1a0-38d420cf532f",
+                    "name": "Article 22",
+                    "type": "article",
+                    "children": {
+                        "id": "4fbab814-a863-43dc-9c12-a66d91a29cb2",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSebab-sebab kecelakaan harus segera diselidiki oleh suatu Team yang\nterdiri dari Ahli Proteksi Radiasi dan Penguasa Instalasi Atom yang\nbersangkutan atau Wakil yang ditunjuknya, yang dibentuk oleh Instansi\nYang Berwenang serta hasilnya dilaporkan kepada Instansi Yang\nBerwenang.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aeaf73cd-343e-4e0c-a792-89d7a88444f0",
+            "name": "Chapter VIII",
+            "title": "\nKETENTUAN PIDANA",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "531faf3f-b52d-4404-8f91-aa0b9171ad8c",
+                    "name": "Article 23",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "235b097b-0756-45c6-a2cd-22f1eb5baa43",
+                            "name": "Verse 1",
+                            "number": "(1)",
+                            "type": "verse",
+                            "content": " Pelanggaran terhadap ketentuan-ketentuan yang tersebut dalam Pasal-\npasal 5 ayat (1), 6, 11 ayat (2) dan Pasal 18, diancam dengan pidana\ndenda setinggi-tingginya Rp. 100.000,- (seratus ribu rupiah).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "aaba3857-f975-4819-a8fb-f6091b34bb94",
+                            "name": "Verse 2",
+                            "number": "(2)",
+                            "type": "verse",
+                            "content": " Tindak pidana yang dimaksudkan dalam ayat (1) adalah pelanggaran.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "e270c0c7-a0db-4bd0-a37d-b1a11ca89274",
+            "name": "Chapter IX",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "949c5910-7f1d-46f0-89ed-acde70265db7",
+                    "name": "Article 24",
+                    "type": "article",
+                    "children": {
+                        "id": "dc1723fc-e130-4be2-af43-e12125c761bb",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nHal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini akan\ndiatur lebih lanjut oleh Instansi Yang Berwenang.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "3ede85ad-4df0-401d-aa7d-f5cf7d75a51b",
+                    "name": "Article 25",
+                    "type": "article",
+                    "children": {
+                        "id": "623fde86-2882-4508-b1fd-f9eef87b7340",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya dalam\nLembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 16 April 1975\nPRESIDEN REPUBLIK INDONESIA\nTTD\nSOEHARTO\nJENDERAL TNI.\nDiundangkan di Jakarta\npada tanggal 16 April 1975\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nTTD\nSUDHARMONO, SH.\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1975 NOMOR 15\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 11 TAHUN 1975\nTENTANG\nKESELAMATAN KERJA TERHADAP RADIASI\nA. PENJELASAN UMUM\nDengan bertambahnya pemakaian zat radioaktip dan atau sumber radiasi dalam\nberbagai bidang di Indonesia, maka perlu sekali diatur cara-cara tentang keselamatan\nkerja bagi pekerja radiasi khususnya dan masyarakat pada umumnya.\nWalaupun radiasi tidak nampak, akan tetapi sangat berbahaya karena dapat\nmenimbulkan kerusakan somatik maupun genetik. Untuk dapat menarik manfaat dari\nzat radioaktip dan atau sumber radiasi. maka kita harus mengetahui bagaimana\nmenghindari atau jika mungkin meniadakan sama sekali bahaya tersebut, sehingga\nadalah merupakan suatu kewajiban Pemerintah untuk melindungi para pekerja\nradiasi dari bahaya ini, baik dengan mengeluarkan peraturan-peraturan bagi\nkeselamatan kerja tenaga-tenaga tersebut, maupun dengan. mengusahakan alat-alat\nproteksi radiasi.\nUntuk dapat bekerja dengan aman, maka oleh Komisi Internasional Proteksi\nRadiologi (I.C.R.P.) dan Badan Tenaga Atom Internasional (IAEA) telah dilakukan\npenelitian yang menghasilkan Nilai-nilai Batas Yang Diizinkan.\nNilai-nilai Batas tersebut dipakai sebagai pegangan dalam perumusan\nketentuan kerja yang akan dikeluarkan oleh Instansi Yang Berwenang.\nB. PENJELASAN PASAL DEMI PASAL",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "2d0083d6-bea7-419a-96cd-040c954734cc",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "416f46cd-8d83-4189-a1f3-91b3ee5c33c1",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nCukup jelas.\nPasal 2 dan 3\nDidalam menetapkan Nilai Batas Yang Diizinkan ini diperhatikan juga anjuran\nICRP dan IAEA yang telah mengadakan penelitian-penelitian mengenai hal ini.\n\nInstansi Yang Berwenang akan mengeluarkan ketentuan-ketentuan tentang\nNilai Batas Yang Diizinkan itu dalam bentuk Ketentuan Kerja, yang sewaktu-\nwaktu dapat diubah sesuai dengan perkembangan baru.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "b8c33922-c59c-4645-8c0c-ed7df27d0d9a",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "4919cc12-4749-43c5-a33b-eff46f9fbedc",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKeharusan sekurang-kurangnya mempunyai seorang Petugas Proteksi Radiasi\ndalam setiap Instalasi Atom itu dimaksudkan agar keselamatan kerja terhadap\nradiasi dalam instalasi itu dilaksanakan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "b87f31e0-07ed-48c9-9b22-9b133750a733",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": {
+                        "id": "9b928b43-8321-4d33-a0d2-3b1703366d54",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam hal Instalasi Atom dimana tidak ada orang lain yang dapat bertindak\nselaku Petugas Proteksi Radiasi, maka ia dapat bertindak sendiri selaku Petugas\nProteksi Radiasi. Tanggungjawab yang dimaksudkan dalam ayat ini adalah\ntanggungjawab secara administratip kepada atasannya.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "68766e68-4711-4343-a1be-8414e8992039",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "ec2146e3-a6d8-4db9-b734-efb395a802e6",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nCukup jelas.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "296c4e8f-ac05-412c-938a-8bc5fb278418",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": {
+                        "id": "e6d33900-d40e-4ee8-bb64-e43db0596fcb",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nUntuk mengawasi tugas pekerjaan Petugas Proteksi Radiasi ini perlu diangkat\nAhli Proteksi Radiasi yang wajib memberikan bimbingan dan petunjuk-\npetunjuk kepada para Petugas Proteksi Radiasi. Hasil-hasil pemeriksaan\n(inspeksi) wajib dilaporkan kepada BATAN oleh Ahli Proteksi Radiasi,\nsehingga BATAN sebagai Instansi yang berwenang dapat memperoleh\nketerangan-keterangan yang lengkap mengenai segala kegiatan dibidang tenaga\natom.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "bcb93d1b-3a9c-4f37-b028-344145da4c4f",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": {
+                        "id": "f2f4c367-ff9c-49d2-9b42-a5163204b32f",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPemeriksaan bagi calon pekerjaan dimaksudkan untuk mengetahui:\n1. Kondisi badan agar dapat diketahui pengaruh radiasi pada kesehatannya\nselama dan sesudah bekerja dengan radiasi;\n2. Pengaruh\n2. Pengaruh radiasi pada badannya yang diterima pada Instalasi Atom lainnya.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "946773b6-9cea-4682-aa8a-c8d6eeba429f",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": {
+                        "id": "91628bd0-5de3-4c8d-bd37-3192b6a72a56",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSyarat sehat jasmaniah maupun rohaniah dari setiap pekerja ini dibuktikan dengan hasil pemeriksaan dokter yang ditunjuk oleh Instalasi setempat.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "049dcc9a-b446-4e23-9714-672a5dbdabab",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": {
+                        "id": "33c3f115-0f89-4a6c-8ca9-32115efbc53b",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nApabila ada dugaan bahwa petugas tersebut mendapat penyinaran lebih (over exposure) maka pekerja tersebut harus diperiksa.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "841185b1-ad4a-49a2-865e-7cf85be056f9",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": {
+                        "id": "03da7000-8385-455c-bad9-041d5ff09651",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam hal suatu Instalasi Atom belum mempunyai seorang dokter tersendiri maka kartu kesehatan disimpan dibawah tanggungjawab Penguasa Instalasi.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "89be9fd1-8638-46b6-af9a-cb33e2ccd3a8",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": {
+                        "id": "289756d2-e16d-4a11-b3bd-9029b86a165d",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nMaksud penyimpanan kartu kesehatan tersebut, yang juga harus mengikuti setiap pekerja dilingkungan pekerjaannya adalah berhubung adanya kemungkinan akibat radiasi yang muncul kemudian (delayed effects) pada pekerja yang bersangkutan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "60129296-0fa7-4ec3-8a61-5d6babda6495",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": {
+                        "id": "e5c4e092-ddd0-471d-a23f-beb7be874e2d",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPemindahan itu bermaksud agar kesehatan pekerja yang bersangkutan pulih kembali. Sebagai tindakan preventip Petugas Proteksi Radiasi dapat menasehatkan untuk memindahkan pekerja radiasi sekalipun Nilai Batas Yang Diizinkan untuk jangka waktu tertentu belum dilampaui.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "b7890c8c-56ba-4943-b2ad-8710c62fd905",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": {
+                        "id": "23990925-465b-4714-98b5-5fd8278637dd",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nCukup jelas\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "076a47b9-f31f-4541-bc46-8bdcfa44c00c",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": {
+                        "id": "74c3dee4-1844-41b3-aa1f-aa26670cba9e",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nAgar supaya tenaga kerja dapat dipergunakan semaksimal mungkin tanpa membahayakan diri maupun keturunannya, pembatasan penerimaan dosis ditentukan mengingat bayi yang ada dalam kandungan peka terhadap radiasi.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "63150eda-ac97-45d6-bb56-ddc59b4d95d6",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": {
+                        "id": "5e364df5-07c0-49f9-96ef-70c04f94d149",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDengan tujuan untuk menghindarkan para pekerja, para pengunjung maupun penduduk sekitarnya dari bahaya radiasi, maka daerah dimana suatu Instalasi Atom terletak perlu dibagi-bagi sesuai dengan tingkat bahayanya, kemudian ditentukan syarat-syarat dan ketentuan-ketentuan yang harus ditaati demi keselamatan disetiap daerah tersebut. Pembagian dan syarat-syarat itu akan diatur oleh Instansi Yang Berwenang.\nPasal 17 dan Pasal 18\nCukup jelas",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "cc69a131-7be7-4ffe-9b79-c1f659f8feb8",
+                    "name": "Article 19",
+                    "type": "article",
+                    "children": {
+                        "id": "7f0e82ab-5e3a-450d-b777-1b0c136c52b0",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPejabat-pejabat setempat tersebut diminta bantuannya untuk mencegah timbulnya korban dalam masyarakat umum.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "3a7ae161-bd62-40f0-8b21-44ce5384f7e3",
+                    "name": "Article 20",
+                    "type": "article",
+                    "children": {
+                        "id": "7bfa1ade-0b67-4e0c-9577-88b22f48dbfa",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nCukup jelas.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "b578ae17-76a0-4955-afab-6b29fb3df776",
+                    "name": "Article 21",
+                    "type": "article",
+                    "children": {
+                        "id": "83364477-f7a0-499e-a8a1-2272c9485cf2",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nCukup jelas.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "85a0a77d-44cb-4f34-9fdf-c11543d99311",
+                    "name": "Article 22",
+                    "type": "article",
+                    "children": {
+                        "id": "667b5dea-d302-4325-b208-8093f18c20dc",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPenyelidikan yang dimaksudkan dalam pasal ini adalah penyelidikan teknis. Laporan hasil penyelidikan disampaikan kepada Instansi Yang Berwenang dengan tembusan disampaikan kepada Instansi-instansi yang berkepentingan.\n\nPasal 23, 24 dan 25\nCukup jelas.\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "11",
+        "Tahun": "1975",
+        "Tentang": "KESELAMATAN KERJA TERHADAP RADIASI",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa sejalan dengan perkembangan ilmu pengetahuan dalam penggunaan tehnologi modern, pemakaian zat radioaktip dan atau sumber radiasi lainnya telah semakin meluas di Indonesia;",
+            "b": " bahwa pemakaian zat radioaktip dan atau sumber radiasi lainnya tersebut disamping mengandung segi-segi positip bagi kehidupan juga dapat menimbulkan bahaya radiasi, baik terhadap manusia maupun terhadap harta dan benda;",
+            "c": " bahwa untuk mencapai suasana kerja yang aman dan sehat serta untuk menghindarkan akibat-akibat buruk yang mungkin terjadi terhadap para pekerja, penduduk, dan lingkungan sekitarnya maka perlu ditetapkan peraturan yang mengatur keselamatan kerja terhadap bahaya radiasi;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 31 Tahun 1964 tentang Ketentuan-ketentuan Pokok Tenaga Atom (Lembaran Negara Republik Indonesia Tahun 1964 Nomor 124, Tambahan Lembaran Negara Republik Indonesia Nomor 2722);",
+            "3": " Undang-undang Nomor 1 Tahun 1970 tentang Keselamatan Kerja (Lembaran Negara Republik Indonesia Tahun 1970 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 2918);",
+            "4": " Peraturan Pemerintah Nomor 33 Tahun 1965 tentang Dewan Tenaga Atom dan Badan Tenaga Atom Nasional (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 88);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nTENTANG KESELAMATAN KERJA TERHADAP RADIASI.",
+        "tanggal sah": ""
+    }
+}

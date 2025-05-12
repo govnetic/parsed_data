@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "0a56cd5d-5ea1-4888-af3b-4d298681d773",
+            "id": "4bce097c-47d0-4fa3-ae9b-e790fcc102bd",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "f279e351-4650-479f-8392-af5432d62dac",
+                "id": "a546bde6-fa15-49bf-8529-2e72415d4c5a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "4ff867fa-f875-45aa-a2c0-26cbb6219a37",
+            "id": "daebe3e1-c4c0-4acd-bc6c-338e0e67db7d",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "59d3f7ba-d281-412d-a253-bbedce882da4",
+                "id": "cdebd9ac-06a1-47f0-9db4-1add6d1c93f6",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "aff68a68-4f1c-4726-8ebc-616ad30d3570",
+            "id": "06e7025c-9d2c-4238-b73c-5fc21428577e",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "a393f7a3-4726-492e-9080-f02850b61d2a",
+                "id": "e39930db-3c20-41c5-b8bb-75c893d08f9f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,15 +40,15 @@
             }
         },
         {
-            "id": "107a483f-2715-43ef-9269-bbd1968cc732",
+            "id": "9e33db88-d42a-4a6f-804d-44760d0c3cf3",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "b7ae63a9-c409-46f6-88aa-ca4767c20029",
+                "id": "587429c8-a333-4c52-8ef9-f618923e4841",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia,",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia,",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

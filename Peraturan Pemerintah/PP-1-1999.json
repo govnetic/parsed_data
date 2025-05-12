@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "ca119f1f-23a8-4b3c-ad2f-6f371b2b20cf",
+            "id": "51dba87c-9d4b-4625-8fa9-61f33ac5bb39",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "7706c35b-5ee3-4c6b-a5a5-549cd4cf1530",
+                    "id": "86050641-6087-4548-a0fb-c4deaf0d68e0",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "679bcad7-94ab-4ef2-b490-5e0fe364bd04",
+                        "id": "0dac39b3-0c7f-41b6-87f1-5962c8ce29c8",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,12 +20,12 @@
                     }
                 },
                 {
-                    "id": "7900e294-5a41-49db-be0c-d2bfd0dff221",
+                    "id": "d3106c97-1159-4094-9f98-f1074171a58a",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ebe6342d-5e06-426f-91c5-3d29802088f9",
+                            "id": "cd51bdcb-2549-4be7-aef5-5b9c0919b531",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -33,7 +33,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b678e69f-58f0-4dd0-bfc3-8e3659e012e2",
+                            "id": "226842c1-c3b5-463a-b914-c5d7d5871d5b",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -45,17 +45,17 @@
             ]
         },
         {
-            "id": "76b42ea1-c5ca-49b5-8c0e-885cc25fdf17",
+            "id": "c33ba27e-fdbf-4a1b-abb3-8fe868c7b923",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "4ad53779-d02f-49a8-90f8-db0692ef8e4e",
+                    "id": "7353625d-24cc-4723-9029-a10e6aac19eb",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "58a88307-7850-413d-b109-bc8f2e90d6c6",
+                        "id": "05c101b8-67f1-4557-ba17-b3253c1638b9",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -66,17 +66,17 @@
             ]
         },
         {
-            "id": "49b9b6c4-5f66-45ac-9e5e-1d3d144abd0d",
+            "id": "42c4054c-947b-4aa0-9899-75340ca54174",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "66f741ec-913d-44c7-9a4e-f436c56913f3",
+                    "id": "9622b679-b165-4095-bf00-0e694ac9bb31",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "490c1fe6-0876-4937-a6c2-9f8583e2a965",
+                        "id": "ca5977c9-18b2-476a-9a80-924fe0315c98",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -85,11 +85,11 @@
                     }
                 },
                 {
-                    "id": "75f78a65-ab74-4814-ab00-0daad8902b18",
+                    "id": "1e452c3c-8f7c-4e09-a93b-c7d67c6587f5",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "e68b1e32-621f-45ef-9601-89691d778e7d",
+                        "id": "4c0ba5bf-455e-4a32-a4e8-767fb72615a5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -115,10 +115,7 @@
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
             "2": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang\nBentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969\nNomor 16, Tambahan Lembaran Negara Nomor 2890) menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor 40,\nTambahan Lembaran Negara Nomor 2904);",
             "3": " Undang-undang Nomor 6 Tahun 1984 tentang Pos (Lembaran\nNegara Tahun 1984 Nomor 28, Tambahan Lembaran Negara Nomor\n3276);",
-            "4": " Undang-undang Nomor 1 Tahun 1995 tentang Perseroan Terbatas\n(Lembaran Negara Tahun 1995 Nomor 13, Tambahan Lembaran\nNegara Nomor 3587);",
-            "5": " Peraturan Pemerintah Nomor 5 Tahun 1995 tentang Pengalihan\nBentuk Perusahaan Umum (PERUM) Pos dan Giro Menjadi\nPerusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1995\nNomor 11);",
-            "6": " Peraturan Pemerintah Nomor 12 Tahun 1998 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1998 Nomor 15,\nTambahan Lembaran Negara Nomor 3731);",
-            "7": " Peraturan Pemerintah Nomor 50 Tahun 1998 tentang Pengalihan\nKedudukan, Tugas dan Kewenangan Menteri Keuangan Selaku\nPemegang Saham atau Rapat Umum Pemegang Saham (RUPS) pada\nPerusahaan Perseroan kepada Menteri Negara Pendayagunaan\nBadan Usaha Milik Negara (Lembaran Negara Tahun 1998 Nomor\n82, Tambahan Lembaran Negara Nomor 3758);"
+            "4": " Undang-undang Nomor 1 Tahun 1995 tentang Perseroan Terbatas\n(Lembaran Negara Tahun 1995 Nomor 13, Tambahan Lembaran\nNegara Nomor 3587);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT POS INDONESIA.",
         "tanggal sah": "5 Januari 1999"

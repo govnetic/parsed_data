@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "0d446fe3-8636-4baf-9b51-dfac80bb69c8",
+            "id": "25486ccc-021f-46ce-b739-33b156d82f4e",
             "name": "Chapter I",
             "title": "\nPENYERTAAN MODAL DAN PENGALIHAN BENTUK",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6d4f1a9e-2894-4666-a342-8e21ae080dc0",
+                    "id": "428a9c5c-94d1-4dc5-be4c-36321cf2f1b0",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "8943b22a-e6c9-4b40-9ce2-d3397a3d4517",
+                        "id": "2c14b61f-2600-4d7e-91ee-87e915238479",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,12 +20,12 @@
                     }
                 },
                 {
-                    "id": "afcbf9e1-a491-4925-aa16-64ecbe618a52",
+                    "id": "5eccc3c9-34fb-49d0-bd8d-8c10914d9af8",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5a1906d6-56bc-4b79-be9f-8696bf2d39f3",
+                            "id": "2395446e-3193-4f43-a108-f837239e8acf",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -33,7 +33,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "cf900720-bf77-4f37-add9-5d9ca9bc229b",
+                            "id": "6483834d-c7b6-4ed7-b864-7381023ebb5f",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -45,38 +45,38 @@
             ]
         },
         {
-            "id": "d36f9cc3-7c3d-4b50-97b9-c9de4dfbc73f",
+            "id": "346da03b-36f7-44b3-a9f4-3eaf3a4a39bf",
             "name": "Chapter II",
             "title": "\nMAKSUD DAN TUJUAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "555c1cf7-4b67-4860-a8b1-b5565068d8d9",
+                    "id": "09386d23-4d56-42fe-b0bc-1944ecfcecf8",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "3f6390d7-4760-4607-b842-b3010a9f349b",
+                        "id": "65736004-7ef9-4d6a-9ecb-9ae69cd5117c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMaksud dan tujuan Perusahaan Perseroan (PERSERO) PT Merpati\nNusantara Airlines sebagaimana dimaksud dalam Pasal 2 ayat (2) adalah\nmenyelenggarakan :\na. angkutan usaha komersial berjadwal untuk penumpang, barang dan\npos dalam negeri dan luar negeri;\nb. angkutan udara borongan untuk barang dan wisatawan dalam negeri\ndan luar negeri;\nc. angkutan udara perintis;\n\nd. penerbangan transmigrasi;\ne. reparasi dan pemeliharaan pesawat udara, baik untuk keperluan\nusaha sendiri maupun keperluan perusahaan angkutan udara\nlainnya, serta menyediakan fasilitas untuk menunjang usaha pokok;\nf. usaha-usaha lain yang ditetapkan Pemerintah guna menunjang\nkegiatan sebagaimana dimaksud dalam huruf a, huruf b, huruf c, huruf d dan huruf e.",
+                        "content": "\nMaksud dan tujuan Perusahaan Perseroan (PERSERO) PT Merpati\nNusantara Airlines sebagaimana dimaksud dalam Pasal 2 ayat (2) adalah\nmenyelenggarakan :\na. angkutan usaha komersial berjadwal untuk penumpang, barang dan\npos dalam negeri dan luar negeri;\nb. angkutan udara borongan untuk barang dan wisatawan dalam negeri\ndan luar negeri;\nc. angkutan udara perintis;\n\nd. penerbangan transmigrasi;\ne. reparasi dan pemeliharaan pesawat udara, baik untuk keperluan\n   usaha sendiri maupun keperluan perusahaan angkutan udara\n   lainnya, serta menyediakan fasilitas untuk menunjang usaha pokok;\nf.  usaha-usaha lain yang ditetapkan Pemerintah guna menunjang\n    kegiatan sebagaimana dimaksud dalam huruf a, huruf b, huruf c,\n    huruf d dan huruf e.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "7c8d380d-8570-48cf-a147-06138e3b1dc9",
+            "id": "2f6e4b4a-a801-4504-ba4d-a7cf4e6a2e23",
             "name": "Chapter III",
             "title": "\nPELAKSANAAN PENYERTAAN MODAL DAN PENGALIHAN BENTUK",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6fbffb36-f190-41d4-8bce-cf7065b4b801",
+                    "id": "f8020ccd-d76b-4206-91ca-f43ef2d3a077",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "5e664f71-4ccb-4319-98b4-465525db4aaf",
+                        "id": "5c723ce5-0518-4dae-87ae-dd73c913e7b7",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -87,17 +87,17 @@
             ]
         },
         {
-            "id": "df18821f-78a9-49b7-994d-d75fcceec9d8",
+            "id": "c45b8080-6e8a-485e-ba84-4c59532b5963",
             "name": "Chapter IV",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e28806a0-137c-4b1a-ad1f-8a52480a220d",
+                    "id": "7a4eb0c8-0bf1-433e-a3e3-1ce463e3a0f0",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "c034c804-ea21-4e99-989c-ee4ddf03580b",
+                        "id": "86ba7fd9-d240-46f1-b86a-d08e2eb35c57",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -106,11 +106,11 @@
                     }
                 },
                 {
-                    "id": "74e2d76f-67a5-4b27-af18-2cfe7e3bc7d7",
+                    "id": "5cc8d283-3eaa-46c9-a6ca-31556636b320",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "1d5b00fd-902b-4e70-9349-4d3999466726",
+                        "id": "79548aac-4b8b-4eb8-9dcd-0e25f1f0e573",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -119,11 +119,11 @@
                     }
                 },
                 {
-                    "id": "48d93486-dc4f-45f8-a6f3-a079b5687312",
+                    "id": "6f3c5a53-c337-4ac4-8554-4a0acdc6098a",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "1505b2c2-9f2a-4d39-91c0-e051821900d3",
+                        "id": "6475c5de-1a90-485f-a3e9-b3f7354793a9",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",

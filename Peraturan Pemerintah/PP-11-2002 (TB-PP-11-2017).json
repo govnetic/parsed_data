@@ -1,0 +1,126 @@
+{
+    "results": [
+        {
+            "id": "492f5438-b6cc-478b-9f7f-1d4dfdfbd4d9",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "c782dcb9-7294-44b6-ae14-66f3428a692c",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "9bfe48f9-5014-455a-a907-16cf3d160dc5",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "8c83c1c8-ab06-45d8-a7a7-5d5465295818",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "86a6a456-99d6-4a03-88e0-e05db23d0260",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "6d3a41d7-c1fe-4186-a768-e371e32e99db",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "1c6b4f1b-abbd-4aea-9565-bc106f2aa7e9",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "3aa57e08-d3d1-4ca6-9737-eb4bb333d360",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "3727ca15-e361-4967-b1d7-f3a9f6378459",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "4a114f6a-bd4d-4bd3-84c0-adf29713fae5",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6b5c2469-cbdf-429e-bca0-6ed986907208",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "c6bd0f57-7dd1-4dfe-b2f8-99e64a944080",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "7f8a58a1-b67b-4ebf-816f-8bc3c9f4e409",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia"
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nDalam Pasal 16 ayat (1) dan ayat (2) Undang-undang Nomor 8 Tahun 1974 tentang\nPokok-Pokok Kepegawaian sebagaimana telah diubah dengan Undang-undang\nNomor 43 Tahun 1999, antara lain diatur bahwa Pegawai Negeri Sipil untuk\nmengisi formasi yang lowong dalam suatu organisasi pada umumnya berdasarkan\nkebutuhan.\nBahwa untuk mewujudkan Pegawai Negeri Sipil yang profesional, bertanggung\njawab, jujur dan adil, maka perlu mengubah beberapa ketentuan dalam Peraturan\nPemerintah Nomor 98 Tahun 2000 tentang Pengadaan Pegawai Negeri Sipil.",
+        "Nomor": "11",
+        "Tahun": "2002",
+        "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 98 TAHUN 2000\nTENTANG PENGADAAN PEGAWAI NEGERI SIPIL\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk mewujudkan Pegawai Negeri Sipil yang profesional dan\nbertanggung jawab, dipandang perlu mengubah Peraturan Pemerintah\nNomor 98 Tahun 2000 tentang Pengadaan Pegawai Negeri Sipil, dengan\nPeraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 8 Tahun 1974 tentang Pokok-pokok\nKepegawaian (Lembaran Negara Tahun 1974 Nomor 55, Tambahan\nLembaran Negara Nomor 3041), sebagaimana telah diubah dengan\nUndang-undang Nomor 43 Tahun 1999 (Lembaran Negara Tahun\n1999 Nomor 169, Tambahan Lembaran Negara Nomor 3890);",
+            "3": " Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah\n(Lembaran Negara Tahun 1999 Nomor 60, Tambahan Lembaran\nNegara Nomor 3839);",
+            "4": " Undang-undang Nomor 25 Tahun 1999 tentang Perimbangan\nKeuangan Antara Pemerintah Pusat dan Daerah (Lembaran Negara\nTahun 1999 Nomor 72, Tambahan Lembaran Negara Nomor 3848);",
+            "5": " Peraturan Pemerintah Nomor 25 Tahun 2000 tentang Kewenangan\nPemerintah dan Kewenangan Propinsi Sebagai Daerah Otonom\n(Lembaran Negara Tahun 2000 Nomor 54, Tambahan Lembaran\nNegara Nomor 3952);",
+            "6": " Peraturan Pemerintah Nomor 96 Tahun 2000 tentang Wewenang\nPengangkatan, Pemindahan, dan Pemberhentian Pegawai Negeri Sipil\n(Lembaran Negara Tahun 2000 Nomor 193, Tambahan Lembaran\nNegara Nomor 4014);",
+            "7": " Peraturan Pemerintah Nomor 97 Tahun 2000 tentang Formasi Pegawai\nNegeri Sipil (Lembaran Negara Tahun 2000 Nomor 194, Tambahan\nLembaran Negara Nomor 4015);",
+            "8": " Peraturan Pemerintah Nomor 98 Tahun 2000 tentang Pengadaan\nPegawai Negeri Sipil (Lembaran Negara Tahun 2000 Nomor 195,\nTambahan Lembaran Negara Nomor 4016);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 98 TAHUN 2000 TENTANG\nPENGADAAN PEGAWAI NEGERI SIPIL.",
+        "tanggal sah": "17 April 2002"
+    }
+}

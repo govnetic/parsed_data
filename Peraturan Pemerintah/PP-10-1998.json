@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "3dd62b25-39ae-417c-95a2-7ff0beb81658",
+            "id": "2f444aea-7d81-40c5-8668-97e901d82431",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6ae105ee-2ef5-4d1c-9722-3ce74dea50db",
+                    "id": "f58799f6-dc17-4744-8fd6-76035723bc01",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "460ffe1d-e684-4a5d-8968-ee997d30eba4",
+                        "id": "efcfad8f-5cf5-4b9a-a213-34a41e620d64",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,12 +20,12 @@
                     }
                 },
                 {
-                    "id": "e3cb26f8-6b4f-429b-b0de-90ec62b08e16",
+                    "id": "9c6862d1-93c1-421e-8d11-a44ee677f247",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b678c201-b28f-41d4-beb1-e8c139f445aa",
+                            "id": "ae58f576-7459-4c44-8316-dd4936e8d6bd",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -33,7 +33,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "02cf62b1-793f-4cce-b5d2-1661d6156aed",
+                            "id": "926ba6ba-0a47-462c-9702-78000f1476d0",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -45,17 +45,17 @@
             ]
         },
         {
-            "id": "8149e94d-4ab9-4f87-ba60-28c7523fd1f3",
+            "id": "1b926187-2c85-4e25-a119-62aa6fbc43fb",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN\nPENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "d1136104-7c18-4e92-bb39-7a554c74531a",
+                    "id": "4c6579b1-6dbc-4b95-85c3-d8b4aa273f82",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "22e4e290-96e4-4781-9bdb-3db56ce94738",
+                        "id": "1d92e796-4b66-4b7b-b9e2-142f1b079ee8",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -66,17 +66,17 @@
             ]
         },
         {
-            "id": "55d801fa-ee39-4c17-b617-3c72a8e110ed",
+            "id": "02e05087-96f0-42d6-b651-a2a2f8f8f614",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "18c04dec-48a4-45c3-8567-84939d998a22",
+                    "id": "3c8aab31-7166-4f1c-843c-f61836d14cb7",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "8782092a-8405-4051-ad0c-f4d1dbb625cc",
+                        "id": "9f44bacf-e4af-4ea6-8019-d14105c25ebc",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -85,15 +85,15 @@
                     }
                 },
                 {
-                    "id": "9965ee6d-8fc2-4b0f-8fd1-94459f92d9c2",
+                    "id": "4d136129-8a71-42a7-8317-583548e3765a",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "17885999-d184-4ae6-bc8a-3a96cd1b80c2",
+                        "id": "cd3054e3-fe10-4f08-9d3a-e5cb589b7885",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar …\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
@@ -114,10 +114,10 @@
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
             "2": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang\nBentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969 Nomor\n16, Tambahan Lembaran Negara Nomor 2890) menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor 40,\nTambahan Lembaran Negara Nomor 2904);",
-            "3": "  Undang-undang Nomor 1 Tahun 1995 tentang Perseroan Terbatan\n(Lembaran Negara Tahun 1975 Nomor 13, Tambahan Lembaran\nNegara Nomor 3587);",
-            "4": "  Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21,\nTambahan Lembaran Negara Nomor 2894) sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 24 Tahun 1972\n(Lembaran Negara Tahun 1972 Nomor 32, Tambahan Lembaran\nNegara Nomor 2987);",
-            "5": "  Peraturan Pemerintah Nomor 3 Tahun 1983 tentang Tata Cara\nPembinaan dan Pengawasan Perusahaan Jawatan (PERJAN),\nPerusahaan Umum (PERUM) dan Perusahaan Perseroan\n(PERSERO) (Lembaran Negara Tahun 1983 Nomor 3, Tambahan\nLembaran Negara Nomor 3246) sebagaimana telah diubah dengan\nPeraturan Pemerintah Nomor 28 Tahun 1983 (Lembaran Negara\nTahun 1983 Nomor 37);",
-            "6": "  Peraturan Pemerintah Nomor 14 Tahun 1992 tentang Pengalihan\nBentuk Perusahaan Umum (PERUM) Angkasa Pura II menjadi\nPerusahan Perseroan (PERSERO) (Lembaran Negara Tahun 1992\nNomor 25);"
+            "3": " Undang-undang Nomor 1 Tahun 1995 tentang Perseroan Terbatan\n(Lembaran Negara Tahun 1975 Nomor 13, Tambahan Lembaran\nNegara Nomor 3587);",
+            "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21,\nTambahan Lembaran Negara Nomor 2894) sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 24 Tahun 1972\n(Lembaran Negara Tahun 1972 Nomor 32, Tambahan Lembaran\nNegara Nomor 2987);",
+            "5": " Peraturan Pemerintah Nomor 3 Tahun 1983 tentang Tata Cara\nPembinaan dan Pengawasan Perusahaan Jawatan (PERJAN),\nPerusahaan Umum (PERUM) dan Perusahaan Perseroan\n(PERSERO) (Lembaran Negara Tahun 1983 Nomor 3, Tambahan\nLembaran Negara Nomor 3246) sebagaimana telah diubah dengan\nPeraturan Pemerintah Nomor 28 Tahun 1983 (Lembaran Negara\nTahun 1983 Nomor 37);",
+            "6": " Peraturan Pemerintah Nomor 14 Tahun 1992 tentang Pengalihan\nBentuk Perusahaan Umum (PERUM) Angkasa Pura II menjadi\nPerusahan Perseroan (PERSERO) (Lembaran Negara Tahun 1992\nNomor 25);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT ANGKASA PURA II.",
         "tanggal sah": "9 Januari 1998"

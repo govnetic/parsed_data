@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "5309666e-ff24-42e5-9fd9-5a1e9e195158",
+            "id": "1d49392b-42d3-437e-99c9-945d87326f29",
             "name": "Chapter I",
             "title": "\nDEVISA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8a9cbf27-ca19-4ca6-bbbb-0798e8904ec1",
+                    "id": "175c70f8-5ce3-4136-b01e-dc1a7300907f",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "bbbbf45c-00c0-4b93-8a0b-b0e18b45feb4",
+                        "id": "32e35c26-f4b3-4414-973c-205e0b57ba5b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,32 +20,32 @@
                     }
                 },
                 {
-                    "id": "17dbda45-6a28-424b-9d30-a8a4b487ac86",
+                    "id": "c8802468-9d39-455d-9027-61ca32c734dd",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8a29b552-3393-4763-a21b-003a62c82961",
+                            "id": "c97c7619-4861-4c26-adf1-8d792e9283e1",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Devisa yang diperoleh dari hasil ekspor barang dan atau jasa dapat dimiliki dan digunakan oleh eksportir sesuai dengan keperluan.",
+                            "content": " Devisa yang diperoleh dari hasil ekspor barang dan atau jasa dapat dimiliki dan\ndigunakan oleh eksportir sesuai dengan keperluan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "115aa975-db51-4239-b088-8b6f101e4dcd",
+                            "id": "12b59b49-253b-4424-a382-fac8450b9190",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Apabila hasil devisa sebagaimana dimaksud dalam ayat (1) pasal ini sebagian atau seluruhnya dijual kepada Bank Indonesia, maka penjualannya dilakukan melalui Bank Devisa dengan kurs yang terjadi dalam Bursa Valuta Asing.",
+                            "content": " Apabila hasil devisa sebagaimana dimaksud dalam ayat (1) pasal ini sebagian atau\nseluruhnya dijual kepada Bank Indonesia, maka penjualannya dilakukan melalui\nBank Devisa dengan kurs yang terjadi dalam Bursa Valuta Asing.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "27d7590a-e7f3-47c8-929a-14053f21627a",
+                            "id": "9bf3d879-a5cd-4e2d-b398-93915bb2dc59",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Apabila importir membeli sebagian atau seluruh devisa untuk keperluan impornya dari Bank Indonesia, maka pembeliannya dilakukan melalui Bank Devisa dengan kurs yang terjadi dalam Bursa Valuta Asing.",
+                            "content": " Apabila importir membeli sebagian atau seluruh devisa untuk keperluan impornya\ndari Bank Indonesia, maka pembeliannya dilakukan melalui Bank Devisa dengan\nkurs yang terjadi dalam Bursa Valuta Asing.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -53,18 +53,18 @@
             ]
         },
         {
-            "id": "466273f1-1d90-4c10-b962-aacc6292dac2",
+            "id": "fa971568-7f1f-4618-b5c3-8a9650828418",
             "name": "Chapter II",
             "title": "\nTATA CARA PEMBAYARAN EKSPOR DAN IMPOR",
             "type": "chapter",
             "children": [
                 {
-                    "id": "849e82ca-3b80-4df4-bb76-79c195db894c",
+                    "id": "42c26726-f3f6-4e2e-a21a-d78bda15a12a",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "c08a70b0-d482-491b-9e49-dcf222228175",
+                            "id": "603f0735-61fc-40b8-80d6-75d3e1704a28",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -72,11 +72,11 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4da47e8d-b7eb-4c33-b5d0-8be219e44562",
+                            "id": "861fb143-2b9a-4b31-8358-29e8ae0df624",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Menteri Perdagangan dan Koperasi dan Gubernur Bank Indonesia bersama-sama atau masing-masing dalam bidangnya mengeluarkan peraturan pelaksana tata cara pembayaran sebagaimana dimaksud dalam ayat (1) pasal ini.\n",
+                            "content": " Menteri Perdagangan dan Koperasi dan Gubernur Bank Indonesia bersama-sama\natau masing-masing dalam bidangnya mengeluarkan peraturan pelaksana tata cara\npembayaran sebagaimana dimaksud dalam ayat (1) pasal ini.\n",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -84,34 +84,34 @@
             ]
         },
         {
-            "id": "358dc9fa-036f-49d6-9cd6-5188bd8a71be",
+            "id": "4ab318e7-10c3-43f7-8745-382003e628c2",
             "name": "Chapter III",
             "title": "\nKREDIT EKSPOR, JAMINAN KREDIT EKSPOR.\nDAN ASURANSI EKSPOR",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8fea1da3-d7c5-4f0f-a4be-2cb5d89c7d99",
+                    "id": "b51de123-56b0-4873-ab72-db8d202f0ed7",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f400a66c-a73c-49ac-9318-ef1ded866c6e",
+                            "id": "a194fecc-07ea-4e19-bfee-418775c67d99",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Untuk pengembangan ekspor barang bukan minyak dan gas bumi disediakan kredit ekspor, jaminan kredit ekspor, dan asuransi ekspor dengan syarat-syarat lunak.",
+                            "content": " Untuk pengembangan ekspor barang bukan minyak dan gas bumi disediakan kredit\nekspor, jaminan kredit ekspor, dan asuransi ekspor dengan syarat-syarat lunak.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9afcd7d0-b35b-4e40-bc50-3b92c4c3021f",
+                            "id": "f116f137-7816-4212-ab14-d4400a80d515",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Gubernur Bank Indonesia mengeluarkan peraturan pelaksanaan kredit ekspor sebagaimana dimaksud dalam ayat (1) pasal ini.",
+                            "content": " Gubernur Bank Indonesia mengeluarkan peraturan pelaksanaan kredit ekspor\nsebagaimana dimaksud dalam ayat (1) pasal ini.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "017a6739-ad7f-49e0-acda-27eef0e65478",
+                            "id": "98136f7d-343a-4522-b5b8-9b85395a7a5e",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -119,11 +119,11 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5585eeb7-ac92-4741-beae-809000188861",
+                            "id": "7dfa7807-f1a9-4442-9431-e3120cb7ce12",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Menteri Keuangan setelah mendengar pendapat Menteri Perdagangan dan Koperasi, menetapkan penyediaan jaminan kredit ekspor dan asuransi ekspor sebagaimana dimaksud dalam ayat (3) pasal ini.",
+                            "content": " Menteri Keuangan setelah mendengar pendapat Menteri Perdagangan dan\nKoperasi, menetapkan penyediaan jaminan kredit ekspor dan asuransi ekspor\nsebagaimana dimaksud dalam ayat (3) pasal ini.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -131,99 +131,99 @@
             ]
         },
         {
-            "id": "a6f427d8-4b71-4274-8797-41d14f67b6dc",
+            "id": "ce2bc236-33dc-4e39-9c6b-51eed54aac8c",
             "name": "Chapter IV",
             "title": "\nPELAKSANAAN EKSPOR DAN IMPOR",
             "type": "chapter",
             "children": [
                 {
-                    "id": "c0e0760b-b34d-4897-8fb3-47fb0156d527",
+                    "id": "3c14baa5-c76c-4494-bab0-c1d1e3fc4115",
                     "name": "Article 6",
                     "type": "article",
                     "children": [
                         {
-                            "id": "49756486-66ca-444d-9853-3bb5ec5db958",
+                            "id": "8ad9f010-8571-4154-a37d-da986c940ebe",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Menteri Perdagangan dan Koperasi menetapkan Harga Patokan untuk barangbarang ekspor tertentu secara berkala.",
+                            "content": " Menteri Perdagangan dan Koperasi menetapkan Harga Patokan untuk\nbarangbarang ekspor tertentu secara berkala.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b96d20a7-4922-4bdf-8344-b174a5524f7d",
+                            "id": "7af197fb-3cbf-4242-b2ec-bd1e188704ad",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Menteri Keuangan setelah mendengar pendapat Menteri Perdagangan dan Koperasi dan Menteri yang bersangkutan menetapkan Harga Patokan untuk barang-barang impor tertentu secara berkala sebagai dasar perhitungan Bea Masuk.",
+                            "content": " Menteri Keuangan setelah mendengar pendapat Menteri Perdagangan dan Koperasi\ndan Menteri yang bersangkutan menetapkan Harga Patokan untuk barang-barang\nimpor tertentu secara berkala sebagai dasar perhitungan Bea Masuk.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a82133c2-b445-4e8b-a7b7-1c92d88dbb3a",
+                            "id": "b7c52aef-f26d-4488-a953-3d4bb245d875",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Menteri Keuangan menetapkan Nilai Dasar Perhitungan Bea Masuk (N.D.P.B.M.) dengan berpedoman kepada kurs yang berlaku.\n",
+                            "content": " Menteri Keuangan menetapkan Nilai Dasar Perhitungan Bea Masuk (N.D.P.B.M.)\ndengan berpedoman kepada kurs yang berlaku.\n",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "ff958bce-fdbe-4bf7-92a0-fcee1e4e97a7",
+                    "id": "8876add3-a45f-4e3e-878c-c9e60925475e",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "9df05cf4-2a6a-49be-8f2f-dade4dd9451b",
+                        "id": "7620cddd-dd80-4fad-8574-4c0a190636dd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMenteri Perdagangan dan Koperasi menentukan barang-barang tertentu yang dilarang untuk diekspor dan barang-barang tertentu yang dilarang untuk diimpor, yang disesuaikan dengan kebutuhan dan perkembangan ekonomi nasional serta kepentingan negara pada umumnya.",
+                        "content": "\nMenteri Perdagangan dan Koperasi menentukan barang-barang tertentu yang dilarang\nuntuk diekspor dan barang-barang tertentu yang dilarang untuk diimpor, yang disesuaikan\ndengan kebutuhan dan perkembangan ekonomi nasional serta kepentingan negara pada\numumnya.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "37028371-4d6d-488d-aa09-438797615797",
+                    "id": "66042804-8c72-4e6a-9dcd-8ef016305e29",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "ca651d0e-1e46-435e-b7b9-b6cf5eb92cd8",
+                        "id": "f010b174-7d21-42a6-a0de-46a2a1e77e97",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMenteri Perdagangan dan Koperasi, Menteri Keuangan, dan Gubernur Bank Indonesia bersama-sama atau masing-masing dalam bidangnya menyempurnakan peraturan pelaksanaan ekspor dan impor.",
+                        "content": "\nMenteri Perdagangan dan Koperasi, Menteri Keuangan, dan Gubernur Bank Indonesia\nbersama-sama atau masing-masing dalam bidangnya menyempurnakan peraturan\npelaksanaan ekspor dan impor.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "5948af37-4c46-4fbb-808a-3a65aadab101",
+            "id": "8e371264-0d3d-4dea-a8cf-7e2ea100f132",
             "name": "Chapter VI",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "60e76486-bf09-4562-a873-70f6ba1fa129",
+                    "id": "1da41c95-37c1-492a-8754-07c0492c7cea",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "fdb44180-0b64-410d-9bbb-9b8c61a48f81",
+                        "id": "70671ada-156c-4d76-ac49-090efddea6cf",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDengan berlakunya Peraturan Pemerintah ini, semua peraturan yang bertentangan dengan Peraturan Pemerintah ini dinyatakan tidak berlaku.",
+                        "content": "\nDengan berlakunya Peraturan Pemerintah ini, semua peraturan yang bertentangan dengan\nPeraturan Pemerintah ini dinyatakan tidak berlaku.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "879ec5fd-e7fa-48e7-b034-d4ce3cb4239b",
+                    "id": "4b6182ce-b89f-4a26-a009-ef94acf8a2e4",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "cf4e9e73-0934-40f8-9120-b57fd7963062",
+                        "id": "f210d80b-a3ea-43f2-a182-913d245ee5d3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
@@ -245,7 +245,7 @@
             "4": " Undang-undang Nomor 13 Tahun 1968 tentang Bank Sentral\n(Lembaran Negara Tahun 1968 Nomor 63, Tambahan Lembaran\nNegara Nomor 2865",
             "5": " Peraturan Pemerintah Nomor 25 Tahun 1977 tentang Standard\nPenetapan Harga Indonesia (Lembaran Negara Tahun 1977\nNomor 35, Tambahan Lembaran Negara Nomor 3104);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PELAKSANAAN EKSPOR, IMPOR, DAN LALU LINTAS DEVISA.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PELAKSANAAN\nEKSPOR, IMPOR, DAN LALU LINTAS DEVISA.",
         "tanggal sah": "16 Januari 1982"
     }
 }

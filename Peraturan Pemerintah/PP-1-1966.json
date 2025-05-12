@@ -1,37 +1,37 @@
 {
     "results": [
         {
-            "id": "de2e8031-53bf-4940-b7af-87d5749cab83",
+            "id": "0d1466ad-311d-4b29-827e-61c735df2b48",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "e552d6db-f65b-476f-b65c-7292e3cd81aa",
+                "id": "2b9f7439-dc57-4a67-9ade-ec97310de525",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Badan Pimpinan Umum Perusahaan Perikanan Negara dinyatakan\nbubar.\n(2) Menteri Perikanan dan Pengolahan Laut ditunjuk sebagai\nlikwidatur.",
+                "content": "(1)\tBadan Pimpinan Umum Perusahaan Perikanan Negara dinyatakan bubar.\n(2)\tMenteri Perikanan dan Pengolahan Laut ditunjuk sebagai likwidatur.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "7d89b901-a719-477f-975a-7d5490416416",
+            "id": "01078760-6ec3-451b-ae04-20288d220160",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "7bccb7e1-fcae-4760-b6ac-21c1cd125db5",
+                "id": "bcb3a8b2-c147-4594-b7b1-7664183cd4e8",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Semua kekayaan B.P.U. Perusahaan Perikanan Negara setelah\ndiadakan likwidasi menjadi milik Negara.",
+                "content": "Semua kekayaan B.P.U. Perusahaan Perikanan Negara setelah diadakan likwidasi menjadi milik Negara.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "7efa98eb-8e7a-4a5c-afc8-3b898711709f",
+            "id": "87e3ef54-d0c7-4123-91ce-4c0932f5ba85",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "859f7f77-6eec-4905-94ce-1de2e9690075",
+                "id": "a7a720e5-9d46-4573-86cf-c0fab7753eb0",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "a3e6b3d2-407e-4f7f-b5e9-58596e4447b4",
+            "id": "bd86999b-dd0e-4779-95ec-133351c7b259",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "c6a92cfd-1966-4ed0-832f-1d241f0e4bb7",
+                "id": "d0e17f0a-5dc5-4cf4-a28a-2a507fd4076f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "c6dcee52-76dd-4e53-a882-309242682ea6",
+            "id": "47d0acb1-d8d5-42d0-8804-b4d106ce76a6",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "0d74524a-1379-4c8c-a436-d6095fb26413",
+                "id": "abc491cd-6b41-4424-81a5-636a1dbbfe74",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "a5bdf31e-4392-4890-bde1-0982b9c06557",
+            "id": "214a851c-671f-4584-a104-637222eb2ce5",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "c36018e3-0205-4247-bf20-30273fbd5386",
+                "id": "eda4ad72-3bb3-4b97-8aa4-afcbc11be128",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -85,19 +85,18 @@
         "Tentang": "PEMBUBARAN B.P.U. PERUSAHAAN PERIKANAN NEGARA",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa berhubung dengan telah ditetapkannya Keputusan Menteri\nPerikanan Darat/Laut, No Sk. 22/Men. IK/II/1965 tentang\nPembubaran Badan Pimpinan Umum Perusahaan Perikanan Negara,\nyang mendahului Peraturan Pemerintah ini, maka dipandang\nperlu untuk segera mencabut Peraturan Pemerintah Nomor 44\nTahun 1961 (L.N.R.I. Tahun 1961 Nomor 65) tentang Pendirian",
-            "B": "P.U. Perusahaan Perikanan Negara;",
-            "b": " bahwa berhubung Menteri Perikanan dan Pengolahan Laut\nselanjutnya perlu mengadakan pengawasan/koordinasi langsung\natas semua Perusahaan-perusahaan dalam lingkungan Departemen\nPerikanan dan Pengolahan Laut, maka dipandang perlu untuk\nmenetapkan Pembubaran B.P.U. Perusahaan Perikanan Negara;"
+            "a": "\tbahwa berhubung dengan telah ditetapkannya Keputusan Menteri Perikanan Darat/Laut, No Sk. 22/Men. IK/II/1965 tentang Pembubaran Badan Pimpinan Umum Perusahaan Perikanan Negara, yang mendahului Peraturan Pemerintah ini, maka dipandang perlu untuk segera mencabut Peraturan Pemerintah Nomor 44 Tahun 1961 (L.N.R.I. Tahun 1961 Nomor 65) tentang Pendirian B.P.U. Perusahaan Perikanan Negara;",
+            "b": "\tbahwa berhubung Menteri Perikanan dan Pengolahan Laut selanjutnya perlu mengadakan pengawasan/koordinasi langsung atas semua Perusahaan-perusahaan dalam lingkungan Departemen Perikanan dan Pengolahan Laut, maka dipandang perlu untuk menetapkan Pembubaran B.P.U. Perusahaan Perikanan Negara;"
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Pasal 5 ayat (2) Undang-Undang Dasar;",
-            "2": " Undang-undang Nomor 19 Prp. Tahun 1960;",
-            "3": " Peraturan Pemerintah Nomor 44 Tahun 1961;",
-            "4": " Peraturan Pemerintah Nomor 45 s/d 54 Tahun 1961;",
-            "5": " Keputusan Presiden R.I. Nomor 215, Nomor 141 Tahun 1964 dan\nKeputusan Presiden R.I. Nomor 156 Tahun 1965;\nMendengar\nPresidium Kabinet Dwikora Republik Indonesia, Menteri Perikanan\ndan Pengolahan Laut;"
+            "1": "\tPasal 5 ayat (2) Undang-Undang Dasar;",
+            "2": "\tUndang-undang Nomor 19 Prp. Tahun 1960;",
+            "3": "\tPeraturan Pemerintah Nomor 44 Tahun 1961;",
+            "4": "\tPeraturan Pemerintah Nomor 45 s/d 54 Tahun 1961;",
+            "5": "\tKeputusan Presiden R.I. Nomor 215, Nomor 141 Tahun 1964 dan Keputusan Presiden R.I. Nomor 156 Tahun 1965;\nMendengar\nPresidium Kabinet Dwikora Republik Indonesia, Menteri Perikanan dan Pengolahan Laut;"
         },
-        "Menetapkan": "\nPembubaran B.P.U. Perusahaan Perikanan Negara;\nMengingat\n1. Pasal 5 ayat (2) Undang-Undang Dasar;\n2. Undang-undang Nomor 19 Prp. Tahun 1960;\n3. Peraturan Pemerintah Nomor 44 Tahun 1961;\n4. Peraturan Pemerintah Nomor 45 s/d 54 Tahun 1961;\n5. Keputusan Presiden R.I. Nomor 215, Nomor 141 Tahun 1964 dan\nKeputusan Presiden R.I. Nomor 156 Tahun 1965;\nMendengar\nPresidium Kabinet Dwikora Republik Indonesia, Menteri Perikanan\ndan Pengolahan Laut;\nMEMUTUSKAN\nMenetapkan\nPERATURAN PEMERINTAH TENTANG PEMBUBARAN BADAN PIMPINAN UMUM\nPERUSAHAAN PERIKANAN NEGARA, yang dimaksud dalam Peraturan\nPemerintah Nomor 44 Tahun 1961 - L.N. Nomor 65 Tahun 1961.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PEMBUBARAN BADAN PIMPINAN UMUM PERUSAHAAN PERIKANAN NEGARA, yang dimaksud dalam Peraturan Pemerintah Nomor 44 Tahun 1961 – L.N. Nomor 65 Tahun 1961.",
         "tanggal sah": "31 Maret 1965"
     }
 }

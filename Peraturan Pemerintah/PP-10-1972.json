@@ -1,18 +1,18 @@
 {
     "results": [
         {
-            "id": "10f4c862-5800-424d-826d-c84f7eb88f49",
+            "id": "1781369e-f94b-4ff9-889d-dc81fcaf0d7a",
             "name": "Chapter I",
             "title": "\nPENGALIHAN BENTUK DAN PEMBUBARAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "d6cfb78d-ec9c-4af5-83b1-bab9a46f8e15",
+                    "id": "58d78f1c-da5f-439e-8d55-35c9b462686d",
                     "name": "Article 1",
                     "type": "article",
                     "children": [
                         {
-                            "id": "2e1bc2de-757a-4c9b-8119-571a8eeb52c3",
+                            "id": "4aa64c23-5e2f-498e-9622-15ceee32a566",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -20,7 +20,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "cdd5eeb5-d05b-4b3f-bceb-cff7b67149f1",
+                            "id": "2e190ef0-4b66-4999-aa6a-9a05515f487a",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -28,7 +28,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8cb33ca4-30c7-456e-890b-3b0d316692b4",
+                            "id": "dbbde049-d01e-4d35-9efc-410a5c50eefb",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -40,18 +40,18 @@
             ]
         },
         {
-            "id": "671da3e6-0ace-4b21-b300-29dd7595e9d1",
+            "id": "9b606165-535f-49cf-bfa5-e0c25c116733",
             "name": "Chapter II",
             "title": "\nMODAL PERUSAHAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "32e1347e-348b-47cc-b7c3-c24d1fbb367e",
+                    "id": "453c09ec-4402-481f-9f51-62b883b4dcb5",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "2d87c98d-bc33-4ce4-ae01-6a2ac8a1cc82",
+                            "id": "1c222d0e-0247-48c2-9416-8c1295832094",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -59,7 +59,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e9ea0111-b76c-466b-b609-fbb8908ec19c",
+                            "id": "dfa018de-80af-4305-a4e5-3cc972919ebd",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -67,7 +67,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "15bdeab8-fb71-437b-9efd-85d121877703",
+                            "id": "02b1b5d0-55a8-424a-b92e-a18a0d984bd7",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -79,17 +79,17 @@
             ]
         },
         {
-            "id": "bade67ed-9bae-4884-bbd9-f3339d321efd",
+            "id": "9076dd7c-36e0-4cd2-ab03-47629f5035f4",
             "name": "Chapter III",
             "title": "\nPELAKSANAAN PENDIRIAN PERUSAHAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "c0b2ad58-1bbc-436f-badd-21b2eac56fa0",
+                    "id": "31681fb6-4fc5-49ab-a295-6a72fe364e68",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "1c93985e-9573-441e-bcd0-2e92dc886ea6",
+                        "id": "a6b2498a-c0e1-4310-98ae-ce85492483ba",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -98,12 +98,12 @@
                     }
                 },
                 {
-                    "id": "484da4df-0170-47c3-b7c9-b464371c4f4d",
+                    "id": "9120cd18-6278-4d47-a03a-1ecb4d4cd469",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bd217b41-9fe1-458e-8a13-d0921a743b62",
+                            "id": "7dc0e4a5-d542-4c31-ba2c-f9ce922539ce",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -111,7 +111,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9067bea2-c942-47f3-8ea1-fe03ed5a00a0",
+                            "id": "d8fed4f7-0dbc-4eee-ae15-999fa5dfeadc",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -119,7 +119,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "44502b4c-a19f-45cf-abef-17bd48a891a1",
+                            "id": "5c770c2a-7f2e-4a24-b56c-4e7018708d38",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -131,17 +131,17 @@
             ]
         },
         {
-            "id": "434d586e-f286-4f39-b3ca-9080cf5c38f1",
+            "id": "6043ee6d-8070-4c50-821c-c4dfe75ba44f",
             "name": "Chapter IV",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "85fbfbc3-c0ec-44e2-8dcd-b0f86324b976",
+                    "id": "dc91640c-d273-4e6e-b96d-f1e3fabe6bd8",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "fc355d71-41eb-4830-8bf1-d56c4f786688",
+                        "id": "e8de07fa-9aa8-4d57-a8be-33507017a6ea",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -150,11 +150,11 @@
                     }
                 },
                 {
-                    "id": "94a8a9af-5525-4c24-83e2-a32b0769478e",
+                    "id": "4612b10e-6d4d-4c4f-b443-0c02a5185d13",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "c4567dd7-b58a-403a-af32-0e1cb1abf852",
+                        "id": "7a5cb075-4d88-4748-b12d-e432950a4182",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -163,11 +163,11 @@
                     }
                 },
                 {
-                    "id": "3e24352f-4072-427d-b5ad-d3037afc3025",
+                    "id": "90dd8c00-f9af-482c-8436-60aec9110c0f",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "f64f95fe-2a67-42c0-a02e-d255c4cd28c5",
+                        "id": "02673792-475e-4612-8ae4-dd680ad4826c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -188,10 +188,9 @@
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Kitab Undang-undang Hukum Dagang Stbl. 1847  23\nsebagaimana yang telah beberapa kali diubah dan ditambah\nterakhir dengan Undang-undang Nomor 4 Tahun 1971\n(Lembaran Negara Republik Indonesia Tahun 1971 Nomor\n20; Tambahan Lembaran Negara Republik Indonesia Nomor\n2959);",
+            "2": " Kitab Undang-undang Hukum Dagang Stbl. 1847 23\nsebagaimana yang telah beberapa kali diubah dan ditambah\nterakhir dengan Undang-undang Nomor 4 Tahun 1971\n(Lembaran Negara Republik Indonesia Tahun 1971 Nomor\n20; Tambahan Lembaran Negara Republik Indonesia Nomor\n2959);",
             "3": " Undang-undang Nomor 19 Prp. Tahun 1960 (Lembaran\nNegara Republik Indonesia Tahun 1960 Nomor 59; Tambahan\nLembaran Negara Republik Indonesia Nomor 1989);",
-            "4": " Undang-undang Nomor 9 Tahun 1969 (Lembaran Negara\nRepublik Indonesia Tahun 1969 Nomor 40; Tambahan\nLembaran Negara Republik Indonesia Nomor 2904);",
-            "5": " Peraturan"
+            "4": " Undang-undang Nomor 9 Tahun 1969 (Lembaran Negara\nRepublik Indonesia Tahun 1969 Nomor 40; Tambahan\nLembaran Negara Republik Indonesia Nomor 2904);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nTENTANG PENGALIHAN BENTUK PERUSAHAAN NEGARA\n(P.N.) \"KODYA\" MENJADI PERUSAHAAN PERSEROAN\n(PERSERO).",
         "tanggal sah": ""

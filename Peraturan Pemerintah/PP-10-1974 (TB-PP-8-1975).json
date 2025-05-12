@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "f06fd952-617e-42d2-8e36-93d1ab008fb4",
+            "id": "8c6bb944-98e9-4d6b-9adf-81a03e88fe63",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "6259ee15-7a33-4d15-b03f-53a4955460e5",
+                "id": "383e44dd-0257-44c4-860b-43b63e6b1d5a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "dea05f05-5846-4e13-b018-64cf09da14d5",
+            "id": "90c74b79-7ce9-4534-bd7c-71b2116bd2a3",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "9000f0ae-6077-4f40-9dda-8affbc0003f6",
+                "id": "c1a17149-bd90-422f-8a56-79c3c81ab185",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "cf21ee9b-52c6-45ef-90c8-52ae1407aed0",
+            "id": "deb6e32c-157e-4e2c-b09f-ae4f768358fc",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "94c9406a-3c49-492d-b06d-8b2a9ef94ecf",
+                "id": "3c3eb82e-3d68-495b-9c09-fdc62fa29ba7",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -43,7 +43,7 @@
     "metadata": {
         "Nomor": "10",
         "Tahun": "1974",
-        "Tentang": "PERUBAHAN DAN PENAMBAHAN ATAS PERATURAN PEMERINTAH NOMOR\n13 TAHUN 1970 TENTANG PEMBERIAN TUNJANGAN KEPADA PERINTIS\nPERGERAKAN KEBANGSAAN/KEMERDEKAAN\nPRESIDEN REPUBLIK INDONESIA,",
+        "Tentang": "PERUBAHAN DAN PENAMBAHAN ATAS PERATURAN PEMERINTAH NOMOR\n13 TAHUN 1970 TENTANG PEMBERIAN TUNJANGAN KEPADA PERINTIS\nPERGERAKAN KEBANGSAAN/KEMERDEKAAN",
         "Menimbang": {
             "Introduction": "\nbahwa guna peningkatan kesejahteraan para Perintis Pergerakan\nKebangsaan/Kemerdekaan perlu diadakan perubahan atas besarnya\ntunjangan bagi para Perintis Pergerakan Kebangsaan/Kemerdekaan,\nsebagaimana diatur dengan Peraturan Pemerintah Nomor 13 Tahun\n1970."
         },
@@ -51,7 +51,7 @@
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-undang Dasar 1945;",
             "2": " Undang-undang Nomor 5 Prps. Tahun 1964 tentang Pemberian\nPenghargaan/Tunjangan Kepada Perintis Pergerakan\nKebangsaan/Kemerdekaan (Lembaran Negara Tahun 1964 Nomor\n19);",
-            "3": " Undang-undang Nomor 2 Tahun 1974 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 1974/1975\n(Lembaran Negara Republik Indonesia Tahun 1974 Nomor 9 ;\nTambahan Lembaran Negara Republik Indonesia Nomor 3022);",
+            "3": " Undang-undang Nomor 2 Tahun 1974 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 1974/1975\n(Lembaran Negara Republik Indonesia Tahun 1974 Nomor 9;\nTambahan Lembaran Negara Republik Indonesia Nomor 3022);",
             "4": " Peraturan Pemerintah Nomor 28 Tahun 1969 tentang Pelaksanaan\nUndang-undang Nomor 5 Tahun 1969 tentang Pernyataan Berbagai\nPenetapan Presiden dan Peraturan Presiden sebagai Undang-undang\n(Lembaran Negara Tahun 1969 Nomor 51);",
             "5": " Peraturan Pemerintah Nomor 13 Tahun 1970 tentang Pemberian\nTunjangan Kepada Perintis Pergerakan Kebangsaan/Kemerdekaan\n(Lembaran Negara Tahun 1970 Nomor 19);",
             "6": " Peraturan Pemerintah Nomor 6 Tahun 1973 tentang Pemberian\nTambahan Bantuan Tunjangan Bagi Para Penerima Tunjangan\nPerintis Pergerakan Kebangsaan/Kemerdekaan (Lembaran Negara\nTahun 1973 Nomor 11, Tambahan Lembaran Negara Nomor 2999)."

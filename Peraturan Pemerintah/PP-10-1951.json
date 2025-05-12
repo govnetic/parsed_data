@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "4c8c6be7-9688-4cf4-810d-5124a5c89980",
+            "id": "9b9bf21c-410f-4cf7-a974-f2b7a31b544a",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "328c20c2-3b3d-4aa1-8d38-59ad18854e48",
+                "id": "c216fd61-2223-4c77-8f06-0475a60e579f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "274ef4d9-a45d-4a34-8989-20e09b21b5dd",
+            "id": "bdb7a574-f5b0-4311-af9f-851a10c70dd1",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "6616548e-8b35-4aac-b6c7-54b5185f26aa",
+                "id": "5b2e3ffa-0da0-4479-bc56-9b52d37c42e4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "9314ba1f-aac5-4cbb-9737-b4b5bcec7a33",
+            "id": "4d0f8245-0e5f-422a-9883-4fd67439c3f7",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "0a8ed10c-389f-489c-bc60-7f0a93da4209",
+                "id": "2a04491e-2f9f-4db2-82bd-8bfc1761e8a5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "9b3ac8d5-6ed6-4634-8928-f96c6781642d",
+            "id": "5edbccdf-c1c7-4f9c-9298-4c675cb37cd8",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "d1ba22fe-c085-449c-ad07-30f6abd7c8c5",
+                "id": "b4fa8247-6c66-48e4-8d2a-5bdd63acd774",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "f06cc230-3f6a-4ac9-97fb-a28d528fc437",
+            "id": "e950534d-bdc5-40f5-8a77-3fdbf6dc3986",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "b6e0625d-effb-4c85-ad37-249bd10f594a",
+                "id": "2e8d3d90-b295-40d7-8ed9-dda51dd6c4f5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,15 +66,15 @@
             }
         },
         {
-            "id": "5e70cd8f-9a46-4024-9209-5839125bb13b",
+            "id": "8ad53ae2-f3c0-4980-a48b-026fd015d4f7",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "793985f3-2a0a-4be5-885c-738ebfbb50e1",
+                "id": "9d1db0ed-3d30-4d59-819e-01f5f57dfd11",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Tidak memerlukan penjelasan.\nCATATAN\nKutipan: LEMBARAN NEGARA DAN ",
+                "content": "Tidak memerlukan penjelasan.\n",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

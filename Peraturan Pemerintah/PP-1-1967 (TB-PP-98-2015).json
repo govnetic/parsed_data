@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "e2c8c4dc-b52b-4ea9-b23c-4fcc287a23a9",
+            "id": "5563cebc-71a8-4d0b-886d-30d2bf27a9a8",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "ce88f43c-4268-4e45-91d8-c8e6c148df33",
+                "id": "7157a8e7-fa54-4c14-b6b7-9fa67684ec50",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "4806faf1-06c2-4b1c-a743-e911cb4a52a9",
+            "id": "9588be0f-ce41-4ffc-ba05-6540ca5e4edb",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "856d665f-70bb-457c-86b4-2089e520c858",
+                "id": "8c8af3a8-7170-451e-9edb-f6d45430afdc",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "493c8dfb-72a9-424e-bd6d-9cd9ec4e2b14",
+            "id": "43f91c78-7c88-4b28-a24e-9f7de25a46ea",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "f908b3ad-cc34-4515-ae3d-03b4b675a493",
+                "id": "b9f32cad-984e-43af-ae5f-8fc2a331aca5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "4b94a75f-b727-4c32-a542-365ddb5ebf35",
+            "id": "ceec4747-ada7-4de1-bc5a-9d8d59db17e6",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "11cc7d45-2911-48b8-8204-5307bd3ee973",
+                "id": "c5485e8c-dbf4-408b-b3ae-9ca81b3569ed",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "7de4c611-be1c-4d87-a280-385f15a7ae8d",
+            "id": "6ca6c97e-6a19-4aed-839a-4a434dbadeb1",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "c923f4c7-402e-4b50-b74a-c18e07288df4",
+                "id": "7a28f2fd-d46c-45f8-a2c7-ad7d73d0d28f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,24 +66,24 @@
             }
         },
         {
-            "id": "3f30ead7-e2d7-48e2-8f1e-6bc81aac8daf",
+            "id": "47fb6e6e-6960-4bba-ad34-0b42b8c7c378",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "c334c437-e2a2-4b28-b934-557fe0022c41",
+                "id": "f13a2c6c-3f13-4b37-9945-841331a987bb",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "1. Menteri Keuangan dengan ini diberi kuasa untuk atas nama\nPemerinah Republik Indonesia, mengeluarkan surat-surat\nperbendaharaan atau pernyataan hutang sejenis yang tidak\ndapat diperjualbelikan, tidak berbunga dan setiap waktu dapat\nditagih sebagaimana ditetapkan dalam ayat 5 pasal III\npersetujuan Dana dan ayat 12 pasal V Persetujuan Bank.\n2. Semua surat perbendaharaan yang hingga kini telah dikeluarkan\nberdasarkan pengembalian bagian Indonesia dalam modal Bank\ndengan ini ditegaskan sebagai tetap berlaku dan merupakan\nkewajiban mengikat untuk Republik Indonesia dan yang akan\ndigantikan dengan surat perbendaharaan baru sesuai dengan\nsyarat-syarat persetujuan Bank sesudah Indonesia menjadi\nanggota lagi dari Bank.",
+                "content": "1.  Menteri Keuangan dengan ini diberi kuasa untuk atas nama\nPemerinah Republik Indonesia, mengeluarkan surat-surat\nperbendaharaan atau pernyataan hutang sejenis yang tidak\ndapat diperjualbelikan, tidak berbunga dan setiap waktu dapat\nditagih sebagaimana ditetapkan dalam ayat 5 pasal III\npersetujuan Dana dan ayat 12 pasal V Persetujuan Bank.\n2.  Semua surat perbendaharaan yang hingga kini telah dikeluarkan\nberdasarkan pengembalian bagian Indonesia dalam modal Bank\ndengan ini ditegaskan sebagai tetap berlaku dan merupakan\nkewajiban mengikat untuk Republik Indonesia dan yang akan\ndigantikan dengan surat perbendaharaan baru sesuai dengan\nsyarat-syarat persetujuan Bank sesudah Indonesia menjadi\nanggota lagi dari Bank.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "e0676588-9c1c-4006-86b1-0062367fbe0e",
+            "id": "39923351-e6fe-41be-a7d8-d9ba47e8c74f",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "34493aa0-8742-4f8d-8de0-c71007958f3d",
+                "id": "dd0aa2f7-2b7c-4e5a-95ac-4bb1dd1b9bd2",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -92,11 +92,11 @@
             }
         },
         {
-            "id": "4e215f2f-94bd-477e-89a7-5cfbe8f28718",
+            "id": "4e8f85be-b1b9-4b4e-91c5-8f65be7cabac",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "f08da989-5102-4029-aac6-7aa50b382af0",
+                "id": "2fdc999d-007e-469c-b0c1-7bc9486f7d9a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -105,11 +105,11 @@
             }
         },
         {
-            "id": "f085225c-c2cb-4c37-a5e1-a6a7a7c9e83a",
+            "id": "b090d580-b965-4bd0-96be-86de075b6185",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "0b64138f-767a-4f54-aef9-5fb02b971c0b",
+                "id": "10c3ffdc-a1cb-476d-b8e6-a1951a33c316",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",

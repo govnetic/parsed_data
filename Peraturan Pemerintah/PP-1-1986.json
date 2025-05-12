@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "6f8a93e4-1bbd-43c6-a62f-b86d98101883",
+            "id": "78a5bfc6-57d6-465e-b902-2e2090f81d73",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e9ed211b-2131-4eae-9272-6728540be8a6",
+                    "id": "be8b4060-33da-45fd-845a-e434c00c5fcd",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "fa1d0284-ca38-4ffe-81b4-3a8e9e1e939e",
+                        "id": "f728e452-5b3a-4956-9a71-4a396d55e9c4",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,12 +20,12 @@
                     }
                 },
                 {
-                    "id": "5bd7aa88-96d4-4652-a324-ee875bd2a930",
+                    "id": "a0a43cae-e460-418e-9222-c40d365a68fa",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0e5e231a-af40-4509-8fde-68da3f22a600",
+                            "id": "430a4211-cfa9-412b-9089-f66c4bf67dcb",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -33,7 +33,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "cd9d7c75-ea96-4bf7-9c6a-d796b4c2bf0a",
+                            "id": "2b42d738-b0e3-4198-80ab-fe71bfc62c87",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -45,17 +45,17 @@
             ]
         },
         {
-            "id": "d39296b4-27be-42c5-8047-a0adbe0030e9",
+            "id": "2fee71dd-88e4-4654-868f-e76f1291a90d",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e21f451f-904e-4e0e-a515-42faaf3ecda0",
+                    "id": "db5f4fb3-36b7-453e-bf2f-5c54e8fad7ea",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "7f4e1b28-f874-480d-af98-730a8cb6dccf",
+                        "id": "cd66ff5a-66ba-4e3d-a315-8b3b9b5683f6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -66,17 +66,17 @@
             ]
         },
         {
-            "id": "018f719a-e194-43be-924d-906378656237",
+            "id": "1e43efcc-2870-4cfc-9ccf-3f1bc6e8883a",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "80010173-16ba-4701-904c-90062d207018",
+                    "id": "ce067637-e7bf-4e42-ad8f-fc06faf79517",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "0834eef2-bd82-4360-98fb-b40dc14aa7fb",
+                        "id": "3665f989-9660-4b05-9deb-dba174608e9c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -85,15 +85,15 @@
                     }
                 },
                 {
-                    "id": "922ab435-bced-4cc0-97b5-e90d4f5c1e00",
+                    "id": "8f745875-89cb-40c2-8c28-7da466213d30",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "b00ca8b0-72aa-46ae-bd69-5bff7093d790",
+                        "id": "a19a46a7-b907-4d01-be53-3b7c15867542",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini\ndengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }

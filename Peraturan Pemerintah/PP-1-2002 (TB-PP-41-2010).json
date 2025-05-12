@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "1a74bb5c-6076-4473-9fa8-07af8c188599",
+            "id": "92a14266-0e94-4d18-afb2-3c986d2f2ac3",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "af107792-29ec-4064-a24f-620833ef7dd8",
+                "id": "e93a899c-cf2b-493d-a6a4-ab8460bf44c5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "067c3082-bc73-4812-883e-cca43b4bae4d",
+            "id": "1313a49c-d6cd-404e-b846-cae4b98b4e03",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "b74bcdd6-6b5a-4489-9cba-2f7ecd5d2880",
+                "id": "3685f5b0-ed00-41d9-85f0-8fca2175569f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "0896c6c6-61db-485d-af42-77a0372a2b1e",
+            "id": "3d5b9333-3211-4c72-9b0b-1d0cabbb1352",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "d20ef803-3ebb-46ef-b584-bceaff798e31",
+                "id": "0d03bce4-d675-4f0d-bb24-cdcfc5b2e84b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "a083ad20-55c2-49e3-9884-076223fb2af9",
+            "id": "71f7942e-86bc-4657-9aac-a2597608e547",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "704bacdc-b074-49d5-af71-061b5b2f0282",
+                "id": "bfb3f81d-38d4-429d-b9ca-4bc038cf3645",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "2835ff46-69d3-43d7-b50e-f243b9692445",
+            "id": "3f2a9751-ffbf-4d1b-87f8-b3dd8128921d",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "cfc68bd7-a7b4-47b2-83d5-b48f3baad2e8",
+                "id": "d497cc36-e512-4cc5-a8d7-5854447e6762",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "b8977d0c-d4cc-45a1-8bc4-864c8e03ee2f",
+            "id": "e3023720-f49f-4382-b8d4-9b281406b25d",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "ec36ec17-580d-4c55-b065-f6d7286d182c",
+                "id": "e5630ef7-4d0d-4e84-bfec-fe837ab44f14",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -79,15 +79,15 @@
             }
         },
         {
-            "id": "623d8511-0b21-4fc4-b0ac-dbb46cee292c",
+            "id": "a8478f7e-929f-44ee-bf3c-e4c04278519f",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "41a732b9-1f99-4642-b797-861945712758",
+                "id": "abc510ce-7d2b-43c6-a3e1-fae17b7cee81",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas\nLAMPIRAN\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR: 1 TAHUN 2002\nTANGGAL: 11 Januari 2002\nTARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU\nPADA LEMBAGA SENSOR FILM DI LINGKUNGAN\nDEPARTEMEN PENDIDIKAN NASIONAL\nNO. JENIS PENERIMAAN SATUAN TARIF\n1. Jenis Film Cerita\na. Film Seluloid ukuran 35 mm Per meter Rp 75.000,-\ndan 70 mm\nb. Film Seluloid ukuran 16 mm Per meter Rp 150.000,-\nC. Film Seluloid ukuran 8 mm Per meter Rp 500.000,-\nd. Rekaman Video Per meter Rp 1.000.000,-\n2. Jenis Iklan\na. Film Seluloid ukuran 35 mm Per meter Rp 250,00\ndan 70 mm\nb. Film Seluloid ukuran 16 mm Per meter Rp 500,00\nC. Film Seluloid ukuran 8 mm Per meter Rp 2.000,00\nd. Rekaman Video Per meter Rp 5.000,00\n3. Penerangan/Dokumenter/Pendidikan\na. Film Seluloid ukuran 35 mm Per meter Rp 50.00\ndan 70 mm\nb. Film Seluloid ukuran 16 mm Per meter Rp 100,00\nC. Film Seluloid ukuran 8 mm Per meter RD 200,00\nd. Rekaman Video Per meter Rp 250,00\n4. Sarana Promosi/Publikasi\na. Still Photo Per lembar Rp 5.000,00\nb. One Sheet Per lembar Rp 7.500,00\nC. Poster Per lembar Rp 10.000,00\nd. Balliho Per lembar Rp 15.000,00\ne. Slide Per lembar Rp 5.000,00\nf. Clise Per lembar Rp 5.000,00\nPRESIDEN REPUBLIK INDONESIA,\nttd\nMEGAWATI SOEKARNOPUTRI\n",
+                "content": "Cukup jelas\n",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -95,7 +95,7 @@
     "metadata": {
         "Nomor": "1",
         "Tahun": "2002",
-        "Tentang": "TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU\nPADA LEMBAGA SENSOR FILM DI LINGKUNGAN DEPARTEMEN\nPENDIDIKAN NASIONAL\nPRESIDEN REPUBLIK INDONESIA,",
+        "Tentang": "TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU\nPADA LEMBAGA SENSOR FILM DI LINGKUNGAN DEPARTEMEN\nPENDIDIKAN NASIONAL",
         "Menimbang": {
             "Introduction": "\nbahwa untuk melaksanakan ketentuan Undang-undang Nomor 20\nTahun 1997 tentang Penerimaan Negara Bukan Pajak, dipandang perlu\nmenetapkan Peraturan Pemerintah tentang Tarif atas Jenis\nPenerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Sensor\nFilm di Lingkungan Departemen Pendidikan Nasional;"
         },
@@ -106,9 +106,9 @@
             "3": " Undang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara\nBukan Pajak (Lembaran Negara Republik Indonesia Tahun 1997\nNomor 43, Tambahan Lembaran Negara Nomor 3687);",
             "4": " Peraturan Pemerintah Nomor 6 Tahun 1994 tentang\nPenyelenggaraan Usaha Perfilman (Lembaran Negara Republik\nIndonesia Tahun 1994 Nomor 11, Tambahan Lembaran Negara\nNomor 3541);",
             "5": " Peraturan Pemerintah Nomor 7 Tahun 1994 tentang Lembaga\nSensor Film (Lembaran Negara Republik Indonesia Tahun 1994\nNomor 12);",
-            "6": " Peraturan Pemerintah Nomor 22 Tahun 1997 tentang Jenis dan\nPenyetoran Penerimaan Negara Bukan Pajak (Lembaran Negara\nRepublik Indonesia Tahun 1997 Nomor 57, Tambahan Lembaran\nNegara Nomor 3694) sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 52 Tahun 1998 (Lembaran Negara Republik\nIndonesia Tahun 1998 Nomor 85, Tambahan Lembaran Negara\nNomor 3760);"
+            "6": " Peraturan Pemerintah Nomor 22 Tahun 1997 tentang Jenis dan\nPenyetoran Penerimaan Negara Bukan Pajak (Lembaran Negara\nRepublik Indonesia Tahun 1997 Nomor 57, Tambahan Lembaran\nNegara Nomor 3694) sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 52 Tahun 1998 (Lembaran Negara Republik\nIndonesia Tahun 1998 Nomor 85, Tambahan Lembaran Negara\nNomor 3760);\n---"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang Tarif atas Jenis\nPenerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Sensor\nFilm di Lingkungan Departemen Pendidikan Nasional;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar 1945 sebagaimana telah\ndiubah dengan Perubahan Ketiga Undang-Undang Dasar 1945;\n2. Undang-undang Nomor 8 Tahun 1992 tentang Perfilman (Lembaran\nNegara Republik Indonesia Tahun 1992 Nomor 32, Tambahan\nLembaran Negara Nomor 3473);\n3. Undang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara\nBukan Pajak (Lembaran Negara Republik Indonesia Tahun 1997\nNomor 43, Tambahan Lembaran Negara Nomor 3687);\n4. Peraturan Pemerintah Nomor 6 Tahun 1994 tentang\nPenyelenggaraan Usaha Perfilman (Lembaran Negara Republik\nIndonesia Tahun 1994 Nomor 11, Tambahan Lembaran Negara\nNomor 3541);\n5. Peraturan Pemerintah Nomor 7 Tahun 1994 tentang Lembaga\nSensor Film (Lembaran Negara Republik Indonesia Tahun 1994\nNomor 12);\n6. Peraturan Pemerintah Nomor 22 Tahun 1997 tentang Jenis dan\nPenyetoran Penerimaan Negara Bukan Pajak (Lembaran Negara\nRepublik Indonesia Tahun 1997 Nomor 57, Tambahan Lembaran\nNegara Nomor 3694) sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 52 Tahun 1998 (Lembaran Negara Republik\nIndonesia Tahun 1998 Nomor 85, Tambahan Lembaran Negara\nNomor 3760);\nMEMUTUSKAN\nMenetapkan \n---\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG TARIF ATAS JENIS PENERIMAAN\nNEGARA BUKAN PAJAK YANG BERLAKU PADA LEMBAGA SENSOR FILM DI\nLINGKUNGAN DEPARTEMEN PENDIDIKAN NASIONAL.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang Tarif atas Jenis\nPenerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Sensor\nFilm di Lingkungan Departemen Pendidikan Nasional;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar 1945 sebagaimana telah\ndiubah dengan Perubahan Ketiga Undang-Undang Dasar 1945;\n2. Undang-undang Nomor 8 Tahun 1992 tentang Perfilman (Lembaran\nNegara Republik Indonesia Tahun 1992 Nomor 32, Tambahan\nLembaran Negara Nomor 3473);\n3. Undang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara\nBukan Pajak (Lembaran Negara Republik Indonesia Tahun 1997\nNomor 43, Tambahan Lembaran Negara Nomor 3687);\n4. Peraturan Pemerintah Nomor 6 Tahun 1994 tentang\nPenyelenggaraan Usaha Perfilman (Lembaran Negara Republik\nIndonesia Tahun 1994 Nomor 11, Tambahan Lembaran Negara\nNomor 3541);\n5. Peraturan Pemerintah Nomor 7 Tahun 1994 tentang Lembaga\nSensor Film (Lembaran Negara Republik Indonesia Tahun 1994\nNomor 12);\n6. Peraturan Pemerintah Nomor 22 Tahun 1997 tentang Jenis dan\nPenyetoran Penerimaan Negara Bukan Pajak (Lembaran Negara\nRepublik Indonesia Tahun 1997 Nomor 57, Tambahan Lembaran\nNegara Nomor 3694) sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 52 Tahun 1998 (Lembaran Negara Republik\nIndonesia Tahun 1998 Nomor 85, Tambahan Lembaran Negara\nNomor 3760);\n---\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG TARIF ATAS JENIS PENERIMAAN\nNEGARA BUKAN PAJAK YANG BERLAKU PADA LEMBAGA SENSOR FILM DI\nLINGKUNGAN DEPARTEMEN PENDIDIKAN NASIONAL.",
         "tanggal sah": "11 Januari 2002"
     }
 }

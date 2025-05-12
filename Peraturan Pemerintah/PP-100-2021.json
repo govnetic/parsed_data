@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "b5126b8e-6f4b-4939-9137-9aacfe4fefbb",
+            "id": "65dbbbd7-7623-4b67-bb8d-123dfb044e70",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "85042eff-43ea-43b7-aa9c-dcc08ac4c4bc",
+                    "id": "56a16b10-7133-4325-acb2-167e33ab5b9e",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "94309563-505a-40b6-b6b0-acf4ad6f2f6c",
+                        "id": "fc041080-bd7a-4452-b5c4-d8af23b0954c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -22,23 +22,23 @@
             ]
         },
         {
-            "id": "99e89630-a7e9-42f2-bfe3-3c198763611d",
+            "id": "22d0f6ba-f29a-40bb-87f3-0c3307573dbf",
             "name": "Chapter II",
             "title": "\nPENGANGKATAN\nKONSULTAN KEKAYAAN INTELEKTUAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "27a8904d-66ef-4e43-b150-9fce88d97d00",
+                    "id": "053a3228-0fc5-454f-8439-bc290fa71d5a",
                     "name": "Section First",
                     "title": "\nUmum",
                     "type": "section",
                     "children": [
                         {
-                            "id": "c47e215b-db3c-48ae-92c3-792091467c2b",
+                            "id": "5d839039-5f70-4eb1-ac24-7418881eae1e",
                             "name": "Article 2",
                             "type": "article",
                             "children": {
-                                "id": "31b32c7a-b224-47cb-beb1-d862f47b20bb",
+                                "id": "c7c0317b-07bd-4121-b6b9-8402bc51af8f",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -49,31 +49,31 @@
                     ]
                 },
                 {
-                    "id": "4e2b6945-c40c-4263-9cc6-ea2da3176b60",
+                    "id": "e3560ded-c8b2-48ec-8884-6d5e1d405203",
                     "name": "Section Second",
                     "title": "\nSyarat Pengangkatan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "3eb30fe5-7871-4c79-844f-5e3c08ad2795",
+                            "id": "b75afac7-c383-4ea8-ae4c-a9facaba8a1b",
                             "name": "Article 3",
                             "type": "article",
                             "children": {
-                                "id": "764eb0ee-6f6e-466c-9136-6f202e3ae730",
+                                "id": "913ef6df-8739-4c8f-a1a8-cf6fc97be873",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nUntuk dapat diangkat menjadi Konsultan Kekayaan\nIntelektual, calon Konsultan Kekayaan Intelektual harus\nmemenuhi persyaratan:\na. warga negara Indonesia;\nb. bertakwa kepada Tuhan Yang Maha Esa;\nC. sehat jasmani dan rohani;\nd. bertempat tinggal tetap di wilayah Negara Republik\nIndonesia;\ne. berijazah paling rendah sarjana;\nf. berusia paling rendah 25 (dua puluh lima) tahun;\ng. menguasai bahasa Inggris;\nh. tidak berstatus sebagai pegawai aparatur sipil negara,\npejabat negara, atau tidak sedang memangku jabatan\nlain yang oleh peraturan perundang-undangan\ndilarang untuk dirangkap;\ni. telah mengikuti pelatihan Konsultan Kekayaan\nIntelektual;\nj. telah lulus ujian Konsultan Kekayaan Intelektual;\nk. telah menjalani magang atau bekerja setelah lulus\nsarjana dalam waktu paling singkat 24 (dua puluh\nempat) bulan berturut-turut pada kantor Konsultan\nKekayaan Intelektual atau unit pengelolaan kekayaan\nintelektual; dan\n1.\ntidak pernah dijatuhi pidana penjara berdasarkan\nputusan pengadilan yang telah memperoleh kekuatan\nhukum tetap karena melakukan tindak pidana yang\ndiancam dengan pidana penjara paling singkat 5\n(lima) tahun atau lebih.",
+                                "content": "\nUntuk dapat diangkat menjadi Konsultan Kekayaan\nIntelektual, calon Konsultan Kekayaan Intelektual harus\nmemenuhi persyaratan:\na. warga negara Indonesia;\nb. bertakwa kepada Tuhan Yang Maha Esa;\nc. sehat jasmani dan rohani;\nd. bertempat tinggal tetap di wilayah Negara Republik\nIndonesia;\ne. berijazah paling rendah sarjana;\nf. berusia paling rendah 25 (dua puluh lima) tahun;\ng. menguasai bahasa Inggris;\nh. tidak berstatus sebagai pegawai aparatur sipil negara,\npejabat negara, atau tidak sedang memangku jabatan\nlain yang oleh peraturan perundang-undangan\ndilarang untuk dirangkap;\ni. telah mengikuti pelatihan Konsultan Kekayaan\nIntelektual;\nj. telah lulus ujian Konsultan Kekayaan Intelektual;\nk. telah menjalani magang atau bekerja setelah lulus\nsarjana dalam waktu paling singkat 24 (dua puluh\nempat) bulan berturut-turut pada kantor Konsultan\nKekayaan Intelektual atau unit pengelolaan kekayaan\nintelektual; dan\n1. tidak pernah dijatuhi pidana penjara berdasarkan\nputusan pengadilan yang telah memperoleh kekuatan\nhukum tetap karena melakukan tindak pidana yang\ndiancam dengan pidana penjara paling singkat 5\n(lima) tahun atau lebih.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "84998eef-750f-410b-98ce-43aec1051e31",
+                            "id": "34d7a891-42ee-4097-938e-f79a9a583e44",
                             "name": "Article 4",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "256c31c5-e844-4d00-8ff9-1c9b11d7a487",
+                                    "id": "19dbd7f1-2338-41af-ac03-409e99dc3cab",
                                     "name": "Verse 1",
                                     "number": "(1)",
                                     "type": "verse",
@@ -81,7 +81,7 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "0122c0e0-ec31-4c4b-a0f4-ff943bac2b84",
+                                    "id": "6ebb4957-7713-449d-9743-9158b3ee4c1b",
                                     "name": "Verse 2",
                                     "number": "(2)",
                                     "type": "verse",
@@ -91,12 +91,12 @@
                             ]
                         },
                         {
-                            "id": "43f7fafd-cae4-4fed-a0d1-25c969105c21",
+                            "id": "38876a8c-f642-40f8-a1ba-186e96c27205",
                             "name": "Article 5",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "911e14d7-4cfa-4621-aec4-16dab3259012",
+                                    "id": "cbb977a6-2a44-4be3-bb4f-3cf8f61b5c49",
                                     "name": "Verse 1",
                                     "number": "(1)",
                                     "type": "verse",
@@ -104,7 +104,7 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "8a651d82-1a77-475c-9c3c-5190ab254304",
+                                    "id": "c9ab2277-fd54-48b8-95c9-d9f458d17af3",
                                     "name": "Verse 2",
                                     "number": "(2)",
                                     "type": "verse",
@@ -112,7 +112,7 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "9fb2cb54-70a0-4794-8c75-ad2599331b86",
+                                    "id": "bc8650ce-a634-41e1-bdd4-62cf21c5e1ca",
                                     "name": "Verse 3",
                                     "number": "(3)",
                                     "type": "verse",
@@ -122,32 +122,32 @@
                             ]
                         },
                         {
-                            "id": "06594439-4a25-42e2-9722-572265dcff90",
+                            "id": "eff007a2-bc15-489a-b1d1-bd2eb5578fd0",
                             "name": "Article 6",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "d886f244-91f9-46f2-96a8-0223d5bb7e53",
+                                    "id": "1be73257-63bd-44af-971e-13f0212a1ebf",
                                     "name": "Verse 1",
                                     "number": "(1)",
                                     "type": "verse",
-                                    "content": " Pelatihan Konsultan Kekayaan Intelektual sebagaimana dimaksud dalam Pasal 5 ayat (2) diselenggarakan oleh Direktorat Jenderal bekerja sama dengan lembaga lain.",
+                                    "content": " Pelatihan Konsultan Kekayaan Intelektual\nsebagaimana dimaksud dalam Pasal 5 ayat (2)\ndiselenggarakan oleh Direktorat Jenderal bekerja sama\ndengan lembaga lain.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "c5246a31-359e-48dc-9627-671e2d517f8e",
+                                    "id": "3ae46de0-1ef7-4fa8-aa66-d176573a5f52",
                                     "name": "Verse 2",
                                     "number": "(2)",
                                     "type": "verse",
-                                    "content": " Penyelenggaraan pelatihan Konsultan Kekayaan Intelektual dilaksanakan berdasarkan kurikulum yang ditetapkan oleh Menteri.",
+                                    "content": " Penyelenggaraan pelatihan Konsultan Kekayaan\nIntelektual dilaksanakan berdasarkan kurikulum yang\nditetapkan oleh Menteri.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "dde7a4c3-a214-4d30-9a2a-802ee7e787bc",
+                                    "id": "616ff177-96a4-439d-8c03-c358feeff857",
                                     "name": "Verse 3",
                                     "number": "(3)",
                                     "type": "verse",
-                                    "content": " Ketentuan mengenai penyelenggaraan pelatihan Konsultan Kekayaan Intelektual diatur dengan Peraturan Menteri.",
+                                    "content": " Ketentuan mengenai penyelenggaraan pelatihan\nKonsultan Kekayaan Intelektual diatur dengan\nPeraturan Menteri.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
@@ -155,57 +155,57 @@
                     ]
                 },
                 {
-                    "id": "9e4d43bf-9c5b-414f-a456-fa399f8b465f",
+                    "id": "c3ec8c20-0355-4bc9-a8b6-ecdd1e50de23",
                     "name": "Section Third",
                     "title": "\nTata Cara Pengangkatan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "976155ae-529c-46fe-9f8d-7ed477eed51c",
+                            "id": "c2ef6c70-e127-4b28-9c63-9f569bd30515",
                             "name": "Article 7",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "1f222f4a-d2a5-4208-9d65-33fcf6eff372",
+                                    "id": "09e16fdc-0252-459c-9983-9df8c42b6d24",
                                     "name": "Verse 1",
                                     "number": "(1)",
                                     "type": "verse",
-                                    "content": " Calon Konsultan Kekayaan Intelektual diangkat berdasarkan permohonan.",
+                                    "content": " Calon Konsultan Kekayaan Intelektual diangkat\nberdasarkan permohonan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "ce362fce-d9bf-4337-8216-26d72bf5a419",
+                                    "id": "ca168b95-d8b4-4752-bcc4-efddb763fd42",
                                     "name": "Verse 2",
                                     "number": "(2)",
                                     "type": "verse",
-                                    "content": " Permohonan sebagaimana dimaksud pada ayat (1) dapat dilakukan secara elektronik atau nonelektronik.",
+                                    "content": " Permohonan sebagaimana dimaksud pada ayat (1)\ndapat dilakukan secara elektronik atau nonelektronik.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "874030ff-41e7-428e-b9cb-d187c59bee3e",
+                                    "id": "5899e28b-ac90-4375-9773-527d26686310",
                                     "name": "Verse 3",
                                     "number": "(3)",
                                     "type": "verse",
-                                    "content": " Permohonan sebagaimana dimaksud pada ayat (2) diajukan kepada Menteri dengan mengisi formulir dan melampirkan dokumen persyaratan berupa:\na. fotokopi kartu tanda penduduk;\nb. fotokopi nomor pokok wajib pajak;\nc. asli surat keterangan sehat jasmani dan rohani dari dokter pada rumah sakit pemerintah;\nd. asli surat keterangan catatan kepolisian;\ne. fotokopi ijazah sarjana yang telah dilegalisasi;\nf. sertifikat kemampuan berbahasa Inggris dalam bentuk TOEFL atau yang setara dengan nilai paling rendah 500 (lima ratus);\ng. surat pernyataan di atas kertas bermeterai Rp10.000,00 (sepuluh ribu rupiah) bahwa yang bersangkutan tidak berstatus sebagai pegawai aparatur sipil negara, pejabat negara, atau tidak sedang memangku jabatan lain yang oleh\nperaturan perundang-undangan dilarang untuk\ndirangkap;\nh. fotokopi sertifikat pelatihan Konsultan Kekayaan\nIntelektual;\ni. surat keterangan lulus ujian Konsultan Kekayaan\nIntelektual;\nj. surat keterangan magang atau bekerja pada\nkantor Konsultan Kekayaan Intelektual atau unit\npengelolaan kekayaan intelektual;\nk. pasfoto terbaru sebanyak 2 (dua) lembar ukuran\n4 x 6 cm (empat kali enam sentimeter) dengan\nlatar belakang berwarna merah; dan\nl. bukti pembayaran biaya penerimaan negara\nbukan pajak.",
+                                    "content": " Permohonan sebagaimana dimaksud pada ayat (2)\ndiajukan kepada Menteri dengan mengisi formulir dan\nmelampirkan dokumen persyaratan berupa:\na. fotokopi kartu tanda penduduk;\nb. fotokopi nomor pokok wajib pajak;\nc. asli surat keterangan sehat jasmani dan rohani\ndari dokter pada rumah sakit pemerintah;\nd. asli surat keterangan catatan kepolisian;\ne. fotokopi ijazah sarjana yang telah dilegalisasi;\nf. sertifikat kemampuan berbahasa Inggris dalam\nbentuk TOEFL atau yang setara dengan nilai\npaling rendah 500 (lima ratus);\ng. surat pernyataan di atas kertas bermeterai\nRp10.000,00 (sepuluh ribu rupiah) bahwa yang\nbersangkutan tidak berstatus sebagai pegawai\naparatur sipil negara, pejabat negara, atau tidak\nsedang memangku jabatan lain yang oleh\nperaturan perundang-undangan dilarang untuk\ndirangkap;\nh. fotokopi sertifikat pelatihan Konsultan Kekayaan\nIntelektual;\ni.\nj.\nk.\n1.\nsurat keterangan lulus ujian Konsultan Kekayaan\nIntelektual;\nsurat keterangan magang atau bekerja pada\nkantor Konsultan Kekayaan Intelektual atau unit\npengelolaan kekayaan intelektual;\npasfoto terbaru sebanyak 2 (dua) lembar ukuran\n4 x 6 cm (empat kali enam sentimeter) dengan\nlatar belakang berwarna merah; dan\nbukti pembayaran biaya penerimaan negara\nbukan pajak.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "8595be15-a4f0-4c1a-aeb8-638fab588b15",
+                                    "id": "aa8d879e-111f-41d2-a2a6-f2a55e2f9f55",
                                     "name": "Verse 4",
                                     "number": "(4)",
                                     "type": "verse",
-                                    "content": " Dalam hal permohonan sebagaimana dimaksud pada\nayat (1) diajukan oleh pensiunan pegawai Direktorat\nJenderal, pemohon melampirkan dokumen\npersyaratan berupa:\na. fotokopi kartu tanda penduduk;\nb. fotokopi nomor pokok wajib pajak;\nc. asli surat keterangan sehat jasmani dan rohani\ndari dokter pada rumah sakit pemerintah;\nd. asli surat keterangan catatan kepolisian;\ne. fotokopi ijazah sarjana yang telah dilegalisasi;\nf. sertifikat kemampuan berbahasa Inggris dalam\nbentuk TOEFL atau yang setara dengan nilai\npaling rendah 500 (lima ratus);\ng. surat pernyataan di atas kertas bermeterai\nRp10.000,00 (sepuluh ribu rupiah) bahwa yang\nbersangkutan tidak berstatus sebagai pegawai\naparatur sipil negara, pejabat negara, atau tidak\nsedang memangku jabatan lain yang oleh\nperaturan perundang-undangan dilarang untuk\ndirangkap;\nh. surat keterangan lulus ujian Konsultan Kekayaan\nIntelektual;\n2021, No. 224\ni. pasfoto terbaru sebanyak 2 (dua) lembar ukuran\n4 x 6 cm (empat kali enam sentimeter) dengan\nlatar belakang berwarna merah;\nj. bukti pembayaran biaya penerimaan negara\nbukan pajak;\nk. surat keterangan telah bekerja selama 20 (dua\npuluh) tahun pada Direktorat Jenderal; dan\nl. surat keputusan pensiun.",
+                                    "content": " Dalam hal permohonan sebagaimana dimaksud pada\nayat (1) diajukan oleh pensiunan pegawai Direktorat\nJenderal, pemohon melampirkan\npersyaratan berupa:\na.\nfotokopi kartu tanda penduduk;\nb. fotokopi nomor pokok wajib pajak;\nC.\nd.\ne.\nf.\ndokumen\nasli surat keterangan sehat jasmani dan rohani\ndari dokter pada rumah sakit pemerintah;\nasli surat keterangan catatan kepolisian;\nfotokopi ijazah sarjana yang telah dilegalisasi;\nsertifikat kemampuan berbahasa Inggris dalam\nbentuk TOEFL atau yang setara dengan nilai\npaling rendah 500 (lima ratus);\ng.\nsurat pernyataan di atas kertas bermeterai\nRp10.000,00 (sepuluh ribu rupiah) bahwa yang\nbersangkutan tidak berstatus sebagai pegawai\naparatur sipil negara, pejabat negara, atau tidak\nsedang memangku jabatan lain yang oleh\nperaturan perundang-undangan dilarang untuk\ndirangkap;\nh.\nsurat keterangan lulus ujian Konsultan Kekayaan\nIntelektual;\n2021, No. 224\ni. pasfoto terbaru sebanyak 2 (dua) lembar ukuran\n4 x 6 cm (empat kali enam sentimeter) dengan\nlatar belakang berwarna merah;\nj. bukti pembayaran biaya penerimaan negara\nbukan pajak;\nk. surat keterangan telah bekerja selama 20 (dua\npuluh) tahun pada Direktorat Jenderal; dan\nl. surat keputusan pensiun.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "20c6313f-b7fe-4f8e-bf61-88a709eb00e6",
+                            "id": "98ed890e-4ac1-4a0a-9d2e-ef41face8eb7",
                             "name": "Article 8",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "a2d221fb-ebce-451b-a8ae-5fb7269b555b",
+                                    "id": "30b2af6d-4c0e-4498-9f73-336812530f5e",
                                     "name": "Verse 1",
                                     "number": "(1)",
                                     "type": "verse",
@@ -213,7 +213,7 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "487fb414-61bc-4bf7-992a-c21a03813d70",
+                                    "id": "0adb4a77-2696-4ab6-863d-96c12056f050",
                                     "name": "Verse 2",
                                     "number": "(2)",
                                     "type": "verse",
@@ -221,7 +221,7 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "4e70b7e9-41b5-4409-b4d1-642f57db797f",
+                                    "id": "5ca71747-465d-434e-9fd1-07281917ff68",
                                     "name": "Verse 3",
                                     "number": "(3)",
                                     "type": "verse",
@@ -229,7 +229,7 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "421a4787-8abd-42a4-94ee-b46ed58b7452",
+                                    "id": "df922db0-0913-48ce-9537-37e149ce748d",
                                     "name": "Verse 4",
                                     "number": "(4)",
                                     "type": "verse",
@@ -237,7 +237,7 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "29a5aa60-8403-4f9f-90c7-4bf408bba8f8",
+                                    "id": "019b3588-9603-4902-a84c-526830cb734b",
                                     "name": "Verse 5",
                                     "number": "(5)",
                                     "type": "verse",
@@ -247,11 +247,11 @@
                             ]
                         },
                         {
-                            "id": "aba3f262-89f9-4ca9-a3b8-5130c73189e5",
+                            "id": "3d82c3a2-e539-4506-b307-1af4ac8902f2",
                             "name": "Article 9",
                             "type": "article",
                             "children": {
-                                "id": "064636fa-3744-48b2-9680-ca6854629183",
+                                "id": "e0d4bafe-7426-445c-bda7-cb1778b7875b",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -260,12 +260,12 @@
                             }
                         },
                         {
-                            "id": "ffbf68b7-32b0-4f68-aa06-21ff9ec97a55",
+                            "id": "ea6c3b0f-7d5d-4e29-bb45-59e0416e05b7",
                             "name": "Article 10",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "01bef0e4-3c46-4624-b1a3-fe663ff5d7e9",
+                                    "id": "140a35a3-8cd2-4098-9004-a1daa01a47de",
                                     "name": "Verse 1",
                                     "number": "(1)",
                                     "type": "verse",
@@ -273,15 +273,15 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "3184ee93-6824-404d-9af7-0e28c3c0dbee",
+                                    "id": "527a1d6c-a570-4e65-99a8-99f149d2fef4",
                                     "name": "Verse 2",
                                     "number": "(2)",
                                     "type": "verse",
-                                    "content": " Sumpah/janji sebagaimana dimaksud pada ayat (1)\nberbunyi sebagai berikut:\n\"Saya bersumpah/berjanji dengan sungguh-sungguh:\n- bahwa saya senantiasa memegang teguh dan\nmengamalkan Pancasila, Undang-Undang Dasar\nNegara Republik Indonesia Tahun 1945, serta\nperaturan perundang-undangan yang berlaku di\nRepublik Indonesia;\n- bahwa saya dalam melaksanakan tugas sebagai\nKonsultan Kekayaan Intelektual senantiasa\nbekerja secara profesional, baik langsung\nmaupun tidak langsung dengan menggunakan\nnama atau dalih apapun, tidak akan\nmenjanjikan sesuatu kepada siapapun juga yang\nbertentangan dengan ketentuan peraturan\nperundang-undangan;\n- bahwa saya dalam melaksanakan tugas sebagai\nKonsultan Kekayaan Intelektual senantiasa\nbertindak jujur dengan berdasarkan hukum dan\nkeadilan;\n- bahwa saya senantiasa menjaga tingkah laku\nsaya dan akan menjalankan kewajiban saya\nsesuai dengan kehormatan, martabat, dan\ntanggung jawab saya sebagai Konsultan\nKekayaan Intelektual;\n- bahwa saya senantiasa menjaga kerahasiaan\ninformasi yang berkaitan dengan kekayaan\nintelektual yang dikuasakan kepada saya dengan\nmenjunjung tinggi kode etik profesi Konsultan\nKekayaan Intelektual.\"\n2021, No. 224",
+                                    "content": " Sumpah/janji sebagaimana dimaksud pada ayat (1)\nberbunyi sebagai berikut:\n\"Saya bersumpah/berjanji dengan sungguh-sungguh:\nbahwa saya senantiasa memegang teguh dan\nmengamalkan Pancasila, Undang-Undang Dasar\nNegara Republik Indonesia Tahun 1945, serta\nperaturan perundang-undangan yang berlaku di\nRepublik Indonesia;\nbahwa saya dalam melaksanakan tugas sebagai\nKonsultan Kekayaan Intelektual senantiasa\nbekerja secara profesional, baik langsung\nmaupun tidak langsung dengan menggunakan\nnama atau dalih apapun, tidak akan\nmenjanjikan sesuatu kepada siapapun juga yang\nbertentangan dengan ketentuan peraturan\nperundang-undangan;\nbahwa saya dalam melaksanakan tugas sebagai\nKonsultan Kekayaan Intelektual senantiasa\nbertindak jujur dengan berdasarkan hukum dan\nkeadilan;\nbahwa saya senantiasa menjaga tingkah laku\nsaya dan akan menjalankan kewajiban saya\nsesuai dengan kehormatan, martabat, dan\ntanggung jawab saya sebagai Konsultan\nKekayaan Intelektual;\nbahwa saya senantiasa menjaga kerahasiaan\ninformasi yang berkaitan dengan kekayaan\nintelektual yang dikuasakan kepada saya dengan\nmenjunjung tinggi kode etik profesi Konsultan\nKekayaan Intelektual.\"",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "d1afe4e7-a18f-4217-bbcb-dc17b07433f8",
+                                    "id": "79c7eaff-408f-418a-a575-8c65187e9cf0",
                                     "name": "Verse 3",
                                     "number": "(3)",
                                     "type": "verse",
@@ -291,11 +291,11 @@
                             ]
                         },
                         {
-                            "id": "d3c69cf0-15ea-4e41-a1a5-18e3a9809030",
+                            "id": "27cdb835-9bab-41bf-8dba-19143bfb151e",
                             "name": "Article 11",
                             "type": "article",
                             "children": {
-                                "id": "19e70e38-3216-449a-88f0-a92e9b93859f",
+                                "id": "4a83e6a4-f88f-4430-97ea-2e82a3e4d70c",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -308,24 +308,24 @@
             ]
         },
         {
-            "id": "254b8a14-e66f-4009-b543-8e57e89912ff",
+            "id": "f12c0b07-a0b8-4822-94ef-c3f539a0ab54",
             "name": "Chapter III",
             "title": "\nHAK DAN KEWAJIBAN\nKONSULTAN KEKAYAAN INTELEKTUAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f4170fe1-ff94-4888-ae6c-400852e48746",
+                    "id": "19df3a60-7bbe-4198-9047-781ae8099307",
                     "name": "Section First",
                     "title": "\nUmum",
                     "type": "section",
                     "children": [
                         {
-                            "id": "4b91a0f0-199f-4aa2-ae60-7c2b065a37d1",
+                            "id": "25969819-fd2d-4f8e-8645-d50ed375ce98",
                             "name": "Article 12",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "26a4d5b8-0ba7-4b9e-ae63-a14513cd2471",
+                                    "id": "9c821a0b-ac1e-4432-a94e-068f06b50eb1",
                                     "name": "Verse 1",
                                     "number": "(1)",
                                     "type": "verse",
@@ -333,7 +333,7 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "0a0325b9-8675-4e46-ba01-8b8cd4bab7dc",
+                                    "id": "b9950c46-e34b-4c12-9cd1-86c8fe0275f7",
                                     "name": "Verse 2",
                                     "number": "(2)",
                                     "type": "verse",
@@ -341,7 +341,7 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "6d2cca52-1de4-4a2a-90d9-b2ea827433eb",
+                                    "id": "720e70a2-d0d4-4d9c-a148-986eb2891708",
                                     "name": "Verse 3",
                                     "number": "(3)",
                                     "type": "verse",
@@ -353,18 +353,18 @@
                     ]
                 },
                 {
-                    "id": "100288f9-2550-499b-9644-a9a6a8e1e0ad",
+                    "id": "64f0fcb6-41be-4102-9dec-557bcf94a321",
                     "name": "Section Second",
                     "title": "\nHak dan Kewajiban",
                     "type": "section",
                     "children": [
                         {
-                            "id": "80b497c5-abec-417c-8738-977516502202",
+                            "id": "955422e2-2491-4b3b-ab80-fd714d81d4f2",
                             "name": "Article 13",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "b7253807-cd62-4804-937c-4cf9aead7224",
+                                    "id": "95dede45-93e9-4e04-925b-9081b17c5b63",
                                     "name": "Verse 1",
                                     "number": "(1)",
                                     "type": "verse",
@@ -372,11 +372,11 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "03860607-cd7e-4825-b9ef-699b99837d2b",
+                                    "id": "1d66493e-5fa7-4eb1-8ce4-38d8e8a9c688",
                                     "name": "Verse 2",
                                     "number": "(2)",
                                     "type": "verse",
-                                    "content": " Dalam memberikan jasa di bidang pengajuan dan\npengurusan permohonan kekayaan intelektual dan\njasa yang profesional dalam konsultasi di bidang\nkekayaan intelektual sebagaimana dimaksud dalam\nPasal 12, Konsultan Kekayaan Intelektual wajib:\na. bekerja secara profesional, jujur, teliti, dan\nbertanggung jawab;\nb. taat dan patuh terhadap ketentuan peraturan\nperundang-undangan dan kode etik profesi;\nC. menjaga kerahasiaan informasi yang berkaitan\ndengan kekayaan intelektual yang dikuasakan\nkepadanya;\nd. memiliki kantor dengan alamat kantor yang jelas;\ne. menjadi anggota Organisasi Profesi;\nf. melaporkan setiap perubahan kondisi yang\nberkaitan dengan persyaratan menjadi Konsultan\nKekayaan Intelektual kepada Menteri atau pejabat\nyang ditunjuk;\ng. membuat, menyelenggarakan, dan menjaga tata\nkearsipan dan dokumentasi yang baik dan rapi\nyang berkaitan dengan pengurusan kekayaan\nintelektual yang dikuasakan kepadanya;\nh. menunjuk seorang Konsultan Kekayaan\nIntelektual lainnya untuk bertindak sebagai\npemegang protokol; dan\ni. memberikan layanan konsultasi dan sosialisasi di\nbidang kekayaan intelektual secara cuma-cuma\nkepada pengguna jasa yang tidak mampu.",
+                                    "content": " Dalam memberikan jasa di bidang pengajuan dan\npengurusan permohonan kekayaan intelektual dan\njasa yang profesional dalam konsultasi di bidang\nkekayaan intelektual sebagaimana dimaksud dalam\nPasal 12, Konsultan Kekayaan Intelektual wajib:\na. bekerja secara profesional, jujur, teliti, dan\nbertanggung jawab;\nb.\ntaat dan patuh terhadap ketentuan peraturan\nperundang-undangan dan kode etik profesi;\nC. menjaga kerahasiaan informasi yang berkaitan\ndengan kekayaan intelektual yang dikuasakan\nkepadanya;\nd. memiliki kantor dengan alamat kantor yang jelas;\ne. menjadi anggota Organisasi Profesi;\nf. melaporkan setiap perubahan kondisi yang\nberkaitan dengan persyaratan menjadi Konsultan\nKekayaan Intelektual kepada Menteri atau pejabat\nyang ditunjuk;\ng. membuat, menyelenggarakan, dan menjaga tata\nkearsipan dan dokumentasi yang baik dan rapi\nyang berkaitan dengan pengurusan kekayaan\nintelektual yang dikuasakan kepadanya;\nh. menunjuk seorang Konsultan Kekayaan\nIntelektual lainnya untuk bertindak sebagai\npemegang protokol; dan\ni.\nmemberikan layanan konsultasi dan sosialisasi di\nbidang kekayaan intelektual secara cuma-cuma\nkepada pengguna jasa yang tidak mampu.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
@@ -386,149 +386,149 @@
             ]
         },
         {
-            "id": "ab83f391-a33f-460c-800f-7d34497a3bc7",
+            "id": "220ea98f-9fbc-42b6-8541-409e5b06ea32",
             "name": "Chapter IV",
             "title": "\nMAJELIS PENGAWAS\nKONSULTAN KEKAYAAN INTELEKTUAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "72db7237-c500-4dcc-9108-af9e0a0b9e86",
+                    "id": "c85872c1-4e5e-488f-a000-7aab10a06bec",
                     "name": "Article 14",
                     "type": "article",
                     "children": [
                         {
-                            "id": "4d6a0f35-713d-4e00-8262-30a5ec02e7ec",
+                            "id": "5c8d4449-fe8b-40ef-a4b0-f99123bba74f",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Menteri melakukan pengawasan dan pembinaan\nterhadap Konsultan Kekayaan Intelektual.",
+                            "content": " Menteri melakukan pengawasan dan pembinaan terhadap Konsultan Kekayaan Intelektual.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2d2d82ad-2acd-4eae-9639-c0b03db7353f",
+                            "id": "5bba1b7e-ec9e-4ac6-9d55-0e9b150af1ec",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Dalam melaksanakan pengawasan dan pembinaan\nsebagaimana dimaksud pada ayat (1), Menteri\nmembentuk Majelis Pengawas.",
+                            "content": " Dalam melaksanakan pengawasan dan pembinaan sebagaimana dimaksud pada ayat (1), Menteri membentuk Majelis Pengawas.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "7ca705bc-58b0-4f2d-a8cd-7759d436471d",
+                    "id": "ae969e4b-5b32-4d8a-a4cd-c600a60350d2",
                     "name": "Article 15",
                     "type": "article",
                     "children": {
-                        "id": "05fac39e-50b3-487b-bc0a-083861c1e1db",
+                        "id": "cea2762d-36a9-4687-83c2-27b3bc809287",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMajelis Pengawas diangkat untuk masa jabatan 3 (tiga)\ntahun dan dapat diangkat kembali untuk 1 (satu) kali\nmasa jabatan berikutnya.",
+                        "content": "\nMajelis Pengawas diangkat untuk masa jabatan 3 (tiga) tahun dan dapat diangkat kembali untuk 1 (satu) kali masa jabatan berikutnya.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "64837318-9e42-420a-b80c-83804b829c92",
+                    "id": "2ca4c7f7-a7bf-401a-a71c-635b17816937",
                     "name": "Article 16",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f214c3aa-eb2a-4cea-8ba0-4223eaac832a",
+                            "id": "85c10e68-79d0-4450-bbd0-643950f01761",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " terdiri atas:\na. 1 (satu) orang ketua merangkap anggota;\nb. 1 (satu) orang wakil ketua merangkap anggota;\ndan\nc. 7 (tujuh) orang anggota.",
+                            "content": " Majelis Pengawas sebagaimana dimaksud dalam Pasal 14 ayat (2) beranggotakan 9 (sembilan) orang yang terdiri atas unsur:\n    a. pemerintah sebanyak 3 (tiga) orang;\n    b. Organisasi Profesi sebanyak 3 (tiga) orang; dan\n    c. ahli/akademisi sebanyak 3 (tiga) orang.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "43c1fde5-f41c-4e6e-a19d-1f0c0592e3af",
+                            "id": "dab21656-90ef-4eb2-b677-86597382dc19",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Majelis Pengawas sebagaimana dimaksud pada ayat",
+                            "content": " Majelis Pengawas sebagaimana dimaksud pada ayat (1) terdiri atas:\n    a. 1 (satu) orang ketua merangkap anggota;\n    b. 1 (satu) orang wakil ketua merangkap anggota; dan\n    c. 7 (tujuh) orang anggota.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7803bb55-2394-455f-a799-2646dac51760",
+                            "id": "aa5cba8e-3a00-486b-b71e-e87333d669f3",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
-                            "content": " Ketua dan wakil ketua Majelis Pengawas harus\nberasal dari unsur yang berbeda dan dipilih dari dan\noleh anggota Majelis Pengawas.",
+                            "content": " Ketua dan wakil ketua Majelis Pengawas harus berasal dari unsur yang berbeda dan dipilih dari dan oleh anggota Majelis Pengawas.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "798fad41-a55c-42ff-84f9-79cba4ea5147",
+                            "id": "111931a1-0474-430a-9ca4-ba1df9470fd4",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
-                            "content": " Pemilihan ketua dan wakil ketua Majelis Pengawas\ndilakukan secara musyawarah.",
+                            "content": " Pemilihan ketua dan wakil ketua Majelis Pengawas dilakukan secara musyawarah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ccc242ba-c755-4fa1-b399-4c99c683d2b9",
+                            "id": "eb03c2d7-47ba-435d-99c7-e1870cd4d17e",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
-                            "content": " Dalam hal pemilihan secara musyawarah tidak\nmencapai kata sepakat, pemilihan ketua dan wakil\nketua Majelis Pengawas dilakukan dengan cara",
+                            "content": " Dalam hal pemilihan secara musyawarah tidak mencapai kata sepakat, pemilihan ketua dan wakil ketua Majelis Pengawas dilakukan dengan cara",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "389f6601-f103-4dd8-bb6f-9c6f6fdd27da",
+                    "id": "4bd70d1b-90af-411c-b75d-dcdbe9e1d538",
                     "name": "Article 17",
                     "type": "article",
                     "children": {
-                        "id": "e9c9f072-cb74-4298-8873-409d1e815322",
+                        "id": "510e31fd-aa7d-4d6a-8205-83104d00009d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMajelis Pengawas mempunyai tugas:\na. melakukan pengawasan dan pembinaan terhadap perilaku Konsultan Kekayaan Intelektual;\nb. melakukan pemeriksaan terhadap laporan mengenai dugaan pelanggaran kewajiban dan kode etik profesi yang dilakukan oleh Konsultan Kekayaan Intelektual;\nc. melakukan pemantauan dan evaluasi terhadap kinerja Konsultan Kekayaan Intelektual;\nd. membuat rekomendasi pemberhentian Konsultan Kekayaan Intelektual; dan\ne. membuat rekomendasi perpanjangan usia pensiun Konsultan Kekayaan Intelektual.",
+                        "content": "\nMajelis Pengawas mempunyai tugas:\na. melakukan pengawasan dan pembinaan terhadap\nperilaku Konsultan Kekayaan Intelektual;\nb. melakukan pemeriksaan terhadap laporan mengenai\ndugaan pelanggaran kewajiban dan kode etik profesi\nyang dilakukan oleh Konsultan Kekayaan Intelektual;\nc. melakukan pemantauan dan evaluasi terhadap kinerja\nKonsultan Kekayaan Intelektual;\nd. membuat rekomendasi pemberhentian Konsultan\nKekayaan Intelektual; dan\ne. membuat rekomendasi perpanjangan usia pensiun\nKonsultan Kekayaan Intelektual.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "1a539e77-a9ee-40ab-be6b-5c707c9471b6",
+                    "id": "a280fdda-f4eb-4345-b31c-8adb0f1e8441",
                     "name": "Article 18",
                     "type": "article",
                     "children": {
-                        "id": "e07370d4-1726-4a36-a76d-94350b4894ea",
+                        "id": "c1b337db-ea26-4184-ad25-7c8539e0c0e5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMajelis Pengawas berwenang:\na. menerima laporan mengenai dugaan pelanggaran kewajiban dan kode etik profesi yang dilakukan oleh Konsultan Kekayaan Intelektual;\nb. memanggil dan memeriksa Konsultan Kekayaan Intelektual yang diduga melakukan pelanggaran kewajiban dan kode etik profesi; dan\nc. menyampaikan rekomendasi penjatuhan sanksi bagi Konsultan Kekayaan Intelektual yang melakukan pelanggaran kewajiban dan kode etik profesi kepada Menteri.",
+                        "content": "\nMajelis Pengawas berwenang:\na. menerima laporan mengenai dugaan pelanggaran\nkewajiban dan kode etik profesi yang dilakukan oleh\nKonsultan Kekayaan Intelektual;\nb. memanggil dan memeriksa Konsultan Kekayaan\nIntelektual yang diduga melakukan pelanggaran\nkewajiban dan kode etik profesi; dan\nc. menyampaikan rekomendasi penjatuhan sanksi bagi\nKonsultan Kekayaan Intelektual yang melakukan\npelanggaran kewajiban dan kode etik profesi kepada\nMenteri.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "13a37ba8-1ef0-429d-80c0-59f82ca0a444",
+                    "id": "1de57749-b550-44af-adc1-2083f0fe22cc",
                     "name": "Article 19",
                     "type": "article",
                     "children": [
                         {
-                            "id": "563685ee-f1a4-4b32-b4e4-9f39ec9913b4",
+                            "id": "37071a8c-95d5-440a-b225-56a3a1e6ba92",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
-                            "content": " Dalam melaksanakan tugasnya, Majelis Pengawas dibantu oleh sekretariat Majelis Pengawas.",
+                            "content": " Dalam melaksanakan tugasnya, Majelis Pengawas\ndibantu oleh sekretariat Majelis Pengawas.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1a16d5cb-7a97-4dc8-8483-48f5e808e679",
+                            "id": "c0e05755-9271-4308-8fa3-e3d66421b5d2",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
-                            "content": " Sekretariat Majelis Pengawas sebagaimana dimaksud pada ayat (1) dipimpin oleh seorang sekretaris yang merupakan *ex officio* pejabat pada Direktorat Jenderal.\n2021, No. 224",
+                            "content": " Sekretariat Majelis Pengawas sebagaimana dimaksud\npada ayat (1) dipimpin oleh seorang sekretaris yang\nmerupakan ex officio pejabat pada Direktorat\nJenderal.\n2021, No. 224",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "01757cb4-018c-4563-97c1-d53472ccd69a",
+                    "id": "a233ddda-8995-4062-8b8a-ad1dfc8ea1cb",
                     "name": "Article 20",
                     "type": "article",
                     "children": {
-                        "id": "2635a4f4-1163-49d4-a84f-8b47b2a41ba1",
+                        "id": "5f3d66ae-f5dc-4e97-a389-759c3b607817",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -539,23 +539,23 @@
             ]
         },
         {
-            "id": "2973a449-4bb1-463a-b53d-aad6d4f7228f",
+            "id": "24d0f1de-1e59-4eaf-a934-5942322eef47",
             "name": "Chapter V",
             "title": "\nPEMBERHENTIAN\nKONSULTAN KEKAYAAN INTELEKTUAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2ac3af09-9965-43fb-a312-1a773d9bd422",
+                    "id": "637243b7-7ba7-48fd-9dc0-e8f9fb9ef7a7",
                     "name": "Section First",
                     "title": "\nUmum",
                     "type": "section",
                     "children": [
                         {
-                            "id": "77e9d259-07bf-420d-a7a6-a5d118e6cf86",
+                            "id": "a8fea446-87da-457f-a3a8-a44393a6785b",
                             "name": "Article 21",
                             "type": "article",
                             "children": {
-                                "id": "6736c9a7-0215-4f9d-be82-f9a28ec726bb",
+                                "id": "1493ba03-23ec-4915-8248-1db1e4f29ab6",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -564,11 +564,11 @@
                             }
                         },
                         {
-                            "id": "bf7f8272-d65a-4d96-a610-8f210cfaff37",
+                            "id": "4d8c5f41-48e7-4c6a-8f56-68dbb37d4fa2",
                             "name": "Article 22",
                             "type": "article",
                             "children": {
-                                "id": "f091f538-2f28-4e9b-b44c-40b8132f45f2",
+                                "id": "1b914207-f2e1-4080-9fbf-df4179cad83a",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -579,18 +579,18 @@
                     ]
                 },
                 {
-                    "id": "b8e0b2a7-c53e-4ba5-95b6-c152d2ad7fb1",
+                    "id": "b1ae023b-7603-44c7-aa26-8e5f48f20911",
                     "name": "Section Second",
                     "title": "\nPemberhentian Sementara",
                     "type": "section",
                     "children": [
                         {
-                            "id": "59dce20b-9787-43bd-ab34-606d20c5b514",
+                            "id": "5ce2242f-cb3f-462f-9240-c9194a9dc2a3",
                             "name": "Article 23",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "86c979f1-9249-4ddf-870b-4f4bf1988701",
+                                    "id": "0d93277d-19db-4a6e-9d3d-f47d78e2d33e",
                                     "name": "Verse 1",
                                     "number": "(1)",
                                     "type": "verse",
@@ -598,7 +598,7 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "a2108acc-4a7a-4a04-899e-65b6b0097ffd",
+                                    "id": "d72ffc72-f443-4ec8-b67b-59d161cb098f",
                                     "name": "Verse 2",
                                     "number": "(2)",
                                     "type": "verse",
@@ -608,12 +608,12 @@
                             ]
                         },
                         {
-                            "id": "e888bc1f-38ee-43fa-8d9c-d96716cb4a3d",
+                            "id": "ec048d80-9ad0-4ad5-b3f7-4e4ee6c65b3a",
                             "name": "Article 24",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "5e91e750-6b11-45be-ab08-f3f13a57a2d2",
+                                    "id": "eb8c6c14-93ef-4fda-b8cd-5eab61f5e0da",
                                     "name": "Verse 1",
                                     "number": "(1)",
                                     "type": "verse",
@@ -621,7 +621,7 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "ff85c5f6-9f96-4389-a24e-164f0fdc1a62",
+                                    "id": "5bd46c67-0f2b-4d45-88c2-4e8d8d2a7b0d",
                                     "name": "Verse 2",
                                     "number": "(2)",
                                     "type": "verse",
@@ -633,18 +633,18 @@
                     ]
                 },
                 {
-                    "id": "d5d4f1d3-f986-452c-a37b-cbb99c601103",
+                    "id": "546ac655-6725-4dc1-a2c8-8a7853aa5d00",
                     "name": "Section Third",
                     "title": "\nPemberhentian Dengan Hormat",
                     "type": "section",
                     "children": [
                         {
-                            "id": "f5facec1-6b68-4616-822f-c7ecf11d64f5",
+                            "id": "fe2b113a-5975-446a-92b1-d3e1d04e6891",
                             "name": "Article 25",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "9dcf902b-80ad-4e19-ba74-c06fd1f9d361",
+                                    "id": "a7a019c6-46e8-4724-a232-628f6979562f",
                                     "name": "Verse 1",
                                     "number": "(1)",
                                     "type": "verse",
@@ -652,7 +652,7 @@
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "be6ca923-8f98-476e-8c58-cdda91bd60e7",
+                                    "id": "8ba68651-d224-48c1-a526-9dd9ed4179c2",
                                     "name": "Verse 2",
                                     "number": "(2)",
                                     "type": "verse",
@@ -662,20 +662,20 @@
                             ]
                         },
                         {
-                            "id": "eabcb870-393b-431a-80bd-f644149e3224",
+                            "id": "40d6a14b-3bc0-441f-ab7e-6fc30dd19f78",
                             "name": "Article 26",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "781ff6e7-d9da-4d30-ad94-b25e2cbfd614",
+                                    "id": "18d0f108-7495-44d9-be1c-3eb82639c72e",
                                     "name": "Verse 1",
                                     "number": "(1)",
                                     "type": "verse",
-                                    "content": " Konsultan Kekayaan Intelektual diberhentikan dengan\ntidak hormat sebagaimana dimaksud dalam Pasal 22\nhuruf c, karena:\na. melanggar sumpah/janji Konsultan Kekayaan\nIntelektual;\nb. melakukan pelanggaran terhadap kewajiban dan\nkode etik profesi tingkat berat; dan/atau\nc. dijatuhi pidana penjara berdasarkan putusan\npengadilan yang telah memperoleh kekuatan\nhukum tetap karena melakukan tindak pidana\nyang diancam dengan pidana penjara paling\nsingkat 5 (lima) tahun atau lebih.",
+                                    "content": " Konsultan Kekayaan Intelektual diberhentikan dengan\ntidak hormat sebagaimana dimaksud dalam Pasal 22\nhuruf c, karena:\na.\nmelanggar sumpah/janji Konsultan Kekayaan\nIntelektual;\nb. melakukan pelanggaran terhadap kewajiban dan\nkode etik profesi tingkat berat; dan/atau\nc. dijatuhi pidana penjara berdasarkan putusan\npengadilan yang telah memperoleh kekuatan\nhukum tetap karena melakukan tindak pidana\nyang diancam dengan pidana penjara paling\nsingkat 5 (lima) tahun atau lebih.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "62631bed-14b1-465d-bd4f-f5260f1637d5",
+                                    "id": "be42c55e-4dac-4ad9-94b3-40f0589fe918",
                                     "name": "Verse 2",
                                     "number": "(2)",
                                     "type": "verse",
@@ -685,42 +685,24 @@
                             ]
                         },
                         {
-                            "id": "42e15187-f1b5-4957-b918-64a0088967c7",
+                            "id": "6c5251c7-31f1-4ab7-a86d-c847621f5314",
                             "name": "Article 27",
                             "type": "article",
-                            "children": [
-                                {
-                                    "id": "1c0d6795-99f4-47d2-a205-d84715c91b21",
-                                    "name": "Verse 3",
-                                    "number": "(3)",
-                                    "type": "verse",
-                                    "content": " Pemberhentian Konsultan Kekayaan Intelektual\nsebagaimana dimaksud pada ayat (1) huruf a, huruf\nb, huruf c, dan huruf e ditetapkan oleh Menteri.",
-                                    "explanation": "Tidak ada Penjelasan"
-                                },
-                                {
-                                    "id": "9c924f69-2b32-43a0-a08e-875665e5b96e",
-                                    "name": "Verse 4",
-                                    "number": "(4)",
-                                    "type": "verse",
-                                    "content": " Pemberhentian Konsultan Kekayaan Intelektual\nsebagaimana dimaksud pada ayat (1) huruf d\nditetapkan oleh Menteri setelah mendapatkan\nrekomendasi dari Majelis Pengawas.",
-                                    "explanation": "Tidak ada Penjelasan"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "47cf4962-8383-41db-87a6-d41a5f45218f",
-                    "name": "Section Fourth",
-                    "title": "\nPemberhentian Dengan Tidak Hormat",
-                    "type": "section",
-                    "children": [
+                            "children": {
+                                "id": "541fc3fc-6fab-4ff7-a5ec-c8352fd7a1c4",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nKonsultan Kekayaan Intelektual yang dikenakan\npemberhentian sebagaimana dimaksud dalam Pasal 22\nhuruf b dan huruf c dihapuskan namanya dari daftar\nKonsultan Kekayaan Intelektual dan diumumkan dalam\nberita resmi Konsultan Kekayaan Intelektual yang\n---",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        },
                         {
-                            "id": "955ea811-e189-489b-9ced-faf693087c1b",
+                            "id": "6b3e35b0-1403-4911-b15c-ec95807ccd75",
                             "name": "Article 28",
                             "type": "article",
                             "children": {
-                                "id": "696d7f80-7a46-41f1-a25c-5507c2240d85",
+                                "id": "07201dac-ff07-43bc-a6ab-c4de6bf45f71",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -733,18 +715,18 @@
             ]
         },
         {
-            "id": "eb65d589-e04b-42b3-9ba0-cf9c01448180",
+            "id": "030115e2-87bb-4b99-afb4-183d68dfc565",
             "name": "Chapter VI",
             "title": "\nORGANISASI PROFESI",
             "type": "chapter",
             "children": [
                 {
-                    "id": "258d6069-891c-4519-9189-c851961722b1",
+                    "id": "a9b12bbe-77f2-4fe3-9519-73070b5a03bb",
                     "name": "Article 29",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b5b19ff4-8ee4-450b-ae06-18db44934118",
+                            "id": "767511f4-841b-4548-896e-635b08bf81da",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -752,7 +734,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "16c3cf4b-261a-4816-8e01-f66bef84ada0",
+                            "id": "aa7b0791-e05b-45ce-ac60-084dea05414b",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -760,7 +742,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8f53fc63-506b-4d6c-ae02-62e5719968c7",
+                            "id": "43d83fc1-f19e-40ea-90e0-de45e9ddeae4",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -768,7 +750,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d37ea4f5-a30b-4462-833a-d50049851db7",
+                            "id": "b7bb9331-92cc-41b7-ad23-61f35529706b",
                             "name": "Verse 4",
                             "number": "(4)",
                             "type": "verse",
@@ -776,7 +758,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f238bd01-0af1-498f-a842-cb164696ebc3",
+                            "id": "483f6a78-4bba-4078-b7f0-e00089f3df3a",
                             "name": "Verse 5",
                             "number": "(5)",
                             "type": "verse",
@@ -784,7 +766,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a33a8278-d8c9-4a7d-bfb8-7fa420c74bbf",
+                            "id": "2216d7ba-a135-4f11-a8b7-78c06df20860",
                             "name": "Verse 6",
                             "number": "(6)",
                             "type": "verse",
@@ -796,18 +778,18 @@
             ]
         },
         {
-            "id": "22f98777-daae-4afe-9338-b8dadc0fcda6",
+            "id": "925410f5-f248-477b-bd5d-27bcb3207eb9",
             "name": "Chapter VII",
             "title": "\nPEMANTAUAN DAN EVALUASI\nKONSULTAN KEKAYAAN INTELEKTUAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "0820691f-fc35-46b7-b79a-5ae7bc678647",
+                    "id": "51f4e8f0-5466-4855-a307-5d86fd70a446",
                     "name": "Article 30",
                     "type": "article",
                     "children": [
                         {
-                            "id": "92b5fa04-bddc-41dc-b417-5a18354c5fd0",
+                            "id": "bbc97803-aa39-4172-b1c2-1ad8556048b8",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -815,7 +797,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "176e660f-3dea-4f9e-8958-a5e4a645e456",
+                            "id": "387d54ea-3f69-4782-8aea-484b9e439546",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -823,7 +805,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6527aeaf-288d-4c74-b273-63544f62b866",
+                            "id": "1fdb488e-6b19-4b02-8a2c-c14f05ecda4b",
                             "name": "Verse 3",
                             "number": "(3)",
                             "type": "verse",
@@ -835,17 +817,17 @@
             ]
         },
         {
-            "id": "6cd91b13-3ac0-4736-b465-dfb73acea47d",
+            "id": "3d139ec5-5eb4-47b9-ab3f-f72974709141",
             "name": "Chapter VIII",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "51bab54c-5474-448c-9a40-2a04d50cf136",
+                    "id": "e687a601-5f60-4b85-bf5b-61f4c60cb83b",
                     "name": "Article 31",
                     "type": "article",
                     "children": {
-                        "id": "8a68db89-d7f1-475d-ab0e-72c36d45ecce",
+                        "id": "042cded8-777a-449d-a758-f0a22eff82ec",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -854,12 +836,12 @@
                     }
                 },
                 {
-                    "id": "3ff47173-8cb0-44e6-8e12-bc5063c8f14c",
+                    "id": "24eaed70-aacb-4c92-905a-aa4eb545c8f9",
                     "name": "Article 32",
                     "type": "article",
                     "children": [
                         {
-                            "id": "adf2f1fc-d4b4-481c-a43a-f69dd7f0cade",
+                            "id": "fc564ae1-0b21-4916-a500-d3434904b69e",
                             "name": "Verse 1",
                             "number": "(1)",
                             "type": "verse",
@@ -867,7 +849,7 @@
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "de3ae897-ee9f-468d-a4fe-758b79e3ee2a",
+                            "id": "7e7456ab-7318-484a-9379-4f872a7c477a",
                             "name": "Verse 2",
                             "number": "(2)",
                             "type": "verse",
@@ -879,34 +861,34 @@
             ]
         },
         {
-            "id": "3eee5a92-cf14-49fa-a84e-89d630f32f65",
+            "id": "51b3d7c0-bcff-44ee-9fc6-8faf07962871",
             "name": "Chapter IX",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "d8807b1e-176a-41bf-a085-c1721f145cae",
+                    "id": "669893e8-f7ea-4fd6-b660-7445621e32f0",
                     "name": "Article 33",
                     "type": "article",
                     "children": {
-                        "id": "ad2e71ed-6697-4288-8a47-382bf0d8324d",
+                        "id": "15e5c101-d2fe-42fd-b2b7-47a1afb51a66",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPada saat Peraturan Pemerintah ini mulai berlaku:\na. Peraturan Pemerintah Nomor 2 Tahun 2005 tentang\nKonsultan Hak Kekayaan Intelektual (Lembaran\nNegara Republik Indonesia Tahun 2005 Nomor 2,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4466); dan\nb. Peraturan Presiden Nomor 84 Tahun 2006 tentang\nTata Cara Pengangkatan Konsultan Hak Kekayaan\nIntelektual,\ndicabut dan dinyatakan tidak berlaku.",
+                        "content": "\nPada saat Peraturan Pemerintah ini mulai berlaku:\na. Peraturan Pemerintah Nomor 2 Tahun 2005 tentang Konsultan Hak Kekayaan Intelektual (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 2, Tambahan Lembaran Negara Republik Indonesia Nomor 4466); dan\nb. Peraturan Presiden Nomor 84 Tahun 2006 tentang Tata Cara Pengangkatan Konsultan Hak Kekayaan Intelektual, dicabut dan dinyatakan tidak berlaku.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "65eea4b3-9bb5-401e-acd4-ede4fbf195eb",
+                    "id": "cb2f066b-c2ee-4aa2-8637-1cf16827a2d8",
                     "name": "Article 34",
                     "type": "article",
                     "children": {
-                        "id": "306b7bdd-7f2f-41f5-ae1e-c0e222ddf438",
+                        "id": "1a34f345-4245-4d40-b7bc-d7b817e9a2dd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
@@ -925,15 +907,15 @@
         },
         "Mengingat": {
             "Introduction": "",
-            "1": "\nPasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
-            "2": "\nUndang-Undang Nomor 30 Tahun 2000 tentang\nRahasia Dagang (Lembaran Negara Republik\nIndonesia Tahun 2000 Nomor 242, Tambahan\nLembaran Negara Republik Indonesia Nomor 4044);",
-            "3": "\nUndang-Undang Nomor 31 Tahun 2000 tentang\nDesain Industri (Lembaran Negara Republik Indonesia\nTahun 2000 Nomor 243, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4045);",
-            "4": "\nUndang-Undang Nomor 32 Tahun 2000 tentang\nDesain Tata Letak Sirkuit Terpadu (Lembaran Negara\nRepublik Indonesia Tahun 2000 Nomor 244,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4046);",
-            "5": "\nUndang-Undang Nomor 28 Tahun 2014 tentang Hak\nCipta (Lembaran Negara Republik Indonesia Tahun\n2014 Nomor 266, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5599);",
-            "6": "\nUndang-Undang Nomor 13 Tahun 2016 tentang Paten\n(Lembaran Negara Republik Indonesia Tahun 2016\nNomor 176, Tambahan Lembaran Negara Republik\nIndonesia Nomor 5922) sebagaimana telah diubah\ndengan Undang-Undang Nomor 11 Tahun 2020\ntentang Cipta Kerja (Lembaran Negara Republik\nIndonesia Tahun 2020 Nomor 245, Tambahan\nLembaran Negara Republik Indonesia Nomor 6573);",
-            "7": "\nUndang-Undang Nomor 20 Tahun 2016 tentang Merek\ndan Indikasi Geografis (Lembaran Negara Republik\nIndonesia Tahun 2016 Nomor 252, Tambahan\nLembaran Negara Republik Indonesia Nomor 5953)\nsebagaimana telah diubah dengan Undang-Undang\nNomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran\nNegara Republik Indonesia Tahun 2020 Nomor 245,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6573);"
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 30 Tahun 2000 tentang\nRahasia Dagang (Lembaran Negara Republik\nIndonesia Tahun 2000 Nomor 242, Tambahan\nLembaran Negara Republik Indonesia Nomor 4044);",
+            "3": " Undang-Undang Nomor 31 Tahun 2000 tentang\nDesain Industri (Lembaran Negara Republik Indonesia\nTahun 2000 Nomor 243, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4045);",
+            "4": " Undang-Undang Nomor 32 Tahun 2000 tentang\nDesain Tata Letak Sirkuit Terpadu (Lembaran Negara\nRepublik Indonesia Tahun 2000 Nomor 244,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4046);",
+            "5": " Undang-Undang Nomor 28 Tahun 2014 tentang Hak\nCipta (Lembaran Negara Republik Indonesia Tahun\n2014 Nomor 266, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5599);",
+            "6": " Undang-Undang Nomor 13 Tahun 2016 tentang Paten\n(Lembaran Negara Republik Indonesia Tahun 2016\nNomor 176, Tambahan Lembaran Negara Republik\nIndonesia Nomor 5922) sebagaimana telah diubah\ndengan Undang-Undang Nomor 11 Tahun 2020\ntentang Cipta Kerja (Lembaran Negara Republik\nIndonesia Tahun 2020 Nomor 245, Tambahan\nLembaran Negara Republik Indonesia Nomor 6573);",
+            "7": " Undang-Undang Nomor 20 Tahun 2016 tentang Merek\ndan Indikasi Geografis (Lembaran Negara Republik\nIndonesia Tahun 2016 Nomor 252, Tambahan\nLembaran Negara Republik Indonesia Nomor 5953)\nsebagaimana telah diubah dengan Undang-Undang\nNomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran\nNegara Republik Indonesia Tahun 2020 Nomor 245,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6573);"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang Konsultan\nKekayaan Intelektual;\n2021, No. 224\nMengingat  1.\nPasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2.\nUndang-Undang Nomor 30 Tahun 2000 tentang\nRahasia Dagang (Lembaran Negara Republik\nIndonesia Tahun 2000 Nomor 242, Tambahan\nLembaran Negara Republik Indonesia Nomor 4044);\n3.\nUndang-Undang Nomor 31 Tahun 2000 tentang\nDesain Industri (Lembaran Negara Republik Indonesia\nTahun 2000 Nomor 243, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4045);\n4.\nUndang-Undang Nomor 32 Tahun 2000 tentang\nDesain Tata Letak Sirkuit Terpadu (Lembaran Negara\nRepublik Indonesia Tahun 2000 Nomor 244,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4046);\n5.\nUndang-Undang Nomor 28 Tahun 2014 tentang Hak\nCipta (Lembaran Negara Republik Indonesia Tahun\n2014 Nomor 266, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5599);\n6.\nUndang-Undang Nomor 13 Tahun 2016 tentang Paten\n(Lembaran Negara Republik Indonesia Tahun 2016\nNomor 176, Tambahan Lembaran Negara Republik\nIndonesia Nomor 5922) sebagaimana telah diubah\ndengan Undang-Undang Nomor 11 Tahun 2020\ntentang Cipta Kerja (Lembaran Negara Republik\nIndonesia Tahun 2020 Nomor 245, Tambahan\nLembaran Negara Republik Indonesia Nomor 6573);\n7.\nUndang-Undang Nomor 20 Tahun 2016 tentang Merek\ndan Indikasi Geografis (Lembaran Negara Republik\nIndonesia Tahun 2016 Nomor 252, Tambahan\nLembaran Negara Republik Indonesia Nomor 5953)\nsebagaimana telah diubah dengan Undang-Undang\nNomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran\nNegara Republik Indonesia Tahun 2020 Nomor 245,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6573);\nMEMUTUSKAN\nΜΕΝΕΤΑΡΚΑΝ  PERATURAN PEMERINTAH TENTANG KONSULTAN\nKEKAYAAN INTELEKTUAL.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang Konsultan\nKekayaan Intelektual;\n2021, No. 224\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 30 Tahun 2000 tentang\nRahasia Dagang (Lembaran Negara Republik\nIndonesia Tahun 2000 Nomor 242, Tambahan\nLembaran Negara Republik Indonesia Nomor 4044);\n3. Undang-Undang Nomor 31 Tahun 2000 tentang\nDesain Industri (Lembaran Negara Republik Indonesia\nTahun 2000 Nomor 243, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4045);\n4. Undang-Undang Nomor 32 Tahun 2000 tentang\nDesain Tata Letak Sirkuit Terpadu (Lembaran Negara\nRepublik Indonesia Tahun 2000 Nomor 244,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4046);\n5. Undang-Undang Nomor 28 Tahun 2014 tentang Hak\nCipta (Lembaran Negara Republik Indonesia Tahun\n2014 Nomor 266, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5599);\n6. Undang-Undang Nomor 13 Tahun 2016 tentang Paten\n(Lembaran Negara Republik Indonesia Tahun 2016\nNomor 176, Tambahan Lembaran Negara Republik\nIndonesia Nomor 5922) sebagaimana telah diubah\ndengan Undang-Undang Nomor 11 Tahun 2020\ntentang Cipta Kerja (Lembaran Negara Republik\nIndonesia Tahun 2020 Nomor 245, Tambahan\nLembaran Negara Republik Indonesia Nomor 6573);\n7. Undang-Undang Nomor 20 Tahun 2016 tentang Merek\ndan Indikasi Geografis (Lembaran Negara Republik\nIndonesia Tahun 2016 Nomor 252, Tambahan\nLembaran Negara Republik Indonesia Nomor 5953)\nsebagaimana telah diubah dengan Undang-Undang\nNomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran\nNegara Republik Indonesia Tahun 2020 Nomor 245,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6573);\nMEMUTUSKAN\nΜΕΝΕΤΑΡΚΑΝ  PERATURAN PEMERINTAH TENTANG KONSULTAN\nKEKAYAAN INTELEKTUAL.",
         "tanggal sah": "27 September 2021"
     }
 }

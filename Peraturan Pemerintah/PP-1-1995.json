@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "75102434-8c00-449b-8458-5621464223b6",
+            "id": "18f75bfd-b358-4dc2-9dac-c84b0b98544f",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "bb27c4d3-77bd-4965-b86a-0fcf66a52d98",
+                "id": "1bac93d5-fefa-4c21-91aa-87e04c4ba267",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "0faed4cc-3e57-49d0-b3a0-86bbc21a661a",
+            "id": "0c68e203-8a60-4924-9303-1f16dbd392a5",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "b099aa2e-ca2f-4b2e-9465-42a096ce98e5",
+                "id": "365ea2d2-8274-4aa5-bcc6-80b61fd0b598",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "dde76697-daae-40ad-9756-ea4d77f6a390",
+            "id": "2f94e901-1d37-48df-8ca6-9f4d1fb08ab9",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "e8105a2a-8d69-417c-a6c0-5eab6341da9b",
+                "id": "d9edb16f-e4d9-49ab-8a9e-b081514239ea",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,15 +40,15 @@
             }
         },
         {
-            "id": "b89aec59-c42b-46d7-b9d9-d7fbe36cbba4",
+            "id": "2197404f-77b2-4823-b7fc-6766fd3aecf9",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "13488ad8-f2e7-4896-8721-7be6179c2443",
+                "id": "95a8602d-dc09-4d23-ae33-94e464d71d4d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -56,7 +56,7 @@
     "metadata": {
         "Nomor": "1",
         "Tahun": "1995",
-        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL PERUSAHAAN UMUM (PERUM)\nPRASARANA PERIKANAN SAMUDERA",
+        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL PERUSAHAAN UMUM (PERUM)\nPRASARANA PERIKANAN SAMUDERA\nPRESIDEN REPUBLIK INDONESIA,",
         "Menimbang": {
             "Introduction": "",
             "a": " bahwa untuk lebih meningkatkan dan mengembangkan kegiatan usaha\nPerusahaan Umum (PERUM) Prasarana Perikanan Samudera,\ndipandang perlu untuk menambah penyertaan modal Negara Republik\nIndonesia ke dalam modal Perusahaan Umum (PERUM) Prasarana\nPerikanan Samudera;",

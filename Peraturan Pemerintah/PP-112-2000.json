@@ -1,0 +1,123 @@
+{
+    "results": [
+        {
+            "id": "092838b9-b2c1-4d6a-9cd6-163c4dcc9471",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "a5563549-e6b8-4db4-a2b7-d58cb901fdee",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "f25d5514-a58b-4c9e-b559-ecf63b66f126",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "24074d4c-e79c-4c99-99af-1318f88446f4",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Huruf a\nYang dimaksud dengan lembaga pemerintah lainnya antara lain Otorita Pengembangan\nDaerah Industri Pulau Batam, Badan Pengelola Gelanggang Olahraga Senayan, dan lembaga\npemerintah sejenis yang ditetapkan dengan Keputusan Presiden.\nContoh:\nPerusahaan Umum Pembangunan Perumahan Nasional (Perum Perumnas) memperoleh Hak Pengelolaan\natas tanah seluas 10 Ha dengan Nilai Perolehan Objek Pajak sebesar Rp 1.000.000.000,00 maka\nbesarnya Bea Perolehan Hak atas Tanah dan Bangunan (BPHTB) terutang adalah sebagai berikut:\n\n- Nilai Perolehan Objek Pajak Rp 1.000.000.000,00\n- Nilai Perolehan Objek Pajak Tidak Kena\nPajak Rp 60.000.000,00\n- Nilai Perolehan Objek Pajak Kena Pajak Rp 940.000.000,00\n-BPHTB terutang= 5% x Rp 940.000.000,00\n= Rp 47.000.000,00\n- BPHTB yang harus dibayar = 0% x Rp 47.000.000,00\n= NIHIL\nHuruf b\nContoh:\nSuatu Badan Usaha Milik Negara memperoleh Hak Pengelolaan atas tanah seluas 10 Ha dengan\nNilai Perolehan Objek Pajak sebesar Rp 1.000.000.000,00, maka besarnya BPHTB terutang\nadalah sebagai berikut:\n- Nilai Perolehan Objek Pajak Rp 1.000.000.000,00\n- Nilai Perolehan Objek Pajak Tidak\nKena Pajak Rp 60.000.000.00\n- Nilai Perolehan Objek Pajak Kena\nPajak Rp 940.000.000,00\n- BPHTB terutang= 5% x Rp 940.000.000,00\n= Rp 47.000.000,00\n- BPHTB yang harus dibayar = 50% x Rp 47.000.000,00\n= Rp 23.500.000,00",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "4cdbc4b0-a3b2-4dda-877e-c45b3b9e10b8",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "3949e92e-776e-4acc-91fd-9a08503ab27b",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "5c14ccaf-fe58-493f-85df-eb95ad6eebb1",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "5ddbd90d-6cdb-4eba-8024-34e2468992b8",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "0ad86562-82e2-4e29-82a5-bbf97d9f9f1a",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "74d5afef-f228-4e4a-8dcf-9059b618e2ad",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Dalam hal penerima Hak Pengelolaan adalah Departemen, Lembaga Pemerintah Non\nDepartemen, Pemerintah Daerah Propinsi, Pemerintah Daerah Kabupaten/Kota, lembaga\npemerintah lainnya, dan Perusahaan Umum Pembangunan Perumahan Nasional (Perum\nPerumnas), maka sebagai pengganti Surat Setoran Bea Perolehan Hak atas Tanah dan Bangunan\nadalah Surat Keterangan Bebas Bea Perolehan Hak atas Tanah dan Bangunan dari Kantor\nPelayanan PBB yang wilayahnya meliputi letak tanah dan atau bangunan yang diberikan Hak\n---\nPengelolaan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "c5a231c8-0f1e-492d-a1c7-dd3c4ae15a6c",
+            "name": "Article 6",
+            "type": "article",
+            "children": {
+                "id": "55a3fb58-ca8d-44b2-a949-88981252ecb8",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "f091298d-53ef-49e2-a30d-8a3867571de1",
+            "name": "Article 7",
+            "type": "article",
+            "children": {
+                "id": "c26fe847-b796-4a28-a18f-f36be73b26c2",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "a78fd400-7cbf-4dde-bf72-3da416e90e60",
+            "name": "Article 8",
+            "type": "article",
+            "children": {
+                "id": "592185af-dd2e-4435-b1f8-4a1c087edda5",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "112",
+        "Tahun": "2000",
+        "Tentang": "PENGENAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN\nKARENA PEMBERIAN HAK PENGELOLAAN",
+        "Menimbang": {
+            "Introduction": "\nbahwa dalam rangka pelaksanaan ketentuan Pasal 3 ayat (2) Undang-undang Nomor 21\nTahun 1997 tentang Bea Peroleh Hak atas Tanah dan Bangunan sebagaimana telah\ndiubah dengan Undang-undang Nomor 20 Tahun 2000, perlu menetapkan Peraturan\nPemerintah tentang Pengenaan Bea Perolehan Hak atas Tanah dan Bangunan karena\nPemberian Hak Pengelolaan;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945 sebagaimana telah diubah dengan\nPerubahan Kedua Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 21 Tahun 1997 tentang Bea Perolehan Hak atas Tanah dan\nBangunan (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 44, Tambahan\nLembaran Negara Nomor 3688) sebagaimana telah diubah dengan Undang-undang\nNomor 20 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor\n130, Tambahan Lembaran Negara Nomor 3988);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENGENAAN BEA PEROLEHAN HAK ATAS\nTANAH DAN BANGUNAN KARENA PEMBERIAN HAK PENGELOLAAN.",
+        "tanggal sah": ""
+    }
+}
