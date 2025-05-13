@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "549fbb0e-ec42-4d4d-b774-1725921d6692",
+            "id": "7ae569e6-6080-4d97-b1b9-b7cd5ebf633b",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "5131cec0-aac1-4891-853c-cbd6f37d575f",
+                    "id": "665fa67e-72ef-4bff-9d47-d829991b6eee",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "0710fb10-5478-47bf-98f4-f704c5f158ea",
+                        "id": "0cc247bd-b959-4a9c-95e2-d0abf1e218e5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -22,17 +22,17 @@
             ]
         },
         {
-            "id": "cc42799d-2c63-4816-b860-b3763d93c25c",
+            "id": "fedcf909-e5f2-4858-8bb3-40228d5c6ebe",
             "name": "Chapter II",
             "title": "\nKEDUDUKAN KEPALA DAERAH DAN\nWAKIL KEPALA DAERAH",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8a8434b8-f81e-4ff6-b1ab-0532f57e8372",
+                    "id": "cb7e6ac5-3ad8-4fe2-a7d8-bbed457b726d",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "b6609574-f9e8-4f54-aa71-cc6ec6be39b2",
+                        "id": "12437521-c385-4e76-8d65-53fa636a8a34",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -41,30 +41,30 @@
                     }
                 },
                 {
-                    "id": "ae8be829-2366-43e2-a8fc-181a993e46be",
+                    "id": "7dcd435a-548f-4e97-867a-e6eb9a95a501",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "7fc11437-27d7-4135-9566-c74911c24af8",
+                            "id": "8e4418f1-3318-41a8-87dd-11eb84f6cff5",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pegawai Negeri yang diangkat menjadi Kepala Daerah atau Wakil Kepala Daerah dibebaskan dari\njabatan organiknya tanpa kehilangan statusnya sebagai Pegawai Negeri.",
                             "explanation": "\nYang dimaksud dengan dibebaskan dalam ayat ini adalah bahwa Pegawai Negeri\nyang bersangkutan tidak lagi menerima tunjangan jabatan dan fasilitas lainnya sejak yang\nbersangkutan dilantik menjadi Kepala Daerah dan Wakil Kepala Daerah."
                         },
                         {
-                            "id": "b588df02-6a89-4305-9ea7-983fa513b80f",
+                            "id": "eb6cdd7d-43d7-4600-91f4-c424bf0cb4b0",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Selama menjadi Kepala Daerah atau Wakil Kepala Daerah sebagaimana dimaksud pada ayat (1),\nPegawai Negeri yang bersangkutan dapat dinaikkan pangkatnya sesuai dengan ketentuan\nperaturan perundang-undangan.",
                             "explanation": "\nSejak dilantik menjadi Kepala Daerah dan Wakil Kepala Daerah, pejabat yang\nberasal dari Pegawai Negeri ini tidak lagi mengerjakan tugas-tugas pada instansi asalnya."
                         },
                         {
-                            "id": "b8c4d989-2059-4d1d-a5a8-6dd87980012e",
+                            "id": "ff4f3e85-9764-4dd4-b9e3-c2c7f38d6046",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Kepala Daerah dan Wakil Kepala Daerah yang berasal dari Pegawai Negeri sebagaimana\ndimaksud pada ayat (1) yang berhenti dengan hormat dari jabatannya dikembalikan kepada\ninstansi asalnya.",
                             "explanation": "\nCukup jelas"
@@ -74,36 +74,88 @@
             ]
         },
         {
-            "id": "faae1039-f01a-4a82-8248-1cc06c738e16",
+            "id": "0f95e079-4f69-426d-b645-5cb0d95ffe4e",
             "name": "Chapter III",
-            "title": "\nKEDUDUKAN KEUANGAN KEPALA DAERAH\nDAN WAKIL KEPALA DAERAH\nBagian Pertama\nGaji dan Tunjangan\nPasal 4\n(1)\tKepala Daerah dan Wakil Kepala Daerah diberikan gaji, yang terdiri dari gaji pokok, tunjangan jabatan, dan tunjangan lainnya.\n(2)\tBesarnya gaji pokok Kepala Daerah dan Wakil Kepala Daerah ditetapkan dengan Peraturan Pemerintah.\n(3)\tTunjangan jabatan dan tunjangan lainnya sebagaimana dimaksud pada ayat (1) ditetapkan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku bagi Pejabat Negara, kecuali ditentukan lain dengan peraturan perundang-undangan.\nPasal 5\nKepala Daerah dan Wakil Kepala Daerah tidak dibenarkan menerima penghasilan dan atau fasilitas rangkap dari Negara.",
+            "title": "\nKEDUDUKAN KEUANGAN KEPALA DAERAH\nDAN WAKIL KEPALA DAERAH",
             "type": "chapter",
             "children": [
                 {
-                    "id": "9e6b0104-6782-4a58-afaa-28ff2ae256c2",
+                    "id": "c1ca816d-11ed-4a96-8255-e1cd5b493973",
+                    "name": "Section First",
+                    "title": "\nGaji dan Tunjangan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "e013abdd-2d7d-4744-8d92-415912bf72bc",
+                            "name": "Article 4",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "fbd6ef3d-e611-4326-849f-da64bbfb5d46",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Kepala Daerah dan Wakil Kepala Daerah diberikan gaji, yang terdiri dari gaji pokok, tunjangan jabatan, dan tunjangan lainnya.",
+                                    "explanation": "\nCukup jelas"
+                                },
+                                {
+                                    "id": "8b1d289e-2935-4bd0-9090-5732ed785708",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Besarnya gaji pokok Kepala Daerah dan Wakil Kepala Daerah ditetapkan dengan Peraturan Pemerintah.",
+                                    "explanation": "\nCukup jelas"
+                                },
+                                {
+                                    "id": "0bd87f07-23c0-46cc-8520-b070985be3bb",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Tunjangan jabatan dan tunjangan lainnya sebagaimana dimaksud pada ayat (1) ditetapkan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku bagi Pejabat Negara, kecuali ditentukan lain dengan peraturan perundang-undangan.",
+                                    "explanation": "\nCukup jelas"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "9535fbe9-d34c-40a0-b203-55d5451e759d",
+                            "name": "Article 5",
+                            "type": "article",
+                            "children": {
+                                "id": "1abf5385-1203-48e3-af20-d9339b2f6c3c",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nKepala Daerah dan Wakil Kepala Daerah tidak dibenarkan menerima penghasilan dan atau fasilitas rangkap dari Negara.",
+                                "explanation": "\nSeorang Pegawai Negeri apabila diangkat menjadi Kepala Daerah atau Wakil Kepala Daerah,\nhanya menerima penghasilan dan menggunakan fasilitas sebagai pejabat negara."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2bdcb57d-50fe-40d2-8b0c-918d6b6f3fe4",
                     "name": "Section Second",
                     "title": "\nBiaya Sarana dan Prasaran",
                     "type": "section",
                     "children": [
                         {
-                            "id": "93baf2b7-a769-465f-943b-4e80c9da14f2",
+                            "id": "1c30f6dd-a7c5-44f8-9b91-4664881a33ff",
                             "name": "Article 6",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "2cb477da-d9a2-4f58-a0de-ccefa3ed84ca",
+                                    "id": "38a314ef-8eb9-4d41-aa46-d19e3e68c8c9",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": "\tKepala Daerah dan Wakil Kepala Daerah disediakan masing-masing sebuah rumah jabatan beserta perlengkapannya dan biaya pemeiliharaan.",
+                                    "content": " Kepala Daerah dan Wakil Kepala Daerah disediakan masing-masing sebuah rumah jabatan beserta perlengkapannya dan biaya pemeiliharaan.",
                                     "explanation": "\nYang dimaksud dengan biaya pemeliharaan rumah jabatan termasuk biaya pemakaian air,\nlistrik, telepon, dan gas sesuai dengan ketentuan yang berlaku dan kemampuan keuangan daerah."
                                 },
                                 {
-                                    "id": "4c980f87-506e-429a-ba3e-4293319bacc9",
+                                    "id": "fc653216-c856-4331-922e-fced2a978f68",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": "\tApabila Kepala Daerah dan Wakil Kepala Daerah berhenti dari jabatannya, rumah jabatan dan barang-barang perlengkapannya diserahkan kembali secara lengkap dan dalam keadaan baik kepada Pemerintah Daerah tanpa suatu kewajiban dari Pemerintah Daerah.",
+                                    "content": " Apabila Kepala Daerah dan Wakil Kepala Daerah berhenti dari jabatannya, rumah jabatan dan barang-barang perlengkapannya diserahkan kembali secara lengkap dan dalam keadaan baik kepada Pemerintah Daerah tanpa suatu kewajiban dari Pemerintah Daerah.",
                                     "explanation": "\nProses penyerahan rumah jabatan dan barang-barang perlengkapan kepada Pemerintah\nDaerah dituangkan dalam berita acara serah terima.\nYang dimaksud dengan tanpa suatu kewajiban Pemerintah daerah adalah bahwa\npemerintah daerah tidak menanggung segala ikatan yang dilakukan oleh yang bersangkutan\ndengan pihak lain sehingga menjadi beban anggaran pemerintah daerah.\nSerah terima dimaksud selamat-lambatnya dilaksanakan 1 (satu) bulan sejak yang\nbersangkutan berhenti dari jabatannya."
                                 }
                             ]
@@ -111,30 +163,30 @@
                     ]
                 },
                 {
-                    "id": "770ca539-091f-4d51-aff3-bf9b97c5ccf1",
+                    "id": "e6eb4bc7-33fe-47ec-acec-e527a35524d4",
                     "name": "Section Third",
                     "title": "\nSarana Mobilitas",
                     "type": "section",
                     "children": [
                         {
-                            "id": "7b601ea2-434e-4238-b0c7-522c02f5a5d6",
+                            "id": "64d719c0-67cf-4530-be56-babe18fc5095",
                             "name": "Article 7",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "9d8a8b38-3c51-4fb4-87cd-8e200bb16b29",
+                                    "id": "184db3be-4dd4-4722-8f32-b8ef8f71ca9e",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Kepala Daerah dan Wakil Kepala Daerah disediakan masing-masing sebuah kendaraan dinas.",
                                     "explanation": "\nDalam pengadaan kendaraan dinas harus mempertimbangkan prinsip penghematan,\nsederhana dan bersahaja yang disesuaikan dengan kemampuan keuangan daerah."
                                 },
                                 {
-                                    "id": "fbf301d6-4a15-4184-beb6-f3d1697d0fcc",
+                                    "id": "e5977c37-b771-4135-8312-1cc704b66322",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Apabila Kepala Daerah atau Wakil Kepala Daerah berhenti dari jabatannya, kendaraan dinas\ndiserahkan kembali dalam keadaan baik kepada Pemerintah Daerah.",
+                                    "content": " Apabila Kepala Daerah atau Wakil Kepala Daerah berhenti dari jabatannya, kendaraan dinas diserahkan kembali dalam keadaan baik kepada Pemerintah Daerah.",
                                     "explanation": "\nPenyerahan kendaraan dinas dilaksanakan paling lambat 1 (satu) bulan sejak yang\nbersangkutan berhenti dari jabatannya."
                                 }
                             ]
@@ -142,82 +194,74 @@
                     ]
                 },
                 {
-                    "id": "02c600cd-e38d-41bb-80f1-38d84dddcce5",
+                    "id": "54119b29-755a-40e6-a41d-10e2560e80e6",
                     "name": "Section Fourth",
                     "title": "\nBiaya Operasional",
                     "type": "section",
                     "children": [
                         {
-                            "id": "9af97c03-1223-46f5-bec8-b35cb7b72373",
+                            "id": "5db74c5d-4d38-4463-83c9-a5b7d1b68a1c",
                             "name": "Article 8",
                             "type": "article",
                             "children": {
-                                "id": "2b0c6538-7ccb-4643-9925-cdcf9aa7bfa4",
+                                "id": "49519393-7655-45c0-8043-91525cdf41c8",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nUntuk pelaksanaan tugas-tugas kepada Kepala Daerah dan Wakil Kepala Daerah disediakan:\na. biaya rumah tangga dipergunakan untuk membiayai kegiatan rumah tangga Kepala Daerah dan\nWakil Kepala Daerah;\nb. biaya pembelian inventaris rumah jabatan dipergunakan untuk membeli barang-barang inventaris\nrumah jabatan Kepala Daerah dan Wakil Kepala Daerah;\nc. biaya Pemeliharaan Rumah Jabatan dan barang-barang inventaris dipergunakan untuk\npemeliharaan rumah jabatan dan barang-barang inventaris yang dipakai atau dipergunakan oleh\nKepala Daerah dan Wakil Kepala Daerah;\nd. biaya pemeliharaan kendaraan dinas dipergunakan untuk pemeliharaan kendaraan dinas yang\ndipakai atau dipergunakan oleh Kepala Daerah dan Wakil Kepala Daerah;\ne. biaya pemeliharaan kesehatan dipergunakan untuk pengobatan, perawatan, rehabilitasi, tunjangan\ncacat dan uang duka bagi Kepala Daerah dan Wakil Kepala Daerah beserta anggota keluarga;\nf. biaya Perjalanan Dinas dipergunakan untuk membiaya perjalanan dinas dalam rangka\npelaksanaan tugas Kepala Daerah dan Wakil Kepala Daerah;\ng. biaya Pakaian Dinas dipergunakan untuk pengadaan pakaian dinas Kepala Daerah dan Wakil\nKepala Daerah berikut atributnya;\nh. biaya penunjang operasional dipergunakan untuk koordinasi, penanggulangan kerawanan sosial\nmasyarakat, pengamanan dan kegiatan khusus lainnya guna mendukung pelaksanaan tugas",
-                                "explanation": "\nHuruf a\nYang dimaksud dengan biaya rumah tangga adalah bantuan biaya untuk menunjang\nkebutuhan minimal terselenggaranya rumah tangga Kepala Daerah dan Wakil Kepala Daerah,\nsebatas kemampuan keuangan daerah.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nYang dimaksud dengan pakaian dinas yaitu Pakaian Sipil Harian, Pakaian Sipil Resmi,\nPakaian Sipil Lengkap, dan Pakaian Dinas Upacara.\nHuruf h.\nYang dimaksud dengna kegiatan khusus seperti kegiatan kenegaraan, promosi dan protokoler lainnya."
+                                "content": "\na. biaya rumah tangga dipergunakan untuk membiayai kegiatan rumah tangga Kepala Daerah dan Wakil Kepala Daerah;\nb. biaya pembelian inventaris rumah jabatan dipergunakan untuk membeli barang-barang inventaris rumah jabatan Kepala Daerah dan Wakil Kepala Daerah;\nc. biaya Pemeliharaan Rumah Jabatan dan barang-barang inventaris dipergunakan untuk pemeliharaan rumah jabatan dan barang-barang inventaris yang dipakai atau dipergunakan oleh Kepala Daerah dan Wakil Kepala Daerah;\nd. biaya pemeliharaan kendaraan dinas dipergunakan untuk pemeliharaan kendaraan dinas yang dipakai atau dipergunakan oleh Kepala Daerah dan Wakil Kepala Daerah;\ne. biaya pemeliharaan kesehatan dipergunakan untuk pengobatan, perawatan, rehabilitasi, tunjangan cacat dan uang duka bagi Kepala Daerah dan Wakil Kepala Daerah beserta anggota keluarga;\nf. biaya Perjalanan Dinas dipergunakan untuk membiaya perjalanan dinas dalam rangka pelaksanaan tugas Kepala Daerah dan Wakil Kepala Daerah;\ng. biaya Pakaian Dinas dipergunakan untuk pengadaan pakaian dinas Kepala Daerah dan Wakil Kepala Daerah berikut atributnya;\nh. biaya penunjang operasional dipergunakan untuk koordinasi, penanggulangan kerawanan sosial masyarakat, pengamanan dan kegiatan khusus lainnya guna mendukung pelaksanaan tugas",
+                                "explanation": "\nHuruf a\nYang dimaksud dengan biaya rumah tangga adalah bantuan biaya untuk menunjang\nkebutuhan minimal terselenggaranya rumah tangga Kepala Daerah dan Wakil Kepala Daerah,\nsebatas kemampuan keuangan daerah.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nYang dimaksud dengan pakaian dinas yaitu Pakaian Sipil Harian, Pakaian Sipil Resmi,\nPakaian Sipil Lengkap, dan Pakaian Dinas Upacara.\nHuruf h.\nYang dimaksud dengna kegiatan khusus seperti kegiatan kenegaraan, promosi dan\nprotokoler lainnya."
                             }
                         },
                         {
-                            "id": "8eb4ffdd-6571-4916-8e97-fed226d9f58d",
+                            "id": "0e5e0568-d36a-4a8c-9c8e-192af65a4350",
                             "name": "Article 9",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "4de9ff4f-0d35-4d65-a173-f524625b362b",
+                                    "id": "16c44a9b-4a85-454e-b486-7a703118fc1f",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Besarnya biaya penunjang operasional Kepala Daerah dan Wakil Kepala Daerah Propinsi\nditetapkan berdasarkan klasifikasi Pendapatan Asli Daerah sebagai berikut:\na. sampai dengan Rp 15 milyar paling rendah Rp 150 juta dan paling tinggi sebesar 1,75%;\nb. di atas Rp 15 milyar s/d Rp 50 paling rendah Rp 262.5 juta dan paling tinggi sebesar 1%;\nc. di atas Rp 50 milyar s/d Rp 100 milyar paling rendah Rp 500 juta dan paling tinggi sebesar\n0,75%;\nd. di atas Rp 100 milyar s/d Rp 250 milyar paling rendah Rp 750 juta dan paling tinggi sebesar\n0,40%;\ne. di atas Rp 250 milyar s/d Rp 500 milyar paling rendah Rp 1 milyar dan paling tinggi sebesar\n0,25%;\nf. di atas Rp 500 milyar paling rendah Rp 1,25 milyar dan paling tinggi sebesar 0,15%.",
-                                    "explanation": "\nYang dimaksud dengan Pendapatan Asli Daerah adalah pendapatan yang berasal dari hasil Pajak Daerah, Retribusi Daerah, Perusahaan Milik Daerah dan pengelolaan kekayaan daerah yang dipisahkan serta lain-lain pendapatan asli daerah yang sah."
+                                    "explanation": "\nYang dimaksud dengan Pendapatan Asli Daerah adalah pendapatan yang berasal dari hasil Pajak\nDaerah, Retribusi Daerah, Perusahaan Milik Daerah dan pengelolaan kekayaan daerah yang\ndipisahkan serta lain-lain pendapatan asli daerah yang sah."
                                 },
                                 {
-                                    "id": "06ef9f4c-2c46-43a8-b103-d5ec0298c8c3",
+                                    "id": "f4bffad1-6983-412e-800d-365afd823f4d",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Besarnya biaya penunjang operasional Kepala Daerah Kabupaten/Kota, ditetapkan berdasarkan\nklasifikasi Pendapatan Asli Daerah sebagai berikut:\na. sampai dengan Rp 5 milyar paling rendah Rp 125 juta dan paling tinggi sebesar 3%;\nb. di atas Rp 5 milyar s/d Rp 10 milyar paling rendah Rp 150 juta dan paling tinggi sebesar 2%;\nc. di atas Rp 10 milyar s/d Rp 20 milyar paling rendah Rp 200 juta dan paling tinggi sebesar\n1,50%;\nd. di atas Rp 20 milyar s/d Rp 50 milyar paling rendah Rp 300 juta dan paling tinggi sebesar\n0,80%;\ne. di atas Rp 50 milyar s/d Rp 150 milyar paling rendah Rp 400 milyar dan paling tinggi sebesar\n0,40%;\nf. di atas Rp 150 milyar paling rendah Rp 600 juta dan paling tinggi sebesar 0,15%.",
-                                    "explanation": "\nYang dimaksud dengan Pendapatan Asli Daerah adalah pendapatan yang berasal dari hasil Pajak Daerah, Retribusi Daerah, Perusahaan Milik Daerah dan pengelolaan kekayaan daerah yang dipisahkan serta lain-lain pendapatan asli daerah yang sah."
+                                    "explanation": "\nYang dimaksud dengan Pendapatan Asli Daerah adalah pendapatan yang berasal dari hasil Pajak\nDaerah, Retribusi Daerah, Perusahaan Milik Daerah dan pengelolaan kekayaan daerah yang\ndipisahkan serta lain-lain pendapatan asli daerah yang sah."
                                 }
                             ]
                         },
                         {
-                            "id": "ec7ad4f7-b8b7-4ffa-a9d5-cdb57b089979",
+                            "id": "331e66b1-465b-4d84-831c-2cf17ed373c7",
                             "name": "Article 10",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "6dbe793a-55db-4e13-b273-c58a2a7a1af2",
+                                    "id": "be9f6d9e-7a7a-4cbc-9a13-25db5d740ffa",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pengeluaran yang berhubungan dengan pelaksanaan Pasal 6, Pasal 7, dan Pasal 8, dibebankan\nkepada Anggaran Pendapatan dan Belanja Daerah.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "c0748e50-965d-4024-bdb3-fe4ea8ab2f65",
+                                    "id": "5adf7714-db15-4ac2-ae32-7419efa96bf5",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Peraturan Daerah yang mengatur penyediaan anggaran untuk kedudukan keuangan Kepala\nDaerah dan Wakil Kepala Daerah di luar yang ditetapkan dalam Peraturan Pemerintah ini dapat",
+                                    "content": " Peraturan Daerah yang mengatur penyediaan anggaran untuk kedudukan keuangan Kepala\nDaerah dan Wakil Kepala Daerah di luar yang ditetapkan dalam Peraturan Pemerintah ini dapat\n(3)\ndibatalkan.\nPembatalan sebagaimana dimaksud pada ayat (2), untuk Peraturan Daerah Propinsi dilakukan oleh Menteri Dalam Negeri dan Otonomi Daerah atas nama Presiden.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "7c2b1a28-7cf0-4bcf-8e07-7c57c7e521a6",
-                                    "name": "Verse 3",
-                                    "number": "(3)",
-                                    "type": "verse",
-                                    "content": "\ndibatalkan.\nPembatalan sebagaimana dimaksud pada ayat (2), untuk Peraturan Daerah Propinsi dilakukan\noleh Menteri Dalam Negeri dan Otonomi Daerah atas nama Presiden.",
-                                    "explanation": "\nCukup jelas"
-                                },
-                                {
-                                    "id": "6e387006-8426-48e4-9d52-b486e93d315d",
+                                    "id": "7d498a2f-9cb8-486d-90cd-b7c948b8139f",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
-                                    "content": "\nPembatalan sebagaimana dimaksud pada ayat (2), untuk Peraturan Daerah kabupaten/Kota\ndilakukan oleh Gubernur sebagai wakil pemerintah.",
+                                    "content": "\nPembatalan sebagaimana dimaksud pada ayat (2), untuk Peraturan Daerah kabupaten/Kota dilakukan oleh Gubernur sebagai wakil pemerintah.",
                                     "explanation": "\nCukup jelas"
                                 }
                             ]
@@ -227,34 +271,34 @@
             ]
         },
         {
-            "id": "0b0fe3f9-0bba-42cd-955a-5f23164dd018",
+            "id": "47915efe-ee20-40db-8c08-d754622a9afd",
             "name": "Chapter IV",
             "title": "\nKETENTUAN LAIN-LAIN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8ba16bda-ebf0-44c1-8c33-81018d6d1e0e",
+                    "id": "e2a732d1-f810-4623-aebe-086010dc9a3d",
                     "name": "Article 11",
                     "type": "article",
                     "children": {
-                        "id": "6c20cabe-8d78-445a-bbb3-6291f29644ee",
+                        "id": "1ec62cfd-fa1e-40d1-ad82-0365aa4deaee",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDengan berlakunya Peraturan Pemerintah ini, semua peraturan perundang-undangan yang\nbertentangan dengan Peraturan Pemerintah ini, dinyatakan tidak berlaku.",
+                        "content": "\nDengan berlakunya Peraturan Pemerintah ini, semua peraturan perundang-undangan yang bertentangan dengan Peraturan Pemerintah ini, dinyatakan tidak berlaku.",
                         "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "1433eaf8-80dc-4cd7-ac03-777baad24984",
+                    "id": "6049bac4-05b0-4384-b4b4-1e17446eab61",
                     "name": "Article 12",
                     "type": "article",
                     "children": {
-                        "id": "89422846-972d-4846-9185-f1ccd029a8b6",
+                        "id": "d19ff32d-9512-4f92-8b18-2941b06cb61c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini\ndengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "\nCukup jelas"
                     }
                 }
@@ -262,7 +306,7 @@
         }
     ],
     "metadata": {
-        "Umum": "\nSistem penyelenggaraan pemerintahan daerah sesuai Undang-undang Nomor 22 Tahun\n1999, dilaksanakan berdasarkan asas desentralisasi dalam bentuk otonomi yang luas, nyata, dan\nbertanggung jawan.\nDalam rangka penyelenggaraan otonomi yang luas, nyata, dan bertanggung jawab\ntersebut, Kepala Daerah dan Wakil Kepala Daerah mempunyai peranan yang sangat strategis di\nbidang penyelenggaraan pemerintahan, pembangunan dan pelayanan masyarakat dan\nbertanggung jawab sepenuhnya tentang jalannya pemerintahan daerah.\nOleh karena itu, dalam melaksanakan tugas dan fungsinya sebagai pejabat negara perlu\ndiberikan hak keuangan dalam bentuk gaji dan tunjangan yang dibiayai melalui Anggaran\nPendapatan dan Belanja Negara (APBN). Namun dalam melaksanakan kedudukannya sebagai\nKepala Daerah dan Wakil Kepala Daerah perlu didukung dengan biaya untuk menunjang kegiatan\noperasional Kepala Daerah dalam rangka koordinasi, penanggulangan kerawanan sosial,\nperlindungan masyarakat dan kegiatan-kegiatan lain yang berkaitan dengan pembinaan kesatuan\ndan persatuan bangsa, yang dibiayai melalui APBD.\nSesuai dengan kondisi dan keadaan jumlah penduduk, geografis, luas wilayah dan potensi\nekonomi daerah yang relatif berbeda antara daerah yang satu dengan daerah lainnya, maka\npengaturan biaya operasional disesuaikan dengan kondisi keuangan daerah, khususnya\nberdasarkan Pendapatan Asli Daerah dengan tetap memperhatikan prinsip efisiensi, efektivitas,\nkehematan dan dapat dipertanggungjawabkan.\nAtas dasar hal tersebut di atas, perlu diatur kedudukan keuangan Kepala Daerah dan\nWakil Kepala Daerah yang ditetapkan dengan Peraturan Pemerintah.",
+        "Umum": "\nSistem penyelanggaraan pemerintahan daerah sesuai Undang-undang Nomor 22 Tahun\n1999, dilaksanakan berdasarkan asas desentralisasi dalam bentuk otonomi yang luas, nyata, dan\nbertanggung jawan.\nDalam rangka penyelenggaraan otonomi yang luas, nyata, dan bertanggung jawab\ntersebut, Kepala Daerah dan Wakil Kepala Daerah mempunyai peranan yang sangat strategis di\nbidang penyelenggaraan pemerintahan, pembangunan dan pelayanan masyarakat dan\nbertanggung jawab sepenuhnya tentang jalannya pemerintahan daerah.\nOleh karena itu, dalam melaksanakan tugas dan fungsinya sebagai pejabat negara perlu\ndiberikan hak keuangan dalam bentuk gaji dan tunjangan yang dibiayai melalui Anggaran\nPendapatan dan Belanja Negara (APBN). Namun dalam melaksanakan kedudukannya sebagai\nKepala Daerah dan Wakil Kepala Daerah perlu didukung dengan biaya untuk menunjang kegiatan\noperasional Kepala Daerah dalam rangka koordinasi, penanggulangan kerawanan sosial,\nperlindungan masyarakat dan kegiatan-kegiatan lain yang berkaitan dengan pembinaan kesatuan\ndan persatuan bangsa, yang dibiayai melalui APBD.\nSesuai dengan kondisi dan keadaan jumlah penduduk, geografis, luas wilayah dan potensi\nekonomi daerah yang relatif berbeda antara daerah yang satu dengan daerah lainnya, maka\npengaturan biaya operasional disesuaikan dengan kondisi keuangan daerah, khususnya\nberdasarkan Pendapatan Asli Daerah dengan tetap memperhatikan prinsip efisiensi, efektivitas,\nkehematan dan dapat dipertanggungjawabkan.\nAtas dasar hal tersebut di atas, perlu diatur kedudukan keuangan Kepala Daerah dan\nWakil Kepala Daerah yang ditetapkan dengan Peraturan Pemerintah.",
         "Nomor": "109",
         "Tahun": "2000",
         "Tentang": "KEDUDUKAN KEUANGAN KEPALA DAERAH DAN WAKIL KEPALA DAERAH",

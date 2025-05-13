@@ -1,0 +1,503 @@
+{
+    "results": [
+        {
+            "id": "7c253978-729f-4228-aaa7-0a0dd5f1752f",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [],
+                    "id": "5c856002-60b9-4bc5-b630-26be885c9d4d",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "5ca34b02-63b1-4f0e-9d18-0863bd023827",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "ad6d6a97-ebe9-4470-b44c-8a0c936fcc8f",
+                    "name": "Article 27",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "69ab24c1-a05e-4321-a6d8-d10db11236f8",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "c918f75a-ce0b-4883-9eba-72d126d97012",
+                    "name": "Article 28",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "2ad60201-c9cd-4cb8-a25c-631c5222067c",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [],
+                    "id": "37621811-4e2f-487c-adc1-6911a5fbb09f",
+                    "name": "Article 34",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "fd0ce212-2a0c-4f7c-a00e-d23a4dbd5d72",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "eed22720-ffa8-4aaf-9d35-baf4090e21e4",
+                    "name": "Article 35",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "87164759-e690-4f04-a2ee-b16db656f6ca",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "f83934b3-c80b-4663-9992-58e5a560d02c",
+                    "name": "Article 36",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "c761cb7b-0287-44ae-9d30-bdc1f54a6206",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "5947589f-44af-4f8e-ab31-d0f8d0a1987b",
+                    "name": "Article 41",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "2ea6ca18-9f8d-47dc-abbf-8cac9700f936",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "251fed7d-8490-4b4f-af2e-6e58f19f8753",
+                    "name": "Article 43",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f4cb6314-6677-445b-a231-7313d27c2721",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "b9ac210e-a21b-4bce-904a-d32711eb377f",
+                    "name": "Article 46",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "dfa2a63e-1107-4ae0-ae67-30686ae6df83",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "688d3665-af9a-432a-ab93-cd196fd6921b",
+                    "name": "Article 47",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e4108587-8573-4a37-aed5-bfdf4496255c",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "960e08a9-f438-46e3-b03b-09e2ac7b49b3",
+                    "name": "Article 48",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "7c49c86c-10d7-4233-8e3b-c3baa1c66599",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "7f288acf-0d51-4cbb-910d-05905e8bb9d6",
+                    "name": "Article 50",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e7ed354e-0434-4735-93a3-6503e8dc49f3",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "c93e7e74-5c4d-4b0c-a865-cb91c9af65c6",
+                    "name": "Article 55",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "432c91f7-5052-49de-b9a1-39503773c111",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "47744b05-ae6c-4fe2-81e4-03f4348d97c2",
+                    "name": "Article 58",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "9e169525-b2ec-4715-8fd2-0d1655412811",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "f15ac0e8-6e28-4f40-9f2f-c5c7f7058513",
+                    "name": "Article 59",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a5da30b9-c870-4d70-917f-8c02da3d78e4",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "1d50d4fd-87f5-4040-a5e4-f2c516643397",
+                    "name": "Article 60",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "245f58b4-da32-44d0-8a54-0413329313b2",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "c8456145-1239-4f23-a894-2093ad04c1bc",
+                    "name": "Article 62",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e94b07a5-0a67-4883-97e3-6a97a7158bcc",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [],
+                    "id": "247e75af-2b62-45f5-9044-252ed28580ea",
+                    "name": "Article 63",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "fde7422c-a5f2-4f44-8d4d-386486b01515",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "e8ad5d63-c32a-4da7-8c8a-696b3416d462",
+                    "name": "Article 76",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "73a4818b-9cd8-429f-9d55-26aff58c27f5",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "5e2382cb-8a92-4352-a941-a701d1e86949",
+                    "name": "Article 79",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "2fdcfbdb-a94e-46ec-9404-c2146a92e719",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "6eddc1c3-6321-4295-9a38-8a60fb2d431a",
+                    "name": "Article 99",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "b2933ac3-0662-4dcb-8899-f51acb19ec5d",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE",
+                        "ADD"
+                    ],
+                    "id": "8acb241a-21a7-4a9f-a495-e35a164b4909",
+                    "name": "Article 101",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "15ecbc92-144c-433a-9c09-cc6d35bd5433",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "496fcf55-6a26-43bb-83e2-c40af926e5cc",
+                    "name": "Article 105",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ae5e3067-40a0-40fe-90f7-de8392c36707",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "a1471de4-a99d-44f3-8976-6bae0bb6b379",
+                    "name": "Article 109",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "dadbbad5-4b88-49e7-aa6c-5afc48afdfe2",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "1e4770e9-0af2-4e44-93c0-d26d8e2bfaea",
+                    "name": "Article 110",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "bdb80697-c124-468d-b4b3-957e8f8fcd14",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "fdd4a33d-707a-4422-9feb-2d55274eb9c0",
+                    "name": "Article 111",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "d380d5f1-ad73-4ed4-a654-e3604d366beb",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "3b59573c-411f-4cd4-9d3f-033679bbe0df",
+                    "name": "Article 122",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "726a0d5c-f1d1-4ddf-a2ee-58092cc29f3c",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "f6b33384-c684-4eb4-b45b-5caca8dd4b0f",
+                    "name": "Article 141",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "748d58a1-2ddb-4834-ab46-b96ecf14ed66",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "DELETE"
+                    ],
+                    "id": "de1f9b7b-702a-4913-8f0c-e9c036282fd2",
+                    "name": "Article 181",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "1a2a645c-5c45-48b0-bae4-36d1001d1788",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "861f8336-1af7-44dd-a25a-cfaad60564c3",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "483b3680-8d08-47fe-9fa7-1b327c6e2e97",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nPeraturan Pemerintah Nomor 35 Tahun 1985 sebagaimana telah diubah dengan\nPeraturan Pemerintah Nomor 43 Tahun 1985 dan Peraturan Pemerintah Nomor 37 Tahun\n1990, perlu diubah lagi dalam rangka meningkatkan kualitas penyelenggaraan Pemilihan\nUmum yang meliputi pemberian peran yang lebih efektif kepada organisasi peserta\nPemilihan Umum baik dalam kegiatan perencanaan,\npelaksanaan, maupun pengawasan dari tingkat pusat sampai tingkat daerah sesuai dengan\nperkembangan keadaan, peningkatan peranserta masyarakat dan teknis penyelenggaraan\nPemilihan Umum.\nPeningkatan peranserta anggota organisasi peserta Pemilihan Umum pada Badan\nPenyelenggara/Pelaksana Pemilihan Umum diwujudkan dalam pengawasan kegiatan\ntertentu, dan memperluas kesempatan untuk menetapkan anggota organisasi peserta\nPemilihan Umum menjadi saksi di tempat pemungutan suara.\nPeranserta masyarakat dalam kegiatan pendaftaran pemilih lebih ditingkatkan\ndengan cara memperluas dan mendekatkan pengumuman Daftar Pemilih Sementara\nkepada pemilih sehingga pemilih mengetahui akan hak dan kewajibannya sebagai WNRI.\nMateri perubahan yang dituangkan dalam Peraturan Pemerintah ini adalah sebagai\nberikut:\n\n1. Penambahan ketentuan angka iii pada Pasal 5 huruf e, dimaksudkan untuk\nmemberikan dasar hukum bagi pembentukan KPPS diluar negeri (KPPSLN) yang\nsama dengan dasar hukum bagi pembentukan KPPS di dalam negeri, yaitu\nPeraturan Pemerintah;\n2. Penambahan ketentuan Pasal 27a dimaksudkan untuk memberikan dasar hukum\nbagi pembentukan PANTARLIH di Desa Persiapan/Kelurahan Persiapan dan Unit\nPemukiman Transmigrasi dalam rangka untuk lebih memberikan kesempatan\nkepada sebanyak mungkin warga negara untuk menggunakan hak pilihnya dalam\nPemilihan Umum.\n3. Perubahan ketentuan Pasal 28 ayat (3), Pasal 41 ayat (1), ayat (3), Pasal 42 ayat\n(1), Pasal 46 ayat (3), Pasal 50, Pasal 109 ayat (4), Pasal 110 ayat (1), ayat (2), ayat\n(4), dan Pasal 122 ayat (2) dimaksudkan sebagai penyesuaian pengaturan\nberkaitan dengan ditetapkannya Desa Persiapan, Kelurahan Persiapan, UPT,\nsetingkat dengan Desa/Kelurahan.\n4. Penambahan ketentuan Pasal 43a dan perubahan ketentuan Pasal 35, dan Pasal 36\nayat (1), dan ayat (3) dimaksudkan sebagai pengaturan lebih lanjut berkaitan\ndengan perubahan Pasal 5 huruf c angka iii mengenai KPPSLN.\n5. Perubahan ketentuan Pasal 43 dimaksudkan untuk lebih memudahkan pelaksanaan\npengisian formulir Daftar Pemilih Sementara/Tetap/Tambahan (Model AA) oleh\npelaksana lapangan di tingkat bawah.\n6. Perubahan ketentuan Pasal 46 ayat (1) dimaksudkan untuk memberikan kepastian\nmengenai jumlah rangkap Daftar Pemilih Sementara yang dibuat oleh\nPANTARLIH.\n7. Perubahan ketentuan Pasal 47 dimaksudkan untuk lebih meningkatkan peranserta\nmasyarakat dalam kegiatan Pemilihan Umum khususnya yang berkaitan dengan\npendaftaran pemilih.\n8. Perubahan ketentuan Pasal 48 dimaksudkan untuk lebih meningkatkan peranserta\norganisasi peserta Pemilihan Umum melalui anggotanya yang duduk dalam\nPPS/PANWASLAKCAM dalam kegiatan perbaikan daftar pemilih dan\npengesahan daftar pemilih sementara menjadi daftar pemilih tetap.\n\n9. Perubahan ketentuan Pasal 55 ayat (2), ayat (3), dan ayat (4) dimaksudkan untuk memindahkan nama pemilih yang telah terdaftar sebagai pemilih di rumah sakit, lembaga pemasyarakatan dan rumah tahanan ke tempat tinggalnya dalam rangka pemeliharaan Daftar Pemilih Tetap/Daftar Pemilih Tambahan dengan cara pemberian Surat Keterangan sesuai administrasi Pemerintahan.\n10. Penggantian ketentuan Pasal 58 dan Pasal 59 dimaksudkan untuk lebih meningkatkan peran serta organisasi peserta Pemilihan Umum melalui anggotanya yang duduk dalam PPS/PANWASLAKCAM, PPD II/PANWASLAK II dan PPD I/PANWASLAK I dalam kegiatan penetapan jumlah pemilih dan jumlah penduduk WNRI yang terdaftar.\n11. Penggantian ketentuan Pasal 60 ayat (1) dan Pasal 62 dimaksudkan untuk lebih mempermudah dan menyederhanakan pemeliharaan Daftar Pemilih Tetap/Daftar Pemilih Tambahan (Model AA) sehubungan dengan kepindahan tempat tinggal atau meninggalnya seorang pemilih yang telah terdaftar. Bagi pemilih yang dipindah tempat tinggal dalam jangka waktu 14 hari sebelum hari dan tanggal pemungutan suara tidak diberikan Kutipan Daftar Pemilih Tetap/Daftar Pemilih Tambahan (Model AB), tetapi diberikan surat keterangan kepindahan yang tidak dapat digunakan untuk memberikan suara di TPS.\n12. Penggantian ketentuan Pasal 62a dimaksudkan untuk memberikan kesempatan kepada sebanyak mungkin pemilih yang mengikuti program transmigrasi atau terkena bencana alam atau terkena hal lain yang menyebabkan yang bersangkutan pindah tempat tinggal, dapat menggunakan hak pilihnya di tempat tinggal yang baru, dengan menugaskan kepada Badan Penyelenggaran/Pelaksana Pemilihan Umum berkerjasama dengan instansi terkait.\n13. Penambahan ketentuan Pasal 63a dimaksudkan untuk memberikan kewenangan kepada Menteri Dalam Negeri/Ketua LPU mengatur lebih lanjut mengenai tata cara pendaftaran pemilih/jumlah penduduk WNRI.\n14. Penambahan ketentuan ayat (2a) pada Pasal 76 dimaksudkan untuk meningkatkan peranan PPI/PPD I/PPD II yang keanggotaannya termasuk unsur organisasi peserta Pemilihan Umum dalam mengambil keputusan hasil penelitian calon Anggota DPR/DPRD I/DPRD II yang dilakukan oleh Panitia Peneliti Pusat/Panitia Peneliti Daerah Tingkat I/Panitia Peneliti Daerah Tingkat II.\n15. Penggantian ketentuan Pasal 79 ayat (1) dimaksudkan untuk meningkatkan peran serta organisasi peserta Pemilihan Umum dalam pengambilan keputusan atas isi tanggapan/keberatan masyarakat terhadap calon.\n\n16. Penggantian ketentuan Pasal 99 ayat (2a) dimaksudkan untuk lebih memberikan kesempatan yang lebih luas kepada organisasi peserta Pemilihan Umum dalam menunjuk anggota-anggotanya untuk menjadi saksi di TPS.\n17. Penggantian Pasal 101 ayat (3) dimaksudkan untuk lebih menyederhanakan nama TPS sehingga mudah dipahami.\n18. Penggantian ketentuan Pasal 105 ayat (1) dan ayat (2) dimaksudkan agar penggunaan Daftar Calon Tetap Pemilihan Umum Anggota DPR/DPRD I/DPRD II di TPS disesuaikan dengan keperluan.\n19. Penambahan ketentuan ayat (2a) dan perubahan ayat (3) pada Pasal 111 dimaksudkan untuk meningkatkan peranserta secara aktif anggota organisasi peserta Pemilihan Umum yang bertugas melakukan pengawasan penyampaian Surat Pemberitahuan/Panggilan Untuk Memberikan Suara (Model C) kepada pemilih.\n20. Penggantian Ketentuan Pasal 141 ayat (1) dimaksudkan untuk meningkatkan peranserta organisasi peserta Pemilihan Umum melalui PANWASLAKCAM dalam rangka penyampaian hasil pemungutan suara dan penghitungan suara di TPS dari KPPS ke PPS.\n21. Penghapusan Pasal 181 dimaksudkan untuk menyamakan pelaksanaan Pemilihan Umum di Propinsi Daerah Tingkat I Timor Timur dengan daerah lainnya.\nKemudian apabila ada ketentuan atau perkataan/kata dalam Peraturan Pemerintah ini yang dinyatakan diubah, ditambah, diganti, atau dihapus, ketentuan atau perkataan/kata tersebut dalam penjelasannya juga diubah, ditambah, diganti, atau dihapus.",
+        "Nomor": "10",
+        "Tahun": "1995",
+        "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 35 TAHUN 1985\nTENTANG PELAKSANAAN UNDANG-UNDANG PEMILIHAN UMUM\nSEBAGAIMANA TELAH DIUBAH DENGAN PERATURAN PEMERINTAH\nNOMOR 43 TAHUN 1985 DAN PERATURAN PEMERINTAH NOMOR 37\nTAHUN 1990",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk lebih meningkatkan kualitas penyelenggaraan Pemilihan\nUmum sesuai dengan perkembangan keadaan, dipandang perlu\nmengadakan perubahan atas Peraturan Pemerintah Nomor 35 Tahun 1985\ntentang Pelaksanaan Undang-undang Nomor 15 tahun 1969 tentang\nPemilihan Umum Anggota-anggota Badan Permusyawaratan/Perwakilan\nRakyat sebagaimana telah diubah dengan Peraturan Pemerintah Nomor\n43 Tahun 1985 dan Peraturan Pemerintah Nomor 37 Tahun 1990;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 15 Tahun 1969 tentang Pemilihan Umum\nAnggota-anggota Badan Permusyawaratan/Perwakilan Rakyat\n(Lembaran Negara Tahun 1969 Nomor 58, Tambahan Lembaran\nNegara Nomor 2914) sebagaimana telah tiga kali diubah terakhir\ndengan Undang-undang Nomor 1 Tahun 1985 (Lembaran Negara\nTahun 1985 Nomor 1, Tambahan Lembaran Negara Nomor 3281);",
+            "3": "  Undang-undang Nomor 16 Tahun 1969 tentang Susunan dan\nKedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan\nRakyat, dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara\nTahun 1969 Nomor 59, Tambahan Lembaran Negara Nomor 2915)\nsebagaimana telah diubah dengan Undang-undang Nomor 5 Tahun\n1975 (Lembaran Negara Tahun 1975 Nomor 39, Tambahan Lembaran\nNegara Nomor 2 Tahun 1985 (Lembaran Negara Tahun 1985 Nomor\n2, Tambahan Lembaran Negara Nomor 3282);",
+            "4": "  Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok\nPemerintahan Di Daerah (Lembaran Negara Tahun 1974 Nomor 38,\nTambahan Lembaran Negara Nomor 3037);",
+            "5": "  Undang-undang Nomor 3 Tahun 1975 tentang Partai Politik dan\nGolongan Karya (Lembaran Negara Tahun 1975 Nomor 32,\nTambahan Lembaran Negara Nomor 3062) sebagaimana telah diubah\ndengan Undang-undang Nomor 3 Tahun 1985 (Lembaran Negara\nTahun 1985 Nomor 12, Tambahan Lembaran Negara Nomor 3285);",
+            "6": " Undang-undang Nomor 5 Tahun 1979 tentang Pemerintahan Desa\n(Lembaran Negara Tahun 1979 Nomor 56, Tambahan Lembaran\nNegara Nomor 3153);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG\nPERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 35\nTAHUN 1985 TENTANG PELAKSANAAN UNDANG-UNDANG\nPEMILIHAN UMUM SEBAGAIMANA TELAH DIUBAH DENGAN\nPERATURAN PEMERINTAH NOMOR 43 TAHUN 1985 DAN\nPERATURAN PEMERINTAH NOMOR 37 TAHUN 1990.",
+        "tanggal sah": "27 April 1995"
+    }
+}

@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "a392a3c9-0301-4e61-941c-eafcfe4a84b7",
+            "id": "789e97fb-f0c1-4cf4-8516-335b90bfaf69",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "07375f1b-2e48-4256-b44c-aae001fd6770",
+                "id": "716add23-4a6e-4579-90c0-e3e22df1f6d7",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "34de2b04-4905-434a-8edf-7f0342037e01",
+            "id": "11ebe580-9842-444c-87c9-405edf3ba2d2",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "807f75dc-b93e-457a-b3a5-7b3f14c461da",
+                "id": "3b2b4507-b476-4f50-8fe0-928e6353c365",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "1a86f173-872a-4e09-9b24-32f446792990",
+            "id": "f9172aa9-2735-44cc-8dc7-a9ef2c40b2f2",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "c0ef1a91-de4e-4b2b-a736-af10cead9be6",
+                "id": "b0c1e39a-a8d4-4256-bc22-4af411be3378",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,28 +40,28 @@
             }
         },
         {
-            "id": "da7cf226-558a-45b7-a08e-9eb2c466828b",
+            "id": "a611b0a7-0517-4d5d-8028-cf8ce7d57d6e",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "5b3b278b-5718-4164-9aba-05a458150112",
+                "id": "8a1043fd-5797-400e-8897-eb8d03d20ecc",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Penambahan penyertaan modal negara sebagaimana\ndimaksud dalam Pasal 2 ayat (2) mengakibatkan hak yang\nmelekat pada kepemilikan saham negara atas sebagian\nsaham Seri B Perusahaan Perseroan (Persero) PT Bank\nRakyat Indonesia Tbk dan Perusahaan Perseroan (Persero)\nPT Bank Mandiri Tbk beralih kepada Lembaga Pengelola\nInvestasi.",
+                "content": "Penambahan penyertaan modal negara sebagaimana\ndimaksud dalam Pasal 2 ayat (2) mengakibatkan hak yang\nmelekat pada kepemilikan saham negara atas sebagian\nsaham Seri B Perusahaan Perseroan (Persero) PT Bank\nRakyat Indonesia Tbk dan Perusahaan Perseroan (Persero)\nPT Bank Mandiri Tbk beralih kepada Lembaga Pengelola\nInvestasi.\n2021, No.248",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "6069314a-50e2-487f-a3ab-91d4150a091e",
+            "id": "787f3e42-8121-48d8-ab22-bc71a6456a64",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "b46edf47-e6a8-4658-9a5c-ebaccebcbdd6",
+                "id": "a749f933-aafb-4dd4-8753-720dd3bc093f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

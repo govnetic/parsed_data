@@ -1,54 +1,54 @@
 {
     "results": [
         {
-            "id": "9163e575-574f-40c6-9dee-70056976ab6c",
+            "id": "d89cad72-f120-4545-bff5-9cd352ac5a0b",
             "name": "Chapter I",
             "title": "\nPENGALIHAN BENTUK DAN PEMBUBARAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "3df19b01-ba60-4eb1-8515-0958843bd016",
+                    "id": "a7b0ad9a-ab56-42e4-ac41-b2297909720a",
                     "name": "Article 1",
                     "type": "article",
                     "children": [
                         {
-                            "id": "19eace6f-2d76-447d-a2b4-b93ec3cab29a",
+                            "id": "e00fb07e-2acd-4f2d-9b5d-376e11ca6a31",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Perusahaan Negara Biro Klasifikasi Indonesia yang didirikan dengan\nPeraturan Pemerintah Nomor 28 Tahun 1964 dialihkan bentuknya\nmenjadi Perusahaan Perseroan (PERSERO) sebagaimana yang\ndimaksudkan dalam Pasal 2 ayat (3) Undang-undang Nomor 9 Tahun\n1969.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f5b5c11d-bcf7-4756-ad84-ec7153937dad",
+                            "id": "becba514-da29-4e5f-8051-f403700b28eb",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dengan dialihkannya bentuk Perusahaan Negara Biro Klasifikasi\nIndonesia menjadi Perusahaan Perseroan (PERSERO) sebagaimana\nyang dimaksud dalam ayat (1), Perusahaan Negara Biro Klasifikasi\nIndonesia dinyatakan bubar pada saat pendirian Perusahaan\nPerseroan (PERSERO) tersebut, dengan ketentuan bahwa segala hak\ndan kewajiban, kekayaan serta perlengkapan dari Perusahaan Negara\nBiro Klasifikasi Indonesia yang ada pada saat pembubarannya,\nberalih kepada Perusahaan Perseroan (PERSERO) yang\nbersangkutan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d1b7c2b6-1084-4f6b-a3be-ee02057a0d85",
+                            "id": "9de0c62d-356c-4690-b8f3-9b558f7a73e9",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " dilakukan oleh Menteri Perhubungan berdasarkan atas hasil\npemeriksaan Direktorat Jenderal Pengawasan Keuangan Negara,\nDepartemen Keuangan cq. Direktorat Akuntan Negara.",
+                            "content": " Sebagai likwidatur dalam pelaksanaan pembubaran Perusahaan\nNegara Biro Klafisikasi Indonesia sebagaimana dimaksudkan dalam\nayat (2) ditunjuk suatu team/panitia yang susunan keanggotaannya\nterdiri dari 2 (dua) orang wakil dari Departemen Perhubungan\nseorang selaku Ketua dan seorang selaku Anggota; seorang wakil\ndari Departemen Keuangan selaku Wakil Ketua; dan seorang wakil\ndari Perusahaan Negara Biro Klasifikasi Indonesia selaku Sekretaris.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "55062821-5a99-4195-8a16-a3c71ab8ab45",
+                            "id": "bfcc31a3-f2a1-4342-9002-932884a4028b",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Pelaksanaan pembentukan, perincian tugas, masa kerja, pembiayaan\ndan hal-hal lainnya yang bersangkutan dengan pelaksanaan tugas\nteam/ panitia likwidasi tersebut pada ayat (3) diatur lebih lanjut oleh\nMenteri Perhubungan.",
+                            "content": " Pelaksanaan\n(4) Pelaksanaan pembentukan, perincian tugas, masa kerja, pembiayaan\ndan hal-hal lainnya yang bersangkutan dengan pelaksanaan tugas\nteam/ panitia likwidasi tersebut pada ayat (3) diatur lebih lanjut oleh\nMenteri Perhubungan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7b20001d-329f-4f2d-8c6b-16a7fbd2e8ef",
+                            "id": "db3aa939-9db1-42be-a4b3-a885d4cdb65d",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
-                            "content": " Pengesahan atas pertanggung jawaban likwidatur tersebut pada ayat",
+                            "content": " Pengesahan atas pertanggung jawaban likwidatur tersebut pada ayat\n(3) dilakukan oleh Menteri Perhubungan berdasarkan atas hasil\npemeriksaan Direktorat Jenderal Pengawasan Keuangan Negara,\nDepartemen Keuangan cq. Direktorat Akuntan Negara.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -56,38 +56,30 @@
             ]
         },
         {
-            "id": "6b37e64e-a8fd-4b05-b0f6-a719a085070b",
+            "id": "60a18327-d6e3-46ae-b3e5-0e8d62f01cb7",
             "name": "Chapter II",
             "title": "\nMODAL PERUSAHAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "14ccecee-9e0e-4442-b761-2f35bc5f9e01",
+                    "id": "ff1bcb6d-e1a7-4fe7-b56b-b8a5bc4e193b",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "2b978dd6-d81e-4297-940d-e6fd74f84d72",
+                            "id": "560f3ead-b41a-4a6c-a4cc-733bb61459ee",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Modal dari Perusahaan Perseroan (PERSERO) tersebut pada Pasal 1\nayat (1) berasal dari kekayaan Negara yang tertanam sebagai modal\ndalam Perusahaan Negara Biro Klasifikasi Indonesia sampai saat\npembubarannya, yang jumlahnya ditetapkan oleh Menteri Keuangan\nberdasarkan hasil perhitungan yang dilakukan bersama oleh\nDepartemen Keuangan dan Departemen Perhubungan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "88d7b1ae-a6f8-42b8-85d2-ffb52d11d074",
+                            "id": "997bdcf9-4455-47f7-a08f-79a8687cffac",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Modal Perusahaan Perseroan (PERSERO) sebagaimana yang\ndimaksudkan dalam ayat (1) terbagi atas saham-saham sesuai dengan\nketentuan Pasal I Peraturan Pemerintah Nomor 24 Tahun 1972\ndengan ketentuan bahwa pada saat pendirian Perusahaan Perseroan\n(PERSERO) tersebut seluruh sahamnya dimiliki oleh Negara\nRepublik Indonesia.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "8bbfacc1-47a5-408f-b218-7505b7f048de",
-                            "name": "Verse 3",
-                            "number": "(3)",
-                            "type": "verse",
-                            "content": " Neraca pembukaan Perusahaan Perseroan (PERSERO) ditetapkan\noleh Menteri Keuangan.",
+                            "content": " Modal Perusahaan Perseroan (PERSERO) sebagaimana yang\ndimaksudkan dalam ayat (1) terbagi atas saham-saham sesuai dengan\nketentuan Pasal I Peraturan Pemerintah Nomor 24 Tahun 1972\ndengan ketentuan bahwa pada saat pendirian Perusahaan Perseroan\n(PERSERO) tersebut seluruh sahamnya dimiliki oleh Negara\nRepublik Indonesia.\n",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -95,51 +87,43 @@
             ]
         },
         {
-            "id": "de52b4df-8fcc-4d93-a45d-f5a43fd0cdc4",
+            "id": "6f4aedbb-bb8a-4043-9840-d9b4773e4b6f",
             "name": "Chapter III",
             "title": "\nPELAKSANAAN PENDIRIAN PERUSAHAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "34ae93d3-9360-40ee-8417-8858e34eadb3",
+                    "id": "d63afda3-f6f0-464f-ade0-f5776bd5ee17",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "94007c78-0b7b-4248-a661-82b7833129ef",
+                        "id": "51e63ecb-50e1-4115-ba6f-c54457836233",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPelaksanaan pendirian Perusahaan Perseroan (PERSERO) tersebut pada\nPasal 1 ayat (1) dilakukan menurut ketentuan-ketentuan Kitab Undang-\nundang Hukum Dagang Stbl. 1847 : 23 sebagaimana yang telah\nbeberapa kali diubah dan ditambah, terakhir dengan Undang-undang\nNomor 4 Tahun 1971; dengan memperhatikan ketentuan-ketentuan yang\ntermaktub dalam Peraturan Pemerintah Nomor 12 Tahun 1969 jo.\nPeraturan Pemerintah Nomor 24 Tahun 1972.",
+                        "content": "\nPelaksanaan pendirian Perusahaan Perseroan (PERSERO) tersebut pada Pasal 1 ayat (1) dilakukan menurut ketentuan-ketentuan Kitab Undang-undang Hukum Dagang Stbl. 1847 : 23 sebagaimana yang telah beberapa kali diubah dan ditambah, terakhir dengan Undang-undang Nomor 4 Tahun 1971; dengan memperhatikan ketentuan-ketentuan yang termaktub dalam Peraturan Pemerintah Nomor 12 Tahun 1969 jo. Peraturan Pemerintah Nomor 24 Tahun 1972.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "b358fde6-67bd-4e71-ad02-7e05d669eeac",
+                    "id": "fc08eaa8-ddef-4373-8e2e-95b259d1f852",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "abaca87f-ed56-4def-b479-bf01dffd19a4",
+                            "id": "109070dd-5f2e-4eb6-ba2d-7c148e278d22",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": ", dengan disertai hak substitusi, kepada Menteri Perhubungan,\ndengan ketentuan bahwa Rancangan Anggaran Dasar Perusahaan\nPerseroan (PERSERO) tersebut harus mendapat persetujuan terlebih\ndahulu dari Menteri Keuangan.\n",
+                            "content": " Penyelesaian pendirian Perusahaan Perseroan (PERSERO) sebagaimana yang dimaksudkan dalam Pasal 3 dikuasakan kepada Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "aeac0453-cf00-4ddc-b8c1-d7d7b83cce85",
+                            "id": "62d5d7b4-8f86-4325-b031-500497656883",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Menteri Keuangan dapat menyerahkan kekuasaan tersebut pada ayat",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "bd90c848-34de-45a0-a236-59729271f803",
-                            "name": "Verse 3",
-                            "number": "(3)",
-                            "type": "verse",
-                            "content": " Kepada Menteri Perhubungan diberikan kekuasaan untuk menunjuk\nseseorang untuk ikut serta mendirikan Perusahaan Perseroan\n(PERSERO) tersebut, sesuai dengan ketentuan yang termaktub\ndalam Pasal 6 Peraturan Pemerintah Nomor 12 Tahun 1969.",
+                            "content": " Menteri Keuangan dapat menyerahkan kekuasaan tersebut pada ayat (1), dengan disertai hak substitusi, kepada Menteri Perhubungan, dengan ketentuan bahwa Rancangan Anggaran Dasar Perusahaan Perseroan (PERSERO) tersebut harus mendapat persetujuan terlebih dahulu dari Menteri Keuangan.\n\n(3) Kepada Menteri Perhubungan diberikan kekuasaan untuk menunjuk\nseseorang untuk ikut serta mendirikan Perusahaan Perseroan\n(PERSERO) tersebut, sesuai dengan ketentuan yang termaktub\ndalam Pasal 6 Peraturan Pemerintah Nomor 12 Tahun 1969.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -147,17 +131,17 @@
             ]
         },
         {
-            "id": "ee234476-9288-4a02-9b92-d7e0015d68d6",
+            "id": "bb7805bc-8ed4-4318-86e2-ac9d52df5821",
             "name": "Chapter IV",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "d54088fb-7f8b-4fda-b50f-e510e28ff82b",
+                    "id": "1a29b99c-cab0-400f-a74f-c54320506116",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "48cc16d5-816a-4aac-a722-1e8073593a8e",
+                        "id": "7c2992c0-7c40-470d-a34f-69e46bbdb0fd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -166,11 +150,11 @@
                     }
                 },
                 {
-                    "id": "e057e650-fccf-40f3-9c17-38aa8a166fbc",
+                    "id": "f6997d72-7e4e-48e7-9a67-080a6b712ecd",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "64437a74-5fbb-41c5-8be9-9e141c5b9b45",
+                        "id": "9dcc4135-aae4-40ff-b2fd-70b586d60ea5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -179,15 +163,15 @@
                     }
                 },
                 {
-                    "id": "007f2718-7448-40b3-a256-195000a286e2",
+                    "id": "ab7207ab-3aee-4d9b-a73b-e681d1337635",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "5e15efd1-1098-421d-b67a-13aff01944d6",
+                        "id": "f07e51c5-a410-4c42-bade-507104220e47",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya dalam\nLembaran Negara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
@@ -204,7 +188,7 @@
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Kitab Undang-undang Hukum Dagang Stbl. 1847  23 sebagaimana\nyang telah beberapa kali diubah dan ditambah; terakhir dengan\nUndang-undang Nomor 4 Tahun 1971 tentang Perubahan dan\nPenambahan Atas Ketentuan Pasal 54 Kitab Undang-undang Hukum\nDagang Stbl. 1847  23 (Lembaran Negara Tahun 1971 Nomor 20;\nTambahan Lembaran Negara Nomor 2959);",
+            "2": " Kitab Undang-undang Hukum Dagang Stbl. 1847 23 sebagaimana\nyang telah beberapa kali diubah dan ditambah; terakhir dengan\nUndang-undang Nomor 4 Tahun 1971 tentang Perubahan dan\nPenambahan Atas Ketentuan Pasal 54 Kitab Undang-undang Hukum\nDagang Stbl. 1847  23 (Lembaran Negara Tahun 1971 Nomor 20;\nTambahan Lembaran Negara Nomor 2959);",
             "3": " Undang-undang Nomor 19 Prp. Tahun 1960 tentang Perusahaan\nNegara (Lembaran Negara Tahun 1960 Nomor 59; Tambahan\nLembaran Negara Nomor 1989);",
             "4": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969\ntentang Bentuk-bentuk Usaha Negara (Lembaran Negara Tahun\n1969 Nomor 16; Tambahan Lembaran Negara Nomor 2890) menjadi\nUndang-undang (lembaran Negara Tahun 1969 Nomor 40;\nTambahan Lembaran Negara Nomor 2904);",
             "5": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21;\nTambahan Lembaran Negara Nomor 2894) jo. Peraturan Pemerintah\nNomor 24 Tahun 1972 tentang Perubahan Atas Ketentuan Pasal 7\nPeraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan(PERSERO) (Lembaran Negara Tahun 1969 Nomor 21;\nTambahan Lembaran Negara Nomor 2894) (Lembaran Negara\nTahun 1972 Nomor 32; Tambahan Lembaran Negara Nomor 2987);",

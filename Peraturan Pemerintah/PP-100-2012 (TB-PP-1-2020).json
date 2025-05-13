@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "id": "048c680f-5b6e-49d1-91b0-73ea88145655",
+            "id": "c98bcf18-fb58-4919-8825-c059a3e7eddd",
             "name": "Article I",
             "type": "article",
             "children": [
@@ -9,12 +9,12 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "2414a65a-b870-48e2-86d9-5a4cb05412f7",
+                    "id": "e584c736-5cbe-4575-81e7-5ed1dd664353",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "93379357-41df-48f5-87b2-463c05a6a4d3",
+                            "id": "1ea0be9e-789b-4efc-952d-9e8af71a66fc",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\n"
@@ -25,12 +25,12 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "619b416a-367c-45b3-8e8d-57904708834e",
+                    "id": "e34e33ba-d5bf-4775-ae76-bc973d534e31",
                     "name": "Article 31",
                     "type": "article",
                     "children": [
                         {
-                            "id": "a6d8223a-af6e-4dbb-a9e1-a1b694cea24d",
+                            "id": "aee16e49-f998-43ba-bd3f-c5efcf5e8e02",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\nPembangunan KEK dibiayai dari:\na. Badan Usaha;\nb. kerjasama pemerintah, pemerintah provinsi dan/atau\npemerintah kabupaten/kota dengan Badan Usaha;\nc. Anggaran Pendapatan dan Belanja Negara dan/atau\nAnggaran Pendapatan dan Belanja Daerah; dan/atau\nd. sumber lain yang sah sesuai dengan ketentuan\nperaturan perundang-undangan."
@@ -41,30 +41,23 @@
                     "change_type": [
                         "INSERT"
                     ],
-                    "id": "6573d8e6-6456-4f72-b0b8-9eefbf6af511",
+                    "id": "03781d19-f621-4f34-9017-575757b1804b",
                     "name": "Article 33A",
                     "type": "article",
                     "children": [
                         {
-                            "id": "cb49f4b6-638b-43d1-9519-48a5f825a3ab",
+                            "id": "2c32c34c-a402-493a-9673-0bc41a40f58e",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 1",
                             "type": "verse",
-                            "content": ", Badan Usaha pengusul sekaligus ditetapkan\nsebagai Badan Usaha pengelola KEK."
+                            "content": " Dalam hal KEK yang ditetapkan merupakan usulan\nBadan Usaha, Badan Usaha pengusul ditetapkan\nsebagai Badan Usaha untuk membangun KEK oleh:\na. pemerintah provinsi dalam hal lokasi KEK berada\npada lintas wilayah kabupaten/kota; atau\nb. pemerintah kabupaten/kota dalam hal lokasi KEK\nberada dalam satu wilayah kabupaten/kota,\ndalam jangka waktu paling lama 90 (sembilan puluh)\nhari sejak diundangkannya Peraturan Pemerintah\ntentang KEK dimaksud."
                         },
                         {
-                            "id": "e43d1751-2e40-4f39-a1db-d7a32de1ad33",
+                            "id": "7df8c6d0-6bef-4a4e-baf0-632bf52bb760",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 2",
                             "type": "verse",
-                            "content": " Dalam penetapan sebagai Badan Usaha untuk\nmembangun KEK sebagaimana dimaksud pada ayat"
-                        },
-                        {
-                            "id": "d25e064c-c926-497a-88ca-737ab949f1da",
-                            "explanation": "Tidak ada Penjelasan",
-                            "name": "Verse 3",
-                            "type": "verse",
-                            "content": " Badan Usaha sebagaimana dimaksud pada ayat (2)\nbertanggung jawab atas pembiayaan pembangunan\ndan pengelolaan KEK."
+                            "content": " Dalam penetapan sebagai Badan Usaha untuk\nmembangun KEK sebagaimana dimaksud pada ayat\n(1), Badan Usaha pengusul sekaligus ditetapkan\nsebagai Badan Usaha pengelola KEK.\n\n(3) Badan Usaha sebagaimana dimaksud pada ayat (2)\nbertanggung jawab atas pembiayaan pembangunan\ndan pengelolaan KEK."
                         }
                     ]
                 },
@@ -72,19 +65,19 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "a5d4aff2-35a7-4eb6-86d7-fd9cad1f6c1f",
+                    "id": "b14cefe5-e822-4a17-8b90-dda2c4b6814f",
                     "name": "Article 34",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6dc58269-5ea2-498c-b6fb-f83fb44d4f4e",
+                            "id": "a7e5bb74-5627-442d-8c0c-9f48ae446725",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": " Dalam hal KEK yang ditetapkan merupakan usulan\npemerintah kabupaten/kota, penetapan Badan Usaha\nuntuk membangun KEK dilakukan oleh pemerintah\nkabupaten/kota secara terbuka dan transparan\nberdasarkan:\na. ketentuan peraturan perundang-undangan di\nbidang pengadaan barang/jasa pemerintah dalam\nhal pembangunan KEK dibiayai dari Anggaran\nPendapatan dan Belanja Daerah kabupaten/kota;\natau\nb. ketentuan sebagaimana tercantum dalam\nlampiran Peraturan Pemerintah ini dalam hal\npembangunan KEK dibiayai dari kerjasama\npemerintah kabupaten/kota dengan Badan\nUsaha."
                         },
                         {
-                            "id": "86c6c935-fd29-45dd-bae2-73f8d8681a57",
+                            "id": "74c105c3-77d8-48f4-9e5a-da40e18541bc",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 2",
                             "type": "verse",
@@ -96,19 +89,19 @@
                     "change_type": [
                         "INSERT"
                     ],
-                    "id": "d6f0c03e-befb-4559-8a7d-bab37cd3e165",
+                    "id": "af40a101-54f3-47bc-9f7a-630d816f2c8f",
                     "name": "Article 34A",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d5455784-4081-4f9e-a9c6-9456b108eee6",
+                            "id": "1041fd3e-191a-42d5-a769-1fc2e31a1784",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": " Dalam hal KEK yang ditetapkan merupakan usulan\npemerintah provinsi, penetapan Badan Usaha untuk\nmembangun KEK dilakukan oleh pemerintah provinsi\nsecara terbuka dan transparan berdasarkan:\na. ketentuan peraturan perundang-undangan di\nbidang pengadaan barang/jasa pemerintah dalam\nhal pembangunan KEK dibiayai dari Anggaran\nPendapatan dan Belanja Daerah provinsi; atau\n\nb. ketentuan sebagaimana tercantum dalam\nlampiran Peraturan Pemerintah ini dalam hal\npembangunan KEK dibiayai dari kerjasama\npemerintah provinsi dengan Badan Usaha."
                         },
                         {
-                            "id": "5dae959d-eee7-4cbc-83e0-9bd7e9939812",
+                            "id": "92940b4d-5682-42c9-b1b6-8dac40fb5049",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 2",
                             "type": "verse",
@@ -120,19 +113,19 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "1578ead2-872b-4193-873a-9b16daa34e95",
+                    "id": "8e63b796-4d2f-4cfc-bbb7-a5e5c77f4015",
                     "name": "Article 35",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9db88369-16f8-4e34-b6b2-2559f948fc45",
+                            "id": "78f68c36-e410-4dab-99fe-4396ec21a263",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": " Badan Usaha sebagaimana dimaksud dalam Pasal\n33A melaksanakan pembangunan KEK dan\npengelolaan KEK berdasarkan perjanjian dengan\npemerintah provinsi atau pemerintah\nkabupaten/kota."
                         },
                         {
-                            "id": "19da0f68-3644-4ab1-a2c0-4de465c9bdfb",
+                            "id": "2736155b-22fd-4d78-9d6b-b04557616800",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 2",
                             "type": "verse",
@@ -144,55 +137,55 @@
                     "change_type": [
                         "INSERT"
                     ],
-                    "id": "112249a8-c0fe-4872-9221-1e8da36c7f19",
+                    "id": "54fc91f9-612f-4caf-bf4a-4fecc36e7327",
                     "name": "Article 35A",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1dd21254-e9a0-42c6-8ac7-1ba1ea2e3e14",
+                            "id": "d2ed3f63-2aa0-4774-9c57-894abc6b2812",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": " Badan Usaha sebagaimana dimaksud dalam Pasal 34\nayat (1) huruf a melaksanakan pembangunan KEK\nberdasarkan perjanjian pengadaan barang/jasa\npemerintah."
                         },
                         {
-                            "id": "67f69ffc-89ee-4a89-9f78-233fe8c9f514",
+                            "id": "2e8ab6dc-66e4-4613-8b23-21bd632e58b7",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 2",
                             "type": "verse",
-                            "content": " Badan Usaha sebagaimana dimaksud dalam Pasal\n34B ayat (2) melaksanakan pembangunan KEK dan\npengelolaan KEK berdasarkan perjanjian dengan\nkementerian/lembaga pemerintah non kementerian.\n8. Ketentuan . . ."
+                            "content": " Badan Usaha sebagaimana dimaksud dalam Pasal\n34B ayat (2) melaksanakan pembangunan KEK dan\npengelolaan KEK berdasarkan perjanjian dengan\nkementerian/lembaga pemerintah non kementerian.\n"
                         }
                     ]
                 },
                 {
                     "change_type": [],
-                    "id": "ba37684c-a0e1-4454-a8d4-611e2cf1ae27",
+                    "id": "c171f7cd-a1aa-4a09-8794-6a8ed9330f78",
                     "name": "Article 47",
                     "type": "article",
                     "children": [
                         {
-                            "id": "4b671250-6f3f-4074-8d5c-46055de688d4",
+                            "id": "b6f1763c-bd57-4b09-8b7a-bab871209cae",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": " Badan Usaha pengelola KEK bertugas\nmenyelenggarakan kegiatan usaha KEK."
                         },
                         {
-                            "id": "e8d3b268-c45b-41f6-abf5-7ee346e527cb",
+                            "id": "3acd6921-71d0-493f-a1de-8ff337675fee",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 2",
                             "type": "verse",
                             "content": " Badan Usaha pengelola KEK sebagaimana dimaksud\npada ayat (1) berbentuk:\na. Badan Usaha Milik Negara/Badan Usaha Milik\nDaerah;\nb. Badan Usaha koperasi;\nc. Badan Usaha swasta; atau\nd. Badan Usaha patungan antara swasta dan/atau\nkoperasi dengan Pemerintah, pemerintah provinsi,\ndan/atau pemerintah kabupaten/kota."
                         },
                         {
-                            "id": "8726b1cb-dd5a-418a-b164-75582d48148c",
+                            "id": "d95774b3-f2ee-448e-a7be-5bc255459119",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 3",
                             "type": "verse",
                             "content": " Badan Usaha pengelola KEK sebagaimana dimaksud\npada ayat (1) ditetapkan pada masa pelaksanaan\npembangunan KEK dan paling lambat sebelum KEK\ndinyatakan siap beroperasi oleh Dewan Nasional."
                         },
                         {
-                            "id": "0885a1a0-7195-4eea-851b-bf42d18b189c",
+                            "id": "5a3bb515-25df-4b96-945c-5f06ed7e0f9f",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 4",
                             "type": "verse",
@@ -204,16 +197,23 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "3138742f-ec24-4761-b1de-17af300f02f7",
+                    "id": "9e64d74f-8662-4bec-93c8-3a93a172fc82",
                     "name": "Article 48",
                     "type": "article",
                     "children": [
                         {
-                            "id": "15b4e2e1-a30a-4cb9-87b8-32bada5215df",
+                            "id": "da93207c-048d-4b62-aeb6-3d4cab2f8c04",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 1",
                             "type": "verse",
-                            "content": " Penetapan Badan Usaha pengelola dilakukan oleh\npemerintah kabupaten/kota, pemerintah provinsi,\ndan kementerian/lembaga pemerintah non\nkementerian sesuai dengan kewenangannya dengan\nberpedoman pada:\na. ketentuan peraturan perundang-undangan di\nbidang pengelolaan barang milik negara/daerah;\natau\nb. ketentuan"
+                            "content": " Penetapan Badan Usaha pengelola dilakukan oleh\npemerintah kabupaten/kota, pemerintah provinsi,\ndan kementerian/lembaga pemerintah non\nkementerian sesuai dengan kewenangannya dengan\nberpedoman pada:\na. ketentuan peraturan perundang-undangan di\nbidang pengelolaan barang milik negara/daerah;\natau\nb. ketentuan\nb. ketentuan sebagaimana tercantum dalam lampiran Peraturan Pemerintah ini."
+                        },
+                        {
+                            "id": "f8c2c8fd-4da5-4f15-a9fb-c5bf60239618",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Dalam hal barang milik negara/daerah berupa KEK sebagaimana dimaksud pada ayat (1) pengelolaannya akan dilakukan oleh Badan Usaha Milik Negara/Badan Usaha Milik Daerah, dapat dilakukan dengan mekanisme penyertaan modal negara/daerah kepada suatu Badan Usaha Milik Negara/Badan Usaha Milik Daerah."
                         }
                     ]
                 },
@@ -221,26 +221,26 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "e2a69ce8-f7e4-430f-aa33-cd64bec96b15",
+                    "id": "29aca4ad-19b7-4fe1-bf32-6d386745857d",
                     "name": "Article 49",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bcdf41ed-2b14-448e-8748-1457ea2c296b",
+                            "id": "47419b18-7bdd-4cb2-a424-9be8027761bd",
                             "explanation": "\nCukup jelas.",
                             "name": "Verse 1",
                             "type": "verse",
-                            "content": " Badan Usaha pengelola sebagaimana dimaksud\ndalam pasal 48 ayat (1) melaksanakan pengelolaan\nKEK berdasarkan perjanjian pengelolaan KEK yang\nditandatangani bersama antara Badan Usaha dengan\npemerintah kabupaten/kota, pemerintah provinsi,\natau kementerian/lembaga pemerintah non\nkementerian sesuai dengan kewenangannya."
+                            "content": " Badan Usaha pengelola sebagaimana dimaksud dalam pasal 48 ayat (1) melaksanakan pengelolaan KEK berdasarkan perjanjian pengelolaan KEK yang ditandatangani bersama antara Badan Usaha dengan pemerintah kabupaten/kota, pemerintah provinsi, atau kementerian/lembaga pemerintah non kementerian sesuai dengan kewenangannya."
                         },
                         {
-                            "id": "d51e3b92-a839-45a8-bc7f-1d047ca62976",
+                            "id": "9f3b65cb-c3df-4874-b5a1-5499bbbd65d7",
                             "explanation": "\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nYang dimaksud dengan \"dalam hal tertentu\"\nantara lain:\na. Badan Usaha tidak memenuhi standar kinerja\npelayanan;\nb. Badan Usaha dinyatakan pailit;\nc. Badan Usaha melakukan kegiatan yang\nmenyimpang dari izin usaha dan izin lain yang\ndiberikan;\nd. Badan Usaha mengajukan permohonan\npemberhentian sebagai Badan Usaha\npengelola KEK; dan/atau\ne. pencabutan penetapan KEK oleh Pemerintah.\nHuruf g . .\nHuruf g\nYang dimaksud dengan \"manajemen operasional\nKEK\" dalam ketentuan ini misalnya adalah\npeningkatan kapasitas sumber daya manusia,\nperbaikan sistem, dan peningkatan kualitas\nperalatan.\nHuruf h\nCukup jelas.\nHuruf i\nCukup jelas.\nHuruf j\nCukup jelas.\nHuruf k\nCukup jelas.",
                             "name": "Verse 2",
                             "type": "verse",
-                            "content": " Perjanjian sebagaimana dimaksud pada ayat (1)\npaling sedikit memuat:\na. lingkup pekerjaan;\nb. jangka waktu;\nc. standar kinerja pelayanan;\nd. sanksi;\ne. pelaksanaan pelayanan KEK dalam hal terjadi\nsengketa;\nf. pemutusan perjanjian oleh pemerintah\nkabupaten/kota, pemerintah provinsi, atau\nkementerian/lembaga pemerintah non\nkementerian dalam hal tertentu;\ng. manajemen operasional KEK;\nh. pengakhiran perjanjian;\ni. pertanggungjawaban terhadap barang milik\nnegara/daerah;\nj. serah terima aset atau infrastruktur oleh Badan\nUsaha pengelola kepada kementerian/lembaga\npemerintah non kementerian, pemerintah\nprovinsi, atau pemerintah kabupaten/kota setelah\nkerjasama pengelolaan berakhir; dan\nk. kesanggupan penyediaan ruang kantor untuk\nkegiatan pelayanan kepabeanan dan cukai.\n"
+                            "content": " Perjanjian sebagaimana dimaksud pada ayat (1) paling sedikit memuat:\na. lingkup pekerjaan;\nb. jangka waktu;\nc. standar kinerja pelayanan;\nd. sanksi;\ne. pelaksanaan pelayanan KEK dalam hal terjadi sengketa;\nf. pemutusan perjanjian oleh pemerintah kabupaten/kota, pemerintah provinsi, atau kementerian/lembaga pemerintah non kementerian dalam hal tertentu;\ng. manajemen operasional KEK;\nh. pengakhiran perjanjian;\ni. pertanggungjawaban terhadap barang milik negara/daerah;\nj. serah terima aset atau infrastruktur oleh Badan Usaha pengelola kepada kementerian/lembaga pemerintah non kementerian, pemerintah provinsi, atau pemerintah kabupaten/kota setelah kerjasama pengelolaan berakhir; dan\nk. kesanggupan penyediaan ruang kantor untuk kegiatan pelayanan kepabeanan dan cukai."
                         },
                         {
-                            "id": "3e8cb6a0-2275-4bda-921f-07f1b64fdc4a",
+                            "id": "439d6d93-e08d-4da3-8002-ef5a87dbc1c6",
                             "explanation": "\nCukup jelas.",
                             "name": "Verse 3",
                             "type": "verse",
@@ -253,44 +253,44 @@
                         "CHANGE",
                         "INSERT"
                     ],
-                    "id": "094f27be-b947-4d2c-a1b3-1dc9b6f93643",
+                    "id": "39d09edc-6963-4863-937e-492dd3390a45",
                     "name": "Article 52",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ab2598fb-9403-4936-88f5-180c4ed89b16",
+                            "id": "66d05942-928c-49d2-886a-c027c02c9ef4",
                             "explanation": "\nCukup jelas.",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": " Berdasarkan hasil evaluasi Dewan Kawasan\nsebagaimana dimaksud dalam Pasal 50, Dewan\nNasional melakukan penilaian terhadap\noperasionalisasi KEK."
                         },
                         {
-                            "id": "6c04c56e-5b6a-4d3c-97ca-fb90e49cb8bf",
+                            "id": "c272335d-d264-4c42-8ad0-d0b165aa2bfc",
                             "explanation": "\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c",
                             "name": "Verse 2",
                             "type": "verse",
                             "content": " Berdasarkan penilaian sebagaimana dimaksud pada\nayat (1), Dewan Nasional dapat:\na. memberikan arahan kepada Dewan Kawasan\nuntuk peningkatan kinerja operasionalisasi KEK;\nb. melakukan pemantauan terhadap operasionalisasi\nKEK; dan/atau\nc. memberikan rekomendasi mengenai langkah\ntindak lanjut operasionalisasi KEK berupa:\n1. pemutusan perjanjian pengelolaan KEK dalam\nhal Badan Usaha pengelola ditetapkan sesuai\ndengan ketentuan Pasal 47 ayat (3);\n2. perbaikan manajemen operasional KEK dalam\nhal Badan Usaha pengelola merupakan Badan\nUsaha pengusul sebagaimana dimaksud dalam\nPasal 33A ayat (2) atau Badan Usaha yang\nmelakukan kerjasama antara pemerintah dan\nBadan Usaha sebagaimana dimaksud dalam\nPasal 34 ayat (2), Pasal 34A ayat (2), dan Pasal\n34B ayat (2); atau\n3. pengusulan pencabutan penetapan KEK."
                         },
                         {
-                            "id": "8d11e8bb-5ac4-413d-8585-bc9943cf0fd5",
+                            "id": "b587498d-f95e-4933-8ab1-e70053261a94",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 3",
                             "type": "verse",
                             "content": " Rekomendasi pemutusan perjanjian pengelolaan KEK\nsebagaimana dimaksud pada ayat (2) huruf c angka 1\ndisampaikan oleh Dewan Nasional kepada Dewan\nKawasan, apabila Badan Usaha pengelola:\na. tidak memenuhi standar kinerja pelayanan;\nb. dinyatakan\nb. dinyatakan pailit;\nc. melakukan kegiatan yang menyimpang dari izin\nusaha dan izin lain yang diberikan; dan/atau\nd. mengajukan permohonan pemberhentian sebagai\nBadan Usaha pengelola KEK."
                         },
                         {
-                            "id": "0a6964d5-b5cb-4e41-8103-f1ec932ceb66",
+                            "id": "93e6529c-0680-4ad7-9a8c-b1a23eaee526",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 3a",
                             "type": "verse",
                             "content": " Rekomendasi perbaikan manajemen operasional KEK\nsebagaimana dimaksud pada ayat (2) huruf c angka 2\ndisampaikan oleh Dewan Nasional kepada Dewan\nKawasan, apabila Badan Usaha pengelola:\na. tidak memenuhi standar kinerja pelayanan;\ndan/atau\nb. melakukan kegiatan yang menyimpang dari izin\nusaha dan izin lain yang diberikan."
                         },
                         {
-                            "id": "fcc1a735-13c1-4ad7-be61-45ba90a2f87b",
+                            "id": "8ec871fa-e61f-4d4f-bdb3-bd6a27fb9861",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 4",
                             "type": "verse",
-                            "content": " Rekomendasi\npencabutan penetapan KEK\nsebagaimana dimaksud pada ayat (2) huruf c angka 3\ndisampaikan oleh Dewan Nasional kepada Presiden\napabila dalam pengoperasian KEK:\na. tidak dilakukan perbaikan kinerja setelah\ndilakukan langkah-langkah sebagaimana\ndimaksud pada ayat (3) atau ayat (3a);\nb. terjadi dampak negatif skala luas terhadap\nlingkungan di sekitarnya;\nc. menimbulkan gejolak sosial ekonomi bagi\nmasyarakat di sekitarnya; dan/atau\nd. terjadi pelanggaran hukum di KEK."
+                            "content": " Rekomendasi pencabutan penetapan KEK\nsebagaimana dimaksud pada ayat (2) huruf c angka 3\ndisampaikan oleh Dewan Nasional kepada Presiden\napabila dalam pengoperasian KEK:\na. tidak dilakukan perbaikan kinerja setelah\ndilakukan langkah-langkah sebagaimana\ndimaksud pada ayat (3) atau ayat (3a);\nb. terjadi dampak negatif skala luas terhadap\nlingkungan di sekitarnya;\nc. menimbulkan gejolak sosial ekonomi bagi\nmasyarakat di sekitarnya; dan/atau\nd. terjadi pelanggaran hukum di KEK."
                         }
                     ]
                 },
@@ -298,33 +298,33 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "17acb218-3d8a-46a9-9d1b-0ac55271abe9",
+                    "id": "5edaff7a-3d8b-4d59-bce7-b0eb66e73161",
                     "name": "Article 53",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e6c148c0-0306-44b7-8f89-45460b5aa748",
+                            "id": "c19f5b24-0ec7-4f09-bd87-5f36c2658413",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": " Apabila status Badan Usaha pengelola dicabut,\npemerintah provinsi, pemerintah kabupaten/kota,\natau kementerian/lembaga pemerintah non\nkementerian melakukan proses penetapan Badan\nUsaha pengelola yang baru dalam waktu paling lama\n30 (tiga puluh) hari kerja setelah pencabutan Badan\nUsaha pengelola."
                         },
                         {
-                            "id": "10e82b97-88e3-4982-bd49-064b44fcac07",
+                            "id": "eb484a22-f019-4b0a-bea9-41c90b379a06",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 2",
                             "type": "verse",
                             "content": " Selama jangka waktu paling lama 30 (tiga puluh) hari\nkerja sebagaimana dimaksud pada ayat (1),\npengelolaan KEK sementara dilakukan oleh\npemerintah provinsi/lembaga pemerintah non\nkementerian sampai dengan penetapan Badan Usaha\npengelola yang baru."
                         },
                         {
-                            "id": "ea5e1dab-45c4-412d-9576-14d4af176876",
+                            "id": "4f58a9e5-7d02-4544-857c-d94fac5a99c6",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 3",
                             "type": "verse",
                             "content": " Dalam hal status Badan Usaha pengelola dicabut,\npemerintah provinsi, pemerintah kabupaten/kota,\natau kementerian/lembaga pemerintah non\nkementerian melakukan proses penetapan Badan\nUsaha pengelola yang baru sesuai dengan ketentuan\nsebagaimana tercantum dalam Lampiran Peraturan\nPemerintah ini."
                         },
                         {
-                            "id": "46599011-68af-4e16-9b47-d8e7994cc683",
+                            "id": "82dcd48a-8913-4bbf-8a80-e0b59f3292c5",
                             "explanation": "Tidak ada Penjelasan",
                             "name": "Verse 4",
                             "type": "verse",
@@ -335,21 +335,21 @@
             ]
         },
         {
-            "id": "c2451afa-096f-4039-b450-f992f232e178",
+            "id": "a6df94c4-a1e2-44c8-80b7-e80112ec0ec2",
             "name": "Article II",
             "type": "article",
             "children": [
                 {
-                    "id": "ca505334-6457-4d63-93f2-1fb32c7d523b",
+                    "id": "05170f13-bd54-4cf7-980f-53f4fcef953b",
                     "name": "Verse 1",
                     "type": "verse",
-                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan."
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia."
                 }
             ]
         }
     ],
     "metadata": {
-        "Umum": "\nDalam Peraturan Pemerintah Nomor 2 Tahun 2011 tentang\nPenyelenggaraan Kawasan Ekonomi Khusus mengatur mengenai\npengusulan KEK, penetapan KEK, pembangunan KEK, pengelolaan KEK,\ndan evaluasi pengelolaan KEK dalam rangka mempercepat pembangunan\nperekonomian nasional melalui pengembangan KEK yang memiliki\nkeunggulan geoekonomi dan geostrategis yang dipersiapkan untuk\nmemaksimalkan kegiatan pengolahan ekspor, logistik, industri,\npengembangan teknologi, pariwisata, energi, dan ekonomi lain yang\nmemiliki nilai ekonomi tinggi.\nDalam rangka memberikan kemudahan dalam pengusulan Kawasan\nEkonomi Khusus yang dapat diusulkan oleh Badan Usaha, pemerintah\nkabupaten/kota, pemerintah provinsi, atau kementerian/lembaga\npemerintah non kementerian, seluruh dokumen pengusulan harus jelas\nbagi pengusul sehingga dapat dilengkapi sesuai dengan ketentuan\nperaturan perundang-undangan.\nKawasan yang telah ditetapkan sebagai Kawasan Ekonomi Khusus harus\nsegera dibangun oleh pengusul yang pelaksanaan pembangunannya\ndilakukan oleh Badan Usaha pembangun yang ditetapkan oleh\npemerintah kabupaten/kota, pemerintah provinsi, atau\nkementerian/lembaga pemerintah non kementerian. Dalam hal pengusul\nadalah Badan Usaha, pembangunan Kawasan Ekonomi Khusus\ndilaksanakan oleh Badan Pengusul tersebut yang ditetapkan oleh\npemerintah provinsi dalam hal lokasi Kawasan Ekonomi Khusus berada\npada lintas wilayah kabupaten/kota atau pemerintah kabupaten/kota\ndalam hal lokasi Kawasan Ekonomi Khusus berada dalam satu wilayah\nkabupaten/kota. Untuk pembangunan Kawasan Ekonomi Khusus yang\nberasal dari usulan pemerintah kabupaten/kota, pemerintah provinsi,\natau kementerian/lembaga pemerintah non kementerian, penetapan\nBadan.\nBadan Usaha pembangun dilakukan melalui prinsip terbuka\ndan transparan, mengikuti ketentuan peraturan perundang-undangan di\nbidang pengadaan barang/jasa pemerintah atau ketentuan mengenai\nkerjasama pemerintah dengan swasta.\nPelaksanaan pengelolaan Kawasan Ekonomi Khusus didasarkan pada\nperjanjian antara Badan Usaha pengelola dengan pemerintah\nkabupaten/kota, pemerintah provinsi, atau kementerian/lembaga\npemerintah non kementerian. Dalam hal Kawasan Ekonomi Khusus yang\nditetapkan berdasarkan usulan Badan Usaha, lingkup perjanjian\npengelolaan Kawasan Ekonomi Khusus antara Badan Usaha dengan\npemerintah kabupaten/kota,\npemerintah provinsi, atau\nkementerian/lembaga pemerintah non kementerian sifatnya lebih\nsederhana dan tidak perlu memuat ketentuan pemutusan perjanjian,\npertanggungjawaban terhadap barang milik negara/daerah, dan serah\nterima aset atau infrastruktur.\nBerdasarkan hal tersebut di atas, perlu untuk mengubah beberapa\nketentuan dalam Peraturan Pemerintah Nomor 2 Tahun 2011 tentang\nPenyelenggaraan Kawasan Ekonomi Khusus.",
+        "Umum": "\nDalam Peraturan Pemerintah Nomor 2 Tahun 2011 tentang\nPenyelenggaraan Kawasan Ekonomi Khusus mengatur mengenai\npengusulan KEK, penetapan KEK, pembangunan KEK, pengelolaan KEK,\ndan evaluasi pengelolaan KEK dalam rangka mempercepat pembangunan\nperekonomian nasional melalui pengembangan KEK yang memiliki\nkeunggulan geoekonomi dan geostrategis yang dipersiapkan untuk\nmemaksimalkan kegiatan pengolahan ekspor, logistik, industri,\npengembangan teknologi, pariwisata, energi, dan ekonomi lain yang\nmemiliki nilai ekonomi tinggi.\nDalam rangka memberikan kemudahan dalam pengusulan Kawasan\nEkonomi Khusus yang dapat diusulkan oleh Badan Usaha, pemerintah\nkabupaten/kota, pemerintah provinsi, atau kementerian/lembaga\npemerintah non kementerian, seluruh dokumen pengusulan harus jelas\nbagi pengusul sehingga dapat dilengkapi sesuai dengan ketentuan\nperaturan perundang-undangan.\nKawasan yang telah ditetapkan sebagai Kawasan Ekonomi Khusus harus\nsegera dibangun oleh pengusul yang pelaksanaan pembangunannya\ndilakukan oleh Badan Usaha pembangun yang ditetapkan oleh\npemerintah kabupaten/kota, pemerintah provinsi, atau\nkementerian/lembaga pemerintah non kementerian. Dalam hal pengusul\nadalah Badan Usaha, pembangunan Kawasan Ekonomi Khusus\ndilaksanakan oleh Badan Pengusul tersebut yang ditetapkan oleh\npemerintah provinsi dalam hal lokasi Kawasan Ekonomi Khusus berada\npada lintas wilayah kabupaten/kota atau pemerintah kabupaten/kota\ndalam hal lokasi Kawasan Ekonomi Khusus berada dalam satu wilayah\nkabupaten/kota. Untuk pembangunan Kawasan Ekonomi Khusus yang\nberasal dari usulan pemerintah kabupaten/kota, pemerintah provinsi,\natau kementerian/lembaga pemerintah non kementerian, penetapan\nBadan.\nBadan Usaha pembangun dilakukan melalui prinsip terbuka\ndan transparan, mengikuti ketentuan peraturan perundang-undangan di\nbidang pengadaan barang/jasa pemerintah atau ketentuan mengenai\nkerjasama pemerintah dengan swasta.\nPelaksanaan pengelolaan Kawasan Ekonomi Khusus didasarkan pada\nperjanjian antara Badan Usaha pengelola dengan pemerintah\nkabupaten/kota, pemerintah provinsi, atau kementerian/lembaga\npemerintah non kementerian. Dalam hal Kawasan Ekonomi Khusus yang\nditetapkan berdasarkan usulan Badan Usaha, lingkup perjanjian\npengelolaan Kawasan Ekonomi Khusus antara Badan Usaha dengan\npemerintah kabupaten/kota, pemerintah provinsi, atau\nkementerian/lembaga pemerintah non kementerian sifatnya lebih\nsederhana dan tidak perlu memuat ketentuan pemutusan perjanjian,\npertanggungjawaban terhadap barang milik negara/daerah, dan serah\nterima aset atau infrastruktur.\nBerdasarkan hal tersebut di atas, perlu untuk mengubah beberapa\nketentuan dalam Peraturan Pemerintah Nomor 2 Tahun 2011 tentang\nPenyelenggaraan Kawasan Ekonomi Khusus.",
         "Nomor": "100",
         "Tahun": "2012",
         "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 2 TAHUN 2011\nTENTANG PENYELENGGARAAN KAWASAN ΕΚΟΝΟΜΙ KHUSUS",
@@ -363,7 +363,7 @@
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
             "2": " Undang-Undang Nomor 39 Tahun 2009 tentang Kawasan\nEkonomi Khusus (Lembaran Negara Republik Indonesia\nTahun 2009 Nomor 147, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5066);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 2 TAHUN 2011 TENTANG\nPENYELENGGARAAN KAWASAN ΕΚΟΝΟΜΙ KHUSUS.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 2 TAHUN 2011 ΤΕΝΤΑNG\nPENYELENGGARAAN KAWASAN ΕΚΟΝΟΜΙ KHUSUS.",
         "tanggal sah": "3 Desember 2012"
     }
 }

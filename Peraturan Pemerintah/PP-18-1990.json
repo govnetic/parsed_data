@@ -1,0 +1,69 @@
+{
+    "results": [
+        {
+            "id": "56d6e5b7-f861-4217-a999-eaee26e95504",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [],
+                    "id": "91cb5aa1-8ec9-48d4-87de-8401aabbe487",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "9cc9cc38-2857-4a87-9db0-48a5419b2d94",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [],
+                    "id": "368aaefe-9252-4f1f-abe2-6299a556ba8c",
+                    "name": "Article 19",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "64104dc3-f4d3-43a2-93b5-229ea683dc4c",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ac4a4f9f-64f8-45bb-8ce4-52cd9e875b04",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "c6160706-8f3f-400b-863d-a9edbac6b2a9",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemrintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "18",
+        "Tahun": "1990",
+        "Tentang": "PERUBAHAN PERATURAN PEMERINTAH NOMOR 33 TAHUN 1977 TENTANG ASURANSI\nSOSIAL TENAGA KERJA",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa untuk lebih meningkatkan penyelenggaraan program Asuransi\nSosial Tenaga Kerja, dipandang perlu mengubah ketentuan\nPeraturan Pemerintah Nomor 33 Tahun 1977;",
+            "b": " bahwa perubahan tersebut di atas perlu dilakukan dengan\nPeraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Peraturan Pemerintah Nomor 33 Tahun 1977 tentang Asuransi Sosial\nTenaga Kerja (Lembaran Negara Tahun 1977 Nomor 54, Tambahan\nLembaran Negara Nomor 3112);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG PERUBAHAN\nPERATURAN PEMERINTAH NOMOR 33 TAHUN 1977 TENTANG ASURANSI\nSOSIAL TENAGA KERJA.",
+        "tanggal sah": "30 Mei 1990"
+    }
+}

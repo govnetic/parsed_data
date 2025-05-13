@@ -1,65 +1,65 @@
 {
     "results": [
         {
-            "id": "3c6a8e69-e903-401e-b3fb-633571b61b18",
+            "id": "308dc859-e22c-411a-aeca-ae0f5d6cd36c",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "88e038d1-1cda-49de-81fa-c5c02bdbcd35",
+                    "id": "7a3e16de-dbf6-418f-aa3f-0e36787e5ac5",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "82eda3a0-5cc8-4b68-b12b-acc3d8167b74",
+                        "id": "f16dbed8-ff70-49b8-a064-9a3c47854031",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Badan Usaha Milik Negara yang selanjutnya disebut BUMN adalah badan usaha yang memenuhi minimal salah satu ketentuan berikut:\n    a. seluruh atau sebagian besar modalnya dimiliki oleh Negara Republik Indonesia melalui penyertaan langsung; atau\n    b. terdapat hak istimewa yang dimiliki Negara Republik Indonesia.\n2. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang BUMN.\n3. Badan Pengelola Investasi Daya Anagata Nusantara yang selanjutnya disebut Badan adalah badan yang melaksanakan tugas pemerintah di bidang pengelolaan BUMN sebagaimana diatur dalam Undang-Undang tentang BUMN.\n4. Badan Pelaksana adalah organ Badan yang bertugas menyelenggarakan pengurusan operasional Badan.\n5. Dewan Pengawas adalah organ Badan yang bertugas melakukan pengawasan atas penyelenggaraan Badan yang dilakukan oleh Badan Pelaksana.\n\n6. Perusahaan Induk Investasi yang selanjutnya disebut\nHolding Investasi adalah BUMN yang seluruh modalnya\ndimiliki oleh Negara Republik Indonesia dan Badan yang\nmempunyai tugas untuk melakukan pengelolaan dividen\ndan/atau pemberdayaan aset BUMN serta tugas lain yang\nditetapkan oleh Menteri dan/atau Badan.\n7. Perusahaan Induk Operasional yang selanjutnya disebut\nHolding Operasional adalah BUMN yang seluruh modalnya\ndimiliki oleh Negara Republik Indonesia dan Badan yang\nmempunyai tugas untuk melakukan pengawasan terhadap\nkegiatan operasional BUMN serta kegiatan usaha lain.",
-                        "explanation": "\nCukup jelas.\n"
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1.  Badan Usaha Milik Negara yang selanjutnya disebut BUMN\nadalah badan usaha yang memenuhi minimal salah satu\nketentuan berikut:\n    \n    a.  seluruh atau sebagian besar modalnya dimiliki oleh\nNegara Republik Indonesia melalui penyertaan\nlangsung; atau\n    \n    b.  terdapat hak istimewa yang dimiliki Negara Republik\nIndonesia.\n2.  Menteri adalah menteri yang menyelenggarakan urusan\npemerintahan di bidang BUMN.\n3.  Badan Pengelola Investasi Daya Anagata Nusantara yang\nselanjutnya disebut Badan adalah badan yang\nmelaksanakan tugas pemerintah di bidang pengelolaan\nBUMN sebagaimana diatur dalam Undang-Undang tentang\nBUMN.\n4.  Badan Pelaksana adalah organ Badan yang bertugas\nmenyelenggarakan pengurusan operasional Badan.\n5.  Dewan Pengawas adalah organ Badan yang bertugas\nmelakukan pengawasan atas penyelenggaraan Badan yang\ndilakukan oleh Badan Pelaksana.\n\n6. Perusahaan Induk Investasi yang selanjutnya disebut\nHolding Investasi adalah BUMN yang seluruh modalnya\ndimiliki oleh Negara Republik Indonesia dan Badan yang\nmempunyai tugas untuk melakukan pengelolaan dividen\ndan/atau pemberdayaan aset BUMN serta tugas lain yang\nditetapkan oleh Menteri dan/atau Badan.\n7. Perusahaan Induk Operasional yang selanjutnya disebut\nHolding Operasional adalah BUMN yang seluruh modalnya\ndimiliki oleh Negara Republik Indonesia dan Badan yang\nmempunyai tugas untuk melakukan pengawasan terhadap\nkegiatan operasional BUMN serta kegiatan usaha lain.",
+                        "explanation": "\nCukup jelas."
                     }
                 }
             ]
         },
         {
-            "id": "ffe028d4-3c74-4c68-ae89-517763f265a6",
+            "id": "f0b4d3ac-3caf-4631-8fda-1748b7849b39",
             "name": "Chapter II",
             "title": "\nSTATUS, TUJUAN, DAN KEDUDUKAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "26d0f919-3c1f-4a79-9b07-2437ca5885c0",
+                    "id": "0729a070-fc0b-41c6-8ccd-605f12adfd6c",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ef7febbd-dd13-4672-9f78-b440f4b47518",
+                            "id": "5cc5d7d8-8aeb-4593-b5c2-35606d0eeb24",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam melaksanakan pengelolaan BUMN, Presiden\nmelimpahkan sebagian tugas dan kewenangannya kepada\nBadan yang dibentuk dengan Undang-Undang tentang\nBUMN.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "98042279-a745-46c8-ba7d-d7bddcfb5ab2",
+                            "id": "e75f35a0-8bce-4cb3-9e67-c270cfb1d416",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Badan sebagaimana dimaksud pada ayat (1) merupakan\nbadan hukum Indonesia yang sepenuhnya dimiliki oleh\nPemerintah Indonesia.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "fd93d680-f279-4cc3-a844-47f159474b56",
+                            "id": "594ece37-0d3c-41bd-a67c-3cce2330c538",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Badan sebagaimana dimaksud pada ayat (2) bertujuan\nuntuk meningkatkan dan mengoptimalkan investasi dan\noperasional BUMN dan sumber dana lain.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "b6815677-4844-4fed-bc5b-9e8bb92d5a4f",
+                            "id": "a01b82a3-f9e7-4364-8f52-e41b16eb6a82",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Badan sebagaimana dimaksud pada ayat (1) bertanggung\njawab kepada Presiden.",
                             "explanation": "\nCukup jelas."
@@ -67,22 +67,22 @@
                     ]
                 },
                 {
-                    "id": "674334e5-2586-499e-9e1a-b43595f62847",
+                    "id": "d497f236-3372-4f75-b480-2465ad64a613",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ccf3fd8d-5a4f-4f66-a69a-271c13402d31",
+                            "id": "af085c61-79d0-41dc-85ad-41893c4868dd",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Badan berkedudukan dan berkantor pusat di Ibukota\nNegara.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "0f0f0709-3663-44c5-a31e-d48b3f3b575f",
+                            "id": "48e68a2e-ca54-4561-8003-30a048735a55",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Badan dapat mempunyai kantor di luar Ibukota Negara.\n",
                             "explanation": "\nCukup jelas."
@@ -92,44 +92,44 @@
             ]
         },
         {
-            "id": "56ae197b-8071-43fd-bd2f-857d65e07847",
+            "id": "921d1877-e942-4167-8da2-2559a728065c",
             "name": "Chapter III",
             "title": "\nTUGAS DAN WEWENANG",
             "type": "chapter",
             "children": [
                 {
-                    "id": "bf28565f-02e4-4e7e-adfd-3534d869116e",
+                    "id": "4f88d8f2-6606-46d3-8193-a0a7064ff838",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "adee30d6-91cd-49c0-9fac-7ff1ff4d586a",
+                            "id": "52c5fae3-dac5-4f18-ac5a-945dcb299835",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Badan bertugas untuk melakukan pengelolaan BUMN.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "5cfc5386-c83b-468e-a629-3fba05b1794f",
+                            "id": "e43d9cef-1f58-48a7-a39c-d801b2ef795b",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dalam melaksanakan tugas sebagaimana dimaksud pada\nayat (1), Badan berwenang:\na. mengelola dividen Holding Investasi, dividen Holding\nOperasional, dan dividen BUMN;\nb. menyetujui penambahan dan/atau pengurangan\npenyertaan modal pada BUMN yang bersumber dari\npengelolaan dividen;\nc. bersama Menteri membentuk Holding Investasi dan\nHolding Operasional;\nd. bersama Menteri menyetujui usulan hapus buku\ndan/atau hapus tagih atas aset BUMN yang\ndiusulkan oleh Holding Investasi atau Holding\nOperasional;\ne. memberikan pinjaman, menerima pinjaman, dan\nmengagunkan aset dengan persetujuan Presiden;\ndan\nf. mengesahkan dan mengonsultasikan kepada alat\nkelengkapan DPR RI yang membidangi BUMN atas\nRencana Kerja dan Anggaran Perusahaan Holding\nInvestasi dan Holding Operasional.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "04d9953c-af9a-40a8-ae24-48d1bf99f552",
+                            "id": "ba5b2e46-3061-4b3a-ae62-86574b613905",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dalam menjalankan tugas sebagaimana dimaksud pada\nayat (1) dan kewenangan sebagaimana dimaksud pada\nayat (2), Badan memastikan pelaksanaan operasional\nHolding Operasional dan Holding Investasi dilakukan\nsesuai dengan prinsip-prinsip tata kelola perusahaan\nyang baik.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "7b489d38-9cc1-4be9-ba37-9f72e2ca8e87",
+                            "id": "cc89dea0-1aa7-4327-8343-25dafb30be5e",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Ketentuan lebih lanjut mengenai pelaksanaan wewenang\nBadan yang membutuhkan persetujuan Presiden\nsebagaimana dimaksud pada ayat (2) huruf e diatur\ndengan Peraturan Presiden.\n",
                             "explanation": "\nCukup jelas."
@@ -139,23 +139,23 @@
             ]
         },
         {
-            "id": "f000e839-7f43-4cca-8217-05bc0c822f06",
+            "id": "7b1b35be-fabb-4d1d-8377-42c1c962cce8",
             "name": "Chapter IV",
             "title": "\nORGAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2292e358-c4ad-4e13-92bf-e0487ab1ed23",
+                    "id": "2b774c76-3056-4f8e-90f5-bbecee2812be",
                     "name": "Section First",
                     "title": "\nStruktur Organ",
                     "type": "section",
                     "children": [
                         {
-                            "id": "5d3b0bb4-91d2-4c1a-8bc1-f8d72edf6865",
+                            "id": "4d9831ab-e4c5-4c39-b489-0a5239b3de9b",
                             "name": "Article 5",
                             "type": "article",
                             "children": {
-                                "id": "1e550a09-d209-4352-864c-58bab0d44067",
+                                "id": "9af5597b-4c4e-47dd-a1c2-c789cfa63b93",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -166,52 +166,44 @@
                     ]
                 },
                 {
-                    "id": "c0207da7-5b7f-4fae-9926-27a9cc54786d",
+                    "id": "0d196274-fa62-43a9-871d-84490d39965a",
                     "name": "Section Second",
                     "title": "\nDewan Pengawas",
                     "type": "section",
                     "children": [
                         {
-                            "id": "b276ad55-e16f-47a8-9db6-5e42c38279e6",
+                            "id": "9d21500e-87a3-4ac4-a435-c26cac45d7fd",
                             "name": "Paragraph 1",
                             "title": "\nKeanggotaan",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "b29c9daf-b5f0-476b-809d-cffeefa99a42",
+                                    "id": "1c657fcd-6b97-4975-90f2-2da08c55f4e9",
                                     "name": "Article 6",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "22a41f57-30e0-4c95-b76e-69e90cf3d913",
+                                            "id": "d5f8ceda-c1f5-4df9-bd75-0429d6f7a5e1",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Dewan Pengawas terdiri atas:\na. ketua merangkap anggota;\nb. wakil ketua merangkap anggota;\nc. perwakilan dari kementerian yang menyelenggarakan sinkronisasi dan koordinasi serta pengendalian pelaksanaan urusan kementerian dalam penyelenggaraan pemerintahan di bidang perekonomian, kementerian yang menyelenggarakan urusan pemerintahan di bidang keuangan, kementerian yang menyelenggarakan urusan pemerintahan di bidang BUMN, dan kementerian yang menyelenggarakan urusan pemerintahan di bidang investasi sebagai anggota; dan\nd. pejabat negara atau pihak lain sebagai anggota.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "7961ea86-5415-4a18-92db-2bdf54898c7a",
+                                            "id": "5c12b241-bdad-4675-825f-36e4f42d7f46",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Ketua, wakil ketua, dan anggota Dewan Pengawas sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh Presiden.",
+                                            "content": " Ketua, wakil ketua, dan anggota Dewan Pengawas sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh Presiden.\n\n(3) Anggota Dewan Pengawas sebagaimana dimaksud pada ayat (1) huruf c paling rendah pejabat eselon I.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "28228986-0039-4564-88c9-039435d352aa",
-                                            "name": "Verse 3",
-                                            "number": "(3)",
-                                            "type": "verse",
-                                            "content": " Anggota Dewan Pengawas sebagaimana dimaksud pada\nayat (1) huruf c paling rendah pejabat eselon I.",
-                                            "explanation": "\nCukup jelas."
-                                        },
-                                        {
-                                            "id": "053323fa-1c49-4906-810d-ef2b684692c1",
+                                            "id": "4d84928a-531b-416a-9320-5e39a342685f",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
-                                            "content": " Ketua, wakil ketua, dan anggota Dewan Pengawas\nsebagaimana dimaksud pada ayat (1) diangkat untuk\nmasa jabatan 5 (lima) tahun dan hanya dapat diangkat\nkembali untuk 1 (satu) kali masa jabatan berikutnya.",
+                                            "content": " Ketua, wakil ketua, dan anggota Dewan Pengawas sebagaimana dimaksud pada ayat (1) diangkat untuk masa jabatan 5 (lima) tahun dan hanya dapat diangkat kembali untuk 1 (satu) kali masa jabatan berikutnya.",
                                             "explanation": "\nCukup jelas."
                                         }
                                     ]
@@ -219,112 +211,112 @@
                             ]
                         },
                         {
-                            "id": "955a9f5f-22ec-4758-ab9c-6db46a219b9f",
+                            "id": "9a8cf30c-c41e-4d44-9520-916b24e53938",
                             "name": "Paragraph 2",
                             "title": "\nTugas dan Wewenang",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "9be58969-5f28-4499-b7e9-662152c2826e",
+                                    "id": "5c5c3bed-685d-40ae-9e21-689b6017173e",
                                     "name": "Article 7",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "bf8b0d68-d12a-4d50-b19a-ef5978b234dc",
+                                            "id": "341edf4a-7b78-4805-8e91-7dbc0a2b8c4a",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Dewan Pengawas bertugas melakukan pengawasan atas\npenyelenggaraan Badan yang dilakukan oleh Badan\nPelaksana.",
+                                            "content": " Dewan Pengawas bertugas melakukan pengawasan atas penyelenggaraan Badan yang dilakukan oleh Badan Pelaksana.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "b9bde274-89ec-47ca-8931-26965c848491",
+                                            "id": "945a3b81-83a6-4ab1-99fe-52e54efa3931",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Dalam melaksanakan tugas sebagaimana dimaksud pada\nayat (1), Dewan Pengawas atas persetujuan Presiden\nberwenang:\na. menyetujui rencana kerja dan anggaran tahunan\nbeserta indikator kinerja utama yang diusulkan\nBadan Pelaksana;\nb. melakukan evaluasi pencapaian indikator kinerja\nutama;\nc. menerima dan mengevaluasi laporan\npertanggungjawaban dari Badan Pelaksana;\nd. menyampaikan laporan pertanggungjawaban Dewan\nPengawas dan Badan Pelaksana kepada Presiden;\ne. menetapkan remunerasi Dewan Pengawas dan\nBadan Pelaksana;\nf. mengusulkan peningkatan dan/atau pengurangan\nmodal Badan kepada Presiden;\ng. menyetujui laporan keuangan tahunan Badan; dan\nh. memberhentikan sementara anggota Badan\nPelaksana.",
+                                            "content": " Dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1), Dewan Pengawas atas persetujuan Presiden berwenang:\na. menyetujui rencana kerja dan anggaran tahunan beserta indikator kinerja utama yang diusulkan Badan Pelaksana;\nb. melakukan evaluasi pencapaian indikator kinerja utama;\nc. menerima dan mengevaluasi laporan pertanggungjawaban dari Badan Pelaksana;\nd. menyampaikan laporan pertanggungjawaban Dewan Pengawas dan Badan Pelaksana kepada Presiden;\ne. menetapkan remunerasi Dewan Pengawas dan Badan Pelaksana;\nf. mengusulkan peningkatan dan/atau pengurangan modal Badan kepada Presiden;\ng. menyetujui laporan keuangan tahunan Badan; dan\nh. memberhentikan sementara anggota Badan Pelaksana.",
                                             "explanation": "\nCukup jelas."
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "6ed520b6-1f61-466e-a2b9-346e03f0794c",
+                                    "id": "b242a9e4-d14e-4561-b200-145950f0c93e",
                                     "name": "Article 8",
                                     "type": "article",
                                     "children": {
-                                        "id": "4dda561c-2a32-4559-bb6a-4564953d11ae",
+                                        "id": "2e317071-3179-4ebf-9b68-0b59636743a8",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
-                                        "content": "\nDewan Pengawas menyusun dan menetapkan kode etik yang\nberlaku bagi Dewan Pengawas, Badan Pelaksana, dan pegawai\nBadan.\n",
+                                        "content": "\nDewan Pengawas menyusun dan menetapkan kode etik yang berlaku bagi Dewan Pengawas, Badan Pelaksana, dan pegawai Badan.\n",
                                         "explanation": "\nCukup jelas."
                                     }
                                 },
                                 {
-                                    "id": "0746548f-c062-4356-8834-7596e7536751",
+                                    "id": "842e5b23-5551-4c79-9b0b-88b84559f592",
                                     "name": "Article 9",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "df7c1399-2bf5-431f-a224-536ee10ba5ef",
+                                            "id": "0c73d281-165f-4e36-9e0f-ddadb1c71ba3",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Dalam melaksanakan tugasnya, Dewan Pengawas dibantu oleh:\n    a. sekretariat; dan\n    b. komite.",
-                                            "explanation": "\nAnggota sekretariat berasal dari pihak eksternal Badan.\nAnggota komite berasal dari anggota Dewan Pengawas dan pihak eksternal Badan."
+                                            "content": " Dalam melaksanakan tugasnya, Dewan Pengawas dibantu oleh:\na. sekretariat; dan\nb. komite.",
+                                            "explanation": "\nAnggota sekretariat berasal dari pihak eksternal Badan.\nAnggota komite berasal dari anggota Dewan Pengawas dan pihak\neksternal Badan."
                                         },
                                         {
-                                            "id": "a78642b2-2625-4278-b247-8141dad47a67",
+                                            "id": "20f73cc8-4081-4fdc-96c7-721332225ea6",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Sekretariat dan komite sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh Dewan Pengawas.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "23452e6e-9c5e-477a-8bdd-184c226d8a52",
+                                            "id": "680eb34c-d678-4d90-bc44-1ca7747653a9",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
-                                            "content": " Komite sebagaimana dimaksud pada ayat (1) huruf b terdiri atas:\n    a. komite audit;\n    b. komite etik; dan\n    c. komite remunerasi dan sumber daya manusia.",
+                                            "content": " Komite sebagaimana dimaksud pada ayat (1) huruf b terdiri atas:\na. komite audit;\nb. komite etik; dan\nc. komite remunerasi dan sumber daya manusia.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "f95c17d1-b065-4116-9847-5b53f1102746",
+                                            "id": "86a610b4-4556-4c77-9fcc-22dff6b686de",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Tugas dan tanggung jawab komite sebagaimana dimaksud pada ayat (1) huruf b ditetapkan dalam piagam komite yang ditentukan oleh Dewan Pengawas.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "d536d6c3-df0d-4e13-b408-6f94bed67bb3",
+                                            "id": "c087175e-3576-4127-9017-25d443867546",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
                                             "content": " Dalam hal diperlukan, Dewan Pengawas dapat membentuk komite selain komite sebagaimana dimaksud pada ayat (3).",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "d71b52b6-5cbc-453d-a336-4e0606e376aa",
+                                            "id": "59179ffa-5384-4a53-9aa8-6436e6fa0979",
                                             "name": "Verse 6",
-                                            "number": "(6)",
+                                            "number": "6",
                                             "type": "verse",
                                             "content": " Komite sebagaimana dimaksud pada ayat (3) dan ayat (5) ditetapkan dengan keputusan Dewan Pengawas.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "1e1e8d95-834a-420b-bd73-c520783f0d3a",
+                                            "id": "7fa4a887-3965-4864-972c-0df4916567df",
                                             "name": "Verse 7",
-                                            "number": "(7)",
+                                            "number": "7",
                                             "type": "verse",
                                             "content": " Komite sebagaimana dimaksud pada ayat (3) dan ayat (5) wajib menyampaikan laporan dan rekomendasi kepada Dewan Pengawas.",
                                             "explanation": "\nCukup jelas.\n\nSK No 251384 A"
                                         },
                                         {
-                                            "id": "e6aa9e36-ae7f-40b3-a7c3-79fe695568a8",
+                                            "id": "def705b7-6ad4-4cf2-a052-b8edfdd5e7e6",
                                             "name": "Verse 8",
-                                            "number": "(8)",
+                                            "number": "8",
                                             "type": "verse",
                                             "content": " Ketentuan mengenai tugas dan tanggung jawab sekretariat sebagaimana dimaksud pada ayat (1) huruf a diatur dengan Peraturan Dewan Pengawas.",
                                             "explanation": "\nCukup jelas."
@@ -334,30 +326,22 @@
                             ]
                         },
                         {
-                            "id": "f234b143-efb9-475c-9cd3-ae967676f1a4",
+                            "id": "56c91e83-266e-404c-a298-7634909daed9",
                             "name": "Paragraph 3",
                             "title": "\nTata Cara Pengambilan Keputusan Dewan Pengawas",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "8adb575f-4426-4ff7-a1ed-8aad0b6f6ef3",
+                                    "id": "81330336-880c-48e8-a778-dec3481b2ad9",
                                     "name": "Article 10",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "2de4f70e-974f-4f65-b191-3cca603aab9f",
+                                            "id": "068f2b82-25a1-4ae0-9eb5-a0dd39a94c2a",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Pengambilan keputusan Dewan Pengawas dilakukan melalui rapat Dewan Pengawas.\n",
-                                            "explanation": "\nCukup jelas."
-                                        },
-                                        {
-                                            "id": "6c2122dc-f67c-4a39-8ace-9c87c629d4f4",
-                                            "name": "Verse 2",
-                                            "number": "(2)",
-                                            "type": "verse",
-                                            "content": " Ketentuan lebih lanjut mengenai pengambilan keputusan dan tata cara rapat sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Dewan Pengawas.",
+                                            "content": " Pengambilan keputusan Dewan Pengawas dilakukan melalui rapat Dewan Pengawas.\n\n(2) Ketentuan lebih lanjut mengenai pengambilan keputusan\ndan tata cara rapat sebagaimana dimaksud pada ayat (1)\ndiatur dalam Peraturan Dewan Pengawas.",
                                             "explanation": "\nCukup jelas."
                                         }
                                     ]
@@ -365,38 +349,38 @@
                             ]
                         },
                         {
-                            "id": "3e7f8df8-91cf-4834-bdd0-f72de08b30d5",
+                            "id": "cbce3ccb-865d-4a0d-81ba-51091e05f091",
                             "name": "Paragraph 4",
                             "title": "\nPemberhentian",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "1d3625ae-cfd4-404b-a465-c50046b076c4",
+                                    "id": "bd800d82-cb30-4440-a856-633f979b5f90",
                                     "name": "Article 11",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "2f8ef579-3e0d-4d4a-a104-d885914f0e61",
+                                            "id": "977c43e3-70ef-4021-8423-d4fc7e2c976f",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Jabatan anggota Dewan Pengawas berakhir apabila:\na. meninggal dunia;\nb. masa jabatannya telah berakhir; atau\nc. diberhentikan oleh Presiden.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "f1579fee-b128-4ff1-b500-03422629210a",
+                                            "id": "d5fd8089-69c3-4407-ad15-13411e45bc56",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Anggota Dewan Pengawas dapat diberhentikan oleh Presiden sebagaimana dimaksud pada ayat (1) huruf c dengan alasan:\na. pelanggaran persyaratan pengungkapan dan kerahasiaan;\nb. tidak menjalankan tugasnya dengan baik;\nc. melakukan tindakan yang melanggar etika dan/atau kepatutan yang seharusnya dihormati oleh Dewan Pengawas;\nd. telah ditetapkan sebagai tersangka dalam tindakan yang merugikan Badan, BUMN, atau keuangan negara;\ne. mengundurkan diri;\nf. berhalangan tetap;\ng. tidak menjalankan tugasnya sebagai anggota Dewan Pengawas lebih dari 6 (enam) bulan meskipun dengan alasan yang dapat dipertimbangkan; dan/atau\nh. alasan lain yang dinilai tepat oleh Presiden.",
+                                            "content": " Anggota Dewan Pengawas dapat diberhentikan oleh\nPresiden sebagaimana dimaksud pada ayat (1) huruf c\ndengan alasan:\na. pelanggaran persyaratan pengungkapan dan kerahasiaan;\nb. tidak menjalankan tugasnya dengan baik;\nc. melakukan tindakan yang melanggar etika dan/atau\nkepatutan yang seharusnya dihormati oleh Dewan\nPengawas;\nd. telah ditetapkan sebagai tersangka dalam tindakan\nyang merugikan Badan, BUMN, atau keuangan\nnegara;\ne. mengundurkan diri;\nf. berhalangan tetap;\ng. tidak menjalankan tugasnya sebagai anggota Dewan\nPengawas lebih dari 6 (enam) bulan meskipun\ndengan alasan yang dapat dipertimbangkan;\ndan/atau\nh. alasan lain yang dinilai tepat oleh Presiden.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "914914ec-cb74-45c3-9cea-70df8458bfcf",
+                                            "id": "7b17f43f-d8f1-47e5-b752-d800dc2da38c",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
-                                            "content": " Dalam hal anggota Dewan Pengawas berhenti atau diberhentikan dalam masa jabatan, Presiden mengangkat pengganti untuk sisa masa jabatan anggota Dewan Pengawas yang digantikannya.\n",
+                                            "content": " Dalam hal anggota Dewan Pengawas berhenti atau\ndiberhentikan dalam masa jabatan, Presiden mengangkat\npengganti untuk sisa masa jabatan anggota Dewan\nPengawas yang digantikannya.\n",
                                             "explanation": "\nCukup jelas."
                                         }
                                     ]
@@ -406,23 +390,23 @@
                     ]
                 },
                 {
-                    "id": "95df8672-4f8e-4fe8-9b9e-d8a293a14f4f",
+                    "id": "0f221965-c6e3-4f8c-b311-1b0ecefdb908",
                     "name": "Section Third",
                     "title": "\nBadan Pelaksana",
                     "type": "section",
                     "children": [
                         {
-                            "id": "b4451810-4d81-4c91-a771-efa23685e12a",
+                            "id": "8147386b-9850-4a2a-8b01-4360046bd57f",
                             "name": "Paragraph 1",
                             "title": "\nKeanggotaan",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "264ea669-4e9f-476f-8f5f-8f1eeba54ac1",
+                                    "id": "279d6bdc-344f-4a5d-97d2-16dfafc5e06e",
                                     "name": "Article 12",
                                     "type": "article",
                                     "children": {
-                                        "id": "e10a32ac-3505-4e64-95f1-96905f938173",
+                                        "id": "9b98b2d5-f123-4d42-98d4-652602417e76",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -431,38 +415,38 @@
                                     }
                                 },
                                 {
-                                    "id": "51cd5952-f804-4588-8336-f51584bf0537",
+                                    "id": "39a11987-51e3-46cb-90cc-88b97faa2f50",
                                     "name": "Article 13",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "06c3d8d6-8c1b-4cad-9421-42b3a20b9a00",
+                                            "id": "800e77e3-8aef-42ab-bcb5-83ffc80a1df8",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Badan Pelaksana sebagaimana dimaksud dalam Pasal 12\nberasal dari unsur profesional.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "05070c84-3f78-4af7-a611-e2cbbd8954d8",
+                                            "id": "c0ac538f-b34b-4300-a63f-3ecc171339a3",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Seluruh anggota Badan Pelaksana diangkat dan\ndiberhentikan oleh Presiden.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "ba3de647-4d27-4a9e-ba69-29925bbeae51",
+                                            "id": "b0544a86-c680-42a1-98c3-b7721f39c122",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Salah satu anggota Badan Pelaksana sebagaimana\ndimaksud pada ayat (2) diangkat menjadi Kepala Badan\nPelaksana oleh Presiden.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "e2a68582-db51-4cba-bd0e-522adbadb33e",
+                                            "id": "b89d0ca0-72b1-4b2b-a435-f5e2dbca3619",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Masa jabatan anggota Badan Pelaksana adalah 5 (lima)\ntahun dan dapat diangkat kembali hanya untuk 1 (satu)\nkali masa jabatan berikutnya.",
                                             "explanation": "\nCukup jelas."
@@ -470,32 +454,32 @@
                                     ]
                                 },
                                 {
-                                    "id": "d18f27cf-e26c-4da5-b70d-b109054b81fe",
+                                    "id": "8b09ca56-db59-49c7-9233-190c27edb728",
                                     "name": "Article 14",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "4290e942-f215-43ac-9145-f7c7c37af012",
+                                            "id": "abd105a6-1c2c-487b-ab6d-d12d6be7337f",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Anggota Badan Pelaksana sebagaimana dimaksud dalam\nPasal 12 huruf b berjumlah 3 (tiga) orang atau sesuai\ndengan kebutuhan.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "b89a37e1-a9ea-4168-bead-d1c91b861e4e",
+                                            "id": "cf763ea2-b94e-49de-aaef-07e4ae1fbc9c",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Pembidangan kepala dan anggota Badan Pelaksana paling\nsedikit sebagai berikut:\na. kepala merangkap anggota membidangi paling sedikit\nfungsi sekretariat, audit, dan sumber daya manusia;\nb. anggota yang membidangi paling sedikit fungsi\nmanajemen risiko;\nc. anggota yang membidangi paling sedikit fungsi\npengembangan bisnis dan operasional;\n\nd. anggota yang membidangi paling sedikit fungsi\ninvestasi dan keuangan; dan\ne. anggota yang membidangi fungsi lain sesuai\nkebutuhan.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "19f3abef-131b-40e6-8fe5-fc4999a5b3b1",
+                                            "id": "23e1b37b-9037-4bfe-9e6e-02b95ebe98ce",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
-                                            "content": " Selain bertanggungjawab atas bidang sebagaimana\ndimaksud pada ayat (2) huruf a, Kepala Badan Pelaksana\nbertanggungjawab atas seluruh penyelenggaraan\npengurusan operasional Badan.",
+                                            "content": " Selain bertanggungjawab atas bidang sebagaimana\ndimaksud pada ayat (2) huruf a, Kepala Badan Pelaksana\nbertanggungjawab\natas seluruh penyelenggaraan\npengurusan operasional Badan.",
                                             "explanation": "\nCukup jelas."
                                         }
                                     ]
@@ -503,67 +487,59 @@
                             ]
                         },
                         {
-                            "id": "bf92626b-5a38-4c8d-af24-1bdb8bea154d",
+                            "id": "b444bc1a-391c-44b8-a89d-bfb3c31b92a1",
                             "name": "Paragraph 2",
                             "title": "\nTugas dan Wewenang",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "8adf333b-519e-4ae6-a0d8-862952905bc0",
+                                    "id": "c2ab8911-2663-46c4-b00e-45fe74fc18ed",
                                     "name": "Article 15",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "cf983166-0e90-4b61-9d34-4a0fcc8a79c6",
+                                            "id": "72ecbb47-8d1e-4922-9c54-5d77b2ba58ee",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Badan Pelaksana bertugas menyelenggarakan\npengurusan operasional Badan.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "675455d7-b0f5-4356-9c9f-7d00fe793313",
+                                            "id": "f340e03e-6eb7-4cc2-938c-832aa1b1f101",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Dalam melaksanakan tugas sebagaimana dimaksud pada\nayat (1), Badan Pelaksana berwenang:\na. merumuskan dan menetapkan kebijakan Badan;\nb. melaksanakan kebijakan dan pengurusan\noperasional Badan;\nc. menyusun dan mengusulkan remunerasi dari Dewan\nPengawas dan Badan Pelaksana kepada Dewan\nPengawas;\nd. menyusun dan mengusulkan rencana kerja dan\nanggaran tahunan beserta indikator kinerja utama\nkepada Dewan Pengawas;\ne. menyusun struktur organisasi Badan dan\nmenyelenggarakan manajemen kepegawaian\ntermasuk pengangkatan, pemberhentian, sistem\npenggajian, remunerasi, penghargaan, program\npensiun dan tunjangan hari tua, serta penghasilan\nlain bagi pegawai Badan; dan\nf. mewakili Badan di dalam dan di luar pengadilan.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "3d8c58f7-738b-4144-89d5-8c67ecfd8fea",
+                                            "id": "f1488f2a-39d7-45e7-ba2b-5d4019dd8ef5",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
-                                            "content": " Dalam melaksanakan tugas sebagaimana dimaksud pada\nayat (1) dan kewenangan sebagaimana dimaksud pada\nayat (2), Badan Pelaksana dapat mengangkat profesional.\n",
+                                            "content": " Dalam melaksanakan tugas sebagaimana dimaksud pada\nayat (1) dan kewenangan sebagaimana dimaksud pada\nayat (2), Badan Pelaksana dapat mengangkat profesional.\n\n(4) Ketentuan lebih lanjut mengenai pelaksanaan tugas\nBadan Pelaksana sebagaimana dimaksud pada ayat (1),\nkewenangan Badan Pelaksana sebagaimana dimaksud\npada ayat (2), dan pengangkatan profesional sebagaimana\ndimaksud pada ayat (3) diatur dalam Peraturan Kepala\nBadan Pelaksana.",
                                             "explanation": "\nYang dimaksud dengan \"profesional\" adalah ahli yang memiliki\nkeahlian di bidangnya yang dapat berasal dari warga negara\nIndonesia dan/atau warga negara asing."
-                                        },
-                                        {
-                                            "id": "8ac5c623-d38f-49d7-8f1f-00a1db98af4b",
-                                            "name": "Verse 4",
-                                            "number": "(4)",
-                                            "type": "verse",
-                                            "content": " Ketentuan lebih lanjut mengenai pelaksanaan tugas\nBadan Pelaksana sebagaimana dimaksud pada ayat (1),\nkewenangan Badan Pelaksana sebagaimana dimaksud\npada ayat (2), dan pengangkatan profesional sebagaimana\ndimaksud pada ayat (3) diatur dalam Peraturan Kepala\nBadan Pelaksana.",
-                                            "explanation": "\nCukup jelas."
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "4b003583-f266-4eb4-92b1-7aa397719e17",
+                                    "id": "a8c48a02-98b1-4e1c-bc01-cf1631fa3f31",
                                     "name": "Article 16",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "42ff63b5-beb7-4362-8899-84ac7bef2a19",
+                                            "id": "3f26c46a-ceb6-4647-9c5a-10d976ad9be2",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Kewenangan Badan Pelaksana mewakili Badan Pelaksana\ndi dalam dan di luar pengadilan sebagaimana dimaksud\ndalam Pasal 15 ayat (2) huruf f dilaksanakan oleh Kepala\nBadan Pelaksana.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "01f3f67e-cee7-4957-8e69-94d54483d8e7",
+                                            "id": "20760b4e-8830-46f1-bc15-a5cd3a608d90",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Kepala Badan Pelaksana dapat memberikan kuasa untuk\npelaksanaan kewenangan sebagaimana dimaksud pada\nayat (1) kepada anggota Badan Pelaksana lain, pegawai\nBadan, atau pihak ketiga lainnya dengan atau tanpa hak\nsubstitusi.",
                                             "explanation": "\nCukup jelas."
@@ -571,86 +547,78 @@
                                     ]
                                 },
                                 {
-                                    "id": "ea54be99-7b45-4438-b56c-ff998f485e01",
+                                    "id": "caf07d6c-1b7f-4e01-97e2-a6eddb460dcd",
                                     "name": "Article 17",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "7aa9243b-9f4c-493e-85cb-168f63cd1581",
+                                            "id": "0a755044-7344-4b6f-a251-c7750b59dcb1",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Badan Pelaksana membentuk komite yang anggotanya\nberasal dari Badan Pelaksana, pegawai Badan, dan/atau\npihak lain yang memiliki pengalaman yang diperlukan\nkomite dengan mempertimbangkan praktik terbaik\ninternasional.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "5aaa1b41-ea18-40d7-bfa9-c9f445d94998",
+                                            "id": "dcbd63ba-748c-4bc1-9ea2-e5559464751a",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Komite sebagaimana dimaksud pada ayat (1) terdiri atas:\na. komite investasi;\nb. komite manajemen risiko; dan\nc. komite operasional portofolio.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "08d83ea4-1988-48a1-a3dd-4ace37d0cc91",
+                                            "id": "1e003971-1293-44f4-b5f7-aaa923967e9d",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
-                                            "content": " Anggota komite investasi sebagaimana dimaksud pada\nayat (2) huruf a terdiri atas:\na. Kepala Badan Pelaksana;\nb. anggota Badan Pelaksana yang membidangi fungsi\ninvestasi atau pengembangan bisnis;\nc. anggota Badan Pelaksana yang membidangi fungsi\nmanajemen risiko; dan\nd. 2 (dua) orang yang berasal dari pegawai Badan\ndan/atau pihak eksternal Badan.\n",
+                                            "content": " Anggota komite investasi sebagaimana dimaksud pada\nayat (2) huruf a terdiri atas:\na. Kepala Badan Pelaksana;\nb. anggota Badan Pelaksana yang membidangi fungsi\ninvestasi atau pengembangan bisnis;\nc. anggota Badan Pelaksana yang membidangi fungsi\nmanajemen risiko; dan\nd. 2 (dua) orang yang berasal dari pegawai Badan\ndan/atau pihak eksternal Badan.\n\n(4) Anggota komite manajemen risiko sebagaimana dimaksud pada ayat (2) huruf b terdiri atas:\na. anggota Badan Pelaksana yang membidangi fungsi manajemen risiko; dan\nb. 2 (dua) orang yang berasal dari pegawai Badan dan/atau pihak eksternal Badan.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "6ab80543-a1b4-4b5d-a233-8df7796bd606",
-                                            "name": "Verse 4",
-                                            "number": "(4)",
-                                            "type": "verse",
-                                            "content": " Anggota komite manajemen risiko sebagaimana dimaksud pada ayat (2) huruf b terdiri atas:\na. anggota Badan Pelaksana yang membidangi fungsi manajemen risiko; dan\nb. 2 (dua) orang yang berasal dari pegawai Badan dan/atau pihak eksternal Badan.",
-                                            "explanation": "\nCukup jelas."
-                                        },
-                                        {
-                                            "id": "190eb9ae-3705-493f-bec7-7ec52a72579a",
+                                            "id": "de0d0a9e-c9a0-4e34-abd5-362c281eab2d",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
                                             "content": " Anggota komite operasional portofolio sebagaimana dimaksud pada ayat (2) huruf c terdiri atas:\na. anggota Badan Pelaksana yang membidangi fungsi operasional;\nb. anggota Badan Pelaksana yang membidangi fungsi manajemen risiko; dan\nc. 2 (dua) orang yang berasal dari pegawai Badan dan/atau pihak eksternal Badan.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "eeed2e15-fdff-4d46-825b-c436d733e5c6",
+                                            "id": "3ecddd44-b90f-4d02-8fa9-57c43ce9f2fd",
                                             "name": "Verse 6",
-                                            "number": "(6)",
+                                            "number": "6",
                                             "type": "verse",
                                             "content": " Dalam hal diperlukan, Badan Pelaksana dapat membentuk komite selain komite sebagaimana dimaksud pada ayat (2).",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "68fe53a5-611f-4c95-9f74-c778ff869d89",
+                                            "id": "15b88deb-9b4c-4527-922b-08bacf17c090",
                                             "name": "Verse 7",
-                                            "number": "(7)",
+                                            "number": "7",
                                             "type": "verse",
                                             "content": " Komite sebagaimana dimaksud pada ayat (2) dan ayat (6) ditetapkan dengan keputusan Kepala Badan Pelaksana.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "80470758-33f7-4c8c-aa45-050816176d83",
+                                            "id": "1e2b2c9b-5666-4a78-a36f-bcafa5e5187a",
                                             "name": "Verse 8",
-                                            "number": "(8)",
+                                            "number": "8",
                                             "type": "verse",
                                             "content": " Pembentukan komite dilaporkan oleh Badan Pelaksana kepada Dewan Pengawas setelah komite tersebut dibentuk.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "eba742be-076a-4511-9b54-ad83caa34216",
+                                            "id": "5f66e5ef-12e9-4ed0-bf5d-8690d6151eeb",
                                             "name": "Verse 9",
-                                            "number": "(9)",
+                                            "number": "9",
                                             "type": "verse",
                                             "content": " Komite sebagaimana dimaksud pada ayat (2) dan ayat (6) wajib menyampaikan laporan dan rekomendasi kepada Badan Pelaksana.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "e5b237d3-0fbf-4c59-bb3d-94d4890dcaf9",
+                                            "id": "223b29d0-48e5-4fbc-9cf1-5f493122a04e",
                                             "name": "Verse 10",
-                                            "number": "(10)",
+                                            "number": "10",
                                             "type": "verse",
                                             "content": " Tugas dan tanggung jawab komite sebagaimana dimaksud pada ayat (2) dan ayat (6) ditetapkan dalam piagam komite yang ditentukan oleh Badan Pelaksana.",
                                             "explanation": "\nCukup jelas."
@@ -660,17 +628,17 @@
                             ]
                         },
                         {
-                            "id": "a3e4ff47-625f-4641-9417-4b349c7ec97b",
+                            "id": "c30227af-00d3-43a4-8c25-894421541c18",
                             "name": "Paragraph 3",
                             "title": "\nTata Cara Pengambilan Keputusan",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "a630edd3-4904-496b-9950-a4e999881289",
+                                    "id": "957490da-5f12-462c-ba5f-12a4b5bc76cc",
                                     "name": "Article 18",
                                     "type": "article",
                                     "children": {
-                                        "id": "cf281dc0-c760-4834-8cc3-5a0b1ffdf512",
+                                        "id": "d8ed1559-19d6-41e1-8e5a-ea36b9877113",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -681,59 +649,59 @@
                             ]
                         },
                         {
-                            "id": "12f7bdd5-a852-4447-9ade-16768b59461d",
+                            "id": "bb87c1b7-7c4c-42cf-a669-497a609397b8",
                             "name": "Paragraph 4",
                             "title": "\nPengangkatan dan Pemberhentian",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "4fe83302-e9a6-4330-9a1b-a075afaaee1b",
+                                    "id": "412f9af8-70c0-4c72-81b4-c61a2feb5ce8",
                                     "name": "Article 19",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "9e6a6cd7-f3af-487d-993c-c75440bc75b1",
+                                            "id": "211acadd-47ef-4686-b993-bc23829589b7",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Untuk dapat diangkat sebagai anggota Badan Pelaksana, seseorang harus memenuhi persyaratan:\na. warga negara Indonesia;\nb. mampu melakukan perbuatan hukum;\nc. sehat jasmani dan rohani;\nd. berusia paling tinggi 70 (tujuh puluh) tahun pada saat pengangkatan pertama;\ne. bukan pengurus dan/atau anggota partai politik;\nf. memiliki pengalaman dan/atau keahlian di bidang investasi, ekonomi, keuangan, perbankan, hukum, dan/atau manajemen perusahaan;\ng. tidak pernah dipidana penjara karena melakukan tindak pidana;\nh. tidak pernah dinyatakan pailit atau tidak pernah menjadi pengurus perusahaan yang menyebabkan perusahaan tersebut pailit; dan\ni. tidak dinyatakan sebagai orang perseorangan yang tercela di bidang investasi dan bidang lain berdasarkan ketentuan peraturan perundang-undangan.",
+                                            "content": " Untuk dapat diangkat sebagai anggota Badan Pelaksana, seseorang harus memenuhi persyaratan:\n   a. warga negara Indonesia;\n   b. mampu melakukan perbuatan hukum;\n   c. sehat jasmani dan rohani;\n   d. berusia paling tinggi 70 (tujuh puluh) tahun pada saat pengangkatan pertama;\n   e. bukan pengurus dan/atau anggota partai politik;\n   f. memiliki pengalaman dan/atau keahlian di bidang investasi, ekonomi, keuangan, perbankan, hukum, dan/atau manajemen perusahaan;\n   g. tidak pernah dipidana penjara karena melakukan tindak pidana;\n   h. tidak pernah dinyatakan pailit atau tidak pernah menjadi pengurus perusahaan yang menyebabkan perusahaan tersebut pailit; dan\n   i. tidak dinyatakan sebagai orang perseorangan yang tercela di bidang investasi dan bidang lain berdasarkan ketentuan peraturan perundang-undangan.",
                                             "explanation": "\nCukup jelas.\n"
                                         },
                                         {
-                                            "id": "665f37a8-c9c2-4ded-841b-36ae82f7689a",
+                                            "id": "8fdf7367-7b62-4b7b-bd66-54ea97913359",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Anggota Badan Pelaksana dilarang saling memiliki hubungan keluarga sampai dengan derajat kedua atau besan dengan:\na. anggota Badan Pelaksana yang lain;\nb. anggota Dewan Pengawas;\nc. pegawai Badan;\nd. Direksi Holding Investasi atau Holding Operasional; dan/atau\ne. Dewan Komisaris Holding Investasi atau Holding Operasional.\n",
+                                            "content": " Anggota Badan Pelaksana dilarang saling memiliki hubungan keluarga sampai dengan derajat kedua atau besan dengan:\n   a. anggota Badan Pelaksana yang lain;\n   b. anggota Dewan Pengawas;\n   c. pegawai Badan;\n   d. Direksi Holding Investasi atau Holding Operasional; dan/atau\n   e. Dewan Komisaris Holding Investasi atau Holding Operasional.\n",
                                             "explanation": "\nCukup jelas.\n"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "f344e5ed-947b-4db5-8b21-27918681fed1",
+                                    "id": "bd4cd5fd-80f4-4477-b62e-50343a7d185c",
                                     "name": "Article 20",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "f2f56d1b-44de-410c-8bcf-d0f64bde9646",
+                                            "id": "2f4ae8f1-45a3-4c8f-a5df-5fe899f093e3",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Jabatan anggota Badan Pelaksana berakhir apabila:\na. meninggal dunia;\nb. masa jabatannya telah berakhir; atau\nc. diberhentikan oleh Presiden.",
+                                            "content": " Jabatan anggota Badan Pelaksana berakhir apabila:\n a. meninggal dunia;\n b. masa jabatannya telah berakhir; atau\n c. diberhentikan oleh Presiden.",
                                             "explanation": "\nCukup jelas."
                                         },
                                         {
-                                            "id": "fdc2c512-c691-4910-a888-ddcd4489cc08",
+                                            "id": "2dcf6e5d-f723-440a-a2ff-21b0c1847058",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Anggota Badan Pelaksana dapat diberhentikan oleh Presiden sebagaimana dimaksud pada ayat (1) huruf c dengan alasan:\na. tidak terpenuhinya salah satu persyaratan keanggotaan sebagaimana dimaksud dalam Pasal 19;\nb. pelanggaran persyaratan kerahasiaan;\nc. tidak dapat memenuhi kewajiban yang telah disepakati dalam kontrak manajemen;\nd. tidak menjalankan tugas dengan baik;\ne. melakukan tindakan yang melanggar etika dan/atau kepatutan yang seharusnya dihormati oleh Badan Pelaksana;\nf. ditetapkan sebagai tersangka dalam tindakan yang merugikan Badan, BUMN, atau keuangan negara;\ng. mengundurkan diri;\nh. tidak menjalankan tugasnya sebagai anggota Badan Pelaksana lebih dari 6 (enam) bulan meskipun dengan alasan yang dapat dipertimbangkan;\ni. berhalangan tetap; dan/atau\nj. alasan lain yang dinilai tepat oleh Presiden.",
+                                            "content": " Anggota Badan Pelaksana dapat diberhentikan oleh Presiden sebagaimana dimaksud pada ayat (1) huruf c dengan alasan:\n a. tidak terpenuhinya salah satu persyaratan keanggotaan sebagaimana dimaksud dalam Pasal 19;\n b. pelanggaran persyaratan kerahasiaan;\n c. tidak dapat memenuhi kewajiban yang telah disepakati dalam kontrak manajemen;\n d. tidak menjalankan tugas dengan baik;\n e. melakukan tindakan yang melanggar etika dan/atau kepatutan yang seharusnya dihormati oleh Badan Pelaksana;\n f. ditetapkan sebagai tersangka dalam tindakan yang merugikan Badan, BUMN, atau keuangan negara;\n g. mengundurkan diri;\n h. tidak menjalankan tugasnya sebagai anggota Badan Pelaksana lebih dari 6 (enam) bulan meskipun dengan alasan yang dapat dipertimbangkan;\n i. berhalangan tetap; dan/atau\n j. alasan lain yang dinilai tepat oleh Presiden.",
                                             "explanation": "\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nHuruf g\nCukup jelas.\nHuruf h\nTidak menjalankan tugasnya sebagai anggota Badan Pelaksana\nmeskipun dengan alasan yang dapat dipertimbangkan, tidak\ntermasuk alasan sakit.\nHuruf i\nCukup jelas.\nHuruf j\nCukup jelas."
                                         },
                                         {
-                                            "id": "a80e3ba7-ce27-40c4-ab21-24e0b72c4945",
+                                            "id": "2ad1c2ba-b354-4837-9a0f-c934414b9574",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Dalam hal anggota Badan Pelaksana berhenti atau diberhentikan dalam masa jabatan, Presiden mengangkat pengganti untuk sisa masa jabatan anggota Badan Pelaksana yang digantikannya.",
                                             "explanation": "\nCukup jelas."
@@ -741,64 +709,64 @@
                                     ]
                                 },
                                 {
-                                    "id": "870989a8-e0c9-4bf9-9b33-fdd99f75e589",
+                                    "id": "6a9e81e4-5858-4268-b68e-fe27d0bfa4ca",
                                     "name": "Article 21",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "5edca87c-5fe8-4235-90f6-0c8279d4f88a",
+                                            "id": "52b952e6-f75d-4b35-934b-d8da24bca214",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Anggota Badan Pelaksana dapat diberhentikan sementara oleh Dewan Pengawas dengan persetujuan Presiden sebagaimana dimaksud dalam Pasal 7 ayat (2) huruf h.",
                                             "explanation": "\nCukup jelas.\n"
                                         },
                                         {
-                                            "id": "bc8ebd41-5db5-405b-92a1-cde425636a4d",
+                                            "id": "4afa4da0-4248-4754-a4f2-f66b3c20eeae",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Pemberhentian sementara anggota Badan Pelaksana\nsebagaimana dimaksud pada ayat (1) dapat dilakukan\ndalam hal anggota Badan Pelaksana:\na. terindikasi melanggar etika dan/atau kepatutan\ndimana pelanggaran tersebut sedang dalam proses\npemeriksaan oleh Dewan Pengawas; atau\nb. mengalami gangguan kesehatan dan/atau sedang\ndalam proses pengobatan lebih dari 6 (enam) bulan\nyang membutuhkan penanganan khusus sehingga\ndapat menyebabkan terganggunya pengurusan\nBadan.",
+                                            "content": " Pemberhentian\n(2) Pemberhentian sementara anggota Badan Pelaksana\nsebagaimana dimaksud pada ayat (1) dapat dilakukan\ndalam hal anggota Badan Pelaksana:\na. terindikasi melanggar etika dan/atau kepatutan\ndimana pelanggaran tersebut sedang dalam proses\npemeriksaan oleh Dewan Pengawas; atau\nb. mengalami gangguan kesehatan dan/atau sedang\ndalam proses pengobatan lebih dari 6 (enam) bulan\nyang membutuhkan penanganan khusus sehingga\ndapat menyebabkan terganggunya pengurusan\nBadan.",
                                             "explanation": "\nCukup jelas.\n"
                                         },
                                         {
-                                            "id": "74edd018-9c86-4d5a-865b-f2da317d7f06",
+                                            "id": "51bbabdb-edf8-4e88-8ba2-957f2c572206",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Pemberhentian sementara sebagaimana dimaksud pada\nayat (1) diberitahukan secara tertulis kepada anggota\nBadan Pelaksana yang bersangkutan.",
                                             "explanation": "\nCukup jelas.\n"
                                         },
                                         {
-                                            "id": "ae01957a-8350-4524-b7a9-c54d3a8d2a56",
+                                            "id": "bf1aedfa-4817-433a-8994-78ced4760702",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Anggota Badan Pelaksana yang diberhentikan sementara\nsebagaimana dimaksud pada ayat (1) tidak berwenang\nmelaksanakan tugas sebagai anggota Badan Pelaksana.",
                                             "explanation": "\nCukup jelas.\n"
                                         },
                                         {
-                                            "id": "dd95c949-ca58-4cab-9cb1-5a5b18f1b289",
+                                            "id": "af6bfeb0-93ec-4d3f-82e8-532a8a0347e5",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
                                             "content": " Setelah anggota Badan Pelaksana yang diberhentikan\nsementara:\na. dinyatakan tidak terbukti melakukan pelanggaran\netika dan/atau kepatutan berdasarkan pemeriksaan\noleh Dewan Pengawas; atau\nb. dalam jangka waktu kurang dari 6 (enam) bulan\nsejak diberhentikan sementara, dinyatakan pulih\natas gangguan kesehatan dan/atau tidak lagi sedang\ndalam proses pengobatan yang membutuhkan\npenanganan khusus,\nanggota Badan Pelaksana dimaksud diaktifkan kembali\noleh Dewan Pengawas dan kembali berwenang\nmelaksanakan tugasnya.",
                                             "explanation": "\nCukup jelas.\n"
                                         },
                                         {
-                                            "id": "e0371fb4-123c-4e67-b4d2-ab6540924121",
+                                            "id": "fd01f2e9-f5bb-40f9-8696-8166afc1faf0",
                                             "name": "Verse 6",
-                                            "number": "(6)",
+                                            "number": "6",
                                             "type": "verse",
                                             "content": " Dalam hal anggota Badan Pelaksana diberhentikan\nsementara sebagaimana dimaksud pada ayat (1), Dewan\nPengawas memohon kepada Presiden untuk\nmenggantikan anggota Badan Pelaksana yang\ndiberhentikan sementara dengan anggota Badan\nPelaksana lainnya.",
                                             "explanation": "\nCukup jelas.\n"
                                         },
                                         {
-                                            "id": "f025248c-bc49-4d90-94c4-88d40d4fc7fc",
+                                            "id": "9615e14e-9101-4246-8f87-a0e9c83bcd3e",
                                             "name": "Verse 7",
-                                            "number": "(7)",
+                                            "number": "7",
                                             "type": "verse",
-                                            "content": " Jangka waktu pelaksanaan tugas anggota Badan\nPelaksana yang diaktifkan kembali setelah\ndilaksanakannya pemberhentian sementara sebagaimana\ndimaksud pada ayat (5), meneruskan jangka waktu\npelaksanaan tugas yang telah ditetapkan sebelumnya.",
+                                            "content": " Jangka waktu pelaksanaan tugas anggota Badan\nPelaksana yang diaktifkan kembali setelah\ndilaksanakannya pemberhentian sementara sebagaimana\ndimaksud pada ayat (5), meneruskan jangka waktu\npelaksanaan tugas yang telah ditetapkan sebelumnya.\n",
                                             "explanation": "\nCukup jelas.\n"
                                         }
                                     ]
@@ -810,44 +778,44 @@
             ]
         },
         {
-            "id": "7d0c3917-5a14-4858-8de4-647092a22c1f",
+            "id": "84910ba2-7001-4bbb-b1bc-2908189b017d",
             "name": "Chapter V",
             "title": "\nPEGAWAI",
             "type": "chapter",
             "children": [
                 {
-                    "id": "4b02a08d-66a9-428c-956b-f6f04a2f0b18",
+                    "id": "a4ac0c48-dbde-4b55-ac42-e207dd4d3276",
                     "name": "Article 22",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e2987fad-e101-45f4-85bf-f5dba7c6434c",
+                            "id": "a528308f-dd91-4608-bfe0-38014b75d08e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pegawai Badan merupakan pekerja yang pengangkatan, pemberhentian, kedudukan, hak dan kewajibannya ditetapkan berdasarkan perjanjian kerja bersama sesuai dengan ketentuan peraturan perundang-undangan di bidang ketenagakerjaan.",
-                            "explanation": "\nDengan status kepegawaian Badan sesuai dengan ketentuan peraturan perundang-undangan di bidang ketenagakerjaan, maka bagi Badan tidak berlaku ketentuan yang berlaku bagi Aparatur Sipil Negara.\nPerjanjian kerja bersama dimaksud dibuat antara pegawai Badan dengan pemberi kerja yaitu manajemen Badan."
+                            "explanation": "\nDengan status kepegawaian Badan sesuai dengan ketentuan\nperaturan perundang-undangan di bidang ketenagakerjaan, maka\nbagi Badan tidak berlaku ketentuan yang berlaku bagi Aparatur\nSipil Negara.\nPerjanjian kerja bersama dimaksud dibuat antara pegawai Badan\ndengan pemberi kerja yaitu manajemen Badan."
                         },
                         {
-                            "id": "2af846a9-d032-47e4-a855-23699c8380ca",
+                            "id": "d3189b94-8050-40b2-a382-27434cdb2a7f",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Proses seleksi pegawai Badan dapat dilakukan secara terbuka, tertutup, atau keduanya, dengan tetap memperhatikan profesionalisme.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "a867a5d1-a9f0-47d7-b5e2-7711fd83b43a",
+                            "id": "ddf3ad1f-c30d-4ea8-be77-c278129a772d",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Ketentuan lebih lanjut mengenai proses seleksi sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Kepala Badan Pelaksana.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "7f49f580-5f00-4c5f-92c4-f9f56f361575",
+                            "id": "7b2d3269-1fe8-4c72-9108-f218f530672d",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Pegawai Badan dilarang saling memiliki hubungan keluarga sampai dengan derajat kedua atau besan dengan:\na. anggota Dewan Pengawas;\nb. anggota Badan Pelaksana;\nc. pegawai Badan;\nd. Direksi Holding Investasi atau Holding Operasional; atau\ne. Dewan Komisaris Holding Investasi atau Holding Operasional.",
                             "explanation": "\nCukup jelas."
@@ -857,52 +825,44 @@
             ]
         },
         {
-            "id": "e7aced98-61d8-4d85-a7a4-51df654620c5",
+            "id": "fe1488ea-27c5-47b0-a05a-18c6f1a5fe8c",
             "name": "Chapter VI",
             "title": "\nDEWAN PENASIHAT",
             "type": "chapter",
             "children": [
                 {
-                    "id": "b8cf7542-f0ae-477d-a304-313901ee98ac",
+                    "id": "0eed719d-846f-420c-806d-abe35103f960",
                     "name": "Article 23",
                     "type": "article",
                     "children": [
                         {
-                            "id": "196d3544-953e-4709-9b8f-dc350e03ebab",
+                            "id": "10aa5857-dd0e-4d02-8009-22b5ea03ab6f",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Presiden membentuk Dewan Penasihat.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "f77648a3-bf5f-49e4-9dc1-df4a03bcb343",
+                            "id": "b0cbac8c-3832-4dc5-a60b-1e06a90d8ac8",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dewan Penasihat sebagaimana dimaksud pada ayat (1) bertugas memberikan masukan dan saran kepada Badan.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "a5e40f71-5681-4ceb-9580-058c5c9400db",
+                            "id": "4e42c1a6-18b3-4b46-be37-3610e0cf03da",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Anggota Dewan Penasihat diangkat dan diberhentikan oleh Presiden.\n",
+                            "content": " Anggota Dewan Penasihat diangkat dan diberhentikan oleh Presiden.\n\n(4) Dalam hal diperlukan, Dewan Penasihat dibantu oleh sekretariat.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "07a3bb12-d7dc-4677-bc27-760d5ba46ae6",
-                            "name": "Verse 4",
-                            "number": "(4)",
-                            "type": "verse",
-                            "content": " Dalam hal diperlukan, Dewan Penasihat dibantu oleh sekretariat.",
-                            "explanation": "\nCukup jelas."
-                        },
-                        {
-                            "id": "0822c6fe-acc3-4c79-8d76-09e25ce0bb5b",
+                            "id": "57a17e14-e39e-469e-a14c-44ef34e3340b",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Ketentuan lebih lanjut mengenai pembentukan, tugas, pengangkatan, pemberhentian, dan sekretariat Dewan Penasihat diatur dengan Peraturan Presiden.",
                             "explanation": "\nCukup jelas."
@@ -912,28 +872,28 @@
             ]
         },
         {
-            "id": "e5ce2479-f4e2-4f52-8289-1080f3d58660",
+            "id": "b4fd3119-c133-4cd4-aa8a-087a71373198",
             "name": "Chapter VII",
             "title": "\nKOMITE PEMANTAU DAN AKUNTABILITAS (OVERSIGHT AND ACCOUNTABILITY COMMITEE)",
             "type": "chapter",
             "children": [
                 {
-                    "id": "d9b49763-fba0-4526-b234-feec9bd5a63e",
+                    "id": "3a3fcaf0-6b21-40cc-aaab-d3b080f0e549",
                     "name": "Article 24",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bdca5148-f35d-4a4e-a6f7-0773a1e25873",
+                            "id": "0ea01bb4-bf99-431d-aba9-f0deea277436",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Presiden dapat membentuk Komite Pemantau dan Akuntabilitas (Oversight and Accountability Commitee).",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "294b27b1-61c9-41af-a0af-8848fa9dda6c",
+                            "id": "6ac9e937-176b-40af-bc96-f095d96abcd5",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Ketentuan mengenai pembentukan, tugas, fungsi, dan wewenang Komite Pemantau dan Akuntabilitas (Oversight and Accountability Commitee) sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Presiden.",
                             "explanation": "\nCukup jelas."
@@ -943,78 +903,78 @@
             ]
         },
         {
-            "id": "9da8aab2-7743-47fd-a3a3-d15a44bde58d",
+            "id": "ff50d08b-460d-4b01-9f67-3f8c0b7fea1c",
             "name": "Chapter VIII",
             "title": "\nTATA KELOLA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "faf32ff2-8c6d-4096-b761-2aaa7a916f47",
+                    "id": "c94c9dcc-6a05-4a39-ad83-4541ff82a749",
                     "name": "Section First",
                     "title": "\nKebijakan Dasar Tata Kelola",
                     "type": "section",
                     "children": [
                         {
-                            "id": "fb73e432-3e65-4ad0-8ef1-071a3722879f",
+                            "id": "df7f21ec-6374-4c06-8c10-8a3b49fa9b13",
                             "name": "Article 25",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "0692f94f-8af2-4aaa-99d7-483779fe95ad",
+                                    "id": "70b86b6d-25e9-4c83-81a7-e3d82ede4807",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Dalam melakukan pengelolaan Badan, Badan Pelaksana harus memastikan pelaksanaan penerapan tata kelola perusahaan yang baik di lingkungan Badan.",
-                                    "explanation": "\nYang dimaksud dengan \"tata kelola perusahaan yang baik\" adalah struktur dan proses yang digunakan dan diterapkan organ perusahaan untuk meningkatkan pencapaian sasaran hasil usaha dan mengoptimalkan nilai perusahaan bagi seluruh pemangku kepentingan secara akuntabel dan berlandaskan peraturan perundang-undangan serta nilai-nilai etika."
+                                    "explanation": "\nYang dimaksud dengan \"tata kelola perusahaan yang baik\" adalah\nstruktur dan proses yang digunakan dan diterapkan organ\nperusahaan untuk meningkatkan pencapaian sasaran hasil usaha\ndan mengoptimalkan nilai perusahaan bagi seluruh pemangku\nkepentingan secara akuntabel dan berlandaskan peraturan\nperundang-undangan serta nilai-nilai etika."
                                 },
                                 {
-                                    "id": "f974f62c-027a-4b2e-a09f-bd1c2453fcba",
+                                    "id": "c6ff7e46-a3c1-41f3-995e-e9f3f897076f",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Ketentuan mengenai pelaksanaan penerapan tata kelola perusahaan yang baik pada Badan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Kepala Badan Pelaksana.",
-                                    "explanation": "\nPeraturan Kepala Badan Pelaksana paling sedikit mengatur mengenai pengelolaan dividen BUMN, penerapan manajemen risiko, kepatuhan, sumber daya manusia, keuangan, hukum, sistem informasi, audit, pengadaan barang dan jasa, dan rencana kerja."
+                                    "explanation": "\nPeraturan Kepala Badan Pelaksana paling sedikit mengatur\nmengenai pengelolaan dividen BUMN, penerapan manajemen risiko,\nkepatuhan, sumber daya manusia, keuangan, hukum, sistem\ninformasi, audit, pengadaan barang dan jasa, dan rencana kerja."
                                 }
                             ]
                         },
                         {
-                            "id": "db80fca5-1253-412d-b18b-b17b66a8b142",
+                            "id": "da06a7b3-3c7b-43fc-878c-6c21dbae23dc",
                             "name": "Article 26",
                             "type": "article",
                             "children": {
-                                "id": "c497e2ee-8b11-4f2a-a8cc-54cfe11dbe40",
+                                "id": "60bdd1eb-f54c-4456-a71b-aceb052dc1e8",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nDewan Pengawas dan Badan Pelaksana menyusun piagam tata kelola antara Dewan Pengawas dan Badan Pelaksana (board manual).\nBagian . . .",
+                                "content": "\nDewan Pengawas dan Badan Pelaksana menyusun piagam tata kelola antara Dewan Pengawas dan Badan Pelaksana (board manual).\n",
                                 "explanation": "\nCukup jelas."
                             }
                         }
                     ]
                 },
                 {
-                    "id": "baab35ce-f0cf-439a-bf9e-93324fb51b4b",
+                    "id": "392b8a16-65e4-4c6d-83f3-4e39bb2972c1",
                     "name": "Section Second",
                     "title": "\nBenturan Kepentingan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "135e92fd-f186-4557-9fd4-1cfd36e3bb87",
+                            "id": "9334e3f9-404c-47a9-98d6-0b0912eecb6e",
                             "name": "Article 27",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "b04a1cd5-c12a-4cf8-92f3-06ba3ccd694f",
+                                    "id": "1069b687-2db5-4f88-9f09-b029eba05a75",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Dalam hal ketua dan anggota Dewan Pengawas, kepala dan anggota Badan Pelaksana, ketua dan anggota Dewan Penasihat, serta anggota Komite Pemantau dan Akuntabilitas (Oversight and Accountability Commitee) mempunyai kepentingan pribadi, baik langsung maupun tidak langsung, yang dapat menimbulkan benturan kepentingan dengan objek yang akan diputuskan oleh Dewan Pengawas dan Badan Pelaksana, yang bersangkutan harus mengungkapkan benturan kepentingan tersebut.",
                                     "explanation": "\nCukup jelas.\n"
                                 },
                                 {
-                                    "id": "9e89897c-27af-48e9-9016-0b3f6d78be88",
+                                    "id": "af973043-4aca-4dfa-9207-9e43dbe90001",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Ketua dan anggota Dewan Pengawas serta kepala dan anggota Badan Pelaksana sebagaimana dimaksud pada ayat (1) dilarang terlibat dalam pengambilan keputusan.",
                                     "explanation": "\nCukup jelas.\n"
@@ -1024,44 +984,36 @@
                     ]
                 },
                 {
-                    "id": "9601260d-4c10-4ef5-9b0f-816bad42cf11",
+                    "id": "57c6c66b-eee6-4cb6-bd88-0dee72e69bbc",
                     "name": "Section Third",
                     "title": "\nBantuan Hukum",
                     "type": "section",
                     "children": [
                         {
-                            "id": "efbd869a-00a7-40dc-a158-a0b91c2e3ab4",
+                            "id": "ae01bc80-06d0-479f-9322-bc80cc9108d1",
                             "name": "Article 28",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "b05676e8-6090-4f8c-9ff4-15fe630d8164",
+                                    "id": "a8c35c84-3ab1-4131-b05f-23c725b95d3a",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Badan memberikan bantuan hukum kepada:\na. ketua dan anggota Dewan Pengawas;\nb. kepala dan anggota Badan Pelaksana;\nc. pegawai Badan;\nd. mantan ketua dan anggota Dewan Pengawas;\ne. mantan kepala dan anggota Badan Pelaksana; dan\nf. mantan pegawai Badan,\natas tuntutan pidana dan/atau gugatan perdata yang dapat menimbulkan kewajiban dan/atau akibat hukum, sepanjang tuntutan pidana dan/atau gugatan perdata merupakan akibat dari pelaksanaan tugas dan wewenang yang dilakukan dengan iktikad baik.",
+                                    "content": " Badan memberikan bantuan hukum kepada:\na. ketua dan anggota Dewan Pengawas;\nb. kepala dan anggota Badan Pelaksana;\nc. pegawai Badan;\nd. mantan ketua dan anggota Dewan Pengawas;\ne. mantan kepala dan anggota Badan Pelaksana; dan\nf. mantan pegawai Badan,\natas tuntutan pidana dan/atau gugatan perdata yang dapat menimbulkan kewajiban dan/atau akibat hukum, sepanjang tuntutan pidana dan/atau gugatan perdata merupakan akibat dari pelaksanaan tugas dan wewenang yang dilakukan dengan iktikad baik.\n\n(2) Bantuan hukum sebagaimana dimaksud pada ayat (1)\ndiberikan dengan memperhatikan prinsip kewajaran,\ntransparansi, dan akuntabilitas.",
                                     "explanation": "\nCukup jelas."
                                 },
                                 {
-                                    "id": "0f220841-d369-442c-82f0-9754d05ff489",
-                                    "name": "Verse 2",
-                                    "number": "(2)",
-                                    "type": "verse",
-                                    "content": " Bantuan hukum sebagaimana dimaksud pada ayat (1)\ndiberikan dengan memperhatikan prinsip kewajaran,\ntransparansi, dan akuntabilitas.",
-                                    "explanation": "\nCukup jelas."
-                                },
-                                {
-                                    "id": "f2405b2f-f9ee-483f-918c-e10822f56a67",
+                                    "id": "86bd82b2-f873-489f-869e-aed57ee36267",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Dalam hal berdasarkan putusan pengadilan yang telah\nmemperoleh kekuatan hukum tetap:\na. ketua dan anggota Dewan Pengawas;\nb. kepala dan anggota Badan Pelaksana;\nc. pegawai Badan;\nd. mantan ketua dan anggota Dewan Pengawas;\ne. mantan kepala dan anggota Badan Pelaksana; dan\nf. mantan pegawai Badan,\ndiwajibkan untuk membayar ganti rugi kepada pihak lain\nsehubungan dengan pelaksanaan tugas dan\nkewenangannya di Badan, Badan membayar ganti rugi\ndimaksud apabila:\na. kerugian tersebut bukan karena kesalahan atau\nkelalaiannya;\nb. telah melakukan pengurusan dengan iktikad baik dan\nkehati-hatian sesuai dengan maksud dan tujuan\ninvestasi dan tata kelola;\nc. tidak memiliki benturan kepentingan, baik langsung\nmaupun tidak langsung atas tindakan pengelolaan\ninvestasi; dan\nd. tidak memperoleh keuntungan pribadi secara tidak\nsah.",
+                                    "content": " Dalam hal berdasarkan putusan pengadilan yang telah\nmemperoleh kekuatan hukum tetap:\na. ketua dan anggota Dewan Pengawas;\nb. kepala dan anggota Badan Pelaksana;\nc. pegawai Badan;\nd. mantan ketua dan anggota Dewan Pengawas;\ne. mantan kepala dan anggota Badan Pelaksana; dan\nf. mantan pegawai Badan,\ndiwajibkan untuk membayar ganti rugi kepada pihak lain\nsehubungan dengan pelaksanaan tugas dan\nkewenangannya di Badan, Badan membayar ganti rugi\ndimaksud apabila:\na. kerugian tersebut bukan karena kesalahan atau\nkelalaiannya;\nb. telah melakukan pengurusan dengan iktikad baik dan\nkehati-hatian sesuai dengan maksud dan tujuan\ninvestasi dan tata kelola;\nc.\ntidak memiliki benturan kepentingan, baik langsung\nmaupun tidak langsung atas tindakan pengelolaan\ninvestasi; dan\nd. tidak memperoleh keuntungan pribadi secara tidak\nsah.",
                                     "explanation": "\nCukup jelas."
                                 },
                                 {
-                                    "id": "5af5834d-2bf3-430f-8472-b1cc67c35d17",
+                                    "id": "39e0505b-d72c-47bd-9547-462b1f4b21c4",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Ketentuan lebih lanjut mengenai bantuan hukum\nsebagaimana dimaksud pada ayat (1) dan pembayaran\nganti rugi sebagaimana dimaksud pada ayat (3) diatur\ndalam Peraturan Kepala Badan Pelaksana.\nBagian",
                                     "explanation": "\nCukup jelas."
@@ -1071,36 +1023,36 @@
                     ]
                 },
                 {
-                    "id": "b821aa4e-273c-406a-9089-f5289bd9ddd4",
+                    "id": "907f7b38-b4e7-4d80-be52-0a9c2b47756a",
                     "name": "Section Fourth",
                     "title": "\nRemunerasi",
                     "type": "section",
                     "children": [
                         {
-                            "id": "9a6c25f9-b004-4d2e-8c37-d92556885867",
+                            "id": "a3555d0c-1e67-4f49-b15e-cd5828e3fe70",
                             "name": "Article 29",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "3c55878e-c818-4a3e-aedc-49a2865dc2f0",
+                                    "id": "8635a2d7-e9ab-46d2-bc09-fa77de84f5ee",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Dewan Pengawas dan Badan Pelaksana berhak atas\nremunerasi sesuai dengan tugas, wewenang, dan tanggung\njawabnya.",
                                     "explanation": "\nSistem remunerasi yang diberlakukan mempertimbangkan sistem\nremunerasi yang berlaku pada Holding Operasional, Holding\nInvestasi, serta lembaga sejenis di negara lain."
                                 },
                                 {
-                                    "id": "de26df94-a634-44db-8a12-53d9a43b76fd",
+                                    "id": "8edb5d48-fdd4-4aa4-bdd4-9232bdb3f594",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Dewan Penasihat, Komite Pemantau dan Akuntabilitas\n(Oversight and Accountability Commitee), anggota\nsekretariat dan komite yang dibentuk Dewan Pengawas,\nkomite yang dibentuk Badan Pelaksana, pegawai Badan,\ndan profesional yang diangkat oleh Badan Pelaksana,\nberhak atas remunerasi.",
                                     "explanation": "\nCukup jelas."
                                 },
                                 {
-                                    "id": "b3c385c5-64f4-42a0-9420-7ce377ab3a34",
+                                    "id": "eebba38b-8688-4390-b244-bc1bcf282145",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Ketentuan mengenai tata kelola pengusulan remunerasi\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur\ndalam Peraturan Kepala Badan Pelaksana.",
                                     "explanation": "\nCukup jelas."
@@ -1112,28 +1064,28 @@
             ]
         },
         {
-            "id": "fbfcaa63-b8d0-46d1-b2fe-930e9fc1a6b7",
+            "id": "3401d804-3761-45e6-adfa-ef81aab63291",
             "name": "Chapter IX",
             "title": "\nHUBUNGAN DENGAN LEMBAGA LAIN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "3061c751-44ac-43a9-87f8-b564d5a987e5",
+                    "id": "49530fab-7bf2-4a9d-a38f-6d6482180c03",
                     "name": "Article 30",
                     "type": "article",
                     "children": [
                         {
-                            "id": "13771b0a-5f09-46c2-90af-9e402bdd3683",
+                            "id": "d0d4ffd1-e20e-4bc1-b64f-996444b3cf0e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam melaksanakan tugas pengelolaan BUMN, Badan\nmelakukan koordinasi dengan kementerian dan lembaga\nterkait.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "ffa5dcdc-e2a1-4714-9c5a-e8bc436bf43f",
+                            "id": "41400ab8-c476-45ec-b786-bf15a8365632",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dalam melaksanakan tugas pengelolaan BUMN, Badan\ndapat bekerja sama dengan organisasi atau lembaga dalam\nnegeri dan luar negeri.",
                             "explanation": "\nCukup jelas."
@@ -1143,28 +1095,28 @@
             ]
         },
         {
-            "id": "5a663e80-576e-4cf2-9d3d-2ff5f032acbc",
+            "id": "875f8993-a2ea-4f2e-8fe0-34d3dc7a3eb6",
             "name": "Chapter X",
             "title": "\nKETENTUAN LAIN-LAIN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e0c690fa-1a10-472f-80ae-7d3e2efce035",
+                    "id": "b789ff2f-6983-4fbd-b115-5494f55bf63a",
                     "name": "Article 31",
                     "type": "article",
                     "children": [
                         {
-                            "id": "929b2e78-b86a-4190-bf15-cedd537cfa7e",
+                            "id": "e217d2d6-0720-4aa5-9b34-2a0a8ae4093c",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam rangka pemenuhan anggaran pada saat awal\npembentukan, Badan dapat:\n\na. melakukan pinjaman; dan/atau\nb. menerima hibah.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "2685d899-f327-49b0-8168-6bc365afc55f",
+                            "id": "2361cfbf-1676-48be-856d-04b79c8e8da8",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Anggaran Badan sebagaimana dimaksud pada ayat (1)\ndigunakan untuk membiayai kegiatan operasional,\nadministratif, pengadaan barang dan jasa, serta kegiatan\npendukung lainnya.",
                             "explanation": "\nCukup jelas."
@@ -1174,17 +1126,17 @@
             ]
         },
         {
-            "id": "6bad9544-a59b-43b9-b4ac-2455eacddadf",
+            "id": "8324fa05-7434-4671-9e62-b41e83438e1d",
             "name": "Chapter XI",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e95f3289-6093-4470-8387-239bc16202fa",
+                    "id": "b727235e-e887-4d68-b5e7-d825ba2b59e3",
                     "name": "Article 32",
                     "type": "article",
                     "children": {
-                        "id": "88f6305b-180d-4c6b-9f20-c739193e5407",
+                        "id": "27b4da30-4efa-45c8-85f5-0173be101a41",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1195,17 +1147,17 @@
             ]
         },
         {
-            "id": "6fc92603-e3cb-4257-a436-199a4bbeee9f",
+            "id": "2b9f74ec-bb0d-4466-807d-068991e92c3c",
             "name": "Chapter XII",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "1549552f-eaad-4fda-b43d-7ae7fbadc6a9",
+                    "id": "1a649c9f-aecf-46c6-9135-54e439d7be8b",
                     "name": "Article 33",
                     "type": "article",
                     "children": {
-                        "id": "1d7b76ef-210f-4f77-9f9f-7035de8c1df1",
+                        "id": "8c027db1-5dc6-44c2-a7e7-dcb8831700d4",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1214,11 +1166,11 @@
                     }
                 },
                 {
-                    "id": "199af064-8678-4398-9813-57d64424ae09",
+                    "id": "6e5146e4-e272-4d38-a680-6b7ac36372b8",
                     "name": "Article 34",
                     "type": "article",
                     "children": {
-                        "id": "fc3cbdb1-2a5d-414c-9d8a-0c74d0bc231f",
+                        "id": "f2c88863-d8f3-416e-9878-dbb7b8a01949",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1242,7 +1194,7 @@
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
             "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 70, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4297) sebagaimana\ntelah beberapa kali diubah terakhir dengan Undang-\nUndang Nomor 1 Tahun 2025 tentang Perubahan Ketiga\natas Undang-Undang Nomor 19 Tahun 2003 tentang\nBadan Usaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2025 Nomor 25, Tambahan Lembaran\nNegara Republik Indonesia Nomor 7097);"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang Organisasi dan\nTata Kelola Badan Pengelola Investasi Daya Anagata\nNusantara;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 70, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4297) sebagaimana\ntelah beberapa kali diubah terakhir dengan Undang-\nUndang Nomor 1 Tahun 2025 tentang Perubahan Ketiga\natas Undang-Undang Nomor 19 Tahun 2003 tentang\nBadan Usaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2025 Nomor 25, Tambahan Lembaran\nNegara Republik Indonesia Nomor 7097);\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG ORGANISASI DAN TATA KELOLA BADAN PENGELOLA INVESTASI DAYA ANAGATA NUSANTARA.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang Organisasi dan\nTata Kelola Badan Pengelola Investasi Daya Anagata\nNusantara;\nMengingat \n1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 70, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4297) sebagaimana\ntelah beberapa kali diubah terakhir dengan Undang-\nUndang Nomor 1 Tahun 2025 tentang Perubahan Ketiga\natas Undang-Undang Nomor 19 Tahun 2003 tentang\nBadan Usaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2025 Nomor 25, Tambahan Lembaran\nNegara Republik Indonesia Nomor 7097);\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG ORGANISASI DAN\nTATA KELOLA BADAN PENGELOLA INVESTASI DAYA\nANAGATA NUSANTARA.",
         "tanggal sah": "24 Februari 2025"
     }
 }

@@ -1,0 +1,45 @@
+{
+    "results": [
+        {
+            "id": "ad964d39-6854-41b2-b0f1-5c14e681fae8",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "1dbe1277-707a-4af4-8eca-5a3a11eec2e2",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Kekuasaan \"Hoofd van gewestelijk bestuur\" tersebut dalam\npasal-pasal 56, 57 dan 60 \"Staatsblad\" 1932-80 diberikan :\na. untuk Karesidenan Bengkulu kepada Ketua Pengadilan Negeri di\nBengkulu,\nb. untuk Karesidenan Palembang kepada Pengadilan Rapat Tinggi di\nPalembang.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "dcdf62c8-418b-4c9a-a1c5-3a4876f6e208",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "3d14bf70-a3ff-4db7-a232-452b0ffa1cef",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan\ndan berlaku surut sampai tanggal 29 Mei 1953.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "16",
+        "Tahun": "1955",
+        "Tentang": "PEMINDAHAN KEKUASAAN \"HOOFD VAN GEWESTELIJK BESTUUR\"\nDALAM PERADILAN ASLI",
+        "Menimbang": {
+            "Introduction": "\nbahwa sebaiknya kekuasaan-kekuasaan yang oleh pasal-pasal 56, 57\ndan 60 \"Staatsblad\" 1932-80 diberikan kepada Residen diserahkan ",
+            "a": " untuk Karesidenan Bengkulu kepada Ketua Pengadilan Negeri di\nBengkulu, dan",
+            "b": " untuk Karesidenan Palembang kepada Pengadilan Rapat Tinggi di\nPalembang;"
+        },
+        "Mengingat": {
+            "Introduction": "\npasal 98 Undang-undang Dasar Sementara Republik Indonesia jo. 59\n'Staatsblad\" 1932-80 dan 142 Undang-undang Dasar Republik\nIndonesia;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PEMINDAHAN KEKUASAAN \"HOOFD VAN\nGEWESTELIJK BESTUUR\" DALAM PERADILAN ASLI",
+        "tanggal sah": "29 Mei 1953"
+    }
+}

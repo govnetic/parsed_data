@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "844f0a99-25a8-45c8-a10b-ce78ecd38ed7",
+            "id": "93359c13-db11-4391-9838-05aea8827f9b",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "cf3af741-c1ff-4254-b4de-9407be55bdd5",
+                "id": "6a6c3a72-7d61-4bcb-95a8-58406d5b8e6d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "44300214-6688-44dc-b402-c91c31935a2a",
+            "id": "0efa8c04-158e-457c-a8bb-7c2d6b8132e7",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "d444fa1e-115c-4e29-8ff4-2eda0ba80b4f",
+                "id": "64bd305f-4727-4bdb-b144-cea7d6578517",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,24 +27,24 @@
             }
         },
         {
-            "id": "9b3df422-37cc-4974-9561-126e44ef4f9d",
+            "id": "c2886d38-97d2-4605-b582-87a1b6a69dfd",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "2d6db4a7-71e5-4072-8465-8db1662a32dd",
+                "id": "635c4edc-7f53-407a-bca0-55f8dd3ff39b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "1. Kantor Cabang hanya diadakan selama pemilihan berjalan.\n2. Pegawai-pegawai Kantor Cabang terdiri dari pegawai-pegawai kantor\npemerintahan daerah yang ada panitia Pemilihan Dewan Perwakilan Rakyat\nCabang.\n3. Pegawai-pegawai itu diperbantukan pada kantor cabang tersebut atas perintah\nkepala daerah yang bersangkutan untuk waktu yang dimaksudkan dalam ayat 1.",
+                "content": "1. Kantor Cabang hanya diadakan selama pemilihan berjalan.\n2. Pegawai-pegawai Kantor Cabang terdiri dari pegawai-pegawai kantor\npemerintahan daerah yang ada panitia Pemilihan Dewan Perwakilan Rakyat\nCabang.\n3. Pegawai-pegawai itu diperbantukan pada kantor cabang tersebut atas perintah\n    kepala daerah yang bersangkutan untuk waktu yang dimaksudkan dalam ayat 1.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "b0c55589-1492-4ef7-868b-e13436af99be",
+            "id": "92060202-b8ab-4846-929f-3c8c4f5ed4e1",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "da59b806-0b38-4c39-8b29-648150b20629",
+                "id": "ac748ef0-e1ac-4c14-9752-7b6788c0b0b4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "84a8ff94-dbb8-47c5-82e4-34f6133f9563",
+            "id": "9f89056d-093d-48de-83fe-6f8a85f10f2e",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "6bc15613-3148-487d-be59-4744f0521b94",
+                "id": "c2e36c36-1c61-41a1-b66b-da103f6468ec",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "a3d5db5f-730e-400e-a1a4-31c144650b64",
+            "id": "ff7f1b09-6247-4578-8026-2dca5053680a",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "e82b8494-44e4-402c-938a-690d5b24cc2f",
+                "id": "3fd0118d-6f43-40b0-bd01-ca39817adf17",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",

@@ -1,0 +1,346 @@
+{
+    "results": [
+        {
+            "id": "46d01c3f-4041-442b-b97a-c520419fe05e",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "4a7358e7-b4bd-453b-9f60-1f119668e722",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "2c01b08b-dea8-435e-98bf-004726be0f37",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Industri, Kelompok Industri, Jenis Industri, Bidang Usaha Industri dan Perusahaan Industri adalah sebagaimana dimaksud dalam Pasal 1 Undang-undang Nomor 5 Tahun 1984;\n2. Perluasan Perusahaan Industri yang selanjutnya disebut Perluasan adalah penambahan kapasitas produksi melebihi kapasitas produksi yang telah diizinkan;\n3. Menteri adalah Menteri Perindustrian atau Menteri lainnya yang mempunyai kewenangan pengaturan, pembinaan dan pengembangan industri sebagaimana dimaksud dalam Peraturan Pemerintah Nomor 17 Tahun 1986.",
+                        "explanation": "\nAngka 1\nCukup jelas.\nAngka 2\nPenambahan kapasitas produksi adalah penambahan kapasitas produksi\nmelebihi kapasitas produksi yang telah diizinkan.\nAngka 3\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "ae99e5dc-03aa-4f48-86ab-8bf3430debf3",
+            "name": "Chapter II",
+            "title": "\nIZIN USAHA INDUSTRI",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "f0025445-ddb2-43e6-8649-9c2a1870bf76",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e9bf2588-b3d4-44bb-a4ff-9783f80b92e2",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Setiap pendirian Perusahaan Industri wajib memperoleh Izin Usaha Industri.",
+                            "explanation": "\nDiwajibkannya Izin Usaha Industri bagi setiap pendirian perusahaan\nindustri baru adalah merupakan pengarahan dan sekaligus tindakan\npreventif yang dapat dilakukan oleh Pemerintah sehingga pembangunan\nindustri tetap dapat dilaksanakan secara konsepsional sesuai dengan rencana\nyang telah ditetapkan."
+                        },
+                        {
+                            "id": "0a12f46d-92be-4516-858b-9ca1d9073294",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Perusahaan Industri sebagaimana dimaksud dalam ayat (1) dapat berbentuk perorangan, perusahaan persekutuan atau badan hukum yang berkedudukan di Indonesia.\n",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "0891f05e-1033-406e-8a0d-41c2e64d39ce",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "230049e4-f86e-40c2-b9f6-d87ad086a61e",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Jenis Industri tertentu dalam Kelompok Industri Kecil, dikecualikan\ndari kewajiban untuk memperoleh Izin Usaha Industri.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "5b34e27c-0e7f-4e05-a449-abcfc93e98b5",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Jenis Industri tertentu sebagaimana dimaksud dalam ayat (1) wajib\ndidaftarkan.",
+                            "explanation": ""
+                        },
+                        {
+                            "id": "b1751df1-5b59-4ed3-9910-1656b9ba8277",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Terhadap jenis industri tertentu sebagaimana dimaksud ayat (2)\ndiberikan Tanda Daftar Industri dan dapat diberlakukan sebagai\nizin.",
+                            "explanation": ""
+                        },
+                        {
+                            "id": "4b576095-5017-42e6-a88c-b148c78abc7c",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Jenis Industri tertentu sebagaimana dimaksud dalam ayat (1)\nditetapkan oleh Menteri setelah berkonsultasi dengan Menteri\nterkait.",
+                            "explanation": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "387544ac-fb43-40b6-9dce-81d6d9aab9bc",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "840ca73b-3cdf-4b10-9e12-a98a492e20e6",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Untuk memperoleh Izin Usaha Industri diperlukan tahap\nPersetujuan Prinsip.",
+                            "explanation": "\nDalam Peraturan Pemerintah ini keberadaan Persetujuan Prinsip masih\ndiperlukan agar seorang pengusaha industri dapat langsung melakukan\npersiapan-persiapan dan usaha pembangunan, pengadaan,\npemasangan/instalasi peralatan dan lain-lain yang diperlukan."
+                        },
+                        {
+                            "id": "31fb4a34-a766-4905-9c23-27a2c5fc61f6",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Izin Usaha Industri diberikan kepada Perusahaan Industri yang telah\nmemenuhi semua ketentuan perundang-undangan yang berlaku dan\ntelah selesai membangun pabrik dan sarana produksi.",
+                            "explanation": "\nIzin Tetap yang semula diberikan definitif kepada perusahaan industri yang\ntelah berproduksi secara komersial, maka dengan ketentuan ini Izin Usaha\nIndustri diberikan apabila telah memenuhi semua ketentuan\nperundang-undangan yang berlaku dan telah selesai membangun pabrik dan\nsarana produksi.\nYang dimaksud peraturan perundang-undangan yang berlaku adalah\nperaturan perundang-undangan yang terkait dengan persyaratan perizinan\npendirian perusahaan industri, misalnya: Izin Lokasi, Undang-undang\nGangguan, AMDAL, UKL dan UPL serta SPPL."
+                        },
+                        {
+                            "id": "f47aea52-9416-4544-9fb3-f1614e5e4baa",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Izin Usaha Industri dapat diberikan langsung pada saat permintaan\nizin, apabila Perusahaan Industri memenuhi ketentuan sebagai\nberikut:\na. Perusahaan Industri berlokasi di Kawasan Industri yang telah\nmemiliki izin: atau\nb.Jenis dan komoditi yang proses produksinya tidak merusak\nataupun membahayakan lingkungan serta tidak menggunakan\nsumberdaya alam secara berlebihan;\n\nc. Jenis dan komoditi sebagaimana dimaksud pada ayat (2) huruf b\nditetapkan oleh Menteri.",
+                            "explanation": "\nJenis perizinan sebagaimana diatur dalam ketentuan ini dimaksudkan\nsebagai langkah penyederhanaan di bidang perizinan khususnya bagi\nperusahaan industri yang berlokasi di Kawasan Industri termasuk Kawasan\nBerikat yang melaksanakan kegiatan pengolahan atau bagi perusahaan\nindustri yang jenis, komoditi ataupun proses produksinya tidak merusak\nataupun membahayakan lingkungan dan tidak menggunakan sumber daya\nalam secara berlebihan. Disamping itu, juga untuk mendorong kegiatan\nindustri untuk berlokasi di Kawasan Industri atau Kawasan Berikat\nmengingat Kawasan tersebut adalah tempat perusahaan melakukan\nkegiatan industri pengolahan yang dilengkapi dengan prasarana, sarana dan\nfasilitas penunjang lainnya.\nDengan adanya langkah penyederhanaan ini, maka kepada pengusaha\nindustri yang memenuhi ketentuan kriteria tersebut diatas dapat langsung\ndiberikan Izin Usaha Industri tanpa diwajibkan melalui pentahapan\nmemiliki Persetujuan Prinsip terlebih dahulu, tetapi cukup dengan membuat\nSurat Pernyataan.\nApabila pemegang Izin Usaha Industri dalam jangka waktu tertentu tidak\nmerealisasi pembangunan pabriknya, maka Izin Usaha Industri tersebut\nbatal dengan sendirinya."
+                        },
+                        {
+                            "id": "9dc1d9b3-9324-4477-9e36-bf24b3e12b5c",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Jenis dan komoditi sebagaimana dimaksud pada ayat (2) huruf b\nditetapkan oleh Menteri.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "8a233c38-6801-47bd-90f5-df5daf584c50",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "41e3ecf1-0e63-4872-9884-ee5840d80d90",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Perusahaan Industri yang melakukan perluasan melebihi 30% dari\nkapasitas produksi yang telah diizinkan, diwajibkan memperoleh\nIzin Perluasan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "c5bc60aa-14f4-4dab-bad7-a970b958257a",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Untuk memperoleh Izin Perluasan, perusahaan industri sebagai-\nmana dimaksud Pasal 4 ayat (2) wajib menyampaikan rencana\nperluasan industri dan memenuhi persyaratan lingkungan hidup.",
+                            "explanation": "\nYang dimaksud dengan memenuhi persyaratan lingkungan hidup adalah\ntelah melakukan upaya pengendalian pencemaran akibat kegiatan industri\nterhadap lingkungan hidup sesuai dengan peraturan perundangan yang\nberlaku."
+                        },
+                        {
+                            "id": "2756c220-a75d-46b6-b6aa-43f04ca3a25d",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Untuk memperoleh Izin Perluasan, perusahaan industri\nsebagaimana dimaksud Pasal 4 ayat (3) wajib menyampaikan\nrencana perluasan industri.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "acfd051c-2375-4668-a7a2-345c837e7950",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "22c3969c-2c62-471d-8647-8d616330638b",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nIzin Usaha Industri berlaku selama Perusahaan Industri yang\nbersangkutan beroperasi.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "a0f971d7-512c-4c7a-9a27-bcaf87502a24",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "57498795-51fa-4781-9f6d-f873deb168c9",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Izin Usaha Industri diberikan kepada Perusahaan Industri yang\nkegiatan usaha industrinya berlokasi dilahan peruntukan Industri.\n\n(2) Ketentuan sebagaimana dimaksud dalam ayat (1) dapat\ndikecualikan bagi Perusahaan Industri yang akan didirikan diluar\nlahan peruntukan industri berdasarkan atas pertimbangan lokasi\nsumber bahan mentah.",
+                            "explanation": "\nKetentuan ini bertujuan mendorong kegiatan industri untuk berlokasi dilahan peruntukkan industri, sehingga dengan demikian pengendalian dampak lingkungan akibat kegiatan industri semakin terkendali."
+                        }
+                    ]
+                },
+                {
+                    "id": "81b5698c-2b9b-4e14-84e3-383b9383e01e",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": {
+                        "id": "3fa22bd6-8319-43f2-98d7-ab221fdaafb5",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nTata cara pelaksanaan pemberian Izin Usaha Industri dan Izin\nPerluasan diatur lebih lanjut oleh Menteri.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "4d0b46f2-f19f-45a1-960b-0d98127ad5d0",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": {
+                        "id": "03e2a5ad-8dd1-49af-ba95-734bbfce0bbf",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nIzin Usaha Industri dan Izin Perluasan diberikan oleh Menteri dan dapat\ndilimpahkan.",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "de58f040-63ef-4ba8-acf5-740b96bff601",
+            "name": "Chapter III",
+            "title": "\nPENCABUTAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "00991ef6-34b0-41ce-a868-6da96de0d6ef",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": {
+                        "id": "c6a1af34-87b3-4ba4-a8d8-cde95080c716",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nIzin Usaha Industri dapat dicabut dalam hal:\n1.  Perusahaan Industri yang melakukan perluasan tanpa memiliki Izin\nPerluasan.\n2.  Perusahaan Industri yang melakukan pemindahan lokasi usaha\nindustri tanpa persetujuan tertulis dari Menteri.\n3.  Perusahaan Industri yang menimbulkan kerusakan dan pencemaran\nakibat kegiatan usaha industri terhadap lingkungan hidup\nmelampaui batas baku mutu lingkungan.\n\n4. Perusahaan Industri yang melakukan kegiatan usaha industri tidak sesuai dengan ketentuan yang ditetapkan dalam izin yag diperolehnya.\n5. Perusahaan industri yang tidak menyampaikan informasi industri atau dengan sengaja menyampaikan informasi industri yang tidak benar.\n**BAB IV\nKETENTUAN LAIN-LAIN**",
+                        "explanation": "\nAngka 1\nCukup jelas\nAngka 2\nCukup jelas\nAngka 3\nCukup jelas\nAngka 4\nCukup jelas\nAngka 5\nCukup jelas\n"
+                    }
+                },
+                {
+                    "id": "75a72648-3d3c-433e-bb5c-c4972fc4aff9",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": {
+                        "id": "45912598-7f7b-4672-8939-1f876d669c22",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nIzin Usaha Industri yang dikeluarkan berdasarkan Peraturan Pemerintah ini, berlaku pula bagi tempat penyimpanan yang berada dalam komplek usaha Industri yang bersangkutan yang digunakan untuk menyimpan peralatan, perlengkapan, bahan baku, dan bahan penolong untuk keperluan kegiatan usaha industri tersebut.",
+                        "explanation": "\nUntuk tempat penyimpanan yang berada dalam satu komplek usaha industri atau\nlokasi kegiatan usaha industri yang bersangkutan tidak diperlukan adanya izin\nusaha pergudangan karena sudah tercakup dalam Izin Usaha Industri yang\ndiwajibkan bagi setiap perusahaan industri."
+                    }
+                },
+                {
+                    "id": "dd439726-0fb8-4ce9-9953-e2ca2127ba6b",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "30c05409-5130-496b-8736-28771ea0fdaa",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Persetujuan Prinsip yang telah dikeluarkan sebelum mulai berlakunya Peraturan Pemerintah ini dinyatakan tetap berlaku dan dapat dipergunakan untuk memperoleh Izin Usaha Industri berdasarkan Peraturan Pemerintah ini.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "37d83bc8-6273-4657-81f2-d3f481100d71",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Izin Tetap yang telah dikeluarkan sebelum mulai berlakunya Peraturan Pemerintah ini berlaku sebagai Izin Usaha Industri berdasarkan Peraturan Pemerintah ini.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "e0bd09f2-7f4e-4e1a-a04e-543f95a86e1c",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Izin Perluasan yang telah dikeluarkan sebelum mulai berlakunya Peraturan Pemerintah ini dinyatakan tetap berlaku.\n\n(4) Surat Tanda Pendaftaran Industri Kecil (STPIK) yang telah\ndikeluarkan sebelum mulai berlakunya Peraturan Pemerintah ini\nberlaku sebagai Tanda Daftar Industri (TDI) berdasarkan Peraturan\nPemerintah ini.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4ae18521-cc3a-4fc3-8bbd-994f98c67a9d",
+            "name": "Chapter V",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "2ae6615d-36db-422d-a8a1-9bd8ac581899",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "186980f2-fb47-432b-b674-005e62af298d",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Dengan ditetapkannya Peraturan Pemerintah ini, maka Peraturan\nPemerintah Nomor 13 Tahun 1987 tentang Izin Usaha Industri\n(Lembaran Negara Tahun 1987 Nomor 21, Tambahan Lembaran\nNegara Nomor 3352) dinyatakan tidak berlaku.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "d85f081b-3bcc-46f7-b28d-003e714a2498",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Dengan berlakunya Peraturan Pemerintah ini, semua peraturan\nperundang-undangan yang berhubungan dengan Izin Usaha Industri\nsepanjang tidak bertentangan dan belum ditetapkan penggantinya\nberdasarkan Peraturan Pemerintah ini dinyatakan tetap berlaku.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "045536eb-2322-4a03-896d-770f691b114c",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": {
+                        "id": "74f8dbe1-1dc5-4682-a7e2-3f0cb42411fb",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                        "explanation": "\nCukup jelas.\n"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nPembangunan ekonomi yang didasarkan kepada demokrasi ekonomi menentukan bahwa\nmasyarakat harus memegang peranan aktif dalam kegiatan pembangunan.\nOleh karenanya maka Pemerintah berkewajiban memberikan pengarahan dan bimbingan\nterhadap pertumbuhan ekonomi serta menciptakan iklim sehat bagi perkembangan dunia\nusaha, sebaliknya dunia usaha perlu memberikan tanggapan terhadap pengarahan dan\nbimbingan serta penciptaan iklim tersebut dengan kegiatan-kegiatan yang nyata.\nUntuk menunjang berhasilnya pembangunan yang bertumpu pada pemerataan\npembangunan dan hasil-hasilnya, stabilitas nasional yang sehat dan dinamis, serta\npertumbuhan ekonomi yang cukup tinggi, maka dipandang perlu untuk meningkatkan\npartisipasi masyarakat.\nDalam rangka pencapaian pertumbuhan industri, aspek perizinan ikut memainkan peranan\nyang penting. Menyadari akan peranan tersebut, aspek perizinan ini harus mampu\nmemberikan motivasi yang dapat mendorong dan menarik minat para investor untuk\nmenanamkan modalnya di sektor industri, dan karenanya harus mendapatkan pembinaan\nsecara terarah.\nBahwa perizinan merupakan salah satu alat kebijaksanaan yang apabila dipergunakan\nsecara efisien akan merupakan alat efektif untuk menggerakkan perkembangan dunia\nusaha ke bidang yang benar-benar mendukung pembangunan. Karena itu sistem perizinan\ndapat dimanfaatkan antara lain untuk menghindari pemborosan atau penyalahgunaan dana\ninvestasi yang langka.\nMelalui upaya pengaturan, pembinaan, dan pengembangan industri yang dilakukan,\nPemerintah mengarahkan untuk penciptaan iklim usaha industri secara sehat dan mantap.\nDengan iklim usaha industri seperti itu, diharapkan industri dapat memberikan\nrangsangan yang besar dalam menciptakan lapangan kerja yang luas, menumbuhkan\nkepercayaan masyarakat terhadap kemampuan dan kekuatan sendiri dalam membangun\nindustri.\n\nDalam kerangka inilah Undang-Undang Nomor 5 Tahun 1984 tentang Perindustrian\nmengamanatkan adanya pengaturan tentang Izin Usaha Industri tersebut, sehingga\nper-izinan yang ada hanya yang benar-benar diperlukan bagi kegiatan masyarakat dan\nyang perlu dikendalikan bagi setiap pendirian perusahaan industri baru dan perluasannya.",
+        "Nomor": "13",
+        "Tahun": "1995",
+        "Tentang": "IZIN USAHA INDUSTRI\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "\nbahwa dalam rangka mendorong terciptanya iklim usaha yang lebih baik\ndi bidang industri, dipandang perlu untuk melakukan penyempurnaan\nterhadap ketentuan Izin Usaha Industri."
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-Undang Nomor 5 Tahun 1984 tentang Perindustrian\n(Lembaran Negara Tahun 1984 Nomor 22, Tambahan Lembaran\nNegara Nomor 3274);",
+            "3": " Undang-Undang Nomor 24 Tahun 1992 tentang Penataan Ruang\n(Lembaran Negara Tahun 1992 Nomor 115, Tambahan Lembaran\nNegara Nomor 3501);",
+            "4": " Peraturan Pemerintah Nomor 17 Tahun 1986 tentang Kewenangan\nPengaturan, Pembinaan Dan Pengembangan Industri (Lembaran\nNegara Tahun 1986 Nomor 23, Tambahan Lembaran Negara Nomor\n3330)"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG\nIZIN USAHA INDUSTRI.",
+        "tanggal sah": "23 Mei 1995"
+    }
+}

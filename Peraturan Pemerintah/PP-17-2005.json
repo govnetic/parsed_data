@@ -1,0 +1,204 @@
+{
+    "results": [
+        {
+            "id": "ec2929b3-a4d2-485d-a8d5-53b0149f750b",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "DELETE"
+                    ],
+                    "id": "58a7089e-dda3-46bf-b7ef-3f990d4f0d71",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "5b1dd8b6-9f19-4cf1-a0ea-0ebb4683b490",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "0b6e7390-460a-49cb-8911-b9b433852cec",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "cb77fb62-4639-4a7a-8124-3d6c4924b6fd",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "f807ff18-d83d-4a40-af49-9df463965dbc",
+                    "name": "Article 33",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "196dc56c-9a82-464a-9339-8c7ff8a86b21",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "DELETE"
+                    ],
+                    "id": "87ae33ff-3d8e-4d1d-82be-949f081785d5",
+                    "name": "Article 36",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "95d6ebf5-26dd-477e-ae2b-8513f1b34d02",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "88f147df-b15c-46fa-a61d-eda4f74d0b3c",
+                    "name": "Article 38",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "9b202a08-8d73-4819-bd72-e23c86950bf8",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "5d3bdb7b-d821-485d-9dba-f3d1d3b4f2fc",
+                    "name": "Article 42",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "bed43dea-e9b8-41e2-95d3-a75a38066361",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "f9cbcc4a-d399-46cc-94ab-36bd440ddf2c",
+                    "name": "Article 64",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "319f1c41-2004-47d0-bfb8-5a47922b90b8",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "fb1028aa-c599-45b7-9514-7832a2d0b1a4",
+                    "name": "Article 70",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "67b02665-1837-4d67-b993-19993861e007",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "81eb93a9-75ce-48fe-a04d-f9c6f5fc568d",
+                    "name": "Article 78",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6a350aef-b9d2-416b-b209-f1f8d7fa7af8",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "0c1ead25-ec64-4a56-b7e5-8e4a7a46d75d",
+                    "name": "Article 149",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ca7cd1b0-7bc2-4be1-af3d-273c3f9bdc30",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "62fa0558-7c80-4111-b9f0-122c7b079678",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "4b31c09f-c49c-4a62-a4a3-9bf5d460cd11",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nKetentuan dalam beberapa Pasal Undang-Undang Nomor 32 Tahun 2004 tentang\nPemerintahan Daerah dinyatakan bertentangan dengan Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945 dan tidak mempunyai kekuatan hukum mengikat oleh\nMahkamah Konstitusi dalam Putusan Perkara Nomor 072-073/PUU-II/2004 dan\nNomor 005/PUU-III/2005. Putusan Mahkamah Konstitusi tersebut mempunyai\nimplikasi hukum dalam penyelenggaraan pemilihan kepala daerah dan wakil kepala\ndaerah;\nSelain dari pada itu beberapa ketentuan dalam Undang-Undang Nomor 32 Tahun\n2004 tentang Pemerintahan Daerah telah diubah dengan Peraturan Pemerintah\nPengganti Undang-Undang Nomor 3 Tahun 2005 tentang Perubahan atas Undang-\nUndang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah;\nPeraturan Pemerintah Nomor 6 Tahun 2005 tentang Pemilihan, Pengesahan\nPengangkatan, dan Pemberhentian Kepala Daerah dan Wakil Kepala Daerah masih\nberdasarkan Undang-Undang Nomor 32 Tahun 2004 sebelum dinyatakan ketentuan\nbeberapa Pasalnya tidak mempunyai kekuatan hukum mengikat oleh Mahkamah\nkonstitusi dan belum diubah;\nDengan\nDengan adanya perubahan Undang-Undang Nomor 32 Tahun 2004 tentang\nPemerintahan Daerah berdasarkan Putusan Mahkamah Konstitusi tersebut dan\nPeraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2005 maka\nPeraturan Pemerintah Nomor 6 Tahun 2005 perlu disesuaikan dengan beberapa\nperubahan.\nPerubahan tersebut dilakukan juga guna mengantisipasi terjadinya bencana alam,\nkerusuhan, gangguan keamanan, dan/atau gangguan lainnya yang mengganggu\nkelancaran pelaksanaan pemilihan kepala daerah dan wakil kepala daerah sehingga\npemilihan tidak dapat dilaksanakan sesuai dengan jadwal. Karena itu di dalam\nperubahan Peraturan Pemerintah Nomor 6 Tahun 2005 ini diatur mengenai ketentuan\npenundaan pemilihan kepala daerah dan wakil kepala daerah beserta mekanisme\npenundaannya.",
+        "Nomor": "17",
+        "Tahun": "2005",
+        "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 6 TAHUN 2005\nTENTANG PEMILIHAN, PENGESAHAN PENGANGKΑΤΑΝ, \nDAN PEMBERHENTIAN KEPALA DAERAH DAN WAKIL KEPALA DAERAH",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa ketentuan dalam beberapa Pasal Undang-Undang Nomor 32\nTahun 2004 tentang Pemerintahan Daerah yang dinyatakan\nbertentangan dengan Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945 dan tidak mempunyai kekuatan hukum\nmengikat berdasarkan Putusan Mahkamah Konstitusi dalam perkara\nNomor 072-073/PUU-II/2004 dan Nomor 005/PUU-III/2005,\nmempunyai implikasi hukum dalam penyelenggaraan pemilihan\nkepala daerah dan wakil kepala daerah;",
+            "b": " bahwa beberapa ketentuan dalam Undang-Undang Nomor 32 Tahun\n2004 tentang Pemerintahan Daerah telah diubah dengan Peraturan\nPemerintah Pengganti Undang-Undang Nomor 3 Tahun 2005\ntentang Perubahan atas Undang-Undang Nomor 32 Tahun 2004\ntentang Pemerintahan Daerah;",
+            "c": " bahwa berdasarkan pertimbangan pada huruf a dan huruf b, perlu\nmenetapkan Peraturan Pemerintah tentang Perubahan Peraturan\nPemerintah Nomor 6 Tahun 2005 tentang Pemilihan, Pengesahan\nPengangkatan, dan Pemberhentian Kepala Daerah dan Wakil Kepala\nDaerah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia\nTahun 1945;",
+            "2": " Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan\nDaerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor\n125, Tambahan Lembaran Negara Republik Indonesia Nomor 4437)\nsebagaimana telah diubah dengan Peraturan Pemerintah Pengganti\nUndang-Undang Nomor 3 Tahun 2005 tentang Perubahan atas\nUndang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan\nDaerah;",
+            "3": " Peraturan Pemerintah Nomor 6 Tahun 2005 tentang Pemilihan,\nPengesahan Pengangkatan, dan Pemberhentian Kepala Daerah dan\nWakil Kepala Daerah;"
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang Perubahan Peraturan\nPemerintah Nomor 6 Tahun 2005 tentang Pemilihan, Pengesahan\nPengangkatan, dan Pemberhentian Kepala Daerah dan Wakil Kepala\nDaerah;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia\nTahun 1945;\n2. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan\nDaerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor\n125, Tambahan Lembaran Negara Republik Indonesia Nomor 4437)\nsebagaimana telah diubah dengan Peraturan Pemerintah Pengganti\nUndang-Undang Nomor 3 Tahun 2005 tentang Perubahan atas\nUndang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan\nDaerah;\n3. Peraturan Pemerintah Nomor 6 Tahun 2005 tentang Pemilihan,\nPengesahan Pengangkatan, dan Pemberhentian Kepala Daerah dan\nWakil Kepala Daerah;\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 6 TAHUN 2005 TENTANG\nPEMILIHAN, PENGESAHAN PENGANGKATAN, DAN\nPEMBERHENTIAN KEPALA DAERAH DAN WAKIL KEPALA\nDAERAH",
+        "tanggal sah": "27 April 2005"
+    }
+}

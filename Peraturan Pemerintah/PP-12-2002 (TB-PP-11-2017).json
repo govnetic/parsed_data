@@ -1,0 +1,239 @@
+{
+    "results": [
+        {
+            "id": "4be64269-bd6b-43c5-80fe-3e80ce72c9e6",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "babc6bda-0e6b-4f86-be60-ef71080fcfdb",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "cf697148-883e-4a3e-8d2f-5cbe1520f5fc",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "f7b2ee86-a448-47c1-8c7f-70b941528dd4",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "9682b0f0-f6de-49a0-a3c6-27e8544fccb5",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "847ad77a-bb6f-4404-87cf-3b97c7dbba6b",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6d5722e6-4ead-4e50-802d-971e4090dff7",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "215bf157-50f6-49cf-8989-715df9ef08f3",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e121795c-efef-4c9e-8ab3-1ad3c04768b3",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "DELETE"
+                    ],
+                    "id": "c052a8aa-cb05-46c2-963e-90bfb6a632f6",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "623918a1-79bf-490d-8afd-f222790f7052",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "f07d329c-f30c-47c0-b7a9-596f87ac970d",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "d5404b3f-5480-455e-8bec-51c8114f3e8e",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "895eb921-b595-49f7-b5b3-b66b1dfdb5bd",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "1d5fb2f3-5642-4d6c-85e3-17e6cad33f73",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "74d62268-71f0-46d7-aa33-81f109a79f49",
+                    "name": "Article 20",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "1b369ba7-a020-4dfc-b6bf-3e0d76292702",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "67de12ab-d7e0-4990-9356-0b82e6499222",
+                    "name": "Article 27",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "2d12c683-82e6-495d-9d32-4b224d1e315b",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "c051ac4e-8ea3-4bce-93ef-f13550764682",
+                    "name": "Article 29",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "fe225b5c-c9a1-487e-8ab3-3ce2cfc964a3",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "5ac07328-7d68-40c4-9727-5428c8938c58",
+                    "name": "Article 32",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "1749b4e4-90e2-4962-9d46-1cf82df03f92",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "5b4c33c1-ff1a-4d9e-b188-d0cd5c5ea0b1",
+                    "name": "Article 36",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "52c96eec-5f67-4eab-a551-278f1397cacd",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "22f59e18-1497-4db6-a0e0-ac75f3f31f49",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "ef1cd199-d46d-4934-8852-e83b9ebcbcb8",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nKenaikan pangkat adalah penghargaan yang diberikan atas prestasi kerja dan\npengabdian Pegawai Negeri Sipil yang bersangkutan terhadap Negara. Selain itu,\nkenaikan pangkat juga dimaksudkan sebagai dorongan kepada Pegawai Negeri\nSipil untuk lebih meningkatkan prestasi kerja dan pengabdiannya.\nUntuk dapat lebih meningkatkan prestasi kerja dan pengabdian Pegawai Negeri\nSipil kepada Negara serta mewujudkan keadilan dalam memberikan\npenghargaannya, maka Peraturan Pemerintah Nomor 99 Tahun 2000 tentang\nKenaikan Pangkat Pegawai Negeri Sipil, perlu diubah sesuai dengan prinsip\npembinaan Pegawai Negeri Sipil atas dasar sistem prestasi kerja dan sistem karier\nyang dititikberatkan pada sistem prestasi kerja.",
+        "Nomor": "12",
+        "Tahun": "2002",
+        "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 99 TAHUN 2000\nTENTANG KENAIKAN PANGKAT PEGAWAI NEGERI SIPIL\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk meningkatkan prestasi kerja dan pengabdian Pegawai\nNegeri Sipil kepada negara serta mewujudkan keadilan dalam\nmemberikan penghargaannya, dipandang perlu mengubah beberapa\nketentuan dalam Peraturan Pemerintah Nomor 99 Tahun 2000 tentang\nKenaikan Pangkat Pegawai Negeri Sipil dengan Peraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 8 Tahun 1974 tentang Pokok-pokok\nKepegawaian (Lembaran Negara Tahun 1974 Nomor 55, Tambahan\nLembaran Negara Nomor 3041), sebagaimana telah diubah dengan\nUndang-undang Nomor 43 Tahun 1999 (Lembaran Negara Tahun\n1999 Nomor 169, Tambahan Lembaran Negara 3890);",
+            "3": " Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah\n(Lembaran Negara Tahun 1999 Nomor 60, Tambahan Lembaran\nNegara Nomor 3839);",
+            "4": " Undang-undang Nomor 25 Tahun 1999 tentang Perimbangan\nKeuangan antara Pemerintah Pusat dan Daerah (Lembaran Negara\nTahun 1999 Nomor 72, Tambahan Lembaran Negara Nomor 3848);",
+            "5": " Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji\nPegawai Negeri Sipil (Lembaran Negara Tahun 1977 Nomor 11,\nTambahan Lembaran Negara Nomor 3098) sebagaimana telah\nbeberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 26\nTahun 2001 (Lembaran Negara Tahun 2001 Nomor 49);",
+            "6": " Peraturan Pemerintah Nomor 25 Tahun 2000 tentang Kewenangan\nPemerintah dan Kewenangan Propinsi Sebagai Daerah Otonom\n(Lembaran Negara Tahun 2000 Nomor 54, Tambahan Lembaran\nNegara Nomor 3952);",
+            "7": " Peraturan Pemerintah Nomor 96 Tahun 2000 tentang Wewenang\nPengangkatan, Pemindahan, dan Pemberhentian Pegawai Negeri Sipil\n(Lembaran Negara Tahun 2000 Nomor 193, Tambahan Lembaran\nNegara Nomor 4014);",
+            "8": " Peraturan Pemerintah Nomor 98 Tahun 2000 tentang Pengadaan\nPegawai Negeri Sipil (Lembaran Negara Tahun 2000 Nomor 195,\nTambahan Lembaran Negara Nomor 4016) sebagaimana telah diubah\ndengan Peraturan Pemerintah Nomor 11 Tahun 2002 (Lembaran\nNegara Tahun 2002 Nomor 31, Tambahan Lembaran Negara Nomor\n4192);",
+            "9": " Peraturan Pemerintah Nomor 99 Tahun 2000 tentang Kenaikan\nPangkat Pegawai Negeri Sipil (Lembaran Negara Tahun 2000 Nomor\n196, Tambahan Lembaran Negara Nomor 4017);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 99 TAHUN 2000 TENTANG\nKENAIKAN PANGKAT PEGAWAI NEGERI SIPIL.",
+        "tanggal sah": "17 April 2002"
+    }
+}

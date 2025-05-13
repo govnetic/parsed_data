@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "871f29ac-dc34-4d04-9ce0-e2ba154ba1a9",
+            "id": "02bf7d54-5d96-46e1-baa5-c31e11fc84a0",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "ba7a68ea-c0ff-4985-ba16-f1533cce578f",
+                "id": "26e2d9f7-9e4b-47f1-a8ba-03052dcf90bb",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "426207de-9809-4039-9527-3c35e5f875a6",
+            "id": "76d9acd3-b620-4152-bb76-f3b9eb48cac3",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "9c157a92-e98c-40bc-b82a-75004d582f7e",
+                "id": "991a8ed7-742f-4a4f-87bc-1276d7e5a923",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "ebbbdd55-f9a8-4e4e-ad94-af99d08208e1",
+            "id": "e8975895-c545-45a8-a4e0-4b3b7690b902",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "835f5262-e1b7-4231-8f30-1c3a41198cb5",
+                "id": "75ac262f-affc-4736-9356-9b7ca78d615d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,24 +40,24 @@
             }
         },
         {
-            "id": "b1eb5313-9436-4693-af0b-7907f9c9fe78",
+            "id": "6ba1d4fd-e4ba-4e7e-8402-8d46721fa443",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "75255f10-76ed-4f46-825e-b7e8b3ce7059",
+                "id": "2f1a78b9-7c0c-48eb-b901-7920dfcf14a9",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Membentuk Kecamatan Agrabinta di Kabupaten Daerah Tingkat II Cianjur, yang meliputi\nwilayah :\na. Desa Pusakasari;\nb. Desa Walahir;\n\nc. Desa Purabaya;\nd. Desa Sukamanah;\ne. Desa Bojongkaso;\nf. Desa Bunisari;\ng. Desa Wanasari.",
+                "content": "Membentuk Kecamatan Agrabinta di Kabupaten Daerah Tingkat II Cianjur, yang meliputi\nwilayah :\na. Desa Pusakasari;\nb. Desa Walahir;\nc. Desa\nc. Desa Purabaya;\nd. Desa Sukamanah;\ne. Desa Bojongkaso;\nf. Desa Bunisari;\ng. Desa Wanasari.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "6cd8333f-de2f-4e40-be01-0c33bb4cf687",
+            "id": "2ebc5905-d78a-4ac1-8a16-c2bc48d74425",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "43c2686a-a4f0-4a10-95f7-728b8a95a715",
+                "id": "69fb7331-9d5f-410f-b17e-fd7732decae6",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "3eb4b7ed-8a51-48e3-bf90-a7caeef5fbbc",
+            "id": "7d02531d-230d-425b-9e1f-fd6517b5c4c7",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "0f093d81-ee6e-4cd3-b2b4-d242a8953a96",
+                "id": "39b1df30-4417-4ed1-a279-7d2925792df5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -79,11 +79,11 @@
             }
         },
         {
-            "id": "40a63582-143f-4eb5-b048-528116e3c479",
+            "id": "da9a37b5-8448-49e8-a225-14e2fd0ff41e",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "ed971b9b-99e2-41db-9b2e-f91444035766",
+                "id": "3070aede-ac14-4cf7-85f8-cf3b6d7e95a4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -92,37 +92,37 @@
             }
         },
         {
-            "id": "cc77d595-5dd8-4dfe-8d69-be00ea4013ee",
+            "id": "a1843c97-2de7-44e9-9578-74c5faa5dd34",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "9855889c-6b06-4a44-98d1-4d2a08a5e45b",
+                "id": "96d0b1ea-796e-4eaf-a9e7-381721706bc4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Membentuk Kecamatan Cibalong di Kabupaten Daerah Tingkat II Garut, yang meliputi\nwilayah :\na. Desa Mekarsari;\nb. Desa Maroko;\nc. Desa Simpang;\nd. Desa Karyamukti;\ne. Desa Sancang.\n",
+                "content": "Membentuk Kecamatan Cibalong di Kabupaten Daerah Tingkat II Garut, yang meliputi\nwilayah :\na. Desa Mekarsari;\nb. Desa Maroko;\nc. Desa Simpang;\nd. Desa Karyamukti;\ne. Desa Sancang.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "2d08beb3-8506-44f5-a817-decbe04f227e",
+            "id": "b16aa63c-95a0-4947-aa76-779cdde015c7",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "018f3407-0fc1-4968-ba55-0ac93c40a725",
+                "id": "2767f779-1364-4557-bc04-bad78c1a2f39",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Membentuk Kecamatan Banjarwangi di Kabupaten Daerah Tingkat II Garut, yang\nmeliputi wilayah :\na. Desa Banjarwangi;\nb. Desa Talagasari;\nc. Desa Desa Bojong;\nd. Desa Dangiang;\ne. Desa Padahurip;\nf. Desa Kadongdong;\ng. Desa Wangunjaya;\nh. Desa Tanjungjaya.",
+                "content": "Pasal 9\nMembentuk Kecamatan Banjarwangi di Kabupaten Daerah Tingkat II Garut, yang\nmeliputi wilayah :\na. Desa Banjarwangi;\nb. Desa Talagasari;\nc. Desa Desa Bojong;\nd. Desa Dangiang;\ne. Desa Padahurip;\nf. Desa Kadongdong;\ng. Desa Wangunjaya;\nh. Desa Tanjungjaya.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "daa2f43b-73a5-42db-8cb7-067cdd8d1572",
+            "id": "fdb8bfb1-8709-420a-81ae-b75a9454ae3f",
             "name": "Article 10",
             "type": "article",
             "children": {
-                "id": "f2f63cd6-c84a-4a28-94eb-465bde6fb2a4",
+                "id": "981e2a16-ef28-4217-b438-c283a6740792",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -131,11 +131,11 @@
             }
         },
         {
-            "id": "45a24ef4-928d-4b32-98f9-55601af2fa0c",
+            "id": "9bd428d5-bdbd-4853-bba9-e9a6c87df516",
             "name": "Article 11",
             "type": "article",
             "children": {
-                "id": "d76c838f-983e-4886-ab9a-28d439588009",
+                "id": "6eeb61b2-f7f6-4f1c-b631-ba73d903e1a5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -144,11 +144,11 @@
             }
         },
         {
-            "id": "153f5d73-df11-493b-a6cb-4bb4a94021ec",
+            "id": "19c70116-ddf2-4557-9972-fc00bd572b39",
             "name": "Article 12",
             "type": "article",
             "children": {
-                "id": "f21d3341-79c5-4cdb-bb32-25f2f381bc6b",
+                "id": "54b0aab3-8cca-4e1d-b5d8-ad4bb8d13e04",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -157,28 +157,28 @@
             }
         },
         {
-            "id": "9bfd2c79-bbf0-47c7-a7ed-25247f093f76",
+            "id": "3a615228-64d6-45ab-9c7b-400cee261480",
             "name": "Article 13",
             "type": "article",
             "children": {
-                "id": "aeba852f-56ac-4806-8853-1735d1d55800",
+                "id": "b7a4b589-79db-42cd-b1ba-71b7586876cb",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Pasal 13\nSegala sesuatu yang berkenaan dengan dan sebagai akibat dari pada pembentukan 10\n(sepuluh) kecamatan dalam wilayah Propinsi Daerah Tingkat I Jawa Barat diatur oleh\nGubernur Kepala Daerah Tingkat I Jawa Barat dengan memperhatikan kemampuan\nkeuangan Pemerintah Pusat/Daerah pada tahap sekarang ini.",
+                "content": "Segala sesuatu yang berkenaan dengan dan sebagai akibat dari pada pembentukan 10 (sepuluh) kecamatan dalam wilayah Propinsi Daerah Tingkat I Jawa Barat diatur oleh Gubernur Kepala Daerah Tingkat I Jawa Barat dengan memperhatikan kemampuan keuangan Pemerintah Pusat/Daerah pada tahap sekarang ini.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "ea23b40e-c4dd-40a5-9a15-793757158a4e",
+            "id": "fc8f2baa-a9d9-4940-8def-64249220560f",
             "name": "Article 14",
             "type": "article",
             "children": {
-                "id": "ccdb94d2-fd03-412a-ab9f-6e3f9f02b392",
+                "id": "e38bc27c-29f7-41ef-abc2-bf974f271be0",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

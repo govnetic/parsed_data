@@ -1,0 +1,47 @@
+{
+    "results": [
+        {
+            "id": "36d3b0f4-eae6-438c-bd2e-64bcdf843ca3",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "6af7480f-4279-406e-86cd-8582ef22c31d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Jumlah \"Rp.17.000,-(tujuhbelas ribu rupiah)\" dalam Pasal 1 Peraturan\nPemerintah Nomor 22 Tahun 1969, diubah menjadi \"Rp.25.000,-\n(duapuluh lima ribu rupiah)\"",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "28be2f8c-edd6-4d7d-a9bb-8e5d5d17a313",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "a3f97455-0c2d-491a-83d1-2838c1585fde",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1974.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "14",
+        "Tahun": "1974",
+        "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 22 TAHUN 1969\nTENTANG KEDUDUKAN KEUANGAN MENTERI NEGARA REPUBLIK\nINDONESIA",
+        "Menimbang": {
+            "Introduction": "\nbahwa dipandang perlu untuk mengatur kembali kedudukan keuangan\nNegara Republik Indonesia untuk disesuaikan dengan perkembangan\nkeadaan."
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-undang Dasar 1945;",
+            "2": " Undang-undang\nNomor 2 Tahun 1974 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 1974/1975\n(Lembaran Negara Tahun 1974 Nomor 9);",
+            "3": " Peraturan Pemerintah Nomor 22 Tahun 1969 (Lembaran Negara\nTahun 1969 Nomor 34) tentang Perubahan atas Peraturan\nPemerintah Nomor 17 Tahun 1967 jo. Peraturan Pemerintah Nomor\n9 Tahun 1968 tentang Kedudukan Keuangan Menteri Negara\nRepublik Indonesia;",
+            "4": " Peraturan Pemerintah Nomor 14 Tahun 1970 (Lembaran Negara\nTahun 1970 Nomor 23) tentang Pemberian Tunjangan-Kerja kepada\nMenteri Negara Republik Indonesia."
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG\nPERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 22\nTAHUN 1969 TENTANG KEDUDUKAN KEUANGAN MENTERI\nNEGARA REPUBLIK INDONESIA.",
+        "tanggal sah": "1 April 1974"
+    }
+}

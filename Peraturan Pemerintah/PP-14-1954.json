@@ -1,0 +1,45 @@
+{
+    "results": [
+        {
+            "id": "14801382-7dc7-4442-ab2c-284542dd83a6",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "ae381db9-0338-49a0-9cfb-e98078c126c8",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Tanggal 1 Januari 1954 tersebut dalam pasal 3 ayat (1) dan (2)\ndari Peraturan Pemerintah No. 32 tahun 1953 dirobah menjadi\ntanggal 1 April 1954\"",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "c4fdfa86-51f6-4021-9ea7-fdeb00ab3119",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "05d9eaaa-e9b2-4308-9d64-dcfc5a8ac664",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan dan\nberlaku surut sampai 31 Desember 1953.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "14",
+        "Tahun": "1954",
+        "Tentang": "MENGUBAH PERATURAN PEMERINTAH NO. 32 TAHUN 1953\n(LEMBARAN-NEGARA NO. 61 TAHUN 1953)",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa tugas kewajiban yang dibebankan kepada Dewan Perwakilan\nRakyat Daerah Minahasa seperti dinyatakan dalam pasal 1 dari\nPeraturan Pemerintah No. 32 tahun 1953, karena beberapa hal,\ntidak dapat diselesaikan sebelum tanggal 1 Januari 1954\nsebagaimana ditentukan dalam pasal 3 ayat (1) dari Peraturan\nPemerintah itu, sehingga jangka waktu tersebut perlu\ndiperpanjang;",
+            "b": " Bahwa berhubung dengan itu Peraturan Pemerintah No. 32 tahun\n1953 (Lembaran Negara No. 61 tahun 1953) perlu dirobah;"
+        },
+        "Mengingat": {
+            "Introduction": "\nPasal 142 dan pasal 98 Undang-undang Dasar Sementara Republik\nIndonesia dan pasal 20 ayat (1) Undang-undang Pemerintah Daerah-\ndaerah Indonesia Timur No. 44 tahun 1950;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH UNTUK MEROBAH PERATURAN PEMERINTAH No. 32\nTAHUN 1953 (LEMBARAN NEGARA NO. 61 TAHUN 1953).",
+        "tanggal sah": "31 Desember 1953"
+    }
+}

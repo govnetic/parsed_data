@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "2f6b163a-b9a2-4ec3-a2bd-ba8f2c043f56",
+            "id": "4e8c61d5-faa9-4459-bac9-663db1ce093f",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "67df33e4-e733-4ba7-a817-9cbe7aad3679",
+                    "id": "cc4d39f7-07ed-43ac-ae00-f139fbbaf27e",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "a8536459-8cf3-4178-909c-090fec739208",
+                        "id": "49960105-65e0-4166-8eac-e7022683610d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -22,49 +22,83 @@
             ]
         },
         {
-            "id": "b341b457-bd13-47cd-8e91-5de480a79339",
+            "id": "b853c692-2271-4810-afcc-a2c06dae2f30",
             "name": "Chapter II",
-            "title": "\nIZIN\nBagian Pertama\nPemakaian Zat Radioaktip dan atau\nSumber Radiasi lainnya\nPasal 2\nSetiap pemakaian zat radioaktip dan atau sumber radiasi lainnya hanya\ndapat dilakukan setelah mendapat izin dari Instansi Yang Berwenang,\nkecuali pemakaian zat radioaktip dan atau sumber radiasi lainnya yang\naktivitasnya dibawah nilai minimum yang ditentukan oleh Instansi Yang\nBerwenang.\nPasal 3\nSetiap perbuatan yang bersangkutan dengan zat radioaktip dan atau\nsumber radiasi lainnya harus dilakukan sedemikian rupa, sehingga tidak\nmerugikan para petugas dan masyarakat sekitarnya.",
+            "title": "\nIZIN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "eec191f3-11c4-483f-b58e-53d5b26bc5c1",
+                    "id": "ad40f341-3b6f-4e15-a08f-d92cf0078b9e",
+                    "name": "Section First",
+                    "title": "\nPemakaian Zat Radioaktip dan atau\nSumber Radiasi lainnya",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "3e955106-dd6e-4e2d-bd71-54255fd6ee5e",
+                            "name": "Article 2",
+                            "type": "article",
+                            "children": {
+                                "id": "a2eb5b9e-158e-4fba-95a6-aa8fc49852ad",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nSetiap pemakaian zat radioaktip dan atau sumber radiasi lainnya hanya\ndapat dilakukan setelah mendapat izin dari Instansi Yang Berwenang,\nkecuali pemakaian zat radioaktip dan atau sumber radiasi lainnya yang\naktivitasnya dibawah nilai minimum yang ditentukan oleh Instansi Yang\nBerwenang.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        },
+                        {
+                            "id": "a192d5f2-de3a-420b-b8d1-d41b51bb726b",
+                            "name": "Article 3",
+                            "type": "article",
+                            "children": {
+                                "id": "b9f62b1d-7da1-470a-930b-3107de3bc4bd",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nSetiap perbuatan yang bersangkutan dengan zat radioaktip dan atau\nsumber radiasi lainnya harus dilakukan sedemikian rupa, sehingga tidak\nmerugikan para petugas dan masyarakat sekitarnya.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "01940338-669e-4b28-ac4c-99ce06cbd294",
                     "name": "Section Second",
                     "title": "\nSyarat dan Cara Memperoleh izin",
                     "type": "section",
                     "children": [
                         {
-                            "id": "bfaaea6f-0bd3-4de7-8655-601e8166a48f",
+                            "id": "a4903f7f-df86-4d73-991c-eb410365f1b3",
                             "name": "Article 4",
                             "type": "article",
                             "children": {
-                                "id": "223d747b-b646-4cbf-8f02-958e3e576ccb",
+                                "id": "5111e3eb-355d-451b-a03a-711ab2cadfd7",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nSetiap orang atau badan dapat memperoleh izin sebagaimana dimaksud\npada Pasal 2 dengan syarat-syarat sebagai berikut :\na. Mempunyai fasilitas Instalasi Atom untuk melakukan pemakaian zat\nradioaktip dan atau sumber radiasi lainnya;\nb. Mempunyai tenaga-tenaga yang cakap dan terlatih baik, untuk\nbekerja dengan zat radioaktip dan atau sumber radiasi lainnya;\n\nc. Mempunyai peralatan tehnis yang diperlukan untuk menjamin\nperlindungan terhadap radiasi.",
+                                "content": "\nSetiap orang atau badan dapat memperoleh izin sebagaimana dimaksud\npada Pasal 2 dengan syarat-syarat sebagai berikut :\na. Mempunyai fasilitas Instalasi Atom untuk melakukan pemakaian zat\nradioaktip dan atau sumber radiasi lainnya;\nb. Mempunyai tenaga-tenaga yang cakap dan terlatih baik, untuk\nbekerja dengan zat radioaktip dan atau sumber radiasi lainnya;\n\nc. Mempunyai peralatan tehnis yang diperlukan untuk menjamin perlindungan terhadap radiasi.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "530df6b4-ecd5-4f11-8d7a-45bb1be6c9bb",
+                            "id": "3de387f0-54cc-4f0c-a690-e6711594fec0",
                             "name": "Article 5",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "e13ed620-512f-4a97-8272-059608fd6cc4",
+                                    "id": "81665152-7e46-4561-ae4b-8cac2181b692",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Permohonan untuk mendapat izin diajukan kepada Instansi Yang\nBerwenang.",
+                                    "content": " Permohonan untuk mendapat izin diajukan kepada Instansi Yang Berwenang.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "ba82004e-cb24-44fc-a1e0-3dcd79e64ae9",
+                                    "id": "17a93ed7-4371-4066-b55b-1789edea7bec",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Izin yang diperoleh atas dasar permohonan, hanya dapat\ndipergunakan oleh pemohon untuk jangka waktu yang telah\nditentukan.",
+                                    "content": " Izin yang diperoleh atas dasar permohonan, hanya dapat dipergunakan oleh pemohon untuk jangka waktu yang telah ditentukan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
@@ -72,30 +106,30 @@
                     ]
                 },
                 {
-                    "id": "ac390094-a27a-4071-bc7f-a953fa627469",
+                    "id": "ee1e24bd-68d4-4407-ae62-b05f039a60b7",
                     "name": "Section Third",
                     "title": "\nBerakhirnya Izin",
                     "type": "section",
                     "children": [
                         {
-                            "id": "6ae98c0b-341d-42c5-9833-9e73691ce27b",
+                            "id": "4169b599-6246-4839-ba7b-f46f1699af83",
                             "name": "Article 6",
                             "type": "article",
                             "children": {
-                                "id": "d0b158a9-1580-470e-961d-10ba3db3ca78",
+                                "id": "c2f0b962-d4d0-4007-bb41-94d4c073bc2c",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nDalam hal pemegang izin tidak lagi memenuhi syarat dan atau kewajiban\nyang ditentukan dalam Peraturan Pemerintah ini, maka Instansi Yang\nBerwenang dapat :\na. Memberikan peringatan kepada pemegang izin;\nb. Membekukan izin untuk jangka waktu tertentu;\nc. Mencabut izin tersebut.",
+                                "content": "\nDalam hal pemegang izin tidak lagi memenuhi syarat dan atau kewajiban yang ditentukan dalam Peraturan Pemerintah ini, maka Instansi Yang Berwenang dapat :\na. Memberikan peringatan kepada pemegang izin;\nb. Membekukan izin untuk jangka waktu tertentu;\nc. Mencabut izin tersebut.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "92d09333-2583-416a-bc91-91cf7c25f701",
+                            "id": "acb6ec44-d38f-4849-8d94-679614a159ea",
                             "name": "Article 7",
                             "type": "article",
                             "children": {
-                                "id": "537fc3a7-ec9e-4e75-8b60-21f6e972f5b0",
+                                "id": "f24adfdd-a9a9-44a0-b955-6a0dbc194cfb",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -104,15 +138,15 @@
                             }
                         },
                         {
-                            "id": "3cf8e222-0232-405d-b2e8-7b5f7c989d5e",
+                            "id": "198a42f8-8931-4a90-a2a5-114268d56724",
                             "name": "Article 8",
                             "type": "article",
                             "children": {
-                                "id": "b2f5159e-d214-4e12-9d10-e8afc7811d58",
+                                "id": "b1247a38-64d2-4dfd-b359-f13b8395e8cf",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nIzin yang berakhir karena lewatnya jangka waktu, dapat dimohonkan\npembaharuan.\n",
+                                "content": "\nIzin yang berakhir karena lewatnya jangka waktu, dapat dimohonkan pembaharuan.\n",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         }
@@ -121,17 +155,17 @@
             ]
         },
         {
-            "id": "5aa21c17-4a0b-440a-9fcd-cb4d5b0989a3",
+            "id": "47bc4267-115e-4bcb-a835-e8423b4a7fe1",
             "name": "Chapter III",
             "title": "\nKEWAJIBAN DAN TANGGUNGJAWAB\nPEMEGANG IZIN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "dffb1a0a-b016-4af5-886b-9ce17e4a4023",
+                    "id": "1cace7bc-db6e-456e-a29c-3a49148b4c13",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "233d3f12-7393-42c1-963d-42cdc2df79c0",
+                        "id": "d32faf9c-3992-4207-9a58-c5ee3d69c9f2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -140,32 +174,32 @@
                     }
                 },
                 {
-                    "id": "cb9d56b0-048f-4fdc-b08b-9ce645abe368",
+                    "id": "9d77f71b-8767-4d3e-a92b-17812000ecf4",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "e87ab9ee-a16f-4083-b14e-d0dce7c60080",
+                        "id": "36c01121-aea1-40c9-b2af-b2e46d6fea61",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPasal 10\nPemegang izin bertanggungjawab atas segala kerugian yang timbul akibat pemakaian zat radioaktip dan atau sumber radiasi lainnya, baik atas diri orang maupun harta bendanya.",
+                        "content": "\nPemegang izin bertanggungjawab atas segala kerugian yang timbul akibat pemakaian zat radioaktip dan atau sumber radiasi lainnya, baik atas diri orang maupun harta bendanya.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "2ff4b35d-13e0-426c-831b-1aab7f3306c3",
+            "id": "7a6d7160-5c77-436f-b9d4-0e4bbc27fab2",
             "name": "Chapter IV",
             "title": "\nPEMERIKSAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "feb1fb7e-e550-4b89-8bed-4ff71c858099",
+                    "id": "6a90269c-3d99-4dca-8071-b40266be81b3",
                     "name": "Article 11",
                     "type": "article",
                     "children": {
-                        "id": "f6a7a658-bb6c-44b6-9b0a-d4653d2e2962",
+                        "id": "9bb18f95-111e-4e2d-9698-98c4aef5dfdc",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -174,11 +208,11 @@
                     }
                 },
                 {
-                    "id": "04e80271-5f72-4069-9eab-e20c1f948c62",
+                    "id": "9c19694d-b730-4ca5-8200-afd015658629",
                     "name": "Article 12",
                     "type": "article",
                     "children": {
-                        "id": "71f934fa-5d77-4edd-bba1-1527e1d984f4",
+                        "id": "de68e34f-d0d1-4da4-add3-114b8049483f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -189,28 +223,28 @@
             ]
         },
         {
-            "id": "4d1fbcdc-9ea6-43bf-ad92-9aaaf739d937",
+            "id": "b990fc82-04d1-4def-862c-e31612802bb7",
             "name": "Chapter V",
             "title": "\nKETENTUAN PIDANA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "c14f276d-293b-4cbe-94a7-3521eda7e37d",
+                    "id": "9a8eb972-90cd-42d6-9eb0-ffbe240d0033",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e1482da7-9b4f-4da2-9d48-6d600737dead",
+                            "id": "0b5dd2ef-47bf-4d8b-9ebc-85fff524c74e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pelanggaran atas ketentuan dalam Pasal 2, 9, dan 14 diancam dengan pidana denda setinggi-tingginya Rp. 500.000,- (lima ratus ribu rupiah).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "17885883-15f2-4b83-9fe1-fae05851b6bc",
+                            "id": "f372fb60-55b2-41eb-8566-0ee34c12f575",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Tindak pidana yang dimaksud dalam ayat (1) adalah pelanggaran.\n",
                             "explanation": "Tidak ada Penjelasan"
@@ -220,17 +254,17 @@
             ]
         },
         {
-            "id": "57f45bed-85aa-4b6d-a3ff-4c78e5f99203",
+            "id": "8b06d5d7-265b-4680-adbf-5f2bd5c5e9e7",
             "name": "Chapter VI",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8d95bb7c-780b-4e46-9f47-0fc41f888a60",
+                    "id": "c12f1f98-e019-4e2b-92d3-f1be9585e28f",
                     "name": "Article 14",
                     "type": "article",
                     "children": {
-                        "id": "753c8834-6162-47ae-9db6-a4e28c545343",
+                        "id": "33d179c0-12ca-4c6f-a2a0-127c7f037a8d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -241,17 +275,17 @@
             ]
         },
         {
-            "id": "3d6b8558-b8da-4bb1-b6da-aa5a8287598b",
+            "id": "6084010c-861b-4aac-901f-a50ddae63b50",
             "name": "Chapter VII",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "69191b08-6575-463b-b340-9ddbf3ce8e2e",
+                    "id": "b63be945-f703-4ac3-a497-be21c5458d52",
                     "name": "Article 15",
                     "type": "article",
                     "children": {
-                        "id": "761f10d0-4c3d-4ff6-ac0c-940458d37969",
+                        "id": "5e79759c-231c-4081-98d0-8ee4d249d491",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -260,11 +294,11 @@
                     }
                 },
                 {
-                    "id": "86a1ea2a-ae7b-4120-ab5d-09f58885f608",
+                    "id": "a5e5b8b2-5d48-48a4-9df7-ee1556b2e334",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "b7eaf2d8-a882-47e9-b693-5d776b84b534",
+                        "id": "55460c35-78b5-4a45-adb8-9f9d87fcd1f2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -273,11 +307,11 @@
                     }
                 },
                 {
-                    "id": "112228e5-e4de-4e7f-b486-f8cea9d942dc",
+                    "id": "fdd22888-d785-46fe-8172-2c821f10e85c",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "be551570-f4c7-4def-b5d3-62a653734f56",
+                        "id": "0d85b942-61f4-4a08-abc2-60ba70996b6a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -286,11 +320,11 @@
                     }
                 },
                 {
-                    "id": "2561854e-f0cc-4ba8-a7da-b3df095b3294",
+                    "id": "a6538e27-eee2-453c-aa55-c7cbf63d0b2c",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "b5eb5de1-f54c-4543-8b90-f36ea5e42034",
+                        "id": "7de1ab3c-15bd-4a80-ad9d-19a9bafe545e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -299,63 +333,63 @@
                     }
                 },
                 {
-                    "id": "3d3b1c2d-83b7-49f7-a887-277f4a386e5e",
+                    "id": "f2d30443-b39b-4b40-aaa4-8b1edd5cde81",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "9d6c53fa-81b8-45b0-9cd6-c3b5d7542835",
+                        "id": "6b46d71b-4742-42f6-b026-9cfb059e83b6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nSesuai dengan Undang-undang Nomor 31 Tahun 1964 tentang Ketentuan-\nketentuan Pokok Tenaga Atom, Instalasi Atom diartikan sebagai tempat,\nbangunan atau kompleks dimana terdapat segala atau sesuatu kegiatan dalam\nlapangan tenaga atom. Ini berarti bahwa sesuatu tempat yang ada kegiatan\ntenaga atomnya seperti pemakaian pesawat sinar X juga diartikan sebagai\nInstalasi Atom.",
+                        "content": "\nSesuai dengan Undang-undang Nomor 31 Tahun 1964 tentang Ketentuan-ketentuan Pokok Tenaga Atom, Instalasi Atom diartikan sebagai tempat, bangunan atau kompleks dimana terdapat segala atau sesuatu kegiatan dalam lapangan tenaga atom. Ini berarti bahwa sesuatu tempat yang ada kegiatan tenaga atomnya seperti pemakaian pesawat sinar X juga diartikan sebagai Instalasi Atom.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "490ab508-21fb-4284-80f7-246209d8ef22",
+                    "id": "450f17a1-e83b-402f-b080-d2a528ed40a1",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "2daff96f-2061-4a16-8ef0-9d2d07c816b7",
+                        "id": "37955fe6-491e-4ad2-b258-36e7ccf976bd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam hal pemakai itu Badan Hukum, maka pemohon adalah pengurus/petugas\nyang bersangkutan dengan tugas itu dari Badan Hukum tersebut.",
+                        "content": "\nDalam hal pemakai itu Badan Hukum, maka pemohon adalah pengurus/petugas yang bersangkutan dengan tugas itu dari Badan Hukum tersebut.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "f9a0580a-5930-40a0-8646-96e348b1a090",
+                    "id": "0803d058-2a96-414a-8db3-ecd78c6481b1",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "865dce8a-a484-49a6-b9cc-8c0d6745ccc8",
+                        "id": "dbd78c1d-41d0-4539-9613-fbc17fc07a1f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nTerhadap pemegang izin yang tidak lagi memenuhi syarat, maka pemakai akan\ndiperingatkan agar memenuhi syarat-syarat kerja. Tindakan pembekuan adalah\nmerupakan langkah berikut apabila peringatan tersebut tidak diindahkan.\nAkhirnya, pencabutan izin hanya akan diambil sebagai langkah terakhir.",
+                        "content": "\nTerhadap pemegang izin yang tidak lagi memenuhi syarat, maka pemakai akan diperingatkan agar memenuhi syarat-syarat kerja. Tindakan pembekuan adalah merupakan langkah berikut apabila peringatan tersebut tidak diindahkan. Akhirnya, pencabutan izin hanya akan diambil sebagai langkah terakhir.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "0453d57b-9301-453e-bbc7-cf14a0dc52e9",
+                    "id": "fc5bc19a-dcce-4aa2-a87e-dd457eab83cb",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "f796dda1-86e5-46fe-9a3f-f0b3fe1ff037",
+                        "id": "9c828090-14e4-4ef7-bd47-4df1c31d002b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nYang dimaksud dengan alasan tertentu adalah\na. Kegiatan pemegang izin dibekukan oleh Pemerintah (Departemen yang\nmengatur dan mengurus bidang kegiatan pemegang izin) ;\nb. Terlibat langsung atau tidak langsung dalam gerakan melawan Pemerintah.",
+                        "content": "\nYang dimaksud dengan alasan tertentu adalah\na. Kegiatan pemegang izin dibekukan oleh Pemerintah (Departemen yang mengatur dan mengurus bidang kegiatan pemegang izin);\nb. Terlibat langsung atau tidak langsung dalam gerakan melawan Pemerintah.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "0a2d603f-f791-409d-b562-bf0485a8a3e6",
+                    "id": "850410fc-63e2-4259-967b-097d156e5162",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "af2fed90-be5d-4cde-9e9b-55523a307da3",
+                        "id": "2c52cfff-9cc8-4c92-9934-73fa58437994",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -364,37 +398,37 @@
                     }
                 },
                 {
-                    "id": "18f4ad2f-dc9b-444d-b987-24fe2000529a",
+                    "id": "05e77a7e-7794-453d-9022-b9ac9831ba70",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "d3a0d7c6-8834-42a0-a771-eccef2226285",
+                        "id": "dd532926-1650-4c3f-ad57-7041da96ddc2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPenegasan kewajiban ini perlu agar pemakaian zat radioaktip dan atau sumber\nradiasi lainnya dilaksanakan sebaik-baiknya, agar tidak merugikan kesehatan\npekerja atau penduduk sekitarnya. Hal ini ternyata dengan adanya pemeriksaan\nyang dapat dilakukan sewaktu-waktu oleh ahli-ahli dari Instansi yang\nBerwenang atau Instansi lain atas dasar kerjasama dengan Instansi yang\nBerwenang.",
+                        "content": "\nPenegasan kewajiban ini perlu agar pemakaian zat radioaktip dan atau sumber radiasi lainnya dilaksanakan sebaik-baiknya, agar tidak merugikan kesehatan pekerja atau penduduk sekitarnya. Hal ini ternyata dengan adanya pemeriksaan yang dapat dilakukan sewaktu-waktu oleh ahli-ahli dari Instansi yang Berwenang atau Instansi lain atas dasar kerjasama dengan Instansi yang Berwenang.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "b1a1801c-d836-4f8c-aa40-793e4fd5ee80",
+                    "id": "719852ee-2282-42f5-b8a6-e0de4bd967eb",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "dcc94a76-4f68-4935-b3a5-7777de376c71",
+                        "id": "7bd35bcf-61c1-43a3-bcc2-b8c3eaeb2ec8",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPihak yang dirugikan dapat minta ganti rugi kepada pemegang izin, jika ia\nberhasil membuktikan bahwa kerugian yang menimpa dirinya adalah\ndisebabkan oleh pemakaian zat radioaktip dan sumber radiasi lainnya itu.",
+                        "content": "\nPihak yang dirugikan dapat minta ganti rugi kepada pemegang izin, jika ia berhasil membuktikan bahwa kerugian yang menimpa dirinya adalah disebabkan oleh pemakaian zat radioaktip dan sumber radiasi lainnya itu.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "41ad512c-4800-4151-93df-0a1ad7203bee",
+                    "id": "0489ee34-ec84-4f69-a9ea-010e0b8aafd9",
                     "name": "Article 11",
                     "type": "article",
                     "children": {
-                        "id": "9b5e1c8e-04d0-4862-8cdf-879445e705e2",
+                        "id": "201e6b22-0bcb-4f15-ad76-96242cd779a3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -403,24 +437,24 @@
                     }
                 },
                 {
-                    "id": "38ef40eb-7b16-4728-9f14-02d913e2c51a",
+                    "id": "4fb20ea4-9fb2-4de7-b16a-62f2d865b145",
                     "name": "Article 12",
                     "type": "article",
                     "children": {
-                        "id": "d25dd25a-173d-4a72-b80a-e1c5f22d2c72",
+                        "id": "4f33ef02-552b-4c51-9f84-f00745ac1bd2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMengingat adanya Instansi lain yang banyak mempergunakan zat radioaktip\ndan atau sumber radiasi lainnya, maka kepada Instansi tersebut dapat diberikan\nwewenang pemeriksaan untuk effisiensi pengawasan terhadap pelaksanaan\nperaturan ini. Pemberian wewenang dapat dalam bentuk kerjasama dengan\nInstansi Yang Berwenang.",
+                        "content": "\nMengingat adanya Instansi lain yang banyak mempergunakan zat radioaktip dan atau sumber radiasi lainnya, maka kepada Instansi tersebut dapat diberikan wewenang pemeriksaan untuk effisiensi pengawasan terhadap pelaksanaan peraturan ini. Pemberian wewenang dapat dalam bentuk kerjasama dengan Instansi Yang Berwenang.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "b4e66610-fbda-4088-9133-5d5504e10721",
+                    "id": "a77e9b10-a092-494d-99ff-bdaf6a22a99b",
                     "name": "Article 13",
                     "type": "article",
                     "children": {
-                        "id": "1a3179c3-8c35-4061-8111-08118641e8e6",
+                        "id": "fb9b54b5-9a1e-4508-92c1-9762b8693a89",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -429,15 +463,15 @@
                     }
                 },
                 {
-                    "id": "d037eb6e-078e-4a2b-b907-b82baabe7f88",
+                    "id": "a582191f-aff3-4f33-b0a8-f211f6cab189",
                     "name": "Article 14",
                     "type": "article",
                     "children": {
-                        "id": "ac6117b1-304a-4a29-929e-5bd0a216a0d8",
+                        "id": "347e4142-55cb-4601-8b1f-377926e01678",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDiperkirakan jangka waktu 6 (enam) bulan untuk melaporkan bagi mereka\nyang sudah memakai, cukup riil.",
+                        "content": "\nDiperkirakan jangka waktu 6 (enam) bulan untuk melaporkan bagi mereka yang sudah memakai, cukup riil.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }

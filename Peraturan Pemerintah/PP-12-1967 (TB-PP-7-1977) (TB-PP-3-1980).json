@@ -1,64 +1,56 @@
 {
     "results": [
         {
-            "id": "99bde508-2660-42a9-b0ce-7f504f03c626",
+            "id": "af7b7a3d-d9eb-481e-8af7-a9f0641f28c0",
             "name": "Chapter I",
             "title": ".\nGAJI-POKOK DAN PENGHASILAN-PENGHASILAN\nLAINNYA.\nA. UMUM.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "cac5ccd6-99f7-4dc0-90a8-0d85222638bd",
+                    "id": "de55dea2-a813-4be4-9388-5605d7130423",
                     "name": "Article 1",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1072db18-5f41-46d1-bf6f-e8dd779bded6",
+                            "id": "b2e3696a-b15e-4e20-b5cf-72f72fb8e557",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pegawai Negeri Sipil, untuk selanjutnya disebut pegawai,\ndiangkat dalam pangkat-pangkat tersebut dalam lampiran A\nperaturan ini dengan pemberian gaji pokok yang termuat dalam\ndaftar-gaji dalam lampiran B, ditambah dengan tunjangan-\ntunjangan menurut peraturan ini.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "fe96434e-8fef-49d2-b481-2923e6722519",
+                            "id": "e53aa8c2-985a-42be-b84e-9e3dd1e48f4c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Pengangkatan dalam suatu pangkat termaksud dalam ayat. (1)\ndiatas ini, dilakukan untuk menjalankan tugas-tugas\npekerjaan dalam jabatan Negeri yang disediakan untuk pangkat",
+                            "content": " Pengangkatan dalam suatu pangkat termaksud dalam ayat. (1)\ndiatas ini, dilakukan untuk menjalankan tugas-tugas\npekerjaan dalam jabatan Negeri yang disediakan untuk pangkat\n(3) Nama jabatan bagi tugas pekerjaan dalam jabatan Negeri yang\ndiperlukan oleh masing-masing Departemen/Lembaga ditentukan\noleh Menteri yang bersangkutan setelah mendengar Kepala\nKantor Urusan Pegawai dan dengan memperhatikan ketentuan-\nketentuan yang berlaku mengenai jabatan itu.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "99982f40-73b6-4eeb-a735-6ce72c6603e5",
-                            "name": "Verse 3",
-                            "number": "(3)",
-                            "type": "verse",
-                            "content": " Nama jabatan bagi tugas pekerjaan dalam jabatan Negeri yang\ndiperlukan oleh masing-masing Departemen/Lembaga ditentukan\noleh Menteri yang bersangkutan setelah mendengar Kepala\nKantor Urusan Pegawai dan dengan memperhatikan ketentuan-\nketentuan yang berlaku mengenai jabatan itu.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "f5cc61df-c350-4855-aed1-b3f2d292141a",
+                            "id": "2418d65e-b78a-409c-b368-c9ff946c03b0",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Untuk diangkat dalam suatu pangkat menurut peraturan ini,\ncalon yang bersangkutan harus berusia sekurang-kurangnya 18\n(delapan belas) tahun dan setinggi-tingginya 40 (empat\npuluh) tahun pada saat pengangkatannya serta serendah-\nrendahnya tamat Sekolah Dasar VI tahun.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "c18dc827-84d2-4806-b7bc-e6726fd13b68",
+                            "id": "68b7b95f-ec50-4f19-9649-2257c8f7883b",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
-                            "content": " Kepada mereka yang dipekerjakan sebagai calon-pegawai dalam\nmasa percobaan diberikan gaji-pokok-bulanan sebesar 80%\n(delapan puluh perseratus) dari gaji-pokok ditambah\ntunjangan-tunjangan yang dapat diberikan menurut peraturan\nini.\nB. GAJI РОКОК.",
+                            "content": " Kepada mereka yang dipekerjakan sebagai calon-pegawai dalam\nmasa percobaan diberikan gaji-pokok-bulanan sebesar 80%\n(delapan puluh perseratus) dari gaji-pokok ditambah\ntunjangan-tunjangan yang dapat diberikan menurut peraturan\nini.\nB. GAJI POKOK.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "fa0eed47-17cb-441d-a7d0-3effa9fda5ea",
+                    "id": "c7cd23f3-063c-4985-b97a-355e50a41510",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "00bdfd46-6446-4d64-b685-98646998c69e",
+                        "id": "c50451d7-2b85-4978-99ff-cc8b1ceaba6c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -67,11 +59,11 @@
                     }
                 },
                 {
-                    "id": "2d87966f-7106-4a08-8ef1-d2ff6093710f",
+                    "id": "2f2687fb-61c6-44e6-818c-18f60de90d79",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "5fa34540-4ced-427d-a7db-5de6ab9b9438",
+                        "id": "83c6a1f9-828b-4da5-b0e1-851c32011900",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -80,11 +72,11 @@
                     }
                 },
                 {
-                    "id": "3f75addb-fa74-4f29-a1c2-5427a484f7ed",
+                    "id": "0746fe34-f19f-4aeb-a42e-558a4a185614",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "f92fac6b-5fe8-4b20-aa3d-0975d5b1dec5",
+                        "id": "163c72c8-ee06-4aef-8ec7-1dd5dd1398cf",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -93,30 +85,30 @@
                     }
                 },
                 {
-                    "id": "37f84ca5-5c0e-44e1-ad0d-0b9cbf970907",
+                    "id": "c9c21850-dd7b-4770-a11d-49149cae1251",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "dd58746b-2d02-4e1d-b969-8275096b2ee8",
+                            "id": "1f67c30b-402d-4116-a1c7-760daa228b7d",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penetapan gaji-pokok dapat menyimpang dari ketentuan-\nketentuan pada pasal 2 peraturan ini:\na. jikalau ada alasan-alasan yang cukup untuk mengangkat\npegawai yang berpengalaman dengan memberikan masa-kerja\ngolongan,\nb. pada waktu pengangkatan seorang yang mendapat pensiun\natau tunjangan yang bersifat pensiun, baik yang\ndiberikan sebagai bekas pegawai Negeri, bekas pegawai\ndaerah Swatantra maupun sebagai bekas anggota ABRI,\nmenjadi pegawai bulanan, maka kepadanya disamping\npensiun atau tunjangan yang bersifat pensiun termaksud\ndiberikan gaji-pokok-bulanan atas dasar sesuatu\nruang/golongan gaji sesuai dengan masa-kerja-golongan,\nc. pada waktu pengangkatan seorang yang mendapat pensiun\natau tunjangan yang bersifat pensiun, baik yang\ndiberikan sebagai bekas pegawai Negeri, bekas pegawai\ndaerah Swatantra, maupun sebagai bekas anggota ABRI,\nmenjadi pegawai Negeri, maka kepadanya apabila\npemberian pensiun atau tunjangan yang bersifat pensiun\ntersebut dibatalkan, diberi gaji-pokok menurut suatu\nruang-golongan-gaji sesuai dengan masa-kerja-golongan\nyang dihitung menurut ketentuan tentang masa-kerja-\ngolongan termuat dalam pasal 17 peraturan ini.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5d30d412-3ab7-4985-9af9-2a48684a603b",
+                            "id": "8373d516-8b15-4459-a82c-822ce43c0464",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Penetapan gaji-pokok termaksud ayat (1) pasal ini dilakukan\nsebagai berikut:\na. apabila pangkat pegawai termasuk golongan/ruang-gaji\nyang sesuai dengan ijazahnya, maka kepadanya diberikan\ngaji-pokok sesuai dengan masa-kerja-golongan yang\ndihitung dalam golongan/ruang-gaji itu;\nb. apabila pangkat pegawai termasuk golongan/ruang-gaji\nyang lebih tinggi daripada golongan/ruang-gaji menurut\nijazahnya, maka kepadanya diberikan gaji-pokok dan\nmasa-kerja-golongan yang terletak segaris dengan masa-\nkerja-golongan yang dihitung dalam golongan/ruang-gaji\nsesuai dengan ijazahnya;\nc. apabila pangkat pegawai termasuk golongan/ruang-gaji\nyang lebih rendah daripada golongan/ruang-gaji menurut\nijazahnya, maka kepadanya diberikan gaji-pokok yang\nsesuai dengan masa-kerja-golongan yang dihitung dalam\ngolongan-ruang-gaji yang lebih rendah itu.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "986cd652-0beb-4a1b-8b0f-5d3209708435",
+                            "id": "4cdf8814-bc0b-445e-8ed6-cfd5a24dcbf2",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Gaji-pokok menurut sesuatu ruang-gaji peraturan ini yang\ndapat ditetapkan berdasarkan ketentuan-ketentuan ayat (1)\ndan (2) pasal ini adalah setingggi-tingginya sebesar gaji-\npokok maksimum setelah dikurangi dengan 2, (dua) kenaikan-\ngaji-berkala 3 (tiga) tahunan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -124,38 +116,38 @@
                     ]
                 },
                 {
-                    "id": "a14ff364-a791-4945-a12b-5dae988b8cf8",
+                    "id": "047fba65-1692-40ba-a03a-bfdd62e1bc8a",
                     "name": "Article 6",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9650598f-6b24-4938-96d0-3a9b8a35ebe1",
+                            "id": "4f273120-fee5-4108-b632-73cc027ebdc9",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Kenaikan-gaji-berkala diberikan jika dipenuhi syarat-\nsyarat:\na. menurut daftar penilaian pelaksanaan pekerjaan\n(conduite staat) bagi yang bersangkutan menunjukkan\nkemampuan kerja, kerajinan dan kepatuhan (disiplin)-\nkerja dengan nilai \"cukup\" dan\nb. mencapai masa-kerja-golongan yang ditentukan untuk\nkenaikan-gaji-berkala itu.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "22f8529d-f3be-4ebc-9cbd-1d0f06ffe3fa",
+                            "id": "b23801a9-198b-45dd-aa66-28f8bfc90ac7",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pemberian kenaikan-gaji-berkala menurut ayat (1) pasal ini\nditetapkan 2 (dua) bulan sebelum kenaikan-gaji-berkala itu\nberlaku.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e013fd16-a0de-482c-9882-de183796d07a",
+                            "id": "97e44226-7c06-4315-9c5b-659d4385acd4",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Jika yang bersangkutan belum memenuhi syarat tersebut pada\nayat (1) huruf a diatas ini, maka kenaikan-gaji-berkala itu\nditunda paling lama untuk waktu 1 (satu) tahun. Jika sehabis\nwaktu penundaan tersebut yang bersangkutan belum pula\nmemenuhi syarat termaksud, maka kenaikan-gaji-berkala itu\nditunda lagi tiap-tiap kali paling lama untuk 1 (satu)\ntahun.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "42decac5-411e-4a17-9414-e3f49fb2f804",
+                            "id": "41708ecc-0bf2-4a84-890c-8ccd0de621a4",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Jika tidak ada alasan lagi untuk penundaan pemberian\nkenaikan gaji itu, maka kenaikan-gaji-berkala diberikan\nmulai bulan berikutnya masa penundaan dan masa penundaan itu\nikut dihitung penuh untuk kenaikan-gaji-berkala berikutnya.",
                             "explanation": "Tidak ada Penjelasan"
@@ -163,22 +155,22 @@
                     ]
                 },
                 {
-                    "id": "4b34f846-7e34-40e1-8cff-0f32e1dd21b3",
+                    "id": "3b43d11e-2f69-4df9-abd4-2f045fe40dc6",
                     "name": "Article 7",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f3c9bcee-3939-4109-8b23-9902c33d56eb",
+                            "id": "204dbe67-3913-4d46-a38f-fbaa6244eaeb",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Kepada pegawai yang menurut daftar penilaian pelaksanaan\npekerjaan (conduite-staat) menunjukkan kemampuan kerja dan\nkerajinan dengan nilai \"amat-baik\", dan kepatuhan\n(disiplin)-kerja dengan nilai \"baik\", sehingga ia patut\ndijadikan teladan, dapat diberikan kenaikan gaji-istimewa\ndengan memajukan saat kenaikan gaji yang akan datang dan\nsaat-saat kenaikan gaji-berkala selanjutnya dalam pangkat\nyang dijabatnya saat-pemberian penghargaan ini.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6f2e3959-2119-4159-b9e0-d51fd3be70a6",
+                            "id": "217b6315-d408-481a-af56-f47b1c63a3f3",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pemberian kenaikan-gaji-istimewa dilakukan oleh atau dengan\npersetujuan Menteri yang bersangkutan.\nC. TUNJANGAN-TUNJANGAN.",
                             "explanation": "Tidak ada Penjelasan"
@@ -186,175 +178,167 @@
                     ]
                 },
                 {
-                    "id": "e305563a-ee2d-49c4-b62f-82615ea16aa1",
+                    "id": "c3f4bf42-761c-4129-8a35-5dc96cbc521b",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6682ba20-abe9-4b44-85e8-97670f1660e4",
+                            "id": "58c25178-d2b4-4592-8c27-c032a619a99e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Disamping gaji-pokok kepada pegawai diberikan tunjangan-\ntunjangan yang berkenaan dengan :\na. jumlah keluarganya,\nb. tingkat kemahalan hidup,\nc. tugas-tugas yang menjadi kewajibannya,\nd. tanggung jawab pimpinan jabatan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ee9b1306-32cd-4c1d-9673-88ec46b11c1c",
+                            "id": "a779e8f6-ede1-43a3-a650-5a099cac72d9",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Tunjangan-tunjangan yang berkenaan dengan tugas-tugas yang menjadi kewajiban pegawai termaksud ayat (1) huruf c diatas ini hanya diberikan untuk tugas-tugas kewajiban yang terletak di luar pekerjaan sehari-hari atau yang dilakukan di luar waktu kerja yang berlaku baginya.",
+                            "content": " Tunjangan-tunjangan yang berkenaan dengan tugas-tugas yang\nmenjadi kewajiban pegawai termaksud ayat (1) huruf c diatas\nini hanya diberikan untuk tugas-tugas kewajiban yang\nterletak di luar pekerjaan sehari-hari atau yang dilakukan\ndi luar waktu kerja yang berlaku baginya.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "b084a8e1-ae32-4571-807d-385a43b62058",
+                    "id": "13b50d30-1d3f-44be-81c3-e8794103b6ca",
                     "name": "Article 9",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6c6cdbf7-f4f6-4236-8031-0cd7b6d2eed5",
+                            "id": "7a7ce43a-525a-4a9a-9a46-8177a04fffec",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Kepada pegawai yang beristeri/bersuami diberikan tunjangan isteri/suami sebesar 5% (lima perseratus) dari gaji-pokok sebulan, dengan ketentuan bahwa jika suami-isteri kedua-duanya pegawai Negeri, tunjangan ini hanya diberikan kepada pegawai yang gajinya tertinggi.",
+                            "content": " Kepada pegawai yang beristeri/bersuami diberikan tunjangan\nisteri/suami sebesar 5% (lima perseratus) dari gaji-pokok\nsebulan, dengan ketentuan bahwa jika suami-isteri kedua-\nduanya pegawai Negeri, tunjangan ini hanya diberikan kepada\npegawai yang gajinya tertinggi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f15c8e5f-e031-418b-a20c-5a481befb7a2",
+                            "id": "6fcdbc25-ce3c-4a17-863e-926a3839d47e",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " a. Kepada pegawai yang mempunyai anak dan/atau anak angkat yang berumur kurang dari 18 (delapan belas) tahun dan tidak kawin atau belum pernah kawin, diberikan tunjangan anak sebesar 2% (dua perseratus) dari gaji-pokok sebulan untuk tiap-tiap anak,\nb. Tunjangan anak bagi anak-angkat diberikan hanya untuk seorang anak.",
+                            "content": " a. Kepada pegawai yang mempunyai anak dan/atau anak angkat\nyang berumur kurang dari 18 (delapan belas) tahun dan\ntidak kawin atau belum pernah kawin, diberikan\ntunjangan anak sebesar 2% (dua perseratus) dari gaji-\npokok sebulan untuk tiap-tiap anak,\nb. Tunjangan anak bagi anak-angkat diberikan hanya untuk\nseorang anak.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "6c98dc13-11fe-4abd-86a2-626afd83d51c",
+                    "id": "8ff0086b-0de5-42ac-85ac-8773b1c4fab4",
                     "name": "Article 10",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ec86a048-562e-4534-830c-7adf68323b3a",
+                            "id": "1be65726-c7e5-42fe-81b3-8d117229dd15",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Kepada pegawai yang berkedudukan di suatu daerah yang angka index kemahalannya lebih besar daripada angka index kemahalan daerah tertentu yang ditunjuk sebagai dasar (standard), dapat diberikan tiap bulan tunjangan-kemahalan daerah yang ditetapkan oleh Menteri Keuangan setelah mendengar Kepala Kantor Urusan Pegawai dan Kepala Biro Pusat Statistik.",
+                            "content": " Kepada pegawai yang berkedudukan di suatu daerah yang angka\nindex kemahalannya lebih besar daripada angka index\nkemahalan daerah tertentu yang ditunjuk sebagai dasar\n(standard), dapat diberikan tiap bulan tunjangan-kemahalan\ndaerah yang ditetapkan oleh Menteri Keuangan setelah\nmendengar Kepala Kantor Urusan Pegawai dan Kepala Biro Pusat\nStatistik.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6f92b480-a742-4f67-bb8c-b4d102a7b43b",
+                            "id": "96519a84-56c4-49e6-aedc-9b9b93bebc15",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Tunjangan-kemahalan daerah dihitung berdasarkan persentasi yang sama dan setinggi-tingginya berjumlah 10% (sepuluh perseratus) dari gaji-pokok ditambah tunjangan-keluarga.",
+                            "content": " Tunjangan-kemahalan daerah dihitung berdasarkan persentasi\nyang sama dan setinggi-tingginya berjumlah 10% (sepuluh\nperseratus) dari gaji-pokok ditambah tunjangan-keluarga.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "d5594d95-d380-4af9-a3c4-d85724968ef1",
+                    "id": "b3649eea-7178-49dd-b064-a7fd29a29aa8",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "66d48132-efdf-4743-a72a-e1de072ffb55",
+                            "id": "7d5a39cc-6f1f-47c1-a6a5-ef34ed8a4a3b",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Apabila dianggap perlu berhubungan dengan tingkat kemahalan bahan-bahan pokok keperluan hidup, kepada pegawai yang digaji menurut golongan gaji I ruang a s/d ruang d peraturan ini dapat diberikan tunjangan pangan/sandang dalam bentuk bahan (in natura) atau berupa uang berdasarkan harga pangan/ sandang yang ditetapkan oleh Pemerintah Daerah Swatantra",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "589d4fd0-6c97-4029-85f8-82c9a8ec9f8a",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": " Pemberian tunjangan pangan/sandang termaksud ayat/(1) pasal\nini diatur oleh Menteri Keuangan setelah mendengar Kepala\nKantor Urusan Pegawai.",
+                            "content": "Apabila dianggap perlu berhubungan dengan tingkat kemahalan\nbahan-bahan pokok keperluan hidup, kepada pegawai yang\ndigaji menurut golongan gaji I ruang a s/d ruang d peraturan\nini dapat diberikan tunjangan pangan/sandang dalam bentuk\nbahan (in natura) atau berupa uang berdasarkan harga pangan/\nsandang yang ditetapkan oleh Pemerintah Daerah Swatantra",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "ba4758a7-99db-4d0a-8fac-4cec3e74ab89",
+                    "id": "d7e92c44-81a0-472a-9c81-c398d42cffd6",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "52c84674-cccb-4eb7-a9ff-bc4b86508628",
+                            "id": "1cde6256-d431-4da5-a794-fae68d774d65",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Kepada Pegawai yang gaji pokoknya kurang dari Rp.1.000,-\n(seribu rupiah) sebulan, diberikan tunjangan khusus\nsedemikian besarnya sehingga jumlah gaji-pokok ditambah\ntunjangan khusus menjadi Rp 1.000,- (seribu rupiah).",
+                            "content": " Kepada Pegawai yang gaji pokoknya kurang dari Rp.1.000,- (seribu rupiah) sebulan, diberikan tunjangan khusus sedemikian besarnya sehingga jumlah gaji-pokok ditambah tunjangan khusus menjadi Rp 1.000,- (seribu rupiah).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e316c025-1306-4e1b-8d1a-9b7841929095",
+                            "id": "de216ff3-b634-4543-9c84-c5eb143cf7a8",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Batas Rp 1.000,- (seribu rupiah) termaksud ayat (1) pasal ini\ntiap-tiap 6 (enam) bulan sekali disesuaikan dengan harga\nrata-rata bahan-bahan pokok kebutuhan hidup minimal yang\nberlaku bagi seluruh wilayah Republik Indonesia.",
+                            "content": " Batas Rp 1.000,- (seribu rupiah) termaksud ayat (1) pasal ini tiap-tiap 6 (enam) bulan sekali disesuaikan dengan harga rata-rata bahan-bahan pokok kebutuhan hidup minimal yang berlaku bagi seluruh wilayah Republik Indonesia.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "99a47746-da68-4890-8a20-eb2776877c57",
+                            "id": "1108fbc1-d544-4cdc-947c-f82d9b9f339a",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Perubahan batas Rp 1.000, (seribu rupiah) termaksud pada\nayat/(2) pasal ini ditetapkan oleh Menteri Keuangan setelah\nmendengar Kepala Kantor Urusan Pegawai dan Kepala Biro Pusat\nStatistik.",
+                            "content": " Perubahan batas Rp 1.000, (seribu rupiah) termaksud pada ayat/(2) pasal ini ditetapkan oleh Menteri Keuangan setelah mendengar Kepala Kantor Urusan Pegawai dan Kepala Biro Pusat Statistik.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "dda2a531-f5c1-4ea8-a66e-9b5f844dc0cf",
+                    "id": "fc5bdc79-97b8-4145-bf9b-976f7cd3ffbc",
                     "name": "Article 13",
                     "type": "article",
                     "children": {
-                        "id": "d2c8038b-a56e-402a-a13d-8444fe4f4997",
+                        "id": "01de027b-4d60-4fa2-8576-ce64ab5b8213",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nTunjangan pelaksana.\nKepada pegawai yang digaji menurut golongan gaji II, III dan\nIV peraturan ini diberikan tunjangan pelaksana sebesar 20% (dua\npuluh perseratus) dari gaji-pokok sebulan.",
+                        "content": "\nTunjangan pelaksana.\nKepada pegawai yang digaji menurut golongan gaji II, III dan IV peraturan ini diberikan tunjangan pelaksana sebesar 20% (dua puluh perseratus) dari gaji-pokok sebulan.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "9eafc138-bd3b-4f67-9479-9d75e2da62fe",
+                    "id": "ab753e5e-afd6-470c-b972-ef9c60dff674",
                     "name": "Article 14",
                     "type": "article",
                     "children": [
                         {
-                            "id": "907b55a0-5f50-403c-9fb0-cfada81d0864",
+                            "id": "f1b517ed-da80-45b9-b3a9-4fd577c75ec3",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Kepada pegawai yang mengepalai suatu kesatuan-organisasi atau\nmemimpin suatu kesatuan/regu-kerja dapat diberikan\ntunjangan-jabatan pimpinan sebesar 20% (dua puluh\nperseratus) dari gaji-pokok sebulan.",
+                            "content": " Kepada pegawai yang mengepalai suatu kesatuan-organisasi atau memimpin suatu kesatuan/regu-kerja dapat diberikan tunjangan-jabatan pimpinan sebesar 20% (dua puluh perseratus) dari gaji-pokok sebulan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "dd653895-29bb-433d-986b-1850815513b9",
+                            "id": "f22b4c35-b931-435d-946f-924c9b388398",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Jabatan-jabatan pimpinan termaksud ayat (1) pasal ini\nditentukan oleh Menteri yang bersangkutan setelah mendengar\nKepala Kantor Urusan Pegawai.",
+                            "content": " Jabatan-jabatan pimpinan termaksud ayat (1) pasal ini ditentukan oleh Menteri yang bersangkutan setelah mendengar Kepala Kantor Urusan Pegawai.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "73ee9f16-b3ef-4b47-bdf9-37354428ba3b",
+                    "id": "aa49a017-8b00-4088-9944-adba3c650b89",
                     "name": "Article 15",
                     "type": "article",
                     "children": [
                         {
-                            "id": "7e7b5228-2244-4598-8242-93a5801825e1",
+                            "id": "11a235df-165d-4b50-9f5f-c599a28bca38",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Dalam hal luar biasa atau jika ada alasan-alasan yang kuat,\nmaka selain tunjangan-tunjangan tersebut dalam pasal 8 s/d\n14 peraturan ini dapat diberikan tunjangan lain.",
+                            "content": " Dalam hal luar biasa atau jika ada alasan-alasan yang kuat, maka selain tunjangan-tunjangan tersebut dalam pasal 8 s/d 14 peraturan ini dapat diberikan tunjangan lain.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -362,60 +346,60 @@
             ]
         },
         {
-            "id": "5d99b771-8bac-4758-9c39-b9e3d9978841",
+            "id": "cf418eed-16a3-48db-bc2c-d552c907a5c3",
             "name": "Chapter II",
             "title": ".\nSYARAT PENGANGKATAN.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "bdd9d889-7fd7-459c-8730-9aa72d16b2d7",
+                    "id": "b18387f1-d3b3-4e53-b249-05d377a4142d",
                     "name": "Article 16",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8f1a493e-8856-446e-a513-c2f89b44eda9",
+                            "id": "fd4f0835-faf1-450d-8673-4926640f889e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Syarat-syarat minimal untuk pengangkatan pertama dalam suatu pangkat tersebut lampiran A peraturan ini ditentukan dalam aturan-aturan khusus yang berkenaan dengan pangkat itu.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "60fa915e-c701-4583-a86f-252c36214db3",
+                            "id": "f2d0514f-932b-44d0-9110-f4c6aa684f6c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Kenaikan pangkat pegawai tiap-tiap kali dipertimbangkan untuk pengangkatan dalam pangkat yang setingkat lebih tinggi yang lowong setelah pegawai menjabat pangkatnya sekurang- kurangnya 4 (empat) tahun dan ditetapkan pada tanggal 1 April atau tanggal 1 Oktober.",
+                            "content": " Kenaikan pangkat pegawai tiap-tiap kali dipertimbangkan untuk pengangkatan dalam pangkat yang setingkat lebih tinggi yang lowong setelah pegawai menjabat pangkatnya sekurang-kurangnya 4 (empat) tahun dan ditetapkan pada tanggal 1 April atau tanggal 1 Oktober.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "08066bdf-c9ae-4f3e-b228-ef6d8efb1014",
+                            "id": "351f367e-0c0f-474f-84e6-b7ac748985d3",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Kenaikan pangkat pegawai dipertimbangkan berdasarkan :\na.kemampuan kerja,\nb.kerajinan,\nc.kepatuhan (disiplin) kerja,\nd.hubungan-kerja-sama,\ne.prakarsa (inisiatif),\nf.kepemimpinan, khusus untuk pegawai yang menjabat jabatan pimpinan,\ng.ujian-dinas untuk pengangkatan dalam pangkat-pangkat tertentu, dengan memperhatikan ketentuan-ketentuan tentang giliran untuk kenaikan pangkat menurut peraturan yang berlaku.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "49f300be-25af-4d76-8874-30ed6780b846",
+                            "id": "ee3ca3b6-2ab0-4408-a7f5-de1e5056efa0",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Penilaian mengenai syarat-syarat termaksud huruf a s/d e ayat (3) pasal ini didasarkan atas nilai yang ditetapkan dalam daftar penilaian pelaksanaan pekerjaan (conduite-staat).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4c97053e-e6da-4d96-833a-3a99938f9e65",
+                            "id": "8d1c450a-0aca-462c-95df-ba8623dc318d",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
-                            "content": " Syarat-syarat pengangkatan dan syarat-syarat untuk kenaikan pangkat termaksud ayat (1) s/d (4) pasal ini dapat ditambah dengan syarat-syarat yang khusus diperlukan untuk jabatan- jabatan tertentu menurut keputusan Menteri yang bersangkutan.",
+                            "content": " Syarat-syarat pengangkatan dan syarat-syarat untuk kenaikan pangkat termaksud ayat (1) s/d (4) pasal ini dapat ditambah dengan syarat-syarat yang khusus diperlukan untuk jabatan-jabatan tertentu menurut keputusan Menteri yang bersangkutan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4b0ed9a7-9ad8-4a96-b698-18e779b4a290",
+                            "id": "9cb35142-a51d-4b23-a627-afccd260a4c1",
                             "name": "Verse 6",
-                            "number": "(6)",
+                            "number": "6",
                             "type": "verse",
                             "content": " Dengan menyimpang dari syarat-syarat yang ditentukan dalam ayat (1) s/d (5) pasal ini, dapat dipertimbangkan pemberian kenaikan pangkat setingkat lebih tinggi:\na.sebagai penghargaan bagi pegawai yang akan mengakhiri masa- jabatannya dengan hak pensiun dan yang selama 5 (lima) tahun terakhir dalam pangkat yang sama senantiasa melakukan tugas-tugas jabatannya dengan baik;\nb.sebagai penghargaan bagi pegawai yang meninggal dunia",
                             "explanation": "Tidak ada Penjelasan"
@@ -425,46 +409,46 @@
             ]
         },
         {
-            "id": "0cae5113-8c46-4267-ad11-b054edaf914b",
+            "id": "56b7a062-3d70-459d-997b-b5a5762091e7",
             "name": "Chapter III",
             "title": ".\nMASA-KERJA-GOLONGAN.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "320d0344-4401-4bc5-8f55-a8175116eda7",
+                    "id": "491a709d-9f07-4788-94ab-0442942ca64a",
                     "name": "Article 17",
                     "type": "article",
                     "children": [
                         {
-                            "id": "879c27b6-e457-4c29-b84d-1c78a83305bd",
+                            "id": "8bb221c5-2833-4f91-babb-3d1818c0ff15",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Dengan tidak mengurangi ketentuan-ketentuan pada ayat (3)\npasal 5 peraturan ini, sebagai masa-kerja-golongan untuk\nmenetapkan gaji-pokok menurut peraturan ini dihitung penuh:\na.masa-kerja sebagai pegawai, kecuali masa selama berada di\nluar tanggungan keuangan Negara;\nb.masa-pengalaman selama menjalankan kewajiban berbakti\nsebagai tentara pelajar menurut ketentuan dalam\nPeraturan Pemerintah Nomor 32 tahun 1949;\nc.masa-pengalaman selama aktif berjuang/melakukan tugas :\n- dalam masa Revolusi fisik antara 17 Agustus 1945 sampai 27\nDesember 1949;\n-dalam perjuangan pembebasan Irian-Barat sejak 19 Desember\n1961 sampai dengan 1 Mei 1963 di dalam kesatuan-\nkesatuan bersenjata;\n- dalam operasi-operasi/pertempuran dalam kesatuan-kesatuan\nbersenjata di masa perjuangan Dwikora.",
+                            "content": "Dengan tidak mengurangi ketentuan-ketentuan pada ayat (3)\npasal 5 peraturan ini, sebagai masa-kerja-golongan untuk\nmenetapkan gaji-pokok menurut peraturan ini dihitung penuh:\na.masa-kerja sebagai pegawai, kecuali masa selama berada di\nluar tanggungan keuangan Negara;\nb.masa-pengalaman selama menjalankan kewajiban berbakti\nsebagai tentara pelajar menurut ketentuan dalam\nPeraturan Pemerintah Nomor 32 tahun 1949;\nc.masa-pengalaman selama aktif berjuang/melakukan tugas :\ndalam masa Revolusi fisik antara 17 Agustus 1945 sampai 27\nDesember 1949;\n-dalam perjuangan pembebasan Irian-Barat sejak 19 Desember\n1961 sampai dengan 1 Mei 1963 di dalam kesatuan-\nkesatuan bersenjata;\n- dalam operasi-operasi/pertempuran dalam kesatuan-kesatuan\nbersenjata di masa perjuangan Dwikora.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b857e06f-ef4a-4250-8872-26bad7a6e444",
+                            "id": "0c043dfe-8119-450e-86c8-198a8502d0ec",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Sebagai masa-kerja-golongan untuk menetapkan gaji- pokok\nmenurut peraturan ini, dihitung untuk 2/3 (dua pertiga)\npengalaman bekerja pada Swasta yang tiap-tiap kali tidak\nkurang daripada 6 (enam) bulan berturut-turut.",
+                            "content": "Sebagai masa-kerja-golongan untuk menetapkan gaji- pokok\nmenurut peraturan ini, dihitung untuk 2/3 (dua pertiga)\npengalaman bekerja pada Swasta yang tiap-tiap kali tidak\nkurang daripada 6 (enam) bulan berturut-turut.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "87b0aa6e-796c-44f0-a9a8-e92fa5d352c4",
+                            "id": "25ee6b1e-78fe-4a40-95a4-5c724330d629",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Pengalaman-bekerja dan masa-pengalaman yang belum/ tidak\ndapat dibuktikan dengan keterangan-keterangan yang tidak\ndihitung.",
+                            "content": "Pengalaman-bekerja dan masa-pengalaman yang belum/ tidak\ndapat dibuktikan dengan keterangan-keterangan yang tidak\ndihitung.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e8929c52-158c-4a00-a378-fa06eba0a580",
+                            "id": "6a9483a6-9f17-4fcf-909e-72020d22a5f1",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Dalam menghitung pengalaman-bekerja dan masa-pengalaman\nmenjadi masa-kerja-golongan, maka pecahan bulan dihapuskan.",
+                            "content": "Dalam menghitung pengalaman-bekerja dan masa-pengalaman\nmenjadi masa-kerja-golongan, maka pecahan bulan dihapuskan.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -472,38 +456,38 @@
             ]
         },
         {
-            "id": "3777b19a-3725-4606-aaee-3b74e95723c5",
+            "id": "2422b262-8f56-49e0-ac6d-92d29a4f2fe9",
             "name": "Chapter IV",
             "title": ".\nUJIAN-DINAS.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "18cc6a58-07bc-4564-b421-b3d45ecd38fe",
+                    "id": "c55b45d9-df0a-43ed-bc2d-32c815688b63",
                     "name": "Article 18",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8c8681ea-383d-4da3-8bf9-50014312e04f",
+                            "id": "921d3fb7-e11f-4fb9-8f76-8af9797aee58",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Ujian-dinas tingkat I s/d tingkat III termaksud dalam pelbagai\naturan khusus pada daftar pangkat lampiran A peraturan ini\ndiatur oleh Menteri yang bersangkutan setelah mendengar\ndalam dan karena dinas, atau\nc.sebagai penghargaan luar biasa bagi pegawai yang sekurang-\nkurangnya 2 (dua) tahun terus-menerus memperlihatkan\nprestasi-kerja yang luar biasa baiknya.",
+                            "content": "Ujian-dinas tingkat I s/d tingkat III termaksud dalam pelbagai\naturan khusus pada daftar pangkat lampiran A peraturan ini\ndiatur oleh Menteri yang bersangkutan setelah mendengar\ndalam dan karena dinas, atau\nc.sebagai penghargaan luar biasa bagi pegawai yang sekurang-\nkurangnya 2 (dua) tahun terus-menerus memperlihatkan\nprestasi-kerja yang luar biasa baiknya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e68d50d2-ee65-48cd-8e74-172cc4e791c7",
+                            "id": "a7fa7e67-3cba-418b-b60d-ed0ac4a8fe0a",
                             "name": "Verse 7",
-                            "number": "(7)",
+                            "number": "7",
                             "type": "verse",
-                            "content": " Kenaikan pangkat sebagai penghargaan termaksud ayat/ (6) pasal\nini ditetapkan oleh Menteri yang bersangkutan setelah\nmendengar Kepala Kantor Urusan Pegawai.",
+                            "content": "Kenaikan pangkat sebagai penghargaan termaksud ayat/ (6) pasal\nini ditetapkan oleh Menteri yang bersangkutan setelah\nmendengar Kepala Kantor Urusan Pegawai.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6ca93fb9-2509-4d7e-988b-3783f23cb1ce",
+                            "id": "0adf4624-489a-465a-a08c-2d41cc1ae84c",
                             "name": "Verse 8",
-                            "number": "(8)",
+                            "number": "8",
                             "type": "verse",
-                            "content": " Dengan ijazah pendidikan tersebut dalam aturan-aturan khusus\npada daftar pangkat lampiran A peraturan ini dipersamakan\nijazah atau tingkat sesuatu pendidikan yang menurut\nkeputusan Menteri Pendidikan dan Kebudayaan ditetapkan\nsederajat dengan ijazah pendidikan termaksud.",
+                            "content": "Dengan ijazah pendidikan tersebut dalam aturan-aturan khusus\npada daftar pangkat lampiran A peraturan ini dipersamakan\nijazah atau tingkat sesuatu pendidikan yang menurut\nkeputusan Menteri Pendidikan dan Kebudayaan ditetapkan\nsederajat dengan ijazah pendidikan termaksud.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -511,36 +495,36 @@
             ]
         },
         {
-            "id": "9efef0cb-a78b-47b9-aea6-19551fea155f",
+            "id": "0247cc7b-8f5f-4587-8a48-2e986d7e6de9",
             "name": "Chapter V",
             "title": ".\nSUSUNAN PEGAWAI.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "22ea7b35-e6c5-46ac-acdf-dd9121941123",
+                    "id": "77f37193-03c5-4ede-a7ab-d36b6e8a163f",
                     "name": "Article 19",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3f9f512e-e102-46ba-b582-010b140eb69a",
+                            "id": "e581b7e4-bc4a-4c9b-b957-51be94592000",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Susunan jumlah dan pangkat-pangkat pegawai (formasi) tiap-tiap tahun ditetapkan dalam Anggaran Pendapatan dan Belanja Negara untuk tiap-tiap kesatuan organisasi Pemerintahan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "3c350542-2e42-4f28-890b-39ed23dc684c",
+                            "id": "b7be4b69-b58c-456e-b1b6-2a9183897329",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Jumlah pegawai dalam pangkat-pangkat menurut susunan termaksud ayat (1) pasal ini tidak boleh lebih daripada jumlah yang dalam Anggaran Pendapatan dan Belanja Negara ditetapkan untuk masing-masing pangkat, dengan ketentuan bahwa pangkat-pangkat yang lowong dapat diisi oleh pegawai dengan pangkat yang lebih rendah sebanyak lowongan itu.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8168c21d-262c-4be3-bf3f-c91cc58cb5d4",
+                            "id": "45e46245-cd15-4844-9460-ae7fd044196b",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Susunan jumlah dan pangkat-pangkat pegawai yang diusulkan oleh Menteri yang bersangkutan dalam Anggaran Pendapatan dan Belanja Negara ditetapkan setelah mendengar Kepala Kantor Urusan Pegawai dan Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -550,28 +534,28 @@
             ]
         },
         {
-            "id": "be798837-79d6-43eb-a995-98753b552f44",
+            "id": "ec450ea9-c560-4ced-8e06-e9c24088e302",
             "name": "Chapter VI",
             "title": ".\nPENGHASILAN PEGAWAI DALAM HUBUNGAN KERJA\nLUAR BIASA.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "687e0a22-7c12-440b-900c-a88a00079140",
+                    "id": "f1e0ba7d-6531-459d-bd48-6af4ea461193",
                     "name": "Article 20",
                     "type": "article",
                     "children": [
                         {
-                            "id": "4dc0da61-a82e-4fc4-b84d-a9eb70a34cec",
+                            "id": "c1e30d7e-622a-4952-961d-92f5b31accef",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Jika dianggap perlu dapat diangkat pegawai dalam ikatan-dinas untuk waktu terbatas, yang pengangkatan dan kedudukannya ditetapkan menurut peraturan khusus.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "296a6d60-7771-42ce-847d-d6a3404271be",
+                            "id": "be1ac398-b600-4652-a171-901ff6bed977",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Untuk menyelenggarakan pekerjaan yang bersifat sementara dan terbatas waktu penyelesaiannya atau jenis pekerjaan yang tidak dapat diserahkan kepada pegawai yang digaji menurut peraturan ini, dapat diangkat pegawai-bulanan dengan pemberian penghasilan yang ditetapkan oleh Menteri yang bersangkutan setelah mendengar Kepala Kantor Urusan Pegawai dan Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -581,51 +565,49 @@
             ]
         },
         {
-            "id": "aca8cb3d-2f61-4785-acc9-b5b9505fd774",
+            "id": "6800204f-c222-4746-a12e-0c6cef838447",
             "name": "Chapter VII",
             "title": ".\nATURAN-ATURAN PERALIHAN.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "a01b6ade-6e37-4c14-9aaa-d81ca9413ae6",
+                    "id": "2cde128c-9b44-4208-aea8-249be2dd46bd",
                     "name": "Article 21",
                     "type": "article",
-                    "children": [
-                        {
-                            "id": "1bcee3dc-f064-481b-9236-bbed4dcf4e25",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": " Dikecualikan dari:\na.ujian-dinas tingkat I, ialah pegawai yang berijazah S.L.T.A. atau ijazah yang lebih tinggi;\nb.ujian-dinas tingkat II, ialah pegawai yang berijazah Sekolah Tinggi tingkat Sarjana.\nPenyesuaian.\nPenyesuaian dari peraturan-gaji lama ke dalam peraturan-gaji\nini diatur dengan Keputusan Presiden.",
-                            "explanation": "Tidak ada Penjelasan"
-                        }
-                    ]
+                    "children": {
+                        "id": "b528be52-b8c4-45e8-9c21-5d25d1057859",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\n(2) Dikecualikan dari:\na.ujian-dinas tingkat I, ialah pegawai yang berijazah S.L.T.A. atau ijazah yang lebih tinggi;\nb.ujian-dinas tingkat II, ialah pegawai yang berijazah Sekolah Tinggi tingkat Sarjana.\nPenyesuaian.\nPenyesuaian dari peraturan-gaji lama ke dalam peraturan-gaji\nini diatur dengan Keputusan Presiden.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
                 },
                 {
-                    "id": "d843bd5d-8c62-4eda-b152-31336493e928",
+                    "id": "c2cc79ba-9aaf-46b3-b018-f838ec9998ae",
                     "name": "Article 22",
                     "type": "article",
                     "children": [
                         {
-                            "id": "01586fd9-5454-4b5e-be16-fcf83fdcfe77",
+                            "id": "f5c7bbea-f380-47be-82e7-56ab56a63a91",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Kepada pegawai yang hingga tanggal berlakunya peraturan ini\nmenerima tunjangan beras/gula dalam bentuk uang dan\nkemudian, mulai berlakunya peraturan ini, tidak termasuk\ngolongan pegawai yang berhak menerima tunjangan beras/gula\nbaik dalam bentuk uang maupun dalam bentuk bahan (innatura),\napabila ia karenanya ternyata mengalami kemunduran dalam\npenghasilannya, diberikan penghasilan-peralihan sebesar\nkemunduran itu yang dihitung berdasarkan harga beras/gula\nuntuk saat termaksud menurut ketentuan Pemerintah Daerah\nSwasta tingkat I yang bersangkutan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4c1ddf93-d2e9-4c75-9006-95745f6176e1",
+                            "id": "26cf0e86-c1ab-4092-8eeb-9fe6af10e9df",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Penghasilan-peralihan termaksud ayat (1) pasal ini tiap-tiap\nkali dikurangi dengan; jumlah setiap kenaikan penghasilan\nyang diterima oleh pegawai yang bersangkutan sejak\nberlakunya peraturan ini.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f7877e01-1f6f-4d85-b88e-3134249cbc76",
+                            "id": "c6eee191-b187-4065-b0f7-1a6748a5761c",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Ketentuan-ketentuan ayat (1) dan (2) pasal ini diperlakukan\npula kepada pegawai dalam hal pegawai tersebut mengalami\nkenaikan pangkat.",
                             "explanation": "Tidak ada Penjelasan"
@@ -633,11 +615,11 @@
                     ]
                 },
                 {
-                    "id": "ac170195-6b10-4b7f-97c7-ada4c39ab250",
+                    "id": "2905de35-e8e5-476a-86c3-0fedf8541ab2",
                     "name": "Article 23",
                     "type": "article",
                     "children": {
-                        "id": "65c5dcdf-490f-4e6b-832b-33f8ac300155",
+                        "id": "0383fcf0-34fa-4998-ab6b-d5ce0a216166",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -648,43 +630,43 @@
             ]
         },
         {
-            "id": "18daf30c-7402-4943-8d5e-ab74d6b3a365",
+            "id": "6403b661-900f-4bd7-a6bb-5aa59a776b4c",
             "name": "Chapter VIII",
             "title": ".\nKETENTUAN PENUTUP.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ed8574a4-c244-494f-897a-b199dbeb5fa6",
+                    "id": "764cda5e-786d-454d-bf14-2b3b95bf7c03",
                     "name": "Article 24",
                     "type": "article",
                     "children": {
-                        "id": "1938bbe8-6176-4c9d-b333-6ddf2068f919",
+                        "id": "acf46d25-22bf-4469-9807-05fe58d37a06",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nTunjangan pangan/sandang dalam bentuk bahan (in natura) atau\nberupa uang yang berhak diterima berdasarkan Peraturan ini,\ndiberikan sepenuhnya kepada semua pegawai.\n",
+                        "content": "\nTunjangan pangan/sandang dalam bentuk bahan (in natura) atau\nberupa uang yang berhak diterima berdasarkan Peraturan ini,\ndiberikan sepenuhnya kepada semua pegawai.\nDi dalam dokumen ini terdapat lampiran dalam format gambar.\nLampiran-lampiran ini terdiri dari beberapa halaman yang\nditampilkan sebagai satu berkas. Dari daftar berikut ini,\npilihlah salah satu butir untuk menampilkan lampiran dengan\nmenekan TAB dan kemudian tekanlah ENTER.\n",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "f2c816fd-0eb2-4e22-8bc6-ae0b234e2210",
+                    "id": "226556e1-6b0a-429b-b8ec-15c7d136e007",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "d59058f4-f19d-4763-bcc9-0af0b839b2be",
+                        "id": "5d42394b-a3d7-4221-a530-17678e788196",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1) dan (3):\n1. Penentuan nama-nama jabatan untuk pelbagai jabatan dalam\nlingkungan suatu Departemen, umpamanya perlu untuk jabatan-\njabatan:\n    a.   guru pelbagai tingkatan perguruan,\n    b.   dalam lingkungan pengadilan dan kejaksaan,\n    c.   bagi perwakilan perwakilan Republik Indonesia,\n    d.   dan lain-lain.\n2. Dengan keputusan Presiden Nomor 170 tahun 1966 antara lain\ntelah ditetapkan nama-nama jabatan:\n    a.   Sekretaris Jenderal, Direktur Jenderal, Inspektur Jenderal;\n    b.   Sekretaris, Kepala Biro, Direktur, Inspektur;\n    c.   Kepala Bagian, Kepala Dinas, yang berlaku bagi semua Departemen.\n3. Para pengawai yang memangku jabatan Negeri termaksud angka 1\ndan 2 di atas perlu diangkat dalam pasal satu pangkat yang\ntermuat dalam lampiran A Peraturan gaji ini.\nAyat (2) : Sesuai dengan pasal 4 dan 5 Undang-undang Pokok\nKepegawaian Nomor 18 tahun 1961, maka pelamar yang\nditerima untuk mengisi suatu lowongan terlebih\ndahulu dipekerjakan sebagai calon pegawai dalam\nmasa percobaan sebelum dapat diangkat dalam\nyang diperlukan (job-evaluation).\n4. Walaupun penggolongan pangkat dan gaji masih didasarkan atas\npelbagai tingkatan pendidikan (ijazah), namun beberapa ciri\nkhas dari pada sistim itu sudah mulai dilaksanakan, baik\ndalam penyusunan golongan-golongan gaji, persyaratan\npengangkatan/ kenaikan pangkat maupun dalam sistim pemberian\ntunjangan- tunjangan di samping gaji.\n5. Keadaan keuangan Negara dan perekonomian dewasa ini masih\nmenyebabkan bahwa kepada beberapa golongan pegawai bawahan,\nyaitu para pembantu pelaksana, perlu terus diberikan\ntunjangan pangan dalam bentuk bahan (in natura) atau uang,\nsedangkan gaji berupa uang ditambah dengan pemberian\ntunjangan khusus untuk sekedar mendekati keperluan-keperluan\nhidup minimal, yang besarnya periodik dapat\nditinjau/ditetapkan kembali atas dasar perubahan-perubahan\ndalam tingkat kemahalan bahan-bahan keperluan hidup.\n6.Bersama-sama dengan penyusunan peraturan gaji baru ini telah\npula ditinjau beberapa peraturan lain yang perlu dibatalkan\natau diubah bersamaan waktu dengan berlakunya peraturan gaji\nbaru ini, karena hal-hal yang berkenaan telah turut diatur\nkembali/diperbaharui atau ketentuan-ketentuannya dianggap\ntidak sesuai lagi dengan Peraturan itu. Pembatalan/perubahan\nitu telah ditetapkan dengan Peraturan Pemerintah tersendiri.\npangkat untuk jabatan yang lowong itu.\nMenurut Peraturan Pemerintah Nomor 59 tahun 1951 (pasal 21), maka percobaan berlangsung sekurang-kurangnya 1 (satu) tahun dan paling lama 3 (tiga) tahun.\nAyat (4) :Ketentuan ini mengubah ketentuan-ketentuan dalam pasal 2 huruf b Peraturan Pemerintah Nomor 59 tahun 1951, tentang pengangkatan pegawai Negeri tetap.\nAyat (5) :Besarnya gaji pokok bulanan yang dimaksudkan pada ayat ini dapat ditentukan dengan menggunakan ketentuan-ketentuan dalam pasal 5 dan 17 peraturan ini.",
+                        "content": "\nAyat (1) dan (3):\n1. Penentuan nama-nama jabatan untuk pelbagai jabatan dalam\nlingkungan suatu Departemen, umpamanya perlu untuk jabatan-\njabatan:\na. guru pelbagai tingkatan perguruan,\nb. dalam lingkungan pengadilan dan kejaksaan,\nc. bagi perwakilan-perwakilan Republik Indonesia,\nd. dan lain-lain.\n2. Dengan keputusan Presiden Nomor 170 tahun 1966 antara lain\ntelah ditetapkan nama-nama jabatan:\na. Sekretaris Jenderal, Direktur Jenderal, Inspektur\nJenderal;\nb. Sekretaris, Kepala Biro, Direktur, Inspektur;\nc. Kepala Bagian, Kepala Dinas, yang berlaku bagi semua\nDepartemen.\n3. Para pengawai yang memangku jabatan Negeri termaksud angka 1\ndan 2 di atas perlu diangkat dalam pasal satu pangkat yang\ntermuat dalam lampiran A Peraturan gaji ini.\nAyat (2) : Sesuai dengan pasal 4 dan 5 Undang-undang Pokok\nKepegawaian Nomor 18 tahun 1961, maka pelamar yang\nditerima untuk mengisi suatu lowongan terlebih\ndahulu dipekerjakan sebagai calon pegawai dalam\nmasa percobaan sebelum dapat diangkat dalam\npangkat untuk jabatan yang lowong itu.\nMenurut Peraturan Pemerintah Nomor 59 tahun 1951 (pasal 21), maka\npercobaan berlangsung sekurang-kurangnya 1 (satu)\ntahun dan paling lama 3 (tiga) tahun.\nAyat (4) Ketentuan ini mengubah ketentuan-ketentuan dalam pasal\n2 huruf b Peraturan Pemerintah Nomor 59 tahun\n1951, tentang pengangkatan pegawai Negeri tetap.\nAyat (5) Besarnya gaji pokok bulanan yang dimaksudkan pada ayat\nini dapat ditentukan dengan menggunakan ketentuan-\nketentuan dalam pasal 5 dan 17 peraturan ini.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "94c76015-6fd6-4d56-bf5a-2beafc260965",
+                    "id": "ed72852d-aa27-46ef-b06a-fa596e4fe999",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "8851cee9-43f4-4b02-ad84-ef50a889f546",
+                        "id": "1bdecd21-b7c7-4fb6-8d0b-63f65bd4b79e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -693,24 +675,24 @@
                     }
                 },
                 {
-                    "id": "2a92433f-385f-44d0-b3aa-46991ce10c84",
+                    "id": "da7ddb0b-79cd-4533-9a54-ac7155adbc2d",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "6d14b37e-7ee4-414f-8907-3cd16640ecb0",
+                        "id": "aa4c86cb-f4d5-4bf1-b7a0-35002d995a11",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPenetapan gaji dan masa kerja golongan pada waktu promosi dilakukan secara horisontal ke kanan.",
+                        "content": "\nPenetapan gaji dan masa kerja golongan pada waktu promosi\ndilakukan secara horisontal ke kanan.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "2eae0dc2-b655-40a4-871c-8fc3d77c19f3",
+                    "id": "5fe41be4-797c-4c00-8fc1-6874e49e2849",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "c87c744f-d82b-493d-b6ff-42e191b7b77c",
+                        "id": "7af92f4e-cec8-4641-a1ae-dfdc10d22e6d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -719,39 +701,37 @@
                     }
                 },
                 {
-                    "id": "0c5d817d-3845-4a88-b099-859736cb9a37",
+                    "id": "6d3e1dfb-ae6c-4b21-9b6b-d05cddc666c1",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "aed9ccf4-bd97-4fcc-853e-0673f40b5d93",
+                        "id": "e07bb526-ece1-4a2e-8472-845b2c8ca550",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1) huruf b:Penempatan seorang penerima pensiun dalam jabatan Negeri dengan diberi gaji bulanan disamping pensiun senantiasa hanyalah untuk sementara waktu.\nhuruf c :Dengan pengangkatan kembali seorang pegawai pensiunan menjadi pegawai Negeri, maka menurut pasal 12, Undang-undang Pensiun Nomor 20 tahun 1952 haknya atas pensiun dibatalkan. Kepadanya akan dapat diberikan lagi pensiun apabila ia kemudian diberhentikan kembali sebagai pegawai Negeri dengan hak pensiun.\nPengangkatan kembali seorang pegawai pensiun menjadi pegawai Negeri termaksud di atas dilaksanakan hanya dalam hal-hal luar biasa dengan persetujuan Kepala Kantor Urusan Pegawai.\nAyat (2) : Cukup jelas.",
+                        "content": "\nAyat (1) huruf b:Penempatan seorang penerima pensiun dalam\njabatan Negeri dengan diberi gaji bulanan\ndisamping pensiun senantiasa hanyalah untuk\nsementara waktu.\nhuruf c : Dengan pengangkatan kembali seorang pegawai\npensiunan menjadi pegawai Negeri, maka\nmenurut pasal 12, Undang-undang Pensiun Nomor\n20 tahun 1952 haknya atas pensiun dibatalkan.\nKepadanya akan dapat diberikan lagi pensiun\napabila ia kemudian diberhentikan kembali\nsebagai pegawai Negeri dengan hak pensiun.\nPengangkatan kembali seorang pegawai pensiun menjadi pegawai\nNegeri termaksud di atas dilaksanakan hanya\ndalam hal-hal luar biasa dengan persetujuan\nKepala Kantor Urusan Pegawai.\nAyat (2) : Cukup jelas.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "242bb02a-d649-4edb-8360-6fcf72944a9d",
+                    "id": "c3a28b6e-a4b8-461a-859e-3a9f1cafad91",
                     "name": "Article 6",
                     "type": "article",
-                    "children": [
-                        {
-                            "id": "f7c0a678-f762-4147-ad80-2f271717df0b",
-                            "name": "Verse 1",
-                            "number": "(1)",
-                            "type": "verse",
-                            "content": " pasal ini.\nAyat (4) : Cukup jelas.",
-                            "explanation": "Tidak ada Penjelasan"
-                        }
-                    ]
+                    "children": {
+                        "id": "b953855a-128c-4a9f-b0ba-9ff1117b382d",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nAyat (1) : Berdasarkan ketentuan huruf a dari ayat ini pemberian\nkenaikan gaji berkala kepada pegawai harus\ndidasarkan atas penilaian kecakapan kerja pegawai\nyang bersangkutan menurut peraturan yang berlaku.\nPeraturan termaksud yang berlaku sekarang adalah\nP.P. Nomor 10 tahun 1952.\nAyat (2) : Cukup jelas.\nAyat (3) :Penundaan kenaikan-gaji-berkala menurut ketentuan ini,\ntidaklah merupakan hukuman jabatan, melainkan\nakibat dari pada tidak dipenuhi syarat-syrat untuk\npemberian kenaikan gaji yang ditentukan dalam ayat\n(1) pasal ini.\nAyat (4) : Cukup jelas.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
                 },
                 {
-                    "id": "581a5c54-6f85-4648-b642-82d33a75be4c",
+                    "id": "ce2327ef-a173-4ebf-9038-0ec1bf79cb84",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "4c5ea4f5-8c98-4025-8085-9fae196fb958",
+                        "id": "bb0aeb12-50ae-45a6-8774-cb709898ff74",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -760,11 +740,11 @@
                     }
                 },
                 {
-                    "id": "7c0eacde-9fde-426b-b61a-02cd2ade69aa",
+                    "id": "fae0c590-f3e8-4b80-a63e-b200bc37ff15",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "31488a90-62d8-495c-8938-0869af0e02e9",
+                        "id": "73e954b0-ad90-40b1-8f04-a3d067b5f3e6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -773,24 +753,24 @@
                     }
                 },
                 {
-                    "id": "b417fa76-15b6-4ac8-8f18-6369dd4dd71d",
+                    "id": "1725d2f3-918a-45cb-b293-cdedaf9fc86d",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "8c9c9f1f-f463-480e-9851-16e2ca5f9cd8",
+                        "id": "7f8ae585-cf92-44f6-8db7-d6fab09a6dfa",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1) Dalam pengertian \"suami-isteri yang kedua-duanya pegawai Negeri\" termasuk suami dan isteri yang bekerja dengan menerima penghasilan penuh dari Kas Negara atau dari suatu Badan yang sepenuhnya dimiliki oleh Negara.\nAyat (2) Pengangkatan sebagai anak angkat harus dilakukan dengan keputusan pengadilan Negeri.",
+                        "content": "\nAyat (1) :Dalam pengertian \"suami-isteri yang kedua-duanya pegawai Negeri\" termasuk suami dan isteri yang bekerja dengan menerima penghasilan penuh dari Kas Negara atau dari suatu Badan yang sepenuhnya dimiliki oleh Negara.\nAyat (2) :Pengangkatan sebagai anak angkat harus dilakukan dengan keputusan pengadilan Negeri.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "d1f564cf-7fe5-4bf1-a1ec-9b9958af37f7",
+                    "id": "582924c4-734d-405d-9914-714ca9b9f20a",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "eaa1335b-075f-4c01-ae17-265b292fbfbc",
+                        "id": "d85dcf87-ff1f-4107-9f96-c087b4f42dff",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -799,11 +779,11 @@
                     }
                 },
                 {
-                    "id": "bd6d9b6a-43bf-4aa7-b47f-24f99ab9fa98",
+                    "id": "88c43154-bb3a-4c47-82a1-910a4a475f78",
                     "name": "Article 11",
                     "type": "article",
                     "children": {
-                        "id": "abd0f9d0-c75e-4684-be0c-0e4c92c51fc5",
+                        "id": "0747b154-98ba-4208-84ca-1cb585f2331d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -812,11 +792,11 @@
                     }
                 },
                 {
-                    "id": "52308d69-464b-44d9-875d-5133e18bf86e",
+                    "id": "dbaf7e7d-f9ff-4a85-9a42-8c0f2854eddb",
                     "name": "Article 12",
                     "type": "article",
                     "children": {
-                        "id": "cd631b3b-acb1-44a9-86df-76493a4bfbee",
+                        "id": "7b816f3d-4e25-4da6-a122-c42740abc8da",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -825,37 +805,37 @@
                     }
                 },
                 {
-                    "id": "cee08398-d113-4c4f-8956-2811ef459966",
+                    "id": "19274101-71ad-40fe-bcd1-b519159c865d",
                     "name": "Article 13",
                     "type": "article",
                     "children": {
-                        "id": "a6b8c1f2-3783-429f-9fa7-43e5077d4561",
+                        "id": "fad848da-4d20-4481-8261-85fe4f5b7683",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nTunjangan pelaksana ini diberikan kepada pegawai golongan II, III dan IV (D, E dan F lama) yang tidak lagi diberi tunjangan beras/gula.",
+                        "content": "\nTunjangan pelaksana ini diberikan kepada pegawai golongan\nII, III dan IV (D, E dan F lama) yang tidak lagi diberi tunjangan\nberas/gula.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "4f8fda8d-de67-4858-9a80-6325c27658e9",
+                    "id": "4670351d-92df-4a75-bcc3-8239825eaabd",
                     "name": "Article 14",
                     "type": "article",
                     "children": {
-                        "id": "e7e51d21-4cd2-473e-9621-54e1e0dff662",
+                        "id": "21417ea9-af44-433d-a6ce-59b6d2e5818d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nKetentuan dalam pasal ini menggantikan ketentuan-ketentuan tentang tunjangan jabatan dari Peraturan Pemerintah Nomor 34 tahun 1964. Berdasarkan pasal ini tunjangan jabatan pimpinan dapat diberikan kepada pegawai dari golongan II, III dan IV P.G.P.S. 1968 (golongan D, E dan F lama) yang ditugaskan mengepalai suatu kesatuan organisasi atau memimpin suatu kesatuan regu-kerja.\nMenjelang keluarnya keputusan-keputusan baru dari yang berwajib tentang penetapan pejabat-pejabat yang berhak atas tunjangan jabatan pimpinan ini, maka tunjangan itu mulai tanggal 1 Januri 1968 (golongan D, E dan F lama) yang ditugaskan mengepalai suatu kesatuan organisasi atau pemimpin suatu kesatuan regu-kerja.\nMenjelang keluarnya keputusan-keputusan baru dari yang berwajib tentang penetapan pejabat-pejabat yang berhak atas tunjangan jabatan pimpinan ini, maka tunjangan itu mulai tanggal 1 Januari 1968 dapat dibayarkan terus menurut pasal ini kepada pejabat-pejabat yang sebelum tanggal tersebut telah berhak atas tunjangan-jabatan berdasarkan P.P. Nomor 34 tahun 1964.\nTunjangan jabatan-pimpinan dibayarkan tiap bulan bersama degan gaji.",
+                        "content": "\nKetentuan dalam pasal ini menggantikan ketentuan-ketentuan\ntentang tunjangan jabatan dari Peraturan Pemerintah Nomor 34\ntahun 1964. Berdasarkan pasal ini tunjangan jabatan pimpinan\ndapat diberikan kepada pegawai dari golongan II, III dan IV\nP.G.P.S. 1968 (golongan D, E dan Flama) yang ditugaskan\nmengepalai suatu kesatuan organisasi atau memimpin suatu kesatuan\nregu-kerja.\nMenjelang keluarnya keputusan-keputusan baru dari yang\nberwajib tentang penetapan pejabat-pejabat yang berhak atas\ntunjangan jabatan pimpinan ini, maka tunjangan itu mulai tanggal\n1 Januri 1968 (golongan D, E dan F lama) yang ditugaskan\nmengepalai suatu kesatuan organisasi atau pemimpin suatu kesatuan\nregu-kerja.\nMenjelang keluarnya keputusan-keputusan baru dari yang\nberwajib tentang penetapan pejabat-pejabat yang berhak atas\ntunjangan jabatan pimpinan ini, maka tunjangan itu mulai tanggal\n1 Januari 1968 dapat dibayarkan terus menurut pasal ini kepada\npejabat-pejabat yang sebelum tanggal tersebut telah berhak atas\ntunjangan-jabatan berdasarkan P.P. Nomor 34 tahun 1964.\nTunjangan jabatan-pimpinan dibayarkan tiap bulan bersama\ndegan gaji.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "e31ef4e3-70a0-4f1d-9c8d-787c6dd57fc9",
+                    "id": "f1b9a8d4-c80e-46ca-b16c-43d4a260d5b1",
                     "name": "Article 15",
                     "type": "article",
                     "children": {
-                        "id": "7b3245d5-2de5-4f8e-b7c8-9e6b3f101570",
+                        "id": "b3f94340-f08c-4a18-a9d5-a9dd520f9147",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -864,37 +844,37 @@
                     }
                 },
                 {
-                    "id": "1bcb586c-b89b-4d27-98ec-4c6b33f9cc6f",
+                    "id": "55dd5f25-a1a6-4faf-9df7-48033a5b744c",
                     "name": "Article 16",
                     "type": "article",
                     "children": {
-                        "id": "30ba89f7-53e1-429c-8225-a704d28063bc",
+                        "id": "8188ac4f-d256-4ab6-93e4-fa2ae204c343",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\n1. Berdasarkan ketentuan-ketentuan dalam pasal ini, maka:\na. kenaikan pangkat pegawai pada azasnya terutama dipertimbangkan demi kepentingan dinas untuk mengisi lowongan dalam pangkat yang setingkat lebih tinggi; untuk itu pegawai yang bersangkutan harus telah menjabat pangkatnya sekurang-kurangnya 4 tahun;\nb. terhadap pegawai yang bersangkutan harus telah ditetapkan daftar pernyataan kecakapan (counduite-staat) menurut peraturan yang berlaku sesuai dengan syarat yang disebut pada ayat (3) huruf a sampai dengan e pasal ini.\nKetentuan pada ayat (2) pasal ini bahwa kenaikan-kenaikan pangkat pegawai ditetapkan pada tanggal 1 April dan 1 Oktober, tidak mengurangi peraturan yang berlaku, bahwa keputusan-keputusan tentang kenaikan pangkat pegawai tidak boleh berlaku surut.\n2.  Kenaikan pangkat secara luar biasa dapat dilaksanakan sebagai penghargaan, atas pertimbangan untuk:\n    a.memberikan penghargaan terakhir kepada pegawai yang akan mengakhiri masa-jabatannya dengan hak pensiun, apabila pegawai itu sekurang-kurangnya selama 5 (lima) tahun terakhir tidak mendapat kenaikan pangkat dan selama itu pula dinyatakan \"baik\" dalam pelaksanaan tugas jabatannya;\n    b.pegawai yang meninggal dunia dalam dan karena dinas;\n    c.memberikan penghargaan luar biasa bagi pegawai yang telah memperlihatkan prestasi kerja luar biasa baik di dalam maupun di luar lingkungan jabatannya.\n3.  Syarat-syarat khusus yang dimaksudkan pasa ayat (5) pasal ini dapat berupa umpamanya: batas usia minimum atau maksimum, keahlian tertentu, ujian dinas khusus, dan lain sebagainya untuk diangkat dalam jabatan-jabatan tertentu.\n4.  Ijazah-ijazah yang di dalam peraturan ini ditentukan sebagai syarat pengangkatan adalah pada azasnya ijazah-ijazah yang dikeluarkan/disahkan oleh Departemen Pendidikan dan Kebudayaan. Ijazah-ijazah lainnya dapat dipersamakan dengan ijazah- ijazah termaksud oleh Menteri Pendidikan dan Kebudayaan setelah mendengar Kepala Kantor Urusan Pegawai.",
+                        "content": "\n1.Berdasarkan ketentuan-ketentuan dalam pasal ini, maka:\na.kenaikan pangkat pegawai pada azasnya terutama dipertimbangkan\ndemi kepentingan dinas untuk mengisi lowongan dalam\npangkat yang setingkat lebih tinggi; untuk itu pegawai\nyang bersangkutan harus telah menjabat pangkatnya\nsekurang-kurangnya 4 tahun;\nb.terhadap pegawai yang bersangkutan harus telah ditetapkan\ndaftar pernyataan kecakapan (counduite-staat) menurut\nperaturan yang berlaku sesuai dengan syarat yang\ndisebut pada ayat (3) huruf a sampai dengan e pasal\nini.\nKetentuan pada ayat (2) pasal ini bahwa kenaikan-kenaikan pangkat\npegawai ditetapkan pada tanggal 1 April dan 1 Oktober, tidak\nmengurangi peraturan yang berlaku, bahwa keputusan-keputusan\ntentang kenaikan pangkat pegawai tidak boleh berlaku surut.\n2.Kenaikan pangkat secara luar biasa dapat dilaksanakan sebagai penghargaan, atas pertimbangan untuk:\na.memberikan penghargaan terakhir kepada pegawai yang akan mengakhiri masa-jabatannya dengan hak pensiun, apabila pegawai itu sekurang-kurangnya selama 5 (lima) tahun terakhir tidak mendapat kenaikan pangkat dan selama itu pula dinyatakan \"baik\" dalam pelaksanaan tugas jabatannya;\nb.pegawai yang meninggal dunia dalam dan karena dinas;\nc.memberikan penghargaan luar biasa bagi pegawai yang telah memperlihatkan prestasi kerja luar biasa baik di dalam maupun di luar lingkungan jabatannya.\n3.Syarat-syarat khusus yang dimaksudkan pasa ayat (5) pasal ini dapat berupa umpamanya: batas usia minimum atau maksimum, keahlian tertentu, ujian dinas khusus, dan lain sebagainya untuk diangkat dalam jabatan-jabatan tertentu.\n4.Ijazah-ijazah yang di dalam peraturan ini ditentukan sebagai syarat pengangkatan adalah pada azasnya ijazah-ijazah yang dikeluarkan/disahkan oleh Departemen Pendidikan dan Kebudayaan. Ijazah-ijazah lainnya dapat dipersamakan dengan ijazah- ijazah termaksud oleh Menteri Pendidikan dan Kebudayaan setelah mendengar Kepala Kantor Urusan Pegawai.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "ff13440a-7fdf-4d4d-8f59-58f5e858e59e",
+                    "id": "42b7db1e-41a5-4a2d-a769-77d023d70058",
                     "name": "Article 17",
                     "type": "article",
                     "children": {
-                        "id": "f5968156-9aa7-4427-9473-4098a3d4a93a",
+                        "id": "b32c3993-e92d-474b-9aa8-f66e76ab338d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAyat (1) :Cukup jelas.\nAyat (2) :Dengan pengalaman bekerja pada Swasta dimaksudkan waktu bekerja dalam suatu hubungan kerja dengan suatu badan hukum di luar lingkungan badan-badan Pemerintah Pusat atau Pemerintah Daerah.\nAyat (3) : Jika pengalaman bekerja termaksud ayat (1) dan (2) pasal ini dibuktikan dalam waktu satu tahun setelah pengangkatannya, maka perobahan masa- kerja-golongan berlaku surut sampai pada saat pengangkatan. Jika bukti-bukti itu diterima sesudah satu tahun setelah pengangkatannya, maka perobahan masa-kerja golongan berlaku mulai bulan berikutnya saat bukti-bukti tersebut diterima oleh Kepala Kantor di mana pegawai yang bersangkutan dipekerjakan.\nPemberian surat keterangan tentang pengalaman bekerja yang tidak sesuai dengan kebenarannya (palsu) dan dipergunakan sebagai keterangan untuk perhitungan masa kerja dapat dituntut menurut hukum, disamping tindakan administratip yang diambil oleh Pejabat/Badan yang berhak mengangkat dan memberhentikan pegawai.\nSuatu bukti dianggap syah, jika merupakan:\na.surat keputusan asli atau salinan surat keputusan yang\nb.surat keterangan asli dari Pejabat yang berwenang/Pemimpin\nperusahaan sebagai gantinya surat-surat\nKeputusan termaksud sub a;\nc.surat keterangan dari yang bersangkutan sendiri yang diperkuat\npaling sedikit dua orang yang oleh\nCamat/pegawai Pamong Praja yang lebih tinggi\ndinyatakan sebagai penduduk wajahnya yang\ndapat dipercaya;\ndengan ketentuan bahwa hal-ikhwal yang bersangkutan menurut\nbukti-bukti termaksud adalah layak/wajar\ndalam bandingan dengan bukti-bukti lain\nterhadap dirinya.\nAyat (4) : Cukup jelas.",
+                        "content": "\nAyat (1) :Cukup jelas.\nAyat (2): Dengan pengalaman bekerja pada Swasta dimaksudkan waktu bekerja dalam suatu hubungan kerja dengan suatu badan hukum di luar lingkungan badan-badan Pemerintah Pusat atau Pemerintah Daerah.\nAyat (3) : Jika pengalaman bekerja termaksud ayat (1) dan (2) pasal ini dibuktikan dalam waktu satu tahun setelah pengangkatannya, maka perobahan masa- kerja-golongan berlaku surut sampai pada saat pengangkatan. Jika bukti-bukti itu diterima sesudah satu tahun setelah pengangkatannya, maka perobahan masa-kerja golongan berlaku mulai bulan berikutnya saat bukti-bukti tersebut diterima oleh Kepala Kantor di mana pegawai yang bersangkutan dipekerjakan.\nPemberian surat keterangan tentang pengalaman bekerja yang tidak sesuai dengan kebenarannya (palsu) dan dipergunakan sebagai keterangan untuk perhitungan masa kerja dapat dituntut menurut hukum, disamping tindakan administratip yang diambil oleh Pejabat/Badan yang berhak mengangkat dan memberhentikan pegawai.\nSuatu bukti dianggap syah, jika merupakan:\na.surat keputusan asli atau salinan surat keputusan yang\nb.surat keterangan asli dari Pejabat yang berwenang/Pemimpin\nperusahaan sebagai gantinya surat-surat\nKeputusan termaksud sub a;\nc.surat keterangan dari yang bersangkutan sendiri yang diperkuat\npaling sedikit dua orang yang oleh\nCamat/pegawai Pamong Praja yang lebih tinggi\ndinyatakan sebagai penduduk wajahnya yang\ndapat dipercaya;\ndengan ketentuan bahwa hal-ikhwal yang bersangkutan menurut\nbukti-bukti termaksud adalah layak/wajar\ndalam bandingan dengan bukti-bukti lain\nterhadap dirinya.\nAyat (4): Cukup jelas.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "99193883-ef6d-40e8-ac17-e6e8b9900263",
+                    "id": "a900b97b-eb1f-4ef7-af87-2e1a84c5cf57",
                     "name": "Article 18",
                     "type": "article",
                     "children": {
-                        "id": "06e44893-4227-43d5-b122-1561aaa6204a",
+                        "id": "f5cdca15-9a8a-4fb4-aa46-db6ee2d933f0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -903,11 +883,11 @@
                     }
                 },
                 {
-                    "id": "d17f3e78-a3fe-460f-bc20-0bee82606d07",
+                    "id": "eca862a9-d092-4e72-93a9-70134ad58495",
                     "name": "Article 19",
                     "type": "article",
                     "children": {
-                        "id": "e44915a5-3d05-45d4-be80-069d05851d44",
+                        "id": "efcd8be6-da50-4fb9-99eb-11efa3a35c18",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -916,11 +896,11 @@
                     }
                 },
                 {
-                    "id": "3b8c5055-f814-4767-adfd-f4cb7dc07464",
+                    "id": "2339e333-36d4-47ca-b3b1-86b6fe8b52dd",
                     "name": "Article 20",
                     "type": "article",
                     "children": {
-                        "id": "32eeda46-697d-456d-aced-9f9b4c23ad1b",
+                        "id": "559680a0-4c0c-4937-b402-646ed83b9dc1",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -929,11 +909,11 @@
                     }
                 },
                 {
-                    "id": "0d15ff5e-c059-4821-b470-7833dcb66322",
+                    "id": "96552e7a-28f0-4db4-8661-5f46ac44141f",
                     "name": "Article 21",
                     "type": "article",
                     "children": {
-                        "id": "a2b66203-30e8-4cf5-af10-2d670d3a3e08",
+                        "id": "9fe14589-08eb-483a-a944-234623ba94a6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -942,11 +922,11 @@
                     }
                 },
                 {
-                    "id": "7717b36c-21b8-49f8-b5a2-29b140f03318",
+                    "id": "c3f502fc-b253-4ea8-9a12-78199f3e30f3",
                     "name": "Article 22",
                     "type": "article",
                     "children": {
-                        "id": "c7bfd1ff-bdd9-43f3-825d-da34074b9c53",
+                        "id": "683d2e01-100d-437e-b491-8780d2b0aa08",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -955,11 +935,11 @@
                     }
                 },
                 {
-                    "id": "e158b2b0-1b80-4ab2-93b1-5dec0d00e41c",
+                    "id": "61777612-a168-4c5d-806e-c16232a737cb",
                     "name": "Article 23",
                     "type": "article",
                     "children": {
-                        "id": "b347267c-ea89-4cc5-9c77-4fcb7798ef4c",
+                        "id": "99f24eff-e7dc-4e70-ab16-be3df0619ec6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",

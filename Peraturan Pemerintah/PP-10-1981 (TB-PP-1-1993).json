@@ -1,94 +1,86 @@
 {
     "results": [
         {
-            "id": "5980e17f-3630-48e7-b92b-91fe9292e150",
+            "id": "475df2b5-c249-4002-89b2-1afbe94466e8",
             "name": "Chapter I",
             "title": "\nPENYERTAAN MODAL NEGARA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8d51a636-bb15-4262-83a2-101270f2d251",
+                    "id": "27472d99-8e5e-4667-8e1c-ae497c59df72",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "cc57cfb3-4dce-4b85-a048-107f99c9038f",
+                        "id": "42f12d1b-ae63-4ba5-9759-400d5cf36d59",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nNegara Republik Indonesia melakukan penyertaan dalam modal suatu Perusahaan Perseroan (PERSERO) di bidang produksi gula.",
+                        "content": "\nNegara Republik Indonesia melakukan penyertaan dalam modal suatu\nPerusahaan Perseroan (PERSERO) di bidang produksi gula.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "27d60dea-6410-41b3-aa24-ad5999b4e3ba",
+            "id": "51475e26-881b-44f1-9329-225d7b7fed9e",
             "name": "Chapter II",
             "title": "\nMAKSUD DAN TUJUAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f55c0eac-d40a-4b66-af82-2b356c2c38df",
+                    "id": "cb118813-37f6-4efd-b25d-59042fbc1895",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "74020150-585d-44d2-81c2-89c0f342fd6a",
+                        "id": "9653f9e1-b2a2-4f8b-b387-65094cf01c46",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMaksud dan tujuan Perusahaan Perseroan (PERSERO) sebagaimana dimaksud dalam Pasal 1, selanjutnya disebut PERSERO, adalah untuk memajukan dan mengembangkan industri gula serta meningkatkan hasil produksi gula dalam rangka menunjang pembangunan ekonomi nasional.\n",
+                        "content": "\nMaksud dan tujuan Perusahaan Perseroan (PERSERO) sebagaimana\ndimaksud dalam Pasal 1, selanjutnya disebut PERSERO, adalah untuk\nmemajukan dan mengembangkan industri gula serta meningkatkan hasil\nproduksi gula dalam rangka menunjang pembangunan ekonomi nasional.\n",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "7a49aa01-ddce-4329-923b-2e2bf5800be9",
+            "id": "e90ffd04-ddd6-474b-a13b-69cecb6b0bac",
             "name": "Chapter III",
             "title": "\nMODAL PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "44b8aeca-4d36-4bdc-b021-e7f0ecfe4139",
+                    "id": "6b89c339-e661-4ff9-b274-a4f6dd5d418d",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f3633567-c17a-4d34-9d15-a87a10449f16",
+                            "id": "a3062436-0b7a-4069-8823-63ab247c86da",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Modal PERSERO terbagi atas saham-saham sesuai dengan ketentuan\nPasal 1 Peraturan Pemerintah Nomor 24 Tahun 1972 yang\nmerupakan kekayaan Negara yang dipisahkan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "71cb5574-d353-4f03-96f5-1a2f3dcb67e9",
+                            "id": "929dc133-b1d5-45f9-893b-e524fef11abe",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Modal PERSERO yang ditempatkan dan disetor pada saat\npendiriannya seluruhnya merupakan penyertaan Negara Republik\nIndonesia sebagai kekayaan Negara yang dipisahkan dan berasal dari\nnilai seluruh kekayaan Negara yang tertanam pada Perusahaan\nNegara Perkebunan XIV pada saat pembubarannya dan nilai seluruh\nkekayaan Negara yang tertanam pada Proyek Gula Jatitujuh, serta\nnilai sebagian areal PT. Perkebunan XXX yang terletak di daerah\nSubang;",
+                            "content": " Modal PERSERO yang ditempatkan dan disetor pada saat\npendiriannya seluruhnya merupakan penyertaan Negara Republik\nIndonesia sebagai kekayaan Negara yang dipisahkan dan berasal dari\nnilai seluruh kekayaan Negara yang tertanam pada Perusahaan\nNegara Perkebunan XIV pada saat pembubarannya dan nilai seluruh\nkekayaan Negara yang tertanam pada Proyek Gula Jatitujuh, serta\nnilai sebagian areal PT. Perkebunan XXX yang terletak di daerah\nSubang;\n(3) Penetapan nilai kekayaan tersebut pada ayat (1) sebagaimana akan\ndipergunakan sebagai penyertaan Negara dalam modal PERSERO\nditetapkan oleh Menteri Keuangan berdasarkan hasil perhitungan\nbersama oleh Departemen Keuangan dan Departemen Pertanian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8008e3d5-6930-4b9f-85f3-0c87d59cb484",
-                            "name": "Verse 3",
-                            "number": "(3)",
-                            "type": "verse",
-                            "content": " Penetapan nilai kekayaan tersebut pada ayat (1) sebagaimana akan\ndipergunakan sebagai penyertaan Negara dalam modal PERSERO\nditetapkan oleh Menteri Keuangan berdasarkan hasil perhitungan\nbersama oleh Departemen Keuangan dan Departemen Pertanian.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "4e9ae2b9-c5c5-41a6-9de0-27f098e37b74",
+                            "id": "12fa0ceb-f242-4275-8669-2e0878bc2033",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Ketentuan-ketentuan lain mengenai permodalan PERSERO di atur\ndalam Anggaran Dasarnya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "beb95620-fe3e-4d3b-aa15-cba840d7faa1",
+                            "id": "603f9aa1-5b89-4143-ba77-9c99d3a870c0",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Neraca Pembukaan PERSERO ditetapkan oleh Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -98,17 +90,17 @@
             ]
         },
         {
-            "id": "7e182662-536b-4ac9-85bc-69ec16fca6da",
+            "id": "d3527ae3-dded-4adb-b6c8-1a8c50d5d697",
             "name": "Chapter IV",
             "title": "\nPELAKSANAAN PENDIRIAN PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "aad48cb5-09f3-4df4-819b-d030926bc313",
+                    "id": "62fcb80e-87f5-4701-b2f8-9fe1817b6b91",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "e5f5226a-46b4-402c-bdd5-0b1cf3e9b8b5",
+                        "id": "cbe69bde-4c0f-4577-b1c9-e178149c670d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -117,30 +109,22 @@
                     }
                 },
                 {
-                    "id": "52dd556f-9791-44db-b290-714c909a16d2",
+                    "id": "1db24d22-7791-4b65-b436-691d3a39e9b9",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "847387e2-7ca9-4345-8f01-15ce83269a8d",
+                            "id": "ec04f731-76e6-48f7-b316-3cf1556e5ccc",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " dengan disertai hak substitusi kepada Menteri Pertanian dengan\nketentuan bahwa Rancangan Anggaran Dasar PERSERO harus\nmendapat persetujuan terlebih dahulu dari Menteri Keuangan.",
+                            "content": " Penyelesaian pendirian PERSERO dikuasakan kepada Menteri\nKeuangan sesuai dengan ketentuan yang dimaksud dalam Pasal 3\nPeraturan Pemerintah Nomor 12 Tahun 1969.\n\n(2) Menteri Keuangan dapat menyerahkan kekuasaan tersebut pada ayat\n(1) dengan disertai hak substitusi kepada Menteri Pertanian dengan\nketentuan bahwa Rancangan Anggaran Dasar PERSERO harus\nmendapat persetujuan terlebih dahulu dari Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "bfab6049-5ce5-44f1-b629-88392b597ad6",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": " Menteri Keuangan dapat menyerahkan kekuasaan tersebut pada ayat",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "c939f0fa-e955-42ec-8444-a0b2f28f37fe",
+                            "id": "8bc568b4-2881-40b6-b1d7-df02ef555044",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Kepada Menteri Pertanian diberi kekuasaan untuk menunjuk\nseseorang untuk ikut serta mendirikan PERSERO, sesuai dengan\nketentuan yang termaktub dalam Pasal 6 Peraturan Pemerintah\nNomor 12 Tahun 1969.",
                             "explanation": "Tidak ada Penjelasan"
@@ -150,46 +134,46 @@
             ]
         },
         {
-            "id": "29e4e808-011b-4f71-8d6c-a8d69ffd557d",
+            "id": "a2c3e750-856d-4200-a94b-a8c1b4ee5890",
             "name": "Chapter V",
             "title": "\nPEMBUBARAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "a550a05a-7a3a-436a-93d2-46161f77f6f7",
+                    "id": "3ebfc9fe-5477-45a4-81ce-44deedabe96c",
                     "name": "Article 6",
                     "type": "article",
                     "children": [
                         {
-                            "id": "2b0bebc0-780c-4b26-adfc-ea1769609feb",
+                            "id": "64778ad3-4204-4c85-8e0d-85ce02d486b8",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Perusahaan Negara Perkebunan XIV yang didirikan dengan Peraturan\nPemerintah Nomor 14 Tahun 1968 dinyatakan bubar pada saat\npendirian PERSERO dengan ketentuan bahwa segala hak dan\nkewajiban serta kekayaan Perusahaan Negara Perkebunan XIV yang\nada pada saat pembubarannya beralih kepada PERSERO.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "14aecef9-5f92-401e-9b3e-3e18a3915978",
+                            "id": "f8e9ca49-f008-4d32-947b-027124020bd7",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " dilakukan oleh Menteri Pertanian berdasarkan atas hasil\npemeriksaan Direk, Lorat Jenderal Pengawasan Keuangan Negara,\nDepartemen Keuangan.\n",
+                            "content": " Sebagai likwidatur dalam pelaksanaan pembubaran Perusahaan\nPerkebunan Negara Perkebunan XIV sebagaimana dimaksud dalam\nayat (1) di tunjuk suatu Panitia yang susunan keanggotaannya terdiri\ndari wakil-wakil Departemen Pertanian, Departemen Keuangan,\nPerusahaan Negara Perkebunan XIV, Proyek Gula Jatitujuh dan\nInstansi-instansi lain yang dianggap perlu.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "128208ca-d4c9-4407-aa93-8f4b373c29ca",
+                            "id": "d67fd8bb-1759-46fb-b6f1-7b2a483deb7f",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Pelaksanaan pembentukan, perincian tugas, masa kerja, pembiayaan\ndan hal-hal lainnya yang bersangkutan dengan pelaksanaan tugas\nPanitia Likwidasi tersebut pada ayat (2) diatur lebih lanjut oleh\nMenteri Pertanian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2cdbab64-e48b-4555-8acc-e06e993bb082",
+                            "id": "9e1bb2b0-e0d5-42f5-8b9e-6e3b34370f11",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Pengesahan atas pertanggungjawaban likwidatur tersebut pada ayat",
+                            "content": " Pengesahan atas pertanggungjawaban likwidatur tersebut pada ayat\n(2) dilakukan oleh Menteri Pertanian berdasarkan atas hasil\npemeriksaan Direk, Lorat Jenderal Pengawasan Keuangan Negara,\nDepartemen Keuangan.\n",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -197,30 +181,30 @@
             ]
         },
         {
-            "id": "90de1ad2-b150-42d6-9b56-aa46b2beb748",
+            "id": "fb38882e-6f26-47ec-a3e3-879a3cc25edc",
             "name": "Chapter VI",
             "title": "\nKETENTUAN LAIN-LAIN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ec530c3c-fc3c-42f4-9f05-42d61d96d3ea",
+                    "id": "386bfda9-7c33-45db-bfdf-c80aa59e75b8",
                     "name": "Article 7",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6318cc59-bf07-4c4d-85d4-7e6c3505d87e",
+                            "id": "c63e8e60-d189-45c7-b7a7-a431b1310123",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Terhitung sejak saat pendirian PERSERO dan pembubaran\nPerusahaan Negara Perkebunan XIV sebagaimana yang dimaksud\ndalam Pasal 6 ayat (1), maka Peraturan Pemerintah Nomor 14 Tahun\n1968 dan semua peraturan pelaksanaannya sepanjang yang mengatur\nPerusahaan Negara Perkebunan XIV dinyatakan tidak berlaku lagi.",
+                            "content": " Terhitung sejak saat pendirian PERSERO dan pembubaran Perusahaan Negara Perkebunan XIV sebagaimana yang dimaksud dalam Pasal 6 ayat (1), maka Peraturan Pemerintah Nomor 14 Tahun 1968 dan semua peraturan pelaksanaannya sepanjang yang mengatur Perusahaan Negara Perkebunan XIV dinyatakan tidak berlaku lagi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "db716692-9681-4ad9-8587-93d0f54aa340",
+                            "id": "68ebfed7-7666-4c48-b524-4ed7ffd7dceb",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Dengan ditetapkannya penyertaan modal Negara untuk pendirian\nPERSERO berdasarkan Peraturan Pemerintah ini, maka Peraturan\nPemerintah Nomor 45 Tahun 1973 tentang Pengalihan Bentuk\nPerusahaan Negara Perkebunan XIV menjadi Perusahaan Perseroan\n(PERSERO) dan Peraturan Pemerintah Nomor 17 Tahun 1979\ntentang Penyertaan Modal Negara Republik Indonesia untuk\npendirian Perusahaan Perseroan (PERSERO) di bidang Produksi\nGula dinyatakan tidak berlaku lagi.",
+                            "content": " Dengan ditetapkannya penyertaan modal Negara untuk pendirian PERSERO berdasarkan Peraturan Pemerintah ini, maka Peraturan  Pemerintah Nomor 45 Tahun 1973 tentang Pengalihan Bentuk Perusahaan Negara Perkebunan XIV menjadi Perusahaan Perseroan (PERSERO) dan Peraturan Pemerintah Nomor 17 Tahun 1979 tentang Penyertaan Modal Negara Republik Indonesia untuk pendirian Perusahaan Perseroan (PERSERO) di bidang Produksi Gula dinyatakan tidak berlaku lagi.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -228,30 +212,30 @@
             ]
         },
         {
-            "id": "5eccd1b7-f1c5-4854-848e-ff2b92d986de",
+            "id": "1ea28f44-89a8-4817-bf08-dd13d73aa158",
             "name": "Chapter VII",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "96a01479-560c-48f1-9508-0d87d9296d5e",
+                    "id": "73fbd4ad-c7bc-4981-9490-d1fd2fb73da3",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "3736f880-ce60-444e-8d03-d96a4b295c42",
+                        "id": "5940919c-5163-4215-8265-40c5d19b69e9",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nHal-hal yang belum diatur dalam Peraturan Pemerintah ini akan diatur lebih\nlanjut.",
+                        "content": "\nHal-hal yang belum diatur dalam Peraturan Pemerintah ini akan diatur lebih lanjut.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "a532bbb2-4a3f-413f-b22a-7eb69575e5c5",
+                    "id": "5ad29cc4-44ea-4614-ae06-cb8ee449023e",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "49921262-ba7a-48c7-82e3-c6c43a6059ae",
+                        "id": "5608a912-1d05-4036-9650-7e023c7547ba",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -268,7 +252,7 @@
         "Tentang": "PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK\nPENDIRIAN PERUSAHAAN PERSEROAN (PERSERO)\nDI BIDANG PRODUKSI GULA\nPRESIDEN REPUBLIK INDONESIA,",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa dalam rangka menunjang pembangunan ekonomi nasional dengan\nmeningkatkan produksi sektor pertanian khusus produksi gula, dan\nusaha meningkatkan pengelolaan Perusahaan-perusahaan Perkebunan\nNegara dalam bidang produksi gula, dipandang perlu untuk membentuk\nsuatu Perusahaan Perseroan (PERSERO) yang berusaha di bidang\nproduksi gula",
+            "a": " bahwa dalam rangka menunjang pembangunan ekonomi nasional dengan\nmeningkatkan produksi sektor pertanian khusus produksi gula, dan\nusaha meningkatkan pengelolaan Perusahaan-perusahaan Perkebunan\nNegara dalam bidang produksi gula, dipandang perlu untuk membentuk\nsuatu Perusahaan Perseroan (PERSERO) yang berusaha di bidang\nproduksi gula;",
             "b": " bahwa penyertaan modal Negara Republik Indonesia untuk pendirian\nPerusahaan Perseroan (PERSERO) tersebut pada huruf a di atas,\nberasal dari kekayaan Negara yang tertanam pada Perusahaan Negara\nPerkebunan XIV yang didirikan berdasarkan Peraturan Pemerintah\nNomor 14 Tahun 1968, dan Proyek Gula Jatitujuh yang semula\ndipisahkan untuk menjadi Perusahaan Perseroan berdasarkan Peraturan\nPemerintah Nomor 17 Tahun 1979, serta sebagian areal perkebunan",
             "PT": " Perkebunan XXX yang terletak di daerah Subang;",
             "c": " bahwa sesuai dengan ketentuan Pasal 2 ayat (1) Peraturan Pemerintah\nNomor 12 Tahun 1969, penyertaan modal Negara Republik Indonesia\ndalam rangka pendirian suatu Perusahaan Perseroan (PERSERO)\nditetapkan dengan Peraturan Pemerintah."
@@ -279,10 +263,10 @@
             "2": " Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor\n23) sebagaimana telah beberapa kali diubah dan ditambah, terakhir\ndengan Undang-undang Nomor 4 Tahun 1971 tentang Perubahan dan\nPenambahan atas ketentuan Pasal 54 Kitab Undang-undang Hukum\nDagang (Staatsblad Tahun 1847 Nomor 23) (Lembaran Negara Tahun\n1971 Nomor 20, Tambahan Lembaran Negara Nomor 2959);",
             "3": " Undang-undang Nomor 19 Prp. Tahun 1960 tentang Perusahaan\nNegara (Lembaran Negara Tahun 1960 Nomor 59, Tambahan\nLembaran Negara Nomor 1989),",
             "4": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969\n(Lembaran Negara Tahun 1969 Nomor 16, Tambahan Lembaran\nNegara Nomor 2890) tentang Bentuk-bentuk Usaha Negara menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan\nLembaran Negara Nomor 2904),",
-            "5": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21, Tambahan Lembaran Negara Nomor 2894) jo. Peraturan Pemerintah Nomor 24 Tahun 1972 tentang Perubahan atas ketentuan Pasal 7 Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran Negara Tahun 1969 Nomor 21, Tambahan Lembaran Negara Nomor 2894) tentang Perusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1972 Nomor 32, Tambahan Lembaran Negara Nomor 2987),",
-            "6": " Peraturan Pemerintah Nomor 6 Tahun 1971 tentang Pemberian Kelonggaran Perpajakan Terhadap Perusahaan-perusahaan Negara yang dialihkan bentuk Usahanya menjadi Perusahaan Jawatan dan Perusahaan Perseroan (Lembaran Negara Tahun 1971 Nomor 6, Tambahan Lembaran Negara Nomor 2953)."
+            "5": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21,\nTambahan Lembaran Negara Nomor 2894) jo. Peraturan Pemerintah\nNomor 24 Tahun 1972 tentang Perubahan atas ketentuan Pasal 7\nPeraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran Negara Tahun\n1969 Nomor 21, Tambahan Lembaran Negara Nomor 2894) tentang\nPerusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1972\nNomor 32, Tambahan Lembaran Negara Nomor 2987),",
+            "6": " Peraturan Pemerintah Nomor 6 Tahun 1971 tentang Pemberian\nKelonggaran Perpajakan Terhadap Perusahaan-perusahaan Negara yang\ndialihkan bentuk Usahanya menjadi Perusahaan Jawatan dan Perusahaan\nPerseroan (Lembaran Negara Tahun 1971 Nomor 6, Tambahan\nLembaran Negara Nomor 2953)."
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN PERUSAHAAN PERSEROAN (PERSERO) DI BIDANG PRODUKSI GULA.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENYERTAAN MODAL\nNEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN\nPERUSAHAAN PERSEROAN (PERSERO) DI BIDANG PRODUKSI\nGULA.",
         "tanggal sah": "1 April 1981"
     }
 }

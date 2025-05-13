@@ -1,0 +1,45 @@
+{
+    "results": [
+        {
+            "id": "2a92546a-af64-4e3a-b978-ad3e78f815bd",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "d35c103d-9bc5-4546-a5da-22fb55cb3fcb",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah No. 27 tahun 1959 (Lembaran-Negara tahun 1959 No. 42)\ntentang Pos Internasional diubah sebagai berikut:\n(1) Dalam pasal 4 ayat (1) sub :\na. untuk \"115 sen\" dan \"70 sen\" harus dibaca berturut-turut \"300 sen\" dan\n\"175 sen\";\nb. untuk \"70 sen\" harus dibaca \"175 sen\";\nC. untuk \"20 sen\" dan \"115 sen\" harus dibaca berturut-turut \"60\nsen\" dan \"300 sen\";\nd. untuk \"45 sen\" dan \"225 sen\" harus dibaca berturut-turut \"120 sen\" dan\n\"600 sen\";\ne. untuk \"90 sen\" dan \"60 sen\" harus dibaca berturut-turut \"215 sen\" dan\n\"150 sen\";\nf. untuk \"80 sen\" dan \"450 sen\" harus dibaca berturut-turut \"235 sen\" dan\n\"1.175 sen\";\n(2) Dalam pasal 4 ayat (2) sub a baris pertama untuk \"dua kali\" harus dibaca \"satu\nsetengah kali\".",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "79f12e92-120d-4179-9c98-31fc5a8f4029",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "22ab385b-3a1b-4ebf-aa99-f857b4c84809",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1960,\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan\nperaturan Pemerintah ini dengan penempatan dalam Lembaran-Negara Republik\nIndonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "14",
+        "Tahun": "1960",
+        "Tentang": "PERUBAHAN PERATURAN PEMERINTAH\nNO. 27 TAHUN 1959\n(LEMBARAN NEGARA TAHUN 1959 NO. 42) TENTANG POS INTERNASIONAL",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa berhubung dengan penilaian baru mata-uang Rupiah terhadap mata-uang\nasing pada bulan Agustus 1959 porto-porto termaktub dalam pasal 4 \"Peraturan\nPos Internasional\" tidak sesuai lagi dengan keadaan baru;",
+            "b": " bahwa karena itu pasal 4 tersebut perlu diubah;"
+        },
+        "Mengingat": {
+            "Introduction": "\nPasal 5 ayat (2) Undang-undang Dasar Republik Indonesia;\nMendengar \nMusyawarah Kabinet Kerja pada tanggal 22 Maret 1960;"
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang perubahan Peraturan Pemerintah No. 27 tahun 1959\n(Lembaran-Negara tahun 1959 No. 42) tentang Pos Internasional.",
+        "tanggal sah": "1 April 1960"
+    }
+}

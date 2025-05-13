@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+            "id": "45a4b16c-e9bc-436c-8031-11620884cc2d",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "1a9a1b73-3923-4ae5-8f4c-7eed024421e5",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Pajak Penghasilan atas penghasilan yang diterima oleh pekerja sampai\ndengan sebesar Upah Minimum Regional ditanggung oleh Pemerintah.",
+                "explanation": "\nPajak Penghasilan yang ditanggung oleh Pemerintah adalah Pajak Penghasilan atas\npenghasilan yang diterima oleh pekerja sampai dengan sebesar Upah Minimum\nRegional.\nApabila kepada pekerja diberikan penghasilan melebihi Upah Minimum Regional,\nmaka Pajak Penghasilan atas seluruh penghasilan pekerja tersebut tetap dihitung\ndan dibayar seperti biasa, yaitu menggunakan Penghasilan Tidak Kena\nPajak\n(PTKP) sebagai dasar perhitungan."
+            }
+        },
+        {
+            "id": "b5c5319c-617a-426e-9b9d-2c9265af34be",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "16b8266a-08e0-4cbe-8c7b-b66e2bff47ca",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ketentuan lebih lanjut yang diperlukan bagi pelaksanaan Peraturan\nPemerintah ini ditetapkan oleh Menteri Keuangan.",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "778f1e3a-f919-4fb7-a18f-b2e44eae2f1f",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "2912a983-3c38-402d-8e87-8f5e2208ba6e",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                "explanation": "\nCukup jelas\n"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "12",
+        "Tahun": "1997",
+        "Tentang": "PAJAK PENGHASILAN ATAS PENGHASILAN YANG DITERIMA\nOLEH PEKERJA SAMPAI DENGAN SEBESAR UPAH\nMINIMUM REGIONAL",
+        "Menimbang": {
+            "Introduction": "\nbahwa dengan memperhatikan ketentuan tingkat Upah Minimum\nRegional (UMR) yang berlaku serta untuk mengurangi beban pekerja\nyang memperoleh Upah Minimum Regional, perlu diatur mengenai pajak\npenghasilan atas penghasilan sampai dengan sebesar Upah Minimum\nRegional dengan Peraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan\n(Lembaran Negara Tahun 1983 Nomor 50, Tambahan Lembaran\nNegara Nomor 3263), sebagaimana telah beberapa kali diubah terakhir\ndengan Undang-undang Nomor 10 Tahun 1994 (Lembaran Negara\nTahun 1994 Nomor 60, Tambahan Lembaran Negara Nomor 3567);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PAJAK PENGHASILAN\nATAS PENGHASILAN YANG DITERIMA OLEH PEKERJA\nSAMPAI DENGAN SEBESAR UPAH MINIMUM REGIONAL.",
+        "tanggal sah": "7 Mei 1997"
+    }
+}

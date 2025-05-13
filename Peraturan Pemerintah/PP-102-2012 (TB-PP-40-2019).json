@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "id": "be4d2f53-7f37-4dab-915a-e1b4f923942e",
+            "id": "3489e90b-5dc3-4b62-aa75-bdcc864284d5",
             "name": "Article I",
             "type": "article",
             "children": [
@@ -9,12 +9,12 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "c69d4fb2-eafb-4ce8-953a-23bff6d86a7c",
+                    "id": "8c95cdd8-7199-4c58-9426-e935468d4f6e",
                     "name": "Article 71",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b4d24b96-aafa-476c-9ab6-3275731de116",
+                            "id": "7f564e69-dd24-410e-9b97-700aeda06935",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\nSIAK merupakan satu kesatuan kegiatan terdiri dari\nunsur:\na. database;\nb. perangkat teknologi informasi dan komunikasi;\nc. sumber daya manusia;\nd. pemegang hak akses;\ne. lokasi database;\nf. pengelolaan database;\ng. pemeliharaan database;\nh. pengamanan database;\ni. pengawasan database;\nj. data cadangan;\nk. perangkat pendukung;\nl. tempat pelayanan;\nm. pusat data;\nn. pusat data cadangan; dan\no. jaringan komunikasi data."
@@ -25,62 +25,55 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "7419a4fa-2eb4-4139-a602-4283b6770615",
+                    "id": "04bac8b7-3e88-4d69-a86e-4ed67f80bcdf",
                     "name": "Article 78",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3d143322-73a5-4d76-b953-15f15bf2462b",
+                            "id": "a0e162f7-b4ec-4e60-b45c-c5972a35835d",
                             "explanation": "\nCukup jelas.",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": " Pemeliharaan, pengamanan, dan pengawasan\ndatabase kependudukan sebagaimana dimaksud\ndalam Pasal 71 huruf g, huruf h, dan huruf i\ndilakukan oleh Pemerintah, pemerintah provinsi,\ndan/atau pemerintah kabupaten/kota."
                         },
                         {
-                            "id": "b4b5fc42-7b3b-48d9-80f2-576cdec5d9d9",
+                            "id": "e3fc2f6e-ae09-4c6d-9328-accb2287d456",
                             "explanation": "\nCukup jelas.",
                             "name": "Verse 2",
                             "type": "verse",
-                            "content": " Pemeliharaan, pengamanan, dan pengawasan\nsebagaimana dimaksud pada ayat (1) meliputi\ndata dalam database, perangkat keras, perangkat\nlunak, jaringan komunikasi data, pusat data,\ndata cadangan, dan pusat data cadangan."
-                        },
-                        {
-                            "id": "f2ad02a7-6ee8-41c7-9c3b-19187ed81cbe",
-                            "explanation": "\nCukup jelas.",
-                            "name": "Verse 3",
-                            "type": "verse",
-                            "content": " Untuk melaksanakan tanggung jawab sebagaimana dimaksud pada ayat (1) dan ayat (2), Menteri menetapkan tata cara dan prosedur pemeliharaan, pengamanan, dan pengawasan database kependudukan."
+                            "content": " Pemeliharaan, pengamanan, dan pengawasan\nsebagaimana dimaksud pada ayat (1) meliputi\ndata dalam database, perangkat keras, perangkat\nlunak, jaringan komunikasi data, pusat data,\ndata cadangan, dan pusat data cadangan.\n\n(3) Untuk melaksanakan tanggung jawab sebagaimana dimaksud pada ayat (1) dan ayat (2), Menteri menetapkan tata cara dan prosedur pemeliharaan, pengamanan, dan pengawasan database kependudukan."
                         }
                     ]
                 },
                 {
                     "change_type": [],
-                    "id": "897eb53d-80a5-4a14-be5c-0fe17dac7ddf",
+                    "id": "2e6fffcf-3d47-4c44-a516-1ed608d4b5f6",
                     "name": "Article 79",
                     "type": "article",
                     "children": [
                         {
-                            "id": "24bb0e7f-ee2c-49ff-b707-4a6b481b6cd1",
+                            "id": "810a2ffb-46ff-4e09-9bf3-ec41e94525c3",
                             "explanation": "\nCukup jelas.",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": " Segala biaya yang diperlukan bagi pelaksanaan penyelenggaraan SIAK dibebankan pada Anggaran Pendapatan dan Belanja Negara dan Anggaran Pendapatan dan Belanja Daerah."
                         },
                         {
-                            "id": "2eb0a1f5-e937-4d15-88a2-1aba39bc6121",
+                            "id": "1dc54c7a-0cc1-40bb-b577-4a73c29d91c4",
                             "explanation": "\nCukup jelas.",
                             "name": "Verse 2",
                             "type": "verse",
-                            "content": " Anggaran Pendapatan dan Belanja Negara sebagaimana dimaksud pada ayat (1) digunakan untuk membiayai penyelenggaraan SIAK sebagaimana dimaksud dalam Pasal 71 huruf a sampai dengan huruf 0 yang menjadi kewenangan Menteri."
+                            "content": " Anggaran Pendapatan dan Belanja Negara sebagaimana dimaksud pada ayat (1) digunakan untuk membiayai penyelenggaraan SIAK sebagaimana dimaksud dalam Pasal 71 huruf a sampai dengan huruf o yang menjadi kewenangan Menteri."
                         },
                         {
-                            "id": "3573352e-5f8f-46b2-802f-decdb3207e4c",
+                            "id": "3448a276-3c60-422c-9fbb-79df70177ef4",
                             "explanation": "\nCukup jelas.",
                             "name": "Verse 3",
                             "type": "verse",
                             "content": " Anggaran Pendapatan dan Belanja Daerah provinsi digunakan untuk membiayai penyelenggaraan SIAK sebagaimana dimaksud dalam Pasal 71 huruf a sampai dengan huruf m yang menjadi kewenangan gubernur."
                         },
                         {
-                            "id": "efc71857-df9d-4770-98ad-66e43e4f8d17",
+                            "id": "421d8415-ed3c-42dd-b7aa-96cd1e22b555",
                             "explanation": "\nCukup jelas.",
                             "name": "Verse 4",
                             "type": "verse",
@@ -92,12 +85,12 @@
                     "change_type": [
                         "DELETE"
                     ],
-                    "id": "0914d2b5-009c-4361-97ad-652395b63c54",
+                    "id": "ffcb49a2-8a58-4290-80a9-618c7d6d0fb0",
                     "name": "Article 80",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f6f1bd29-1c28-4999-9e79-abfae7176a94",
+                            "id": "c61d4f08-2cfb-4ca3-bddd-c95cd67de7d3",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\n"
@@ -107,12 +100,12 @@
             ]
         },
         {
-            "id": "389d13a5-daf5-4de3-b233-87695fcd6cb1",
+            "id": "6a429dcd-3d9f-4343-ac61-4a95a6ae0c7a",
             "name": "Article II",
             "type": "article",
             "children": [
                 {
-                    "id": "939acff3-3d26-424c-a7dd-16c4eb5d49b6",
+                    "id": "f768ea68-fa75-49d3-8990-73dcb2a20333",
                     "name": "Verse 1",
                     "type": "verse",
                     "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia."
@@ -138,7 +131,7 @@
             "3": " Undang-Undang Nomor 23 Tahun 2006 tentang\nAdministrasi Kependudukan (Lembaran Negara\nRepublik Indonesia Tahun 2006 Nomor 124,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4674);",
             "4": " Peraturan Pemerintah Nomor 37 Tahun 2007 tentang\nPelaksanaan Undang-Undang Nomor 23 Tahun 2006\ntentang Administrasi Kependudukan (Lembaran\nNegara Republik Indonesia Tahun 2007 Nomor 80,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4736);"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang Perubahan\nAtas Peraturan Pemerintah Nomor 37 Tahun 2007\ntentang Pelaksanaan Undang-Undang Nomor 23\nTahun 2006 tentang Administrasi Kependudukan;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 32 Tahun 2004 tentang\nPemerintahan Daerah (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 125, Tambahan\nLembaran Negara Republik Indonesia Nomor 4437)\nsebagaimana telah diubah terakhir dengan Undang-\nUndang Nomor 12 Tahun 2008 tentang Perubahan\nKedua Atas Undang-Undang Nomor 32 Tahun 2004\ntentang Pemerintahan Daerah (Lembaran Negara\nRepublik Indonesia Tahun 2008 Nomor 59, Tambahan\nLembaran Negara Republik Indonesia Nomor 4844);\n3. Undang-Undang Nomor 23 Tahun 2006 tentang\nAdministrasi Kependudukan (Lembaran Negara\nRepublik Indonesia Tahun 2006 Nomor 124,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4674);\n4. Peraturan Pemerintah Nomor 37 Tahun 2007 tentang\nPelaksanaan Undang-Undang Nomor 23 Tahun 2006\ntentang Administrasi Kependudukan (Lembaran\nNegara Republik Indonesia Tahun 2007 Nomor 80,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4736);\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 37 TAHUN 2007\nTENTANG PELAKSANAAN UNDANG-UNDANG NOMOR 23\nADMINISTRASI\nTAHUN\n2006\nKEPENDUDUKAN.\nTENTANG",
+        "Menetapkan": "\nPeraturan Pemerintah tentang Perubahan\nAtas Peraturan Pemerintah Nomor 37 Tahun 2007\ntentang Pelaksanaan Undang-Undang Nomor 23\nTahun 2006 tentang Administrasi Kependudukan;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 32 Tahun 2004 tentang\nPemerintahan Daerah (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 125, Tambahan\nLembaran Negara Republik Indonesia Nomor 4437)\nsebagaimana telah diubah terakhir dengan Undang-\nUndang Nomor 12 Tahun 2008 tentang Perubahan\nKedua Atas Undang-Undang Nomor 32 Tahun 2004\ntentang Pemerintahan Daerah (Lembaran Negara\nRepublik Indonesia Tahun 2008 Nomor 59, Tambahan\nLembaran Negara Republik Indonesia Nomor 4844);\n3. Undang-Undang Nomor 23 Tahun 2006 tentang\nAdministrasi Kependudukan (Lembaran Negara\nRepublik Indonesia Tahun 2006 Nomor 124,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4674);\n4. Peraturan Pemerintah Nomor 37 Tahun 2007 tentang\nPelaksanaan Undang-Undang Nomor 23 Tahun 2006\ntentang Administrasi Kependudukan (Lembaran\nNegara Republik Indonesia Tahun 2007 Nomor 80,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4736);\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 37 TAHUN 2007\nTENTANG PELAKSANAAN UNDANG-UNDANG NOMOR 23\nTAHUN 2006 TENTANG ADMINISTRASI\nKEPENDUDUKAN.",
         "tanggal sah": "3 Desember 2012"
     }
 }

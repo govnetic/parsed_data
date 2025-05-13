@@ -1,67 +1,67 @@
 {
     "results": [
         {
-            "id": "be5d4b0a-7d73-4ac2-b893-79b8d95a260c",
+            "id": "65d40f9d-90e1-4731-82ee-eec8b4af025a",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "a16e6212-c083-4b48-9a93-eccd628cc56c",
+                "id": "8afbcd1c-e985-407b-83be-4a087910e945",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Kepada anggota ABRI diberikan setiap bulan tunjangan\nkerja sebesar 50% (lima puluh perseratus) diatas penghasilan yang\nberhak diterimanya menurut \"PG.ABRI 1968\" dengan ketentuan bahwa\ntunjangan kerja tersebut berjumlah sekurang-kurangnya Rp. 7,-,-\n(tujuh ratus rupiah) sebulan.\n(2) Yang dimaksud dengan \"penghasilan\" dalam ayat (1) pasal\nini ialah jumlah dari gaji pokok ditambah tunjangan keluarga,\ntunjangan-khusus, tunjangan pelaksana dan tunjangan jabatan\npimpinan.\n(3) Angka penghasilan baru setelah ditambah menurut\nketentuan ayat (1) pasal ini dibulatkan keatas menjadi rupiah\npenuh.",
-                "explanation": "\nTunjangan-kerja ini pada dasarnya tidak diberikan kepada\nmereka yang tidak bekerja aktip; akan tetapi dianggap layak untuk\nmemberikan tunjangan tersebut juga kepada anggota A.B.R.I. yang\ndiberhentikan dari pekerjaannya/dibebaskan dari tugasnya karena\nalasan-alasan di luar kehendak atau kesalahan sendiri."
+                "content": "(1) Kepada anggota ABRI diberikan setiap bulan tunjangan kerja sebesar 50% (lima puluh perseratus) diatas penghasilan yang berhak diterimanya menurut \"PG.ABRI 1968\" dengan ketentuan bahwa tunjangan kerja tersebut berjumlah sekurang-kurangnya Rp. 7,- (tujuh ratus rupiah) sebulan.\n(2) Yang dimaksud dengan \"penghasilan\" dalam ayat (1) pasal ini ialah jumlah dari gaji pokok ditambah tunjangan keluarga, tunjangan-khusus, tunjangan pelaksana dan tunjangan jabatan pimpinan.\n(3) Angka penghasilan baru setelah ditambah menurut ketentuan ayat (1) pasal ini dibulatkan keatas menjadi rupiah penuh.",
+                "explanation": "\nTunjangan-kerja ini pada dasarnya tidak diberikan kepada mereka yang tidak bekerja aktip; akan tetapi dianggap layak untuk memberikan tunjangan tersebut juga kepada anggota A.B.R.I. yang diberhentikan dari pekerjaannya/dibebaskan dari tugasnya karena alasan-alasan di luar kehendak atau kesalahan sendiri."
             }
         },
         {
-            "id": "f544d0f7-9d86-4764-b028-276e4d027553",
+            "id": "0a4fe327-b6e3-4793-9f87-68c41b2ad104",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "1cb8a47b-46a8-411e-b471-3c9071670e33",
+                "id": "0beae25a-2350-4c42-9d7a-04af49e54d68",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Besarnya iuran-iuran yang dipungut dari gaji anggota\nABRI untuk membiayai.usaha-usaha dalam bidang Pemeliharaan\nKesejahteraan Pegawai Negeri sebagaimana dimaksud dalam pasal 2\nPeraturan Pemerintah Nomor 13 tahun 1967 (Lembaran-negara tahun\n1967 Nomor 25), ditetapkan menurut persentasi-persentasi dari\npenghasilan termaksud ayat (3), pasal 1 Peraturan Pemerintah ini.\n(2) Besarnya persentasi-persentasi termaksud ayat (1) pasal\nini dan perincian penggunaannya ditentukan lebih lanjut dengan\nSurat Keputusan Presiden.",
-                "explanation": "\nUntuk lebih mudah mengaturnya dan agar senantiasa dapat\ndisesuaikan dengan kepentingan pegawai, tujuan dan pentingnya\nkebutuhan-kebutuhan dalam bidang Kesejahteraan, maka besarnya\npersentasi dan pembagian penggunaannya ditentukan dengan Surat\nKeputusan Presiden.\nPasal 3 s/d 4.\nCukup jelas.\n"
+                "content": "(1) Besarnya iuran-iuran yang dipungut dari gaji anggota ABRI untuk membiayai.usaha-usaha dalam bidang Pemeliharaan Kesejahteraan Pegawai Negeri sebagaimana dimaksud dalam pasal 2 Peraturan Pemerintah Nomor 13 tahun 1967 (Lembaran-negara tahun 1967 Nomor 25), ditetapkan menurut persentasi-persentasi dari penghasilan termaksud ayat (3), pasal 1 Peraturan Pemerintah ini.\n(2) Besarnya persentasi-persentasi termaksud ayat (1) pasal ini dan perincian penggunaannya ditentukan lebih lanjut dengan Surat Keputusan Presiden.",
+                "explanation": "\nUntuk lebih mudah mengaturnya dan agar senantiasa dapat disesuaikan dengan kepentingan pegawai, tujuan dan pentingnya kebutuhan-kebutuhan dalam bidang Kesejahteraan, maka besarnya. persentasi dan pembagian penggunaannya ditentukan dengan Surat Keputusan Presiden.\nPasal 3 s/d 4.\nCukup jelas.\n"
             }
         },
         {
-            "id": "a3bd5f71-df82-4f09-8d4b-68a07965b15f",
+            "id": "627f6b33-ee81-4f97-a8f5-c7952b171b52",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "de1a3447-0209-458b-a4de-a76f556e7db6",
+                "id": "e929059f-ee6a-4d98-a6cf-d36dd12e2745",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Pelaksanaan Peraturan Pemerintah ini lebih lanjut diatur oleh\nMenteri Pertahanan dan Keamanan setelah mendengar Menteri\nKeuangan.",
+                "content": "Pelaksanaan Peraturan Pemerintah ini lebih lanjut diatur oleh Menteri Pertahanan dan Keamanan setelah mendengar Menteri Keuangan.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "56ac1602-5ca6-4d71-844d-d70f32f5d3cc",
+            "id": "1d973db9-b1e4-47c9-a931-32eb6c793cd6",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "0e9fae46-add6-4578-98cb-0693bc33ce9c",
+                "id": "5ccf0647-7209-43e2-9bc6-2fa25329c481",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Semua ketentuan yang bertentangan dengan Peraturan Pemerintah\nini dinyatakan tidak berlaku.",
+                "content": "Semua ketentuan yang bertentangan dengan Peraturan Pemerintah ini dinyatakan tidak berlaku.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "45559b47-c625-47df-a7bc-1e15e034f28c",
+            "id": "cba5c376-5e88-42e9-9f5c-8de57c13b2e0",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "487a77e8-6392-489a-8c53-da2818de975e",
+                "id": "cb4216f4-6f66-4f32-a051-c8d3ccc67000",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku tanggal 1 April 1970.\nAgar setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini, dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku tanggal 1 April 1970.\nAgar setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini, dengan penempatan dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -76,8 +76,8 @@
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Undang-undang Nomor 18 tahun 1961 (Lembaran-Negara tahun 1961\nNomor 263);",
-            "3": " Peraturan Pemerintah Nomor 14 tahun 1967 (Lembaran-Negara\ntahun 1967 Nomor 26) sebagaimana telah diubah dan ditambah\nkemudian."
+            "2": " Undang-undang Nomor 18 tahun 1961 (Lembaran-Negara tahun 1961 Nomor 263);",
+            "3": " Peraturan Pemerintah Nomor 14 tahun 1967 (Lembaran-Negara tahun 1967 Nomor 26) sebagaimana telah diubah dan ditambah kemudian."
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PEMBERIAN TUNJANGAN KERJA BAGI\nANGGOTA ABRI.",
         "tanggal sah": "1 April 1970"

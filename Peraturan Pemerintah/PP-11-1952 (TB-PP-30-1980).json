@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "ab48ab44-5a8b-4b8e-81a8-57709a90bf38",
+            "id": "b58df044-b5be-4bf3-b527-a5ea27ff5548",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "d345318f-5f4d-4d09-a372-31210cc82a7d",
+                "id": "85c836f2-606e-4be8-90f6-fa42d554d818",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "7afaa0eb-fb41-42a3-94e6-7d06c5a7020b",
+            "id": "17d8d50c-ba8c-49ee-a767-7fef82bdfcb6",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "22b90479-5356-44d9-b4cc-63075a693183",
+                "id": "dae4e1f2-b11b-470e-82fa-693da2d509cb",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,24 +27,24 @@
             }
         },
         {
-            "id": "e4a88263-a733-4d9d-a670-8f03c9e43df3",
+            "id": "a7a01abe-3e1f-4acf-abf4-c3e3a15bb134",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "fdbf4b8d-3eff-44ea-9af7-042d10f1a69a",
+                "id": "412df9ed-c550-40ed-b58c-23d2eecefcdd",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Hukuman yang dapat dijatuhkan kepada pegawai, adalah sebagai\nberikut:\na. tegoran tertulis,\nb. pernyataan tidak puas dengan surat ketetapan,\nc. dipindahkan kelain tempat,\nd. menunda kenaikan gaji selama tidak lebih dari satu\ntahun,\ne. menurunkan gajinya sebesar satu kali kenaikan gaji yang\ntelah ditentukan selama tidak lebih dari satu tahun,\nmenurunkan tingkatan jabatannya ketingkatan yang\nterdekat tidak lebih dari satu tahun,\ng. dilepas dari pekerjaannya,\nh. dilepas dari jabatan Negeri.\n(2) Jika dijatuhkan hukuman tersebut pada ayat 1 huruf f Pembesar\nyang berwajib harus mengatur supaya pangkat semula\ndikembalikan sesudah waktu yang ditentukan itu lampau,\nsekalipun tidak ada tempat terbuka dalam pangkat itu.",
+                "content": "(1) Hukuman yang dapat dijatuhkan kepada pegawai, adalah sebagai\nberikut :\na. tegoran tertulis,\nb. pernyataan tidak puas dengan surat ketetapan,\nc. dipindahkan kelain tempat,\nd. menunda kenaikan gaji selama tidak lebih dari satu\ntahun,\ne. menurunkan gajinya sebesar satu kali kenaikan gaji yang\ntelah ditentukan selama tidak lebih dari satu tahun,\nmenurunkan tingkatan jabatannya ketingkatan yang\nterdekat tidak lebih dari satu tahun,\ng. dilepas dari pekerjaannya,\nh. dilepas dari jabatan Negeri.\n(2) Jika dijatuhkan hukuman tersebut pada ayat 1 huruf f Pembesar\nyang berwajib harus mengatur supaya pangkat semula\ndikembalikan sesudah waktu yang ditentukan itu lampau,\nsekalipun tidak ada tempat terbuka dalam pangkat itu.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "302b84bd-7f0b-4df4-b15d-a7b873695262",
+            "id": "4700a0e4-6aed-4f02-be7a-215fa85392b8",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "dc48d209-7646-4d9c-8a2f-da7ee9b33f58",
+                "id": "9aea1abe-273a-496d-96c1-1ecfb056c511",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "d2e2e721-2ae2-458d-9ed0-6f51b9fe539a",
+            "id": "9613ccd3-2c30-4f8f-94fe-0c7ab8ce7300",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "07469454-95b4-4e67-a3e2-20a33cbe90bf",
+                "id": "42f3361c-0166-4525-b6b3-f0a37c4590e4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "6ac2e814-d7f3-4baf-aec2-1445fc33fe4e",
+            "id": "43c8dfe6-ec72-49c9-9acc-86e8f67286f2",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "c67c5523-d9c4-4065-9e08-52050f3d5747",
+                "id": "7976c3f5-77d1-4243-9252-50eb8e83ef8a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -79,11 +79,11 @@
             }
         },
         {
-            "id": "ae95b766-f496-429d-a23a-cfb8907df360",
+            "id": "b35011fc-0830-4944-8a12-9e513c573105",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "ca590d89-981c-4514-a165-064a75f8a786",
+                "id": "5846d044-8a75-42db-9945-5cb8ed3ae61c",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -92,11 +92,11 @@
             }
         },
         {
-            "id": "918037e1-42f2-484d-ba47-db3679c6ea5d",
+            "id": "dbb15988-00dd-408e-8f05-ed8e2b46f76e",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "61e62223-5c40-4b3d-927d-74adcaa2822b",
+                "id": "6a76e44c-69c3-4254-96e3-9514401cb258",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -105,24 +105,24 @@
             }
         },
         {
-            "id": "04bc7181-7a8d-46c6-a324-48935a9751b9",
+            "id": "545f5da0-aa0f-4e51-90ec-1383562477d9",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "108bda25-272f-4230-9ce1-605fd1a79828",
+                "id": "a15c636d-cea4-4308-80b9-fcfe7ff5d893",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Dalam waktu 14 hari sesudah diterima putusan Panitia termaksud dalam pasal 8 ayat (2), oleh pegawai yang dihukum atau penjabat yang menghukum dapat dimintakan pemeriksaan ulangan kepada Ketua Pengadilan Tinggi yang mempunyai daerah\ndi mana pegawai yang dihukum bertempat tinggal. Pembesar\ntersebut segera membentuk sebuah Panitia terdiri dari :\na. seorang hakim Pengadilan Tinggi yang ditunjuk oleh\nKetua Pengadilan Tinggi itu sebagai anggota merangkap\nKetua.\nb. seorang anggota, yang ditunjuk oleh Panitia tersebut\ndalam pasal 3 dengan persetujuan pegawai yang dijatuhi\nhukuman.\nC. seorang anggota yan ditunjuk oleh Menteri Urusan\nPegawai.\n(2) Panitia termaksud dalam pasal ini memilih salah seorang lain\nsebagai penulis atau mengangkat seorang penulis dari salah\nseorang Pegawai Pengadilan Tinggi dengan Persetujuan Ketua\nPengadilan Tinggi itu.\n(3) Ketentuan-ketentuan dalam pasal 6 tentang tempat dan cara\npemeriksaan perkara dan pasal 7 ayat 2 dan pasal 8 berlaku\njuga terhadap Panitia ini.\n(4) Baik penjabat yang menghukum, maupun pegawai yang dihukum\nharus tunduk pada putusan Panitia itu.",
+                "content": "(1) Dalam waktu 14 hari sesudah diterima putusan Panitia termaksud dalam pasal 8 ayat (2), oleh pegawai yang dihukum atau penjabat yang menghukum dapat dimintakan pemeriksaan ulangan kepada Ketua Pengadilan Tinggi yang mempunyai daerah\ndi mana pegawai yang dihukum bertempat tinggal. Pembesar\ntersebut segera membentuk sebuah Panitia terdiri dari :\na. seorang hakim Pengadilan Tinggi yang ditunjuk oleh\nKetua Pengadilan Tinggi itu sebagai anggota merangkap\nKetua.\nb. seorang anggota, yang ditunjuk oleh Panitia tersebut\ndalam pasal 3 dengan persetujuan pegawai yang dijatuhi\nhukuman.\nc. seorang anggota yan ditunjuk oleh Menteri Urusan\nPegawai.\n(2) Panitia termaksud dalam pasal ini memilih salah seorang lain\nsebagai penulis atau mengangkat seorang penulis dari salah\nseorang Pegawai Pengadilan Tinggi dengan Persetujuan Ketua\nPengadilan Tinggi itu.\n(3) Ketentuan-ketentuan dalam pasal 6 tentang tempat dan cara\npemeriksaan perkara dan pasal 7 ayat 2 dan pasal 8 berlaku\njuga terhadap Panitia ini.\n(4) Baik penjabat yang menghukum, maupun pegawai yang dihukum\nharus tunduk pada putusan Panitia itu.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "47353b4b-332d-4962-be08-f39da5133070",
+            "id": "7ed33f48-7db5-4f8c-ac6d-29b22d8b7bd7",
             "name": "Article 10",
             "type": "article",
             "children": {
-                "id": "ffdb5577-04b5-428b-a323-3a7aa9299ec8",
+                "id": "e1f8991e-1a8b-420a-9f52-cc5927b22f51",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -131,11 +131,11 @@
             }
         },
         {
-            "id": "a80468f0-b2e4-4087-b692-79e1ed9ce809",
+            "id": "b7b8ca47-2783-4138-9b93-81b4b78a7ce8",
             "name": "Article 11",
             "type": "article",
             "children": {
-                "id": "00fd7777-b1e9-42af-98b7-71ec59e0774f",
+                "id": "b3f864be-d42b-46cc-9ced-514e89371fc4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -144,11 +144,11 @@
             }
         },
         {
-            "id": "96cb0b26-4281-49ef-8702-e8b412846b0e",
+            "id": "4010b06d-f222-4509-bd11-f18ede3f937d",
             "name": "Article 12",
             "type": "article",
             "children": {
-                "id": "ec21f0a5-f952-42e1-adae-dd53508a42c2",
+                "id": "3bc18289-1be1-4bce-97d3-c380a16a4dad",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",

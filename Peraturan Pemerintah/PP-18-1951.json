@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "1d3df952-2013-4915-b9e9-32edafa4afad",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "dd7638a3-b9f6-441d-868f-f025164781a2",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Untuk Ketua Mahkamah Agung, Jaksa Agung dan Ketua Dewan Pengawas\nKeuangan disediakan sebuah rumah Negeri beserta perabot rumah\n(meubilair).",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "713a8492-2cd2-4ef7-950a-c6a64a436066",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "eb2eac07-c09d-4c59-8670-95376c1d3e87",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan ini berlaku terhitung mulai tanggal 27 Desember 1949 dan\nakan berlaku terus hingga waktu gaji-gaji, biaya perjalanan dan\nbiaya penginapan c.q. tunjangan-tunjangan lain buat para Pembesar\ntermaksud pada pasal 44 Undang-undang Dasar Sementara Republik\nIndonesia ditetapkan lebih lanjut.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "18",
+        "Tahun": "1951",
+        "Tentang": "PERATURAN SEMENTARA TENTANG RUMAH DINAS BAGI\nKETUA MAHKAMAH AGUNG, JAKSA AGUNG DAN\nKETUA DEWAN PENGAWAS KEUANGAN.",
+        "Menimbang": {
+            "Introduction": "\nBahwa berhubung dengan sifat kedudukannya, sebagaimana ternyata\ndari pasal 44 Undang-undang Dasar Sementara Republik Indonesia,\nperlu diberikan tunjangan-tunjangan khusus kepada beberapa\nPembesar Republik Indonesia;"
+        },
+        "Mengingat": {
+            "Introduction": "\n1) Pasal 142 Undang-undang Dasar Sementara Republik Indonesia;\n2) Pasal 21 dan 22 Peraturan Gaji Pegawai 148;\n3) Peraturan Pemerintah Republik Indonesia Serikat No. 4 tahun\n1950;"
+        },
+        "Menetapkan": "\nPERATURAN SEMENTARA TENTANG RUMAH DINAS BAGI KETUA MAHKAMAH AGUNG,\nJAKSA AGUNG DAN KETUA DEWAN PENGAWAS KEUANGAN.",
+        "tanggal sah": "27 Desember 1949"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "results": [
+        {
+            "id": "bab8dfdb-b105-476d-99c4-02cf1c9a10c3",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "3d6a3f1b-99c6-4bd1-98d9-2a69de5ee780",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "7a2bb92c-5e2b-4a31-a418-d74a538a08dd",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "b582209e-208d-45db-9ce9-b0e06bf566aa",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "f5582876-f3ee-4774-a8e6-8a7b03a7b37f",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPerubahan-perubahan tersebut pada Pasal I dilaksanakan terhitung mulai\ntanggal 1 April 1975."
+                }
+            ]
+        },
+        {
+            "id": "5300e818-29a2-4a48-af28-f8ff02e8ee89",
+            "name": "Article III",
+            "type": "article",
+            "children": [
+                {
+                    "id": "fbb594a4-afc0-4d4c-8f0e-c0bc8a7d29a0",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkannya.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya dalam\nLembaran Negara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "17",
+        "Tahun": "1975",
+        "Tentang": "PERUBAHAN PASAL 1 AYAT (5) PERATURAN PEMERINTAH NOMOR 15\nTAHUN 1974 TENTANG UANG KEHORMATAN BAGI KETUA, WAKIL KETUA\nDAN ANGGOTA MAJELIS PERMUSYAWARATAN RAKYAT",
+        "Menimbang": {
+            "Introduction": "\nbahwa mengingat kemampuan keuangan negara dewasa ini,\ndipandang perlu untuk meninjau kembali ketentuan besarnya uang\nkehormatan bagi Ketua, Wakil Ketua, dan Anggota Majelis\nPermusyawaratan Rakyat;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Ketetapan Majelis Permusyawaratan Rakyat Nomor\nVI/MPR/1973 tentang Kedudukan dan Hubungan Tata Kerja\nLembaga Tertinggi Negara dengan/atau antar Lembaga-lembaga\nTinggi Negara;",
+            "3": " Peraturan Pemerintah Nomor 15 Tahun 1974 tentang Gaji/Gaji\nKehormatan/Uang Kehormatan Ketua, Wakil Ketua dan Anggota\nLembaga Tertinggi/Tinggi Negara (Lembaran Negara Tahun\n1974 Nomor 18);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nTENTANG PERUBAHAN PASAL 1 AYAT (5) PERATURAN\nPEMERINTAH NOMOR 15 TAHUN 1974 TENTANG UANG\nKEHORMATAN BAGI KETUA, WAKIL KETUA DAN\nANGGOTA MAJELIS PERMUSYAWARATAN RAKYAT.",
+        "tanggal sah": "9 Mei 1975"
+    }
+}

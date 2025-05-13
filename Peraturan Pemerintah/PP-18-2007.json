@@ -1,0 +1,324 @@
+{
+    "results": [
+        {
+            "id": "3a13cc35-5b77-4633-8d69-84c7989d37f4",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "a59ab4c2-df84-4ada-b178-00cf92ae5f07",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "fcad402b-0fa0-4a59-8244-24deb04b0612",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1.  Pendanaan keolahragaan adalah penyediaan sumber daya keuangan yang diperlukan untuk penyelenggaraan keolahragaan.\n2.  Pemerintah adalah Pemerintah Pusat.\n3.  Pemerintah daerah adalah pemerintah provinsi, dan/atau pemerintah kabupaten/kota.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "d7c32eb8-a19f-48f4-ac92-b6b84beb74e1",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": {
+                        "id": "bfe6c5a8-14b9-4ab4-89be-6734ccdc3a43",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPendanaan keolahragaan menjadi tanggung jawab bersama antara Pemerintah, pemerintah daerah, dan masyarakat.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "651e8fa6-7ab8-489c-bb6f-c57ff0e22615",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "2f4f8ee3-0a2f-4031-8d23-eba7db85d435",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPemerintah dan pemerintah daerah wajib mengalokasikan anggaran keolahragaan melalui Anggaran Pendapatan dan Belanja Negara dan Anggaran Pendapatan dan Belanja Daerah.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "9c07f908-0d7b-4121-aa4c-b420563350dd",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "dc73d40b-be42-4a31-b9bf-fcb1c5d85548",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSumber pendanaan keolahragaan ditentukan dengan prinsip kecukupan dan berkelanjutan sesuai dengan prioritas rencana pembangunan keolahragaan.",
+                        "explanation": "\nYang dimaksud dengan \"prinsip kecukupan\" adalah jumlah dana\nyang tersedia untuk penyelenggaraan keolahragaan memadai\nsesuai kemampuan.\nYang dimaksud dengan \"prinsip berkelanjutan\" adalah pendanaan\nuntuk penyelenggaraan keolahragaan dialokasikan secara\nterencana dan terus menerus."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a3374e01-dfa9-4313-8053-6902bf99a5e0",
+            "name": "Chapter II",
+            "title": "\nSUMBER DAN ALOKASI PENDANAAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "94acbaec-1bf6-4faa-9a93-2d8f5ab183fe",
+                    "name": "Section First",
+                    "title": "\nSumber Pendanaan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "e8bc4f77-ee6d-4d1f-92da-f6afaeceeb70",
+                            "name": "Article 5",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "07eec5d6-7b1c-4de9-b45d-e56ac1ff58cd",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Sumber pendanaan keolahragaan dari Pemerintah\nberasal dari Anggaran Pendapatan dan Belanja Negara.",
+                                    "explanation": "\nCukup jelas.\n"
+                                },
+                                {
+                                    "id": "87b17f31-18da-4cad-b363-9698b9bd2856",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Sumber pendanaan keolahragaan dari pemerintah\ndaerah berasal dari Anggaran Pendapatan dan Belanja\nDaerah.",
+                                    "explanation": "\nCukup jelas.\n"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "639ff7cd-675d-484c-968a-b8cd634226af",
+                            "name": "Article 6",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "7e991c9d-7f0d-41ea-a800-9f5473819926",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Sumber pendanaan keolahragaan dari masyarakat dapat\ndiperoleh dari:\na. kegiatan sponsorship keolahragaan;\nb. hibah baik dari dalam maupun luar negeri;\nc. penggalangan dana;\nd. kompensasi alih status dan transfer olahragawan;\ne. uang pembinaan dari olahragawan profesional;\nf. kerja sama yang saling menguntungkan;\ng. sumbangan lain yang tidak mengikat; dan\nh. sumber lain yang sah berdasarkan ketentuan\nPeraturan Perundang-undangan.",
+                                    "explanation": "\nCukup jelas."
+                                },
+                                {
+                                    "id": "6089d43a-6941-4175-b303-9f2098273189",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Selain sumber sebagaimana dimaksud pada ayat (1)\npendanaan keolahragaan dapat juga bersumber dari\nindustri olahraga yang meliputi antara lain dari:\na. tiket penyelenggaraan pertandingan/kompetisi;\nb. penyewaan prasarana olahraga;\nc. jual beli produk sarana olahraga;\nd. sport labelling;\ne. iklan . . .\ne. iklan;\nf. hak siar olahraga;\ng. promosi, eksibisi, dan festival olahraga;\nh. keagenan; dan\ni. layanan informasi dan konsultasi keolahragaan.",
+                                    "explanation": "\nCukup jelas."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1188fe90-58fc-4360-91c9-21b8911e7b90",
+                            "name": "Article 7",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "1ea857c7-f128-4af3-87ef-e0ac62fb4970",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Pendapatan Pemerintah yang diperoleh dari jasa layanan\nkeolahragaan atau terkait dengan keolahragaan dalam\npenyelenggaraan keolahragaan dan sumber pendanaan\nsebagaimana dimaksud dalam Pasal 6 merupakan\nPenerimaan Negara Bukan Pajak.",
+                                    "explanation": "\nCukup jelas."
+                                },
+                                {
+                                    "id": "8d0345df-a47d-44a4-8055-49112e21d8b4",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Pendapatan pemerintah daerah yang diperoleh dari jasa\nlayanan keolahragaan atau terkait dengan keolahragaan\ndalam penyelenggaraan keolahragaan dan sumber\npendanaan sebagaimana dimaksud dalam Pasal 6\nmerupakan pendapatan daerah.",
+                                    "explanation": "\nCukup jelas."
+                                },
+                                {
+                                    "id": "386616b4-08fb-4317-8e47-902a4af7c2c5",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Pendapatan sebagaimana dimaksud pada ayat (1) dan\nayat (2) dikelola sesuai dengan ketentuan Peraturan\nPerundang-undangan.",
+                                    "explanation": "\nCukup jelas."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "e82b4274-e991-4676-9684-0175fcb75b89",
+                            "name": "Article 8",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "21de50ac-92b9-4993-a195-07fd6922e7ed",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Untuk mendukung pendanaan keolahragaan,\nPemerintah dapat membentuk badan usaha\nkeolahragaan milik negara yang berbadan hukum.",
+                                    "explanation": "\nCukup jelas."
+                                },
+                                {
+                                    "id": "11229084-6fee-48bf-9d6b-ebb70fa94b27",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Pembentukan badan usaha sebagaimana dimaksud\npada ayat (1) didirikan sesuai dengan ketentuan\nPeraturan Perundang-undangan.",
+                                    "explanation": "\nCukup jelas."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "668976b3-dd8f-435f-b030-e081f06b0b47",
+                    "name": "Section Second",
+                    "title": "\nAlokasi Pendanaan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "82377446-77af-46d0-bba1-3269672d97a3",
+                            "name": "Article 9",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "c41202f1-3e05-4fe5-8d53-6697041761f5",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Dana yang diperoleh dari sumber pendanaan sebagaimana dimaksud dalam Pasal 7 hanya dapat dialokasikan untuk penyelenggaraan keolahragaan yang meliputi:\na. olahraga pendidikan, olahraga rekreasi, dan olahraga prestasi;\nb. pembinaan dan pengembangan olahraga;\nc. pengelolaan keolahragaan;\nd. pekan dan kejuaraan olahraga;\ne. pembinaan dan pengembangan pelaku olahraga;\nf. peningkatan kualitas dan kuantitas prasarana dan sarana olahraga;\ng. pengembangan ilmu pengetahuan dan teknologi keolahragaan;\nh. pemberdayaan peran serta masyarakat dalam kegiatan keolahragaan;\ni. pengembangan kerja sama dan informasi keolahragaan;\nj. pembinaan dan pengembangan industri olahraga;\nk. standardisasi, akreditasi dan sertifikasi;\nl. pencegahan dan pengawasan doping;\nm. pemberian penghargaan;\nn. pelaksanaan pengawasan; dan\no. pengembangan, pengawasan, serta pengelolaan olahraga profesional.",
+                                    "explanation": "\nCukup jelas."
+                                },
+                                {
+                                    "id": "9afa9f86-3054-41a9-ab9f-5c292af5fc38",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Tata cara penggunaan dana sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan Peraturan Perundang-undangan.",
+                                    "explanation": "\nCukup jelas."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "25e4d527-c052-4dfa-a46e-052673eacf1f",
+            "name": "Chapter III",
+            "title": "\nPERTANGGUNGJAWABAN PENDANAAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "28634758-8500-4339-a928-c58ef717c6c7",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": {
+                        "id": "6574a383-e63c-44c2-8033-4c0716fdbcd0",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPenggunaan dana keolahragaan wajib dipertanggungjawabkan secara periodik dan transparan oleh pengguna anggaran sesuai dengan ketentuan Peraturan Perundang-undangan.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "7b4e93d3-7973-482b-91c9-24bae847dd74",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": {
+                        "id": "5725ee07-06b4-47eb-9c3a-4b01bf40e0c7",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPendanaan penyelenggaraan keolahragaan dipertanggungjawabkan menurut standar akuntansi yang ditentukan sesuai dengan ketentuan Peraturan Perundang-undangan.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "6497549b-bfa2-445c-a817-55cbf3669118",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": {
+                        "id": "f41dc0be-ed97-4c60-ac96-677796634838",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPertanggungjawaban penggunaan dana keolahragaan dan pendanaan penyelenggaraan keolahragaan sebagaimana dimaksud dalam Pasal 10 dan Pasal 11 dilaporkan dan/atau diumumkan sesuai dengan ketentuan Peraturan Perundang-undangan.",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "d6201bf9-1422-4bc3-bb18-e17f97900efa",
+            "name": "Chapter IV",
+            "title": "\nPENGAWASAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "0b3930be-9e83-4b6c-8e29-4f67aeaad351",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "45b86820-5907-45d5-90c5-1f234135c20b",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pemerintah dan pemerintah daerah sesuai dengan kewenangannya melakukan pengawasan terhadap pendanaan keolahragaan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "ef312c85-1f26-4c74-acc0-f606e484a63f",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pengawasan sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan Peraturan Perundang-undangan.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "750f6fec-5fb1-4cf0-be71-7aa6fb8b4e7a",
+            "name": "Chapter V",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "de01195d-df85-464e-997e-b19728b44036",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": {
+                        "id": "34f19dba-7221-4143-8620-fd85adabb096",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "explanation": "\nCukup jelas.\n"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nOlahraga merupakan bagian dari proses dan pencapaian tujuan\npembangunan nasional sehingga keberadaan dan peranan olahraga dalam\nkehidupan bermasyarakat, berbangsa, dan bernegara harus ditempatkan\npada kedudukan yang jelas dalam sistem hukum nasional berdasarkan\nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945.\nPermasalahan keolahragaan nasional semakin komplek dan berkaitan\ndengan antara lain ekonomi dan tuntutan perubahan global, sehingga sudah\nsaatnya Indonesia memperhatikan semua aspek yang terkait antara lain\nkemampuan anggaran untuk mendukung penyelenggaraan keolahragaan\nnasional untuk mencapai prestasi yang mampu bersaing pada masa kini\ndan masa yang akan datang. Atas dasar inilah perlu diatur dalam\nPeraturan Pemerintah tentang Pendanaan Keolahragaan sebagai landasan\nyuridis bagi penyelenggaraan keolahragaan di seluruh wilayah Negara\nKesatuan Republik Indonesia.\nDi dalam Peraturan Pemerintah ini diatur prinsip-prinsip pendanaan seperti\nprinsip kecukupan dan prinsip berkelanjutan sumber dan alokasi\npendanaan, lingkup kegiatan pendanaan, serta pertanggungjawaban\npendanaan penyelenggaraan keolahragaan.\nKeterbatasan sumber pendanaan atau anggaran merupakan permasalahan\nkhusus dalam penyelenggaraan keolahragaan. Hal ini makin dirasakan\ndengan perkembangan olahraga modern yang menuntut pengelolaaan,\npembinaan, dan pengembangan keolahragaan yang perlu didukung oleh\nanggaran yang memadai. Untuk itu perlu pengaturan tentang pengelolaan\ndan pertanggungjawaban pendanaan keolahragaan di dalam Anggaran\nPendapatan dan Belanja Negara dan Anggaran Pendapatan dan Belanja\nDaerah.\nSelain itu, sumber daya dan dana dari masyarakat dan dunia usaha perlu\ndioptimalkan, antara lain melalui peran serta masyarakat dalam pengadaan\ndana, pengadaan atau pemeliharaan prasarana dan sarana, dan dalam\nindustri olahraga.\nGuna mendukung pendanaan keolahragaan, Peraturan Pemerintah ini\nmengamanatkan bahwa Pemerintah dapat membentuk badan usaha milik\nnegara yang berkaitan dengan kegiatan keolahragaan sesuai dengan\nketentuan Peraturan Perundang-undangan. Kemauan politik dalam\nPeraturan Pemerintah mengenai hal tersebut merupakan dorongan bagi\nusaha kemandirian dalam pendanaan keolahragaan sehingga dapat\nmengurangi beban Anggaran Pendapatan dan Belanja Negara dan/atau\nAnggaran Pendapatan dan Belanja Daerah. Bahkan, penyelenggaraan\nkeolahragaan yang dilaksanakan oleh Pemerintah dan pemerintah daerah\ndapat meningkatkan pendapatan negara atau pendapatan asli daerah.\nDengan demikian diharapkan upaya meningkatkan prestasi olahraga dapat\nmengangkat harkat dan martabat bangsa pada tingkat nasional dan\ninternasional sesuai dengan tujuan dan sasaran pembangunan nasional\nyang berkelanjutan.",
+        "Nomor": "18",
+        "Tahun": "2007",
+        "Tentang": "PENDANAAN KEOLAHRAGAAN",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 72 Undang-\nUndang Republik Indonesia Nomor 3 Tahun 2005 tentang\nSistem Keolahragaan Nasional, perlu menetapkan Peraturan\nPemerintah tentang Pendanaan Keolahragaan;"
+        },
+        "Mengingat": {
+            "Introduction": "\nNot Available"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENDANAAN\nKEOLAHRAGAAN.",
+        "tanggal sah": ""
+    }
+}

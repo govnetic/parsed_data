@@ -1,0 +1,63 @@
+{
+    "results": [
+        {
+            "id": "3059b3c1-928c-40f6-9036-0c804d51bebe",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "58511bde-90f0-47da-8197-c81d3b7518aa",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Negara Republik Indonesia melakukan penambahan penyertaan modal ke dalam modal saham Perusahaan Perseroan (Persero) PT Angkasa Pura II yang statusnya sebagai Perusahaan Perseroan (Persero) ditetapkan berdasarkan Peraturan Pemerintah Nomor 14 Tahun 1992 tentang Pengalihan Bentuk Perusahaan Umum (PERUM) Angkasa Pura II menjadi Perusahaan Perseroan (PERSERO).",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "9f690b76-2f41-44b5-acd3-42a1a10fc268",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "8bbf7b50-065e-4cf4-9845-a2893f36b869",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Nilai penambahan penyertaan modal negara sebagaimana dimaksud dalam Pasal 1 sebesar Rp2.245.622.588.577,17 (dua triliun dua ratus empat puluh lima miliar enam ratus dua puluh dua juta lima ratus delapan puluh delapan ribu lima ratus tujuh puluh tujuh rupiah tujuh belas sen).\n(2) Penambahan penyertaan modal negara sebagaimana dimaksud pada ayat (1) berasal dari pengalihan Barang Milik Negara pada Kementerian Perhubungan yang pengadaannya berasal dari Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2007, 2008, 2009, 2010, 2011, dan 2012, dengan rincian sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "9ca734ea-e60b-4dbc-bfcf-38c9ac1f6d92",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "caec1fca-9ad0-470c-a808-a44121854a1e",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "16",
+        "Tahun": "2017",
+        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO)\nPT ANGKASA PURA II",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa untuk memperbaiki struktur permodalan dan\nmeningkatkan kapasitas usaha Perusahaan Perseroan\n(Persero) PT Angkasa Pura II, perlu melakukan\npenambahan penyertaan modal Negara Republik\nIndonesia ke dalam modal saham Perusahaan Perseroan\n(Persero) PT Angkasa Pura II yang berasal dari pengalihan\nBarang Milik Negara pada Kementerian Perhubungan\nyang pengadaannya bersumber dari Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 2007,\n2008, 2009, 2010, 2011 dan 2012;",
+            "b": " bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan untuk melaksanakan\nketentuan Pasal 4 ayat (4) Undang-Undang Nomor 19\nTahun 2003 tentang Badan Usaha Milik Negara, perlu\nmenetapkan Peraturan Pemerintah tentang Penambahan\nPenyertaan Modal Negara Republik Indonesia ke dalam\nModal Saham Perusahaan Perseroan (Persero) PT\nAngkasa Pura II;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 70, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4297);",
+            "3": " Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);",
+            "4": " Undang-Undang Nomor 18 Tahun 2016 tentang\nAnggaran Pendapatan dan Belanja Negara Tahun\nAnggaran 2017 (Lembaran Negara Republik Indonesia\nTahun 2016 Nomor 240, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5948);",
+            "5": " Peraturan Pemerintah Nomor 44 Tahun 2005 tentang\nTata Cara Penyertaan dan Penatausahaan Modal Negara\npada Badan Usaha Milik Negara dan Perseroan Terbatas\n(Lembaran Negara Republik Indonesia Tahun 2005\nNomor 116, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4555) sebagaimana telah diubah\ndengan Peraturan Pemerintah Nomor 72 Tahun 2016\ntentang Perubahan atas Peraturan Pemerintah Nomor 44\nTahun 2005 tentang Tata Cara Penyertaan dan\nPenatausahaan Modal Negara pada Badan Usaha Milik\nNegara dan Perseroan Terbatas (Lembaran Negara\nRepublik Indonesia Tahun 2016 Nomor 325, Tambahan\nLembaran Negara Republik Indonesia Nomor 6006);"
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang Penambahan\nPenyertaan Modal Negara Republik Indonesia ke dalam\nModal Saham Perusahaan Perseroan (Persero) PT\nAngkasa Pura II;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 70, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4297);\n3. Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);\n4. Undang-Undang Nomor 18 Tahun 2016 tentang\nAnggaran Pendapatan dan Belanja Negara Tahun\nAnggaran 2017 (Lembaran Negara Republik Indonesia\nTahun 2016 Nomor 240, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5948);\n5. Peraturan Pemerintah Nomor 44 Tahun 2005 tentang\nTata Cara Penyertaan dan Penatausahaan Modal Negara\npada Badan Usaha Milik Negara dan Perseroan Terbatas\n(Lembaran Negara Republik Indonesia Tahun 2005\nNomor 116, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4555) sebagaimana telah diubah\ndengan Peraturan Pemerintah Nomor 72 Tahun 2016\ntentang Perubahan atas Peraturan Pemerintah Nomor 44\nTahun 2005 tentang Tata Cara Penyertaan dan\nPenatausahaan Modal Negara pada Badan Usaha Milik\nNegara dan Perseroan Terbatas (Lembaran Negara\nRepublik Indonesia Tahun 2016 Nomor 325, Tambahan\nLembaran Negara Republik Indonesia Nomor 6006);\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA ΚΕ\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT ANGKASA PURA II.\n2017, No.89",
+        "tanggal sah": "20 April 2017"
+    }
+}

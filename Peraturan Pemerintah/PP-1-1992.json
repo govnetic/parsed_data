@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "4bce097c-47d0-4fa3-ae9b-e790fcc102bd",
+            "id": "0356d6ed-ca43-4c26-89cd-63907c5eec10",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "a546bde6-fa15-49bf-8529-2e72415d4c5a",
+                "id": "30b81a74-3eb8-4695-ab0f-357a952388fa",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "daebe3e1-c4c0-4acd-bc6c-338e0e67db7d",
+            "id": "8bcb3caf-86ed-40a3-896a-9cc569dafecf",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "cdebd9ac-06a1-47f0-9db4-1add6d1c93f6",
+                "id": "62cd19e8-ede8-476d-9a40-7732d12daba9",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,28 +27,28 @@
             }
         },
         {
-            "id": "06e7025c-9d2c-4238-b73c-5fc21428577e",
+            "id": "158546d7-192d-4f90-8b05-3842dc3c5692",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "e39930db-3c20-41c5-b8bb-75c893d08f9f",
+                "id": "d0738334-756e-49c1-880b-438ec5cf68ee",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Ketentuan lebih lanjut yang diperlukan bagi pelaksanaan Peraturan\nPemerintah ini diatur oleh Menteri Keuangan dan Menteri Kesehatan\nbaik secara bersama maupun sendiri-sendiri sesuai dengan bidang\ntugasnya masing-masing.",
+                "content": "Ketentuan lebih lanjut yang diperlukan bagi pelaksanaan Peraturan Pemerintah ini diatur oleh Menteri Keuangan dan Menteri Kesehatan baik secara bersama maupun sendiri-sendiri sesuai dengan bidang tugasnya masing-masing.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "9e33db88-d42a-4a6f-804d-44760d0c3cf3",
+            "id": "30e41b88-a144-4c92-a90a-6872c6d69b94",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "587429c8-a333-4c52-8ef9-f618923e4841",
+                "id": "c3fa83f7-762d-425b-afa4-36bc3d30683a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia,",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia,",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

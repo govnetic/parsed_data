@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "6f76f962-9a52-4402-a7cc-9add6be05fb2",
+            "id": "517cef3e-ef5a-4393-bfe4-0dbcdb5331ba",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "5ff4bfc9-2c3d-42b5-9c3e-16f0f6235072",
+                "id": "fa6b67bf-e0ec-424a-adca-bfb5c9b451fe",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "efb72f09-7f78-4201-b9d7-81fb9e4d81de",
+            "id": "596dd2ec-7e35-482d-8728-4c2a66f490b0",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "1a22c5c2-45de-4a5b-b459-2bbc44b87453",
+                "id": "622ab270-161d-4bab-ad37-4b70dbf4c94b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "e6b165b1-ece1-4a48-9e76-4781edd8fd99",
+            "id": "aac0b3fc-a4cd-400a-90a4-fdd19b38edfa",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "8b22cb89-5665-4cdc-a0c8-b61b1bc6e5a4",
+                "id": "92e6e4c3-cff9-44e9-bafe-7f6d4fb0d2c1",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,15 +40,15 @@
             }
         },
         {
-            "id": "14bc18ff-8374-4432-804d-b807ca2237b4",
+            "id": "eff1fd5d-98d8-48a3-b845-78a7da3e69f5",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "2cb44247-3817-4908-80ca-38f593e62a72",
+                "id": "16d90d3e-0d57-4632-9d84-0c4a6e17f282",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan ini mulai berlaku pada tanggal 15 April 1948.",
+                "content": "Peraturan ini mulai berlaku pada tanggal 15 April 1948.\ndiumumkan\nPada tanggal 31 Mei 1948.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

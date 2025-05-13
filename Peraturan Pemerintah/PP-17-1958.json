@@ -1,0 +1,59 @@
+{
+    "results": [
+        {
+            "id": "4aa3321e-f003-4711-b3f8-c8b92669cf4f",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "d67e01b1-6b1a-48de-986c-2c567d3c94e0",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Jumlah anggota Dewan Pemerintah Daerah Kotapraja Jakarta Raya sebanyak 4 orang tidak termasuk Kepala Daerah ditambah menjadi 5 orang anggota tidak termasuk Kepala Daerah.",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "ada955a9-bd2b-4d1a-a879-ef2a7da9b697",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "3ad339d7-1025-4949-87b9-1507e7aef01a",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Penyelenggaraan penambahan jumlah anggota tercantum dalam pasal 1",
+                "explanation": "\nDimaksud sebagai ketentuan peralihan untuk menjaga jangan sampai pelaksanaan\npasal 1 menggoyahkan Dewan Pemerintah Daerah yang sudah terbentuk."
+            }
+        },
+        {
+            "id": "43f00ebe-0ed2-4add-8eef-facb222c9bba",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "84ca32a9-0678-40fb-9e04-721ed6cdf243",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatan dalam Lembaran Negara Republik\nIndonesia.",
+                "explanation": "\nCukup jelas.\nLEMBARAN NEGARA TAHUN 1958 NOMOR 30 DAN "
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "17",
+        "Tahun": "1958",
+        "Tentang": "PENAMBAHAN JUMLAH ANGGOTA DEWAN PEMERINTAH DAERAH\nKOTAPRAJA JAKARTA RAYA",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " Bahwa ketentuan berdasarkan peraturan-peraturan yang berlaku tentang jumlah anggota Dewan Pemerintah Daerah sebanyak 4 orang bagi Kotapraja Jakarta Raya dipandang tidak sesuai dengan kedudukan Kotapraja Jakarta Raya sebagai Daerah Swatantra tingkat I, pun pula sebagai Ibukota Negara Republik Indonesia.",
+            "b": " Bahwa ketentuan tersebut mengakibatkan tidak adanya, keseimbangan bila dibandingkan dengan Daerah-daerah Swatantra lain;",
+            "c": " Bahwa berhubung dengan sub a dan b perlu diadakan perubahan tentang ketentuan jumlah anggota Dewan Pemerintah Daerah Kotapraja Jakarta Raya;\nMenimbang pula \nResolusi Dewan Perwakilan Rakyat Daerah Kotapraja Jakarta Raya tanggal 14 Oktober 1957 No.E 6/DPRD/57;"
+        },
+        "Mengingat": {
+            "Introduction": "\nPasal 74 ayat 5, Undang-undang No.1 tahun 1957 (Lembaran-Negara tahun 1957 No.6) tentang Pokok-pokok Pemerintah Daerah;\nMendengar\nDewan Menteri dalam rapatnya pada tanggal 3 Maret 1958;"
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang penambahan jumlah anggota Dewan Pemerintah Daerah Kotapraja Jakarta Raya sebagai berikut",
+        "tanggal sah": "25 Maret 1958"
+    }
+}

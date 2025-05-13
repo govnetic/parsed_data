@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "a073d615-0a59-4335-a8b0-fe325cf18dc6",
+            "id": "6953a8f8-ead3-456d-b96a-d03d320bddf5",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "1b076ef1-ad14-4ab6-bec9-ec62f191bd8a",
+                "id": "cbafa1d9-3b12-4d24-ac03-ce1867a5f53a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "90f5ce76-69ae-4855-a68e-1c675f359309",
+            "id": "c4400a33-e653-45cd-96e5-2ec1a457540e",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "e5e48dd2-d682-46fc-84c8-de2bf0277b7c",
+                "id": "bc1dbdc2-fdf2-4169-8863-3f87e6bd2cb9",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "b3817d0d-6d09-4271-9be7-b4e2f2531ccc",
+            "id": "d1905bf1-22c6-4584-b7bf-5d80af0b1ed2",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "693036e5-8f7d-4940-a5b6-315a1208fc97",
+                "id": "ced9c213-7a75-45c1-b4c5-23f6371aedc5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,24 +40,24 @@
             }
         },
         {
-            "id": "2f1206a2-0940-4e1d-a270-a5ef3f81ae60",
+            "id": "d7794c1e-a7ed-47fb-9f63-d78ba6f098ae",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "070b8ef9-5569-441f-a907-277ba5375702",
+                "id": "597bc85f-a116-4363-89bb-febf8376d2fb",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Rumah tempat tinggal atau hunian yang dapat dimiliki oleh Orang Asing sebagaimana dimaksud dalam Pasal 2 ayat (1) merupakan:\na. Rumah Tunggal di atas tanah:\n1. Hak Pakai; atau\n2. Hak Pakai di atas Hak Milik yang dikuasai berdasarkan perjanjian pemberian Hak Pakai di atas Hak Milik dengan akta Pejabat Pembuat Akta Tanah.\nb. Sarusun yang dibangun di atas bidang tanah Hak Pakai.",
+                "content": "Rumah tempat tinggal atau hunian yang dapat dimiliki oleh Orang Asing sebagaimana dimaksud dalam Pasal 2 ayat (1) merupakan:\na. Rumah Tunggal di atas tanah:\n    1. Hak Pakai; atau\n    2. Hak Pakai di atas Hak Milik yang dikuasai berdasarkan perjanjian pemberian Hak Pakai di atas Hak Milik dengan akta Pejabat Pembuat Akta Tanah.\nb. Sarusun yang dibangun di atas bidang tanah Hak Pakai.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "c88f1e0f-d033-4642-88e6-fdd9173fee48",
+            "id": "955c5175-e02c-4c53-b914-4a859d9e5d7a",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "6915471b-9aaf-4238-b5c3-d81d2cb280f7",
+                "id": "380f4395-0ec3-4717-8f14-baff79eb91b8",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "f45b6be7-46b3-4fe5-a98d-1fb32da82faf",
+            "id": "95ce0b01-57ed-4e98-a4fd-21475bcf8d87",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "c4a3e53b-3488-49fc-a59f-0eff30c0aa8c",
+                "id": "d896319c-922c-49b6-8007-34255ba2ca4f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -79,11 +79,11 @@
             }
         },
         {
-            "id": "2d360d39-7824-4c58-b75f-d0bc78c34ed4",
+            "id": "78b5f894-69dd-4cb4-aebd-5ca8228c3a37",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "1086cbc7-e34b-459d-8c83-b0c6708b648e",
+                "id": "1519d398-fd9b-4821-ad5e-9159b1315c1d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -92,11 +92,11 @@
             }
         },
         {
-            "id": "7396838d-228f-42e3-a77b-51f916f7708d",
+            "id": "64b6539c-e81e-4c9d-bd72-a2353e6618ea",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "54a6324a-c330-47c0-8d04-e8d57b0dffdb",
+                "id": "71bb93b5-fb89-4066-89d8-352b168f97ef",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -105,11 +105,11 @@
             }
         },
         {
-            "id": "74ca1d6d-20a1-4e3f-bb81-962823bf3b99",
+            "id": "3f310436-0f49-4eb3-bebe-cb2dac7fe924",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "5d458f08-9797-40d1-8cc7-e3d84c3e3555",
+                "id": "b0c9e467-f754-4d39-9647-076ccc5e3c11",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -118,24 +118,24 @@
             }
         },
         {
-            "id": "ea35d0d9-1bd7-4e93-87f7-048780799fee",
+            "id": "bc10ca1b-a0a5-4a97-a111-9c519bf06a7e",
             "name": "Article 10",
             "type": "article",
             "children": {
-                "id": "a35bccb1-0059-4822-9f45-eb5bc17a1de8",
+                "id": "90cccdf2-0713-4e02-8c11-6fcdb83dc92c",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Apabila Orang Asing atau ahli waris yang merupakan\nOrang Asing yang memiliki rumah yang dibangun di atas\ntanah Hak Pakai atau berdasarkan perjanjian dengan\npemegang hak atas tanah tidak lagi berkedudukan di\nIndonesia, dalam jangka waktu 1 (satu) tahun wajib\nmelepaskan atau mengalihkan hak atas rumah dan\ntanahnya kepada pihak lain yang memenuhi syarat.\n(2) Apabila dalam jangka waktu sebagaimana dimaksud\npada ayat (1) hak atas rumah dan tanahnya tersebut\nbelum dilepaskan atau dialihkan kepada pihak lain yang\nmemenuhi syarat:\na. rumah di lelang oleh Negara, dalam hal dibangun di\natas tanah Hak Pakai atas tanah Negara;\nb. rumah menjadi milik pemegang hak atas tanah yang\nbersangkutan, dalam hal rumah tersebut dibangun\ndi atas tanah berdasarkan perjanjian sebagaimana\ndimaksud dalam Pasal 4 angka 1 huruf b.\n(3) Hasil lelang sebagaimana dimaksud pada ayat (2) huruf a\nmenjadi hak dari bekas pemegang hak.\n(4) Ketentuan lebih lanjut mengenai Orang Asing atau ahli\nwaris yang merupakan orang asing yang tidak lagi\nberkedudukan di Indonesia sebagaimana dimaksud pada\nayat (1), diatur dengan Peraturan Menteri yang\nmenyelenggarakan urusan pemerintahan di bidang\nkeimigrasian.",
+                "content": "(1) Apabila Orang Asing atau ahli waris yang merupakan\nOrang Asing yang memiliki rumah yang dibangun di atas\ntanah Hak Pakai atau berdasarkan perjanjian dengan\npemegang hak atas tanah tidak lagi berkedudukan di\nIndonesia, dalam jangka waktu 1 (satu) tahun wajib\nmelepaskan atau mengalihkan hak atas rumah dan\ntanahnya kepada pihak lain yang memenuhi syarat.\n(2) Apabila dalam jangka waktu sebagaimana dimaksud\npada ayat (1) hak atas rumah dan tanahnya tersebut\nbelum dilepaskan atau dialihkan kepada pihak lain yang\nmemenuhi syarat:\na. rumah di lelang oleh Negara, dalam hal dibangun di\nb.\natas tanah Hak Pakai atas tanah Negara;\nrumah menjadi milik pemegang hak atas tanah yang\nbersangkutan, dalam hal rumah tersebut dibangun\ndi atas tanah berdasarkan perjanjian sebagaimana\ndimaksud dalam Pasal 4 angka 1 huruf b.\n(3) Hasil lelang sebagaimana dimaksud pada ayat (2) huruf a\nmenjadi hak dari bekas pemegang hak.\n(4) Ketentuan lebih lanjut mengenai Orang Asing atau ahli\nwaris yang merupakan orang asing yang tidak lagi\nberkedudukan di Indonesia sebagaimana dimaksud pada\nayat (1), diatur dengan Peraturan Menteri yang\nmenyelenggarakan urusan pemerintahan di bidang\nkeimigrasian.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "f05cab8a-7111-4c2a-ab7f-5fbb8b675514",
+            "id": "edcce946-d81b-453b-aaa4-d5e97b2bc698",
             "name": "Article 11",
             "type": "article",
             "children": {
-                "id": "8bd3e856-078a-4bc5-8f9c-a45f1bdec5f5",
+                "id": "87175f99-142a-4430-a8f6-4515eeec0c69",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -144,11 +144,11 @@
             }
         },
         {
-            "id": "e27547ee-9d8d-4755-ae62-fe5abaa6824e",
+            "id": "5eb9ce5f-80e9-4e8f-9ac8-6f7dd3ce9d6e",
             "name": "Article 12",
             "type": "article",
             "children": {
-                "id": "38f3d668-6b39-49b3-90ff-fba2334ad361",
+                "id": "fbca412b-33a8-42e4-93ec-097ea249f8a4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -157,11 +157,11 @@
             }
         },
         {
-            "id": "61f978a3-3c27-41ca-ad59-75cdeaf9e5bb",
+            "id": "5e19d18f-1d88-4fe2-a09c-9cda99e6add7",
             "name": "Article 13",
             "type": "article",
             "children": {
-                "id": "dddb6434-577e-4274-b6b5-4d504d7d00b2",
+                "id": "9908ef04-3d11-49ac-910a-f5249fb5550a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",

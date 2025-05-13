@@ -1,11 +1,24 @@
 {
     "results": [
         {
-            "id": "b2ab2fe6-6000-4823-8ffd-2eea9f6a7cf4",
+            "id": "d7d1cb49-dace-438a-bd8e-194f1e8a47f3",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "6475e7e5-2624-4bad-ae1b-009399829c13",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Negara Republik Indonesia melakukan penambahan\npenyertaan modal ke dalam modal Perusahaan Umum (Perum)\nDAMRI yang didirikan berdasarkan Peraturan Pemerintah\nNomor 30 Tahun 1982 tentang Perusahaan Umum (Perum)\nDAMRI yang dilanjutkan berdirinya berdasarkan Peraturan\nPemerintah Nomor 31 Tahun 2002 tentang Perusahaan Umum\n(Perum) DAMRI.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "f0c11fd3-d242-4494-90bf-36012a2b42be",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "370e1f76-6839-461e-b765-c54f89f5c821",
+                "id": "237971b3-c6be-4bbe-94e3-ec797b8cb7c1",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,15 +27,15 @@
             }
         },
         {
-            "id": "f750a01f-409f-4a30-a6c6-69fe5514e6b4",
+            "id": "ea7b345d-dd1a-4f03-a8dc-fc33654987a2",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "b07d1886-8e24-4214-911d-487dc946c738",
+                "id": "32dcfb85-605f-4d97-82fe-ea9a854c4e01",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n---\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -39,12 +52,12 @@
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
-            "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik Indonesia\nTahun 2003 Nomor 70, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4297);",
+            "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik Indonesia\nTahun 2003 Nomor 70, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4297);\n---",
             "3": " Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);",
             "4": " Undang-Undang Nomor 22 Tahun 2011 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 2012\n(Lembaran Negara Republik Indonesia Tahun 2011 Nomor\n113, Tambahan Lembaran Negara Republik Indonesia\nNomor 5254) sebagaimana telah diubah dengan Undang-\nUndang Nomor 4 Tahun 2012 tentang Perubahan Atas\nUndang-Undang Nomor 22 Tahun 2011 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 2012\n(Lembaran Negara Republik Indonesia Tahun 2012 Nomor\n87, Tambahan Lembaran Negara Republik Indonesia\nNomor 5303);",
             "5": " Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata\nCara Penyertaan dan Penatausahaan Modal Negara Pada\nBadan Usaha Milik Negara dan Perseroan Terbatas\n(Lembaran Negara Republik Indonesia Tahun 2005 Nomor\n116, Tambahan Lembaran Negara Republik Indonesia\nNomor 4555);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL PERUSAHAAN UMUM (PERUM) DAMRI.\nNegara Republik Indonesia melakukan penambahan\npenyertaan modal ke dalam modal Perusahaan Umum (Perum)\nDAMRI yang didirikan berdasarkan Peraturan Pemerintah\nNomor 30 Tahun 1982 tentang Perusahaan Umum (Perum)\nDAMRI yang dilanjutkan berdirinya berdasarkan Peraturan\nPemerintah Nomor 31 Tahun 2002 tentang Perusahaan Umum\n(Perum) DAMRI.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL PERUSAHAAN UMUM (PERUM) DAMRI.",
         "tanggal sah": "27 Desember 2012"
     }
 }

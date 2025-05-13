@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "5dc82280-acd7-4bc6-b982-0953499fdc76",
+            "id": "c01fe3bb-fa2b-4d0a-a573-c7948549a684",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "4af6c326-e40b-46b3-8906-1e46b4eac74b",
+                "id": "7f147ff9-82a4-4531-abb6-86d568e3e429",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "ff0d2d79-7482-4429-b4f1-553b7b26aaea",
+            "id": "7a525ce6-b8a7-48c3-b86e-5dc8e8a82c8b",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "ac0e24cf-b28c-45c3-af92-023b7b9533b2",
+                "id": "2dbc1857-c980-4d0e-9a2a-8fb9a53a43ce",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,15 +27,15 @@
             }
         },
         {
-            "id": "18e39171-fb0f-4a82-9391-5ecacc5def01",
+            "id": "11a628e7-32c3-4038-a69f-3b0c379272ba",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "4dfbf0be-8341-49c7-bc4b-57ae3d85d476",
+                "id": "aaedb81f-cbb7-4fb9-bc13-3505dd4ba0ba",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -47,17 +47,17 @@
         "Menimbang": {
             "Introduction": "",
             "a": " bahwa untuk memperbaiki struktur permodalan\nPerusahaan Perseroan (Persero) PT Pelabuhan\nIndonesia I, perlu melakukan penambahan penyertaan\nmodal Negara Republik Indonesia ke dalam modal\nsaham Perusahaan Perseroan (Persero) PT Pelabuhan\nIndonesia I yang berasal dari pengalihan Barang Milik\nNegara pada Kementerian Perhubungan yang\npengadaannya bersumber dari Anggaran Pendapatan\ndan Belanja Negara Tahun Anggaran 2000, 2001,\n2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009,\n2010, dan 2011;",
-            "b": " bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan untuk melaksanakan\nketentuan Pasal 4 ayat (4) Undang-Undang Nomor 19\nTahun 2003 tentang Badan Usaha Milik Negara, perlu\nmenetapkan Peraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik"
+            "b": " bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan untuk melaksanakan\nketentuan Pasal 4 ayat (4) Undang-Undang Nomor 19\nTahun 2003 tentang Badan Usaha Milik Negara, perlu\nmenetapkan Peraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\n\nIndonesia ke Dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Pelabuhan Indonesia I;"
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
-            "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 4297);",
-            "3": " Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran Negara Republik Indonesia Nomor 4355);",
-            "4": " Undang-Undang Nomor 12 Tahun 2018 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2019 (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 223, Tambahan Lembaran Negara Republik Indonesia Nomor 6263);",
-            "5": " Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata Cara Penyertaan dan Penatausahaan Modal Negara pada Badan Usaha Milik Negara dan Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 116, Tambahan Lembaran Negara Republik Indonesia Nomor 4555) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 72 Tahun 2016 tentang Perubahan Atas Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata Cara Penyertaan dan Penatausahaan Modal Negara pada Badan Usaha Milik Negara dan Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 325, Tambahan Lembaran Negara Republik Indonesia Nomor 6006);\n2019, No.38"
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 70, Tambahan\nLembaran Negara Republik Indonesia Nomor 4297);",
+            "3": " Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);",
+            "4": " Undang-Undang Nomor 12 Tahun 2018 tentang\nAnggaran Pendapatan dan Belanja Negara Tahun\nAnggaran 2019 (Lembaran Negara Republik Indonesia\nTahun 2018 Nomor 223, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 6263);",
+            "5": " Peraturan Pemerintah Nomor 44 Tahun 2005 tentang\nTata Cara Penyertaan dan Penatausahaan Modal\nNegara pada Badan Usaha Milik Negara dan Perseroan\nTerbatas (Lembaran Negara Republik Indonesia Tahun\n2005 Nomor 116, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4555) sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 72 Tahun\n2016 tentang Perubahan Atas Peraturan Pemerintah\nNomor 44 Tahun 2005 tentang Tata Cara Penyertaan\ndan Penatausahaan Modal Negara pada Badan Usaha\nMilik Negara dan Perseroan Terbatas (Lembaran\nNegara Republik Indonesia Tahun 2016 Nomor 325,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6006);\n2019, No.38"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nMengingat \n1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 4297);\n3. Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran Negara Republik Indonesia Nomor 4355);\n4. Undang-Undang Nomor 12 Tahun 2018 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2019 (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 223, Tambahan Lembaran Negara Republik Indonesia Nomor 6263);\n5. Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata Cara Penyertaan dan Penatausahaan Modal Negara pada Badan Usaha Milik Negara dan Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 116, Tambahan Lembaran Negara Republik Indonesia Nomor 4555) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 72 Tahun 2016 tentang Perubahan Atas Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata Cara Penyertaan dan Penatausahaan Modal Negara pada Badan Usaha Milik Negara dan Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 325, Tambahan Lembaran Negara Republik Indonesia Nomor 6006);\n2019, No.38\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT PELABUHAN INDONESIA I.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\n\nIndonesia ke Dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Pelabuhan Indonesia I;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 70, Tambahan\nLembaran Negara Republik Indonesia Nomor 4297);\n3. Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);\n4. Undang-Undang Nomor 12 Tahun 2018 tentang\nAnggaran Pendapatan dan Belanja Negara Tahun\nAnggaran 2019 (Lembaran Negara Republik Indonesia\nTahun 2018 Nomor 223, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 6263);\n5. Peraturan Pemerintah Nomor 44 Tahun 2005 tentang\nTata Cara Penyertaan dan Penatausahaan Modal\nNegara pada Badan Usaha Milik Negara dan Perseroan\nTerbatas (Lembaran Negara Republik Indonesia Tahun\n2005 Nomor 116, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4555) sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 72 Tahun\n2016 tentang Perubahan Atas Peraturan Pemerintah\nNomor 44 Tahun 2005 tentang Tata Cara Penyertaan\ndan Penatausahaan Modal Negara pada Badan Usaha\nMilik Negara dan Perseroan Terbatas (Lembaran\nNegara Republik Indonesia Tahun 2016 Nomor 325,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6006);\n2019, No.38\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT PELABUHAN INDONESIA I.",
         "tanggal sah": "22 Februari 2019"
     }
 }

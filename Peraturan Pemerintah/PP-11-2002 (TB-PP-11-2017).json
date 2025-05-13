@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "id": "492f5438-b6cc-478b-9f7f-1d4dfdfbd4d9",
+            "id": "8fa8ae01-43f1-4dee-b19b-ed02b4d3a4a6",
             "name": "Article I",
             "type": "article",
             "children": [
@@ -9,12 +9,12 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "c782dcb9-7294-44b6-ae14-66f3428a692c",
+                    "id": "619f3ed6-e788-4dc9-8c79-5768a06a9d6e",
                     "name": "Article 6",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9bfe48f9-5014-455a-a907-16cf3d160dc5",
+                            "id": "4cb2c851-7cbb-4a6c-a2af-6337cff48178",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\n"
@@ -25,12 +25,12 @@
                     "change_type": [
                         "INSERT"
                     ],
-                    "id": "8c83c1c8-ab06-45d8-a7a7-5d5465295818",
+                    "id": "a8ebcf1b-cfae-4453-8e86-fcd07d193a02",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "86a6a456-99d6-4a03-88e0-e05db23d0260",
+                            "id": "8cafe2d8-6286-4338-b985-6434cb903876",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\n"
@@ -41,12 +41,12 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "6d3a41d7-c1fe-4186-a768-e371e32e99db",
+                    "id": "b45cf2d6-b2d2-429f-920e-8deb50c5c623",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1c6b4f1b-abbd-4aea-9565-bc106f2aa7e9",
+                            "id": "d2f5c30b-ec5e-4f23-8ab5-27302f07638b",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\n"
@@ -57,12 +57,12 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "3aa57e08-d3d1-4ca6-9737-eb4bb333d360",
+                    "id": "fd9ff073-b8c1-41c4-b1af-e7ba28175e7e",
                     "name": "Article 17",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3727ca15-e361-4967-b1d7-f3a9f6378459",
+                            "id": "8a0f0608-6468-441f-8a0a-d92a3059f1c2",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\n"
@@ -73,12 +73,12 @@
                     "change_type": [
                         "CHANGE"
                     ],
-                    "id": "4a114f6a-bd4d-4bd3-84c0-adf29713fae5",
+                    "id": "be071030-3112-48e4-be9e-13053f712a7a",
                     "name": "Article 18",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6b5c2469-cbdf-429e-bca0-6ed986907208",
+                            "id": "449840b7-37a7-4492-b1a0-3853a9b8d955",
                             "name": "Verse 1",
                             "type": "verse",
                             "content": "\n"
@@ -88,15 +88,15 @@
             ]
         },
         {
-            "id": "c6bd0f57-7dd1-4dfe-b2f8-99e64a944080",
+            "id": "c75e96c5-efd2-440a-9014-ff8e5def88d1",
             "name": "Article II",
             "type": "article",
             "children": [
                 {
-                    "id": "7f8a58a1-b67b-4ebf-816f-8bc3c9f4e409",
+                    "id": "6e195c5f-d109-4d6d-b12b-4bf6e1b7a0f0",
                     "name": "Verse 1",
                     "type": "verse",
-                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia"
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia"
                 }
             ]
         }
@@ -120,7 +120,7 @@
             "7": " Peraturan Pemerintah Nomor 97 Tahun 2000 tentang Formasi Pegawai\nNegeri Sipil (Lembaran Negara Tahun 2000 Nomor 194, Tambahan\nLembaran Negara Nomor 4015);",
             "8": " Peraturan Pemerintah Nomor 98 Tahun 2000 tentang Pengadaan\nPegawai Negeri Sipil (Lembaran Negara Tahun 2000 Nomor 195,\nTambahan Lembaran Negara Nomor 4016);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 98 TAHUN 2000 TENTANG\nPENGADAAN PEGAWAI NEGERI SIPIL.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 98 TAHUN 2000 TENTANG PENGADAAN PEGAWAI NEGERI SIPIL.",
         "tanggal sah": "17 April 2002"
     }
 }

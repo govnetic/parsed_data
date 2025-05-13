@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "4c2d4dc0-53b7-4179-b986-34a475cd9c71",
+            "id": "8919f8a7-4de3-460e-9571-47cf29587d61",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "f4396e76-7233-4f6b-b01e-75e8bf42a349",
+                "id": "1f7b687d-ae9d-41f4-b8e7-01a46ff58a21",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "64082675-0930-4636-adde-1beb9b95eb57",
+            "id": "b20cd502-d799-41e0-8f57-674fadcc8269",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "39d68509-1f86-4045-ab1e-ba6e377495ad",
+                "id": "13db4b2f-9502-4665-8b7b-75162a59ebaf",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,15 +27,15 @@
             }
         },
         {
-            "id": "ffcaa965-8e4b-425c-9977-16256d13d5c9",
+            "id": "5e0ac011-233a-4579-8d8a-d97d512ac758",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "c8140cf1-4f60-46d5-88d5-8445e8ff2492",
+                "id": "c0454f29-129e-4437-9b3a-06cf25d43f6b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang\nmengetahuinya,\npengundangan Peraturan Pemerintah\nmemerintahkan\nini\ndengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "9d800bfb-f8c6-440a-9b84-b491f3ad0194",
+            "id": "6d1f48a8-94d5-461e-9901-79421ee97718",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "d13ae272-b309-42e3-9a58-0028faab68fa",
+                "id": "fa786879-87eb-43b5-9e5f-9645f2590994",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "21f212c7-caf3-426e-a3d8-6d922cf857ba",
+            "id": "36cdcb22-3e76-4baf-acf7-43923767d166",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "94b453b6-ff49-484e-b2e4-2a6a5b5e7504",
+                "id": "a7a28a3f-55da-4b4e-9361-0ed8ac371055",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "48ac25e8-f211-4942-938f-bb499182933d",
+            "id": "708d5cdf-dac4-481b-b457-0fb3edfe958b",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "0aead878-4159-4159-987e-07d514417039",
+                "id": "16ac46b0-aa76-4091-a3da-27fbab05e16a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "54c3efee-5c46-4582-8bef-4d4bea4f4287",
+            "id": "b9436c5a-235e-4c3e-bd61-3f172f214928",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "a1aa3128-6df7-4c1b-aefe-64669e20fe13",
+                "id": "bdbd5a84-8be6-4613-bb16-96e02cef5caa",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -59,19 +59,19 @@
         "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL\nPERUSAHAAN UMUM (PERUM) POS DAN GIRO",
         "Menimbang": {
             "Introduction": "",
-            "a": "\tbahwa untuk lebih meningkatkan dan mengembangkan kegiatan usaha\n    Perusahaan Umum (PERUM) Pos dan Giro, perlu untuk menambah penyertaan\n    modal Negara ke dalam modal Perusahaan Umum (PERUM) Pos dan Giro;",
-            "b": "\tbahwa kekayaan Negara berupa gedung dan tanahnya, beserta fasilitas\n    pendukungnya yang pada saat ini digunakan oleh Perusahaan Umum (PERUM)\n    Pos dan Giro dapat ditetapkan untuk dijadikan tambahan penyertaan modal\n    Negara Republik Indonesia ke dalam modal Perusahaan Umum (PERUM) Pos dan\n    Giro;",
-            "c": "\tbahwa penambahan penyertaan modal Negara tersebut pada huruf b perlu\n    ditetapkan dengan Peraturan Pemerintah;"
+            "a": " bahwa untuk lebih meningkatkan dan mengembangkan kegiatan usaha\n   Perusahaan Umum (PERUM) Pos dan Giro, perlu untuk menambah penyertaan\n   modal Negara ke dalam modal Perusahaan Umum (PERUM) Pos dan Giro;",
+            "b": " bahwa kekayaan Negara berupa gedung dan tanahnya, beserta fasilitas\n   pendukungnya yang pada saat ini digunakan oleh Perusahaan Umum (PERUM)\n   Pos dan Giro dapat ditetapkan untuk dijadikan tambahan penyertaan modal\n   Negara Republik Indonesia ke dalam modal Perusahaan Umum (PERUM) Pos dan\n   Giro;",
+            "c": " bahwa penambahan penyertaan modal Negara tersebut pada huruf b perlu\n   ditetapkan dengan Peraturan Pemerintah;"
         },
         "Mengingat": {
             "Introduction": "",
-            "1": "\tPasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": "\tUndang-undang Nomor 19 Prp Tahun 1960 tentang Perusahaan Negara\n    (Lembaran Negara Tahun 1960 Nomor 59, Tambahan Lembaran Negara Nomor\n    1989);",
-            "3": "\tUndang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan Pemerintah\n    Pengganti Undang-undang Nomor 1 Tahun 1969 tentang Bentuk-bentuk Usaha\n    Negara (Lembaran Negara Tahun 1969 Nomor 16, Tambahan Lembaran Negara\n    Nomor 2890) menjadi Undang-undang (Lembaran Negara Tahun 1969 Nomor 40,\n    Tambahan Lembaran Negara Nomor 2904);",
-            "4": "\tUndang-undang Nomor 6 Tahun 1984 tentang Pos (Lembaran Negara Tahun 1984\n    Nomor 28, Tambahan Lembaran Negara Nomor 3276);",
-            "5": "\tPeraturan Pemerintah Nomor 3 Tahun 1983 tentang Tata Cara Pembinaan dan\n    Pengawasan Perusahaan Jawatan (PERJAN), Perusahaan Umum (PERUM), dan"
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 19 Prp Tahun 1960 tentang Perusahaan Negara\n   (Lembaran Negara Tahun 1960 Nomor 59, Tambahan Lembaran Negara Nomor\n   1989);",
+            "3": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan Pemerintah\n   Pengganti Undang-undang Nomor 1 Tahun 1969 tentang Bentuk-bentuk Usaha\n   Negara (Lembaran Negara Tahun 1969 Nomor 16, Tambahan Lembaran Negara\n   Nomor 2890) menjadi Undang-undang (Lembaran Negara Tahun 1969 Nomor 40,\n   Tambahan Lembaran Negara Nomor 2904);",
+            "4": " Undang-undang Nomor 6 Tahun 1984 tentang Pos (Lembaran Negara Tahun 1984\n   Nomor 28, Tambahan Lembaran Negara Nomor 3276);",
+            "5": " Peraturan Pemerintah Nomor 3 Tahun 1983 tentang Tata Cara Pembinaan dan\n   Pengawasan Perusahaan Jawatan (PERJAN), Perusahaan Umum (PERUM), dan\nPerusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1983 Nomor 3,\nTambahan Lembaran Negara Nomor 3246) sebagaimana telah diubah dengan\nPeraturan Pemerintah Nomor 28 Tahun 1983 (Lembaran Negara Tahun 1983\nNomor 37);\nPeraturan Pemerintah Nomor 24 Tahun 1984 tentang Perusahaan Umum\n(PERUM) Pos dan Giro (Lembaran Negara Tahun 1984 Nomor 36);"
         },
-        "Menetapkan": "\nPERURAN PEMERINTAH TENTANG PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL PERUSAHAAN UMUM (PERUM) POS DAN GIRO.\nPerusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1983 Nomor 3,\nTambahan Lembaran Negara Nomor 3246) sebagaimana telah diubah dengan\nPeraturan Pemerintah Nomor 28 Tahun 1983 (Lembaran Negara Tahun 1983\nNomor 37);\nPeraturan Pemerintah Nomor 24 Tahun 1984 tentang Perusahaan Umum\n(PERUM) Pos dan Giro (Lembaran Negara Tahun 1984 Nomor 36);\nMEMUTUSKAN\nMenetapkan\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG PENAMBAHAN PENYERTAAN\nMODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL PERUSAHAAN UMUM (PERUM)\nPOS DAN GIRO.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG PENAMBAHAN PENYERTAAN\nMODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL PERUSAHAAN UMUM (PERUM)\nPOS DAN GIRO.",
         "tanggal sah": "9 Januari 1990"
     }
 }

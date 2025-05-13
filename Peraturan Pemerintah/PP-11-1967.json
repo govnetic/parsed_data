@@ -1,37 +1,37 @@
 {
     "results": [
         {
-            "id": "ce080c59-1bde-4a17-a317-d37ab6030b46",
+            "id": "774841d5-2e5f-4b2d-8b50-8d9317aa9287",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "d0c88797-453f-4a05-8464-67ca22cfd44b",
+                "id": "8ab8c28a-7992-4652-a2d3-30ac1fa4e7b1",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "(1) Wajib pajak M.P.S. adalah setiap orang atau badan yang\nmerupakan wajib pajak menurut ketentuan-ketentuan Ordonansi\nPajak Pendapatan 1944, Ordonansi Pajak Kekayaan 1932 dan\nOrdonansi Pajak Perseroan 1925.\nMereka diwajibkan menghitung pajak sendiri yang terhutang\ndalam suatu masa pajak tertentu, menyetorkannya ke Kas Negara\ndan melaporkan hal itu kepada Kepala Inspeksi Pajak yang\nbersangkutan.\n(2) Yang dimaksud dengan masa pajak ialah tahun-buku atau jika\nini tidak ada, tahun takwim, bulan takwim atau bagian dari\nbulan takwim atas mana pajak terhutang.\nBagian II.\nDasar perhitungan dan jumlah pajak.",
-                "explanation": "; Karena Undang-undang Nomor 8 tahun 1967 sebagai landasan\ndari Peraturan Pemerintah ini, hanya mengatur tentang\nperubahan dan penyempurnaan dalam tata-cara pemungutan\npajak-pajak: Pendapatan, Kekayaan dan Perseroan, dan\ntidak mengenai materie-materie lain, maka pengertian\nBAGIAN II."
+                "explanation": "; Karena Undang-undang Nomor 8 tahun 1967 sebagai landasan\ndari Peraturan Pemerintah ini, hanya mengatur tentang\nperubahan dan penyempurnaan dalam tata-cara pemungutan\npajak-pajak: Pendapatan, Kekayaan dan Perseroan, dan\ntidak mengenai materie-materie lain, maka pengertian\ntentang wajib pajak MPS adalah sama dengan apa yang\nmemenurut Ordonansi Pajak yang bersangkutan merupakan\nwajib pajak, baik yang berhubungan dengan ketentuan\nwajib pajak subyektip maupun yang berhubungan dengan\nwajib pajak obyektip.\nDemikian pula pembebasan-pembebasan tentang kewajiban pajak\nsubyektip dan kewajiban pajak obyektip yang diatur\ndalam Ordonansi Pajak-pajak yang bersangkutan\nsepenuhnya berlaku untuk pengertian wajib pajak MPS."
             }
         },
         {
-            "id": "b9f7f269-055e-43be-b5b7-cf8d771a6fdb",
+            "id": "704c476d-4ec5-41ca-91cc-9d4e187f66f3",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "a19b52fc-072b-47ef-bb14-dd0362c0fcd7",
+                "id": "cad6b9d1-b2b0-4476-b1b4-9cbc82bfe1b7",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "(1) Ke-1; Dasar perhitungan pajak pendapatan/perseroan yang\nterhutang oleh wajib pajak MPS ialah peredaran kotor atau\nnilai transaksi atau nilai pengganti atau nilai lain yang\nditentukan oleh Direktur Jenderal Pajak;\nKe-2: Dasar perhitungan pajak kekayaan yang terhutang oleh\nwajib pajak MPS adalah kekayaan bersih yang dimiliki pada\npermulaan tahun takwim yang bersangkutan.\n(2) Besarnya pajak pendapatan/perseroan ditentukan oleh Direktur\nJenderal Pajak setinggi-tingginya 20% dari dasar perhitungan\ntersebut pada ayat (1) Ke-1 pasal ini.\n(3) Besarnya pajak kekayaan adalah 5% dari kekayaan bersih sesuai\ndengan ketentuan-ketentuan Ordonansi Pajak Kekayaan 1932.\n(4) Jumlah pembayaran pajak-pajak tersebut pada ayat (2) dan ayat\n(3) pasal ini tidak merupakan unsur biaya dan karenanya tidak\ndapat diperhitungkan/dikalkulasikan dalam peredaran kotor\natau nilai transaksi atau nilai penggantian atau nilai lain\nataupun dipakai sebagai alasan untuk menaikkan harga.\n(5) Masa pajak ditentukan oleh Direktur Jenderal Pajak.\n(6) Penentuan nilai lain tersebut pada ayat (1) Ke-1, besarnya\npajak pendapatan/perseroan tersebut pada ayat (2) dan masa\npajak tersebut pada ayat (3) pasal (5) ini dilakukan oleh\nDirektur Jenderal Pajak, satu dan lain setelah mendengar\nsaran dan pendapat wakil golongan wajib pajak MPS yang\nbersangkutan.\nBagian III.\nTanggung pajak dan cara memenuhi pajak.",
-                "explanation": " ke-2: Cukup jelas dan sesuai dengan ketentuan dari\nOrdonansi Pajak Kekayaan 1932 yang berlaku."
+                "explanation": " ke-2:Cukup jelas dan sesuai dengan ketentuan dari\nOrdonansi Pajak Kekayaan 1932 yang berlaku."
             }
         },
         {
-            "id": "f17d7a2b-4ca2-4997-b0db-46389b341c78",
+            "id": "f05c1ffe-172e-4093-bb0b-68e63a6eaa40",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "56d98e08-26f4-416c-925d-7028eebfec61",
+                "id": "06c2cbe5-41dc-4ef5-8b9b-909dbb5b1782",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "2fc9f9a6-ede4-4299-800c-8634a37236d3",
+            "id": "fc4ed87b-e450-4a34-9800-c4fb7f76a94f",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "31bd4264-1dac-41a5-9ee6-1426b0ac7561",
+                "id": "58d36f4d-fe2d-47a7-9355-b54c204e8f98",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,37 +53,37 @@
             }
         },
         {
-            "id": "ed4825c4-bbb9-4dda-afad-ef2903cc5fc7",
+            "id": "15c3e73d-e5a1-47d4-af87-75c460c56b96",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "ab45979f-84d6-4127-9f8f-37ec3e535f14",
+                "id": "7e455b31-fd9f-42e0-9af4-a6ef8fe97f58",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Kepala Inspeksi Pajak menetapkan ketetapan pajak secara\njabatan untuk pajak-pajak pendapatan/kekayaan/perseroan yang\nterhutang dalam masa-masa pajak tertentu dalam hal wajib\npajak MPS tidak atau tidak sepenuhnya melakukan perhitungan,\npenyetoran dan pelaporan sebagaimana dimaksud dalam pasal 2\nayat (2) dan ayat (3), pasal 3 ayat (1) dan pasal 4 ayat (1),\nsetelah diberi peringatan dan kemudian tegoran tertulis.\n(2) Atas ketetapan pajak tersebut pada ayat (1) pasal ini\nterhutang bunga setinggi-tingginya 12% setiap bulan.\nBunga dihitung atas jangka waktu antara saat dimana ketetapan\npajak dikeluarkan dan saat kewajiban menyetor pajak dimaksud\ndalam pasal 3 ayat (2).\nBagian dari bulan dihitung sebagai satu bulan penuh.",
+                "content": "(1) Kepala Inspeksi Pajak menetapkan ketetapan pajak secara jabatan untuk pajak-pajak pendapatan/kekayaan/perseroan yang terhutang dalam masa-masa pajak tertentu dalam hal wajib pajak MPS tidak atau tidak sepenuhnya melakukan perhitungan, penyetoran dan pelaporan sebagaimana dimaksud dalam pasal 2 ayat (2) dan ayat (3), pasal 3 ayat (1) dan pasal 4 ayat (1), setelah diberi peringatan dan kemudian tegoran tertulis.\n(2) Atas ketetapan pajak tersebut pada ayat (1) pasal ini terhutang bunga setinggi-tingginya 12% setiap bulan.\nBunga dihitung atas jangka waktu antara saat dimana ketetapan pajak dikeluarkan dan saat kewajiban menyetor pajak dimaksud dalam pasal 3 ayat (2).\nBagian dari bulan dihitung sebagai satu bulan penuh.",
                 "explanation": ": Untuk memenuhi rasa keadilan, maka kepada wajib pajak\nMPS yang tidak patuh diberikan perlakuan lain dari\npada wajib pajak yang patuh dengan mengenakan\nketetapan sementara secara jabatan, setelah\ndiberikan peringatan dan tegoran tertulis.\nKetetapan pajak ini dapat meliputi masa sebulan atau lebih. Sifat\nketetapan pajak ini adalah sementara.\nDengan dikenakannya ketetapan sementara ini diharapkan agar wajib\npajak MPS yang bersangkutan untuk masa selanjutnya\nmemenuhi kewajibannya dengan baik, sehingga dengan\ndemikian diperhatikan unsur mendidik."
             }
         },
         {
-            "id": "8330e0a0-532e-428b-a6a3-03f8cc081d5f",
+            "id": "4dd82dc7-365e-42ca-be16-58144c9baba5",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "aa80c22a-f97e-4ca2-9b4a-95469617480e",
+                "id": "5646b2dc-80bb-4297-a456-f84e18c83655",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Kepala Inspeksi Pajak meneliti kebenaran dari perhitungan akhir\ntersebut dalam pasal 4 ayat (3).\n(2) Bilamana jumlah pajak yang telah disetor/dilunasi menurut\nperhitungan akhir pada surat pemberitahuan termaksud dalam\npasal 4 ayat (3) berdasarkan penelitian tersebut pada ayat\n(1) pasal ini sama dengan atau lebih besar dari jumlah pajak\nyang terhutang menurut ketentuan Ordonansi Pajak Pendapatan\n1944, Ordonansi Pajak Kekayaan 1932 dan Ordonansi Pajak\nPerseroan 1925, maka tentang hal itu oleh Kepala Inspeksi\nPajak dikirimkan surat keputusan kepada wajib pajak MPS\nmemuat tanggal pengirimannya.\n(3) Dalam hal jumlah pajak yang telah disetor/dilunasi oleh wajib\npajak MPS lebih besar dari jumlah pajak yang terhutang,\nKepala Inspeksi Pajak wajib memberikan surat keputusan\ntermaksud pada ayat (2) pasal ini dalam waktu lambat-\nlambatnya tiga bulan sejak tanggal diterimanya surat\npemberitahuan tersebut dalam pasal 4 ayat (3).\nKelebihan pembayaran harus dikembalikan atau diperhitungkan dengan\nlain pajak yang terhutang secepat-cepatnya.\n(4) Dalam hal jumlah pajak yang telah disetor/dilunasi berdasarkan\npenelitian tersebut pada ayat (1) pasal ini lebih rendah dari\npajak yang terhutang menurut Ordonansi Pajak Pendapatan 1944,\nOrdonansi Pajak Kekayaan 1932 dan Ordonansi Pajak Perseroan\n1925 maka Kepala Inspeksi Pajak untuk kekurangannya\nmengenakan ketetapan pajak.\n(5) Kepala Inspeksi Pajak mengenakan ketetapan pajak secara jabatan\nterhadap wajib pajak MPS yang tidak memasukkan surat\npemberitahuan mengenai perhitungan akhir dimaksud dalam pasal\nkewajiban memasukkan surat pemberitahuan dimaksud pada ayat\n(3) pasal ini dilakukan pada Kepala Inspeksi Pajak dimana\nwajib pajak MPS bertempat tinggal atau berkedudukan.\n---\n4 ayat (3), setelah diberi peringatan dan kemudian tegoran\ntertulis.\nKetetapan pajak tersebut pada ayat ini ditambah dengan kenaikan\nsebesar 25%.\n(6) Jika pokok pajak yang terhutang menurut Ordonansi Pajak yang\nbersangkutan setelah dikurangi dengan 25% ternyata jumlahnya\nlebih besar daripada seluruh pajak yang telah\ndisetor/dilunasi menurut perhitungan akhir pada surat\npemberitahuan termaksud dalam pasal 4 ayat (3) atau dalam hal\ntidak dimasukkan surat pemberitahuan, menurut keterangan yang\nada pada administrasi pajak maka atas ketetapan pajak\ntermaksud pada ayat (4) dan ayat (5) pasal ini terhutang\nbunga sebesar setinggi-tingginya 12% setiap bulan.\nBunga dihitung atas jangka waktu antara saat dimana surat\npemberitahuan dimasukkan atau dalam hal surat pemberitahuan\ntidak dimasukkan antara saat dimana ketetapan pajak\nberdasarkan ayat (5) pasal ini dikeluarkan dan akhir dari\ntahun pajak yang bersangkutan.\nBagian dari bulan dihitung sebagai satu bulan penuh.\nBagian VI.\nKeberatan dan pertimbangan.",
+                "content": "(1) Kepala Inspeksi Pajak meneliti kebenaran dari perhitungan akhir tersebut dalam pasal 4 ayat (3).\n(2) Bilamana jumlah pajak yang telah disetor/dilunasi menurut perhitungan akhir pada surat pemberitahuan termaksud dalam pasal 4 ayat (3) berdasarkan penelitian tersebut pada ayat (1) pasal ini sama dengan atau lebih besar dari jumlah pajak yang terhutang menurut ketentuan Ordonansi Pajak Pendapatan 1944, Ordonansi Pajak Kekayaan 1932 dan Ordonansi Pajak Perseroan 1925, maka tentang hal itu oleh Kepala Inspeksi Pajak dikirimkan surat keputusan kepada wajib pajak MPS memuat tanggal pengirimannya.\n(3) Dalam hal jumlah pajak yang telah disetor/dilunasi oleh wajib pajak MPS lebih besar dari jumlah pajak yang terhutang, Kepala Inspeksi Pajak wajib memberikan surat keputusan termaksud pada ayat (2) pasal ini dalam waktu lambat-lambatnya tiga bulan sejak tanggal diterimanya surat pemberitahuan tersebut dalam pasal 4 ayat (3).\nKelebihan pembayaran harus dikembalikan atau diperhitungkan dengan lain pajak yang terhutang secepat-cepatnya.\n(4) Dalam hal jumlah pajak yang telah disetor/dilunasi berdasarkan penelitian tersebut pada ayat (1) pasal ini lebih rendah dari pajak yang terhutang menurut Ordonansi Pajak Pendapatan 1944, Ordonansi Pajak Kekayaan 1932 dan Ordonansi Pajak Perseroan 1925 maka Kepala Inspeksi Pajak untuk kekurangannya mengenakan ketetapan pajak.\n(5) Kepala Inspeksi Pajak mengenakan ketetapan pajak secara jabatan terhadap wajib pajak MPS yang tidak memasukkan surat pemberitahuan mengenai perhitungan akhir dimaksud dalam pasal\n4 ayat (3), setelah diberi peringatan dan kemudian tegoran\ntertulis.\nKetetapan pajak tersebut pada ayat ini ditambah dengan kenaikan\nsebesar 25%.\n(6) Jika pokok pajak yang terhutang menurut Ordonansi Pajak yang\nbersangkutan setelah dikurangi dengan 25% ternyata jumlahnya\nlebih besar daripada seluruh pajak yang telah\ndisetor/dilunasi menurut perhitungan akhir pada surat\npemberitahuan termaksud dalam pasal 4 ayat (3) atau dalam hal\ntidak dimasukkan surat pemberitahuan, menurut keterangan yang\nada pada administrasi pajak maka atas ketetapan pajak\ntermaksud pada ayat (4) dan ayat (5) pasal ini terhutang\nbunga sebesar setinggi-tingginya 12% setiap bulan.\nBunga dihitung atas jangka waktu antara saat dimana surat\npemberitahuan dimasukkan atau dalam hal surat pemberitahuan\ntidak dimasukkan antara saat dimana ketetapan pajak\nberdasarkan ayat (5) pasal ini dikeluarkan dan akhir dari\ntahun pajak yang bersangkutan.\nBagian dari bulan dihitung sebagai satu bulan penuh.\nBagian VI.\nKeberatan dan pertimbangan.",
                 "explanation": ": Cukup jelas."
             }
         },
         {
-            "id": "1a2e0ea4-9847-4d3c-b5c0-ccf41708d8ac",
+            "id": "31c82125-9a71-4f68-990d-bd0dbb209bf4",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "74bf8c8d-94ca-492a-8717-2bf73f87c019",
+                "id": "77f563d6-5ecd-422b-b4b6-1039f281f208",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -92,11 +92,11 @@
             }
         },
         {
-            "id": "92d1b87b-cfa1-4403-bf83-6cdb03ad1eed",
+            "id": "90d57cd3-ec9e-4447-8140-8eb58a3d2845",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "f593576d-8465-4c7b-ab35-6623bb6fa757",
+                "id": "c4fe6604-2bed-4597-8b02-18d93cf095dc",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -105,24 +105,24 @@
             }
         },
         {
-            "id": "cf2fec81-fa59-4ced-9f97-e3f61a6fb3ad",
+            "id": "70f36c50-1b26-49c9-bb05-6a273112f966",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "9ef0c2d7-31aa-43eb-8050-a5847dfaa1a4",
+                "id": "9c77abd9-eb98-44fa-b94d-8c0a6b55656a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "(1) Ketetapan pajak yang dimaksud dalam pasal 5 ayat (1) harus\ndilunasi dalam waktu satu bulan sesudah tanggal penyerahan\nsurat ketetapan pajak.\nAtas kelambatan pembayaran ketetapan pajak ini terhutang bunga\nsetinggi-tingginya 12% setiap bulan.\nBagian dari bulan dihitung sebagai satu bulan penuh.\nDalam hal diajukan keberatan, maka jangka waktu pelunasan tersebut\npada ayat ini diperpanjang dengan tiga bulan, kecuali jika\nsebelum berakhirnya masa perpanjangan tersebut oleh Kepala\nInspeksi Pajak yang bersangkutan telah diambil suatu\nkeputusan, dalam hal mana ketetapan pajak harus dilunasi\ndalam waktu sepuluh hari setelah tanggal pengiriman salinan\nsurat keputusan.\n(2) Ketetapan pajak tersebut dalam pasal 6 ayat (4) dan ayat\n(5)harus dilunasi dalam waktu satu bulan sesudah tanggal\npenyerahan surat ketetapan pajak.\nAtas kelambatan pembayaran ketetapan pajak ini terhutang bunga\nsetinggi-tingginya 12% setiap bulan.\nBagian dari bulan dihitung sebagai satu bulan penuh.\nBagian VIII.\nPeraturan Pidana.",
-                "explanation": ": Cukup jelas.\nAtas kelambatan pembayaran perlu dikenakan bunga, untuk\nmencegah pemberian kredit murah oleh Pemerintah.\nDalam tata-cara yang baru ini, berlainan dengan tata-cara\nyang lama maka dalam hal wajib pajak mengajukan\nkeberatan, jangka waktu pelunasan pajak\ndiperpanjang dengan tiga bulan, sepanjang belum\nada pemberian keputusan oleh Kepala Inspeksi\nPajak."
+                "explanation": ": Cukup jelas.\nAtas kelambatan pembayaran perlu dikenakan bunga, untuk mencegah pemberian kredit murah oleh Pemerintah.\nDalam tata-cara yang baru ini, berlainan dengan tata-cara yang lama maka dalam hal wajib pajak mengajukan keberatan, jangka waktu pelunasan pajak diperpanjang dengan tiga bulan, sepanjang belum ada pemberian keputusan oleh Kepala Inspeksi Pajak."
             }
         },
         {
-            "id": "66ce7206-8c19-408a-a2de-29caf59f5f2e",
+            "id": "ef1ef166-396e-471d-b372-18146be895ff",
             "name": "Article 10",
             "type": "article",
             "children": {
-                "id": "c15da7b5-3480-4985-9deb-0fa84938e012",
+                "id": "34a96db2-6164-460b-bfcf-a713dd1d15e5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -131,24 +131,24 @@
             }
         },
         {
-            "id": "f467d23e-7112-4cba-ab98-d8698cbfa754",
+            "id": "58f95470-f71f-4883-90a2-6171182cddf0",
             "name": "Article 11",
             "type": "article",
             "children": {
-                "id": "d7dd6726-d0ac-43a5-8ce1-362388f0941f",
+                "id": "0106400d-ae12-4e8c-8111-87302e3829b1",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
                 "content": "(1) Wajib pungut MPO adalah setiap orang atau badan yang ditunjuk\nBagian II.\nDasar perhitungan dan jumlah pajak.",
-                "explanation": ": Wajib pungut MPO;\nCukup jelas.\nKedudukan orang atau badan yang ditunjuk oleh Kepala\nInspeksi Pajak sebagai wajib pungut MPO, hanya\nsemata-mata sebagai kolektor (pengumpul) pajak,\nberdasarkan pedoman dan petunjuk-petunjuk yang\ndiberikan oleh Kepala Inspeksi Pajak.\nJadi pada azasnya kedudukannya sama dengan seorang majikan\nyang ditunjuk oleh Kepala Inspeksi Pajak untuk\nmenghitungkan, memotongkan pajak pendapatan yang\nterhutang atas upah/gaji yang dipoleh\nburuhnya/pegawainya dan menyetorkannya ke Kas\nNegara."
+                "explanation": ": Wajib pungut MPO;\nCukup jelas.\nKedudukan orang atau badan yang ditunjuk oleh Kepala Inspeksi Pajak sebagai wajib pungut MPO, hanya semata-mata sebagai kolektor (pengumpul) pajak, berdasarkan pedoman dan petunjuk-petunjuk yang diberikan oleh Kepala Inspeksi Pajak.\nJadi pada azasnya kedudukannya sama dengan seorang majikan yang ditunjuk oleh Kepala Inspeksi Pajak untuk menghitungkan, memotongkan pajak pendapatan yang terhutang atas upah/gaji yang dipoleh buruhnya/pegawainya dan menyetorkannya ke Kas Negara."
             }
         },
         {
-            "id": "22c62345-ee13-4462-ad84-7c475e43c968",
+            "id": "d72a89be-4c4e-4d51-aeb2-db230e94c669",
             "name": "Article 12",
             "type": "article",
             "children": {
-                "id": "921fff6d-10e6-41c7-8dc4-6fc66e6d513a",
+                "id": "ee64d065-7f30-4caf-9178-00d61569d14e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -157,11 +157,11 @@
             }
         },
         {
-            "id": "2f56bad3-4af2-474c-84aa-0991b8200c41",
+            "id": "201e4326-09c7-4961-87f9-30c92a5341dd",
             "name": "Article 13",
             "type": "article",
             "children": {
-                "id": "b1d6bae6-9824-42ad-bc99-702cece60913",
+                "id": "dd61ccb3-8a87-459d-82bb-e7d6b83068df",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -170,11 +170,11 @@
             }
         },
         {
-            "id": "0c9ed99c-556b-4a0d-9ae9-db3853d4dc7e",
+            "id": "18705af2-cfd4-480f-8185-7c57b01aa46d",
             "name": "Article 14",
             "type": "article",
             "children": {
-                "id": "1e750869-f625-4b8c-9e8d-7d83630cd0ea",
+                "id": "4981fedd-53de-48e6-9004-d2178ebd607f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -183,11 +183,11 @@
             }
         },
         {
-            "id": "07288b95-a50a-46eb-9936-e554f4c09322",
+            "id": "a477c1e3-b189-4e05-b522-70b9d2ff1449",
             "name": "Article 15",
             "type": "article",
             "children": {
-                "id": "01d317e9-57f1-4d8b-8d64-3b9c0caf19bd",
+                "id": "b4efe7ff-d1ee-4e5b-b290-615cce09679f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -196,11 +196,11 @@
             }
         },
         {
-            "id": "252e9803-731a-4a01-930c-3bcf4db1cc23",
+            "id": "cbabed35-2052-4f20-a06b-65aa234d6c6a",
             "name": "Article 16",
             "type": "article",
             "children": {
-                "id": "e323b959-4daa-44bd-aa60-7ed0305d0c95",
+                "id": "5e50a7aa-06c7-47ac-a03d-d183d79739df",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -209,11 +209,11 @@
             }
         },
         {
-            "id": "5b1dfb2e-143a-4bd5-8499-7a8df3434bee",
+            "id": "92c6b99f-7550-4194-8286-4f5a229ad0fd",
             "name": "Article 17",
             "type": "article",
             "children": {
-                "id": "d4b86bae-add3-4891-9dbc-18643d8d7cd0",
+                "id": "7f0eae19-0782-4d52-9253-a88eed2d8f18",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -222,24 +222,24 @@
             }
         },
         {
-            "id": "c2c17ff4-e5b4-447c-94ae-f43549a934b1",
+            "id": "61443429-ef08-4a93-bee1-69b3aee14eda",
             "name": "Article 18",
             "type": "article",
             "children": {
-                "id": "ae917551-8382-4e33-9fe5-d14701d4261f",
+                "id": "672fc5e4-440a-453a-93f5-1c4f53a99c9b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Direktur Jenderal Pajak memberikan keputusan atas surat\nkeberatan tersebut dalam pasal 17 ayat (2) dalam waktu yang\nsesingkat-singkatnya.\nBagian VII.\nPenagihan.",
+                "content": "Direktur Jenderal Pajak memberikan keputusan atas sur\nkeberatan tersebut dalam pasal 17 ayat (2) dalam waktu yang\nsesingkat-singkatnya.\nBagian VII.\nPenagihan.",
                 "explanation": "\nKeputusan yang diberikan oleh Direktur Jenderal Pajak itu\nbersifat terakhir dan tertinggi.\nBAGIAN VII."
             }
         },
         {
-            "id": "6f24ae14-434d-4e35-8cba-2646b397f45d",
+            "id": "49a71e45-4530-47d3-881d-29d5a181cac7",
             "name": "Article 19",
             "type": "article",
             "children": {
-                "id": "7aaa5156-5883-4d97-aaac-14013721932d",
+                "id": "dbb23fcb-abf9-47a7-a4c7-bd6cb0b367ec",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -248,93 +248,93 @@
             }
         },
         {
-            "id": "62070691-eacb-4534-8b27-fd98c9403ef8",
+            "id": "22f41c8e-94a8-42d4-9be5-91f8f71a242e",
             "name": "Article 20",
             "type": "article",
             "children": {
-                "id": "1bdbba31-ae19-43ad-a0e2-38e41cb3a0ab",
+                "id": "d3499909-ec29-40a2-86e8-cb0e8e094e3b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Dengan denda sebanyak-banyaknya seribu rupiah dihukum wajib pungut MPO yang tidak atau tidak sepenuhnya memenuhi kewajiban pemasukan laporan dimaksud dalam pasal 15 ayat (1).\n(2) Peristiwa yang dapat dihukum menurut ayat (1) pasal ini dianggap sebagai pelanggaran.\nBAB KETIGA\nPERATURAN PENUTUP.",
+                "content": "(1) Dengan denda sebanyak-banyaknya seribu rupiah dihukum wajib\npungut MPO yang tidak atau tidak sepenuhnya memenuhi\nkewajiban pemasukan laporan dimaksud dalam pasal 15 ayat (1).\n(2) Peristiwa yang dapat dihukum menurut ayat (1) pasal ini\ndianggap sebagai pelanggaran.\nBAB KETIGA\nPERATURAN PENUTUP.",
                 "explanation": " dan (2): Cukup jelas.\nBAB KETIGA"
             }
         },
         {
-            "id": "117bdb7c-045c-461b-a416-e4db3bbf0e07",
+            "id": "cc87d507-7d10-442c-babf-f20ecf57fff1",
             "name": "Article 21",
             "type": "article",
             "children": {
-                "id": "bdb624d7-843c-4eee-b7d2-9a44fc964d84",
+                "id": "1302731a-4bbf-43e0-a7d1-129d8250c486",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Ketentuan-ketentuan tentang penagihan untuk pajak pendapatan, pajak kekayaan dan pajak perseroan berlaku sesuai untuk ketetapan pajak tersebut dalam pasal 5 ayat (1), pasal 6 ayat (4), ayat (5) dan pasal 6.",
+                "content": "Ketentuan-ketentuan tentang penagihan untuk pajak pendapatan,\npajak kekayaan dan pajak perseroan berlaku sesuai untuk ketetapan\npajak tersebut dalam pasal 5 ayat (1), pasal 6 ayat (4), ayat (5)\ndan pasal 6.",
                 "explanation": "\nDalam pengertian ketentuan-ketentuan tentang penagihan\ntersebut pada ayat ini, termasuk pula Undang-undang Nomor 63\ntahun 1969 tentang Penagihan Pajak Negara dengan Surat Paksa."
             }
         },
         {
-            "id": "181f71a1-5df1-4a3a-a8c0-fa989d921d96",
+            "id": "de337095-8194-45e6-9fce-5300da70367f",
             "name": "Article 22",
             "type": "article",
             "children": {
-                "id": "a666ae74-f4cf-428a-a472-25b36d8a3e74",
+                "id": "6bf6079e-716c-491f-a1b6-dd6c8f5bb70b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Terhadap hal-hal tentang tata-cara pemungutan pajak-pajak pendapatan/kekayaan/perseroan yang tidak diatur dalam Peraturan Pemerintah ini, berlaku sepenuhnya ketentuan-ketentuan dalam Ordonansi Pajak Pendapatan 1944, Ordonansi Pajak Kekayaan 1932 dan Ordonansi Pajak Perseroan 1925.",
+                "content": "Terhadap hal-hal tentang tata-cara pemungutan pajak-pajak\npendapatan/kekayaan/Perseroan yang tidak diatur dalam Peraturan\nPemerintah ini, berlaku sepenuhnya ketentuan-ketentuan dalam\nOrdonansi Pajak Pendapatan 1944, Ordonansi Pajak Kekayaan 1932 dan\nOrdonansi Pajak Perseroan 1925.",
                 "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "7f42c517-11a6-4415-bbaa-a5dfaa39ffc3",
+            "id": "300528c2-e648-4955-8018-b3c166d05436",
             "name": "Article 23",
             "type": "article",
             "children": {
-                "id": "c4551243-195f-407f-b0ed-1458cf14e749",
+                "id": "bc8c7e36-7207-41ca-bee9-a6ec0b5a7f4e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Direktur Jenderal Pajak berwenang menghapuskan atau mengurangkan bunga dan kenaikan yang terhutang menurut ketentuan-ketentuan dalam Peraturan Pemerintah ini, dalam hal wajib pajak MPS atau wajib pungut MPO dapat membuktikan bahwa kelalaiannya dapat dimaafkan.",
+                "content": "Direktur Jenderal Pajak berwenang menghapuskan atau\nmengurangkan bunga dan kenaikan yang terhutang menurut ketentuan-\nketentuan dalam Peraturan Pemerintah ini, dalam hal wajib pajak\nMPS atau wajib pungut MPO dapat membuktikan bahwa kelalaiannya\ndapat dimaafkan.",
                 "explanation": "\nCukup jelas.\nKetentuan mengenai pengenaan bunga terdapat antara lain pada pasal-pasal:\n- 3 ayat (3);\n- 5 ayat (2);\n- 6 ayat (6);\n- 9 ayat (1);\n- 9 ayat (2);\n- 14 ayat (3);\n- 19.\nKetentuan mengenai kenaikan terdapat antara lain pasal-pasal:\n- 6 ayat (5);\n- 16."
             }
         },
         {
-            "id": "5ae35239-acd3-40bc-a69c-440948a9e6f9",
+            "id": "7d4d4c43-feaa-4d40-89b8-adc3c6d23bdd",
             "name": "Article 24",
             "type": "article",
             "children": {
-                "id": "ac1f1504-e3cc-4882-a0a1-e02b55d19407",
+                "id": "b6967911-c33c-4b37-84c0-a8a581784b93",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Menteri Keuangan secara berkala menentukan jumlah prosentase bunga disebut dalam Peraturan Pemerintah ini.",
+                "content": "Menteri Keuangan secara berkala menentukan jumlah prosentase\nbunga disebut dalam Peraturan Pemerintah ini.",
                 "explanation": "\nProsentase bunga ini perlu ditentukan secara berkala untuk disesuaikan dengan perkembangan tingkat bunga yang berlaku umum."
             }
         },
         {
-            "id": "77f54f4d-258d-4545-84e2-66d2192977bf",
+            "id": "dd05bd80-a515-4d74-8cb5-ec57c4910a2d",
             "name": "Article 25",
             "type": "article",
             "children": {
-                "id": "c8ff44ec-c672-47e2-b381-4de553387dd9",
+                "id": "64ed2dbc-5794-4751-ad30-2932a4a19e24",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Menteri Keuangan berwenang untuk mengeluarkan peraturan peraturan yang diperlukan untuk menambah dan menjalankan Peraturan Pemerintah ini.",
+                "content": "Menteri Keuangan berwenang untuk mengeluarkan peraturan\nperaturan yang diperlukan untuk menambah dan menjalankan Peraturan\nPemerintah ini.",
                 "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "e2da325c-77ed-401e-9416-a66f7e6d7f1e",
+            "id": "8499187d-3b37-4ab1-a631-add2054d6119",
             "name": "Article 26",
             "type": "article",
             "children": {
-                "id": "f280d39b-f1d9-46c9-be06-46b5bd2684f8",
+                "id": "6bd50daf-8165-4501-b4bf-726b553e3725",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada hari ditetapkannya.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatan dalam Lembaran-Negara Republik Indonesia.\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH Nomor 11 TAHUN 1967\nPELAKSANAAN UNDANG-UNDANG Nomor 8 TAHUN 1967\ntentang\nPERUBAHAN DAN PENYEMPURNAAN TATA-CARA\nPEMUNGUTAN PAJAK PENDAPATAN 1944, PAJAK\nKEKAYAAN 1932 DAN PAJAK PERSEROAN 1925.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari\nditetapkannya.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran-Negara Republik Indonesia.\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH Nomor 11 TAHUN 1967\nPELAKSANAAN UNDANG-UNDANG Nomor 8 TAHUN 1967\ntentang\nPERUBAHAN DAN PENYEMPURNAAN TATA-CARA\nPEMUNGUTAN PAJAK PENDAPATAN 1944, PAJAK\nKEKAYAAN 1932 DAN PAJAK PERSEROAN 1925.",
                 "explanation": "\nCukup jelas.\n"
             }
         }
@@ -348,10 +348,10 @@
         },
         "Mengingat": {
             "Introduction": "",
-            "1": "  Undang-undang Nomor 8 tahun 1967 (Lembaran Negara tahun 1967\n    Nomor 18, Tambahan Lembaran-Negara Nomor 2827);",
-            "2": "  Pasal 11 ayat (1) huruf a dan ayat (3), pasal 12 ayat (1),\n    ayat (2) dan ayat (4), pasal 14d ayat (2), pasal 17 ayat (2),\n    pasal 18, pasal 23 ayat (1), pasal 24, pasal 26 dan pasal 28\n    dari Ordonansi Pajak Pendapatan 1944 sebagaimana telah diubah\n    dan disempurnakan, terakhir dengan Undang-undang Nomor 8\n    tahun 1967 (Lembaran-Negara tahun 1967 Nomor 18);",
-            "3": "  Pasal 19, pasal 20, pasal 21 ayat (1), pasal 26 ayat (1)\n    pasal 27 ayat (5), pasal 36 ayat (1), pasal 41 ayat (1) dan\n    ayat (2), pasal 42A, pasal 60, pasal 61 dan pasal 63 dari\n    Ordonansi Pajak Kekayaan 1932 sebagaimana telah diubah dan\n    disempurnakan, terakhir dengan Undang-undang Nomor 8 tahun\n    1967 (Lembaran-Negara tahun 1967 Nomor 18);",
-            "4": "  Pasal 15 ayat (1), pasal 16, pasal 17, pasal 22 ayat (1),\n    pasal pasal 23 ayat (1), pasal 24 ayat (1) dan ayat (5),\n    pasal 33 ayat (1), pasal 36 ayat (2), ayat (4), ayat (5),\n    ayat (6) dan ayat (7), pasal 47 ayat (1), pasal 48, pasal 49A\n    dan pasal 50 dari Ordonansi Pajak Perseroan 1925 sebagaimana\n    telah diubah dan disempurnakan, terakhir dengan Undang-undang\n    Nomor 8 tahun 1967 (Lembaran-Negara tahun 1967 Nomor 18);\nMendengar\nPresidium Kabinet Ampera Republik Indonesia;"
+            "1": " Undang-undang Nomor 8 tahun 1967 (Lembaran Negara tahun 1967\nNomor 18, Tambahan Lembaran-Negara Nomor 2827);",
+            "2": " Pasal 11 ayat (1) huruf a dan ayat (3), pasal 12 ayat (1),\nayat (2) dan ayat (4), pasal 14d ayat (2), pasal 17 ayat (2),\npasal 18, pasal 23 ayat (1), pasal 24, pasal 26 dan pasal 28\ndari Ordonansi Pajak Pendapatan 1944 sebagaimana telah diubah\ndan disempurnakan, terakhir dengan Undang-undang Nomor 8\ntahun 1967 (Lembaran-Negara tahun 1967 Nomor 18);",
+            "3": " Pasal 19, pasal 20, pasal 21 ayat (1), pasal 26 ayat (1)\npasal 27 ayat (5), pasal 36 ayat (1), pasal 41 ayat (1) dan\nayat (2), pasal 42A, pasal 60, pasal 61 dan pasal 63 dari\nOrdonansi Pajak Kekayaan 1932 sebagaimana telah diubah dan\ndisempurnakan, terakhir dengan Undang-undang Nomor 8 tahun\n1967 (Lembaran-Negara tahun 1967 Nomor 18);",
+            "4": " Pasal 15 ayat (1), pasal 16, pasal 17, pasal 22 ayat (1),\npasal pasal 23 ayat (1), pasal 24 ayat (1) dan ayat (5),\npasal 33 ayat (1), pasal 36 ayat (2), ayat (4), ayat (5),\nayat (6) dan ayat (7), pasal 47 ayat (1), pasal 48, pasal 49A\ndan pasal 50 dari Ordonansi Pajak Perseroan 1925 sebagaimana\ntelah diubah dan disempurnakan, terakhir dengan Undang-undang\nNomor 8 tahun 1967 (Lembaran-Negara tahun 1967 Nomor 18);\nMendengar\nPresidium Kabinet Ampera Republik Indonesia;"
         },
         "Menetapkan": "\nPeraturan Pemerintah tentang Pelaksanaan Undang-undang Nomor 8\ntahun 1967 tentang Perubahan dan Penyempurnaan Tata-Cara\nPemungutan Pajak Pendapatan 1944, Pajak Kekayaan 1932 dan Pajak\nPerseroan 1925.\nBAB KESATU\nMENGHITUNG PAJAK SENDIRI (MPS).\nBagian I.\nPeraturan Umum.",
         "tanggal sah": ""

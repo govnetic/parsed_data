@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "484813a0-f348-4e3a-9f9c-0e38dba90e0c",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "ab74049a-1609-434d-855f-570d6278fd7a",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Konstituante mengadakan rapat-rapatnya di dalam wilayah Kota\nBesar Bandung.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "c7ee4253-122f-4daa-9ac1-7c3d96f5df15",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "7346766e-0723-4278-ac11-74e91415ce33",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "16",
+        "Tahun": "1956",
+        "Tentang": "PENETAPAN KOTA BESAR BANDUNG SEBAGAI TEMPAT\nRAPAT-RAPAT KONSTITUANTE",
+        "Menimbang": {
+            "Introduction": "\nbahwa berhubung dengan kesulitan dalam soal ruangan dan perumahan\ndi Jakarta perlu ditunjuk tempat yang lain untuk sidang-sidang\nKonstituante serta perumahan para anggotanya dan pegawai/pekerja\nSekretariatnya;\nMembaca\nsurat Panitia Negara untuk Persiapan-persiapan Sidang Konstituante\n(yang dibentuk dengan Keputusan Presiden tanggal 20 April 1956 No.\n95A tahun 1956) tanggal 9 Mei 1956 No. 2856 DPR-RI 56;"
+        },
+        "Mengingat": {
+            "Introduction": "\npasal 136 jo, pasal 68 Undang-undang Dasar Sementara Republik\nIndonesia;\nMendengar\nDewan Menteri dalam rapatnya yang ke-10 pada tanggal 22 Mei 1956;"
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang penetapan Kota Besar Bandung sebagai\ntempat rapat-rapat Konstituante.",
+        "tanggal sah": "11 Juni 1956"
+    }
+}

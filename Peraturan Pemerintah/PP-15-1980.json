@@ -1,0 +1,79 @@
+{
+    "results": [
+        {
+            "id": "46eb2eda-65b4-4823-8434-0e252128f387",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "5f53c36f-becc-412b-8ff1-5d60c7d74e77",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Kepada penerima pensiun/tunjangan yang bersifat pensiun diberikan setiap bulan\ntunjangan perbaikan penghasilan pensiun sebesar 35% (tiga puluh lima persen)\ndari penghasilan.\n(2) Penghasilan sebagaimana dimaksud dalam ayat (1) terdiri dari:\na. pensiun pokok;\nb. tunjangan isteri/suami;\nc. tunjangan anak.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "5a6c355d-0c65-45dc-adc3-bb3ceae93423",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "92324e46-d8f3-4a05-953f-c43bfb986d40",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Tunjangan perbaikan penghasilan pensiun sebagaimana dimaksud dalam Pasal 1\ndibayarkan bersama-sama dengan pembayaran pensiun setiap bulan.\n(2) Jumlah penghasilan baru yakni setelah ditambah dengan tunjangan perbaikan\npenghasilan pensiun, dibulatkan ke atas menjadi ratusan rupiah.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "ffd5a7c7-64ea-493a-a145-8e1e1d8fb8e9",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "546dc763-892f-4376-a86c-c01c8cecd9a5",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ketentuan teknis tentang pelaksanaan Peraturan Pemerintah ini ditetapkan lebih\nlanjut oleh Menteri Keuangan, Menteri Dalam Negeri, Menteri Pertahanan Keamanan,\ndan Kepala Badan Administrasi Kepegawaian Negara, baik secara bersama-sama atau\nsecara sendiri-sendiri menurut bidang tugasnya masing-masing.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "5b04c8c3-7e61-4cc6-891f-4f3bbebda36c",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "7227e8c3-bf14-4d1e-a246-2c72911ff99c",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1980.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "15",
+        "Tahun": "1980",
+        "Tentang": "PEMBERIAN TUNJANGAN PERBAIKAN PENGHASILAN PENSIUN BAGI PENERIMA\nPENSIUN/TUNJANGAN YANG BERSIFAT PENSIUN\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "\nbahwa dianggap perlu untuk meningkatkan penghasilan penerima\npensiun/ tunjangan yang bersifat pensiun dalam batas-batas\nkemampuan keuangan Negara;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 6 Tahun 1966 tentang Pemberian\nPensiun/Tunjangan Bersifat Pensiun dan Tunjangan Kepada\nMiliter Sukarela (Lembaran Negara Tahun 1966 Nomor 33,\nTambahan Lembaran Negara Nomor 2812);",
+            "3": " Undang-undang Nomor 11 Tahun 1969 tentang Pensiun Pegawai\ndan Pensiun Janda/Duda Pegawai (Lembaran Negara Tahun 1969\nNomor 42, Tambahan Lembaran Negara Nomor 2906);",
+            "4": " Undang-undang Nomor 7 Tahun 1978 tentang Hak\nKeuangan/Administratif Presiden dan Wakil Presiden serta Bekas\nPresiden dan Bekas Wakil Presiden Republik Indonesia\n(Lembaran Negara Tahun 1978 Nomor 52, Tambahan Lembaran\nNegara Nomor 3128);",
+            "5": " Undang-undang Nomor 1 Tahun 1980 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 1980/1981\n(Lembaran Negara Tahun 1980 Nomor 14, Tambahan Lembaran\nNegara Nomor 3159);",
+            "6": " Peraturan Pemerintah Nomor 8 Tahun 1977 tentang Penetapan\nPensiun Pokok Bekas Pegawai Negeri Sipil dan Janda/Duda\n(Lembaran Negara Tahun 1977 Nomor 12, Tambahan Lembaran\nNegara Nomor 3099);",
+            "7": " Peraturan Pemerintah Nomor 12 Tahun 1977 tentang\nPenyesuaian Pensiun Pokok Bekas Pejabat Negara (Lembaran\nNegara Tahun 1977 Nomor 17);",
+            "8": " Peraturan Pemerintah Nomor 21 Tahun 1977 tentang Pensiun-\nWakil Ketua Majelis Permusyawaratan Rakyat Republik Indonesia\nYang Tidak Merangkap Jabatan Wakil Ketua Dewan Perwakilan\nRakyat Republik Indonesia (Lembaran Negara Tahun 1977 Nomor\n26);",
+            "9": " Peraturan Pemerintah Nomor 24 Tahun 1977 tentang Pemberian\nTunjangan Veteran kepada Veteran Republik Indonesia\n(Lembaran Negara Tahun 1977 Nomor 29);",
+            "10": " Peraturan Pemerintah Nomor 32 Tahun 1977 tentang Penetapan\nKembali Pensiun Pokok Purnawirawan/Warakawuri Atau Duda,\nTunjangan Anak Yatim/Piatu, dan Anak Yatim Piatu Anggota\nAngkatan Bersenjata Republik Indonesia (Lembaran Negara\nTahun 1977 Nomor 53, Tambahan Lembaran Negara Nomor\n3111);\n---"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PEMBERIAN TUNJANGAN\nPERBAIKAN PENGHASILAN PENSIUN KEPADA PENERIMA\nPENSIUN/TUNJANGAN YANG BERSIFAT PENSIUN.",
+        "tanggal sah": "1 April 1980"
+    }
+}

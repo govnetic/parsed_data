@@ -1,0 +1,57 @@
+{
+    "results": [
+        {
+            "id": "8fde9a04-0923-47f2-b3dd-cf87b37aed96",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "82a302e3-21f1-4b67-801d-5e345810dad6",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a06c9337-b758-4c5c-9992-da855db48e17",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "508b092e-4217-49f8-be1e-05f12090a598",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "fa0ae0f1-f8ee-4f17-8545-03feb318296d",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan dan mempunyai daya laku surut sejak tanggal 1 Januari 1993.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "16",
+        "Tahun": "1993",
+        "Tentang": "PERUBAHAN PERATURAN PEMERINTAH NOMOR 9 TAHUN 1980\nTENTANG HAK KEUANGAN/ADMINISTRATIF\nKEPALA DAERAH/WAKIL KEPALA DAERAH\nDAN BEKAS KEPALA DAERAH/BEKAS WAKIL KEPALA DAERAH\nSERTA JANDA/DUDANYA SEBAGAIMANA TELAH TIGA KALI DIUBAH,\nTERAKHIR DENGAN PERATURAN PEMERINTAH NOMOR 52 TAHUN 1992\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "\nbahwa gaji pokok Kepala Daerah dan Wakil Kepala Daerah sebagaimana\nditetapkan dalam Peraturan Pemerintah Nomor 52 Tahun 1992,\ndipandang tidak sesuai lagi dengan perkembangan keadaan, sehingga\nperlu diperbaiki;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok\nPemerintah di Daerah (Lembaran Negara Tahun 1974 Nomor 38,\nTambahan Lembaran Negara Nomor 3037);",
+            "3": " Undang-undang Nomor 8 Tahun 1974 tentang Pokok-pokok\nKepegawaian (Lembaran Negara Tahun 1974 Nomor 55, Tambahan\nLembaran Negara Nomor 3041);",
+            "4": " Peraturan Pemerintah Nomor 9 Tahun 1980 tentang Hak\nKeuangan/Administratif Kepala Daerah/Wakil Kepala Daerah Dan\nBekas Kepala Daerah Serta Janda/Dudanya (Lembaran Negara Tahun\n1980 Nomor 16, Tambahan Lembaran Negara Nomor 3160), jo.\nPeraturan Pemerintah Nomor 48 Tahun 1980 (Lembaran Negara\nTahun 1980 Nomor 76);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG\nPERUBAHAN PERATURAN PEMERINTAH NOMOR 9 TAHUN\n1980 TENTANG HAK KEUANGAN/ADMINISTRATIF KEPALA\nDAERAH/WAKIL KEPALA DAERAH DAN BEKAS KEPALA\nDAERAH/BEKAS KEPALA DAERAH SERTA JANDA/DUDANYA\nSEBAGAIMANA TELAH TIGA KALI DIUBAH, TERAKHIR\nDENGAN PERATURAN PEMERINTAH NOMOR 52 TAHUN 1992.",
+        "tanggal sah": "1 Januari 1993"
+    }
+}

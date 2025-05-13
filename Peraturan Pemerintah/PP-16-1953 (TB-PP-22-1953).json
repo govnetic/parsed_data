@@ -1,0 +1,44 @@
+{
+    "results": [
+        {
+            "id": "285fddea-f7ed-4e3b-8efe-4feb9a0e7972",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "d118a2b5-5726-4e1f-a98d-b1eb28155f73",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Kekuasaan \"Assistent Resident\" termaksud dalam Pasal 7 ayat\n(3).dari \"Jachtverordening Java en Madura 1940\" (diserahkan kepada\n\"Kepala Kepolisian Kabupaten\".",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "b10e3ceb-735f-41f4-a4ef-f56fa9c119e4",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "a4cf40cb-10ee-4458-8756-699ada687115",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "16",
+        "Tahun": "1953",
+        "Tentang": "PERUBAHAN \"JACHTVERORDENING JAVA EN MADURA 1940\"\n(STAATSBLAD 1940 NR 247)",
+        "Menimbang": {
+            "Introduction": "\nbahwa berhubung dengan penghapusan pemerintahan keresidenan di\nJawa dan Madura perlu ditetapkan penguasa pengganti \"Assistent\nResident\" dalam Pasal 7 ayat (3) \"Jachtverordening Java en Madura\n1940\" (Staatsblad 1940 Nr 247), yang berkuasa memberikan akte-akte\npemburuan dan Surat izin termaksud dalam Pasal 4, ayat (5)\n\"Jachtordonnantie Java en Madura 1940\" (Staatsblad 1939 Nr 733);"
+        },
+        "Mengingat": {
+            "Introduction": "\nakan Pasal 98 Undang-undang Dasar Sementara Republik Indonesia,\n\"Jachtordonnantie Java en Madura 1940\" (Staatsblad 1939 Nr 733)\ndan akan \"jachtverordening Java en Madura 1940\" (Staatsblad 1940\nnr 247).\nMendengar\nDewan Menteri dalam sidangnya yang ke-81 pada tanggal 20 Pebruari",
+            "1953": ""
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG \"JACHTVERORDENING JAVA EN MADURA\n1940\" (STAATSBLAD ! ($) Nr 247).",
+        "tanggal sah": "11 Maret 1953"
+    }
+}

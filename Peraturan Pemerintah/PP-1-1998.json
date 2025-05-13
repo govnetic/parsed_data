@@ -1,1067 +1,1098 @@
 {
     "results": [
         {
-            "id": "6efec250-02be-45bc-bf78-fc781a8e820a",
+            "id": "cb24e5cb-a354-413c-9e5f-f70b180a6ccc",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2a990564-f5a3-47d1-879c-1b169c189ac9",
+                    "id": "a4460665-123a-448c-823b-369e023831e5",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "6f532287-daea-4379-9b6b-5863300526cc",
+                        "id": "d91eb98c-0510-40ed-993a-d97a86e36335",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Pemeriksaan Kecelakaan Kapal adalah kegiatan penyelidikan atau\npengusutan suatu peristiwa kecelakaan kapal yang dilakukan oleh\nPejabat Pemerintah yang berwenang untuk mengetahui sebab-sebab\nterjadinya kecelakaan kapal.\n2. Tersangkut\n2. Tersangkut adalah Nakhoda atau pemimpin kapal dan/atau perwira\nkapal yang diduga melakukan kesalahan atau kelalaian dalam\npenerapan standar profesi kepelautan yang menyebabkan kecelakaan\nkapal.\n3. Terhukum adalah tersangkut yang dijatuhi sanksi administratif\nberdasarkan hasil keputusan sidang Majelis Mahkamah Pelayaran.\n4. Perwira kapal adalah para mualim, masinis, dan perwira radio kapal.\n5. Saksi adalah setiap orang yang dapat memberikan keterangan guna\nkepentingan pemeriksaan mengenai suatu peristiwa kecelakaan kapal\nyang terdengar sendiri, dilihat sendiri atau dialami sendiri, atau pihak\nlain yang berwenang yang secara langsung atau tidak langsung\nberkaitan dengan kapal yang mengalami kecelakaan atau peristiwa\nkecelakaan tersebut.\n6. Saksi Ahli adalah orang yang memiliki keahlian di bidang tertentu\nyang memberikan keterangan sesuai dengan keahliannya dalam\npemeriksaan lanjutan kecelakaan kapal untuk membuat terang suatu\nperistiwa kecelakaan kapal.\n7. Penasehat Ahli adalah orang yang karena keahliannya ditunjuk oleh\ntersangkut untuk mendampingi tersangkut selama berlangsungnya\npemeriksaan lanjutan kecelakaan kapal.\n8. Menteri adalah Menteri yang bertanggung jawab di bidang\npelayaran.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "a2c789f6-0b05-4c08-a75b-8ac105bfe7f9",
+                    "id": "91c76e32-6ba2-4ce6-ac8d-f41c29f1dd4a",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "cc9c43a5-10f2-4f4b-9730-35c5ab5addd7",
+                            "id": "e0644d25-dc32-4448-b7cb-16e4d4e1562f",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Pemeriksaan kecelakaan kapal dilakukan terhadap semua kecelakaan\nkapal yang terjadi di dalam wilayah perairan Indonesia dan\nkecelakaan kapal berbendera Indonesia yang terjadi di luar wilayah\nperairan Indonesia.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "bcde91ef-48cb-48d7-be76-49e6f8a0fd76",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": " Kecelakaan kapal sebagaimana dimaksud dalam ayat (1) meliputi :\na. kapal tenggelam;\nb. kapal terbakar;\nc. kapal tubrukan;\nd. kecelakaan kapal yang menyebabkan terancamnya jiwa manusia\ndan kerugian harta benda;\ne. kapal kandas.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pemeriksaan kecelakaan kapal dilakukan terhadap semua kecelakaan\nkapal yang terjadi di dalam wilayah perairan Indonesia dan\nkecelakaan kapal berbendera Indonesia yang terjadi di luar wilayah\nperairan Indonesia.\n\n(2) Kecelakaan kapal sebagaimana dimaksud dalam ayat (1) meliputi :\na. kapal tenggelam;\nb. kapal terbakar;\nc. kapal tubrukan;\nd. kecelakaan kapal yang menyebabkan terancamnya jiwa manusia\ndan kerugian harta benda;\ne. kapal kandas.",
+                            "explanation": "\nCukup jelas"
                         }
                     ]
                 },
                 {
-                    "id": "8ca03898-8503-4cdf-822e-59c0f2958c7e",
+                    "id": "0289fa2e-4e6e-4747-a356-afdfd930d0c9",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "35b8bc17-02bc-4262-b9d6-6a560bf63500",
+                        "id": "4e1315de-aa6d-4e5f-8114-9d71b5674307",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nPemeriksaan kecelakaan kapal meliputi:\na. pemeriksaan pendahuluan kecelakaan kapal;\nb. pemeriksaan lanjutan kecelakaan kapal.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nCukup jelas\n"
                     }
                 }
             ]
         },
         {
-            "id": "ad8c942f-d386-4455-97fd-22dda710890b",
+            "id": "2358f02c-18ae-465c-a8be-6393b8e39640",
             "name": "Chapter II",
             "title": "\nLAPORAN KECELAKAAN KAPAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "452cebe3-b64f-4d26-bff5-959cb9c40d9d",
+                    "id": "7165805e-fd1d-4ba0-808a-7d2589142de2",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "92529b29-18d7-4910-9ecb-2e0ba024af4c",
+                        "id": "f3748cb6-3069-49a7-a8b1-eeb5410e28b1",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nSetiap orang yang berada di atas kapal yang mengetahui dikapalnya\nterjadi kecelakaan, sesuai batas kemampuannya wajib melaporkan\nkecelakaan kapal kepada:\na. Syahbandar pelabuhan terdekat bila kecelakaan kapal terjadi di\ndalam wilayah perairan Indonesia;\nb. Pejabat Perwakilan Republik Indonesia terdekat dan Pejabat\nPemerintah negara setempat yang berwenang apabila kecelakaan\nkapal atau pelabuhan pertama yang disinggahi sesudah kecelakaan\nkapal terjadi di luar wilayah perairan Indonesia.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nHuruf a\nPengertian dari pelabuhan terdekat termasuk pelabuhan asal.\nHuruf b\nYang dimaksud dengan pejabat pemerintah negara setempat yang berwenang\nadalah pejabat yang berdasarkan ketentuan peraturan perundang-undangan yang\nberlaku di negara yang bersangkutan memiliki kewenangan untuk menindaklanjuti\nlaporan kecelakaan kapal.\nPenjelasan atas pengertian pejabat pemerintah negara setempat yang berwenang\nberlaku untuk seterusnya kecuali ditentukan secara lain dalam Peraturan\nPemerintah ini."
                     }
                 },
                 {
-                    "id": "d6d5534a-c246-4c1d-a229-396077e734ba",
+                    "id": "58839913-2beb-4ff6-b52c-8605bc14a2a6",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "a9e667d2-3889-4e04-81ce-f262e5ffba0e",
+                            "id": "d74da1a3-0ad9-416e-852e-e256c94eaedc",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Nakhoda atau pemimpin kapal, yang:\na. kapalnya mengalami kecelakaan kapal;\nb. menyebabkan kapal lain mendapat kecelakaan kapal;\nc. mengetahui kapal lain mendapat kecelakaan kapal;\nd. membawa awak kapal atau penumpang dari kapal yang mengalami kecelakaan kapal wajib melaporkan kecelakaan kapal kepada Syahbandar pelabuhan terdekat bila kecelakaan kapal terjadi di dalam wilayah perairan Indonesia.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Nakhoda atau pemimpin kapal, yang:\na. kapalnya mengalami kecelakaan kapal;\nb. menyebabkan kapal lain mendapat kecelakaan kapal;\nc. mengetahui kapal lain mendapat kecelakaan kapal;\nd. membawa awak kapal atau penumpang dari kapal yang\nmengalami kecelakaan kapal wajib melaporkan kecelakaan kapal\nkepada Syahbandar pelabuhan terdekat bila kecelakaan kapal\nterjadi di dalam wilayah perairan Indonesia.",
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "1d50d64d-f595-4568-a78d-27e7fba2f419",
+                            "id": "cb8e78d5-9e6f-4bf1-bfc6-629ae708bb92",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Nakhoda atau pemimpin kapal berbendera Indonesia yang mengalami kecelakaan kapal sebagaimana dimaksud dalam ayat (1) wajib melaporkan kecelakaan kapal kepada pejabat perwakilan Republik Indonesia terdekat dan Pejabat Pemerintah negara setempat yang berwenang apabila kecelakaan kapal atau pelabuhan pertama yang disinggahi sesudah kecelakaan kapal terjadi berada di luar wilayah perairan Indonesia.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Nakhoda atau pemimpin kapal berbendera Indonesia yang\nmengalami kecelakaan kapal sebagaimana dimaksud dalam ayat (1)\nwajib melaporkan kecelakaan kapal kepada pejabat perwakilan\nRepublik Indonesia terdekat dan Pejabat Pemerintah negara setempat\nyang berwenang apabila kecelakaan kapal atau pelabuhan pertama\nyang disinggahi sesudah kecelakaan kapal terjadi berada di luar\nwilayah perairan Indonesia.",
+                            "explanation": "\nCukup jelas"
                         }
                     ]
                 },
                 {
-                    "id": "ca4b5159-33dd-48c2-8eaf-e59596e2dd41",
+                    "id": "15cd993c-57d9-458e-a728-79ec64389caf",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "cc763fd1-7c77-4e53-b308-5c74bd3e6a17",
+                        "id": "15e6087c-22b9-43da-a1a8-f8552536856e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nKetentuan lebih lanjut mengenai tata cara dan bentuk isi laporan kecelakaan kapal sebagaimana dimaksud dalam Pasal 4 dan Pasal 5 diatur oleh Menteri.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nKetentuan lebih lanjut mengenai tata cara dan bentuk isi laporan\nkecelakaan kapal sebagaimana dimaksud dalam Pasal 4 dan Pasal 5\ndiatur oleh Menteri.",
+                        "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "95578dd9-7228-41d6-a540-10aea61c70b6",
+                    "id": "c8c08924-3361-4c3a-ad5c-2ed4bb45ef4d",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "afb544eb-3fd7-4d16-b71a-c20a09ee754d",
+                        "id": "6b7e0b22-e440-444b-b7c0-6ac3bf0531d4",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nLaporan kecelakaan kapal yang dilaporkan kepada pejabat Perwakilan Republik Indonesia sebagaimana dimaksud dalam Pasal 4 huruf b dan Pasal 5 ayat (2), oleh Pimpinan Perwakilan Republik Indonesia diteruskan kepada Menteri.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nLaporan kecelakaan kapal yang dilaporkan kepada pejabat Perwakilan\nRepublik Indonesia sebagaimana dimaksud dalam Pasal 4 huruf b dan\nPasal 5 ayat (2), oleh Pimpinan Perwakilan Republik Indonesia\nditeruskan kepada Menteri.",
+                        "explanation": "\nCukup jelas\n"
                     }
                 }
             ]
         },
         {
-            "id": "992d12c5-6d9d-4859-82d9-d59c5b2ff5f3",
+            "id": "d74a9db4-9016-4a2e-9572-e7366ce402a4",
             "name": "Chapter III",
             "title": "\nPEMERIKSAAN PENDAHULUAN\nKECELAKAAN KAPAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ef98ec36-8e85-4c80-ab06-a03467e96a2f",
+                    "id": "9044ca75-f3dc-419b-9b2a-5a58a3878623",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "90088a1f-3653-4e79-bd37-d8d3947c2184",
+                            "id": "960097ba-1b98-4e45-8aa0-49659cbcaad2",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Pemeriksaan pendahuluan kecelakaan kapal dilaksanakan atas dasar laporan kecelakaan kapal.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pemeriksaan pendahuluan kecelakaan kapal dilaksanakan atas dasar\nlaporan kecelakaan kapal.",
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "792330ae-1b2a-4ee0-9f58-237bd2c713ce",
+                            "id": "1a2e8d52-f479-476e-8fbe-4b401d9c96ae",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Pemeriksaan pendahuluan kecelakaan kapal sebagaimana dimaksud dalam ayat (1) dilaksanakan oleh:\na. Syahbandar, setelah menerima laporan kecelakaan kapal dari pelapor.\nb. Pejabat Pemerintah yang ditunjuk oleh Menteri, setelah Menteri menerima laporan kecelakaan kapal dari Pimpinan Perwakilan Republik Indonesia dan/atau dari pejabat Pemerintah negara setempat yang berwenang.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pemeriksaan pendahuluan kecelakaan kapal sebagaimana dimaksud\ndalam ayat (1) dilaksanakan oleh:\na. Syahbandar, setelah menerima laporan kecelakaan kapal dari\npelapor.\nb. Pejabat Pemerintah yang ditunjuk oleh Menteri, setelah Menteri\nmenerima laporan kecelakaan kapal dari Pimpinan Perwakilan\nRepublik Indonesia dan/atau dari pejabat Pemerintah negara\nsetempat yang berwenang.",
+                            "explanation": "\nHuruf a\nPemeriksaan pendahuluan kecelakaan kapal oleh Syahbandar pada dasarnya\ndilakukan setelah Syahbandar yang bersangkutan menerima laporan kecelakaan\nkapal dari pelapor.\nNamun demikian, tidak menutup kemungkinan pemeriksaan pendahuluan\nkecelakaan kapal dilakukan oleh Syahbandar lain yang terdekat dengan lokasi\nkecelakaan kapal dengan pertimbangan efisiensi dari segi tenaga dan waktu.\nDalam pelaksanaannya, Syahbandar yang menerima laporan kecelakaan kapal\nmelakukan langkah-langkah yang diperlukan dan berkoordinasi dengan\nSyahbandar lain yang terdekat dengan lokasi kecelakaan kapal.\nHuruf b\nCukup jelas"
                         }
                     ]
                 },
                 {
-                    "id": "16d14903-5422-42b6-8ce1-42e6f457a8c2",
+                    "id": "d0b6209f-9e09-44d9-af92-eb70fafb7e26",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "651ad9a1-82b5-4536-be03-551ead971039",
+                        "id": "0bb0a4e0-f926-4388-9231-c23f7af25475",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPemeriksaan pendahuluan kecelakaan kapal sebagaimana dimaksud dalam Pasal 8 dilaksanakan untuk mencari keterangan dan/atau bukti-bukti awal atas terjadinya kecelakaan kapal.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nPemeriksaan pendahuluan kecelakaan kapal sebagaimana dimaksud\ndalam Pasal 8 dilaksanakan untuk mencari keterangan dan/atau\nbukti-bukti awal atas terjadinya kecelakaan kapal.",
+                        "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "6311b376-7c3c-4b2e-b797-0af5219db0e7",
+                    "id": "52d7a520-5368-4d26-aa48-7bf8fda834d2",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "1d872a59-8c12-4820-b4ad-16929afe34a0",
+                        "id": "60c2204d-8040-488d-ad54-b2f2c8c01940",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam melaksanakan pemeriksaan pendahuluan kecelakaan kapal, Syahbandar atau pejabat Pemerintah yang ditunjuk oleh Menteri dapat mencari keterangan yang diperlukan dari :\n\na. Nakhoda atau pemimpin kapal;\nb. perwira kapal;\nc. anak buah kapal;\nd. pihak lainnya.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nDalam melaksanakan pemeriksaan pendahuluan kecelakaan kapal,\nSyahbandar atau pejabat Pemerintah yang ditunjuk oleh Menteri dapat\nmencari keterangan yang diperlukan dari :\n\na. Nakhoda atau pemimpin kapal;\nb. perwira kapal;\nc. anak buah kapal;\nd. pihak lainnya.",
+                        "explanation": "\nHuruf a\nCukup jelas\nHuruf b\nYang dimaksud dengan perwira kapal adalah perwira yang mendapat tugas jaga pada waktu kecelakaan kapal terjadi\nHuruf c\nYang dimaksud dengan anak buah kapal adalah anak buah kapal yang mendapat tugas jaga pada waktu kecelakaan kapal terjadi.\nHuruf d\nYang dimaksud dengan pihak lainnya adalah pihak-pihak yang dapat memberikan keterangan atas terjadinya kecelakaan kapal, misalnya saksi."
                     }
                 },
                 {
-                    "id": "ba358ab1-8367-4e2f-b9e0-ad425cd8acbe",
+                    "id": "dc0e37c5-3ab3-42c1-ad85-d2a5eef34a30",
                     "name": "Article 11",
                     "type": "article",
                     "children": {
-                        "id": "f3e6e497-1e89-4e63-8e22-ac39589650aa",
+                        "id": "95fddb10-dfe5-43e7-9d9d-4d97f4573820",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nKetentuan lebih lanjut mengenai tata cara pemeriksaan pendahuluan\nkecelakaan kapal sebagaimana dimaksud dalam Pasal 8, Pasal 9, dan\nPasal 10 diatur oleh Menteri.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "930f4165-4cfc-49f1-8821-b8a10ce44cc0",
+                    "id": "575ffccb-f193-481d-a4ff-b3e6fd393f9e",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "aa600c5b-2e96-4578-a19a-198891ad54d2",
+                            "id": "d5215ff2-70ec-4bd7-81ba-f979d2e6fca7",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Hasil pemeriksaan pendahuluan kecelakaan kapal dituangkan dalam\nbentuk berita acara pemeriksaan pendahuluan kecelakaan kapal.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "97c6e1f5-8c09-4843-9370-3860b1b80ff1",
+                            "id": "eea85b75-e216-4b9d-bcf1-aa2a6463ac30",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Berita acara pemeriksaan pendahuluan kecelakaan kapal\nsebagaimana dimaksud dalam ayat (1) ditandatangani oleh\nSyahbandar atau pejabat Pemerintah yang ditunjuk oleh Mneteri.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nPengertian ditandatangani dalam ayat ini adalah ditandatangani oleh Syahbandar atau pejabat pemerintah yang ditunjuk oleh Menteri, yang melakukan pemeriksaan pendahuluan kecelakaan kapal."
                         }
                     ]
                 },
                 {
-                    "id": "c08546e4-ce7a-401f-a7ed-7ef064614453",
+                    "id": "a93d6931-e8cd-4c3f-967d-3398df61bba5",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3441b23b-d88d-4ece-aba8-9c50a2ba2396",
+                            "id": "090248a1-019a-43fa-8683-d63eb579016d",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Hasil pemeriksaan pendahuluan kecelakaan kapal disampaikan\nsecara tertulis kepada Menteri selambat-lambatnya 30 (tiga puluh)\nhari sejak diterimanya laporan kecelakaan kapal.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "f973d679-79b4-4e81-931c-c39d7771ac62",
+                            "id": "b03c7284-f213-41d6-aa78-99f8eca85952",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Hasil pemeriksaan pendahuluan kecelakaan kapal sebagaimana\ndimaksud dalam ayat (1) dilampiri dengan :\n\na. kesimpulan hasil pemeriksaan pendahuluan kecelakaan kapal;\nb. laporan kecelakaan kapal;\nc. dokumen lain yang diperlukan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nHuruf a\nKesimpulan hasil pemeriksaan pendahuluan kecelakaan kapal memuat pendapat Syahbandar atau pejabat pemerintah yang ditunjuk oleh Menteri, yang melakukan pemeriksaan pendahuluan kecelakaan kapal mengenai sebab-sebab\nterjadinya kecelakaan kapal.\nHuruf b\nCukup jelas\nHuruf c\nYang dimaksud dengan dokumen lain yang diperlukan antara lain fotokopi dari\nsurat kapal, sertifikat kapal, buku harian kapal, buku olah gerak kapal pada waktu\nkecelakaan kapal terjadi, dokumen awak kapal, buku pelaut, daftar penumpang dan\nmuatan kapal, surat ijin berlayar terakhir, data kapal, peta lokasi kecelakaan kapal."
                         },
                         {
-                            "id": "9669d4ca-87a3-4b8f-92f2-822d1cd88d80",
+                            "id": "8b69ab77-e30a-4645-b7f7-5f57a6d542b2",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Ketentuan lebih lanjut mengenai tata cara pembuatan hasil pemeriksaan pendahuluan kecelakaan kapal sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur oleh Menteri.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         }
                     ]
                 },
                 {
-                    "id": "e8964380-271f-4279-8a46-15cc1abfb839",
+                    "id": "c12680af-688b-4dc3-a28c-2f908bc44c15",
                     "name": "Article 14",
                     "type": "article",
                     "children": {
-                        "id": "0142cdbb-f1df-41f3-a043-d0241c18e726",
+                        "id": "8573669f-f7b0-44b0-ac2f-7070a20181ed",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nSegala biaya yang diperlukan dalam pelaksanaan pemeriksaan pendahuluan kecelakaan kapal dibebankan pada Anggaran Pendapatan dan Belanja Departemen Perhubungan.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "ada56584-29bc-409f-8c53-7b6d6cdf8984",
+                    "id": "15f909b0-8fe0-4fc9-bc63-b0679f160976",
                     "name": "Article 15",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6a03efa9-34b1-453f-9aa8-7f2b2135bdb9",
+                            "id": "dba63c39-16af-40c1-8d1d-9abdc36056fd",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Apabila berdasarkan hasil pemeriksaan pendahuluan kecelakaan kapal. Menteri berpendapat adanya dugaan kesalahan dan/atau kelalaian dalam menerapkan standar profesi kepelautan yang dilakukan oleh Nakhoda atau pemimpin kapal dan/atau perwira kapal atas terjadinya kecelakaan kapal, maka selambat-lambatnya dalam jangka waktu 14 (empat belas) hari sejak diterimanya hasil pemeriksaan pendahuluan kecelakaan kapal, Menteri meminta Mahkamah Pelayaran melakukan pemeriksaan lanjutan kecelakaan kapal.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "c91fce18-1b2b-4c4d-8c7d-1869a61418a5",
+                            "id": "9eb05995-304c-4333-a8c5-9a5e99486a1e",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Permintaan pemeriksaan lanjutan kecelakaan kapal sebagaimana dimaksud dalam ayat (1) diajukan secara tertulis disertai dengan:\n\na. laporan kedelakaan kapal;\nb. hasil pemeriksaan pendahuluan kecelakaan kapal;\nc. kesimpulan hasil pemeriksaan pendahuluan kecelakaan kapal;\nd. dokumen lain yang diperlukan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nLihat penjelasan Pasal 13 ayat (2) huruf a.\nHuruf d\nLihat penjelasan Pasal 13 ayat (2) huruf c."
                         }
                     ]
                 },
                 {
-                    "id": "9d70fe09-f375-4ed1-bfc2-8e52de853798",
+                    "id": "b4c532d8-5304-4757-8e29-f00bcaca4184",
                     "name": "Article 16",
                     "type": "article",
                     "children": [
                         {
-                            "id": "28d2d29e-8f83-4378-9eec-9f3dc529a42f",
+                            "id": "a198ffb3-69f7-4ac8-b2a5-74f5ed8f8eed",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Menteri mengeluarkan surat penghentian pemeriksaan kecelakaan\nkapal terhadap hasil pemeriksaan pendahuluan kecelakaan kapal\nyang tidak dimintakan pemeriksaan lanjutan kecelakaan kapal.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "5570d7b2-b36f-4845-bb0b-766fe4a5f7ca",
+                            "id": "847b5703-c2e2-43eb-846b-951a87965344",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Surat penghentian pemeriksaan kecelakaan kapal sebagaimana\ndimaksud dalam ayat (1) sekurang-kurangnya memuat keterangan\nmengenai dasar alasan tidak dimintakannya pemeriksaan lanjutan\nkecelakaan kapal dan penetapan sebab-sebab terjadinya kecelakaan\nkapal.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "ec1f0986-0525-4718-bab5-131cf2915e17",
+                            "id": "331fa728-61f0-42e3-a84d-7a7d4f756b78",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) dan\nayat (2) diatur lebih lanjut oleh Menteri.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "a9390d51-c46e-48bb-a14c-9baf8c4a345c",
+            "id": "4b7db895-437c-4516-b1d7-248524cad53b",
             "name": "Chapter IV",
-            "title": "\nPEMERIKSAAN LANJUTAN KECELAKAAN KAPAL\nBagian Pertama\nUmum\nPasal 17\nPemeriksaan lanjutan kecelakaan kapal dilaksanakan oleh Mahkamah\nPelayaran.\n\nPasal 18\nDalam melaksanakan pemeriksaan lanjutan kecelakaan kapal,\nMahkamah Pelayaran bertugas:\na. meneliti sebab-sebab kecelakaan kapal dan menentukan ada atau\ntidak adanya kesalahan atau kelalaian dalam penerapan standar\nprofesi kepelautan oleh Nakhoda atau pemimpin kapal dan/atau\nperwira kapal atas terjadinya kecelakaan kapal;\nb. menjatuhkan sanksi administratif kepada Nakhoda atau pemimpin\nkapal dan/atau perwira kapal yang memiliki sertifikat keahlian Pelaut\nyang dikeluarkan oleh pemerintah Indonesia yang melakukan\nkesalahan atau kelalaian dalam menerapkan standar profesi\nkepelautan.\nPasal 19\nSanksi administratif sebagaimana dimaksud dalam Pasal 18 huruf b\ndapat berupa:\na. peringatan;\nb. pencabutan sementara sertifikat keahlian Pelaut untuk bertugas\ndalam jabatan tertentu di kapal, untuk waktu paling lama 2 (dua)\ntahun.",
+            "title": "\nPEMERIKSAAN LANJUTAN KECELAKAAN KAPAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "1c25a25c-3e7d-4e00-8a46-40e19133d3fa",
+                    "id": "7a57f0f5-cfc1-4a2e-9869-8236636dea3e",
+                    "name": "Section First",
+                    "title": "\nUmum",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "6fb85344-8849-469e-a426-ac2a317929db",
+                            "name": "Article 17",
+                            "type": "article",
+                            "children": {
+                                "id": "2a7f76a7-5fa4-4d12-a9cf-d3f330e296ab",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nPemeriksaan lanjutan kecelakaan kapal dilaksanakan oleh Mahkamah\nPelayaran.\n",
+                                "explanation": "\nCukup jelas"
+                            }
+                        },
+                        {
+                            "id": "34cdfa89-fd36-45e2-be26-cbea3cd26dfa",
+                            "name": "Article 18",
+                            "type": "article",
+                            "children": {
+                                "id": "f1768bec-4a03-47f6-93c5-5d500098f728",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nDalam melaksanakan pemeriksaan lanjutan kecelakaan kapal, Mahkamah Pelayaran bertugas:\na. meneliti sebab-sebab kecelakaan kapal dan menentukan ada atau tidak adanya kesalahan atau kelalaian dalam penerapan standar profesi kepelautan oleh Nakhoda atau pemimpin kapal dan/atau perwira kapal atas terjadinya kecelakaan kapal;\nb. menjatuhkan sanksi administratif kepada Nakhoda atau pemimpin kapal dan/atau perwira kapal yang memiliki sertifikat keahlian Pelaut yang dikeluarkan oleh pemerintah Indonesia yang melakukan kesalahan atau kelalaian dalam menerapkan standar profesi kepelautan.",
+                                "explanation": "\nCukup jelas"
+                            }
+                        },
+                        {
+                            "id": "9d2759c9-ced8-45dc-ae67-1f9d7ef5c535",
+                            "name": "Article 19",
+                            "type": "article",
+                            "children": {
+                                "id": "4906d47e-f070-46fb-8107-08e439e6668f",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nSanksi administratif sebagaimana dimaksud dalam Pasal 18 huruf b dapat berupa:\na. peringatan;\nb. pencabutan sementara sertifikat keahlian Pelaut untuk bertugas dalam jabatan tertentu di kapal, untuk waktu paling lama 2 (dua) tahun.",
+                                "explanation": "\nCukup jelas"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2a7a91a8-13b5-4273-9673-f41780ba15c7",
                     "name": "Section Second",
                     "title": "\nKedudukan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "16dc49e6-e4ba-409c-a6b1-a217ad006d72",
+                            "id": "f7bf1569-52c4-41b1-ada7-2cb8a163fd52",
                             "name": "Article 20",
                             "type": "article",
                             "children": {
-                                "id": "b31eb0aa-1300-4b68-b6ba-0cb58a9ac232",
+                                "id": "ab577fcb-d321-488e-82ff-abc4b165c0a0",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nMahkamah Pelayaran merupakan lembaga Pemerintah yang berada di\nbawah dan bertanggung jawab langsung kepada Menteri.\n",
-                                "explanation": "Tidak ada Penjelasan"
+                                "content": "\nMahkamah Pelayaran merupakan lembaga Pemerintah yang berada di bawah dan bertanggung jawab langsung kepada Menteri.\n",
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "c96f6b00-4750-4b87-82c2-051c7e7bba3b",
+                            "id": "4fa700d9-b957-4204-bf9f-d662a5d03bf0",
                             "name": "Article 21",
                             "type": "article",
                             "children": {
-                                "id": "0ba4a2a3-d322-46e2-891b-06521220fe5c",
+                                "id": "c0d909b2-fd3a-4e9a-a303-6412f47e067a",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nMahkamah Pelayaran berkedudukan di Ibukota Negara Republik\nIndonesia.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         }
                     ]
                 },
                 {
-                    "id": "30670329-b5b0-44ea-a5ac-4c3e5eda9f3b",
+                    "id": "0c150498-7b60-4fd1-8cf7-6c53c992db59",
                     "name": "Section Third",
                     "title": "\nSusunan Keanggotaan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "ae9cedfe-9366-4972-b7e8-b2dfed491010",
+                            "id": "a10c91ad-033d-4d35-b40a-1e9bbcac296c",
                             "name": "Article 22",
                             "type": "article",
                             "children": {
-                                "id": "0ef50785-57b6-4429-b2e1-9664ae2a0518",
+                                "id": "c9d1ed98-29bf-44e3-876a-89e6f4a01982",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nSusunan keanggotaan Mahkamah Pelayaran terdiri dari ketua\nmerangkap angota, anggota dan sekretaris Mahkamah Pelayaran.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas\n"
                             }
                         },
                         {
-                            "id": "d27cced2-62bf-4c0d-9aa6-738d3c8f0f9f",
+                            "id": "c91cdf10-d175-4e35-8586-ca1bd36d237c",
                             "name": "Article 23",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "4c982058-5765-4bd7-8c86-94fbc655c239",
+                                    "id": "ad840048-705f-4224-88cc-da04de3f85f8",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Mahkamah Pelayaran dipimpin oleh seorang ketua.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nHuruf b\nJabatan Ketua Mahkamah Pelayaran adalah jabatan struktural Pegawai Negeri\nSipil, maka untuk dapat menduduki jabatan tersebut harus memenuhi persyaratan\njabatan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku di\nbidang Pegawai Negari Sipil."
                                 },
                                 {
-                                    "id": "085e8cf6-acc9-4cdb-8cf8-92ea0a918b36",
+                                    "id": "55bed64b-de8c-4c21-9186-c02539981c43",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Ketua sebagaimana dimaksud dalam ayat (1) dapat dijabat oleh\nSarjana Hukum, ahli Nautika Tingkat I, Ahli Teknika Tingkat I atau\nSarjana Teknik Perkapalan.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nHuruf b\nJabatan Ketua Mahkamah Pelayaran adalah jabatan struktural Pegawai Negeri\nSipil, maka untuk dapat menduduki jabatan tersebut harus memenuhi persyaratan\njabatan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku di\nbidang Pegawai Negari Sipil."
                                 }
                             ]
                         },
                         {
-                            "id": "b32e553e-6ad7-4aeb-9ea7-1a6a311114fe",
+                            "id": "0ae35a0e-8217-4c20-9d97-00f3d6a63f61",
                             "name": "Article 24",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "bb295286-8cc9-4a35-8e9e-ca29f273cd13",
+                                    "id": "8980269e-9c53-462c-8a87-c3c94533a6c4",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Anggota Mahkamah Pelayaran terdiri dari beberapa orang Sarjana\nHukum, Ahli Nautika Tingkat I, Ahli Teknika Tingkat I dan Sarjana\nTeknik Perkapalan.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "4ff94d36-987f-4f25-9f1c-796aa554bf02",
+                                    "id": "e6c28af8-241b-4b73-b2b6-ae8c841584fe",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Jumlah anggota Mahkamah Pelayaran sebagaimana dimaksud dalam\nayat (1) sebanyak-banyaknya 15 (lima belas) orang.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "0827d3b5-875f-47f2-ac6b-7a1b8badb108",
+                            "id": "2d10c571-6f4e-46c3-928b-1304570f3c53",
                             "name": "Article 25",
                             "type": "article",
                             "children": {
-                                "id": "1c55b210-4493-45a8-9d56-efbc68038e6e",
+                                "id": "72eed1e8-7a87-4e18-9b20-4871dc8d458f",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nPasal 25\nMahkamah Pelayaran dibantu oleh sebuah Sekretariat yang dipimpin\noleh seorang sekretaris Mahkamah Pelayaran.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "cab4b433-768b-4608-be34-03d5b21d213f",
+                            "id": "b10abbce-6611-4a29-9c3f-9591c7933e24",
                             "name": "Article 26",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "fc9c070e-4ad1-4de8-be40-02eeb4c49e8f",
+                                    "id": "17ab03c1-c66a-49e8-9dac-51fd5c149ff0",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " dilaksanakan sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku di bidang Pegawai Negeri Sipil.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Ketua, anggota, dan sekretaris Mahkamah Pelayaran diangkat dan\ndiberhentikan oleh Menteri.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "52d882f1-a187-4167-a357-aafad0c297e3",
+                                    "id": "bd275f87-1f18-4dfb-805b-0cea4ae5ae08",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Pengangkatan dan pemberhentian sebagaimana dimaksud dalam ayat",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Pengangkatan dan pemberhentian sebagaimana dimaksud dalam ayat\n(1) dilaksanakan sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku di bidang Pegawai Negeri Sipil.",
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "07fea500-cf5c-4520-aaff-5d7b24e957fe",
+                            "id": "c408a738-f954-4cab-be3b-b461c7bf26d7",
                             "name": "Article 27",
                             "type": "article",
                             "children": {
-                                "id": "5bfd2f08-e26f-487b-b5a6-cd5ddeebc0ac",
+                                "id": "d7c83945-527f-4377-b6d7-f512249c0b3c",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nApabila ketua Mahkamah Pelayaran berhalangan dalam menjalankan\ntugasnya, Menteri menunjuk salah seorang angota Mahkamah Pelayaran\nuntuk diangkat sebagai pejabat sementara ketua Mahkamah Pelayaran.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "d5a80b14-8e97-4dda-bce8-ac9dce3ad6ac",
+                            "id": "03f61287-8817-4492-9d5a-ad42c1b921d6",
                             "name": "Article 28",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "6cbc775e-fb2b-4805-93f8-69b028724687",
+                                    "id": "203b53b4-e5ab-47e3-9cc9-d4757d906e54",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " untuk dapat diangkat sebagai ketua Mahkamah Pelayaran,\nseorang calon harus:\na. memiliki pengalaman sekurang-kurangnya 2 (dua) tahun sebagai\nanggota Mahkamah Pelayaran;\nb. memenuhi persyaratan jabatan sesuai dengan ketentuan peraturan\nperundang-undangan di bidang Pegawai Negeri Sipil.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Untuk dapat diangkat menjadi ketua dan anggota Mahkamah\nPelayaran, seorang calon harus memenuhi persyaratan :\na. bertaqwa kepada Tuhan Yang Maha Esa;\nb. setia kepada Pancasila dan Undang-Undang Dasar 1945;\nc. memiliki masa kerja sekurang-kurangnya 15 (lima belas) tahun\nsebagai Pegawai Negeri Sipil;\nd. Sarjana Hukum, Ahli Nautika Tingkat I, Ahli Teknika Tingkat I\natau Sarjana Teknik Perkapalan.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "ce377fcf-e893-410c-b425-21ea00b939de",
+                                    "id": "6d9ce947-dd19-4fff-97cb-544353b3907e",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Selain ketentuan yang ditetapkan sebagaimana dimaksud dalam ayat",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Selain ketentuan yang ditetapkan sebagaimana dimaksud dalam ayat\n(1) untuk dapat diangkat sebagai ketua Mahkamah Pelayaran,\nseorang calon harus:\na. memiliki pengalaman sekurang-kurangnya 2 (dua) tahun sebagai\nanggota Mahkamah Pelayaran;\nb. memenuhi persyaratan jabatan sesuai dengan ketentuan peraturan\nperundang-undangan di bidang Pegawai Negeri Sipil.",
+                                    "explanation": "\nHuruf a"
                                 }
                             ]
                         },
                         {
-                            "id": "60a96bb6-58a5-4045-b619-05a0e379c8bc",
+                            "id": "901bceef-d6fb-446f-a575-7bf97e111aff",
                             "name": "Article 29",
                             "type": "article",
                             "children": {
-                                "id": "7af7b29d-9376-4acd-b53a-d55cad5c030c",
+                                "id": "43d804f5-35f9-459b-9237-665d44b417e1",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nUntuk dapat diangkat menjadi sekretaris Mahkamah Pelayaran, seorang\ncalon harus memenuhi persyaratan :\na. bertaqwa kepada Tuhan Yang Maha Esa;\nb. setia kepada Pancasila dan Undang-Undang Dasar 1945;\nc. seorang Sarjana Hukum;\nd. memenuhi persyaratan jabatan sesuai dengan ketentuan peraturan\nperundang-undangan di bidang Pegawai Negeri Sipil.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nJabatan Sekretaris Mahkamah Pelayaran adalah jabatan struktural Pegawai\nNegeri Sipil.\nLihat penjelasan Pasal 28 ayat (2) huruf b."
                             }
                         }
                     ]
                 },
                 {
-                    "id": "57660793-1384-43dc-8a6e-474b3c3e08bb",
+                    "id": "67d90791-f80d-4904-a0ff-6932e953e4f4",
                     "name": "Section Fourth",
                     "title": "\nTata Kerja\nParagraf Kesatu\nPembentukan Majelis Mahkamah Pelayaran",
                     "type": "section",
                     "children": [
                         {
-                            "id": "e877cae4-ae4f-47d5-857c-08892e76f631",
+                            "id": "d7aa92a7-70d2-4f6d-a053-d1711f4defc4",
                             "name": "Article 30",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "e22816ca-a40a-4d01-a024-78db7cfcab87",
+                                    "id": "9c712ac2-6aef-4d4c-be81-0ed41b9f31e5",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Selambat-lambatnya dalam jangka waktu 7 (tujuh) hari sejak diterimanya permintaan pemeriksaan lanjutan kecelakaan kapal, ketua Mahkamah Pelayaran membentuk Majelis Mahkamah Pelayaran.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "bf082f48-a119-4b2b-bf56-754ce929bb71",
+                                    "id": "050d9730-ba6f-467a-bec0-a352dbf2348f",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Pembentukan Majelis sebagaimana dimaksud dalam ayat (1) dilakukan dengan menunjuk beberapa anggota Mahkamah Pelayaran sesuai keahlian yang dibutuhkan dalam pemeriksaan lanjutan kecelakaan kapal.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "af2eed9d-e8e1-4f64-a18e-823a6083136d",
+                            "id": "fbf48132-61a0-4b4c-9a0c-a830760a954f",
                             "name": "Article 31",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "25d6a687-b21a-4289-b38d-3109d65282d1",
+                                    "id": "3bcc19bd-6e7f-49d1-9eab-dc1cc75b01a3",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Susunan keanggotaan Majelis terdiri dari ketua merangkap sebagai anggota dan anggota Majelis.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "c80c4585-4f3b-4622-890f-737387bf26b3",
+                                    "id": "de69a611-24db-4395-956f-7867bc0e8e3e",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Jumlah anggota Majelis harus ganjil dan sekurang-kurangnya terdiri dari 5 (lima) orang.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "c4732d03-6556-4e1e-96d6-b94aed524839",
+                                    "id": "80eb4733-8523-44f7-b918-fa650390b302",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Anggota Majelis sebagaimana dimaksud dalam ayat (2) sekurang-kurangnya salah satunya adalah seorang Sarjana Hukum.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas\n"
                                 }
                             ]
                         },
                         {
-                            "id": "032926e2-3440-4729-b443-91fb637dc379",
+                            "id": "f3994ffe-b0fa-444c-89f9-20f2e3d03da0",
                             "name": "Article 32",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "2c9627fd-e3a8-4f37-ab7e-d49c66b5960d",
+                                    "id": "ee2a8897-b3a2-4530-b896-739e2e8f957d",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Kepada majelis diperbantukan seorang sekretaris sebagai pencatat dalam Sidang Majelis.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "59480a2d-769d-40d4-adb9-cb604f193121",
+                                    "id": "d4dbf900-225d-4d35-a244-bf8105f0bb32",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Sekretaris Majelis dapat dijabat oleh Sekretaris Mahkamah Pelayaran atau seorang sekretaris pengganti.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nYang dimaksud dengan sekretaris pengganti adalah Pegawai Negeri Sipil yang\ndiangkat oleh pejabat yang berwenang dan ditugaskan sebagai sekretaris pengganti\ndalam Mahkamah Pelayaran sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku di bidang Pegawai Negeri Sipil.Sekretaris\npengganti mempunyai tugas sebagai sekretaris dalam Sidang Majelis pemeriksaan\nlanjutan kecelakaan kapal."
                                 },
                                 {
-                                    "id": "b0249016-63a1-467c-a660-8c05ccdf6c10",
+                                    "id": "91cf6ca7-28ff-4a36-b3b7-0dd94eda58ac",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Sekretaris Pengganti dijabat oleh Sarjana Hukum dan jumlah\nsekretaris pengganti pada Mahkamah Pelayaran dibatasi paling\nbanyak 2 (dua) orang sekretaris pengganti.\nParagraf Kedua\nSidang Majelis",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nPengertian yang ada dalam ayat ini adalah bahwa jumlah sekretaris pengganti yang\ndapat diangkat dalam Mahkamah Pelayaran sebanyak-banyaknya adalah 2 (dua)\norang."
                                 }
                             ]
                         },
                         {
-                            "id": "b032cb9c-ad15-4d49-b547-307f6ed3d647",
+                            "id": "374b65f8-fd58-479b-9162-fe2734738b02",
                             "name": "Article 33",
                             "type": "article",
                             "children": {
-                                "id": "54d01544-10e9-4a44-ae89-18ae05519cf8",
+                                "id": "7ca9baf6-b9d1-42a2-85b4-f9a7e80ef009",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nSelambat-lambatnya dalam jangka waktu 30 (tiga puluh) hari sejak\ndibentuknya, Majelis harus telah melaksanakan Sidang Majelis yang\npertama.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "c3ea88c1-fc37-4d22-b914-0273c4066356",
+                            "id": "5a79b789-155c-4aa7-8733-5a0e60eefe2c",
                             "name": "Article 34",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "62c39dad-2a57-41af-950c-21a227711cf8",
+                                    "id": "99536653-ce31-45bc-8574-5fb547b37752",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Sidang Majelis dilangsungkan di tempat kedudukan Mahkamah\nPelayaran.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "77470372-7792-484f-a758-0c2d54279b55",
+                                    "id": "cf448541-50de-4d8b-8259-e623b22c9f32",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Dalam hal tertentu Sidang Majelis dapat dilangsungkan di luar\ntempat kedudukan Mahkamah Pelayaran.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nDalam hal tertentu Sidang Majelis dapat dilangsungkan di luar tempat kedudukan\nMahkamah Pelayaran dengan pertimbangan antara lain karena sebagian besar alat\nbukti yang diperlukan berada di lokasi yang bersangkutan atau tersangkut berada\ndalam penahanan oleh pejabat yang berwenang pada lokasi yang bersangkutan."
                                 },
                                 {
-                                    "id": "53ce0088-1160-49be-a686-83320f348f70",
+                                    "id": "01f822d8-626e-4e13-9f22-61b088c4d92f",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Sidang Majelis yang dilangsungkan di luar tempat kedudukan\nMahkamah Pelayaran sebagaimana dimaksud dalam ayat (2)\ndilakukan setelah mendapat ijin ketua Mahkamah Pelayaran.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "ddcad11a-e92e-4698-8873-2e608e83653b",
+                            "id": "16fc204d-33fa-4788-9c69-8596b547b4e0",
                             "name": "Article 35",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "36d36132-7a21-41e6-8ff6-00b3a1917cc5",
+                                    "id": "fba4159d-39fa-409f-bafd-77a4d479be9d",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Sidang Majelis dilaksanakan di ruang Sidang Mahkamah Pelayaran.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "f3f03e5c-4b5b-40ac-bcf2-f58901086a0f",
+                                    "id": "69f1d40e-2a65-4df6-b37a-9007c8285388",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Ruang Sidang Mahkamah Pelayaran sebagaimana dimaksud dalam\n- 15 -\nayat (1) disusun menurut tata cara:\n\na. tempat meja dan kursi anggota Majelis letaknya lebih tinggi dari tempat sekretaris Majelis, tersangkut, saksi, saksi ahli, dan pengunjung;\nb. tempat sekretaris Majelis terletak di sisi kiri depan tempat anggota Majelis;\nc. tempat kursi tersangkut, saksi, dan saksi ahli terletak dihadapan anggota Majelis;\nd. tempat pengunjung terletak di belakang tempat tersangkut;\ne. bendera nasional ditempatkan di sebelah kanan meja anggota Majelis dan Lambang Negara ditempatkan pada dinding bagian atas di belakang meja anggota Majelis;\nf. diantara tempat anggota Majelis dan tempat tersangkut disediakan meja peta laut;\ng tempat sebagaimana dimaksud pada huruf a, huruf b, huruf c, huruf d, huruf e, dan huruf f diberi tanda pengenal.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Ruang Sidang Mahkamah Pelayaran sebagaimana dimaksud dalam\n- 15 -\nayat (1) disusun menurut tata cara:\n\na. tempat meja dan kursi anggota Majelis letaknya lebih tinggi dari\ntempat sekretaris Majelis, tersangkut, saksi, saksi ahli, dan\npengunjung;\nb. tempat sekretaris Majelis terletak di sisi kiri depan tempat\nanggota Majelis;\nc. tempat kursi tersangkut, saksi, dan saksi ahli terletak dihadapan\nanggota Majelis;\nd. tempat pengunjung terletak di belakang tempat tersangkut;\ne. bendera nasional ditempatkan di sebelah kanan meja anggota\nMajelis dan Lambang Negara ditempatkan pada dinding bagian\natas di belakang meja anggota Majelis;\nf. diantara tempat anggota Majelis dan tempat tersangkut\ndisediakan meja peta laut;\ng tempat sebagaimana dimaksud pada huruf a, huruf b, huruf c,\nhuruf d, huruf e, dan huruf f diberi tanda pengenal.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "09ff990b-adeb-4057-8150-de39a80ab3c0",
+                                    "id": "30e2501a-a1c0-49e9-911d-2a7e4ff29b4c",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Dalam hal Sidang Majelis dilangsungkan di luar tempat kedudukan Mahkamah Pelayaran, tata cara penyusunan ruang Sidang Majelis sedapat mungkin dilakukan sesuai dengan ketentuan sebagaimana dimaksud dalam ayat (2).",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Dalam hal Sidang Majelis dilangsungkan di luar tempat\nkedudukan Mahkamah Pelayaran, tata cara penyusunan ruang Sidang\nMajelis sedapat mungkin dilakukan sesuai dengan ketentuan\nsebagaimana dimaksud dalam ayat (2).",
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "cc25784f-dc97-4e6c-9fa0-dd703640dc30",
+                            "id": "cf433e55-c22f-4b1a-ac24-0379cd21c0e2",
                             "name": "Article 36",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "2a54acb5-30ae-445d-aa3c-7aa5fd0d3bbb",
+                                    "id": "e5b8feb9-e294-45d7-98a7-5ead8054a33a",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Dalam melaksanakan Sidang Majelis, anggota dan sekretaris Majelis mengenakan pakaian sidang dan atribut.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Dalam melaksanakan Sidang Majelis, anggota dan sekretaris Majelis\nmengenakan pakaian sidang dan atribut.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "19e0a6e8-5804-4b03-b6c4-c268abf3f6eb",
+                                    "id": "1a8865fe-d9ea-4fa7-bd95-87039c01824b",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) diatur",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "edcd9efa-1a88-40b2-abc7-d80f5878171d",
+                            "id": "81c07491-e020-41a4-860e-07e3cbd87210",
                             "name": "Article 37",
                             "type": "article",
                             "children": {
-                                "id": "d10b7e15-f1c2-451f-b2aa-df909f6c6a38",
+                                "id": "b74d004d-7a21-43dc-8fe0-dd2a2674791d",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nPasal 37\nSidang Majelis dilakukan secara terbuka untuk umum.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "221dd949-07b4-4eff-845c-d291ad20d429",
+                            "id": "24fcf285-0805-4666-a510-f18e0d06f221",
                             "name": "Article 38",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "33ac0475-62ed-4c17-b556-0b4bd9732a5c",
+                                    "id": "ba29870e-9390-4fb3-9330-67c68d86ebe3",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": ", maka segera dilakukan sidang ulang tanpa mengikutsertakan\nanggota Majelis yang bersangkutan.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Anggota Majelis harus mengundurkan diri dari persidangan apabila\nterikat hubungan keluarga atau semenda sampai derajat ketiga\ndengan tersangkut, atau hubungan suami isteri meskipun telah\nbercerai dengan tersangkut.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "e7c0b6b6-6ae6-45c1-8e13-0758dd883e1e",
+                                    "id": "62bb07cc-be64-4e43-add0-657805e7255b",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " menyebabkan jumlah Anggota Majelis menjadi genap, maka\nketua Mahkamah Pelayaran mengambil keputusan untuk menambah\natau mengurangi satu orang anggota Majelis sehingga jumlah\nanggota Majelis menjadi ganjil, tetapi tetap tidak boleh kurang dari 5\n(lima) orang anggota majelis.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Apabila setelah hasil sidang telah diputus baru diketahui terdapat\nanggota majelis terkena ketentuan sebagaimana dimaksud dalam ayat\n(1), maka segera dilakukan sidang ulang tanpa mengikutsertakan\nanggota Majelis yang bersangkutan.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "fa96a2a0-15c1-4661-ad92-08b0fcb1e31d",
+                                    "id": "a6b6554c-61ee-4a1a-8a25-b6b0a90679f7",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Apabila ketentuan sebagaimana dimaksud dalam ayat (1) dan ayat",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Apabila ketentuan sebagaimana dimaksud dalam ayat (1) dan ayat\n(2) menyebabkan jumlah Anggota Majelis menjadi genap, maka\nketua Mahkamah Pelayaran mengambil keputusan untuk menambah\natau mengurangi satu orang anggota Majelis sehingga jumlah\nanggota Majelis menjadi ganjil, tetapi tetap tidak boleh kurang dari 5\n(lima) orang anggota majelis.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "ca1c7c24-f787-41e8-8e99-58269f73976f",
+                                    "id": "e40e98d5-bc3b-4347-bfbc-a6b8d29e87f3",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Ketentuan lebih lanjut mengenai tata cara pengunduran diri dan\npengurangan atau penambahan anggota Majelis dalam melaksanakan\nsidang sebagaimana dimaksud dalam ayat (1), ayat (2) dan ayat (3)\ndiatur oleh Menteri.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "898b4f05-3ba9-4f88-b107-d84873d48ab5",
+                            "id": "a748fcb5-1b7e-48e0-ace1-d08472685147",
                             "name": "Article 39",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "372690ea-490a-4154-bc6c-03177471303d",
+                                    "id": "7b66fa15-b53d-4752-9cb2-e6dcdd4cc029",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Dalam melakukan tugasnya, Sidang Majelis memanggil dan meminta\nketerangan dari tersangkut, saksi, saksi ahli, melakukan pemeriksaan\ndi lapangan atau hal lain yang dianggap perlu.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "3e8fb286-76c3-4fb1-9dad-ba26f1a3c983",
+                                    "id": "d9b75be6-9311-4fa9-baae-058cb2fece97",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Ketentuan lebih lanjut mengenai tata cara pemanggilan kepada dan meminta keterangan dari tersangkut, saksi dan saksi ahli sebagaimana dimaksud dalam ayat (1) diatur oleh Menteri.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Ketentuan\n(2) Ketentuan lebih lanjut mengenai tata cara pemanggilan kepada dan meminta keterangan dari tersangkut, saksi dan saksi ahli sebagaimana dimaksud dalam ayat (1) diatur oleh Menteri.",
+                                    "explanation": "\nCukup jelas\n"
                                 }
                             ]
                         },
                         {
-                            "id": "f689c345-9313-4570-9025-5391c44fc069",
+                            "id": "be7913eb-3c3c-4da2-a1be-b15f65322574",
                             "name": "Article 40",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "07acb034-4966-423e-b7b5-e0d75aaaf33f",
+                                    "id": "e33b796f-f4b7-438a-a51b-ccb9b7889fb8",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Apabila Sidang Majelis memandang ketidakhadiran saksi dan/atau saksi ahli dalam sidang disebabkan oleh hal atau alasan yang dapat dipertanggungjawabkan, sedangkan yang bersangkutan berkehendak memberikan kesaksian atau keterangannya, maka Sidang Majelis dapat meminta kepada yang bersangkutan memberikan kesaksian atau keterangannya secara tertulis diluar tempat dilaksanakan Sidang Majelis.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nYang dimaksud dengan hal atau alasan yang dapat dipertanggung jawabkan\nmisalnya saksi dan/atau saksi ahli yang bersangkutan tidak mendapat ijin untuk\nmeninggalkan tugas."
                                 },
                                 {
-                                    "id": "7a638503-583d-4aef-8c69-56925d8b4309",
+                                    "id": "6b7abf57-e2a5-4e86-9ebc-e48387f4a86c",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Sebelum memberikan kesaksian atau keterangan secara tertulis sebagaimana dimaksud dalam ayat (1) saksi dan/atau saksi ahli mengucapkan sumpah atau janji menurut cara agama dan kepercayaannya dihadapan pejabat yang ditunjuk oleh Menteri.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "c929c16e-8d18-4b9d-b327-8cd282753ec2",
+                                    "id": "98d82a7d-391d-4d3c-949f-8741527a5f0d",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur lebih lanjut oleh Menteri.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "531b2df7-4a02-4798-a5aa-a6825471ca41",
+                            "id": "864e3b83-7f95-4760-adc1-a046164de0fd",
                             "name": "Article 41",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "1bb99257-e0a4-40c4-a6ad-cde29e079a53",
+                                    "id": "33496f61-5d2b-42e8-b7de-912ee81fb650",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Dalam Sidang Majelis, saksi dan/atau saksi ahli sebelum memberikan kesaksian atau keterangan kepada Sidang Majelis mengucapkan sumpah atau janji menourut cara agama dan kepercayaannya.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Dalam Sidang Majelis, saksi dan/atau saksi ahli sebelum memberikan kesaksian atau keterangan kepada Sidang Majelis mengucapkan sumpah atau janji menourut cara agama dan kepercayaannya.\n\n(2) Dalam hal saksi dan/atau saksi ahli menolak mengucapkan sumpah atau janji sebagaimana dimaksud dalam ayat (1), Sidang Majelis dapat mempertimbangkan untuk tidak menggunakan kesaksian atau keterangan yang diberikan dalam menurut hasil Sidang Majelis.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "d8e622d8-a1f6-46ce-a906-d229336a9276",
-                                    "name": "Verse 2",
-                                    "number": "(2)",
-                                    "type": "verse",
-                                    "content": " Dalam hal saksi dan/atau saksi ahli menolak mengucapkan sumpah\natau janji sebagaimana dimaksud dalam ayat (1), Sidang Majelis\ndapat mempertimbangkan untuk tidak menggunakan kesaksian atau\nketerangan yang diberikan dalam menurut hasil Sidang Majelis.",
-                                    "explanation": "Tidak ada Penjelasan"
-                                },
-                                {
-                                    "id": "4b57c593-337f-487b-9b22-c87c837e3728",
+                                    "id": "0b160260-d478-44ec-8ccc-a08957163267",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) dan\nayat (2) diatur lebih lanjut oleh Menteri.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur lebih lanjut oleh Menteri.",
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "644c40e7-cde5-4d2d-940f-880430f517fa",
+                            "id": "1b476b8a-9513-4786-a036-b3d922dbee64",
                             "name": "Article 42",
                             "type": "article",
                             "children": {
-                                "id": "bd743859-8027-483a-9e57-e9ad34e7f748",
+                                "id": "9f661760-625d-4f96-88a2-8ec44ab52981",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nDalam Sidang Majelis, tersangkut dapat didampingi oleh Penasehat\nAhli.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "content": "\nDalam Sidang Majelis, tersangkut dapat didampingi oleh Penasehat Ahli.",
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "10a9b9ed-be82-4806-a139-127b395c609f",
+                            "id": "aba5917a-bbbb-404a-8667-658e94c71c5d",
                             "name": "Article 43",
                             "type": "article",
                             "children": {
-                                "id": "c54d85b2-855d-43e7-a0cc-0b4a308850f1",
+                                "id": "2627da20-32be-4409-b1c0-8c5c9ee8d9d1",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nKetentuan lebih lanjut mengenai Sidang Majelis ditetapkan oleh\nMenteri.\nParagraf Ketiga\nHasil Sidang Majelis",
-                                "explanation": "Tidak ada Penjelasan"
+                                "content": "\nKetentuan lebih lanjut mengenai Sidang Majelis ditetapkan oleh Menteri.\nParagraf Ketiga\nHasil Sidang Majelis",
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "113ced2c-c171-45bf-9ea8-2b24e2f4612f",
+                            "id": "3999a0a1-b981-4a48-81a9-02371f2b6fa0",
                             "name": "Article 44",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "a3a48fca-671b-4320-9665-5b6d3f728ed2",
+                                    "id": "14df8d0d-c25f-424e-af0a-99c3d1f8912d",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " dan ayat (2), memuat:\n\na. Kepala putusan yang berbunyi \"DEMI KEADILAN\nBERDASARKAN KETUHANAN YANG MAHA ESA\"\nb. Nama, jabatan, sertifikat keahlian Pelaut, tempat dan tanggal\nlahir, kewarganegaraan, tempat kediaman atau kedudukan\nterakhir tersangkut, saksi dan/atau saksi ahli;\nc. dokumen dan data kapal;\nd. ringkasan jalannya persidangan;\ne. ada atau tidak adanya kesalahan atau kelalaian yang dilakukan\noleh Nakhoda atau pemimpin kapal, atau perwira kapal dalam\nmelakukan tugas profesinya;\nf. dasar atau alasan yang menjadi dasar putusan;\ng. hari, tanggal putusan, dan nama anggota Sidang Majelis dan\nSekretaris Majelis.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Keputusan Sidang Majelis merupakan keputusan Mahkamah Pelayaran.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "ef74b25e-4cdd-407e-bfed-5435331af87f",
+                                    "id": "5e57ee69-d16b-4a4f-bcd7-a42a4e3f2966",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Keputusan Mahkamah Pelayaran sebagaimana dimaksud dalam ayat",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Keputusan Mahkamah Pelayaran sebagaimana dimaksud dalam ayat (1) dituangkan dalam bentuk tertulis.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "95beea23-834e-4b3d-a784-2d6ea2660318",
+                                    "id": "99ac8d5c-e328-4a88-984c-dc99fff065e1",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Keputusan Mahkamah Pelayaran sebagaimana dimaksud dalam ayat",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Keputusan Mahkamah Pelayaran sebagaimana dimaksud dalam ayat\n(1) dan ayat (2), memuat:\na. Kepala\na. Kepala putusan yang berbunyi \"DEMI KEADILAN\nBERDASARKAN KETUHANAN YANG MAHA ESA\"\nb. Nama, jabatan, sertifikat keahlian Pelaut, tempat dan tanggal\nlahir, kewarganegaraan, tempat kediaman atau kedudukan\nterakhir tersangkut, saksi dan/atau saksi ahli;\nc. dokumen dan data kapal;\nd. ringkasan jalannya persidangan;\ne. ada atau tidak adanya kesalahan atau kelalaian yang dilakukan\noleh Nakhoda atau pemimpin kapal, atau perwira kapal dalam\nmelakukan tugas profesinya;\nf. dasar atau alasan yang menjadi dasar putusan;\ng. hari, tanggal putusan, dan nama anggota Sidang Majelis dan\nSekretaris Majelis.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "007f9476-1b47-4950-8a36-4fbfd4319319",
+                                    "id": "c154612e-ce7c-42fc-91f0-6d8c2aedeb66",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Keputusan Mahkamah Pelayaran ditandatangani oleh anggota dan\nsekretaris Majelis.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "581f3354-c3d7-4f2c-b5c9-7970ce4a05fb",
+                            "id": "d04d74c3-2b1a-46ea-a861-2ac5ebb64eb0",
                             "name": "Article 45",
                             "type": "article",
                             "children": {
-                                "id": "abcea1a8-bf31-4846-8e73-254c8adb687b",
+                                "id": "9eb4924d-9a3e-4303-b687-c7518c15c498",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nKeputusan Mahkamah Pelayaran dibacakan oleh ketua Majelis dalam\nsidang terbuka untuk umum.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "8a5c8ed8-51c7-4f21-9f0d-8529f6aca9db",
+                            "id": "72352963-85af-4f02-81ca-024007b02b8a",
                             "name": "Article 46",
                             "type": "article",
                             "children": {
-                                "id": "7dad6f5e-a000-4c65-928d-ee250e5dcbdd",
+                                "id": "ec1c19b9-9a37-46d9-849c-8c1797618107",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nKeputusan Mahkamah Pelayaran merupakan keputusan akhir.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "6efaafbc-7f84-42cd-a93c-ef4029df5a43",
+                            "id": "495d81a3-2b1d-4526-9088-76d67be2818d",
                             "name": "Article 47",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "f6dbb87d-e4a7-4633-8a95-914c5078a5e7",
+                                    "id": "f010debf-5902-40bc-9789-ca19ec94f12e",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Dalam jangka waktu selambat-lambatnya 1980 (seratus delapan puluh) hari sejak ditetapkannya hari sidang yang pertama, ketua Mahkamah Pelayaran menyampaikan keputusan Mahkamah Pelayaran secara tertulis kepada:\na. Menteri disertai laporan dalam hal adanya dugaan berdasarkan bukti awal telah terjadi perbuatan melawan hukum yang dilakukan oleh pejabat Pemerintah atau pihak-pihak lain yang secara langsung atau tidak langsung berkaitan dengan sebab-sebab terjadinya kecelakaan kapal;\nb. tersangkut.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Dalam jangka waktu selambat-lambatnya 1980 (seratus delapan\npuluh) hari sejak ditetapkannya hari sidang yang pertama, ketua\nMahkamah Pelayaran menyampaikan keputusan Mahkamah\nPelayaran secara tertulis kepada:\na. Menteri disertai laporan dalam hal adanya dugaan berdasarkan\nbukti awal telah terjadi perbuatan melawan hukum yang\ndilakukan oleh pejabat Pemerintah atau pihak-pihak lain yang\nsecara langsung atau tidak langsung berkaitan dengan\nsebab-sebab terjadinya kecelakaan kapal;\nb. tersangkut.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "403fe571-e366-4fdd-bc49-27bf23866655",
+                                    "id": "bd6f7656-bd2f-4c1a-b3ec-a95abbb8b405",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Ketua Mahkamah Pelayaran dapat memberikan salinan hasil keputusan Mahkamah Pelayaran kepada pihak yang terkait dalam kecelakaan kapal dan/atau pihak lain yang membutuhkan.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Ketua Mahkamah Pelayaran dapat memberikan salinan hasil\nkeputusan Mahkamah Pelayaran kepada pihak yang terkait dalam\nkecelakaan kapal dan/atau pihak lain yang membutuhkan.",
+                                    "explanation": "\nYang dimaksud dengan pihak yang terkait dan/atau yang membutuhkan antara lain\nSyahbandar, Pengadilan Negeri dan Pengadilan Tata Usaha Negara."
                                 }
                             ]
                         },
                         {
-                            "id": "f37707cb-af0d-4047-a048-70b5386b73c8",
+                            "id": "0be248e5-5a6f-432c-b775-90a2cd1d686a",
                             "name": "Article 48",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "6171dc05-4915-4cbd-a1fd-3d26a8a97019",
+                                    "id": "b9284d34-d0a1-455b-ad52-61ca72208374",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Sanksi administratif yang ditetapkan dalam Keputusan Mahkamah Pelayaran mulai berlaku sejak ditandatanganinya Berita Acara Pelaksanaan Putusan Mahkamah Pelayaran oleh hukum, dan Syahbandar atau Pejabat Perwakilan Republik Indonesia di luar Negeri.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Sanksi administratif yang ditetapkan dalam Keputusan Mahkamah\nPelayaran mulai berlaku sejak ditandatanganinya Berita Acara\nPelaksanaan Putusan Mahkamah Pelayaran oleh hukum, dan\nSyahbandar atau Pejabat Perwakilan Republik Indonesia di luar\nNegeri.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "538d3577-1194-4228-a3f9-c3edd97333f5",
+                                    "id": "ea85052b-bd3f-4462-8bb7-b7b766df5fcd",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Syahbandar atau pejabat Perwakilan Republik Indonesia di luar negeri menyampaikan salinan Berita Acara Pelaksanaan Putusan Mahkamah Pelayaran sebagaimana dimaksud dalam ayat (1) kepada",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Syahbandar atau pejabat Perwakilan Republik Indonesia di luar\nnegeri menyampaikan salinan Berita Acara Pelaksanaan Putusan\nMahkamah Pelayaran sebagaimana dimaksud dalam ayat (1) kepada",
+                                    "explanation": ""
                                 }
                             ]
                         }
                     ]
                 },
                 {
-                    "id": "5ac65ba4-aeca-4148-a2bf-a8e4a8fc3448",
+                    "id": "d1bb5cf1-b522-4f89-ad32-09aa8e69afc6",
                     "name": "Section Fifth",
                     "title": "\nPembiayaan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "e202bbad-ff9f-410d-aea6-e43e53e24393",
+                            "id": "3c4dec9e-6055-4264-a035-3d094519899c",
                             "name": "Article 49",
                             "type": "article",
                             "children": {
-                                "id": "180b9bb2-6ad4-458d-8a01-d20f9f94818c",
+                                "id": "7caee272-853e-439b-b60f-829cdca677ec",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nSegala biaya yang diperlukan dalam pelaksanaan tugas Mahkamah\nPelayaran dibebankan pada Anggaran Pendapatan dan Belanja\nDepartemen Perhubungan.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         }
                     ]
                 },
                 {
-                    "id": "8b0b05c6-8aea-488f-8838-45fb5e031015",
+                    "id": "6c7c5113-d885-4137-a208-201372ce3169",
                     "name": "Section Sixth",
                     "title": "\nPembinaan dan Pengawasan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "be496966-8d50-41c3-a72f-a8c843ac0872",
+                            "id": "4e653046-e9f6-48c8-9403-7d4ad66a4aba",
                             "name": "Article 50",
                             "type": "article",
                             "children": {
-                                "id": "ba3278f6-5357-45fb-b350-24c48f8b33fe",
+                                "id": "034de578-dd97-4a2c-90f7-6af1325c6523",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nKetua Mahkamah Pelayaran melakukan pembinaan dan pengawasan\nterhadap pelaksanaan tugas dan disiplin anggota, sekretaris Mahkamah\nPelayaran, dan sekretaris pengganti.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "773cdcfd-91f0-4445-9830-86d377916687",
+                            "id": "b8b6f9f6-a52e-40ba-a02b-750f0dabf124",
                             "name": "Article 51",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "d01b57d8-327d-4f71-af0a-5dd6e9c1a3be",
+                                    "id": "68069cbc-72f8-4f5c-a93a-958ced8578fd",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Ketua Mahkamah Pelayaran melakukan pengawasan terhadap\njalannya Sidang Majelis.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "c7d68add-45ae-43bb-a5dc-abd68166e8ca",
+                                    "id": "55bc0db9-8eed-45c6-b599-4a5fc2d67c9c",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Pengawasan sebagaimana dimaksud dalam ayat (1) tidak boleh\nmengurangi kebebasan Sidang Majelis dalam menyelesaikan\npemeriksaan lanjutan kecelakaan kapal.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "b46f8681-306a-4056-b4ca-f80cb7a768a7",
+                            "id": "6d79e7b7-5049-4dc4-be64-4939ab67d242",
                             "name": "Article 52",
                             "type": "article",
                             "children": {
-                                "id": "0578a26a-6334-40a0-a451-a714685a5205",
+                                "id": "c6d16783-a972-4485-bc3f-9f231e0095fa",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nDalam melaksanakan pembinaan dan pengawasan, Ketua Mahkamah\nPelayaran dapat memberikan petunjuk, teguran, dan peringatan yang",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "c3ffc623-0293-4077-81fd-5f7e9d8e7017",
+                            "id": "5df04f98-8357-4ff1-8382-2989dfd77a08",
                             "name": "Article 53",
                             "type": "article",
                             "children": {
-                                "id": "94a5c93b-5536-4404-bf26-0cca0253d947",
+                                "id": "7e4bb89f-89ca-4b8a-9486-022748113cb6",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nKetentaun lebih lanjut mengenai pelaksanaan pembinaan dan pengawasan diatur oleh Menteri dengan memperhatikan ketenuan perundang-undangan yang berlaku.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         }
                     ]
@@ -1069,860 +1100,133 @@
             ]
         },
         {
-            "id": "f528d89a-f80e-4471-bf82-d4732a09695d",
+            "id": "a3557909-8d11-4a6b-8d5f-18882b7d7f8f",
             "name": "Chapter V",
             "title": "\nKETENTUAN PIDANA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "46cbcbed-34b9-40a9-bc46-b15d2deb7ab3",
+                    "id": "24dce0b2-b64f-4606-8c89-cbd93a59cd74",
                     "name": "Article 54",
                     "type": "article",
                     "children": {
-                        "id": "e64f78f6-f2dc-418d-9370-54a93c69fc75",
+                        "id": "8426ba19-78d7-43a4-ae09-0007c1fde5f4",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nSetiap orang yang berada di atas kapal yang mengetahui dikapalnya terjadi kecelakaan kapal, dalam batas-batas kemampuannya tidak melaporkan kecelakaan tersebut sebagaimana dimaksud dalam Pasal 4, dipidana berdasarkan ketentuan Pasal 124 ayat (1) Undang-undang Nomor 21 Tahun 1992 tentang Pelayaran.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "2de67308-9c63-486f-9fc3-5ccf4f53f3d4",
+                    "id": "9b66fbb0-3be5-46ab-8aec-4053c0d6094c",
                     "name": "Article 55",
                     "type": "article",
                     "children": {
-                        "id": "36c69dbd-53e7-4292-81c3-aca491dd3b60",
+                        "id": "7c2fdcf6-44f0-4300-8c8a-52e431f05194",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nNakhoda dan pemimpin kapal yang tidak melaporkan kecelakaan kapal sebagaimana dimaksud dalam Pasal 5, dipidana berdasarkan ketentuan Pasal 127 Undang-undang Nomor 21 Tahun 1992 tentang Pelayaran.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nCukup jelas"
                     }
                 }
             ]
         },
         {
-            "id": "7a2bd3ca-e36d-41de-91b5-6ffcc50533f5",
+            "id": "b7f4ec19-7c8d-4497-a3b3-82c302265be7",
             "name": "Chapter VI",
             "title": "\nKETENTUAN LAIN-LAIN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "994e4ce3-75b5-4e4a-87b8-47fb3208424c",
+                    "id": "dd93c8b1-3cfd-4bf8-855a-4a8a8dcfba06",
                     "name": "Article 56",
                     "type": "article",
                     "children": [
                         {
-                            "id": "7432d84b-ad1b-49c0-bb85-b512fe34fc65",
+                            "id": "04fff424-8e27-46fc-b7f7-60be334567d8",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Terhadap Keputusan yang dikeluarkan oleh badan peradilan asing di bidang kecelakaan kapal mengenai kesalahan atau kelalaian dalam\nmenerapkan standar profesi kepelautan yang dilakukan oleh\nNakhoda atau pemimpin kapal dan/atau perwira kapal yang memiliki\nsertifikat keahlian Pelaut yang diterbitkan oleh Pemerintah\nIndonesia, dilakukan pemeriksaan lanjutan kecelakaan kapal oleh\nMahkamah Pelayaran.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "673fffc7-10ba-467f-a240-64b4669520a4",
+                            "id": "994b31b1-e69b-4887-b9e0-205a324fa9d9",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pemeriksaan lanjutan kecelakaan kapal sebagaimana dimaksud\ndalam ayat (1) dilaksanakan sesuai dengan ketentuan yang diatur\ndalam Peraturan Pemerintah ini.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas\n"
                         }
                     ]
                 },
                 {
-                    "id": "12a5eef1-bfed-47fa-b1e1-51d0f9ec2bbc",
+                    "id": "0b32a495-ee32-40c1-81c1-acd4d60d080b",
                     "name": "Article 57",
                     "type": "article",
                     "children": {
-                        "id": "fc7d3b21-046b-4897-b750-a65ff58f5a83",
+                        "id": "630a7732-f627-4c46-b859-ddb77077fac2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nDengan berlakunya Peraturan Pemerintah ini, pengertian anggota\nMahkamah Pelayaran yang diatur dalam Peraturan Pemerintah ini adalah\nsama dengan pengertian Hakim Mahkamah Pelayaran sebagaimana\ndimaksud dalam Peraturan Pemerintah Nomor 32 Tahun 1979 tentang\nPemberhentian Pegawai Negeri Sipil.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3724\n"
                     }
                 }
             ]
         },
         {
-            "id": "efd5f6e9-e643-4ad5-b352-157b55893fb3",
+            "id": "bbb92e1e-c936-4488-8fcf-6f58e6b656ed",
             "name": "Chapter VII",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "94223e68-158e-479b-bf83-1b28898bf545",
+                    "id": "150c54ed-9e9e-494d-a251-7adbe75f2e1b",
                     "name": "Article 58",
                     "type": "article",
                     "children": {
-                        "id": "6d08cc0d-a3da-44d0-b530-37dd58a99738",
+                        "id": "de7e8768-fb4a-4de2-8e5a-5c45f57e81bb",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nDengan berlakunya Peraturan Pemerintah ini, maka semua ketentuan\nperaturan perundang-undangan yang berhubungan dengan pemeriksaan\nkecelakaan kapal yang telah ada masih tetap berlaku sepanjang tidak\nbertentangan dan/atau belum diganti berdasarkan Peraturan Pemerintah\nini.",
+                        "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "633bcac4-1d0b-4728-92a5-4bcfde6cf3bf",
+                    "id": "5087f569-36fe-4248-ba1d-b2a9694d0091",
                     "name": "Article 59",
                     "type": "article",
                     "children": {
-                        "id": "3ddcdc1a-b132-405a-8999-e4adbccfc00e",
+                        "id": "a93bb1e7-448a-4d98-a49b-7210b4ace404",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nDengan berlakunya Peratuan Pemerintah ini, Keputusan Presiden\nNomor 32 Tahun 1984 tentang Susunan Keanggotaan Mahkamah\nPelayaran, dinyatakan tidak berlaku.",
+                        "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "37efe8b9-3af4-491d-b1eb-87aff74a4b0d",
+                    "id": "c8867b88-09b3-45fc-8cef-a4e3200bc348",
                     "name": "Article 60",
                     "type": "article",
                     "children": {
-                        "id": "46a32b13-c7cd-4b25-9938-6e3ff5c2cc62",
+                        "id": "807364ba-37cc-44bb-84d2-162447e4238b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3724\n\n",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "48f1e50b-aa8d-4008-87a3-2dd6e360ebf3",
-                    "name": "Article 1",
-                    "type": "article",
-                    "children": {
-                        "id": "d013c20c-498c-4a42-8220-9bbd1dc39509",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "5c27ca5f-b760-4713-b7f7-ff16ccc4e484",
-                    "name": "Article 2",
-                    "type": "article",
-                    "children": {
-                        "id": "fca19d04-6bde-4b76-a66f-89cc03e9e519",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "43656e6a-cc3f-4bb6-a49a-95dbe8d22ceb",
-                    "name": "Article 3",
-                    "type": "article",
-                    "children": {
-                        "id": "50295494-6cee-41b7-a9bc-f97869c1b184",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas\n",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "0fff3957-4a52-47bf-a90c-fe7431f328ad",
-                    "name": "Article 4",
-                    "type": "article",
-                    "children": {
-                        "id": "2302d788-2166-4202-b805-8a788b56ae5e",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nHuruf a\nPengertian dari pelabuhan terdekat termasuk pelabuhan asal.\nHuruf b\nYang dimaksud dengan pejabat pemerintah negara setempat yang berwenang\nadalah pejabat yang berdasarkan ketentuan peraturan perundang-undangan yang\nberlaku di negara yang bersangkutan memiliki kewenangan untuk menindaklanjuti\nlaporan kecelakaan kapal.\nPenjelasan atas pengertian pejabat pemerintah negara setempat yang berwenang\nberlaku untuk seterusnya kecuali ditentukan secara lain dalam Peraturan\nPemerintah ini.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "47084e36-ba92-4799-9819-303ce5528105",
-                    "name": "Article 5",
-                    "type": "article",
-                    "children": {
-                        "id": "c0f1ea9b-f4b6-46a0-9876-21649b9030d6",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "1d80b5db-2e0f-45e5-9d03-4d846cbe5273",
-                    "name": "Article 6",
-                    "type": "article",
-                    "children": {
-                        "id": "19d144d6-3b70-4c89-82cf-db3e0cf7dbd4",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "10983e91-de6f-461e-9452-2ae24d4be99c",
-                    "name": "Article 7",
-                    "type": "article",
-                    "children": {
-                        "id": "6cfbe55b-e116-435e-b2ff-c1d94d84aaf4",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "a39f08df-afea-47fb-a195-60bf3d04b8ce",
-                    "name": "Article 8",
-                    "type": "article",
-                    "children": {
-                        "id": "4c8ca121-6f7b-4dd5-9267-c4138d785994",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nPemeriksaan pendahuluan kecelakaan kapal oleh Syahbandar pada dasarnya\ndilakukan setelah Syahbandar yang bersangkutan menerima laporan kecelakaan\nkapal dari pelapor.\nNamun demikian, tidak menutup kemungkinan pemeriksaan pendahuluan\nkecelakaan kapal dilakukan oleh Syahbandar lain yang terdekat dengan lokasi\nkecelakaan kapal dengan pertimbangan efisiensi dari segi tenaga dan waktu.\nDalam pelaksanaannya, Syahbandar yang menerima laporan kecelakaan kapal\nmelakukan langkah-langkah yang diperlukan dan berkoordinasi dengan\nSyahbandar lain yang terdekat dengan lokasi kecelakaan kapal.\nHuruf b\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "18749741-3be7-4a98-ac3f-8fa36844d055",
-                    "name": "Article 9",
-                    "type": "article",
-                    "children": {
-                        "id": "980f4bbf-ee70-47f9-8909-5b6379068a23",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "d8b2272f-b9e4-424c-b61b-f3c9d5ac9ea4",
-                    "name": "Article 10",
-                    "type": "article",
-                    "children": {
-                        "id": "23fa5104-5d6d-4c2c-bb06-f703bdf83a4a",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nHuruf a\nCukup jelas\nHuruf b\nYang dimaksud dengan perwira kapal adalah perwira yang mendapat tugas jaga\npada waktu kecelakaan kapal terjadi\nHuruf c\nYang dimaksud dengan anak buah kapal adalah anak buah kapal yang mendapat\ntugas jaga pada waktu kecelakaan kapal terjadi.\nHuruf d\nYang dimaksud dengan pihak lainnya adalah pihak-pihak yang dapat memberikan\nketerangan atas terjadinya kecelakaan kapal, misalnya saksi.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "9b596d62-54b3-4f2f-a144-f981ce9bfa3a",
-                    "name": "Article 11",
-                    "type": "article",
-                    "children": {
-                        "id": "05bb22ca-d2a9-47a6-9a25-74b97eeace23",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "32bc623c-2903-4006-a7ca-f3971d37a9ad",
-                    "name": "Article 12",
-                    "type": "article",
-                    "children": {
-                        "id": "994622b6-9c25-43d1-9063-e78aad0e681b",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nPengertian ditandatangani dalam ayat ini adalah ditandatangani oleh Syahbandar\natau pejabat pemerintah yang ditunjuk oleh Menteri, yang melakukan pemeriksaan\npendahuluan kecelakaan kapal.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "a6442628-8f6f-420d-964f-4b399e4791eb",
-                    "name": "Article 13",
-                    "type": "article",
-                    "children": {
-                        "id": "4ff7116a-47cb-4cab-abae-0986566ac650",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nKesimpulan hasil pemeriksaan pendahuluan kecelakaan kapal memuat\npendapat Syahbandar atau pejabat pemerintah yang ditunjuk oleh Menteri, yang\nmelakukan pemeriksaan pendahuluan kecelakaan kapal mengenai sebab-sebab\nterjadinya kecelakaan kapal.\nHuruf b\nCukup jelas\nHuruf c\nYang dimaksud dengan dokumen lain yang diperlukan antara lain fotokopi dari\nsurat kapal, sertifikat kapal, buku harian kapal, buku olah gerak kapal pada waktu\nkecelakaan kapal terjadi, dokumen awak kapal, buku pelaut, daftar penumpang dan\nmuatan kapal, surat ijin berlayar terakhir, data kapal, peta lokasi kecelakaan kapal.\nAyat (3)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "9628d210-eead-493a-aa5c-fb531df6e00f",
-                    "name": "Article 14",
-                    "type": "article",
-                    "children": {
-                        "id": "a402b652-45e8-4a9c-a4f8-700ae6048998",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "b373741d-9201-444e-bb9f-1362fb851923",
-                    "name": "Article 15",
-                    "type": "article",
-                    "children": {
-                        "id": "f38ddc54-395b-4c7b-9998-f4f2a3644423",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nLihat penjelasan Pasal 13 ayat (2) huruf a.\nHuruf d\nLihat penjelasan Pasal 13 ayat (2) huruf c.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "25f962f0-b1c6-497b-8e5f-83a4379dbb01",
-                    "name": "Article 16",
-                    "type": "article",
-                    "children": {
-                        "id": "e0b09a08-e892-41cd-b7ab-e2a3224d98a4",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "194ac3b7-6344-4300-9128-0f82d62bba93",
-                    "name": "Article 17",
-                    "type": "article",
-                    "children": {
-                        "id": "fb99fdf4-3ee5-4ede-afd7-5aae2c52d059",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "e827c866-7d68-4685-b4f1-da56f18d6ba5",
-                    "name": "Article 18",
-                    "type": "article",
-                    "children": {
-                        "id": "8e74ea91-a812-4249-9bcc-c64a39cea04f",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "0fa98fea-bf92-4981-8d05-a26f29e71b73",
-                    "name": "Article 19",
-                    "type": "article",
-                    "children": {
-                        "id": "f3cb3781-8a90-43a3-b398-11c778bf47fc",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "68ee10fc-2f61-4337-9549-7931239a64a0",
-                    "name": "Article 20",
-                    "type": "article",
-                    "children": {
-                        "id": "55f36c7e-8395-434f-9e85-f6f4ce3888f9",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "7231ca91-e30e-42b1-beaa-b7637ab6c9b7",
-                    "name": "Article 21",
-                    "type": "article",
-                    "children": {
-                        "id": "b84bff39-e34e-42ba-8687-069b763d76e5",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "600aab94-0fa1-40e3-bd04-78e66ac3fd34",
-                    "name": "Article 22",
-                    "type": "article",
-                    "children": {
-                        "id": "76d270e1-22a0-418c-becb-1268b0c9fa6f",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas\n",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "2daf5099-f079-4156-8e1b-b32c09490cf2",
-                    "name": "Article 23",
-                    "type": "article",
-                    "children": {
-                        "id": "83c3e5a4-23e1-4a5b-b818-774e75cefced",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "365a906e-0408-4a98-bab4-52bf60ef88b8",
-                    "name": "Article 24",
-                    "type": "article",
-                    "children": {
-                        "id": "5215f885-5c4c-4f77-810f-4f6de426e868",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "433a7d6d-adc9-44d8-8269-22fba9737274",
-                    "name": "Article 25",
-                    "type": "article",
-                    "children": {
-                        "id": "cf9394b3-bc14-47a6-a9e7-43285913a6a7",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "ef42dc34-0023-4432-9906-5ba85ef10e95",
-                    "name": "Article 26",
-                    "type": "article",
-                    "children": {
-                        "id": "cbba1af7-3aea-4b58-b707-07d04348d2b9",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "933b2c0d-f5bb-42f0-90f3-0b4135898c1d",
-                    "name": "Article 27",
-                    "type": "article",
-                    "children": {
-                        "id": "5c9598e1-67d1-40dd-9659-ddeeea97b299",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "6619112e-e3a7-4557-a3a4-8e57a87fee96",
-                    "name": "Article 28",
-                    "type": "article",
-                    "children": {
-                        "id": "2af9f16c-1c33-424b-ab4b-afe6ac48f385",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\n\nHuruf b\nJabatan Ketua Mahkamah Pelayaran adalah jabatan struktural Pegawai Negeri\nSipil, maka untuk dapat menduduki jabatan tersebut harus memenuhi persyaratan\njabatan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku di\nbidang Pegawai Negari Sipil.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "b40b0b99-10a2-4c37-ac92-85eeb38aea30",
-                    "name": "Article 29",
-                    "type": "article",
-                    "children": {
-                        "id": "0e6e66ab-08e1-4df2-a274-da391d2b3f2a",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nJabatan Sekretaris Mahkamah Pelayaran adalah jabatan struktural Pegawai\nNegeri Sipil.\nLihat penjelasan Pasal 28 ayat (2) huruf b.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "7c5d107c-0334-47b0-96bd-2b388f7ac820",
-                    "name": "Article 30",
-                    "type": "article",
-                    "children": {
-                        "id": "d6905939-8b6a-4ff2-b713-9aa6dee1bbf8",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "75ee6ce2-f581-479a-8a23-38db23ed4617",
-                    "name": "Article 31",
-                    "type": "article",
-                    "children": {
-                        "id": "5e1c4160-1d1f-4d30-9931-2b899b2ac063",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "845a0cde-e6ec-4916-b0d0-8749fa5d6b5f",
-                    "name": "Article 32",
-                    "type": "article",
-                    "children": {
-                        "id": "383e47bb-268e-4f07-a388-b4437d388f04",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan sekretaris pengganti adalah Pegawai Negeri Sipil yang\ndiangkat oleh pejabat yang berwenang dan ditugaskan sebagai sekretaris pengganti\ndalam Mahkamah Pelayaran sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku di bidang Pegawai Negeri Sipil.Sekretaris\npengganti mempunyai tugas sebagai sekretaris dalam Sidang Majelis pemeriksaan\nlanjutan kecelakaan kapal.\nAyat (3)\nPengertian yang ada dalam ayat ini adalah bahwa jumlah sekretaris pengganti yang\ndapat diangkat dalam Mahkamah Pelayaran sebanyak-banyaknya adalah 2 (dua)\norang.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "1668ba74-af27-4356-9f00-39400ee8f35d",
-                    "name": "Article 33",
-                    "type": "article",
-                    "children": {
-                        "id": "9a1224e5-4384-4bf3-8ce7-35ce12f45186",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "5dc7b6b0-2739-4bf2-a4fd-3781880e9047",
-                    "name": "Article 34",
-                    "type": "article",
-                    "children": {
-                        "id": "8c69bbf1-364d-47e2-92d2-7f142f785b15",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nDalam hal tertentu Sidang Majelis dapat dilangsungkan di luar tempat kedudukan\nMahkamah Pelayaran dengan pertimbangan antara lain karena sebagian besar alat\nbukti yang diperlukan berada di lokasi yang bersangkutan atau tersangkut berada\ndalam penahanan oleh pejabat yang berwenang pada lokasi yang bersangkutan.\nAyat (3)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "597af29f-827d-4feb-9210-a477771f9ffc",
-                    "name": "Article 35",
-                    "type": "article",
-                    "children": {
-                        "id": "e779d39f-80bb-4a86-a221-ce0315b02167",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "fa0d9ede-2b9f-47c6-a7e8-9684cf2b15e9",
-                    "name": "Article 36",
-                    "type": "article",
-                    "children": {
-                        "id": "e65e025a-e91d-4ec4-a6c1-ebd4ad07e932",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "e8e803ec-144f-4a21-9b20-76f1b09f49bf",
-                    "name": "Article 37",
-                    "type": "article",
-                    "children": {
-                        "id": "38aea4a3-9c00-4a2a-8279-90b368a4a469",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "47397719-3e4b-42d8-b429-6cb0982b0a0b",
-                    "name": "Article 38",
-                    "type": "article",
-                    "children": {
-                        "id": "a26a0931-e5c3-458c-a454-a26f065d8d3d",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "0bb5f1ae-4869-4888-9f2e-f24469ead635",
-                    "name": "Article 39",
-                    "type": "article",
-                    "children": {
-                        "id": "775c4bc9-e7ae-4004-83d7-40cdb1767c47",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\n",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "9188b9e2-7be6-4bf1-ba15-0faac19f0618",
-                    "name": "Article 40",
-                    "type": "article",
-                    "children": {
-                        "id": "5b5e331f-f2ff-4f59-acc6-e22a8485b4cb",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nYang dimaksud dengan hal atau alasan yang dapat dipertanggung jawabkan\nmisalnya saksi dan/atau saksi ahli yang bersangkutan tidak mendapat ijin untuk\nmeninggalkan tugas.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "7358105c-c9a2-418e-abfe-8fe3636143ba",
-                    "name": "Article 41",
-                    "type": "article",
-                    "children": {
-                        "id": "d7839be9-d78f-431b-8f94-c86aa08c0650",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "7db6d905-ab31-4781-8610-4c4cf2705192",
-                    "name": "Article 42",
-                    "type": "article",
-                    "children": {
-                        "id": "29d069d2-00bc-409f-bdad-0471cf262615",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "36226389-2213-476e-8e57-0a2fcc505916",
-                    "name": "Article 43",
-                    "type": "article",
-                    "children": {
-                        "id": "eb34a827-6e38-4759-bf7d-b7ff6ac7b501",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "75fa648f-81aa-47c4-b426-54b39f4fc6ee",
-                    "name": "Article 44",
-                    "type": "article",
-                    "children": {
-                        "id": "4c22ef88-7417-4d1c-a786-14ebf16a6eb8",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "9dfec6ef-8a50-4b16-aa2b-634ada9c97db",
-                    "name": "Article 45",
-                    "type": "article",
-                    "children": {
-                        "id": "44968e0b-8c7e-4396-a15e-8c4bf21cee10",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "3c7d6a10-d592-48c3-99c5-8456aa8878cf",
-                    "name": "Article 46",
-                    "type": "article",
-                    "children": {
-                        "id": "701d4b0c-7b85-4bb0-b73f-ca5ca59e3958",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "0e4478d8-318e-4fb1-8195-0d3364f537c3",
-                    "name": "Article 47",
-                    "type": "article",
-                    "children": {
-                        "id": "564abef9-4045-49b1-aead-73b9e95f7e5f",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan pihak yang terkait dan/atau yang membutuhkan antara lain\nSyahbandar, Pengadilan Negeri dan Pengadilan Tata Usaha Negara.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "8e538cf4-77ae-4b32-bbc1-3638a9dda24a",
-                    "name": "Article 48",
-                    "type": "article",
-                    "children": {
-                        "id": "bf65c679-7dfe-4d77-a5ef-bacdb5634675",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "a8443d1f-7f29-47a2-9a36-019c4dd9b8b8",
-                    "name": "Article 49",
-                    "type": "article",
-                    "children": {
-                        "id": "207f7661-74e4-4bca-8392-1d6947d743bf",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nPasal 57\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "a5e26d04-298b-45c7-843a-edb94a5b3e90",
-                    "name": "Article 50",
-                    "type": "article",
-                    "children": {
-                        "id": "6571784a-ad32-4260-b494-84c350c74659",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "458ae9a1-ad75-467d-83ba-85497a2bef7e",
-                    "name": "Article 51",
-                    "type": "article",
-                    "children": {
-                        "id": "38bd96f0-bc6b-4340-8b8e-86d7e1c1e015",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "adc7abaf-9027-49de-93d0-f3bc488d2021",
-                    "name": "Article 52",
-                    "type": "article",
-                    "children": {
-                        "id": "cd0e6e05-5dec-425e-9d2f-0f30cd42496e",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "216e64c1-6473-40f3-a495-46c1155ff2e1",
-                    "name": "Article 53",
-                    "type": "article",
-                    "children": {
-                        "id": "f06b504a-e3be-479e-a0b7-9f19684d72b9",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "e4d9208c-56b0-432f-9977-ead08624bff2",
-                    "name": "Article 54",
-                    "type": "article",
-                    "children": {
-                        "id": "027699f6-222b-4d2e-b5c8-c94db7df3c8e",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "12c796b7-f1c2-4854-a982-d1b0143596b9",
-                    "name": "Article 55",
-                    "type": "article",
-                    "children": {
-                        "id": "09629613-8d4c-4cf7-b738-ca7d530dced2",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "538aeec5-6c59-49da-9ae4-b4c02b4a87dc",
-                    "name": "Article 56",
-                    "type": "article",
-                    "children": {
-                        "id": "22bdfe1f-477d-4796-863a-a45aa3aad624",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal ditetapkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                        "explanation": "\nCukup jelas"
                     }
                 }
             ]
         }
     ],
     "metadata": {
+        "Umum": "\nPenyelenggaraan pelayaran sebagai salah satu moda transportasi telah diatur dalam satu\nkesatuan sistem transportasi nasional dalam Undang-undang Nomor 21 Tahun 1992\ntentang Pelayaran. Penyelenggaraan pelayaran dilaksanakan untuk tujuan mewujudkan\npenyediaan transportasi di perairan yang seimbang dengan tingkat kebutuhan serta\ntersedianya pelayanan angkutan di perairan yang selamat, aman, cepat, lancar, tertib,\nteratur, nyaman, dan efisien dengan biaya yang wajar serta terjangkau oleh daya beli\nmasyarakat.\nMengingat arti pentingnya penyelenggaraan pelayaran bagi masyarakat, bangsa dan\nnegara, Undang-undang Nomor 21 Tahun 1992 tentang Pelayaran mengamanatkan bagi\nsetiap kecelakaan kapal dilakukan pemeriksaan kecelakaan kapal oleh pejabat yang\nberwenang.\nPemeriksaan kecelakaan kapal dilakukan untuk mengetahui sebab-sebab terjadinya\nkecelakaan kapal dan/atau menentukan ada atau tidak adanya kesalahan atau kelalaian\ndalam penerapan standar profesi kepelautan yang dilakukan oleh Nahkoda atau pemimpin\nkapal dan/atau perwira kapal atas terjadinya kecelakaan kapal. Dengan demikian,\nnantinya atas hasil pemeriksaan kecelakaan kapal tersebut dapat diambil langkah-langkah\nyang diperlukan untuk, mencegah terjadinya kecelakaan kapal dengan sebab-sebab\nkecelakaan yang sama. Disamping itu, pemeriksaan kecelakaan kapal dimaksudkan\nsebagai satu bentuk pembinaan dan pengawasan bagi tenaga profesi kepelautan.\nPemeriksaan kecelakaan kapal meliputi pemeriksaan pendahuluan kecelakaan kapal dan\npemeriksaan lanjutan kecelakaan kapal.Pemeriksaan pendahuluan kecelakaan kapal\ndilaksanakan untuk mencari keterangan dan/atau bukti-bukti awal atas terjadinya\nkecelakaan kapal sebelum diteruskan dengan pemeriksaan lanjutan kecelakaan kapal\napabila terdapat dugaan adanya kesalahan atau kelalaian dalam penerapan standar profesi\nkepelautan oleh tenaga profesi kepelautan yaitu Nahkoda atau pemimpin kapal dan/atau\nperwira kapal.\nPemeriksaan lanjutan kecelakaan kapal dilakukan oleh Mahkamah Pelayaran yang\nanggota-anggotanya terdiri dari orang-orang ahli di bidang hukum dan kepelautan. Hal ini\ndimaksudkan untuk memberikan penilaian yang obyektif atas ada atau tidak adanya\nkesalahan atau kelalaian dalam penerapan standar profesi kepelautan yang dilakukan oleh\nNahkoda atau pemimpin kapal dan/atau perwira kapal atas terjadinya kecelakaan kapal.\nDalam hal terdapat kesalahan atau kelalaian dalam penerapan standar profesi kepelautan,\nmaka Mahkamah Pelayaran berdasarkan Undang-undang Nomor 21 Tahun 1992 tentang\nPelayaran dapat memberikan sanksi administratif.\nSanksi administratif yang diberikan dapat berupa peringatan atau pencabutan sementara\nsertifikat keahlian pelaut untuk bertugas dalam jabatan tertentu di kapal.\nPeraturan Pemerintah tentang Pemeriksaan Kecelakaan Kapal ini ditetapkan sebagai\nperaturan pelaksanaan Undang-undang Nomor 21 Tahun 1992.",
         "Nomor": "1",
         "Tahun": "1998",
         "Tentang": "PEMERIKSAAN KECELAKAAN KAPAL",
@@ -1935,6 +1239,6 @@
             "2": " Undang-undang Nomor 21 Tahun 1992 tentang Pelayaran\n(Lembaran Negara Tahun 1992 Nomor 98, Tambahan Lembaran\nNegara Nomor 3493);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PEMERIKSAAN\nKECELAKAAN KAPAL.",
-        "tanggal sah": ""
+        "tanggal sah": "7 Januari 1998"
     }
 }

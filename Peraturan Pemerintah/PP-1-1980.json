@@ -1,275 +1,185 @@
 {
     "results": [
         {
-            "id": "38b9f24b-6a1a-4cc6-b541-b4bcce3b010d",
+            "id": "b8a8a5b9-5a9d-47df-86f1-1ecb1c65eb09",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "fdd8cd0c-9bac-4832-879d-62c246540bbf",
+                    "id": "65265ab5-1fce-4b0f-aefb-6ba01e41ad96",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "df21872e-4305-4b22-9e01-1a58608f694b",
+                        "id": "b7d1c21f-7b64-4efc-a68d-d5cc1717e122",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Lembaga adalah Lembaga Ilmu Pengetahuan dan atau Lembaga Pendidikan yang\nmemiliki izin sebagaimana dimaksud dalam Pasal 4 ayat (1) Undang-undang Nomor\n9 Tahun 1976 tentang Narkotika (Lembaran Negara Tahun 1976 Nomor 37,\nTambahan Lembaran Negara Nomor 3086);\n2. Tanaman Papaver adalah tanaman Papaver somniferum L., termasuk biji, buah\ndan jeraminya;\n3. Tanaman Koka adalah tanaman dari semua jenis Erythroxylon dari keluarga\nErythroxylaceae;\n4. Tanaman Ganja adalah semua bagian dari semua tanaman genus Cannabis,\ntermasuk biji dan buahnya.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nCukup jelas"
                     }
                 }
             ]
         },
         {
-            "id": "7d46a9fe-e7e3-4639-b50f-742972395408",
+            "id": "11fd8e97-2af9-4a91-8f4f-25a4946169f5",
             "name": "Chapter II",
             "title": "\nKEWAJIBAN MELAPOR",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ce3ee7eb-1df0-4a98-855f-aa2a7a4ed108",
+                    "id": "804c2436-858d-43a4-a319-b3b234cae7ba",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1a644c2b-de94-4442-8c03-1a40ee9374da",
+                            "id": "53a85b2b-73e9-491b-ae3e-96727d7c7b52",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Lembaga berkewajiban untuk menyusun dan mengirimkan laporan tertulis\nsetiap 6 (enam) bulan kepada Menteri Kesehatan mengenai lokasi, luas\ntanaman, hasil tanaman, hasil panen Papaver, Koka dan Ganja serta\npenggunaan, persediaan awal dan persediaan akhir panen.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Lembaga berkewajiban untuk menyusun dan mengirimkan laporan tertulis setiap 6 (enam) bulan kepada Menteri Kesehatan mengenai lokasi, luas tanaman, hasil tanaman, hasil panen Papaver, Koka dan Ganja serta penggunaan, persediaan awal dan persediaan akhir panen.",
+                            "explanation": "\nKewajiban mengirim laporan ditetapkan 6 (enam) bulan, mengingat frekwensi panen\ndan penggunaan."
                         },
                         {
-                            "id": "dfd6f227-7275-424c-a675-008e5d853a60",
+                            "id": "a9612b91-e37e-4100-8412-1040e87427b8",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Laporan sebagaimana dimaksud dalam ayat (1) harus ditanda tangani oleh\npenanggungjawab yang tercantum dalam surat izin.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Laporan sebagaimana dimaksud dalam ayat (1) harus ditanda tangani oleh penanggungjawab yang tercantum dalam surat izin.",
+                            "explanation": "\nKewajiban mengirim laporan ditetapkan 6 (enam) bulan, mengingat frekwensi panen\ndan penggunaan."
                         }
                     ]
                 },
                 {
-                    "id": "6ac570b3-10ae-4a83-83f6-e773ec20d6f6",
+                    "id": "9c2fc1b8-d921-4f58-892f-b6a6407bb798",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "79c74970-afad-4217-94af-36fcbaf58fa7",
+                        "id": "d8328209-55fa-46cd-bb84-940ef35484ef",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nBentuk dan isi laporan sebagaimana dimaksud dalam Pasal 2 dibuat sesuai dengan\nketentuan yang ditetapkan oleh Menteri Kesehatan.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nBentuk dan isi laporan sebagaimana dimaksud dalam Pasal 2 dibuat sesuai dengan ketentuan yang ditetapkan oleh Menteri Kesehatan.",
+                        "explanation": "\nCukup jelas."
                     }
                 },
                 {
-                    "id": "df6ca440-9c1d-4037-8959-0944e30a771b",
+                    "id": "caa4bf7d-cc21-4377-85fe-d68d8e4de94f",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "9dd19a17-79a9-4d2a-b533-64903c93d3e6",
+                        "id": "a1fe3ff2-957b-4848-bd12-d4f00af3f48c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nLembaga harus segera memberi laporan kepada yang berwajib (polisi) dalam jangka\nwaktu 24 (duapuluh empat) jam sejak diketahui adanya kehilangan tanaman dan hasil\npanen.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nLembaga harus segera memberi laporan kepada yang berwajib (polisi) dalam jangka waktu 24 (duapuluh empat) jam sejak diketahui adanya kehilangan tanaman dan hasil panen.",
+                        "explanation": "\nMaksud jangka waktu 24 (duapuluh empat) jam agar kehilangan tersebut dapat segera\ndiusut."
                     }
                 }
             ]
         },
         {
-            "id": "503877c3-73b4-4c1a-86a3-32dc341232ea",
+            "id": "91ffbc57-dbda-4b9d-90c7-7d8c2c099e5d",
             "name": "Chapter III",
             "title": "\nPERBUATAN YANG DILARANG",
             "type": "chapter",
             "children": [
                 {
-                    "id": "d92f864d-eaf0-4444-a759-2c3c445425e5",
+                    "id": "445ef98f-f878-4b16-bbb4-bdcdd0b61345",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "d79bb20e-1f7c-4a3a-bad3-94b4d3dcc97f",
+                        "id": "cf5f160d-7279-410d-b0ed-efb61347a660",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDilarang tanpa hak menanam atau memelihara atau menguasai tanaman Papaver, Koka\ndan Ganja.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nDilarang tanpa hak menanam atau memelihara atau menguasai tanaman Papaver, Koka dan Ganja.",
+                        "explanation": "\nCukup jelas."
                     }
                 },
                 {
-                    "id": "b8e8badf-72bb-4b75-b580-049b58c2ea85",
+                    "id": "f6d6e180-f7f0-4e19-bfdd-2e59a32e5179",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "e8f3d6ba-a76f-4c57-b306-28947f69e238",
+                        "id": "56d6d8f1-36cb-4c9a-ae40-415763ec7b67",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nKecuali untuk tujuan Ilmu Pengetahuan, Lembaga dilarang menggunakan atau\nmemelihara tanaman Papaver, Koka dan Ganja.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nKecuali untuk tujuan Ilmu Pengetahuan, Lembaga dilarang menggunakan atau memelihara tanaman Papaver, Koka dan Ganja.",
+                        "explanation": "\nLembaga yang telah mendapat izin hanya boleh menanam. menyimpan dan menguasai\ntanaman Narkotika dan hasilnya untuk Pengobatan dan Ilmu Pengetahuan."
                     }
                 }
             ]
         },
         {
-            "id": "398f159b-7d35-4fd7-b486-ce565585e177",
+            "id": "133982ca-df60-4c57-9a9a-d726179dcf2e",
             "name": "Chapter IV",
             "title": "\nKETENTUAN PIDANA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ae7ad3a3-067f-4f21-89c7-f218603119dc",
+                    "id": "143a3a31-7b64-42ce-8bd2-459360c41b36",
                     "name": "Article 7",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bcf2bc5a-e25a-420a-83e5-d7cea3b0d8d2",
+                            "id": "b83afa76-7a75-4af3-9535-066ee549dde8",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Penanggungjawab Lembaga yang melanggar Pasal 2, Pasal 3, dan Pasal 4\ndipidana sesuai dengan ketentuan Pasal 42 Undang-undang Nomor 9 Tahun 1976\ntentang Narkotika.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Penanggungjawab Lembaga yang melanggar Pasal 2, Pasal 3, dan Pasal 4 dipidana sesuai dengan ketentuan Pasal 42 Undang-undang Nomor 9 Tahun 1976 tentang Narkotika.",
+                            "explanation": "\nYang dimaksud dengan penanggungjawab adalah yang namanya tercantum dalam surat\nizin."
                         },
                         {
-                            "id": "1aba5863-2b0e-42d6-b27e-2e1e4171affc",
+                            "id": "f53a3707-543d-4a07-8f44-14f52d2dd08c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Penanggungjawab Lembaga yang melanggar ketentuan Pasal 5 dan Pasal 6\ndipidana sesuai dengan ketentuan Pasal 36 ayat (1) huruf a dan huruf b Undang-\nundang Nomor 9 Tahun 1976 tentang Narkotika.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Penanggungjawab Lembaga yang melanggar ketentuan Pasal 5 dan Pasal 6 dipidana sesuai dengan ketentuan Pasal 36 ayat (1) huruf a dan huruf b Undang-undang Nomor 9 Tahun 1976 tentang Narkotika.",
+                            "explanation": "\nYang dimaksud dengan penanggungjawab adalah yang namanya tercantum dalam surat\nizin."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "710145c8-b17e-46d0-8a06-09d80075f619",
+            "id": "d437eeef-d2d1-4752-9e7d-48b4cbdee680",
             "name": "Chapter V",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "7d592d34-3263-4818-ada7-ca634e0dd978",
+                    "id": "a904299c-70a3-4b4f-bc6e-06db9d293304",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "3f31b08d-0c1c-4084-9895-7213b508fcbf",
+                        "id": "659e842b-68cc-49f5-9f0e-b7423948ad09",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nCukup jelas.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nHal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini, diatur lebih lanjut\noleh Menteri Kesehatan.",
+                        "explanation": "\nCukup jelas."
                     }
                 },
                 {
-                    "id": "98652edd-a1e7-4142-994e-b20531563ed7",
+                    "id": "0c41d9b6-c7c2-4c4e-8b3c-155a8101df2d",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "3320383b-7a8d-4230-aefc-d1612e09967b",
+                        "id": "e9c32540-f51e-4215-835d-3a8a562516dd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nCukup jelas.\n",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "b354e140-ad53-4390-9549-534c8ddc74de",
-                    "name": "Article 1",
-                    "type": "article",
-                    "children": {
-                        "id": "d03f0d42-2783-4455-85b0-385e9bf863ba",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "da23484b-a5c9-4600-91b8-94866a465627",
-                    "name": "Article 2",
-                    "type": "article",
-                    "children": {
-                        "id": "a7e58e34-311f-4c5d-bf56-0805ad6f7c5c",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nKewajiban mengirim laporan ditetapkan 6 (enam) bulan, mengingat frekwensi panen\ndan penggunaan.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "e35db6e7-ae1f-4e1b-a579-417b04e75835",
-                    "name": "Article 3",
-                    "type": "article",
-                    "children": {
-                        "id": "50690328-dee3-4ec7-a4c7-d6a42a6e90a4",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "537fdf5e-f36f-49e2-ab32-a5daf80a21eb",
-                    "name": "Article 4",
-                    "type": "article",
-                    "children": {
-                        "id": "b4056024-6372-4878-9163-346ef2eb97c6",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nMaksud jangka waktu 24 (duapuluh empat) jam agar kehilangan tersebut dapat segera\ndiusut.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "f6509b3c-2bb8-41af-a94a-199ba2e8f158",
-                    "name": "Article 5",
-                    "type": "article",
-                    "children": {
-                        "id": "58a4300f-9f8e-4586-8f2e-2ef18fa971a0",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "3aef5f3e-be4e-46a3-a146-2c71e19d957f",
-                    "name": "Article 6",
-                    "type": "article",
-                    "children": {
-                        "id": "3b9495dc-0b2d-415f-b706-390f0ced1bea",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nLembaga yang telah mendapat izin hanya boleh menanam, menyimpan dan menguasai\ntanaman Narkotika dan hasilnya untuk Pengobatan dan Ilmu Pengetahuan.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "66d072bd-60e1-44ef-8b83-328b750733eb",
-                    "name": "Article 7",
-                    "type": "article",
-                    "children": {
-                        "id": "41daed25-525c-423f-ae39-3333f218f60e",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nYang dimaksud dengan penanggungjawab adalah yang namanya tercantum dalam surat\nizin.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "explanation": "\nCukup jelas.\n"
                     }
                 }
             ]
         }
     ],
     "metadata": {
+        "Umum": "\nSebagaimana dimaksud bahwa sebagian besar Narkotika bersumber dari tanaman\nPapaver, Koka dan Ganja, ternyata jenis tanaman itu dapat tumbuh di Indonesia\ndengan mudah. Untuk pengembangan penggunaan tanaman Narkotika dan hasilnya di\nbidang ilmu pengetahuan dan pengobatan kepada Lembaga dapat diberikan izin untuk\nmenanam tanaman Narkotika seperti yang dimaksud dalam Pasal 4 Undang-undang\nNomor 9 Tahun 1976 tentang Narkotika.\nGuna memudahkan pengawasan terhadap Lembaga yang letaknya tersebar di seluruh\nwilayah Indonesia dan mengingat luasnya kawasan Nusantara serta sebagai tindakan\npengamanan agar segala kegiatan yang ada kaitannya dengan Narkotika dapat diamati\ndan diikuti perkembangannya.\nAdanya keharusan untuk mendapatkan izin dari Menteri Kesehatan bagi Lembaga yang\nmenanam tanaman Narkotika disertai dengan kewajiban membuat laporan merupakan\nsuatu langkah pengamanan dan penertiban.",
         "Nomor": "1",
         "Tahun": "1980",
         "Tentang": "KETENTUAN PENANAMAN PAPAVER, KOKA, DAN GANJA",
@@ -284,6 +194,6 @@
             "4": " Undang-undang Nomor 9 Tahun 1976 tentang Narkotika\n(Lembaran Negara Tahun 1976 Nomor 37, Tambahan Lembaran\nNegara Nomor 3086);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG KETENTUAN PENANAMAN\nPAPAVER, KOKA DAN GANJA.",
-        "tanggal sah": ""
+        "tanggal sah": "9 Januari 1980"
     }
 }

@@ -1,0 +1,878 @@
+{
+    "results": [
+        {
+            "id": "47343060-12b4-43c9-a549-245a0fe3f88f",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "ADD"
+                    ],
+                    "id": "95d44cbd-f1a8-456b-9d84-98eb6229ccc5",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6f3cede2-745a-42a3-ada9-0445ef099f0b",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Presiden selaku pemegang kekuasaan tertinggi\npembinaan PNS berwenang menetapkan\npengangkatan, pemindahan, dan pemberhentian\nPNS."
+                        },
+                        {
+                            "id": "5f2319cf-5521-4703-b08c-059dbe454ee9",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Presiden dapat mendelegasikan kewenangan\nmenetapkan pengangkatan, pemindahan, dan\npemberhentian PNS kepada:\na. menteri di kementerian;\nb. pimpinan lembaga di lembaga pemerintah\nnonkementerian;\nc. sekretaris jenderal di sekretariat lembaga\nnegara dan lembaga nonstruktural;\nd. gubernur di provinsi; dan\ne. bupati/walikota di kabupaten/kota."
+                        },
+                        {
+                            "id": "c23490c8-22fd-4761-b66f-efe04bc6ae67",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Dikecualikan dari ketentuan sebagaimana\ndimaksud pada ayat (2), pengangkatan,\npemindahan, dan pemberhentian bagi pejabat\npimpinan tinggi utama, pejabat pimpinan tinggi\nmadya, dan pejabat fungsional keahlian utama."
+                        },
+                        {
+                            "id": "be131a7a-f01d-48aa-9540-d28e0f40136c",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Ketentuan sebagaimana dimaksud pada ayat (2)\nhuruf a termasuk:\na. Jaksa Agung; dan\nb. Kepala Kepolisian Negara Republik\nIndonesia."
+                        },
+                        {
+                            "id": "5b5836e5-647e-48c0-b188-1280fee912b3",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Ketentuan sebagaimana dimaksud pada ayat (2)\nhuruf b termasuk juga:\na. Kepala Badan Intelijen Negara; dan\nb. Pejabat lain yang ditentukan oleh Presiden."
+                        },
+                        {
+                            "id": "615b6c1f-a666-4d25-b960-84d5a0d68572",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Ketentuan sebagaimana dimaksud pada ayat (2)\nhuruf c termasuk juga Sekretaris Mahkamah\nAgung."
+                        },
+                        {
+                            "id": "1dc982eb-1512-4cb9-a39b-fd6425948294",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 7",
+                            "type": "verse",
+                            "content": " Pendelegasian kewenangan sebagaimana\ndimaksud pada ayat (2) dapat ditarik kembali\noleh Presiden dalam hal:\na. Pelanggaran prinsip sistem merit yang\ndilakukan oleh PPK; atau\nb. Untuk meningkatkan efektifitas penyelenggaraan\npemerintahan."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "6b08191c-d131-4d86-8403-dc145da63a64",
+                    "name": "Article 34A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "32109b85-a315-4f02-b95f-a54d054f9e73",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Dalam hal pelaksanaan pelatihan prajabatan\n(Pendidikan dan pelatihan terintegrasi) bagi\nCalon PNS tidak dapat dilaksanakan dalam masa\npercobaan karena kondisi tertentu,\npengangkatan Calon PNS menjadi PNS dapat\ndilakukan setelah Calon PNS mengikuti dan lulus\npelatihan prajabatan."
+                        },
+                        {
+                            "id": "fc568c08-1f7f-44c8-b0d7-20bfa54a6807",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Kondisi tertentu sebagaimana dimaksud pada\nayat (1) ditetapkan oleh Menteri berdasarkan\npertimbangan ketersediaan anggaran, sarana dan\nprasarana pelatihan, sumber daya manusia\npelatihan, dan/atau kebijakan strategis nasional."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "1b58217d-ac78-436d-a8c2-a24dd3d0b3f2",
+                    "name": "Article 46",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "d4fb9d49-447d-4c67-8889-ca96a85bfb5a",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pangkat merupakan kedudukan yang\nmenunjukan tingkatan Jabatan."
+                        },
+                        {
+                            "id": "d965f22a-add8-451d-9967-274b515331f6",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pangkat sebagaimana dimaksud pada ayat (1)\ndiatur dalam Peraturan Pemerintah."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "5839de48-9445-4889-8898-9300c966b502",
+                    "name": "Article 67",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "1be08462-3d06-4879-bd4f-0e99b7fb59d3",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pejabat Fungsional berkedudukan dibawah dan\nbertanggung jawab secara langsung kepada\npejabat pimpinan tinggi madya, pejabat pimpinan\ntinggi pratama, pejabat administrator, atau\npejabat pengawas yang memiliki keterkaitan\ndengan pelaksanaan tugas JF."
+                        },
+                        {
+                            "id": "cb9a4368-be87-4ea5-8ab5-9e4a64dd2778",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Penentuan berkedudukan dan bertanggung\njawab secara langsung sebagaimana dimaksud\npada ayat (1) disesuaikan dengan struktur\norganisasi masing-masing instansi pemerintah."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "ADD"
+                    ],
+                    "id": "e5c833ae-a317-43b0-8fc3-f232eb2637eb",
+                    "name": "Article 74",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a5c8cf8e-22db-43a9-8eed-81fd002226d1",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pengangkatan PNS ke dalam JF keahlian dan JF\nketerampilan dilakukan melalui pengangkatan:\na. pertama;\nb. perpindahan dari Jabatan lain;\nc. penyesuaian; atau\nd. promosi."
+                        },
+                        {
+                            "id": "bb5d26f3-2765-4623-8d01-9926f8fbbb5b",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Selain pengangkatan sebagaimana dimaksud\npada ayat (1), pengangkatan ke dalam JF\ntertentu dapat dilakukan melalui pengangkatan\nPPPK."
+                        },
+                        {
+                            "id": "da45d182-0d39-48b2-9480-997fdbe24be2",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Jenis JF tertentu sebagaimana dimaksud pada\nayat (2) diatur dengan Peraturan Presiden."
+                        },
+                        {
+                            "id": "99987279-a8b5-43ec-bde4-ee3395b8325f",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai tata cara\npengangkatan JF melalui pengangkatan PPPK\ndiatur dengan Peraturan Pemerintah."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "DELETE"
+                    ],
+                    "id": "7541aeb9-8c04-4e9f-ada7-ed50208e8735",
+                    "name": "Article 75",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "8941e302-77ea-4f24-9995-6a3da49251d1",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pengangkatan dalam JF keahlian melalui\npengangkatan pertama sebagaimana dimaksud\ndalam Pasal 74 ayat (1) huruf a harus memenuhi\npersyaratan sebagai berikut:\na. berstatus PNS;\nb. memiliki integritas dan moralitas yang baik;\nc. sehat jasmani dan rohani;\nd. berijazah paling rendah sarjana atau\ndiploma IV sesuai dengan kualifikasi\npendidikan yang dibutuhkan;\ne. dihapus;\nf. nilai prestasi kerja paling sedikit bernilai\nbaik dalam 1 (satu) tahun terakhir; dan\ng. syarat lainnya yang ditetapkan oleh Menteri."
+                        },
+                        {
+                            "id": "9dab7c06-875d-4984-ab91-13f418f36f22",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pengangkatan pertama sebagaimana dimaksud\npada ayat (1) merupakan pengangkatan untuk\nmengisi lowongan kebutuhan JF yang telah\nditetapkan melalui pengadaan PNS."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "DELETE"
+                    ],
+                    "id": "b9ec03c5-692f-4d2f-9e92-0d14929fc09d",
+                    "name": "Article 78",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "24cc8822-3271-4216-a72e-1c7a8a772eeb",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pengangkatan dalam JF keterampilan melalui pengangkatan pertama sebagaimana dimaksud dalam Pasal 74 ayat (1) huruf a harus memenuhi persyaratan sebagai berikut:\na. berstatus PNS;\nb. memiliki integritas dan moralitas yang baik;\nc. sehat jasmani dan rohani;\nd. berijazah paling rendah sekolah lanjutan tingkat atas atau setara sesuai dengan kualifikasi pendidikan yang dibutuhkan;\ne. dihapus;\nf. nilai prestasi kerja paling sedikit bernilai baik dalam 1 (satu) tahun terakhir; dan\ng. syarat lainnya yang ditetapkan oleh Menteri."
+                        },
+                        {
+                            "id": "5706fc28-8099-4b56-b005-a3d6429c5cbe",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pengangkatan pertama sebagaimana dimaksud pada ayat (1) merupakan pengangkatan untuk mengisi lowongan kebutuhan JF yang telah ditetapkan melalui pengadaan PNS."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "ADD"
+                    ],
+                    "id": "f93a1b31-ee7e-481e-9924-3db5c8138a9a",
+                    "name": "Article 99",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "59153755-5655-40bd-aec7-d3f1e9373a81",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Instansi pembina JF merupakan kementerian, lembaga pemerintah nonkementerian, atau kesekretariatan lembaga negara yang sesuai kekhususan tugas dan fungsinya ditetapkan menjadi instansi pembina suatu JF."
+                        },
+                        {
+                            "id": "ea3e1f2e-eaaf-4468-bfb7-77a006f2d1ba",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Instansi pembina berperan sebagai pengelola JF yang menjadi tanggung jawabnya untuk menjamin terwujudnya standar kualitas dan profesionalitas Jabatan."
+                        },
+                        {
+                            "id": "32387b81-d7fa-420a-85d3-8dc8b308ef8c",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Dalam melaksanakan peran sebagaimana\ndimaksud pada ayat (2), instansi pembina\nmemiliki tugas sebagai berikut:\na. menyusun pedoman formasi JF;\nb. menyusun standar kompetensi JF;\nc. menyusun petunjuk pelaksanaan dan petunjuk teknis JF;\nd. menyusun standar kualitas hasil kerja dan pedoman penilaian kualitas hasil kerja\npejabat fungsional;\ne. menyusun pedoman penulisan karya tulis/karya ilmiah yang bersifat inovatif di\nbidang tugas JF;\nf. menyusun kurikulum pelatihan JF;\ng. menyelenggarakan pelatihan JF;\nh. membina penyelenggaraan pelatihan\nfungsional pada lembaga pelatihan;\ni. menyelenggarakan uji kompetensi JF;\nj. menganalisis kebutuhan pelatihan\nfungsional di bidang tugas JF;\nk. melakukan sosialisasi petunjuk pelaksanaan dan petunjuk teknis JF;\nl. mengembangkan sistem informasi JF;\nm. memfasilitasi pelaksanaan tugas pokok JF;\nn. memfasilitasi pembentukan organisasi\nprofesi JF;\no. memfasilitasi penyusunan dan penetapan\nkode etik profesi dan kode perilaku JF;\np. melakukan akreditasi pelatihan fungsional\ndengan mengacu kepada ketentuan yang\ntelah ditetapkan oleh LAN;\nq. melakukan pemantauan dan evaluasi\npenerapan JF di seluruh Instansi Pemerintah\nyang menggunakan Jabatan tersebut;\nr. melakukan koordinasi dengan instansi\npengguna dalam rangka pembinaan karier\npejabat fungsional; dan\ns. menyusun informasi faktor jabatan untuk\nevaluasi jabatan."
+                        },
+                        {
+                            "id": "0367c15c-f432-4916-8edc-c225e90a792c",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Uji kompetensi sebagaimana dimaksud pada ayat\n(3) huruf i dapat dilakukan oleh Instansi\nPemerintah pengguna JF setelah mendapat\nakreditasi dari instansi pembina."
+                        },
+                        {
+                            "id": "634b3ddd-e32c-4385-b05c-bca3f897f356",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Instansi pembina dalam melaksanakan tugas\npengelolaan wajib menyampaikan secara berkala\nsetiap tahun hasil pelaksanaan tugas\nsebagaimana dimaksud pada ayat (3) huruf a,\nhuruf b, huruf c, huruf d, huruf e, huruf i, huruf\nk, huruf 1, huruf m, huruf n, huruf o, huruf q,\ndan huruf r, pengelolaan JF yang dibinanya\nsesuai dengan perkembangan pelaksanaan JF\nkepada Menteri dengan tembusan Kepala BKN."
+                        },
+                        {
+                            "id": "8a66bbb5-f03e-4711-aa5a-b05737a20c21",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Instansi pembina menyampaikan secara berkala\nsetiap tahun pelaksanaan tugas sebagaimana\ndimaksud pada ayat (3) huruf f, huruf g, huruf h,\nhuruf j, dan huruf p kepada Menteri dengan\ntembusan Kepala LAN."
+                        },
+                        {
+                            "id": "295539ad-4873-4c93-aee6-04af814be15a",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 7",
+                            "type": "verse",
+                            "content": " Ketentuan\nlebih lanjut mengenai\npenyelenggaraan uji kompetensi JF sebagaimana\ndimaksud pada ayat (3) huruf i diatur dengan\nPeraturan Menteri."
+                        },
+                        {
+                            "id": "74e7c22d-596b-4945-a6c3-cffb38741906",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 8",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai penyusunan\ninformasi faktor jabatan sebagaimana dimaksud\npada ayat (3) huruf s diatur dengan Peraturan\nMenteri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "1e50f08e-587f-40ca-8a34-0e6f915b6615",
+                    "name": "Article 106",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ef3fa964-8023-429c-b2d5-271aa8b8405b",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " JPT utama dan JPT madya tertentu dapat diisi\ndari kalangan non-PNS dengan persetujuan\nPresiden yang pengisiannya dilakukan secara\n(2) JPT utama dan JPT madya tertentu di bidang\nrahasia negara, pertahanan, keamanan,\npengelolaan aparatur negara, kesekretariatan\nnegara, pengelolaan sumber daya alam tidak\ndapat diisi dari kalangan non-PNS."
+                        },
+                        {
+                            "id": "e3049794-d310-417a-876c-2dec9eeec7f3",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Ketentuan sebagaimana dimaksud pada ayat (2)\ndapat dikecualikan sepanjang mendapatkan\npersetujuan dari Presiden setelah mendapatkan\npertimbangan dari Menteri, Kepala BKN, dan\nMenteri Keuangan."
+                        },
+                        {
+                            "id": "50884e45-fac5-4a7c-b9e3-0aa36d3a37bb",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai JPT utama dan\nJPT madya tertentu yang dapat diisi dari\nkalangan non-PNS sebagaimana dimaksud pada\nayat (1) diatur dengan Peraturan Presiden."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "a6d92b6f-293c-4953-a633-157f891438f7",
+                    "name": "Article 107",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "0a687ee8-757e-46a3-a392-640db6e24b2b",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Persyaratan untuk dapat diangkat dalam JPT\ndari kalangan PNS sebagaimana dimaksud dalam\nPasal 105 sebagai berikut:\na. JPT utama:\n1. memiliki kualifikasi pendidikan paling\nrendah sarjana atau diploma IV;\n2. memiliki Kompetensi Teknis, Kompetensi\nManajerial, dan Kompetensi Sosial\nKultural sesuai standar kompetensi\nJabatan yang ditetapkan;\n3. memiliki pengalaman Jabatan dalam\nbidang tugas yang terkait dengan\nJabatan yang akan diduduki secara\nkumulatif paling singkat selama\n10 (sepuluh) tahun;\n4.  sedang atau pernah menduduki JPT\nmadya atau JF jenjang ahli utama paling\nsingkat 2 (dua) tahun;\n5.  memiliki rekam jejak Jabatan, integritas,\ndan moralitas yang baik;\n6.  usia paling tinggi 58 (lima puluh delapan)\ntahun; dan\n7. sehat jasmani dan rohani.\nb. JPT madya:\n1.  memiliki kualifikasi pendidikan paling\nrendah sarjana atau diploma IV;\n2.  memiliki Kompetensi Teknis, Kompetensi\nManajerial, dan Kompetensi Sosial\nKultural sesuai standar kompetensi\nJabatan yang ditetapkan;\n3.  memiliki pengalaman Jabatan dalam\nbidang tugas yang terkait dengan\nJabatan yang akan diduduki\nsecara\nkumulatif paling singkat selama 7 (tujuh)\ntahun;\n4. sedang atau pernah menduduki JPT\npratama atau JF jenjang ahli utama\npaling singkat 2 (dua) tahun;\n5. memiliki rekam jejak Jabatan, integritas,\ndan moralitas yang baik;\n6. usia paling tinggi 58 (lima puluh delapan)\ntahun; dan\n7. sehat jasmani dan rohani.\nC. JPT pratama:\n1.  memiliki kualifikasi pendidikan paling\nrendah sarjana atau diploma IV;\n2.  memiliki Kompetensi Teknis, Kompetensi\nManajerial, dan Kompetensi Sosial\nKultural sesuai standar kompetensi\nJabatan yang ditetapkan;\n3.  memiliki pengalaman Jabatan dalam\nbidang tugas yang terkait dengan\n-11-\n2020, No.68\nJabatan yang akan diduduki secara\nkumulatif paling kurang selama 5 (lima)\ntahun;\n4. sedang atau pernah menduduki Jabatan\nadministrator atau JF jenjang ahli madya\npaling singkat 2 (dua) tahun;\n5. memiliki rekam jejak Jabatan, integritas,\ndan moralitas yang baik;\n6. usia paling tinggi 56 (lima puluh enam)\ntahun; dan\n7. sehat jasmani dan rohani."
+                        },
+                        {
+                            "id": "b44a5e48-d681-4c94-94f2-6c26dbab7112",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Ketentuan persyaratan sebagaimana dimaksud\npada ayat (1) dapat dikecualikan dengan terlebih\ndahulu mendapatkan persetujuan Presiden."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "167ebb9f-3e73-40df-b287-69cbebc30be0",
+                    "name": "Article 108",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "bebfd721-14d6-4bb4-97d6-f59f1bed7be7",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Persyaratan untuk dapat diangkat dalam JPT\ndari kalangan non-PNS sebagaimana dimaksud\ndalam Pasal 106 ayat (1) sebagai berikut:\na. JPT utama:\n1. warga negara Indonesia;\n2. memiliki kualifikasi pendidikan paling\nrendah pascasarjana;\n3. memiliki Kompetensi Teknis, Kompetensi\nManajerial, dan Kompetensi Sosial\nKultural sesuai standar kompetensi\nJabatan yang ditetapkan;\n4. memiliki pengalaman Jabatan dalam\nbidang tugas yang terkait dengan\nJabatan yang akan diduduki secara\nkumulatif paling singkat 15 (lima belas)\ntahun;\n5. tidak menjadi anggota atau pengurus\npartai politik paling singkat 5 (lima)\ntahun sebelum pendaftaran;\n6. tidak pernah dipidana dengan pidana\npenjara;\n7. memiliki rekam jejak Jabatan, integritas,\ndan moralitas yang baik;\n8. usia paling tinggi 58 (lima puluh\ndelapan)tahun;\n9. sehat jasmani dan rohani; dan\n10. tidak pernah diberhentikan tidak dengan\nhormat dari PNS, PPPK, prajurit Tentara\nNasional Indonesia, anggota Kepolisian\nNegara Republik Indonesia atau pegawai\nswasta.\nb. JPT madya:\n1. warga negara Indonesia;\n2. memiliki kualifikasi pendidikan paling\nrendah pascasarjana;\nSosial\n3. memiliki Kompetensi Teknis, Kompetensi\nManajerial, dan Kompetensi\nKultural sesuai standar kompetensi\nJabatan yang dibutuhkan;\n4. memiliki pengalaman Jabatan dalam\nbidang tugas yang terkait dengan\nJabatan yang akan diduduki secara\nkumulatif paling singkat 10 (sepuluh)\ntahun;\n5. tidak menjadi anggota/pengurus partai\npolitik paling singkat 5 (lima) tahun\nsebelum pendaftaran;\n6. tidak pernah dipidana dengan pidana\npenjara;\n7. memiliki rekam jejak Jabatan, integritas,\ndan moralitas yang baik;\n8. usia paling tinggi 58 (lima puluh delapan)\ntahun;\n9. sehat jasmani dan rohani; dan\n10. tidak pernah diberhentikan tidak dengan hormat dari PNS, PPPK, prajurit Tentara Nasional Indonesia, anggota Kepolisian Negara Republik Indonesia atau pegawai swasta."
+                        },
+                        {
+                            "id": "d0557921-bdb9-4966-9d26-99b6628c0c9f",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Ketentuan persyaratan sebagaimana dimaksud pada ayat (1) dapat dikecualikan dengan terlebih dahulu mendapatkan persetujuan Presiden."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "085c8b8d-69d1-40ad-a07e-427f0cf95faf",
+                    "name": "Article 132",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f0f4f815-6d1c-4a13-bcf5-7ff09ae04e35",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pengisian JPT melalui mutasi dari satu JPT ke JPT yang lain dalam satu instansi maupun antar instansi dapat dilakukan melalui uji kompetensi di antara pejabat pimpinan tinggi."
+                        },
+                        {
+                            "id": "7aa6f2c6-5186-4a82-b11a-2ba9fb66169d",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Mutasi sebagaimana dimaksud pada ayat (1) harus memenuhi syarat:\na. sesuai standar kompetensi Jabatan; dan\nb. telah menduduki Jabatan paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun."
+                        },
+                        {
+                            "id": "a0a125b6-7710-4b1b-aa1f-b328472bf137",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Pengisian JPT sebagaimana dimaksud pada ayat (1) dilakukan berkoordinasi dengan Komisi Aparatur Sipil Negara."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "DELETE"
+                    ],
+                    "id": "84a46152-7abf-46c9-b374-d9ef2046ca11",
+                    "name": "Article 159",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "92cdd46d-c404-4e37-923a-288f2cde9205",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPersyaratan untuk dapat diangkat dalam JPT dari prajurit Tentara Nasional Indonesia dan anggota Kepolisian Negara Republik Indonesia setelah mengundurkan diri dari dinas aktif sebagaimana dimaksud dalam Pasal 157 sebagai berikut:\na. JPT utama:\n1. memiliki kualifikasi pendidikan paling\n   rendah pascasarjana;\n2. memiliki Kompetensi Teknis, Kompetensi\n    Manajerial, dan Kompetensi Sosial Kultural\n    sesuai standar kompetensi Jabatan yang\n    ditetapkan;\n3. memiliki pengalaman Jabatan dalam bidang\n    tugas yang terkait dengan Jabatan yang akan\n    diduduki secara kumulatif paling singkat\n    selama 10 (sepuluh) tahun;\n4. memiliki rekam jejak Jabatan, integritas, dan\n    moralitas yang baik;\n5. usia paling tinggi 55 (lima puluh lima) tahun;\n    dan\n6. sehat jasmani dan rohani.\nb. JPT madya:\n    1. memiliki kualifikasi pendidikan paling\n        rendah pascasarjana;\n    2. memiliki Kompetensi Teknis, Kompetensi\n        Manajerial, dan Kompetensi Sosial Kultural\n        sesuai standar kompetensi Jabatan yang\n        ditetapkan;\n    3. memiliki pengalaman Jabatan dalam bidang\n        tugas yang terkait dengan Jabatan yang akan\n        diduduki secara kumulatif paling singkat\n        selama 7 (tujuh) tahun;\n    4. memiliki rekam jejak Jabatan, integritas, dan\n        moralitas yang baik;\n    5. usia paling tinggi 55 (lima puluh lima) tahun;\n        dan\n    6. sehat jasmani dan rohani.\nc. Dihapus.\n2020, No.68"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "9d58510c-1c9b-4e14-91f0-6646a302fd32",
+                    "name": "Article 178",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ace7051d-79d7-41e3-bf95-feaff1c1151c",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nSelain mutasi dan/atau promosi sebagaimana\ndimaksud dalam Pasal 177 ayat (3), pengembangan\nkarier dapat dilakukan melalui penugasan."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE",
+                        "INSERT"
+                    ],
+                    "id": "fa7f0d6b-c4db-4ee3-b77c-ac8587f2cdd9",
+                    "name": "Article 202",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "11178a6f-2227-4b81-a1e1-c4437a232329",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Penugasan sebagaimana dimaksud dalam Pasal\n178 merupakan penugasan PNS untuk\nmelaksanakan tugas Jabatan di lingkungan\ninstansi pemerintah atau di luar instansi\npemerintah dalam jangka waktu tertentu."
+                        },
+                        {
+                            "id": "b4ec0f37-5b7e-4555-9d9e-9c2fa410caa7",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1a",
+                            "type": "verse",
+                            "content": " Penugasan sebagaimana dimaksud pada ayat (1)\ndilaksanakan dalam rangka optimalisasi\npelaksanaan tugas dan pencapaian kinerja\norganisasi."
+                        },
+                        {
+                            "id": "ed010e66-67cf-4deb-8146-3eec1314cfc3",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai penugasan\ndiatur dengan Peraturan Menteri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "7a76628d-4353-41be-9670-af4d9dba1c89",
+                    "name": "Article 203",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "13b9dfa2-9a07-4d4c-9d51-64cbac422a88",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pengembangan kompetensi sebagaimana\ndimaksud dalam Pasal 162 merupakan upaya\nuntuk pemenuhan kebutuhan kompetensi PNS\ndengan standar kompetensi Jabatan dan rencana\npengembangan karier."
+                        },
+                        {
+                            "id": "d3d0a74c-5920-4059-993a-95d50624c1d8",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pengembangan kompetensi sebagaimana\ndimaksud pada ayat (1) dilakukan pada tingkat:\n2020, No.68\n-16-\na. instansi;\nb. nasional."
+                        },
+                        {
+                            "id": "147a4f70-d2a1-4c85-b6ad-262b689f8180",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Setiap PNS memiliki hak dan kesempatan yang\nsama untuk diikutsertakan dalam\npengembangan kompetensi sebagaimana\ndimaksud pada ayat (1), dengan memperhatikan\nhasil penilaian kinerja dan penilaian kompetensi\nPNS yang bersangkutan."
+                        },
+                        {
+                            "id": "613c5e69-eb44-4703-b9af-c12124de8f56",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Pengembangan kompetensi bagi setiap PNS\nsebagaimana dimaksud pada ayat (3) dilakukan\npaling sedikit 20 (dua puluh) jam pelajaran\ndalam 1 (satu) tahun."
+                        },
+                        {
+                            "id": "6fe0028d-9d11-4242-8dc8-a801b69ce8a8",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4a",
+                            "type": "verse",
+                            "content": " Pengembangan kompetensi sebagaimana\ndimaksud pada ayat (3) dilaksanakan melalui\npendekatan sistem pembelajaran terintegrasi\n(corporate university)."
+                        },
+                        {
+                            "id": "79c44351-76f7-4cc8-928c-8617919a8fd3",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Untuk menyelenggarakan pengembangan\nkompetensi sebagaimana dimaksud pada ayat\n(1), PPK wajib:\na. menetapkan kebutuhan dan rencana\npengembangan kompetensi;\nb. melaksanakan pengembangan kompetensi;\ndan\nc. melaksanakan evaluasi pengembangan\nkompetensi."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "34ecc8eb-9b90-4539-ba55-2dda8d12c20d",
+                    "name": "Article 217",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f5d9bf31-f0cb-478f-857d-0aad1fd12e38",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pelaksanaan pengembangan Kompetensi\nManajerial dilakukan melalui jalur pelatihan."
+                        },
+                        {
+                            "id": "9c0aba91-8d0f-41d0-8a83-ec250b10b8d0",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pelaksanaan pengembangan Kompetensi\nManajerial melalui jalur pelatihan sebagaimana\ndimaksud pada ayat (1) dilakukan melalui\npelatihan struktural."
+                        },
+                        {
+                            "id": "5607195d-1f46-45b5-8163-c900d4e83247",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Pelatihan struktural sebagaimana dimaksud\npada ayat (2) terdiri atas:\na. kepemimpinan madya;\nb. kepemimpinan pratama;\nc. kepemimpinan administrator; dan\nd. kepemimpinan pengawas."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "fc142d06-e108-42c8-a5a9-a5326d6bd593",
+                    "name": "Article 217A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6cfe12cf-e7e2-4469-b241-8e11849eb36e",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pelatihan struktural kepemimpinan madya\ndiselenggarakan oleh LAN."
+                        },
+                        {
+                            "id": "cbd9aecd-d750-47c6-8ce9-bc394efb7c52",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Dalam pelaksanaan pengembangan Kompetensi\nManajerial sebagaimana dimaksud dalam Pasal\n217 ayat (1), LAN dapat menyetarakan pelatihan\nkepemimpinan\nsesuai dengan ketentuan\nperundang-undangan."
+                        },
+                        {
+                            "id": "dd33a313-1caf-48cf-8053-99876f70f3c0",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": "\nKetentuan lebih lanjut mengenai akreditasi dan\npenyetaraan pelatihan kepemimpinan sebagaimana\ntersebut pada ayat (1) dan ayat (2) diatur dengan\nPeraturan LAN."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "92d5ecf8-2067-4cfe-8555-bc7c6d4383d0",
+                    "name": "Article 250",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "0964bed4-a51c-493a-bcf5-b8fba6389588",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPNS diberhentikan tidak dengan hormat apabila:\na. melakukan penyelewengan terhadap Pancasila\ndan Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\nb. dihukum penjara atau kurungan berdasarkan\nputusan pengadilan yang telah memiliki kekuatan\nhukum tetap karena melakukan tindak pidana\nkejahatan Jabatan atau tindak pidana kejahatan\nyang ada hubungannya dengan Jabatan;\nc. menjadi anggota dan/atau pengurus partai politik;\natau\nd. dipidana dengan pidana penjara berdasarkan\nputusan pengadilan yang telah memiliki kekuatan\nhukum tetap karena melakukan tindak pidana\ndengan hukuman pidana penjara paling singkat 2\n(dua) tahun dan pidana yang dilakukan dengan\nberencana."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "c1c59527-5a67-4e86-ae7a-548d93823235",
+                    "name": "Article 254",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ab9f40c6-7d51-425c-8394-e14e503c13a4",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " PNS wajib mengundurkan diri sebagai PNS pada\nsaat ditetapkan sebagai calon Presiden dan Wakil\nPresiden, Ketua, Wakil Ketua, dan Anggota\nDewan Perwakilan Rakyat, Ketua, Wakil Ketua,\ndan Anggota Dewan Perwakilan Daerah,\nGubernur dan Wakil Gubernur, atau\nBupati/Walikota dan Wakil Bupati/Wakil\nWalikota oleh lembaga yang bertugas\nmelaksanakan pemilihan umum."
+                        },
+                        {
+                            "id": "fbddd321-663a-4bd0-9785-6d217688e6ff",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pernyataan pengunduran diri sebagaimana dimaksud pada ayat (1) tidak dapat ditarik kembali."
+                        },
+                        {
+                            "id": "c2d7601f-4d46-44ca-abc0-2269ecc952d7",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " PNS yang mengundurkan diri sebagaimana dimaksud pada ayat (1) diberhentikan dengan hormat sebagai PNS."
+                        },
+                        {
+                            "id": "76c17683-8a03-4ee2-be53-d14bf0514b6b",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " PNS yang melanggar kewajiban sebagaimana dimaksud pada ayat (1) diberhentikan tidak dengan hormat sebagai PNS."
+                        },
+                        {
+                            "id": "5f584575-b4ad-4f3a-a1b6-43416c228846",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Pemberhentian dengan hormat sebagai PNS sebagaimana dimaksud pada ayat (3) berlaku terhitung mulai akhir bulan sejak PNS yang bersangkutan ditetapkan sebagai calon Presiden dan Wakil Presiden, Ketua, Wakil Ketua, dan Anggota Dewan Perwakilan Rakyat, Ketua, Wakil Ketua, dan Anggota Dewan Perwakilan Daerah, Gubernur dan Wakil Gubernur, atau Bupati/Walikota dan Wakil Bupati/Wakil Walikota oleh lembaga yang bertugas melaksanakan pemilihan umum."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "94f57287-77d3-465e-87cf-d5aa55ccc08e",
+                    "name": "Article 280",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "007ccc20-da03-4e46-bd30-b5294973d381",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPemberhentian sementara sebagaimana dimaksud dalam Pasal 276 huruf c berlaku sejak PNS ditahan."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "3544f3c1-0e24-4c18-884e-9767a82bee23",
+                    "name": "Article 315",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "659a0e9e-3a90-41d3-ab6a-29ce7e7b47ac",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPNS yang menduduki Jabatan guru pada sekolah dan Jabatan dosen pada perguruan tinggi yang mendapat liburan menurut peraturan perundang-undangan, berhak mendapatkan cuti tahunan."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "2a8210f5-cf02-4fbc-9c20-703db5b3d219",
+                    "name": "Article 320",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "4ad3d3df-2195-47b2-b456-1d47e51b5956",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " PNS yang sakit berhak atas cuti sakit, dengan\nketentuan PNS yang bersangkutan harus\nmengajukan permintaan secara tertulis kepada\nPPK atau pejabat yang menerima delegasi\nwewenang untuk memberikan hak atas cuti sakit\ndengan melampirkan surat keterangan dokter\nbaik di dalam maupun luar negeri yang memiliki\nizin praktek yang dikeluarkan oleh pejabat/\ninstansi yang berwenang."
+                        },
+                        {
+                            "id": "3fe8a167-a9f4-4d72-8354-53a145fe94a3",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Surat keterangan dokter sebagaimana dimaksud\npada ayat (1) paling sedikit memuat pernyataan\ntentang perlunya diberikan cuti, lamanya cuti,\ndan keterangan lain yang diperlukan."
+                        },
+                        {
+                            "id": "c201331c-351f-4cba-ad81-18212f46fab4",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Hak atas cuti sakit sebagaimana dimaksud pada\nayat (1) diberikan untuk waktu paling lama 1\n(satu) tahun."
+                        },
+                        {
+                            "id": "7322e9c8-5012-45ac-b998-e10b4bf6d947",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Jangka waktu cuti sakit sebagaimana dimaksud\npada ayat (2) dapat ditambah untuk paling lama\n6 (enam) bulan apabila diperlukan, berdasarkan\nsurat keterangan tim penguji kesehatan yang\nditetapkan oleh Menteri yang menyelenggarakan\nurusan pemerintahan di bidang kesehatan."
+                        },
+                        {
+                            "id": "3aee7eef-cf04-4130-afd0-2126563ae930",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " PNS yang tidak sembuh dari penyakitnya dalam\njangka waktu sebagaimana dimaksud pada ayat\n(3) dan ayat (4), harus diuji kembali\nkesehatannya oleh tim penguji kesehatan yang\nditetapkan oleh menteri yang menyelenggarakan\nurusan pemerintahan di bidang kesehatan."
+                        },
+                        {
+                            "id": "e859bb39-1c04-4601-a4dc-f793e4891a49",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Apabila berdasarkan hasil pengujian kesehatan\nsebagaimana dim aksud pada ayat (5) PNS\nbelum sembuh dari penyakitnya, PNS yang\nbersangkutan diberhentikan dengan hormat dari\nJabatannya karena sakit dengan mendapat uang"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE",
+                        "ADD"
+                    ],
+                    "id": "bff7e407-78fa-47d9-9d1d-91560462549d",
+                    "name": "Article 349",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "745dedbe-a114-449f-ba46-64cb9e20641e",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " PNS yang diangkat menjadi:\na. ketua, wakil ketua, dan anggota Mahkamah\nKonstitusi;\nb. ketua, wakil ketua, dan anggota Badan\nPemeriksa Keuangan;\nc. ketua, wakil ketua, dan anggota Komisi\nYudisial;\nd. ketua dan wakil ketua Komisi\nPemberantasan Tindak Pidana Korupsi;\ne. menteri dan jabatan setingkat menteri;\nf. kepala perwakilan Republik Indonesia di luar\nnegeri yang berkedudukan sebagai Duta\nBesar Luar Biasa dan Berkuasa Penuh;\ng. pimpinan atau anggota lembaga\nnonstruktural;\nh. wakil menteri;\ni. staf khusus;\nj. pimpinan atau staf pada organisasi\ninternasional; dan\nk. Jabatan lain pada lembaga selain\nkementerian/lembaga pemerintah\nnonkementerian yang diangkat dan\ndiberhentikan oleh Presiden;\npada saat mencapai Batas Usia Pensiun selama\nmasa jabatannya, diberhentikan dengan hormat\nsebagai PNS, dengan mendapat hak kepegawaian\nberdasarkan ketentuan peraturan perundang-\nundangan."
+                        },
+                        {
+                            "id": "87510c53-741f-4f03-932b-b2054b6ee262",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Batas Usia Pensiun PNS sebagaimana dimaksud\npada ayat (1) adalah 58 (lima puluh delapan)\n2020, No.68\ntahun dikecualikan bagi PNS yang menduduki JF."
+                        },
+                        {
+                            "id": "888731e2-002a-451f-96f0-e64f8401c5c2",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Batas Usia Pensiun bagi PNS yang dikecualikan sebagaimana dimaksud pada ayat (2) ditetapkan sesuai dengan Batas Usia Pensiun pada JF terakhir yang diduduki."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "ADD"
+                    ],
+                    "id": "d9fb6d68-2511-4a45-a1ec-aab9418d0e7c",
+                    "name": "Article 350",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "3852b43b-fd58-462a-b25c-1a178c00b683",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "12342eb9-ef4a-4eac-86b1-9593de197e32",
+                    "name": "Article 350A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "b9f49ed3-bfeb-4fe4-9954-69a3f7b43e98",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Dalam hal diperlukan penataan birokrasi, penyesuaian jabatan ke dalam JF dapat dilakukan penyetaraan jabatan."
+                        },
+                        {
+                            "id": "85d97f8e-baef-4fd7-9edd-3528232ed767",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Penerbitan Peraturan Presiden sebagaimana dimaksud pada ayat (1) disertai dengan pertimbangan teknis dari Menteri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "8c9bb0b4-e6be-4ddf-8527-4c46af358307",
+                    "name": "Article 352",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "9a1fbde8-24a2-439d-b6f8-4c00cbd545f9",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPangkat dan golongan ruang PNS yang sudah ada\npada saat Peraturan Pemerintah ini mulai berlaku,\ntetap berlaku sampai dengan diberlakukannya\nketentuan mengenai pangkat PNS berdasarkan\nPeraturan Pemerintah mengenai pangkat, gaji, dan\ntunjangan PNS sebagai pelaksanaan Undang-Undang\nNomor 5 Tahun 2014 tentang Aparatur Sipil Negara."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "812a7084-0468-4d76-abbd-712f89f15dd0",
+                    "name": "Article 352A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "d2a56898-040e-4cb4-bb50-8f6592512b8e",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPangkat dan golongan ruang masih dipergunakan\nsebagai syarat pengangkatan dalam jabatan sampai\ndengan ditetapkannya Peraturan Pemerintah yang\nmengatur tentang pangkat."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "01c38c0c-83b9-4af4-93c9-28d073b2280d",
+                    "name": "Article 360A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "27ac305b-1a11-4763-9783-827d97208357",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nTunjangan Jabatan Fungsional tetap dapat\ndibayarkan sampai dengan diundangkannya\nPeraturan Pemerintah yang mengatur tentang gaji,\ntunjangan, dan fasilitas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "90a7fd51-13a3-401f-82d4-43cff0f1cad0",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "95e40cb8-9b27-418c-8872-61ccff2d1ca8",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "17",
+        "Tahun": "2020",
+        "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 11 TAHUN 2017\nTENTANG MANAJEMEN PEGAWAI NEGERI SIPIL",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa untuk meningkatkan pengembangan karier,\npemenuhan kebutuhan organisasi dan pengembangan\nkompetensi Pegawai Negeri Sipil, perlu mengubah\nbeberapa ketentuan dalam Peraturan Pemerintah Nomor\n11 Tahun 2017 tentang Manajemen Pegawai Negeri Sipil;",
+            "b": " bahwa berdasarkan pertimbangan sebagaimana\ndimaksud pada huruf a, perlu menetapkan Peraturan\nPemerintah Republik Indonesia tentang Perubahan\nAtas Peraturan Pemerintah Nomor 11 Tahun 2017\ntentang Manajemen Pegawai Negeri Sipil;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 5 Tahun 2014 tentang Aparatur\nSipil Negara (Lembaran Negara Republik Indonesia\nTahun 2014 Nomor 6, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5494);",
+            "3": " Peraturan Pemerintah Nomor 11 Tahun 2017 tentang\nManajemen Pegawai Negeri Sipil (Lembaran Negara\nRepublik Indonesia Tahun 2017 Nomor 63, Tambahan\nLembaran Negara Republik Indonesia Nomor 6037);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nTENTANG PERUBAHAN ATAS PERATURAN PEMERINTAH\nNOMOR 11 TAHUN 2017 TENTANG MANAJEMEN\nPEGAWAI NEGERI SIPIL.",
+        "tanggal sah": "28 Februari 2020"
+    }
+}

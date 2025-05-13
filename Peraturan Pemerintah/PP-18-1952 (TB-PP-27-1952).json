@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "a692814e-abfb-485f-968f-aefa6fccd4d0",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "5d132850-0aa2-43ba-9914-05ba48e7ca60",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Semua ketentuan dalam Peraturan Pemerintah Nr 17 tahun 1952\ntentang mobil untuk Perdana Menteri, Wakil Perdana Menteri dan\npara Menteri Republik Indonesia, termuat dalam Lembaran-Negara Nr\n23 tahun 1952 berlaku juga untuk Ketua Dewan Perwakilan Rakyat\nRepublik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "3db95f40-122f-4f9b-aa70-6c9da8eedbc0",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "a3173f1d-a5f6-41a5-9bdc-802c25ff92c5",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan dan\nberlaku surut sampai tanggal 1 Januari 1950.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini, dengan penempatan dalam\nLembaran-Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "18",
+        "Tahun": "1952",
+        "Tentang": "PENETAPAN BERLAKUNYA PERATURAN PEMERINTAH NR 17 TAHUN 1952,\nMENGENAI MOBIL UNTUK KETUA DEWAN PERWAKILAN RAKYAT\nREPUBLIK INDONESIA",
+        "Menimbang": {
+            "Introduction": "\nBahwa Peraturan Pemerintah Nr 17 tahun 1952 tentang mobil untuk\nPerdana Menteri, Wakil Perdana Menteri dan para Menteri, termuat\ndalam Lembaran-Negara Nr 23 tahun 1952, perlu ditetapkan berlaku\njuga untuk Ketua Dewan Perwakilan Rakyat Republik Indonesia,\nberhubung dengan kedudukannya;\nMemperhatikan \nPeraturan pemakaian partikelir kendaraan-kendaraan dinas bermotor\n(surat keputusan H.V.K. tanggal 12 Nopember 1949 No. 9);"
+        },
+        "Mengingat": {
+            "Introduction": "\nPasal 1 ayat (4) Undang-undang tentang kedudukan keuangan Ketua\ndan Anggauta Dewan Perwakilan Rakyat Republik Indonesia (Lembaran-\nNegara tahun 1951 Nr 40);\nMengingat pula \nPasal 98 Undang-undang Dasar Sementara Republik Indonesia;\nMendengar \nDewan Menteri dalam rapatnya yang ke-71 pada tanggal 15 Pebruari\n1952;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENETAPAN BERLAKUNYA PERATURAN\nPEMERINTAH NOMOR 17 TAHUN 1952 UNTUK KETUA DEWAN PERWAKILAN RAKYAT\nREPUBLIK INDONESIA.",
+        "tanggal sah": "1 Januari 1950"
+    }
+}

@@ -1,0 +1,411 @@
+{
+    "results": [
+        {
+            "id": "f580f565-b337-4ce2-b536-300b2cc303c1",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "12f8a9b4-eabb-4827-a64d-acb5d72b4a7f",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "38ea5d46-c94d-47da-ac83-c9c3a06f5c80",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\na. Bedah mayat klinis adalah pemeriksaan yang dilakukan dengan cara\npembedahan terhadap mayat untuk mengetahui dengan pasti penyakit\natau kelainan yang menjadi sebab kematian dan untuk penilaian hasil\nusaha pemulihan kesehatan;\n\nb. Bedah mayat anatomis adalah pemeriksaan yang dilakukan dengan\ncara pembedahan terhadap mayat untuk keperluan pendidikan di\nbidang ilmu kedokteran;\nc. Alat tubuh manusia adalah kumpulan jaringan-jaringan tubuh yang di.\nbentuk oleh beberapa jenis sel dan mempunyai bentuk serta fa'al\n(fungsi) tertentu untuk tubuh tersebut;\nd. Jaringan adalah kumpulan sel-sel yang mempunyai bentuk dan fa'al\n(fungsi) yang sama dan tertentu;\ne. Transplantasi adalah rangkaian tindakan kedokteran untuk\npemindahan alat dan atau jaringan tubuh manusia yang berasal dari\ntubuh sendiri atau tubuh orang lain dalam rangka pengobatan untuk\nmenggantikan alat dan atau jaringan tubuh yang tidak berfungsi\ndengan baik;\nf. Donor adalah orang yang menyumbangkan alat dan atau jaringan\ntubuhnya kepada orang lain untuk keperluan kesehatan;\ng. Meninggal dunia adalah keadaan insani yang diyakini oleh ahli\nkedokteran yang berwenang bahwa fungsi otak, pernafasan, dan atau\ndenyut jantung seseorang telah berhenti;\nh. Ahli urai adalah dokter atau sarjana kedokteran yang diakui telah\nmemperoleh keahlian ilmu urai;\ni. Museum anatomis dan patologi adalah tempat menyimpan jaringan\ndan alat tubuh manusia yang sehat dan yang sakit yang diawetkan\nuntuk tujuan pendidikan ilmu kedokteran;\nj. Bank alat dan jaringan tubuh adalah suatu unit kedokteran yang\nbertugas untuk pengambilan, penyimpanan, dan pengawetan jaringan\ndan alat tubuh manusia untuk transplantasi dan penggantian\n(substitusi) dalam rangka pemulihan kesehatan.\n",
+                        "explanation": "\nCukup jelas.\n"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "e6f214b0-488a-401f-9d95-225ea20f9670",
+            "name": "Chapter II",
+            "title": "\nBEDAH MAYAT KLINIS",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "97d1dc32-5c5c-4634-b58e-aec945b76f84",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": {
+                        "id": "142dc86f-12ad-4674-8157-061e8c2c01b2",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nBedah mayat klinis hanya boleh dilakukan dalam keadaan sebagai berikut :\na. Dengan persetujuan tertulis penderita dan atau keluarganya yang\nterdekat setelah penderita meninggal dunia, apabila sebab\nkematiannya belum dapat ditentukan dengan pasti;\nb. Tanpa persetujuan penderita atau keluarganya yang terdekat, apabila\ndi duga penderita menderita penyakit yang dapat membahayakan\norang atau masyarakat sekitarnya;\nc. Tanpa persetujuan penderita atau keluarganya yang terdekat, apabila\ndalam jangka waktu 2 x 24 (dua kaii duapuluh empat) jam tidak ada\nkeluarga terdekat dari yang meninggal dunia datang ke rumah sakit.",
+                        "explanation": "\nHuruf a\nPersetujuan tertulis dapat berasal dari\n- Penderita sendiri, yang diberikan sebelum ia meninggal dunia tanpa sepengetahuan keluarganya yang terdekat dan keluarga yang terdekat ikut menyetujuinya pula;\n- Keluarganya yang terdekat dengan pertimbangan untuk kepentingm ilmu kedokteran, sehingga dapat diketahui sebab kematian penderita yang bersangkutan.\nYang dimaksud dengan keluarga terdekat ialah isteri, suami, ibu, bapak atau saudara seibu-sebapak (sekandung) dari penderita dan saudara ibu, saudara bapak serta anak yang telah dewasa dari penderita.\nHuruf b\nMeskipun tanpa persetujuan tertulis dari penderita atau keluarganya yang terdekat, berdasarkan pertimbangan untuk melindungi masyarakat dari penyakit yang diderita oleh penderita dan yang menyebabkan kematiannya, maka bedah mayat klinis dapat dilakukan.\nHuruf c\nApabila rumah sakit tempat penderita dirawat dan meninggal dunia setelah memberikan jangka waktu sampai 2 x 24 (dua kali duapuluh empat) jam tidak ada keluarganya yang terdekat datang ke Rumah Sakit maka bedah mayat klinis dapat dilakukan."
+                    }
+                },
+                {
+                    "id": "af3659fc-d360-4bbf-93e9-403b67f6a4de",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "ebf8d412-a35a-4028-a62a-f94a91988fd9",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nBedah mayat klinis hanya dilakukan di ruangan data rumah sakit yang\ndisediakan untuk keperluan itu.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "9a337ec1-f186-4cb3-8c14-c466c438c8cd",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "8f2a555b-f63e-4ada-abf2-f36d0c81b2ef",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPerawatan mayat sebelum, selama, dan sesudah bedah mayat klinis\ndilaksanakan sesuai dengan masing-masing agama dan kepercayaan kepada\nTuhan Yang Maha Esa, dan diatur oleh Menteri Kesehatan.",
+                        "explanation": "\nUntuk bedah mayat klinis pelaksanaan penyelenggaraan mayat agak berbeda sedikit\ndari penyelenggaraan mayat untuk bedah mayat anatomis karena pengambilan alat\ndan atau jaringan tubuh haruslah dikerjakan secepat-cepatnya sesudah penderita\nmeninggal dunia. Artinya pengambilan alat dan atau jaringan tubuh dapat dilakukan\nterlebih dahulu, sebelum penyelenggaraan mayat dilakukan seperti yang dilakukan\npada bedah mayat anatomis.\nUntuk hal tersebut akan diatur oleh Menteri Kesehatan agar supaya terjamin\npelaksanaannya."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "ba6c0af8-2f97-424e-9124-581b1d7c7e22",
+            "name": "Chapter III",
+            "title": "\nBEDAH MAYAT ANATOMIS",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "ab8d246b-4ad9-4387-aa4a-459a7c881935",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": {
+                        "id": "10957871-2863-48eb-8291-444f9e82a944",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nUntuk bedah mayat anatomis diperlukan mayat yang diperoleh dari rumah sakit dengan memperhatikan syarat-syarat sebagaimana dimaksud data Pasal 2 huruf a dan c.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "56efcf10-4cc1-4670-9c63-84ab1f4a4b80",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "af13db37-5014-4595-9e66-ef13e35b5c52",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nBedah mayat anatomis hanya dapat dilakukan data bangsal anatomi suatu fakultas kedokteran.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "791a4583-36ef-45a9-b466-a937621982b6",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": {
+                        "id": "c4b721b5-8a4a-4189-b117-74548a3fd60b",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nBedah mayat anatomis dilakukan oleh mahasiswa fakultas kedokteran dan sarjana kedokteran di bawah pimpinan dan tanggung jawab langsung seorang ahli urai.",
+                        "explanation": "\nCukup Jelas."
+                    }
+                },
+                {
+                    "id": "0a93b078-74f4-4006-badd-09496346c12c",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": {
+                        "id": "4947ad68-757c-4466-9110-50ef8eebb3ed",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPerawatan mayat sebelum, selama, dan sesudah bedah mayat anatomis dilaksanakan sesuai dengan masing-masing agama dan kepercayaan kepada Tuhan Yang Maha Esa, dan diatur oleh Menteri Kesehatan.",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "498aeac3-15c1-4677-9ac5-6a80ed717f0c",
+            "name": "Chapter IV",
+            "title": "\nMUSEUM ANATOMIS DAN PATOLOGI",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "486c929e-0f0c-4e2a-8267-fa480008b7d6",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": {
+                        "id": "3f086462-4ab5-420c-a1e3-3b4b0a3594d8",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nUntuk kepentingan pendidikan, penyelidikan penyakit, dan pengembangan\nilmu kedokteran diadakan museum anatomis dan patologi yang diatur oleh\nMenteri Kesehatan.",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "e4df68ed-0c0f-48d3-9b65-7494d3bd57c6",
+            "name": "Chapter V",
+            "title": "\nTRANSPLANTASI ALAT DAN ATAU JARINGAN TUBUH MANUSIA",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "dfa62577-2e48-4d49-900e-567097f1cb16",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f6fadb80-6a25-4d89-b106-f01f0a31e1e8",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Transplantasi alat dan atau jaringan tubuh manusia dilakukan dengan\nmemperhatikan ketentuan-ketentuan sebagaimana dimaksud dalam\nPasal 2 huruf a dan huruf b.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "82a896a4-da70-421d-af5e-9f8c846b0bf5",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Tatacara transplantasi alat dan atau jaringan tubuh manusia diatur\noleh Menteri Kesehatan.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "b33b5211-a8f8-41c7-a634-0059afc2e8ac",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "4719818b-ad59-4ef6-a8e1-89bdb5cb9488",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Transplantasi alat dan atau jaringan tubuh manusia hanya boleh\ndilakukan oleh dokter yang bekerja pada sebuah rumah sakit yang\nditunjuk oleh Menteri Kesehatan.",
+                            "explanation": "\nCukup jelas.\n"
+                        },
+                        {
+                            "id": "d4ce0ccd-95b9-47a1-9697-4d1e1124f6b9",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Transplantasi alat dan atau jaringan tubuh manusia tidak boleh\ndilakukan oleh dokter yang merawat atau mengobati donor yang\nbersangkutan.\n",
+                            "explanation": "\nCukup jelas.\n"
+                        }
+                    ]
+                },
+                {
+                    "id": "68815720-1097-410c-9a81-e9d792442b97",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": {
+                        "id": "908425f9-cd00-4ae7-b2d1-99ff5fd3333b",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam rangka transplantasi penentuan saat mati ditentukan oleh 2 (dua) orang dokter yang tidak ada sangkut-paut medik dengan dokter yang melakukan transplantasi.",
+                        "explanation": "\nPenentuan saat meninggal dunia seseorang di rumah sakit yang sudah modern tidak\nlagi dilakukan dengan cara lama yaitu seseorang dianggap meninggal dunia apabila\npernafasan dan peredaran darahnya sudah berhenti, akan tetapi dengan menggunakan\nalat yang disebut elektro-encepalograf (alat yang mencatat aktivitas otak). Meskipun\ndengan elektro-encepalograf menunjukan seseorang telah meninggal dunia, namun\nada alat dan atau jaringan tubuh yang masih hidup secara fisiologi dalam jangka\nwaktu tertentu, sehingga dapat dilakukan pengambilan dan pemindahan alat dan atau\njaringan tubuh untuk keperluan transplantasi Untuk menjamin penentuan saat\nmeninggal dunia seseorang secara obyektif, maka penentuan ini dilakukan oleh\ndokter lain, yang tidak melaksanakan transplantasi."
+                    }
+                },
+                {
+                    "id": "14730e7e-decd-4331-af50-b28030b35234",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": {
+                        "id": "3e953c16-9aa5-4743-969f-45dcf58ad8cb",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPersetujuan tertulis sebagaimana dimaksud dalam Pasal 2 huruf a, Pasal 14, dan Pasal 15 dibuat di atas kertas bermaterai dengan 2 (dua) orang saksi.",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "cea7a29f-2682-459f-b0e9-65c456e1cc70",
+            "name": "Chapter VI",
+            "title": "\nPENGAMBILAN ALAT DAN ATAU JARINGAN TUBUH MANUSIA KORBAN KECELAKAAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "f3bd349f-1f91-4c48-8207-333c52708d84",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": {
+                        "id": "3945a7da-c052-42c7-b4d1-0000cd26a7f4",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPengambilan alat dan atau jaringan tubuh manusia untuk keperluan transplantasi atau Bank Mata dari korban kecelakaan yang meninggal dunia, dilakukan dengan persetujuan tertulis keluarga yang terdekat.",
+                        "explanation": "\nKorban kecelakaan ada kalanya dalam keadaan gawat dan tidak sadar. Apabila\nkorban tersebut menderita luka berat hingga tidak mungkin ia diajak berbicara untuk\nmengizinkan pengambilan alat atau jaringan tubuhnya apabila ia sudah meninggal\ndunia maka izin pengambilan hanya dilakukan dengan persetujuan keluarga terdekat,\nyaitu isteri/suami/ibu/bapak atau saudara seibu-sebapak dan saudara ibu dan bapak\ndan anak yang telah dewasa.\nSebelum Pengambilan alat dan atau jaringan tubuhnya dilakukan maka dalam jangka\nwaktu 2 x 24 (dua kali duapuluh empat) jam sejak ia meninggal dunia keluarganya\nyang terdekat harus diberitahu. Apabila dalam jangka waktu tersebut tidak ada\nkeluarga yang datang mengambil atau mengurus jenazah maka barulah pengambilan\nalat dan atau jaringan tubuhnya boleh dilakukan."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "9853b7fe-482b-4ad6-a4c2-f7b12ad0862b",
+            "name": "Chapter VII",
+            "title": "\nDONOR",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "17848ab2-2122-4a2d-8e96-89c65833697a",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "d90793c3-dec2-496f-a8a8-7bd3cd28a4f0",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Sebelum persetujuan tentang transplantasi alat dan atau jaringan tubuh manusia diberikan oleh calon donor hidup, calon donor yang bersangkutan terlebih dahulu diberitahu oleh dokter yang merawatnya, termasuk dokter konsultan mengenai sifat operasi, akibat-akibatnya, dan kemungkinan-kemungkinan yang dapat terjadi.\n\n(2) Dokter sebagaimana dimaksud dalam ayat (1) harus yakin benar,\nbahwa calon donor yang bersangkutan telah menyadari sepenuhnya\narti dari pemberitahuan tersebut.",
+                            "explanation": "\nCukup jelas.\n"
+                        }
+                    ]
+                },
+                {
+                    "id": "c4533ce5-9374-440e-8333-fcb82a9ff852",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": {
+                        "id": "61e5a211-859e-4aaf-8f64-3aba36a093e4",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDonor atau keluarga donor yang meninggal dunia tidak berhak atas sesuatu\nkompensasi material apapun sebagai imbalan transplantasi.",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "ea3b357d-d989-4e66-b093-8862f20e67d5",
+            "name": "Chapter VIII",
+            "title": "\nPERBUATAN YANG DILARANG",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "57072cce-8a86-4114-ba70-3d3164687e59",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": {
+                        "id": "68ccf62f-8bf2-4140-b8b8-0662ef0bc83e",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDilarang memperjual belikan alat dan atau jaringan tubuh manusia.",
+                        "explanation": "\nAlat dan atau jaringan tubuh manusia sebab anugerah Tuhan Yang Maha Esa kepada setiap insan tidaklah sepantasnya dijadikan obyek untuk mencari keuntungan.\nPasal 18 dan Pasal 19\nPengiriman alat dan atau jaringan tubuh manusia ke dan dari luar negeri haruslah dibatasi dalam rangka penelitian ilmiah, kerjasama dan saling menolong dalam keadaan tertentu."
+                    }
+                },
+                {
+                    "id": "3e9dc0d5-f98a-4d2f-85c3-dfff2684505f",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": {
+                        "id": "c6e264c4-4b9b-4e8f-89d5-8cafe99655c3",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDilarang mengirim dan menerima alat dan atau jaringan tubuh manusia\ndalam semua bentuk ke dan dari luar negeri.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "e6bbe835-fe55-4f11-8003-73eb7a9bcbab",
+                    "name": "Article 19",
+                    "type": "article",
+                    "children": {
+                        "id": "6770f441-5f57-4def-a0f2-6d234ba9e76a",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nLarangan sebagaimana dimaksud dalam Pasal 17 dan Pasal 18 tidak\nberlaku untuk keperluan penelitian ilmiah dan keperluan lain yang\nditetapkan oleh Menteri Kesehatan.\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "722251a5-bb04-484e-8a1f-2694bcbb9a3e",
+            "name": "Chapter IX",
+            "title": "\nKETENTUAN PIDANA",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "cef92076-73f8-46fd-a97d-082ee936a3ad",
+                    "name": "Article 20",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "72decb97-011c-472c-95cc-b88653c2ed1e",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pelanggaran atas ketentuan dalam Bab II, Bab III, Bab V, Bab VI, Bab VII, dan Bab VIII, diancam dengan pidana kurungan selama-lamanya 3 (tiga) bulan atau denda setinggi-tingginya Rp. 7.500,- (tujuh ribu lima ratus rupiah).",
+                            "explanation": "\nAncaman pidana tersebut ditetapkan berdasarkan ketentuan Staatsblad Tahun 1927 Nomor 346 yang menetapkan bahwa kecuali apabila dengan ordonnantie ditetapkan lain, maka dalam \"peraturan pelaksanaan\" dapat ditetapkan sebagai hukuman kurungan terhadap pelanggar peraturan selama-lamanya 3 (tiga) bulan atau denda sebanyak-banyaknya Rp. 7.500,- (tujuhribu limaratus rupiah) dengan disertai perampasan barang tertentu ataupun tidak, bagi pelanggar ketentuan dalam Bab II, Bab III, Bab V, Bab VI, Bab VII, dan Bab VIII Peraturan Pemerintah ini."
+                        },
+                        {
+                            "id": "7dd95447-4b0c-4957-8e32-0bee9a40d6cf",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Disamping ancaman pidana sebagaimana dimaksud dalam ayat (1) dapat pula diambil tindakan administratif.",
+                            "explanation": "\nAncaman pidana tersebut ditetapkan berdasarkan ketentuan Staatsblad Tahun 1927 Nomor 346 yang menetapkan bahwa kecuali apabila dengan ordonnantie ditetapkan lain, maka dalam \"peraturan pelaksanaan\" dapat ditetapkan sebagai hukuman kurungan terhadap pelanggar peraturan selama-lamanya 3 (tiga) bulan atau denda sebanyak-banyaknya Rp. 7.500,- (tujuhribu limaratus rupiah) dengan disertai perampasan barang tertentu ataupun tidak, bagi pelanggar ketentuan dalam Bab II, Bab III, Bab V, Bab VI, Bab VII, dan Bab VIII Peraturan Pemerintah ini."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "739c09ba-ad1e-49ab-a831-65601e4b706c",
+            "name": "Chapter X",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "c5f61000-e552-4b74-b6ee-154ffcaa0e3e",
+                    "name": "Article 21",
+                    "type": "article",
+                    "children": {
+                        "id": "461259b6-feb5-4cd6-8cd1-c206e9870e75",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.",
+                        "explanation": "\nCukup jelas.\n"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nA.       BEDAH MAYAT KLINIS\nIlmu kedokteran selalu berkembang berkat ketekunan ahli-ahli yang sudah dapat\nmenyusun penyakit-penyakit dalam bentuk gejala, perubahan-perubahan yang terjadi\nakibat penyakit serta pengobatannya baik secara anatomi fisiologi dan biokimia.\nNamun selalu terdapat di dalam rumah sakit, penyakit-penyakit yang belum jelas\nsebab musababnya dan perubahan yang terjadi, umpamanya seorang menderita\npenyakit demam yang mungkin gejalanya menyerupai tifus abdominalis namun pada\nwaktu pengobatan dia tidak memberikan reaksi sebagaimana diharapkan, sampai ia\nmeninggal dunia, maka bedah mayat klinislah yang akan memberikan jawaban\nterhadap rahasia ini.\nBedah mayat klinis diperlukan untuk mengembangkan ilmu pengetahuan klinis dan\nilmu pengobatan.\nUntuk itu diperlukan mayat penderita yang meninggal dunia di rumah sakit yang\npembedahannya memerlukan kesediaan atau izin dari penderita atau keluarganya.\nBedah mayat klinis juga memerlukan Peraturan Pemerintah yang menjamin\nperlakuan dan penghormatan terhadap jenazah, demikian pula terhadap pengambilan\nsebagian alat tubuh yang memperlihatkan kelainan seperti kanker, dan lain-lain, yang\nakan disimpan dalam suatu museum, sebagai alat peraga baik untuk mahasiswa\nmaupun penelitian di bidang ilmu kedokteran.\n\nB. BEDAH MAYAT ANATOMIS\nMahasiswa fakultas kedokteran untuk menjadi dokter harus diberi pelajaran ilmu\nurai baik secara makroskopis, yang disebut ilmu urai tubuh (anatomis) maupun\nsecara mikroskopis yang disebut ilmu jaringan tubuh (histologi). Ilmu urai tubuh\nmemberikan kepada mahasiswa ilmu pengetahuan tentang alat tubuh serta letaknya\ndi dalam tubuh, seperti otot, tulang belulang, hati, jantung dan lain-lainnya,\nsedangkan ilmu urai jaringan tubuh memberikan pengetahuan kepada mahasiswa\ntentang susunan sel-sel, berbagai alat tubuh (organ).\nTanpa pelajaran ilmu anatomis dan histologi tidaklah mungkin seorang dokter\nmengetahui tentang susunan tubuh manusia yang sehat, walaupun ada alat-alat\nperaga tubuh manusia yang dibuat dari bahan tiruan. Namun hal ini tidak\nmemberikan kesan yang sebenarnya.\nSemua agama dan kepercayaan kepada Tuhan Yang Maha Esa pada dasarnya tidak\nmelarang pemakaian mayat seseorang, dengan ketentuan bahwa mayat tersebut\ndiperlakukan sesuai menurut masing-masing agama dan kepercayaan kepada Tuhan\nYang Maha Esa.\nOleh karena itu diperlukan suatu Peraturan Pemerintah yang menjamin perlakuan\nyang baik dan terhormat terhadap mayat sejak manusia meninggal dunia sampai ia\ndikuburkan atau diselesaikan dengan cara sebagaimana yang ditentukan oleh agama\natau kepercayaan kepada Tuhan Yang Maha Esa yang dianut oleh mayat tersebut.\nC. TRANSPLANTASI ALAT DAN ATAU JARINGAN TUBUH MANUSIA\nTransplantasi alat dan atau jaringan tubuh manusia ialah pemindahan alat dan atau\njaringan tubuh yang masih mempunyai daya hidup dan sehat untuk menggantikan alat\ndan atau jaringan tubuh yang tidak berfungsi dengan baik. Kita mengenal berbagai\nmacam transplantasi seperti transplantasi kulit akibat kebakaran yang berasal dari\ntubuh penderita sendiri yang disebut \"autotransplantasi\", transplantasi kornea, yaitu\n\npemindahan selaput bening mata yang merupakan bagian dari permukaan bola mata\nkepada seorang buta akibat kerusakan kornea (karena luka bakar, kemasukan benda\nhalus) dan trakoma transplantasi ginjal, jantung, dan lain-lain. Pada umumnya\ntransplantasi alat tubuh diambil dari orang yang baru meninggal dunia dan\ntransplantasi itu harus dilakukan tidak lama sesudah penderita meninggal dunia.\nSebab kalau sudah lama meninggal dunia maka alat dan atau jaringan tubuh ikut mati\ndan tidak dapat dipergunakan lagi.\nTransplantasi ginjal dapat juga dilakukan dengan ginjal yang diambil dari tubuh\nmanusia yang masih hidup. Semua agama dan kepercayaan kepada Tuhan Yang\nMaha Esa pada dasarnya tidak melarang transplantasi ini, asal penentuan saat mati\ndan penyelenggaraan jenazah terjamin, sehingga tidak terjadi penyalahgunaan\nDengan transplantasi, ilmu kedokteran membuka bahwa manusia yang meninggal\nduniapun masih dapat berbuat amal saleh terhadap saudara-saudaranya yang sedang\nmenderita penyakit. Jelaslah bahwa transplantasi berfungsi sebagai usaha\npengobatan.\nAdanya Peraturan Pemerintah ini diperlukan untuk menjamin bahwa pengambilan\nalat dan atau jaringan tubuh manusia yang akan dipindah- kan, betul-betul untuk\nmaksud pengobatan untuk menolong penderita. Peraturan Pemerintah ini diperlukan\njuga untuk memberikan perlindungan hukum kepada pelaksana bedah mayat\nanatomis, bedah mayat klinis dan pelaksana transplantasi.",
+        "Nomor": "18",
+        "Tahun": "1981",
+        "Tentang": "BEDAH MAYAT KLINIS DAN BEDAH MAYAT ANATOMIS SERTA\nTRANSPLANTASI ALAT ATAU JARINGAN TUBUH MANUSIA",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa dalam pengembangan usaha kesehatan untuk meningkatkan\npelayanan kesehatan kepada masyarakat, perlu adanya pelbagai upaya\nagar usaha tersebut di atas diselenggarakan dengan baik, antara lain\ndengan kegiatan melakukan bedah mayat klinis dan bedah mayat\nanatomis serta transplantasi alat dan atau jaringan tubuh manusia yang\nbertujuan untuk keselamatan umat manusia maupun meningkatkan ilmu\nkesehatan dan kedokteran pada umumnya;",
+            "b": " bahwa untuk melaksanakan maksud tersebut pada huruf a di atas, perlu\ndiadakan ketentuan-ketentuan tentang bedah mayat klinis dan bedah\nmayat anatomis serta transplantasi alat dan atau jaringan tubuh manusia\ndengan Peraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 9 Tahun 1960 tentang Pokok-pokok Kesehatan\n(Lembaran Negara Tahun 1960 Nomor 131, Tambahan Lembaran\nNegara Nomor 2068);",
+            "3": " Undang-undang Nomor 22 Tahun 1961 tentang Perguruan Tinggi\n(Lembaran Negara Tahun 1961 Nomor 302, Tambahan Lembaran\nNegara Nomor 2361);",
+            "4": " Undang-undang Nomor 6 Tahun 1962 tentang Wabah (Lembaran\nNegara Tahun 1962 Nomor 12, Tambahan Lembaran Negara Nomor\n2390) jo Undang-undang Nomor 7 Tahun 1968 tentang Perubahan\nPasal 3 Undang-undang Nomor 6 Tahun 1962 (Lembaran Negara Tahun\n1968 Nomor 38, Tambahan Lembaran Negara Nomor 2863);",
+            "5": " Undang-undang Nomor 6 Tahun 1963 tentang Tenaga Kesehatan\n(Lembaran Negara Tahun 1963 Nomor 79, Tambahan Lembaran\nNegara Nomor 2576);",
+            "6": " Staatsblad Tahun 1927 Nomor 346;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG BEDAH MAYAT KLINIS\nDAN BEDAH MAYAT ANATOMIS SERTA TRANSPLANTASI ALAT\nDAN ATAU JARINGAN TUBUH MANUSIA.",
+        "tanggal sah": "16 Juni 1981"
+    }
+}

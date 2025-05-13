@@ -1,0 +1,59 @@
+{
+    "results": [
+        {
+            "id": "8552f6ba-1eb2-42a0-925e-7ca8699db6ef",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "23aa385d-3a51-476d-93d4-588fdac6d872",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Mencabut Peraturan Pemerintah Nomor 33 Tahun 1985 tentang\nPokok-pokok Organisasi Institut Agama Islam Negeri.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "33cd8d71-bdc2-4bdd-beb9-510b589002cc",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "83ae4b3d-510a-4ff0-90c8-daa7ae4d1db9",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Dengan dicabutnya Peraturan Pemerintah Nomor 33 Tahun 1985\ntentang Pokok-pokok Organisasi Institut Agama Islam Negeri, maka\npengaturan lebih lanjut mengenai susunan organisasi, rincian tugas,\nfungsi dan tata kerja Institut Agama Islam Negeri sesuai dengan\nketentuan Pasal 97 ayat (1) Peraturan Pemerintah Nomor 30 Tahun\n1990 tentang Pendidikan Tinggi untuk selanjutnya ditetapkan oleh\nMenteri Agama.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "166b0260-f579-4dee-a52a-765a98ffb134",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "ecd2c38a-aa08-4853-8c3d-afdfa9650f40",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada, tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "13",
+        "Tahun": "1991",
+        "Tentang": "PENCABUTAN PERATURAN PEMERINTAH NOMOR 33 TAHUN 1985 TENTANG\nPOKOK-POKOK ORGANISASI INSTITUT AGAMA ISLAM NEGERI",
+        "Menimbang": {
+            "Introduction": "\nbahwa dalam rangka pelaksanaan otonomi pengelolaan perguruan\ntinggi sebagaimana ditetapkan dalam Peraturan Pemerintah Nomor 30\nTahun 1990 tentang Pendidikan Tinggi, dipandang perlu mencabut\nPeraturan Pemerintah Nomor 33 Tahun 1985 tentang Pokok-pokok\nOrganisasi Institut Agama Islam Negeri;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 2 Tahun 1989 tentang Sistem Pendidikan\nNasional (Lembaran Negara Tahun 1989 Nomor 6, Tambahan\nLembaran Negara Nomor 3390);",
+            "3": " Peraturan Pemerintah Nomor 30 Tahun 1990 tentang Pendidikan\nTinggi (Lembaran Negara Tahun 1990 Nomor 38, Tambahan\nLembaran Negara Nomor 3414);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG PENCABUTAN\nPERATURAN PEMERINTAH NOMOR 33 TAHUN 1985 TENTANG\nPOKOK-POKOK ORGANISASI INSTITUT AGAMA ISLAM NEGERI.",
+        "tanggal sah": ""
+    }
+}

@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "4ea29347-e33e-451e-8d0f-0e67a976c75f",
+            "id": "155f25ec-56a5-4e4c-9ba2-6bfcbff6dba7",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "fdeff7ed-9900-4b4b-8f70-460cdf8a8e13",
+                "id": "4586e89a-b40c-446e-aaa1-257aa2970809",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "34d5a276-a9fb-406d-891a-f095082dde5a",
+            "id": "07b65e0b-17d2-4464-8ea3-6678928a5d94",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "4a9c274c-aefa-4df9-81dd-bcdd1c9fc1b6",
+                "id": "8d7076e1-4766-4148-a612-6417bef38997",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "ebe32e35-340f-46e6-9444-af232229b03e",
+            "id": "bd4876ef-a732-4159-8c01-d44c199f7e98",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "95657f14-4197-45cb-b08c-65399c427f17",
+                "id": "999585a5-3832-4e39-96e6-ee5b06e0ef6f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "9bf3dd61-d925-44df-bb7b-22c1dfdc38d2",
+            "id": "d984c64c-d0d7-4781-ad96-82c6d88ea649",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "32bee4a1-4a56-4fc2-ac74-ca65c54750bd",
+                "id": "3039df8e-44f2-48ab-a30f-4d1a91edda0f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -56,16 +56,22 @@
     "metadata": {
         "Nomor": "12",
         "Tahun": "1982",
-        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL PERUSAHAAN UMUM LISTRIK NEGARA",
+        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL PERUSAHAAN UMUM LISTRIK NEGARA\nPresiden Republik Indonesia,",
         "Menimbang": {
             "Introduction": "",
             "a": " bahwa sesuai dengan Peraturan Pemerintah Nomor 36 Tahun\n1979 tentang Pengusahaan Kelistrikan, maka dipandang perlu\nmengalihkan sebagian kekayaan negara pada Perusahaan\nPerseroan (PERSERO) PT. Tambang Timah berupa jaringan\nlistrik beserta peralatannya di Kota Tanjung Pandan, Belitung\nkepada Perusahaan Umum Listrik Negara;",
             "b": " bahwa pemisahan kekayaan negara pada Perusahaan Perseroan\n(PERSERO) PT. Tambang Timah sebagaimana dimaksud pada\nhuruf a untuk dijadikan tambahan penyertaan Modal Negara\nRepublik Indonesia ke dalam Perusahaan Umum listrik Negara\nperlu ditetapkan dengan suatu Peraturan Pemerintah;"
         },
         "Mengingat": {
-            "Introduction": "\nNot Available"
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 19 Prp Tahun 1960 tentang Perusahaan\nNegara (Lembaran Negara Tahun 1960 Nomor 59, Tambahan\nlembaran Negara Nomor 1989);",
+            "3": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan\nPeraturan Pemerintah Pengganti Undang-undang Nomor 1 Tahun\n1969 (Lembaran Negara Tahun 1969 Nomor 16, Tambahan\nLembaran Negara Nomor 2890) tentang Bentuk-bentuk Usaha\nNegara menjadi Undang-undang (Lembaran Negara Tahun 1969\nNomor 40, Tambahan Lembaran Negara Nomor 2904);",
+            "4": " Peraturan Pemerintah Nomor 18 Tahun 1972 tentang Perusahaan\nUmum Listrik Negara (Lembaran Negara Tahun 1972 Nomor 25,\nTambahan Lembaran Negara Nomor 2983) jo Peraturan\nPemerintah Nomor 54 Tahun 1981 tentang Perubahan atas\nPeraturan Pemerintah Nomor 18 Tahun 1972 tentang Perusahaan\nUmum listrik Negara (Lembaran Negara Tahun 1981 Nomor 74,\nTambahan Lembaran Negara Nomor 3207);",
+            "5": " Peraturan Pemerintah Nomor 3 Tahun 1976 tentang Pengalihan\nBentuk Perusahaan Negara Tambang Timah menjadi Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1976 Nomor\n6);",
+            "6": " Peraturan Pemerintah Nomor 36 Tahun 1979 tentang\nPengusahaan Kelistrikan (Lembaran Negara Tahun 1979 Nomor\n58, Tambahan Lembaran Negara Nomor 3154);"
         },
-        "Menetapkan": "\nNot Available",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL PERUSAHAAN UMUM LISTRIK NEGARA.",
         "tanggal sah": "1 Mei 1982"
     }
 }

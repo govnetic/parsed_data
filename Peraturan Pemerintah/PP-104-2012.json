@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "0174c92b-a661-478b-a629-d93b0b945589",
+            "id": "b5c871a6-894b-4935-8222-c0f8fdc72852",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "948c10b0-4a84-4aed-b637-1bb485f1167f",
+                "id": "8a7b0f84-b340-4982-89fb-5e294bed60f7",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "dcb8dc37-3efe-4fbd-849a-202d7cb6a7ed",
+            "id": "30c206ec-7391-473d-bb9b-80461d86166e",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "f253b347-b97a-4476-81cf-c47a8d735388",
+                "id": "6759f3bb-df33-482f-84ab-f75d7d485288",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,15 +27,15 @@
             }
         },
         {
-            "id": "840291db-7941-4db4-9e0e-9cec5ee78cf4",
+            "id": "26dcf9d4-efad-4d2f-b341-c1c5ec09f952",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "16831f34-9e38-4f31-a3bc-4baae078818a",
+                "id": "74d26ff5-6584-4021-bb2a-e9eac9afdcf2",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan\nPeraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -50,7 +50,7 @@
             "b": " bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan untuk melaksanakan ketentuan Pasal\n4 ayat (4) Undang-Undang Nomor 19 Tahun 2003 tentang\nBadan Usaha Milik Negara, perlu menetapkan Peraturan\nPemerintah tentang Penambahan Penyertaan Modal\nNegara Republik Indonesia Ke Dalam Modal Saham\nPerusahaan Perseroan (Persero) PT Sarana Multi\nInfrastruktur;"
         },
         "Mengingat": {
-            "Introduction": "",
+            "Introduction": "\n. . .\nMengingat ",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
             "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik Indonesia\nTahun 2003 Nomor 70, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4297);",
             "3": " Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);",

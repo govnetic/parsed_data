@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "29651c5d-8816-4d40-9301-c61d0d4856f9",
+            "id": "97c242d6-94f6-49c9-866a-530107981bee",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "541baaed-9b6a-46cd-96c4-9a743ebc7ad7",
+                "id": "06d205bb-caeb-4e67-943f-313cba63ffcf",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "169c0571-7ee4-4301-91d2-c193dff79ddc",
+            "id": "4719a57a-6f0d-47ba-95e9-16f35f2c13da",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "748dc4b9-b2cf-422c-84b9-89f3633265c7",
+                "id": "1b558e43-d250-402c-be61-05a5e84006da",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,15 +27,15 @@
             }
         },
         {
-            "id": "67e45052-6531-46e5-a53b-2d859ceded29",
+            "id": "045e6a09-740f-444f-9b57-1b988782a2d5",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "8dd5a9ba-7c8a-4cc8-aad6-04fb60dba805",
+                "id": "22fcc957-c06e-4c83-bbaa-d326e0969437",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -50,14 +50,14 @@
             "b": " bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a dan untuk melaksanakan\nketentuan Pasal 4 ayat (4) Undang-Undang Nomor 19\nTahun 2003 tentang Badan Usaha Milik Negara"
         },
         "Mengingat": {
-            "Introduction": "",
-            "1": "  Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
-            "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 70, Tambahan\nLembaran Negara Republik Indonesia Nomor 4297)\nsebagaimana telah diubah dengan Undang-Undang\nNomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran\nNegara Republik Indonesia Tahun 2020 Nomor 245,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6573);",
-            "3": " Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);",
-            "4": " Undang-Undang Nomor 9 Tahun 2020 tentang\nAnggaran Pendapatan dan Belanja Negara Tahun\nAnggaran 2021 (Lembaran Negara Republik Indonesia\nTahun 2020 Nomor 239, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 6570);",
-            "5": " Peraturan Pemerintah Nomor 44 Tahun 2005 tentang\nTata Cara Penyertaan dan Penatausahaan Modal\nNegara pada Badan Usaha Milik Negara dan Perseroan\nTerbatas (Lembaran Negara Republik Indonesia Tahun\n2005 Nomor 116, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4555) sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 72 Tahun\n2016 tentang Perubahan Atas Peraturan Pemerintah\nNomor 44 Tahun 2005 tentang Tata Cara Penyertaan\ndan Penatausahaan Modal Negara pada Badan Usaha\nsebagaimana telah diubah dengan Undang-Undang\nNomor 11 Tahun 2020 tentang Cipta Kerja, perlu\nmenetapkan Peraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nIndonesia ke dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Perusahaan Listrik Negara;\n2021, No.227"
+            "Introduction": "\nsebagaimana telah diubah dengan Undang-Undang\nNomor 11 Tahun 2020 tentang Cipta Kerja, perlu\nmenetapkan Peraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nIndonesia ke dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Perusahaan Listrik Negara;",
+            "1": "  Pasal 5 ayat (2) Undang-Undang Dasar Negara\n    Republik Indonesia Tahun 1945;",
+            "2": "  Undang-Undang Nomor 19 Tahun 2003 tentang Badan\n    Usaha Milik Negara (Lembaran Negara Republik\n    Indonesia Tahun 2003 Nomor 70, Tambahan\n    Lembaran Negara Republik Indonesia Nomor 4297)\n    sebagaimana telah diubah dengan Undang-Undang\n    Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran\n    Negara Republik Indonesia Tahun 2020 Nomor 245,\n    Tambahan Lembaran Negara Republik Indonesia\n    Nomor 6573);",
+            "3": "  Undang-Undang Nomor 1 Tahun 2004 tentang\n    Perbendaharaan Negara (Lembaran Negara Republik\n    Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran\n    Negara Republik Indonesia Nomor 4355);",
+            "4": "  Undang-Undang Nomor 9 Tahun 2020 tentang\n    Anggaran Pendapatan dan Belanja Negara Tahun\n    Anggaran 2021 (Lembaran Negara Republik Indonesia\n    Tahun 2020 Nomor 239, Tambahan Lembaran Negara\n    Republik Indonesia Nomor 6570);",
+            "5": "  Peraturan Pemerintah Nomor 44 Tahun 2005 tentang\n    Tata Cara Penyertaan dan Penatausahaan Modal\n    Negara pada Badan Usaha Milik Negara dan Perseroan\n    Terbatas (Lembaran Negara Republik Indonesia Tahun\n    2005 Nomor 116, Tambahan Lembaran Negara\n    Republik Indonesia Nomor 4555) sebagaimana telah\n    diubah dengan Peraturan Pemerintah Nomor 72 Tahun\n    2016 tentang Perubahan Atas Peraturan Pemerintah\n    Nomor 44 Tahun 2005 tentang Tata Cara Penyertaan\n    dan Penatausahaan Modal Negara pada Badan Usaha\n2021, No.227\nMilik Negara dan Perseroan Terbatas (Lembaran\nNegara Republik Indonesia Tahun 2016 Nomor 325,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6006);"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nIndonesia ke dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Perusahaan Listrik Negara;\n2021, No.227\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT PERUSAHAAN LISTRIK NEGARA.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nIndonesia ke dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Perusahaan Listrik Negara;\n1.  Pasal 5 ayat (2) Undang-Undang Dasar Negara\n    Republik Indonesia Tahun 1945;\n2.  Undang-Undang Nomor 19 Tahun 2003 tentang Badan\n    Usaha Milik Negara (Lembaran Negara Republik\n    Indonesia Tahun 2003 Nomor 70, Tambahan\n    Lembaran Negara Republik Indonesia Nomor 4297)\n    sebagaimana telah diubah dengan Undang-Undang\n    Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran\n    Negara Republik Indonesia Tahun 2020 Nomor 245,\n    Tambahan Lembaran Negara Republik Indonesia\n    Nomor 6573);\n3.  Undang-Undang Nomor 1 Tahun 2004 tentang\n    Perbendaharaan Negara (Lembaran Negara Republik\n    Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran\n    Negara Republik Indonesia Nomor 4355);\n4.  Undang-Undang Nomor 9 Tahun 2020 tentang\n    Anggaran Pendapatan dan Belanja Negara Tahun\n    Anggaran 2021 (Lembaran Negara Republik Indonesia\n    Tahun 2020 Nomor 239, Tambahan Lembaran Negara\n    Republik Indonesia Nomor 6570);\n5.  Peraturan Pemerintah Nomor 44 Tahun 2005 tentang\n    Tata Cara Penyertaan dan Penatausahaan Modal\n    Negara pada Badan Usaha Milik Negara dan Perseroan\n    Terbatas (Lembaran Negara Republik Indonesia Tahun\n    2005 Nomor 116, Tambahan Lembaran Negara\n    Republik Indonesia Nomor 4555) sebagaimana telah\n    diubah dengan Peraturan Pemerintah Nomor 72 Tahun\n    2016 tentang Perubahan Atas Peraturan Pemerintah\n    Nomor 44 Tahun 2005 tentang Tata Cara Penyertaan\n    dan Penatausahaan Modal Negara pada Badan Usaha\n2021, No.227\nMilik Negara dan Perseroan Terbatas (Lembaran\nNegara Republik Indonesia Tahun 2016 Nomor 325,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6006);\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT PERUSAHAAN LISTRIK NEGARA.",
         "tanggal sah": "6 Oktober 2021"
     }
 }

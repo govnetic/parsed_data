@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "id": "7c228ec0-8677-4a61-9e1c-5ce45372700c",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "7bae5f96-2cf6-4839-ac2c-4ce35b9d6e5c",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Perusahaan-perusahaan listrik dan/atau gas milik Belanda yang ada\ndi wilayah Republik Indonesia, sebagaimana terperinci dalam pasal\n2 di bawah ini, dikenakan nasionalisasi dan dinyatakan menjadi\nperusahaan-perusahaan dari Perusahaan Listrik Negara (P. L. N.).",
+                "explanation": "\nDisini dicantumkan istilah \"Perusahaan-perusahaan Listrik\ndan/atau Gas\" karena kita menjumpai baik \"Perusahaan Listrik\" atau\n\"Perusahaan Gas\" saja maupun \"Perusahaan Listrik dan Gas\",\nsehingga untuk mendapatkan istilah yang tepat digunakan disini"
+            }
+        },
+        {
+            "id": "905d2072-9e0e-44d3-a361-df73ab97a56c",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "6db40bf0-0d8a-4bdd-b497-61f243434f13",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Perusahaan-perusahaan listrik dan/atau Gas termaksud dalam pasal 1\nadalah:\n1. Perusahaan N.V. Maintz & Co. di Jakarta yang menyelenggarakan\nDireksi dari pada perusahaan-perusahaan listrik:\n    a. \"Aniem\"\" N.V. c.a.;\n    b. N.V. \"Gebeo\";\n    c. N.V. \"W.Ε.Μ.1.\" (Waterkracht Exploitaite Maatschappij\n       in Indonesie);\n    d. N.V. Cultur Maatschappij \"Cibening\";\n    e. N.V. \"Β.Μ.Ι.\" (Bouw Maatschappij \"Insulinde\");\n    f. N.V. \"Μ.Ε.W.A.I.\" (Maatschappij tot Exploitatie van\n       Waterleiding Bedrijven in Indonesie);\n2. Perusahaan Listrik \"Aniem\" N.V. c.a Kantor Pusat di Suraba-\n   ya dengan perusahaan-perusahaannya di Indonesia;\n3. Perusahaan Listrik \"Gebeo\" N.V. Kantor Pusat di Bandung,\n   dengan perusahaan-perusahaannya di Jawa Barat;\n4. N.V. waterkracht Exploitatie Maatschappij (W.E.M.I.) di\n   Surabaya;\n5. N.V. Bouw Maatschappij \"Insulinde\" (B.M.I.) di Surabaya;\n6. N.V. Maatschappij tot Exploitatie van Waterleiding-bedrijven\n   in Indonesie (M.E.W.A.I.) di Surabaya, dengan perusahaan air\n   minum di Kediri;\n7. N.V. Overzeese Gas en Electriciteit Maatschappij, Kantor\n   Pusat di Jakarta dengan perusahaan-perusahaannya di\n   Indonesia;\n8. N.V. Electriciteit Maatschappij \"Balikpapan\". (Ε.Μ.Β.Ρ.),\n   dengan perusahaannya di Bagan Siapiapi;\n9. N.V. Samarinda-Tenggarongsche Electricteit Maatschappij\n   (Stem) dengan perusahaannya di Samarinda.",
+                "explanation": "\nA. Dengan perusahaan N.V. Maintz & Co. di Jakarta dan Surabaya dimaksudkan disini N.V. Maintz & Co. yang sebelum pengambilan-alih telah menyelenggarakan Direksi dari perusahaan-perusahaan: Surabaya;\nb. N.V. \"Gebeo\" di Bandung;\nc. N.V. \"W.Ε.Μ.1.\" (Waterkracht Exploitatie Mij. in Indonesie) di Surabaya.\nd. N.V. Cultuur Maatschappij \"Cibening\" di Jakarta;ij \"Insulinde\") di Jakarta;\nf. N.V. \"Μ.Ε.W.A.1.\" (Maatschappij tot Exploitatie van Waterleidingbedrijven in Indonesie) di Surabaya.\nB. Yang dimaksudkan dengan perusahaan Α.Ν.Ι.Ε.Μ. N.V. c.a di Surabaya ialah :\n1. N.V. \"Α.Ν.Ι.E.M.\" di Surabaya dengan perusahaan-perusahaannya di :\na. Banjarmasin;\nb. Pontianak;\nc. Singkawang;\nd. Banyumas yang disebut \"Stroomleveringsbedrijf Banyumas\" disingkat dengan S.B.B.;\n2. N.V. \"Oost Java\" Electriciteits Mij. (O.J.E.Ni.) di Surabaya dnegan perusahaan-perusahaannya di :\na. Lumajang;\nb. Tuban;\nc. Situbondo;\n3. N.V. \"Solosche\" Electriciteits Mij. (S.E.M.) di Surabaya dengan perusahaan-perusahaannya di\na. Solo;\nb. Klaten;\nc. Sragen;\n4. N.V. Electriciteits Mij. \"Banyumas\" (E.M.B.) di Surabaya dengan perusahaan-perusahannya di:\na. Purwokerto;\nb. Banyumas;\nc. Purbolinggo;\nd. Sukaraja;\ne. Cilacap;\nf. Gombong;\ng. Kebumen;\nh. Wonosobo;\ni. Maos;\nj. Kroya;\nk. Sumpyuh;\nl. Banjarnegara.\n5. N.V. Electriciteits Mij. \"Rembang\" (E.M.R.) di Surabaya dengan perusahaan-perusahaannya di :\na. Blora;\nb. Cepu;\nc. Rembang;\nd. Lasem;\ne. Bojonegoro;\n6. N.V. Electriciteits Mij. \"Sumatra\" (E.M.S.) di Surabaya\ndengan perusahaan-perusahaannya di :\na. Bukittinggi;\nb. Payakumbuh;\nc. Padang Panjang;\nd. Sibolga;\n7. N.V. Electiciteits Mij. \"Bali & Lombok\" (E.B.A.L.O.M.) di\nSurabaya dengan perusahaan-perusahaannya di :\na. Singaraja;\nb. Denpasar;\nc. Ampenan;\nd. Gorontalo;\ne. Ternate;\nf. Gianyar;\ng. Tabanan;\nh. Klungkung.\nC. Perusahaan Listrik N.V. \"Gebeo\" di Bandung dengan\nperusahaan-perusahaannya diseluruh Daerah Swatantra I Jawa Barat;\nD. Yang dimaksudkan N.V. \"Overzeesche Gasen Electriciteits\nMij.\" (O.G.E.M.) dengan perusahaan-perusahaannya di Indonesia\nialah :\na. Medan dan sekitarnya;\nb. Tebingtinggi;\nc. Brastagi;\nd. Palembang;\ne. Tanjungkarang/Telukbetung;\nf. Bengkulu;\ng. Curup;\nh. Lahat;\ni. Muara Enim\nj. Baturaja;\nk. Metro;\nl. Lubuklinggau:\nm. Jakarta;\nn. Bogor;\no. Bandung;\np. Semarang;\nq. Surabaya;\nr. Makassar;\ns. Menado/Minahasa;\nt. Kutaraja;\nu. Sigli;\nv. Bireun;\nw. Kuala Simpang;\nx. Langsa.\nE. Mengenai N.V. S.T.E.M. dan E.M.B.P. meskipun Direksinya\ndahulu dilakukan oleh N.V. Industriele Maatschappij Gebroders van\nSwaay di Jakarta, perlu dikenakan nasionalisasi dalam Peraturan\nPemerintah ini, karena perusahaan-perusahaan listrik itu sudah\nsejak dari permulaan pengambilan-alih diserahkan kepada\nKementerian Pekerjaan Umum dan Tenaga berdasarkan surat keputusan\nKepala Staf Angkatan Darat selaku Penguasa Perang Pusat tertanggal\n10 Januari 1958 No. Kpts/Pe.Per.Pu.11./06/1958."
+            }
+        },
+        {
+            "id": "9e88742e-b4a7-4ad9-a1d5-3ddc3fc3009c",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "d62c6b4b-2cbd-4003-8dae-abd0ae954f23",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan\ndan mempunyai daya surut sampai tanggal 3 Desember 1957.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran-Negara Republik Indonesia.",
+                "explanation": "\nCukup jelas.\nTermasuk Lembaran-Negara No. 30 tahun 1959.\nDiketahui:\nMenteri Kehakiman,\nttd.\nG. A. MAENGKOM.\nLEMBARAN NEGARA TAHUN 1959 NOMOR 30 DAN "
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "18",
+        "Tahun": "1959",
+        "Tentang": "PENENTUAN PERUSAHAAN LISTRIK DAN/ATAU GAS MILIK BELANDA\nYANG DIKENAKAN NASIONALISASI",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa untuk melaksanakan nasionalisasi perusahaan-perusahaan\nmilik Belanda yang ada di dalam wilayah Republik Indonesia,\nmaka perlu ditetapkan perusahaan-perusahaan mana yang\ndikenakan nasionalisasi;",
+            "b": " bahwa perusahaan-perusahaan listrik dan/atau gas adalah\nmerupakan cabang-cabang produksi yang penting bagi masyarakat\ndan yang menguasai hajat hidup orang banyak oleh karena mana\ndipandang perlu perusahaan-perusahaan listrik dan/atau gas\nitu merupakan perusahaan-perusahaan Negara;",
+            "C": " bahwa Pemerintah Indonesia telah menasionalisasi beberapa\nperusahaan listrik dan/atau gas di Indonesia;",
+            "d": " bahwa sebagai kelanjutan dan pelaksanaan dari pada Undang-\nundang tentang Nasionalisasi Perusahaan-perusahaan Milik\nBelanda di Indonesia, dipandang perlu untuk menasionalisasi\nperusahaan-perusahaan listrik dan/atau gas milik Belanda,\nuntuk dapat dijadikan perusahaan-perusahaan Negara;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " pasal 98 Undang-undang Dasar Sementara Republik Indonesia;",
+            "2": " Undang-undang No. 86 tahun 1958 (Lembaran-Negara tahun 1958\nNo. 162) tentang Nasionalisasi Perusahaan Belanda;",
+            "3": " Peraturan Pemerintah No. 2 tahun 1959 (Lembaran-Negara tahun\n1959 No. 5) tentang Pokok-pokok Pelaksanaan Undang-undang\nNasionalisasi Perusahaan Belanda;",
+            "4": " Peraturan Pemerintah No. 3 tahun 1959 (Lembaran-Negara tahun\n1959 No. 6) tentang Pembentukan Badan Nasionalisasi\nPerusahaan Belanda;",
+            "5": " Surat Keputusan Presiden Republik Indonesia No. 163 tahun\n1953 tentang Nasionalisasi semua perusahaan Listrik diseluruh\nIndonesia;",
+            "6": " Undang-undang No. 29 tahun 1957 (Lembaran-Negara tahun 1957\nNo. 101);\nMendengar\nDewan Menteri dalam sidangnya pada tanggal 3 Maret 1959;"
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang Penentuan Perusahaan Listrik dan/atau\nGas milik Belanda yang dikenakan nasionalisasi.",
+        "tanggal sah": "3 Desember 1957"
+    }
+}

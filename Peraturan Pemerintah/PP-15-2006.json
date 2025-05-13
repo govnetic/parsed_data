@@ -1,0 +1,107 @@
+{
+    "results": [
+        {
+            "id": "76c3d885-08dd-423a-b6a7-8493d4fff86d",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "f0c29b76-a105-4506-a219-073e9a7c4f6b",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "5a453783-04b5-45c0-8b2d-c8e36b48f65b",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nKepada Bekas Anggota Komite Nasional Indonesia Pusat\ndiberikan Tunjangan Kehormatan sebesar Rp 984.000,00\n(sembilan ratus delapan puluh empat ribu rupiah) setiap\nbulan."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "6ab9427d-1dcc-4b3b-b7af-2459b65c317d",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e1fa6ee6-a1e3-448b-b7ed-094e6c506203",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Apabila Bekas Anggota Komite Nasional Indonesia Pusat\nmeninggal dunia, kepada janda/dudanya yang sah\ndiberikan tunjangan kehormatan sebesar Rp 733.000,00\n(tujuh ratus tiga puluh tiga ribu rupiah) setiap bulan."
+                        },
+                        {
+                            "id": "ac8547fb-57c7-47e2-abc4-35839fa3498a",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Dalam hal Bekas Anggota Komite Nasional Indonesia\nPusat sebagaimana dimaksud pada ayat (1) mempunyai\nlebih dari seorang isteri yang sah, maka yang mendapat\ntunjangan kehormatan adalah isteri yang pertama."
+                        },
+                        {
+                            "id": "078d41e1-c8ac-49f3-9481-15cbcb9c4854",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Yang dimaksud dengan isteri yang pertama adalah isteri\nyang paling lama dinikahinya tanpa terputus oleh\nperceraian."
+                        },
+                        {
+                            "id": "d8213396-af63-4933-850c-3cdd2f98b40c",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Pembayaran tunjangan kehormatan sebagaimana\ndimaksud pada ayat (1), dihentikan apabila janda/duda\nBekas Anggota Komite Nasional Indonesia Pusat yang\nbersangkutan :\na. Meninggal dunia; atau\nb. Kawin lagi."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "1c60fd99-6697-4926-8754-b81bf20e031d",
+                    "name": "Article 3A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e1a6c247-682a-4f1b-aac1-3fd068020247",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPemberian Tunjangan sebagaimana dimaksud dalam Pasal\n1 dan Pasal 3 berlaku sejak tanggal 1 Januari 2006.\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "f6740580-48e8-4190-bdf2-dec108b7a78f",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "bc3fd211-b9fe-4285-a825-5c4b3e28307c",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "15",
+        "Tahun": "2006",
+        "Tentang": "PERUBAHAN KELIMA ATAS\nPERATURAN PEMERINTAH NOMOR 10 TAHUN 1980\nTENTANG PEMBERIAN TUNJANGAN KEHORMATAN KEPADA BEKAS\nANGGOTA KOMITE NASIONAL INDONESIA PUSAT DAN JANDA/DUDANYA",
+        "Menimbang": {
+            "Introduction": "\nbahwa besaran tunjangan kehormatan yang diberikan kepada\nBekas Anggota Komite Nasional Indonesia Pusat dan\nJanda/Dudanya sebagaimana ditetapkan dalam Peraturan\nPemerintah Nomor 10 Tahun 1980 tentang Pemberian\nTunjangan Kehormatan kepada Bekas Anggota Komite\nNasional Indonesia Pusat dan Janda/ Dudanya, sebagaimana\ntelah empat kali diubah terakhir dengan Peraturan\nPemerintah Nomor 35 Tahun 2001, tidak sesuai lagi dengan\nperkembangan keadaan, sehingga perlu diubah besaran\ntunjangannya dengan Peraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "\nPasal 5 ayat (2) Undang Undang Dasar Negara Republik\nIndonesia Tahun 1945;\nPeraturan Pemerintah Nomor 10 Tahun 1980 tentang\nPemberian Tunjangan Kehormatan Kepada Bekas Anggota\nKomite Nasional Indonesia Pusat dan Janda/Dudanya\n(Lembaran Negara Republik Indonesia Tahun 1980 Nomor\n17), sebagaimana telah empat kali diubah terakhir dengan\nPeraturan Pemerintah Nomor 35 Tahun 2001 (Lembaran\nNegara Republik Indonesia Tahun 2001 Nomor 58);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN KELIMA\nATAS PERATURAN PEMERINTAH NOMOR 10 TAHUN 1980\nTENTANG PEMBERIAN TUNJANGAN KEHORMATAN KEPADA\nBEKAS ANGGOTA KOMITE NASIONAL INDONESIA PUSAT\nDAN JANDA/DUDANYA.",
+        "tanggal sah": "20 April 2006"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "results": [
+        {
+            "id": "b7554a74-3a20-44bf-9cec-e4a6e46f1265",
+            "name": "Chapter I",
+            "title": "\nPENJUALAN SAHAM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "7e6656fc-aa6b-46ad-b7b2-3cd00f72f679",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "e020f298-d649-45d6-838a-c2fd5eab3613",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nNegara Republik Indonesia melepaskan penyertaan modal sahamnya pada\nPerusahaan Perseroan (PERSERO) PT. Semen Madura dengan cara menjual\nseluruh saham yang dimilikinya dalam PERSERO tersebut kepada pihak\nswasta.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "47efce4a-299f-46e0-86c3-e4f5d1534b6b",
+            "name": "Chapter II",
+            "title": "\nPELAKSANAAN PENJUALAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "c2b8469f-203e-4805-8e15-53a8649225db",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": {
+                        "id": "1b30b4e4-bba8-4e1d-b07b-ee4f746b25aa",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nMenteri Keuangan dan Menteri Perindustrian mengatur lebih lanjut\npelaksanaan penjualan saham-saham Perusahaan Perseroan (PERSERO) PT.\nSemen Madura termasuk penetapan harga jual saham PERSERO dimaksud\ndengan memperhatikan peraturan perundang-undangan yang berlaku.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "4016f7fe-b054-4189-bf55-211da19ddb08",
+            "name": "Chapter III",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "2b193c41-b7cc-4bc3-acf6-d5957372e40f",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "96a0ab1b-3804-4529-a7c0-4b7329487625",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nTerhitung sejak tanggal diselesaikannya penjualan/pengalihan saham\nsebagaimana dimaksud dalam Pasal 1, Peraturan Pemerintah Nomor 36 Tahun\n1981 tentang Penyertaan Modal Negara Republik Indonesia untuk Pendirian\nPerusahaan Perseroan (PERSERO) dalam Bidang Industri Semen (Lembaran\nNegara Tahun 1981 Nomor 52) dinyatakan tidak berlaku lagi.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "32ff2675-71b1-4f80-98db-889da82a1f83",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "ab047689-b23a-4eaa-8dc8-764b6d7774ac",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik\nIndonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "13",
+        "Tahun": "1984",
+        "Tentang": "PENJUALAN SELURUH SAHAM MILIK NEGARA REPUBLIK INDONESIA PADA\nPERUSAHAAN PERSEROAN (PERSERO) PT. SEMEN MADURA\nPresiden Republik Indonesia,",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa dalam rangka pengamanan pelaksanaan\npembangunan jangka panjang dari resesi ekonomi dunia,\nPemerintah telah mengambil langkah-langkah\npenjadwalan kembali proyek-proyek termasuk\nkemungkinan pengalihannya kepada pihak swasta;",
+            "b": " bahwa sehubungan dengan penjadwalan kembali proyek\ntersebut, dipandang perlu untuk menjual seluruh saham\nmilik Negara pada Perusahaan Perseroan (PERSERO) PT.\nSemen Madura yang telah didirikan dalam rangka\npelaksanaan proyek pembangunan pabrik semen di\nMadura kepada pihak swasta yang berminat untuk terus\nmelanjutkan proyek pembangunan pabrik tersebut;",
+            "c": " bahwa penjualan seturuh saham milik Negara Republik\nIndonesia pada Perusahaan Perseroan (PERSERO) PT.\nSemen Madura sebagaimana dimaksud pada huruf b di\natas perlu ditetapkan dengan Peraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Kitab Undang-Undang Hukum Dagang (Staatsblad Tahun\n1847 Nomor 23) sebagaimana telah beberapa kali diubah\ndan ditambah terakhir denpn Undang-Undang Nomor 4\nTahun 1971 tentang Perubahan dan Penambahan Atas\nKetentuan Pasal 54 Kitab Undang-Undang Hukum\nDagang (Staatsblad Tahun 1847 Nomor 23), (Lembaran\nNegara Tahun 1971 Nomor 20, Tambahan Lembaran\nNegara Nomor 2959);",
+            "3": " Undang-undang Nomor 9 Tahun 1969 tentang\nPenetapan Peraturan Pemerintah Pengganti Undang-\nundang Nomor 1 Tahun 1969 (Lembaran Negara Tahun\n1969 Nomor 16, Tambahan Lembaran Negara Nomor\n2890) tentang Bentuk-bentuk Usaha Negara menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor\n40, Tambahan Lembaran Negara Nomor 2904);",
+            "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang\n   Perusahaan Perseroan (PERSERO) (Lembaran Negara\n   Tahun 1969 Nomor 21, Tambahan Lembaran Negara\n   Nomor 2894) jo. Peraturan Pemerintah Nomor 24 Tahun\n   1972 tentang Perubahan Atas Ketentuan Pasal 7\n   Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran\n   Negara Tahun 1969 Nomor 21, Tambahan Lembaran\n   Negara Nomor 2894) tentang Perusahaan Perseroan\n   (PERSERO) (Lembaran Negara Tahun 1972 Nomor 32,\n   Tambahan Lembaran Negara Nomor 2987);",
+            "5": " Peraturan Pemerintah Nomor 36 Tahun 1981 tentang\n   Penyertaan Modal Negara Republik Indonesia untuk\n   Pendirian Perusahaan Perseroan (PERSERO) Dalain\n   Bidang Industri Semen (Lembaran Negara Tahun 1981\n   Nomor 52);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENJUALAN\n            SELURUH SAHAM MILIK NEGARA REPUBLIK INDONESIA\n            PADA PERUSAHAAN PERSEROAN (PERSERO) PT. SEMEN\n            MADURA.",
+        "tanggal sah": "18 Mei 1984"
+    }
+}

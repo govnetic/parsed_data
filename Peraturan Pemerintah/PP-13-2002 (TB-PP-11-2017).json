@@ -1,0 +1,95 @@
+{
+    "results": [
+        {
+            "id": "cfcbb99e-630f-4093-8fe3-57aa28d30ae5",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "25ba1c6f-f763-4f48-8eeb-0b1f13224f9b",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "44bcbf6f-fb02-454b-bf51-b31e5aa9c9b8",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "bb1f4ff1-b811-4e0f-8559-6e2e190ec657",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "4a4310fb-3af0-47df-ba18-719603b27ff6",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "6e9011b1-3c80-42f4-97a0-c832a885511e",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "2a520433-1d02-401b-baa6-ca37620125a1",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "d424bff6-86ae-44bc-b535-1e052f21cb49",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "fb2f05da-8263-46cd-8280-e803fa48f920",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nUntuk mewujudkan tujuan pembangunan nasional, diperlukan Pegawai Negeri\nSipil yang netral, mampu menjaga persatuan dan kesatuan bangsa, profesional, dan\nbertanggung jawab dalam melaksanakan tugas serta penuh kesetiaan dan ketaatan\nkepada Pancasila, Undang-Undang Dasar 1945, Negara dan Pemerintah Republik\nIndonesia.\nSejalan dengan hal tersebut, Pegawai Negeri Sipil perlu diperhatikan kualitas\nprofesionalisme dalam memberikan pelayanan yang sesuai dengan tingkat\nkepuasan dan keinginan masyarakat.\nSeiring dengan peningkatan profesionalisme Pegawai Negeri Sipil tersebut, sistem\npengangkatan Pegawai Negeri Sipil dalam jabatan struktural yang ada selama ini\nberdasarkan Peraturan Pemerintah Nomor 100 Tahun 2000 tentang Pengangkatan\nPegawai Negeri Sipil Dalam Jabatan Struktural, perlu untuk disesuaikan kembali\nagar dapat lebih berdaya guna dan berhasil guna dalam memberikan pelayanan\nyang sesuai dengan tingkat kepuasan dan keinginan masyarakat dimaksud.\nPenyempurnaan sistem pengangkatan Pegawai Negeri Sipil dalam jabatan\nstruktural meliputi pengaturan kembali mengenai eselon tertinggi sampai dengan\neselon terendah Pegawai Negeri Sipil, pendidikan dan latihan Pegawai Negeri\nSipil, pengangkatan Pegawai Negeri Sipil dalam jabatan struktural untuk\nmenduduki jabatan struktural setingkat lebih tinggi dan keanggotaan Badan\nPertimbangan Jabatan dan Kepangkatan.",
+        "Nomor": "13",
+        "Tahun": "2002",
+        "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 100 TAHUN 2000\nTENTANG\nPENGANGKATAN PEGAWAI NEGERI SIPIL\nDALAM JABATAN STRUKTURAL\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "\nbahwa dalam rangka pengembangan dan pembinaan karier Pegawai\nNegeri Sipil, dipandang perlu mengubah Peraturan Pemerintah Nomor\n100 Tahun 2000 tentang Pengangkatan Pegawai Negeri Sipil Dalam\nJabatan Struktural dengan Peraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 8 Tahun 1974 tentang Pokok-pokok\nKepegawaian (Lembaran Negara Tahun 1974 Nomor 55, Tambahan\nLembaran Negara Nomor 3041), sebagaimana telah diubah dengan\nUndang-undang Nomor 43 Tahun 1999 (Lembaran Negara Tahun\n1999 Nomor 169, Tambahan Lembaran Negara Nomor 3890);",
+            "3": " Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah\n(Lembaran Negara Tahun 1999 Nomor 60, Tambahan Lembaran\nNegara Nomor 3839);",
+            "4": " Undang-undang Nomor 28 Tahun 1999 tentang Penyelenggara Negara\nYang Bersih dan Bebas Dari Korupsi, Kolusi dan Nepotisme\n(Lembaran Negara Tahun 1999 Nomor 75, Tambahan Lembaran\nNegara Nomor 3851);",
+            "5": " Peraturan Pemerintah Nomor 25 Tahun 2000 tentang Kewenangan\nPemerintah dan Kewenangan Propinsi Sebagai Daerah Otonom\n(Lembaran Negara Tahun 2000 Nomor 54, Tambahan Lembaran\nNegara Nomor 3952);",
+            "6": " Peraturan Pemerintah Nomor 84 Tahun 2000 tentang Pedoman\nOrganisasi Perangkat Daerah (Lembaran Negara Tahun 2000 Nomor\n165);",
+            "7": " Peraturan Pemerintah Nomor 96 Tahun 2000 tentang Wewenang\nPengangkatan, Pemindahan, dan Pemberhentian Pegawai Negeri Sipil\n(Lembaran Negara Tahun 2000 Nomor 193, Tambahan Lembaran\nNegara 4014);",
+            "8": " Peraturan Pemerintah Nomor 99 Tahun 2000 tentang Kenaikan\nPangkat Pegawai Negeri Sipil (Lembaran Negara Tahun 2000 Nomor\n196, Tambahan Lembaran Negara Nomor 4017) sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 12 Tahun 2002\n(Lembaran Negara Tahun 2002 Nomor 32, Tambahan Lembaran\nNegara Nomor 4193);",
+            "9": " Peraturan Pemerintah Nomor 100 Tahun 2000 tentang Pengangkatan\nPegawai Negeri Sipil Dalam Jabatan Struktural (Lembaran Negara\n Tahun 2000 Nomor 197, Tambahan Lembaran Negara Nomor 4018);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 100 TAHUN 2000 TENTANG\nPENGANGKATAN PEGAWAI NEGERI SIPIL DALAM JABATAN\nSTRUKTURAL.",
+        "tanggal sah": "17 APRIL 2002"
+    }
+}

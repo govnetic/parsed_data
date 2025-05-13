@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "41308cb8-4631-4b2b-a385-a3278460c6cb",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "9fa0a9b7-e9f7-436c-a3de-ff1d3fefe3cc",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Memperpanjang lagi waktu termaksud dalam Pasal 3 Peraturan\nPemerintah Nomor 44 tahun 1952 dengan satu tahun, yaitu sampai\ndengan akhir Desember 1957.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "0241c708-48d8-47ad-bb57-be383ccfd51a",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "6071cc60-053e-4f6c-8302-20ca74117c48",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada 1 Januari 1957.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "16",
+        "Tahun": "1957",
+        "Tentang": "MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN PEMERINTAH NO. 44 TAHUN\n1952 (LEMBARAN-NEGARA TAHUN 1952 NO. 72) YANG TELAH\nDIPERPANJANG BEBERAPA KALI TERAKHIR DENGAN\nPERATURAN PEMERINTAH NO.35 TAHUN 1955\n(LEMBARAN-NEGARA TAHUN 1955 NO. 80)",
+        "Menimbang": {
+            "Introduction": "\nbahwa oleh karena sampai kini belum juga didapat kepastian untuk\nmenghilangkan keganjilan di sebagian wilayah Republik Indonesia\ndimana uang asing beredar sebagai alat pembayar yang sah, dianggap\nperlu untuk memperpanjang lagi waktu berlakunya Peraturan\nPemerintah Nomor 44 tahun 1952 yang telah diperpanjang beberapa\nkali, terakhir sampai dengan akhir Desember 1956 dengan Peraturan\nPemerintah Nomor 35 tahun 1955 (Lembaran Negara tahun 1955 Nomor\n80), dengan satu tahun, yaitu sampai akhir Desember 1957;"
+        },
+        "Mengingat": {
+            "Introduction": "\nPasal 3 Peraturan Pemerintah Nomor 44 tahun 1952 (Lembaran Negara\ntahun 1952 Nomor 72);\nMendengar\nDewan Menteri dalam rapatnya yang ke 56 pada tanggal 13 Januari\n1957;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH UNTUK MEMPERPANJANG WAKTU BERLAKUNYA\nPERATURAN PEMERINTAH NOMOR 44 TAHUN 1952.",
+        "tanggal sah": "1 Januari 1957"
+    }
+}

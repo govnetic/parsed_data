@@ -1,101 +1,101 @@
 {
     "results": [
         {
-            "id": "92a14266-0e94-4d18-afb2-3c986d2f2ac3",
+            "id": "ea93036e-67bd-44e6-947c-35a292f0b973",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "e93a899c-cf2b-493d-a6a4-ab8460bf44c5",
+                "id": "acbd93b6-4d20-41c4-bf2d-a7ec0666e9da",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "(1) Tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku\npada Lembaga Sensor Film di lingkungan Departemen Pendidikan\nNasional sebagaimana dimaksud dalam Lampiran IIA Angka (4)\nbutir 3 Peraturan Pemerintah Nomor 22 Tahun 1997 tentang\nJenis dan Penyetoran Penerimaan Negara Bukan Pajak\nsebagaimana telah diubah dengan Peraturan Pemerintah Nomor\n52 Tahun 1998, adalah sebagaimana ditetapkan dalam Lampiran\nPeraturan Pemerintah ini.\n(2) Tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku\npada Lembaga Sensor Film di lingkungan Departemen Pendidikan\nNasional sebagaimana dimaksud dalam ayat (1) yang belum\ntercakup dalam Lampiran Peraturan Pemerintah ini akan\ndisusulkan sebagai bagian yang tidak terpisahkan dari Lampiran\nPeraturan Pemerintah ini dan pencatumannya dilakukan dengan\nPeraturan Pemerintah tersendiri.",
+                "explanation": "\nCukup jelas"
             }
         },
         {
-            "id": "1313a49c-d6cd-404e-b846-cae4b98b4e03",
+            "id": "83aebe8f-0559-4118-a5bd-bc5a471fd53a",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "3685f5b0-ed00-41d9-85f0-8fca2175569f",
+                "id": "9bddfe0a-ddd0-4cf9-ac5b-4607d7ef0341",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Biaya Sensor Film untuk copy kedua dan seterusnya ditetapkan\nsebesar 50% (lima puluh persen) dari besarnya tarif Biaya Sensor Film\nsebagaimana ditetapkan pada Lampiran Peraturan Pemerintah ini.",
+                "explanation": "\nCukup jelas"
             }
         },
         {
-            "id": "3d5b9333-3211-4c72-9b0b-1d0cabbb1352",
+            "id": "21fc1541-99d6-45ba-9f2b-43ac09777b0d",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "0d03bce4-d675-4f0d-bb24-cdcfc5b2e84b",
+                "id": "bb2361c2-4c9b-4b79-9ab6-83371318e345",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Biaya Sensor Film untuk peninjauan dan Sensor Apel karena banding\ndiajukan cukup copy kesatu ditetapkan sebesar 100% (seratus persen)\ndari besarnya tarif Biaya Sensor Film sebagaimana ditetapkan dalam\nLampiran Peraturan Pemerintah ini.",
+                "explanation": "\nCukup jelas"
             }
         },
         {
-            "id": "71f7942e-86bc-4657-9aac-a2597608e547",
+            "id": "6d7f488e-4bb7-49aa-a759-6acc10c70a95",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "bfb3f81d-38d4-429d-b9ca-4bc038cf3645",
+                "id": "445d3474-7d37-470f-9f49-1a4cd2fe62ac",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Jenis Penerimaan Negara Bukan Pajak sebagaimana dimaksud dalam\nPasal 1 mempunyai tarif dalam bentuk rupiah.",
+                "explanation": "\nCukup jelas"
             }
         },
         {
-            "id": "3f2a9751-ffbf-4d1b-87f8-b3dd8128921d",
+            "id": "2dca1f8b-ce95-4240-ba82-4b8c6fcef342",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "d497cc36-e512-4cc5-a8d7-5854447e6762",
+                "id": "a12b8086-3d58-44e1-b7e3-61a7abe29b34",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Pengertian Kas Negara adalah sebagaimana dimaksud dalam Undang-undang Nomor 20 Tahun\n1997 tentang Penerimaan Negara Bukan Pajak.",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Seluruh penerimaan yang bersumber dari jenis Penerimaan Negara\nBukan Pajak dalam Lampiran sebagaimana dimaksud dalam Pasal 1\nwajib disetor langsung secepatnya ke Kas Negara.",
+                "explanation": "\nPengertian Kas Negara adalah sebagaimana dimaksud dalam Undang-undang Nomor 20 Tahun\n1997 tentang Penerimaan Negara Bukan Pajak."
             }
         },
         {
-            "id": "e3023720-f49f-4382-b8d4-9b281406b25d",
+            "id": "e19e8d08-9f52-44d4-8cab-85aac65be9ca",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "e5630ef7-4d0d-4e84-bfec-fe837ab44f14",
+                "id": "a111667e-ce4a-4cd1-9259-aa7e81204ead",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Pada saat diberlakukannya Peraturan Pemerintah ini, ketentuan yang\ntercantum pada Lampiran IIA Angka (4) butir 3 Peraturan Pemerintah\nNomor 22 Tahun 1997 tentang Jenis dan Penyetoran Penerimaan\nNegara Bukan Pajak sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 52 Tahun 1998, dinyatakan tidak berlaku.",
+                "explanation": "\nCukup jelas"
             }
         },
         {
-            "id": "a8478f7e-929f-44ee-bf3c-e4c04278519f",
+            "id": "0e5f930e-61a7-4924-aa21-beb5794b6c79",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "abc510ce-7d2b-43c6-a3e1-fae17b7cee81",
+                "id": "0f1269da-6d63-4a71-89fe-1176aa77bac5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas\n",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Peraturan Pemerintah ini mulai berlaku pada saat diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                "explanation": "\nCukup jelas\n"
             }
         }
     ],
     "metadata": {
         "Nomor": "1",
         "Tahun": "2002",
-        "Tentang": "TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU\nPADA LEMBAGA SENSOR FILM DI LINGKUNGAN DEPARTEMEN\nPENDIDIKAN NASIONAL",
+        "Tentang": "TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU\nPADA LEMBAGA SENSOR FILM DI LINGKUNGAN DEPARTEMEN\nPENDIDIKAN NASIONAL\nPRESIDEN REPUBLIK INDONESIA,",
         "Menimbang": {
             "Introduction": "\nbahwa untuk melaksanakan ketentuan Undang-undang Nomor 20\nTahun 1997 tentang Penerimaan Negara Bukan Pajak, dipandang perlu\nmenetapkan Peraturan Pemerintah tentang Tarif atas Jenis\nPenerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Sensor\nFilm di Lingkungan Departemen Pendidikan Nasional;"
         },
@@ -108,7 +108,7 @@
             "5": " Peraturan Pemerintah Nomor 7 Tahun 1994 tentang Lembaga\nSensor Film (Lembaran Negara Republik Indonesia Tahun 1994\nNomor 12);",
             "6": " Peraturan Pemerintah Nomor 22 Tahun 1997 tentang Jenis dan\nPenyetoran Penerimaan Negara Bukan Pajak (Lembaran Negara\nRepublik Indonesia Tahun 1997 Nomor 57, Tambahan Lembaran\nNegara Nomor 3694) sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 52 Tahun 1998 (Lembaran Negara Republik\nIndonesia Tahun 1998 Nomor 85, Tambahan Lembaran Negara\nNomor 3760);\n---"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang Tarif atas Jenis\nPenerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Sensor\nFilm di Lingkungan Departemen Pendidikan Nasional;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar 1945 sebagaimana telah\ndiubah dengan Perubahan Ketiga Undang-Undang Dasar 1945;\n2. Undang-undang Nomor 8 Tahun 1992 tentang Perfilman (Lembaran\nNegara Republik Indonesia Tahun 1992 Nomor 32, Tambahan\nLembaran Negara Nomor 3473);\n3. Undang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara\nBukan Pajak (Lembaran Negara Republik Indonesia Tahun 1997\nNomor 43, Tambahan Lembaran Negara Nomor 3687);\n4. Peraturan Pemerintah Nomor 6 Tahun 1994 tentang\nPenyelenggaraan Usaha Perfilman (Lembaran Negara Republik\nIndonesia Tahun 1994 Nomor 11, Tambahan Lembaran Negara\nNomor 3541);\n5. Peraturan Pemerintah Nomor 7 Tahun 1994 tentang Lembaga\nSensor Film (Lembaran Negara Republik Indonesia Tahun 1994\nNomor 12);\n6. Peraturan Pemerintah Nomor 22 Tahun 1997 tentang Jenis dan\nPenyetoran Penerimaan Negara Bukan Pajak (Lembaran Negara\nRepublik Indonesia Tahun 1997 Nomor 57, Tambahan Lembaran\nNegara Nomor 3694) sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 52 Tahun 1998 (Lembaran Negara Republik\nIndonesia Tahun 1998 Nomor 85, Tambahan Lembaran Negara\nNomor 3760);\n---\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG TARIF ATAS JENIS PENERIMAAN\nNEGARA BUKAN PAJAK YANG BERLAKU PADA LEMBAGA SENSOR FILM DI\nLINGKUNGAN DEPARTEMEN PENDIDIKAN NASIONAL.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang Tarif atas Jenis\nPenerimaan Negara Bukan Pajak yang Berlaku pada Lembaga Sensor\nFilm di Lingkungan Departemen Pendidikan Nasional;\nMengingat 1. Pasal 5 ayat (2) Undang-Undang Dasar 1945 sebagaimana telah\ndiubah dengan Perubahan Ketiga Undang-Undang Dasar 1945;\n2. Undang-undang Nomor 8 Tahun 1992 tentang Perfilman (Lembaran\nNegara Republik Indonesia Tahun 1992 Nomor 32, Tambahan\nLembaran Negara Nomor 3473);\n3. Undang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara\nBukan Pajak (Lembaran Negara Republik Indonesia Tahun 1997\nNomor 43, Tambahan Lembaran Negara Nomor 3687);\n4. Peraturan Pemerintah Nomor 6 Tahun 1994 tentang\nPenyelenggaraan Usaha Perfilman (Lembaran Negara Republik\nIndonesia Tahun 1994 Nomor 11, Tambahan Lembaran Negara\nNomor 3541);\n5. Peraturan Pemerintah Nomor 7 Tahun 1994 tentang Lembaga\nSensor Film (Lembaran Negara Republik Indonesia Tahun 1994\nNomor 12);\n6. Peraturan Pemerintah Nomor 22 Tahun 1997 tentang Jenis dan\nPenyetoran Penerimaan Negara Bukan Pajak (Lembaran Negara\nRepublik Indonesia Tahun 1997 Nomor 57, Tambahan Lembaran\nNegara Nomor 3694) sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 52 Tahun 1998 (Lembaran Negara Republik\nIndonesia Tahun 1998 Nomor 85, Tambahan Lembaran Negara\nNomor 3760);\n---\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG TARIF ATAS JENIS PENERIMAAN\nNEGARA BUKAN PAJAK YANG BERLAKU PADA LEMBAGA SENSOR FILM DI\nLINGKUNGAN DEPARTEMEN PENDIDIKAN NASIONAL.",
         "tanggal sah": "11 Januari 2002"
     }
 }

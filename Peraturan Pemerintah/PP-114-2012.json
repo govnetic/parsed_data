@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "27d7f3fa-8563-48af-b781-8b6b70d09850",
+            "id": "3b663743-5220-45f6-af6c-b91b3374ceb6",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "6d6b20be-ef79-46a5-a819-7006d97fe85b",
+                "id": "fd182a2b-2a47-42f1-94d0-61a628a8ddcb",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,24 +14,24 @@
             }
         },
         {
-            "id": "17c6fd64-a2b4-4c0a-97fa-f0cf3f67cfd8",
+            "id": "c86b5ae6-947e-4ed5-9df7-287d29738f85",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "48fcdb4c-e282-48a8-b875-0dbbd93f8b2e",
+                "id": "ea7ac074-fc86-40f2-ba58-b952e142221e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Pengurangan penyertaan modal Negara Republik\nIndonesia sebagaimana dimaksud dalam Pasal 1\ndilakukan dengan penurunan nilai nominal saham milik\nNegara Republik Indonesia yang tertanam dalam modal\nsaham Perusahaan Perseroan (Persero) PT Garuda\nIndonesia Tbk.\n\n(2) Pengurangan penyertaan modal Negara Republik\nIndonesia sebagaimana dimaksud pada ayat (1) dilakukan\ndengan mengeliminasi saldo laba negatif (defisit) dengan\nselisih penilaian kembali aset dan liabilitas ditambah\ntambahan modal disetor kecuali tambahan modal disetor\nNegara atas penyerahan *Jet Engine Test Cell*, dan modal\nditempatkan dan disetor per tanggal 1 Januari 2012.\n(3) Nilai pengurangan penyertaan modal Negara Republik\nIndonesia sebagaimana dimaksud pada ayat (1) ditetapkan\nsebesar Rp641.778.248.000,00 (enam ratus empat puluh\nsatu miliar tujuh ratus tujuh puluh delapan juta dua\nratus empat puluh delapan ribu rupiah).\n(4) Pengurangan penyertaan modal Negara Republik\nIndonesia sebagaimana dimaksud pada ayat (1)\nmengakibatkan perubahan modal ditempatkan dan disetor\nNegara Republik Indonesia yang semula sebesar\nRp7.826.564.000.000,00 (tujuh triliun delapan ratus dua\npuluh enam miliar lima ratus enam puluh empat juta\nrupiah) atau sebanyak 15.653.128.000 (lima belas miliar\nenam ratus lima puluh tiga juta seratus dua puluh\ndelapan ribu) saham dengan nilai nominal per saham\nsebesar Rp500,00 (lima ratus rupiah) menjadi sebesar\nRp7.184.785.752.000,00 (tujuh triliun seratus delapan\npuluh empat miliar tujuh ratus delapan puluh lima juta\ntujuh ratus lima puluh dua ribu rupiah) atau sebanyak\n15.653.128.000 (lima belas miliar enam ratus lima puluh\ntiga juta seratus dua puluh delapan ribu) saham dengan\nnilai nominal per saham sebesar Rp459,00 (empat ratus\nlima puluh sembilan rupiah).",
+                "content": "(1) Pengurangan penyertaan modal Negara Republik\nIndonesia sebagaimana dimaksud dalam Pasal 1\ndilakukan dengan penurunan nilai nominal saham milik\nNegara Republik Indonesia yang tertanam dalam modal\nsaham Perusahaan Perseroan (Persero) PT Garuda\nIndonesia Tbk.\n(2) Pengurangan . . .\n(2) Pengurangan penyertaan modal Negara Republik\nIndonesia sebagaimana dimaksud pada ayat (1) dilakukan\ndengan mengeliminasi saldo laba negatif (defisit) dengan\nselisih penilaian kembali aset dan liabilitas ditambah\ntambahan modal disetor kecuali tambahan modal disetor\nNegara atas penyerahan *Jet Engine Test Cell*, dan modal\nditempatkan dan disetor per tanggal 1 Januari 2012.\n(3) Nilai pengurangan penyertaan modal Negara Republik\nIndonesia sebagaimana dimaksud pada ayat (1) ditetapkan\nsebesar Rp641.778.248.000,00 (enam ratus empat puluh\nsatu miliar tujuh ratus tujuh puluh delapan juta dua\nratus empat puluh delapan ribu rupiah).\n(4) Pengurangan penyertaan modal Negara Republik\nIndonesia sebagaimana dimaksud pada ayat (1)\nmengakibatkan perubahan modal ditempatkan dan disetor\nNegara Republik Indonesia yang semula sebesar\nRp7.826.564.000.000,00 (tujuh triliun delapan ratus dua\npuluh enam miliar lima ratus enam puluh empat juta\nrupiah) atau sebanyak 15.653.128.000 (lima belas miliar\nenam ratus lima puluh tiga juta seratus dua puluh\ndelapan ribu) saham dengan nilai nominal per saham\nsebesar Rp500,00 (lima ratus rupiah) menjadi sebesar\nRp7.184.785.752.000,00 (tujuh triliun seratus delapan\npuluh empat miliar tujuh ratus delapan puluh lima juta\ntujuh ratus lima puluh dua ribu rupiah) atau sebanyak\n15.653.128.000 (lima belas miliar enam ratus lima puluh\ntiga juta seratus dua puluh delapan ribu) saham dengan\nnilai nominal per saham sebesar Rp459,00 (empat ratus\nlima puluh sembilan rupiah).",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "e8296964-7ccd-4dfc-ab65-d907ee52ae4a",
+            "id": "0f592e63-8109-4f10-9b7a-9734f9249ac0",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "b37ef846-7480-4041-86c8-d4d876d4ce5c",
+                "id": "48221d75-15a9-437c-b4c9-bdaae5ca4dab",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -52,7 +52,8 @@
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
-            "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik Indonesia\nTahun 2003 Nomor 70, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4297);"
+            "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik Indonesia\nTahun 2003 Nomor 70, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4297);",
+            "3": " Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata\nCara Penyertaan dan Penatausahaan Modal Negara pada\nBadan Usaha Milik Negara dan Perseroan Terbatas\n(Lembaran Negara Republik Indonesia Tahun 2005 Nomor\n116, Tambahan Lembaran Negara Republik Indonesia\nNomor 4555);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENGURANGAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA PADA\nPERUSAHAAN PERSEROAN (PERSERO) PT GARUDA\nINDONESIA Tbk.",
         "tanggal sah": "27 Desember 2012"

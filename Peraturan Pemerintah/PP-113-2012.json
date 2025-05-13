@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "f79d9c99-4e4e-4eb5-b401-23bd9269c7f7",
+            "id": "66b03ec5-f5e3-4e3a-b7c3-06e5b8e91554",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "f12e31ff-0917-4c23-ba8a-a79844a8473b",
+                "id": "60088e17-4a00-4319-b847-3abea94b88bb",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "5f45b0d7-c479-4ae3-9d0d-dd9a0b66a2af",
+            "id": "e7dc7e65-5715-4b97-aea6-5a9ff7b9d24f",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "3d26baee-3b63-4334-9192-983219d87800",
+                "id": "144b5b5c-cb91-4a8c-9aae-12537891e6a5",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,15 +27,15 @@
             }
         },
         {
-            "id": "bf3ea0c3-f4ee-47ee-a8dd-a127f90145b2",
+            "id": "ba68b121-2d4e-4a7f-aadf-47aef32e02ef",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "17bc04fb-6f88-444e-b72c-054cf2b725b9",
+                "id": "bfe9cf5d-a1c2-4394-a9b8-8d165129b78d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan\nAgar setiap orang mengetahuinya, memerintahkan\ndengan\npengundangan Peraturan Pemerintah ini\npenempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -43,7 +43,7 @@
     "metadata": {
         "Nomor": "113",
         "Tahun": "2012",
-        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT GARAM",
+        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT GARAM\nPRESIDEN REPUBLIK INDONESIA,",
         "Menimbang": {
             "Introduction": "",
             "a": " bahwa untuk meningkatkan kapasitas usaha Perusahaan\nPerseroan (Persero) PT Garam, perlu melakukan\npenambahan penyertaan modal Negara Republik Indonesia\nke dalam modal saham Perusahaan Perseroan (Persero)\nPT Garam yang bersumber dari Anggaran Pendapatan dan\nBelanja Negara Tahun Anggaran 2012 bagian dari alokasi\npenyertaan modal negara pada BUMN Strategis;",
@@ -56,7 +56,7 @@
             "3": " Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);",
             "4": " Undang-Undang Nomor 22 Tahun 2011 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 2012\n(Lembaran Negara Republik Indonesia Tahun 2011 Nomor\n113, Tambahan Lembaran Negara Republik Indonesia\nNomor 5254) sebagaimana telah diubah dengan Undang-\nUndang Nomor 4 Tahun 2012 tentang Perubahan atas\nUndang-Undang Nomor 22 Tahun 2011 tentang Anggaran"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT GARAM.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA ΚΕ\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT GARAM.",
         "tanggal sah": "24 Desember 2012"
     }
 }

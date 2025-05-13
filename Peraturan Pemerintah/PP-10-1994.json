@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "17c2a608-9ece-4878-812e-7945f0e709c2",
+            "id": "d5880504-406d-4811-aedd-7d8b397f1f15",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "5c05eaa0-8114-4e9b-b196-ed776c72816f",
+                    "id": "2d0816fa-6a5b-4d15-b74d-ccd3bf2c9e44",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "7dabb7fd-26fe-4bb1-887b-b6dc1b77fa4d",
+                        "id": "7a8e4312-8176-433d-b643-0dddd59b9756",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,24 +20,16 @@
                     }
                 },
                 {
-                    "id": "9585af1c-f5c0-49c5-8416-f33401db08e0",
+                    "id": "69f415be-a61b-4ca7-b49f-18da1600f9d8",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b1c5f6c8-b1e0-445b-92f5-8402d48819f6",
+                            "id": "c3eeee97-dd2e-4e67-9a93-79f56a9b34b2",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Penambahan penyertaan modal Negara sebagaimana dimaksud\ndalam Pasal 1 berupa uang tunai yang telah disetorkan kepada\nPerusahaan Perseroan (PERSERO) PT. Rajawali Nusantara\nIndonesia dan telah diinvestasikan untuk membeli saham-saham PT.\nPabrik Gula Tjandi Sidoardjo, pembiayaan Proyek Pengembangan\nLingkungan Kuningan (PPLK) di Jakarta dan pembayaran ganti\nrugi tanah di Jalan Pondok Gede, Kelurahan Pinang Ranti,\nKecamatan Makasar - Jakarta Timur.\n",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "c8b221d3-4a00-4dcf-8c6e-efbe316fca07",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": " Nilai penambahan penyertaan modal Negara Republik Indonesia ke dalam modal saham Perusahaan Perseroan (PERSERO) PT. Rajawali Nusantara Indonesia sebagaimana dimaksud dalam ayat (1) adalah sebesar Rp. 46.280.000.000,- (empat puluh enam milyar dua ratus delapan puluh juta rupiah).",
+                            "content": " Penambahan penyertaan modal Negara sebagaimana dimaksud\ndalam Pasal 1 berupa uang tunai yang telah disetorkan kepada\nPerusahaan Perseroan (PERSERO) PT. Rajawali Nusantara\nIndonesia dan telah diinvestasikan untuk membeli saham-saham PT.\nPabrik Gula Tjandi Sidoardjo, pembiayaan Proyek Pengembangan\nLingkungan Kuningan (PPLK) di Jakarta dan pembayaran ganti\nrugi tanah di Jalan Pondok Gede, Kelurahan Pinang Ranti,\nKecamatan Makasar - Jakarta Timur.\n\n(2) Nilai penambahan penyertaan modal Negara Republik Indonesia ke dalam modal saham Perusahaan Perseroan (PERSERO) PT. Rajawali Nusantara Indonesia sebagaimana dimaksud dalam ayat (1) adalah sebesar Rp. 46.280.000.000,- (empat puluh enam milyar dua ratus delapan puluh juta rupiah).",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -45,17 +37,17 @@
             ]
         },
         {
-            "id": "7c335e93-8ef4-4be2-8ebc-4a9c7a2a1b39",
+            "id": "b194150f-9448-405c-a742-ac6ac5622fe8",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6f33f622-98f2-4b10-9c96-4635de0cb5fe",
+                    "id": "66e6d063-6292-4249-be89-c6194b181c92",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "1a9d8c3b-1ae8-42a4-9f77-1a2c32330003",
+                        "id": "ffffe2dd-75ad-40d1-8c42-c0692d77829f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -66,17 +58,17 @@
             ]
         },
         {
-            "id": "5ec6db75-04e5-4041-9483-898807b5974c",
+            "id": "ae59b9c1-0353-4a07-b595-2f2a85df5536",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "c5539245-4ffa-4adb-a4aa-9a24ac01374f",
+                    "id": "73063d7b-bf51-4d74-83fa-b004caac2b88",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "d4e65a88-e432-45c9-9d97-087625cf6966",
+                        "id": "738d5bfb-f0e0-49c7-a2e8-94aefa1c3f01",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -85,11 +77,11 @@
                     }
                 },
                 {
-                    "id": "9b02384e-9c87-413f-9d41-a6e4a99b2536",
+                    "id": "10672cf8-eb94-46de-989f-ea147919a6a6",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "591b36c6-97a4-42ec-bf1b-2f7e5a0ce00c",
+                        "id": "20a6e221-5655-49d0-9197-57db105fd861",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -115,7 +107,7 @@
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
             "2": " Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor\n23) sebagaimana telah beberapa kali diubah, terakhir dengan\nUndang-undang Nomor 4 Tahun 1971 (Lembaran Negara Tahun 1971\nNomor 20, Tambahan Lembaran Negara Nomor 2959);"
         },
-        "Menetapkan": "\n3. Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan Pemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang Bentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969 Nomor 16, Tambahan Lembaran Negara Nomor 2890) Menjadi Undang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan Lembaran Negara Nomor 2904);\n4. Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21, Tambahan Lembaran Negara Nomor 2894) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24 Tahun 1972 (Lembaran Negara Tahun 1972 Nomor 32, Tambahan Lembaran Negara Nomor 2987)\n5. Peraturan Pemerintah Nomor 5 Tahun 1974 tentang Penyertaan Modal Negara Republik Indonesia Dalam Perseroan Terbatas Perusahaan Perkembangan Ekonomi Nasional Rajawali Nusantara Indonesia (PT. Rajawali Nusantara Indonesia) (Lembaran Negara Tahun 1974 Nomor 7)\n6. Peraturan Pemerintah Nomor 3 Tahun 1983 tentang Tata Cara Pembinaan dan Pengawasan Perusahaan Jawatan (PERJAN), Perusahaan Umum (PERUM) dan Perusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1983 Nomor 3, Tambahan Lembaran Negara Nomor 3246) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 28 Tahun 1983 (Lembaran Negara Tahun 1983 Nomor 37);\nMEMUTUSKAN \nMenetapkan PERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG\nPENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK\nINDONESIA KE DALAM MODAL SAHAM PERUSAHAAN\nPERSEROAN (PERSERO) PT. RAJAWALI NUSANTARA\nINDONESIA.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT. RAJAWALI NUSANTARA INDONESIA\n3.  Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\n    Pemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang\n    Bentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969 Nomor\n    16, Tambahan Lembaran Negara Nomor 2890) Menjadi\n    Undang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan\n    Lembaran Negara Nomor 2904);\n4.  Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\n    Perseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21,\n    Tambahan Lembaran Negara Nomor 2894) sebagaimana telah diubah\n    dengan Peraturan Pemerintah Nomor 24 Tahun 1972 (Lembaran\n    Negara Tahun 1972 Nomor 32, Tambahan Lembaran Negara Nomor\n    2987)\n5.  Peraturan Pemerintah Nomor 5 Tahun 1974 tentang Penyertaan Modal\n    Negara Republik Indonesia Dalam Perseroan Terbatas Perusahaan\n    Perkembangan Ekonomi Nasional Rajawali Nusantara Indonesia (PT.\n    Rajawali Nusantara Indonesia) (Lembaran Negara Tahun 1974 Nomor\n    7)\n6.  Peraturan Pemerintah Nomor 3 Tahun 1983 tentang Tata Cara\n    Pembinaan dan Pengawasan Perusahaan Jawatan (PERJAN),\n    Perusahaan Umum (PERUM) dan Perusahaan Perseroan (PERSERO)\n    (Lembaran Negara Tahun 1983 Nomor 3, Tambahan Lembaran\n    Negara Nomor 3246) sebagaimana telah diubah dengan Peraturan\n    Pemerintah Nomor 28 Tahun 1983 (Lembaran Negara Tahun 1983\n    Nomor 37);\nMEMUTUSKAN \nMenetapkan PERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG\nPENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK\nINDONESIA KE DALAM MODAL SAHAM PERUSAHAAN\nPERSEROAN (PERSERO) PT. RAJAWALI NUSANTARA\nINDONESIA.",
         "tanggal sah": "18 Maret 1994"
     }
 }

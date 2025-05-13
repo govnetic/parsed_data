@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "600419a6-d1be-4da7-9e70-c074591f54af",
+            "id": "17107ce8-ba74-4d2d-88eb-b20b12ced9d5",
             "name": "Chapter I",
             "title": "\nPENYERTAAN MODAL NEGARA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2aee13ad-619c-4b10-9bd0-6f4a0cd445e6",
+                    "id": "78ce3590-f7c9-4152-99a5-16f29516b477",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "ef539d97-0ac5-486a-baad-cf66f5bf2f6d",
+                        "id": "b05cdcb3-fd0d-4f5c-8bb5-4f71dc65c329",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,11 +20,11 @@
                     }
                 },
                 {
-                    "id": "e293db75-7671-43d7-908c-1b413e70fc91",
+                    "id": "1550721f-7aa7-4643-a9ba-08972737622b",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "78909a5c-21b7-457f-9c8a-0803a1e250a3",
+                        "id": "ee5c1bb6-f3f2-4d25-9a4c-444e7302d26f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -35,36 +35,28 @@
             ]
         },
         {
-            "id": "4a848909-6c52-4cdd-b582-9d90bf280b78",
+            "id": "689770c8-38ce-44b9-b3ba-8dd9b1f0c979",
             "name": "Chapter II",
             "title": "\nMODAL PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "265dec41-8882-4851-a573-2697efc88c31",
+                    "id": "11718089-a470-451d-a7e4-52d9aadb1fba",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "af516a03-724c-46b5-b36f-fe9916310148",
+                            "id": "ebe6bf7a-ecb5-42ae-ab30-7021e4769b4d",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": ". Modal PERSERO pada saat pendiriannya seluruhnya\nmerupakan penyertaan Negara Republik Indonesia sebagai\nkekayaan Negara yang dipisahkan yang berasal dari dan yang\ntertanam dalam perusahaan perusahaan N.V. J.B. Wolters\nUitgevers Maatschappij. W. Versluijs Uitsgevers\nMaatschappij N.V. dan N.V. Technische Uitgevers H. Stam,\nyang nilainya akan ditetapkan secara bersama oleh Menteri\nKeuangan dan Menteri Penerangan.",
+                            "content": ". Modal PERSERO pada saat pendiriannya seluruhnya\nmerupakan penyertaan Negara Republik Indonesia sebagai\nkekayaan Negara yang dipisahkan yang berasal dari dan yang\ntertanam dalam perusahaan perusahaan N.V. J.B. Wolters\nUitgevers Maatschappij. W. Versluijs Uitsgevers\nMaatschappij N.V. dan N.V. Technische Uitgevers H. Stam,\nyang nilainya akan ditetapkan secara bersama oleh Menteri\n(2). Perusahaan\n(2). Perusahaan-perusahaan tersebut pada ayat (1) Pasal ini, adalah\nperusahaan-perusahaan yang berada di bawah pengurusan dan\npengelolaan Perusahaan Negara (P.N.) \"Pradnja Paramita\"\nsebagaimana yang dimaksudkan dalam Surat Keputusan\nWakil Menteri Pertama/Menteri Penerangan Nomor\n22/W.M.P.Bch/63 jis. Surat-surat Keputusan Menteri\nPenerangan Nomor 42/SK/M/65 dan Nomor 59/SK/M/1966\nyang semula masing-masingnya merupakan perusahaan milik\nBelanda yang dikenakan nasionalisasi berdasarkan Peraturan\nPemerintah Nomor 50 Tahun 1959 (Lembaran Negara\nRepublik Indonesia Tahun 1959 Nomor 121; Tambahan\nLembaran Negara Republik Indonesia Nomor 1889) dan\nPeraturan Pemerintah Nomor 1 Tahun 1961 (Lembaran\nNegara Republik Indonesia Tahun 1961 Nomor 1; Tambahan\nLembaran Negara Republik Indonesia Nomor 2122).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "453fe813-bf57-4185-bd7c-77ebbe21daca",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": ". Perusahaan-perusahaan tersebut pada ayat (1) Pasal ini, adalah\nperusahaan-perusahaan yang berada di bawah pengurusan dan\npengelolaan Perusahaan Negara (P.N.) \"Pradnja Paramita\"\nsebagaimana yang dimaksudkan dalam Surat Keputusan\nWakil Menteri Pertama/Menteri Penerangan Nomor\n22/W.M.P.Bch/63 jis. Surat-surat Keputusan Menteri\nPenerangan Nomor 42/SK/M/65 dan Nomor 59/SK/M/1966\nyang semula masing-masingnya merupakan perusahaan milik\nBelanda yang dikenakan nasionalisasi berdasarkan Peraturan\nPemerintah Nomor 50 Tahun 1959 (Lembaran Negara\nRepublik Indonesia Tahun 1959 Nomor 121; Tambahan\nLembaran Negara Republik Indonesia Nomor 1889) dan\nPeraturan Pemerintah Nomor 1 Tahun 1961 (Lembaran\nNegara Republik Indonesia Tahun 1961 Nomor 1; Tambahan\nLembaran Negara Republik Indonesia Nomor 2122).",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "98bd83da-62a7-470c-92eb-0f23ecbae30e",
+                            "id": "b8c0aae7-49f5-40b4-ae26-69935109ea2e",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": ". Neraca pembukaan PERSERO ditetapkan oleh Menteri\nKeuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -74,17 +66,17 @@
             ]
         },
         {
-            "id": "81d499de-6fb3-43fb-af87-aa941145af78",
+            "id": "30a6410e-c9b7-4ada-8d03-eb7fa5c850d4",
             "name": "Chapter III",
             "title": "\nPELAKSANAAN PENDIRIAN PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "057aeecf-a0d3-42e6-a214-5728177cf962",
+                    "id": "a0c3f43d-90bb-4997-a261-349904d54fa8",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "1ed2771f-ce49-495d-99a0-f243ffce7a91",
+                        "id": "0faa7c02-3400-4f58-adb5-2c424d3fe41a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -93,32 +85,45 @@
                     }
                 },
                 {
-                    "id": "757f21ea-7bd9-4e7c-9347-6573a682bde2",
+                    "id": "8e7a61ac-cdf6-429c-ae9e-8d48e63dd9f4",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": {
+                        "id": "2a217518-03a0-429a-b0ae-a22c6690a8c5",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\n---",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "6b07b2f2-3308-4c2b-a3df-b5d615000d2b",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0380a13b-9025-4ca4-b44c-e70e0aa6846c",
+                            "id": "1d9108f7-28b9-45b0-b03a-396848c5ccaa",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": ". Penyelesaian pendirian PERSERO dikuasakan kepada Menteri Keuangan, sesuai dengan ketentuan yang termaktub dalam Pasal 3 Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran Negara Republik Indonesia Tahun 1969 Nomor 21; Tambahan Lembaran Negara Republik Indonesia Nomor 2894).",
+                            "content": ". Penyelesaian pendirian PERSERO dikuasakan kepada Menteri\nKeuangan, sesuai dengan ketentuan yang termaktub dalam\nPasal 3 Peraturan Pemerintah Nomor 12 Tahun 1969\n(Lembaran Negara Republik Indonesia Tahun 1969 Nomor\n21; Tambahan Lembaran Negara Republik Indonesia Nomor\n2894).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1027ab8b-2d8e-46b5-922f-d7ef8156a7b5",
+                            "id": "8d9e541c-3517-4cf6-8a35-7204db23cc10",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": ". Menteri Keuangan dapat menyerahkan kekuasaan tersebut pada ayat (1) Pasal ini, dengan disertai hak substitusi, kepada Menteri Penerangan dengan ketentuan bahwa Rancangan Anggaran Dasar PERSERO harus mendapat persetujuan terlebih dahulu dari Menteri Keuangan.",
+                            "content": ". Menteri Keuangan dapat menyerahkan kekuasaan tersebut\npada ayat (1) Pasal ini, dengan disertai hak substitusi, kepada\nMenteri Penerangan dengan ketentuan bahwa Rancangan\nAnggaran Dasar PERSERO harus mendapat persetujuan\nterlebih dahulu dari Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a0624367-2124-41c5-9556-f497ca844076",
+                            "id": "a3471373-69bd-4aa4-90e2-f5c17b547770",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": ". Kepada Menteri Penerangan diberikan kekuasaan untuk menunjuk seseorang untuk ikut serta mendirikan PERSERO tersebut, sesuai dengan ketentuan yang termaktub dalam Pasal 6 Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran Negara Republik Indonesia Tahun 1969 Nomor 21; Tambahan Lembaran Negara Republik Indonesia Nomor 2894).",
+                            "content": ". Kepada Menteri Penerangan diberikan kekuasaan untuk\nmenunjuk seseorang untuk ikut serta mendirikan PERSERO\ntersebut, sesuai dengan ketentuan yang termaktub dalam Pasal\n6 Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran\nNegara Republik Indonesia Tahun 1969 Nomor 21; Tambahan\nLembaran Negara Republik Indonesia Nomor 2894).",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -126,30 +131,30 @@
             ]
         },
         {
-            "id": "bea6ccd8-67a5-41a4-a064-4a8d512d1626",
+            "id": "1fcc2e8b-3597-4b93-8618-2e8be2372a2f",
             "name": "Chapter IV",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "cbad4767-cd67-4bfa-a5f2-ea5346c80fb1",
+                    "id": "fad96bd3-144b-4a6f-8adf-aa4e532cc0ce",
                     "name": "Article 6",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f8116f5a-ba29-40f1-996f-e49ed66baa80",
+                            "id": "c0114dae-3fbf-417b-b844-38478b993e14",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": ". Pada saat berdirinya PERSERO, maka Perusahaan Negara (P.N.) \"Pradnja Paramita\" sebagaimana yang dimaksudkan dalam Surat Keputusan Wakil Menteri Pertama/Menteri Penerangan Nomor 22/W.M.P.-Bch/63 jis. Surat-surat Keputusan Menteri Penerangan Nomor 42/SK/M/65 dan Nomor 59/SK/M/1966 dinyatakan bubar.",
+                            "content": ". Pada saat berdirinya PERSERO, maka Perusahaan Negara\n(P.N.) \"Pradnja Paramita\" sebagaimana yang dimaksudkan\ndalam Surat Keputusan Wakil Menteri Pertama/Menteri\nPenerangan Nomor 22/W.M.P.-Bch/63 jis. Surat-surat\nKeputusan Menteri Penerangan Nomor 42/SK/M/65 dan\nNomor 59/SK/M/1966 dinyatakan bubar.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "85977e96-ea1d-493c-a8c2-c89eb6320516",
+                            "id": "56b32757-dcdc-45ce-a9d2-02fc2bb8ceaf",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": ". Semua hal yang timbul dari dan yang berhubungan dengan\npelaksanaan ketentuan-ketentuan tersebut pada ayat (1) Pasal\nini akan diatur lebih lanjut oleh Menteri Penerangan\nberdasarkan peraturan perundangan yang berlaku, dengan\nketentuan bahwa semua hak dan kewajiban serta akibat-akibat\nyang timbul dari suatu perjanjian antara Perusahaan Negara\n\"Pradnja Paramita\" dengan Pihak lain kekayaan termasuk\ncadangan-cadangan; perlengkapan termasuk pegawai\n(karyawan) dan usaha-usaha Perusahaan Negara (P.N.)\n\"Pradnja Paramita\" beralih pada PERSERO.",
+                            "content": " Semua\n(2). Semua hal yang timbul dari dan yang berhubungan dengan\npelaksanaan ketentuan-ketentuan tersebut pada ayat (1) Pasal\nini akan diatur lebih lanjut oleh Menteri Penerangan\nberdasarkan peraturan perundangan yang berlaku, dengan\nketentuan bahwa semua hak dan kewajiban serta akibat-akibat\nyang timbul dari suatu perjanjian antara Perusahaan Negara\n\"Pradnja Paramita\" dengan Pihak lain kekayaan termasuk\ncadangan-cadangan; perlengkapan termasuk pegawai\n(karyawan) dan usaha-usaha Perusahaan Negara (P.N.)\n\"Pradnja Paramita\" beralih pada PERSERO.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -157,17 +162,17 @@
             ]
         },
         {
-            "id": "70c6f16e-5ba5-4321-9097-9e50ccf04692",
+            "id": "6a5cd94f-1e65-4042-9d7a-83e4ce853b4d",
             "name": "Chapter V",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "10e0fe62-65e6-4b1c-b1c8-4bf7d82f9fc4",
+                    "id": "2a081cac-55ea-428e-acbd-271572678eba",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "102b5bbd-8e41-410c-b119-967882efc0bc",
+                        "id": "56b3e1de-bdbf-4890-b5fa-a3905cb0b9b7",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -176,11 +181,11 @@
                     }
                 },
                 {
-                    "id": "9c4d2102-88a6-4079-9240-f47efaf27116",
+                    "id": "a2b38f07-ccad-429c-8af0-b771dea5e215",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "41d68bc9-a517-4487-ac68-cc59c8734a28",
+                        "id": "ae46b805-aaa7-436e-b304-8732c61c33f2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -201,7 +206,7 @@
         },
         "Mengingat": {
             "Introduction": "\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Kitab Undang-undang Hukum Dagang Stbl. 1847 23\nsebagaimana yang telah beberapa kali diubah dan ditambah,\nterakhir dengan Undang-Undang Nomor 4 Tahun 1971\n(Lembaran Negara Republik Indonesia Tahun 1971 Nomor\n20; Tambahan Lembaran Negara Republik Indonesia Nomor\n2959);",
+            "2": " Kitab Undang-undang Hukum Dagang Stbl. 1847  23\nsebagaimana yang telah beberapa kali diubah dan ditambah,\nterakhir dengan Undang-Undang Nomor 4 Tahun 1971\n(Lembaran Negara Republik Indonesia Tahun 1971 Nomor\n20; Tambahan Lembaran Negara Republik Indonesia Nomor\n2959);",
             "3": " Undang-undang Nomor 9 Tahun 1969 (Lembaran Negara\nRepublik Indonesia Tahun 1969 Nomor 40; Tambahan\nLembaran Negara Republik Indonesia Nomor 2904);",
             "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran\nNegara Republik Indonesia Tahun 1969 Nomor 21; Tambahan\nLembaran Negara Republik Indonesia Nomor 2894)."
         },

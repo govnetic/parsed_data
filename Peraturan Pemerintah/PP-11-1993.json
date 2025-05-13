@@ -1,42 +1,42 @@
 {
     "results": [
         {
-            "id": "9ec15695-1a37-457a-908a-a382716c1f24",
+            "id": "8d633735-1a9f-4b7d-8875-866d4d4f3928",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "54db9741-2926-410a-a937-fe001807c13d",
+                "id": "88f43850-8e2e-46c0-9153-d74aba7a4e3c",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Surat Paten diberikan dengan bentuk dan isi sesuai dengan contoh\nterlampir pada Peraturan Pemerintah ini.",
+                "explanation": "\nCukup jelas"
             }
         },
         {
-            "id": "1a52c6ac-08c8-44de-9485-40b6b1d51ed2",
+            "id": "72deaa73-497f-4e0c-abdc-e718c71c6a1c",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "0b00523a-315c-48ce-9fe0-368a158e0652",
+                "id": "e1ae542c-86b0-4429-b387-d01b0177faf9",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Pejabat tersebut sesuai dengan Undang-undang Nomor 6 Tahun 1989 tentang\nPaten, adalah pejabat Kantor Paten.",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Surat Paten ditandatangani oleh Menteri Kehakiman atau pejabat yang\nditunjuknya.\n",
+                "explanation": "\nPejabat tersebut sesuai dengan Undang-undang Nomor 6 Tahun 1989 tentang\nPaten, adalah pejabat Kantor Paten."
             }
         },
         {
-            "id": "bac8b398-55b7-4be8-870e-9dd8f05249a2",
+            "id": "d48eb310-189c-4e7b-b90a-45a6ce9775a4",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "27bd455f-b26a-48c5-ac62-459fc6e610a0",
+                "id": "0456b829-6f6b-4d1d-820c-5508ce131799",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas\n",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                "explanation": "\nCukup jelas\n"
             }
         }
     ],

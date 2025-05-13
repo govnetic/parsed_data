@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "fd65f2b7-c5a5-421c-8958-95411df1bf40",
+            "id": "85341be4-cff7-4391-b16d-d8a75482c051",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "e7a68468-a596-4d69-9252-1a4614de5bdc",
+                "id": "b3d20ac9-9119-48c3-862f-93096ef182fd",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "030141be-a5d4-4a0c-85ff-5cd42fe605fc",
+            "id": "428afc68-9821-4e1e-8013-b0000d1d6d51",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "c1a84315-1903-4f65-97cc-042a5bcecd5e",
+                "id": "d6686c78-742d-4b27-8486-f922b83c04b8",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,15 +27,15 @@
             }
         },
         {
-            "id": "39417327-e1ba-4cae-ba09-cc5b34359a06",
+            "id": "08745a2d-bd41-477f-9499-bac33fc19d03",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "0abec3fe-bc36-467c-aa14-7f513c06e0bd",
+                "id": "74eb97c0-e036-4344-ba52-14789a33751f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar\nAgar\nsetiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -53,7 +53,7 @@
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia 1945;",
             "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik Indonesia\nNomor 70, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4297);",
-            "3": " Undang-Undang\nUndang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);",
+            "3": " Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);",
             "4": " Undang-Undang Nomor 22 Tahun 2011 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 2012\n(Lembaran Negara Republik Indonesia Tahun 2011 Nomor\n113, Tambahan Lembaran Negara Republik Indonesia\nNomor 5254) sebagaimana telah diubah dengan Undang-\nUndang Nomor 4 Tahun 2012 tentang Perubahan atas\nUndang-Undang Nomor 22 Tahun 2011 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 2012\n(Lembaran Negara Republik Indonesia Tahun 2012 Nomor\n87, Tambahan Lembaran Negara Republik Indonesia\nNomor 5303);",
             "5": " Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata\nCara Penyertaan dan Penatausahaan Modal Negara pada\nBadan Usaha Milik Negara dan Perseroan Terbatas\n(Lembaran Negara Republik Indonesia Tahun 2005 Nomor\n116, Tambahan Lembaran Negara Republik Indonesia\nNomor 4555);"
         },

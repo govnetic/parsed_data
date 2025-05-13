@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "886418d8-e3cc-46e5-a285-e49baf425c00",
+            "id": "97c24224-88c8-4d48-b9d3-4a31b9d897eb",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "0bf3e111-ff6c-445a-b942-e17ef2c79dc1",
+                "id": "d3d7f723-0a3b-4c5c-8779-cf59a3bed96a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "b107bc63-aa9e-48e4-a8c7-697f2b5cac3e",
+            "id": "1b2c029d-4ddc-4ab4-abba-aa248bd4175b",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "ae53efc5-6d81-467f-a0f4-5d27ecfcca71",
+                "id": "b2403347-5322-4a1e-b851-46e16d3b6623",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "86e6273d-c520-42bf-8eaa-0d6f7bf11e4e",
+            "id": "145dfad0-1b0b-46e8-8dcc-5a10ae3313e5",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "4ac5bd04-f705-469b-859b-2a5456d53fc4",
+                "id": "0cf39610-869a-4d58-a292-a7078a56c65b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "649d50a9-597b-4dba-8c4e-f62ebceadc17",
+            "id": "6bfac297-1ddd-4121-83cc-471d367705dc",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "f3896be9-eff8-4813-89c7-f5853340510e",
+                "id": "d9d54c86-a0da-4e97-961f-23455f059031",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "8fe1b640-9f33-4cb1-822d-1971e5c183d5",
+            "id": "71046724-63e1-4e23-a9de-8cf207f0d4a1",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "904aec4a-3820-4293-a657-96ed812f44b4",
+                "id": "6be702d8-8c7f-4684-8993-629378198310",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "709506ff-1880-404c-a8f3-03dbf49fa8a7",
+            "id": "833337f5-2fc1-46ba-a2a1-69d3e41e72ef",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "256abb2f-3bf7-42a8-a3f8-fe3c6262e50d",
+                "id": "24b015fc-efe3-474b-a9dd-b1b0a01d2b8e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -79,11 +79,11 @@
             }
         },
         {
-            "id": "e39611da-e9c0-487b-89a9-9900139701c8",
+            "id": "4e39558f-1289-423a-8ecd-378b1f1b75be",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "c0b19d60-a90c-439d-8741-fa4e203cfe62",
+                "id": "25fa2676-db27-4a78-9941-bfca2202713f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -92,15 +92,15 @@
             }
         },
         {
-            "id": "526e93a2-f5a4-4a7e-803d-79e76235c11c",
+            "id": "e79742ae-5403-4385-84e6-524d4bbb8d04",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "8c5b921b-73cb-4863-a4d3-64199dda79d6",
+                "id": "b22c40d2-0e5b-4365-9a2d-978c560d377c",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -118,7 +118,7 @@
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor\n23) sebagaimana telah beberapa kali diubah, terakhir dengan\nUndang-undang Nomor 4 Tahun 1971 (Lembaran Negara Tahun\n1971 Nomor 20, Tambahan Lembaran Negara Nomor 2959);",
+            "2": " Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor\n---\n23) sebagaimana telah beberapa kali diubah, terakhir dengan\nUndang-undang Nomor 4 Tahun 1971 (Lembaran Negara Tahun\n1971 Nomor 20, Tambahan Lembaran Negara Nomor 2959);",
             "3": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang\nBentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969 Nomor\n16, Tambahan Lembaran Negara Nomor 2890) menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan\nLembaran Negara Nomor 2904);",
             "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21,\nTambahan Lembaran Noma Nomor 2894) sebagaimana telah diubah\ndengan Peraturan Pemerintah Nomor 24 Tahun 1972 (Lembaran\nNegara Tahun 1972 Nomor 32, Tambahan Lembaran Nomor 1897);",
             "5": " Peraturan Pemerintah Nomor 30 Tahun 1974 tentang Penyertaan\nModal Negara Republik Indonesia Untuk Pendirian Perusahaan\nPerseroan Di Bidang Perikanan Di Pekalongan (Jawa Tengah)\n(Lembaran Negara Tahun 1974 Nomor 41);",

@@ -1,43 +1,43 @@
 {
     "results": [
         {
-            "id": "5ec834f9-61f7-4e96-acb6-d234c4976106",
+            "id": "4bfe1f21-d144-4609-8add-e63053fd084d",
             "name": "Chapter I",
             "title": "\nPENYERTAAN MODAL NEGARA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8ac1e58c-2dc1-4d84-b8ed-d48ecc598939",
+                    "id": "78e43c6d-2357-489e-b1e0-6e619f8522b5",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "a5d3f516-4b9b-41c1-94a2-65111a7a40bf",
+                        "id": "a42ddc78-6713-4aed-94b6-1c93b0eb3714",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nNegara Republik Indonesia melakukan penyertaan dalam modal saham suatu Perusahaan Perseroan (PERSERO) sebagaimana dimaksud dalam Pasal, 2 Peraturan Pemerintah ini.",
+                        "content": "\nNegara Republik Indonesia melakukan penyertaan dalam modal\nsaham suatu Perusahaan Perseroan (PERSERO) sebagaimana\ndimaksud dalam Pasal, 2 Peraturan Pemerintah ini.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "d38c8aa5-5971-429f-89c1-55b5ee6a4090",
+                    "id": "e95bd74b-6fa7-4416-8b61-a5078ed4ce54",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9b0e99e5-7e10-48a7-86c9-229d76e18c6b",
+                            "id": "d786300d-5fec-4178-b1f6-07074d3137ac",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": ". Maksud dan tujuan Perusahaan Perseroan (.PERSERO)\ntersebut pada Pasal 1 peraturan Pemerintah ini, selanjutnya\ndalam Peraturan Pemerintah ini disebut PERSERO, adalah\nuntuk menerima segala macam asuransi kerugian begitu pula\nmemberi perantaraan dalam penerimaan segala macam\nasuransi kerugian.",
+                            "content": ". Maksud dan tujuan Perusahaan Perseroan (.PERSERO) tersebut pada Pasal 1 peraturan Pemerintah ini, selanjutnya dalam Peraturan Pemerintah ini disebut PERSERO, adalah untuk menerima segala macam asuransi kerugian begitu pula memberi perantaraan dalam penerimaan segala macam asuransi kerugian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "c7fc895c-e6f1-4679-b48c-55277271e79a",
+                            "id": "99842fa6-d60e-452a-afae-50de34849f8c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": ". PERSERO merupakan suatu badan hukum yang didirikan\ndalam rangka pelaksanaan peleburan usaha serta kegiatan dari\nbadan-badan usaha \"Perseroan Terbatas Asuransi Bendasraya\"\natau disingkat \"P.T. ASURANSI BENDASRAYA\"\nsebagaimana yang didirikan di Jakarta berdasarkan Akta\nNotaris Mohamad Ali Nomor 8 tanggal 11 Oktober 1971 dan\nyang telah mendapatkan pengesahan dari Menteri Kehakiman\npada tanggal 31 Januari 1972, Nomor J.A. 5/22/24; dan\n\"Perseroan Terbatas Umum International Underwriters\" atau\ndisingkat \"P.T. U.I.U.\" yang didirikan di Jakarta berdasarkan\nAkta Notaris Soeleman Ardjasasmita Nomor 27 tanggal 21\nNopember 1967 dan diperbaiki dengan naskah Nomor 48\ntanggal 27 Desember 1967 yang dibuat dihadapan Notaris itu\njuga dan yang telah mendapatkan pengesahan dari Menteri\nKehakiman pada tanggal 28 Desember 1967 Nomor\nJ.A./5/98/12, dalam satu badan usaha.\n",
+                            "content": ". PERSERO merupakan suatu badan hukum yang didirikan dalam rangka pelaksanaan peleburan usaha serta kegiatan dari badan-badan usaha \"Perseroan Terbatas Asuransi Bendasraya\" atau disingkat \"P.T. ASURANSI BENDASRAYA\" sebagaimana yang didirikan di Jakarta berdasarkan Akta Notaris Mohamad Ali Nomor 8 tanggal 11 Oktober 1971 dan yang telah mendapatkan pengesahan dari Menteri Kehakiman pada tanggal 31 Januari 1972, Nomor J.A. 5/22/24; dan \"Perseroan Terbatas Umum International Underwriters\" atau disingkat \"P.T. U.I.U.\" yang didirikan di Jakarta berdasarkan Akta Notaris Soeleman Ardjasasmita Nomor 27 tanggal 21 Nopember 1967 dan diperbaiki dengan naskah Nomor 48 tanggal 27 Desember 1967 yang dibuat dihadapan Notaris itu juga dan yang telah mendapatkan pengesahan dari Menteri Kehakiman pada tanggal 28 Desember 1967 Nomor J.A./5/98/12, dalam satu badan usaha.\n",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -45,36 +45,36 @@
             ]
         },
         {
-            "id": "e53977e0-3970-47f9-a1ee-2cbdf51ccb51",
+            "id": "467082d8-85af-409e-91ba-5f45d4eb14a2",
             "name": "Chapter II",
             "title": "\nMODAL PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "80b675a2-6250-4618-bc14-c284e406bd9d",
+                    "id": "be9be460-571e-4cc4-8498-beda82ee51ce",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9c8a46b7-ceba-422e-a4e5-4ababc922f8a",
+                            "id": "37b8c407-aa62-4e55-a245-22e478ace919",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": ". Modal PERSERO berasal dari kekayaan \"P.T. ASURANSI\nBENDASRAYA\" dan \"P.T. U.I.U.\" tersebut pada Pasal 2 ayat",
+                            "content": ". Modal PERSERO berasal dari kekayaan \"P.T. ASURANSI \nBENDASRAYA\" dan \"P.T. U.I.U.\" tersebut pada Pasal 2 ayat\n(2) Peraturan Pemerintah ini, yang jumlahnya akan ditetapkan\noleh Menteri Keuangan berdasarkan hasil likwidasi masing-\nmasing Perseroan Terbatas tersebut sebagaimana yang akan\ndilaksanakan dalam rangka pelaksanaan peleburan usaha serta\nkegiatan dari badan-badan usaha tersebut dalam PERSERO\nsebagaimana yang dimaksud dalam Pasal 2 ayat (2) Peraturan\nPemerintah ini.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "644d54b3-252d-4447-b87c-1e5055761bbe",
+                            "id": "a7ee828e-b89c-4536-9583-e4e7f8deccab",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": ". Modal PERSERO sebagaimana yang dimaksud dalam ayat (1)\nPasal ini terbagi atas saham-saham sesuai dengan ketentuan\nPasal 7 ayat (1) Peraturan Pemerintah Nomor 12 Tahun 1969\njo. Pasal I Peraturan Pemerintah Nomor 24 Tahun 1972.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f99e6f22-1a06-4086-a255-155795fd82ec",
+                            "id": "10cd8f64-e505-431a-8c0e-a79e2553c4d0",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Neraca pembukaan PERSERO ditetapkan oleh Menteri\nKeuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -84,17 +84,17 @@
             ]
         },
         {
-            "id": "e2614de1-cbac-4485-b761-d37a2b1e1cc4",
+            "id": "098525ca-b10e-454b-949b-358b9b7d34ea",
             "name": "Chapter III",
             "title": "\nPELAKSANAAN PENDIRIAN PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "be18f383-fa06-4702-be56-61db5e72a643",
+                    "id": "7009f81f-62d6-49df-a0a0-6b9d1712bda4",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "d0b83f5d-570e-47b2-adde-a4bb768efba3",
+                        "id": "1b8d2cb5-8d55-4b30-a656-42c6fa80777e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -103,22 +103,22 @@
                     }
                 },
                 {
-                    "id": "234d68ac-bcd8-48db-8c93-c243d381f07d",
+                    "id": "2c20241c-c7b6-4d46-978e-0e0ec131d2d6",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "da5f5914-e701-4252-a885-4bfa03ffdb30",
+                            "id": "a7ac5eb1-4f57-4028-aaa7-465aa719486e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": ". Penyelesaian pendirian PERSERO sebagaimana yang\ndimaksud dalam Pasal 4. Peraturan Pemerintah ini dikuasakan\ndengan hak substitusi kepada Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "31456fec-f1c3-4144-bdd2-bf3169ae2ed4",
+                            "id": "4ef166d1-a4e5-4e16-a6dc-9cd22559cff6",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": ". Kepada Menteri Keuangan diberikan kekuasaan untuk\nmenunjuk seseorang untuk ikut serta mendirikan PERSERO\ntersebut sesuai dengan ketentuan yang termaktub dalam Pasal\n6 Peraturan Pemerintah Nomor 12 Tahun 1969.",
                             "explanation": "Tidak ada Penjelasan"
@@ -128,17 +128,17 @@
             ]
         },
         {
-            "id": "7f9cad36-867f-4bb0-b1c4-beb771878324",
+            "id": "f2806136-6e3e-4cf3-bf46-ea5d987ae3de",
             "name": "Chapter IV",
             "title": "\nKETENTUAN LAIN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "5312f0f6-f1cb-4a4d-9731-b4ed78f8baca",
+                    "id": "20d9f5fd-8e4c-479d-8f17-a549f228025b",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "1d70a77a-de4d-46d0-90af-588fda197765",
+                        "id": "318ec6a8-3239-4476-9e09-66cbb2925fd5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -149,17 +149,17 @@
             ]
         },
         {
-            "id": "a0f5c66c-6f2a-4a16-ad2b-972d47ee75a6",
+            "id": "1417823b-d940-4206-870f-d7c4662edb6c",
             "name": "Chapter V",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "513da743-e625-4737-9378-170790cdfd7a",
+                    "id": "c6f1a674-63cc-484c-aeed-47f3bf397fe3",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "3c2947db-0516-4177-b689-7bf869257940",
+                        "id": "4d218065-87b0-45b6-98c6-047368e3e06a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -168,15 +168,15 @@
                     }
                 },
                 {
-                    "id": "66a17487-9eef-4833-bf57-7566d793f6b4",
+                    "id": "1aad74e9-dc73-4440-bf57-b3bc6ae51504",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "2825c3ef-a077-4dac-ab17-8940233afe2c",
+                        "id": "e1c8010b-7c39-4326-8792-701cece9a385",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada hari tanggal\ndiundangkannya.\nAgar …\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan menempatkannya\ndalam Lembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada hari tanggal\ndiundangkannya.\n\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan menempatkannya\ndalam Lembaran Negara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
@@ -186,20 +186,20 @@
     "metadata": {
         "Nomor": "10",
         "Tahun": "1973",
-        "Tentang": "PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK\nPENDIRIAN PERUSAHAAN PERSEROAN DALAM\nBIDANG ASURANSI KERUGIAN\\",
+        "Tentang": "PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK\nPENDIRIAN PERUSAHAAN PERSEROAN DALAM\nBIDANG ASURANSI KERUGIAN\nPRESIDEN REPUBLIK INDONESIA,",
         "Menimbang": {
             "Introduction": "",
             "a": " bahwa untuk dapat menyediakan jaminan asuransi yang\nsetaraf dengan peningkatan perkembangan ekonomi pada\ndewasa ini, dipandang perlu untuk menyempurnakan tata-kerja\ndari perusahaan-perusahaan asuransi kerugian milik Negara,\ndalam hal ini \"PT. ASURANSI BENDASRAYA\" dan\n\"Perseroan Terbatas Umum Internasional Underwriters\",\ndengan cara melebur kedua badan usaha tersebut kedalam satu\nPerusahaan Perseroan yang baru;",
-            "b": "\nbahwa untuk melaksanakan pendirian Perusahaan Perseroan\ntersebut pada sub a diatas, maka sesuai dengan ketentuan\nPasal 2 ayat (1) Peraturan Pemerintah Nomor 12 Tahun 1969,\ndipandang perlu untuk mengeluarkan suatu Peraturan\nPemerintah yang mengatur penyertaan Negara Republik\nIndonesia dalam Perusahaan Perseroan termaksud."
+            "b": " bahwa untuk melaksanakan pendirian Perusahaan Perseroan\ntersebut pada sub a diatas, maka sesuai dengan ketentuan\nPasal 2 ayat (1) Peraturan Pemerintah Nomor 12 Tahun 1969,\ndipandang perlu untuk mengeluarkan suatu Peraturan\nPemerintah yang mengatur penyertaan Negara Republik\nIndonesia dalam Perusahaan Perseroan termaksud."
         },
         "Mengingat": {
             "Introduction": "",
-            "1": "",
-            "2": "\nPasal 5 ayat (2) Undang-Undang Dasar 1945;\nKitab Undang-undang Hukum Dagang Stbl 1847 23\nsebagaimana yang telah beberapa kali diubah dan ditambah,\nterakhir dengan Undang-undang Nomor 4 Tahun 1971\n(Lembaran Negara Republik Indonesia Tahun 1971 Nomor\n20; Tambahan Lembaran Negara Republik Indonesia Nomor\n2959);",
-            "3": "  Undang-undang Nomor 9 Tahun 1969 (Lembaran Negara Republik Indonesia Tahun 1969 Nomor 40; Tambahan Lembaran Negara Republik Indonesia Nomor 2904);",
-            "4": "  Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran Negara Republik Indonesia Tahun 1969 Nomor 21; Tambahan Lembaran Negara Republik Indonesia Nomor 2894), jo. Peraturan Pemerintah Nomor 24 Tahun 1972 (Lembaran Negara Republik Indonesia Tahun 1972 Nomor 32; Tambahan Lembaran Negara Republik Indonesia Nomor 2987);"
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Kitab Undang-undang Hukum Dagang Stbl 1847  23\nsebagaimana yang telah beberapa kali diubah dan ditambah,\nterakhir dengan Undang-undang Nomor 4 Tahun 1971\n(Lembaran Negara Republik Indonesia Tahun 1971 Nomor\n20; Tambahan Lembaran Negara Republik Indonesia Nomor\n2959);",
+            "3": " Undang-undang Nomor 9 Tahun 1969 (Lembaran Negara\nRepublik Indonesia Tahun 1969 Nomor 40; Tambahan\nLembaran Negara Republik Indonesia Nomor 2904);",
+            "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran\nNegara Republik Indonesia Tahun 1969 Nomor 21; Tambahan\nLembaran Negara Republik Indonesia Nomor 2894),\njo. Peraturan Pemerintah Nomor 24 Tahun 1972 (Lembaran\nNegara Republik Indonesia Tahun 1972 Nomor 32; Tambahan\nLembaran Negara Republik Indonesia Nomor 2987);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN PERUSAHAAN PERSEROAN DALAM BIDANG ASURANSI KERUGIAN.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nTENTANG PENYERTAAN MODAL NEGARA REPUBLIK\nINDONESIA UNTUK PENDIRIAN PERUSAHAAN\nPERSEROAN DALAM BIDANG ASURANSI KERUGIAN.",
         "tanggal sah": "24 Maret 1973"
     }
 }

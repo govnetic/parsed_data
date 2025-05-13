@@ -1,28 +1,28 @@
 {
     "results": [
         {
-            "id": "f2dfb069-7ac7-4728-bb91-3a3993cdcf24",
+            "id": "14d26059-007e-4627-bcd3-e737e810bbe1",
             "name": "Chapter I",
             "title": "\n1. Pendahuluan.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "c3b2a156-05db-40b8-9bb9-31db58145c4e",
+                    "id": "7992c6ac-2eed-44bf-b170-61f6f2d2ad86",
                     "name": "Article 1",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5cd6a51c-0ad0-4f9b-8afb-35845c4bbfc9",
+                            "id": "a1a86ae5-13e3-4d81-923c-68bdb4f83fb9",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dewan Perancang Nasional, yang selanjutnya disingkatkan menjadi D.P.N., berdiri\ndi bawah pengawasan Dewan Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "102c7c97-7d9f-4799-b073-15183cfc474c",
+                            "id": "32160a8a-2f34-430f-b2cd-e30f8b4919c8",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pembiayaan D.P.N. masuk Anggaran Belanja Pemerintah Agung dan Badan-\nbadan Pemerintah Tertinggi Republik Indonesia.",
                             "explanation": "Tidak ada Penjelasan"
@@ -30,22 +30,22 @@
                     ]
                 },
                 {
-                    "id": "f936ff7d-8d47-4bda-8902-bf65927068db",
+                    "id": "58f2856b-f0c7-4892-9dc0-2164cd50ea4b",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0551e152-9f5b-4be9-baf2-a1631b64d0e2",
+                            "id": "814e07bb-4bb2-4bea-95ad-d33a649e40b9",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Sekretariat D.P.N. berkedudukan di Jakarta.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "3701f3c3-52a8-4368-b593-1a32c60e9de5",
+                            "id": "86057985-7fbf-4c9d-8009-5e26ca225e55",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Lembaga-lembaga yang menjadi bagian atau yang berhubungan dengan D.P.N.\nboleh berkedudukan di luar kota Jakarta menurut keputusan Pemerintah.",
                             "explanation": "Tidak ada Penjelasan"
@@ -53,22 +53,22 @@
                     ]
                 },
                 {
-                    "id": "9fc6cb0f-abc3-40a0-ad96-62501bf69092",
+                    "id": "26ce0352-dc22-469f-be13-1404a51e3d84",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "06f536fc-4282-4483-a76a-369bbc1f435a",
+                            "id": "562d33dc-59dd-4cc1-b7ee-6e0673075a85",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Anggota Pimpinan D.P.N., anggota Pimpinan Seksi dan Sekretaris Jenderal\nbertempat tinggal di Jakarta.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4732596e-11b8-4c93-8fc7-827d4427d383",
+                            "id": "bfc18fae-86d4-4554-952d-a0752ebc38a8",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pegawai D.P.N. bertempat tinggal di Jakarta, atau di luar Jakarta menurut\npenetapan pimpinan D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
@@ -78,73 +78,73 @@
             ]
         },
         {
-            "id": "a2390a8c-a697-463f-bde1-47140f80a2e6",
+            "id": "d7dfd4f6-5332-420b-af61-614ea164b86d",
             "name": "Chapter II",
             "title": "\nTugas D.P.N.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "0703e9f5-6802-4b39-8967-782c4d862e8d",
+                    "id": "401f14d5-272e-4e0e-a972-df64a64cfdcf",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "8b52f503-370f-43cd-86b6-37d10837998f",
+                        "id": "ca0f6aee-9449-4ffa-8903-302f7e87f873",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nTugas D.P.N. ialah seperti dirumuskan dalam Undang-undang tentang Dewan\nPerancangan Nasional dalam pasal 3 dan 4.\nORGANISASI D.P.N.",
-                        "explanation": "\nMengatur tugas kewajiban D.P.Ν.\nPasal 5-20.\nMengatur tugas dan kedudukan Pimpinan D.P.N. (Ketua, Wakil Ketua D.P. N.) dengan\nbantuan Sekretaris Jenderal, tugas pimpinan Seksi (Ketua dan Wakil Ketua Seksi)\ndengan bantuan Sekretaris Seksi,rumusan sumpah Ketua, Wakil Ketua D.P.N. dan\nSekretaris Jenderal.\nPasal 21-33\nMengatur pengangkatan 4 golongan anggota, kedudukan, tugas dan wewenang serta\nrumusan sumpah anggota.\nPasal 34-41.\nMengatur Seksi-seksi, Pimpinan Seksi (Ketua, Wakil Ketua Seksi dengan bantuan\nSekretaris, tugas, kedudukan dan pengangkatan Ketua, Wakil Ketua Seksi serta\nSekretaris Seksi.\nSeksi-seksi yang akan dibentuk D.P.N. misalnya Seksi Kenegaraan, Ekonomi,\nKeuangan, Pertahanan, Statistik, Industri, Perdagangan, Urusan Bank, Sosial, Lalu-\nlintas, Transmigrasi, Pertanian, Pengairan, Perkebunan, Kehutanan, Kehewanan,\nPerikanan, Pertambahgan, Kesehatan. Bahan Makanan, Pendidikan, Kebudayaan,\nKeolah-ragaan dan Tenaga Kerja (man-power).\nPasal 42-43.\nMengatur tugas Panitia Rumah Tangga dan Panitia Khusus yang lain."
+                        "explanation": "\nMengatur tugas kewajiban D.P.N.\nPasal 5-20.\nMengatur tugas dan kedudukan Pimpinan D.P.N. (Ketua, Wakil Ketua D.P. N.) dengan\nbantuan Sekretaris Jenderal, tugas pimpinan Seksi (Ketua dan Wakil Ketua Seksi)\ndengan bantuan Sekretaris Seksi,rumusan sumpah Ketua, Wakil Ketua D.P.N. dan\nSekretaris Jenderal.\nPasal 21-33\nMengatur pengangkatan 4 golongan anggota, kedudukan, tugas dan wewenang serta\nrumusan sumpah anggota.\nPasal 34-41.\nMengatur Seksi-seksi, Pimpinan Seksi (Ketua, Wakil Ketua Seksi dengan bantuan Sekretaris, tugas, kedudukan dan pengangkatan Ketua, Wakil Ketua Seksi serta Sekretaris Seksi.\nSeksi-seksi yang akan dibentuk D.P.N. misalnya Seksi Kenegaraan, Ekonomi, Keuangan, Pertahanan, Statistik, Industri, Perdagangan, Urusan Bank, Sosial, Lalu-lintas, Transmigrasi, Pertanian, Pengairan, Perkebunan, Kehutanan, Kehewanan, Perikanan, Pertambahgan, Kesehatan. Bahan Makanan, Pendidikan, Kebudayaan, Keolah-ragaan dan Tenaga Kerja (man-power).\nPasal 42-43.\nMengatur tugas Panitia Rumah Tangga dan Panitia Khusus yang lain."
                     }
                 }
             ]
         },
         {
-            "id": "12d7e5e0-5f17-4eb9-b42c-29bec84705f5",
+            "id": "1aed7c8d-ca40-4e9e-b120-9ceba5e8342d",
             "name": "Chapter III",
             "title": "\nKETENTUAN UMUM.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "a708c8ad-865f-4645-a492-c83f15f8f131",
+                    "id": "feffc1b1-7e0a-4d15-8356-2c2273b72392",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "29781be2-e3d2-4111-832a-5015aa5896e5",
+                            "id": "08ad5418-20ef-43dc-80d9-5888535fde5f",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Organisasi D.P.N. dipimpin oleh Pimpinan D.P.N. yang terdiri atas Keteua D.P.N.\ndan Wakil Ketua D.P.N. dengan bantuan seorang Sekretaris Jenderal.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6e98494c-34d9-4dab-b436-e213c4f72db7",
+                            "id": "b8c87479-d97a-42d4-8fe0-0d59d82f3d01",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Ketua D.P.N.mengetuai Pimpinan D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6ddf17fa-9827-48e0-a8b6-896ee115668c",
+                            "id": "b93f942b-0d7c-45ef-a147-270022952041",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " D.P.N. dapat mengusulkan kepada Pemerintah lembaga untuk kepentingan\npembangunan atau memakai lembaga yang sudah ada; barang sesuatunya diatur\nmenurut keputusan Pemerintah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e6acc5f6-74a9-4e9b-9c12-5a8b4bfabf99",
+                            "id": "f7a71649-0bfb-4463-a31d-df915d23b6f1",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " D.P.N. membentuk panitia-panitia untuk mengerjakan tugas D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "21f987af-618f-460c-9f5d-23faab833a07",
+                            "id": "9cd0f100-802c-4aac-a5e1-35f549c8c798",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Tugas anggota Pimpinan D.P.N. serta lembaga dan panitia seperti dimaksud\ndalam ayat (1), (2), (3) dan (4) di atas diatur selanjutnya dalam pasal-pasal\nPeraturan Pemerintah ini dan dalam Peraturan Tata-tertib D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
@@ -152,22 +152,22 @@
                     ]
                 },
                 {
-                    "id": "c4bcb244-39eb-4cfb-b0a6-c859cc5cfc90",
+                    "id": "360f806d-f3dc-4157-a12b-7a57f2600ed3",
                     "name": "Article 6",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5f6fd812-db27-4dc4-b5b7-b91f2bb7dc3a",
+                            "id": "a7e11160-4c40-40eb-94c7-9896d1e28e96",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Seksi D.P.N. dipimpin oleh Pimpinan Seksi yang terdiri atas : Ketua Seksi, Wakil\nKetua Seksi dengan bantuan Sekretaris Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8d3df5bf-fa16-49a9-85f8-40519b07bd4b",
+                            "id": "0d82a4cc-c5f9-4bc4-8c07-29ac5594702f",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Tugas anggota pimpinan Seksi dan pegawai D.P.N. diatur selanjutnya dalam\npasal-pasal Peraturan Pemerintah ini dalam Peraturan Tata-tertib D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
@@ -175,11 +175,11 @@
                     ]
                 },
                 {
-                    "id": "72065a24-812e-4471-94bf-ecd277ce3112",
+                    "id": "69469531-4cb1-4fc8-b6fb-59c263891fe1",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "b52bd87c-e56c-4c94-83fe-5ea2dc92dc5b",
+                        "id": "fe88bfa3-fede-48c1-a330-85dee780305b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -188,22 +188,22 @@
                     }
                 },
                 {
-                    "id": "74695338-0950-4ea8-8942-38532db2faf2",
+                    "id": "dc751cfa-5f39-4d7d-8b78-6c286a495092",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d9871f11-851e-4276-a4b0-bfbbf2347959",
+                            "id": "d6662a47-0913-48ed-b44c-884df0123d1c",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Ketua D.P.N. diangkat dan diperhentikan oleh Presiden atas usul Dewan Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "890e4525-8ca0-412c-9a5c-f8d0858178c7",
+                            "id": "5ac18972-a552-4951-967d-15988d5a634c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Ketua D.P.N. memenuhi syarat :\n1. warga-negara Indonesia;\n2. telah berusia sekurang-kurangnya 25 tahun;\n3. yang bukan orang yang tidak diperkenankan serta dalam atau menjalankan hak-pilih ataupun orang yang telah dicabut haknya untuk dipilih;\n4. orang ahli yang memiliki hasrat dan semangat pembangunan semesta membentuk masyarakat yang adil dan makmur berdasarkan Pancasila dengan melaksanakan pembangunan nasional yang berencana;\n5. anggota, seperti tersebut dalam pasal 21.\n4. Tugas Ketua D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
@@ -211,24 +211,24 @@
                     ]
                 },
                 {
-                    "id": "62deb63c-8545-4b4e-8766-9e11c8b62d65",
+                    "id": "bd37d0f5-0198-42a1-8a77-a001cf053afb",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "23a0782c-a3b0-4893-a13b-ca06851df747",
+                        "id": "86b29098-f1d8-4012-a3ba-42555967904b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nTugas kewajiban Ketua D.P.N. yang terutama ialah:\na. memimpin Dewan Perancang Nasional dalam mempersiapkan rancangan Undang-undang Pembangunan Nasional yang berencana;\nb. Ketua Pimpinan D.P.N. dan Panitia Rumah Tangga;\nc. memimpin sidang pleno D.P.N.;\nd. mengusulkan pengangkatan dan pemberhentian Sekretaris jenderal kepada Pemerintah;\ne. sebagai anggota Pimpinan D.P.N. ikut mengangkat dan memberhentikan pegawai-pegawai D.P.N. lain;\nf. sebagai anggota Pimpinan D.P.N. ikut membentuk panitia- D.P.N. dan Seksi-seksi Pembangunan Semesta;\ng. menempatkan Amanat Presiden ke dalam agenda sidang pleno D.P.N.\nh. memimpin mempersiapkan rancangan Undang-undang Pembangunan Nasional yang berencana dengan memberi petunjuk kepada Seksi-seksi dan para anggota D.P.N;\ni. menyampaikan rancangan undang-undang yang telah diputuskan oleh sidang pleno P.P.N. itu ke Dewan Menteri.\nj. menghadiri sidang Dewan Menteri atas undangan Dewan Menteri untuk ikut membicarakan soal-soal serta peraturan pembangunan dan hal-hal yang menyangkut D.P.N.;\nk. memimpin penilaian penyelenggaraan pembangunan menurut Undang-undang Pembangunan Nasional yang berencana;\nl. senantiasa berhubungan dengan Perdana Menteri dalam hal-hal Pembangunan dan D.P.N.",
+                        "content": "\nTugas kewajiban Ketua D.P.N. yang terutama ialah :\na. memimpin Dewan Perancang Nasional dalam mempersiapkan rancangan Undang-undang Pembangunan Nasional yang berencana;\nb. Ketua Pimpinan D.P.N. dan Panitia Rumah Tangga;\nc. memimpin sidang pleno D.P.N.;\nd. mengusulkan pengangkatan dan pemberhentian Sekretaris jenderal kepada Pemerintah;\ne. sebagai anggota Pimpinan D.P.N. ikut mengangkat dan memberhentikan pegawai-pegawai D.P.N. lain;\nf. sebagai anggota Pimpinan D.P.N. ikut membentuk panitia- D.P.N. dan Seksi-seksi Pembangunan Semesta;\ng. menempatkan Amanat Presiden ke dalam agenda sidang pleno D.P.N.\nh. memimpin mempersiapkan rancangan Undang-undang Pembangunan Nasional yang berencana dengan memberi petunjuk kepada Seksi-seksi dan para anggota D.P.N;\ni. menyampaikan rancangan undang-undang yang telah diputuskan oleh sidang pleno P.P.N. itu ke Dewan Menteri.\nj. menghadiri sidang Dewan Menteri atas undangan Dewan Menteri untuk ikut membicarakan soal-soal serta peraturan pembangunan dan hal-hal yang menyangkut D.P.N.;\nk. memimpin penilaian penyelenggaraan pembangunan menurut Undang-undang Pembangunan Nasional yang berencana;\nl. senantiasa berhubungan dengan Perdana Menteri dalam hal-hal Pembangunan dan D.P.N.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "fb2dd2d7-bcfd-418b-a698-72efb47dbce6",
+                    "id": "2a65d898-8db6-4803-85c3-34abcb5d8c0e",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "f3e7272c-a2ae-4dd8-b119-8706589916cb",
+                        "id": "7e9a7c3f-1fab-4d8c-b676-23cda0f58def",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -237,30 +237,30 @@
                     }
                 },
                 {
-                    "id": "5c5c90e7-9e29-4d17-832f-ab34ab1424d1",
+                    "id": "1ad02d89-3a65-4882-89e0-124d9808529a",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "55c20909-e7ae-43ca-bcbc-e2cfec05ff16",
+                            "id": "b30c7a8e-f3a9-4b03-9b58-68bea2b0fcf2",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Ketua D.P.N. mempunyai kedudukan dan penghargaan sebagai seorang Menteri\nRepublik Indonesia.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "bd0620df-1be2-40df-a0d0-8b363d524d3b",
+                            "id": "af076ae5-251e-47f5-9d9f-1b8c338be1eb",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Ketua D.P.N. bertempat tinggal di Jakarta.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "83d269e6-27e7-49df-8575-d987a271d400",
+                            "id": "636a85d3-54c1-4bc3-92a6-86c293b00f5f",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Kedudukan keuangan dan penghargaan Ketua D.P.N. diatur dalam Peraturan\nPemerintah tersendiri, seperti dimaksud pada pasal 12 ayat (2) Undang-undang\ntentang dewan Perancang Nasional.\n6. Sumpah (Janji) Ketua D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
@@ -268,53 +268,45 @@
                     ]
                 },
                 {
-                    "id": "c267a2f6-566e-4829-bab4-6e7431b43f4c",
+                    "id": "71b9d59d-a48f-4a76-b367-7eb4256bb5c0",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "c19ae7ba-4afb-43e1-8bc2-5ab074bff222",
+                            "id": "10dee764-7b53-43b6-ae8f-ffb66b670132",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Sebelum memangku jabatannya, Ketua Dewan Perancang Nasional mengangkat\nsumpah (berjanji) dihadapan Presiden.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "77e8ca80-10cb-4342-96a6-335e970a7189",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": " Rumusan sumpah janji) Ketua D.P.N. berbunyi :\n”Saya bersumpah (berjanji) bahwa saya, untuk diangkat menjadi Ketua Dewan\nPerancang Nasional, langsung ataupun tak langsung, dengan nama atau dengan\ndalih apapun, tiada memberikan atau menjanjikan ataupun akan memberikan\nsesuatu kepada siapapun juga.\nSaya bersumpah (berjanji) bahwa saya untuk melakukan atau tidak melakukan\nsesuatu dalam jabatan ini, tidak sekali-kali akan menerima dari siapapun juga,\nlangsung ataupun tak langsung sesuatu janji atau pemberian.\nSaya bersumpah (berjanji) bahwa saya dengan sekuat tenaga akan memimpin\nDewan Perancang Nasional untuk membentuk masyarakat yang adil dan makmur\nberdasarkan Pancasila dengan melaksanakan pembangunan nasional berencana\nsebagai nikmat kemerdekaan yang telah dicapai oleh Perjuangan dan Revolusi\nKemerdekaan Indonesia.\nSaya bersumpah (berjanji) setia kepada Undang-undang Dasar Republik\nIndonesia, akan memelihara Undang-undang Dewan Perancang Nasional dan\nsegala peraturan yang belaku bagi Republik Indonesia.\nSaya bersumpah (berjanji) bahwa saya akan setia kepada nusa dan bangsa dan\nbahasa saya dengan setia akan memenuhi segala kewajiban yang ditanggungkan\nkepada saya oleh jabatan Ketua Dewan Perancang Nasional”\nB. WAKIL KETUA D.P.N.\n7. Pengangkatan Wakil Ketua D.P.N.",
+                            "content": " Sebelum memangku jabatannya, Ketua Dewan Perancang Nasional mengangkat\n(2)\nsumpah (berjanji) dihadapan Presiden.\nRumusan sumpah janji) Ketua D.P.N. berbunyi :\n\"Saya bersumpah (berjanji) bahwa saya, untuk diangkat menjadi Ketua Dewan\nPerancang Nasional, langsung ataupun tak langsung, dengan nama atau dengan\ndalih apapun, tiada memberikan atau menjanjikan ataupun akan memberikan\nsesuatu kepada siapapun juga.\nSaya bersumpah (berjanji) bahwa saya untuk melakukan atau tidak melakukan\nsesuatu dalam jabatan ini, tidak sekali-kali akan menerima dari siapapun juga,\nlangsung ataupun tak langsung sesuatu janji atau pemberian.\nSaya bersumpah (berjanji) bahwa saya dengan sekuat tenaga akan memimpin\nDewan Perancang Nasional untuk membentuk masyarakat yang adil dan makmur\nberdasarkan Pancasila dengan melaksanakan pembangunan nasional berencana\nsebagai nikmat kemerdekaan yang telah dicapai oleh Perjuangan dan Revolusi\nKemerdekaan Indonesia.\nSaya bersumpah (berjanji) setia kepada Undang-undang Dasar Republik\nIndonesia, akan memelihara Undang-undang Dewan Perancang Nasional dan\nsegala peraturan yang belaku bagi Republik Indonesia.\nSaya bersumpah (berjanji) bahwa saya akan setia kepada nusa dan bangsa dan\nbahasa saya dengan setia akan memenuhi segala kewajiban yang ditanggungkan\nkepada saya oleh jabatan Ketua Dewan Perancang Nasional\"\nB. WAKIL KETUA D.P.N.\n7. Pengangkatan Wakil Ketua D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "bab09e64-7546-497c-8cf3-106521564665",
+                    "id": "8fa6371f-72f4-4a3d-826a-969cbb3e3056",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e36c8850-15e3-45c5-84f9-5c99e207d0ce",
+                            "id": "1d932b9e-c31a-4657-af98-0da7157f3666",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Wakil Ketua D.P.N. diangkat dan diperhentikan oleh Presiden atas usul Dewan Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f1012f9a-f5ce-4a37-9c57-64c5234799ff",
+                            "id": "7eba0b93-32df-4672-b1e9-b38451ed419f",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Wakil Ketua memenuhi syarat :\n1. warga-negara Indonesia;\n2. telah berusia sekurang-kurangnya 25 tahun;\n3. orang ahli yang memiliki hasrat dan semangat pembangunan semesta membentuk masyarakat yang adil dan makmur berdasarkan Pancasila dengan melaksanakan pembangunan nasional yang berencana;\n4. anggota, seperti tersebut dalam pasal 21.",
+                            "content": " Wakil Ketua memenuhi syarat:\n1. warga-negara Indonesia;\n2. telah berusia sekurang-kurangnya 25 tahun;\n3. orang ahli yang memiliki hasrat dan semangat pembangunan semesta membentuk masyarakat yang adil dan makmur berdasarkan Pancasila dengan melaksanakan pembangunan nasional yang berencana;\n4. anggota, seperti tersebut dalam pasal 21.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a7972c88-4308-44ec-bbb4-2df7c2bef555",
+                            "id": "8fa5e33f-07f1-4618-aa88-1cd298f28b12",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Jumlah Wakil ketua D.P.N. sebanyak-banyaknya tiga orang.\n8. Tugas Wakil Ketua D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
@@ -322,11 +314,11 @@
                     ]
                 },
                 {
-                    "id": "2ca3e9d4-51f4-420f-beae-d5a730d9be62",
+                    "id": "80d62985-09ea-481b-b037-3b87ae68db63",
                     "name": "Article 14",
                     "type": "article",
                     "children": {
-                        "id": "6d24111e-1bf6-42ad-b10d-31f32edae961",
+                        "id": "7eb0cc72-ccff-4c13-9d0b-2bcc114e2079",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -335,22 +327,22 @@
                     }
                 },
                 {
-                    "id": "ff6442c1-5cd5-47a0-86de-eb7ba8e2451f",
+                    "id": "e51f320b-4ac8-410a-ad04-d328447707c6",
                     "name": "Article 15",
                     "type": "article",
                     "children": [
                         {
-                            "id": "48dc165c-3e4c-4b0d-a8f2-d25a6c5aacc8",
+                            "id": "5acc6c52-8104-4e6f-922c-3b8e285ffd5c",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Kedudukan keuangan Wakil Ketua D.P.N. diatur dalam Peraturan Pemerintah tersendiri, seperti dimaksud dalam pasal 12 ayat (2) Undang-undang tentang Dewan Perancang Nasional.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1db72e91-71ed-48b7-a39b-40a05a30b8fe",
+                            "id": "8fab968c-e3f7-48fa-8a42-0f71a9a5771d",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Wakil Ketua D.P.N bertempat tinggal di Jakarta.\n10. Sumpah (Janji).",
                             "explanation": "Tidak ada Penjelasan"
@@ -358,42 +350,34 @@
                     ]
                 },
                 {
-                    "id": "26998fa0-d0d4-4388-846c-0ce4b4626873",
+                    "id": "56203b01-cb6f-47ef-b9c7-c4f2580a52ce",
                     "name": "Article 16",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0dac709f-73c7-47aa-8c80-d381f2cdca5f",
+                            "id": "628d7472-1515-4369-ba77-2aae995fee23",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Sebelum memangku jabatan Wakil Ketua D.P.N. mengangkat sumpah (berjanji) di hadapan Presiden.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "409e149f-9587-422e-934e-89925b424bc0",
+                            "id": "8b7042b5-e9f4-4054-bf0a-45bc226ab3b7",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Presiden dapat menguasakan kepada Perdana Menteri, supaya mengangkat sumpah (berjanji) dihadapannya.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "d4ef5030-a943-48bf-9dd6-5574d794a88b",
-                            "name": "Verse 3",
-                            "number": "(3)",
-                            "type": "verse",
-                            "content": " Rumusan sumpah (janji) Wakil Ketua D.P.N. berbunyi sambil mengubah kata\nKetua dengan kata Wakil Ketua seperti rumusan sumpah Ketua D.P.N. menurut\npasal 12 ayat 2.\nC. SEKRETARIS JENDERAL\n11. Pengangkatan Sekretaris Jenderal.",
+                            "content": " Presiden dapat menguasakan kepada Perdana Menteri, supaya mengangkat sumpah (berjanji) dihadapannya.\nC. SEKRETARIS JENDERAL.\n11. Pengangkatan Sekretaris Jenderal.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "0c78ff6c-9060-47c8-8d84-9d4af902cb9f",
+                    "id": "666888b9-8350-4415-bcc3-cb531deca43d",
                     "name": "Article 17",
                     "type": "article",
                     "children": {
-                        "id": "4d006eea-bee9-432a-8234-6d0fc2254b7b",
+                        "id": "c93254f8-8446-4898-ac42-89ae96ce2e12",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -402,38 +386,38 @@
                     }
                 },
                 {
-                    "id": "cf143515-ab71-4cbe-96f3-cd18132ba582",
+                    "id": "cd69db18-85ac-43fd-9cb0-418701838f5c",
                     "name": "Article 18",
                     "type": "article",
                     "children": [
                         {
-                            "id": "01b04a89-c996-4522-90ba-c063d0b34f90",
+                            "id": "117a3bc8-59f0-4b89-8b1c-b21cbce88e5f",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Sekretaris Jenderal bekerja penuh bagi Dewan Perancang Nasional dan bertempat tinggal di Jakarta.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f3971d36-555f-4fc8-b1c8-2f56259ed63e",
+                            "id": "4abb132e-e1a8-42d6-bc90-6a824d237cc9",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Sekretaris Jenderal mengepalai Sekretaris Dewan. Perancang Nasional.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5dc3ede1-6f4b-419c-9cba-5edbad202d5e",
+                            "id": "1603294b-d1c2-4d4a-bc43-440aa5dbd6eb",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Segala Sekretaris Seksi-seksi adalah bagian dari Sekretaris Dewan Perancang Nasional.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a0c18e2a-b469-45ee-b536-1d6adbfa738c",
+                            "id": "a97fba13-9171-4f34-8547-7d4591b2c3e5",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Sekretaris Jenderal mengurus :\na. segala sesuatu yang termasuk urusan rumah tangga D.P.N.:\nb. membentu Ketua serta Pimpinan D.P.N. dan Panitia Rumah Tangga dalam melakukan pekerjaannya;\nc. memimpin semua Sekretaris Seksi dan segenap pegawai D.P.N.;\nd. mengepalai seluruh kepegawaian D.P.N.\n13. Kedudukan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -441,11 +425,11 @@
                     ]
                 },
                 {
-                    "id": "f425f170-f97a-49e4-98cb-9257b9e8162a",
+                    "id": "086572c9-ef5d-45a7-a4f1-9ef722871c1f",
                     "name": "Article 19",
                     "type": "article",
                     "children": {
-                        "id": "a2342666-157f-48e6-9416-30dec1750c49",
+                        "id": "5b99ae97-78e3-4e28-a412-9d4628801f03",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -454,32 +438,32 @@
                     }
                 },
                 {
-                    "id": "b078d4cc-9a0c-4839-b909-585358bcfa06",
+                    "id": "88beb9de-8d5c-44a4-941f-ddbd0d0149b0",
                     "name": "Article 20",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e54abbac-ae66-4222-af3d-ba482e05a588",
+                            "id": "a53e6721-36f2-4287-9b2a-e89465c602d2",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Sebelum memulai pekerjaan Sekretaris Jenderal D.P.N. mengangkat sumpah (berjanji) di depan Perdana Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "670a5253-c267-4233-b2a3-b559c13ee8aa",
+                            "id": "1ca8ab68-007d-4d28-98c7-ca50f3032174",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Perdana Menteri dapat menguasakan kepada Wakil Perdana Menteri atau Ketua D.P.N. supaya sumpah (janji) diucapkan di hadapannya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6e4a1f4f-b785-4c96-82ad-284c26afb9cc",
+                            "id": "7b8696e1-4fed-43b5-9fc7-8152c72b1f9d",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Rumusan sumpah (janji) Sekretaris Jenderal berbunyi seperti berikut:\n\"Saya bersumpah (berjanji) bahwa saya, untuk diangkat menjadi Sekretaris Jenderal pada Dewan Perancang Nasional, langsung atau tak langsung, dengan nama atau dalih apapun, tiada memberikan atau menjanjikan atau akan\nmemberikan sesuatu kepada siapapunjuga.\n\"Saya bersumpah, (berjanji) bahwa saya untuk melakukan atau tidak melakukan\nsesuatu dalam jabatan ini tidak sekali-kali akan menerima langsung ataupun tak\nlangsung dari siapapun juga sesuatu janji atau pemberian.\n\"Saya bersumpah (berjanji). bahwa saya, senantiasa setia, kepada Undang-\nundang Dasar Republik Indonesia serta mematuhi Undaang-undang Dewan\nPerancang Nasional dan segala peraturan yang lain yang berlaku bagi Republik\nIndonesia; bahwa saya akan berusaha dengan sekuat tenaga untuk membentuk\nmasyarakat yang adil dan makmur berdasarkan Pancasila dengan melaksanakan\npembangunan nasional dan kesejahteraan Republik Indonesia.\n\"Saya bersumpah (berjanji), bahwa saya akan setia kepada nusa dan bangsa dan\nbahwa saya akan memenuhi segala kewajiban yang ditanggungkan kepada saya\noleh jabatan Sekretaris Jenderal Dewan Perancang Nasional\".",
+                            "content": " Rumusan sumpah (janji) Sekretaris Jenderal berbunyi seperti berikut :\n\"Saya bersumpah (berjanji) bahwa saya, untuk diangkat menjadi Sekretaris Jenderal pada Dewan Perancang Nasional, langsung atau tak langsung, dengan nama atau dalih apapun, tiada memberikan atau menjanjikan atau akan\nmemberikan sesuatu kepada siapapunjuga.\n\"Saya bersumpah, (berjanji) bahwa saya untuk melakukan atau tidak melakukan\nsesuatu dalam jabatan ini tidak sekali-kali akan menerima langsung ataupun tak\nlangsung dari siapapun juga sesuatu janji atau pemberian.\n\"Saya bersumpah (berjanji). bahwa saya, senantiasa setia, kepada Undang-\nundang Dasar Republik Indonesia serta mematuhi Undaang-undang Dewan\nPerancang Nasional dan segala peraturan yang lain yang berlaku bagi Republik\nIndonesia; bahwa saya akan berusaha dengan sekuat tenaga untuk membentuk\nmasyarakat yang adil dan makmur berdasarkan Pancasila dengan melaksanakan\npembangunan nasional dan kesejahteraan Republik Indonesia.\n\"Saya bersumpah (berjanji), bahwa saya akan setia kepada nusa dan bangsa dan\nbahwa saya akan memenuhi segala kewajiban yang ditanggungkan kepada saya\noleh jabatan Sekretaris Jenderal Dewan Perancang Nasional\".",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -487,30 +471,30 @@
             ]
         },
         {
-            "id": "778be943-96ba-40f1-be35-45a8d7a58ad9",
+            "id": "98ef3c76-1893-4f25-abe9-be24a223456f",
             "name": "Chapter IV",
             "title": "\nANGGOTA D.P.N.\n15. Pengangkatan.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "433d1d31-b0bc-4ec3-9fcf-88c44b0b2fdf",
+                    "id": "dbd10ba9-7711-4fdc-9899-e5fbe2dbaefc",
                     "name": "Article 21",
                     "type": "article",
                     "children": {
-                        "id": "0704b183-d532-440c-b87e-05cc2dcc4394",
+                        "id": "a0b58ea4-6ce5-4f48-8130-7b9d403e1e73",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nAnggota D.P.N. memenuhi syarat-syarat yang diajukan Undang-undang tentang Dewan\nPerancang Nasional, yaitu:\n1. \n2. \n3. \nMemiliki hasrat dan semangat pembentuk masyarakat yang adil dan makmur\nberdasarkan Pancasila serta tidak bernoda dalam pergerakan kemerdekaan sejak\nhari Proklamasi 1945.\nAhli dalam soal pembangunan semesta dan berencana.\nBerkecakapan mempersiapkan pembangunan semesta menurut Undang-undang\nyang berisi pola, terbagi atau rencana pembangunan, penjelasan rencana dan\nrancangan pembiayaan.",
+                        "content": "\nAnggota D.P.N. memenuhi syarat-syarat yang diajukan Undang-undang tentang Dewan\nPerancang Nasional, yaitu :\n1. Memiliki hasrat dan semangat pembentuk masyarakat yang adil dan makmur\nberdasarkan Pancasila serta tidak bernoda dalam pergerakan kemerdekaan sejak\nhari Proklamasi 1945.\n2. Ahli dalam soal pembangunan semesta dan berencana.\n3. Berkecakapan mempersiapkan pembangunan semesta menurut Undang-undang\nyang berisi pola, terbagi atau rencana pembangunan, penjelasan rencana dan\nrancangan pembiayaan.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "172254b0-b486-4bb2-bace-c059ebab892d",
+                    "id": "d3b0f791-243f-41a2-b70b-1ce8289e8c00",
                     "name": "Article 22",
                     "type": "article",
                     "children": {
-                        "id": "00de696a-64eb-4d96-95f0-3972ea48c421",
+                        "id": "05598c3c-ad70-4390-8784-aff405e6ed9a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -519,30 +503,30 @@
                     }
                 },
                 {
-                    "id": "9c8baa58-a870-413a-b87a-bee7ab266a2b",
+                    "id": "15194f79-dd56-4cbf-9032-722c78de0c0b",
                     "name": "Article 23",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6c106d96-7adf-4ea0-981b-42471864d2ab",
+                            "id": "780a46e1-e4f6-45ee-8528-32823c23a623",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Presiden atas usul Dewan Menteri mengangkat seorang anggota tiap-tiap Daerah\nSwatantra tingkat I yang dapat mengemukakan soal-soal pembangunan dan\nmemenuhi syarat-syarat seperti tersebut pada pasal 21.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0ef6ce02-bd49-4a5e-80da-1c1e02cd60d6",
+                            "id": "ae1eadad-f6a1-47d4-bbc4-99a8032561e1",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dewan Menteri menyampaikan putusan kepada Dewan Pemerintah Daerah,\nbahwa tiap-tiap Daerah Swatantra tingkat I boleh menganjurkan dua orang calon\nanggota data waktu yang tertentu kepada Dewan Menteri dengan memenuhi\nsyarat-syarat seperti tersebut pada pasal 2 1.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9a1a407a-49c5-4d48-b9e9-32941c0830de",
+                            "id": "ca819279-82dc-44e0-b7a6-9ae5566471c7",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dewan Menteri mengajukan usul seorang calon anggota kepada Presiden seperti\ndimaksud pada ayat 1, dengan mempertimbangkan calon-calon yang telah\ndiajukan Dewan Perwakilan Rakyat di Daerah Swatantra tingkat 1.",
                             "explanation": "Tidak ada Penjelasan"
@@ -550,11 +534,11 @@
                     ]
                 },
                 {
-                    "id": "c37b1c07-3e81-4dcc-b3e5-66117fce3ae8",
+                    "id": "594c0ed6-0bed-4ef7-84ea-6f0c82ac79f7",
                     "name": "Article 24",
                     "type": "article",
                     "children": {
-                        "id": "247fed82-796b-4e18-a156-0459d67efb1d",
+                        "id": "9c927790-5f83-4594-a6a2-21a3c2df6260",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -563,11 +547,11 @@
                     }
                 },
                 {
-                    "id": "1c544aaa-22e9-4bbd-b34f-763d2638cbca",
+                    "id": "7d1f04f4-1714-4951-acd6-ef02a834b30b",
                     "name": "Article 25",
                     "type": "article",
                     "children": {
-                        "id": "880e7497-89a3-4e7a-bced-b373bbd0bdd0",
+                        "id": "2b273de6-c753-4282-b9c6-fbab2cb5d5aa",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -576,30 +560,30 @@
                     }
                 },
                 {
-                    "id": "9b5c253e-398e-40b2-9803-2a84ef4018fe",
+                    "id": "43930034-15b6-492c-bdd9-eaecee213ea1",
                     "name": "Article 26",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f7378454-ef6c-4208-bcce-1a3db0ef7f8d",
+                            "id": "d2cb3e23-f28c-496a-afc3-5def6f53b270",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Anggota seperti dimaksud pada pasal 22-25 duduk data Dewan Perancang\nNasional untuk selama 3 tahun.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "065ecc42-5d93-4a5b-aabd-b0fb9106a00f",
+                            "id": "76d55e39-5f61-45ea-9699-70a3e3b2dddc",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Anggota yang telah berhenti karena sudah meliwati 3 tahun seperti tersebut dalam\nayat (1) di atas, dapat diangkat kembali.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "34c2beaa-b40e-4eb4-a3e1-cfbce9556c94",
+                            "id": "92a503b8-02bb-4465-a618-15e7c0aa488b",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Ketua D.P.N. dan wakil Ketua D.P.N. ialah anggota D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
@@ -607,11 +591,11 @@
                     ]
                 },
                 {
-                    "id": "b88f29c4-aa78-4f1c-897b-95d4db1d55a9",
+                    "id": "eaec410e-8af6-4415-ae3f-100fedb5efb6",
                     "name": "Article 27",
                     "type": "article",
                     "children": {
-                        "id": "758e8bbb-9eaa-4aa4-ac31-f9918e8b3f9c",
+                        "id": "c14da443-747c-49c6-867c-282240a0abe6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -620,30 +604,30 @@
                     }
                 },
                 {
-                    "id": "8eb6966b-edff-49e6-b9b3-161e266c83d3",
+                    "id": "919537c4-8404-4f7b-a4a1-6c37f67c1d73",
                     "name": "Article 28",
                     "type": "article",
                     "children": [
                         {
-                            "id": "546f52b0-19c5-42dd-bf68-d1f76900ef8f",
+                            "id": "509ed5e7-ad05-4698-bef4-ab5a7fb4b750",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Tiap-tiap anggota D.P.N. masuk menjadi anggota Seksi, kecuali anggota Pimpinan\nD.P.N.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0f53b163-0e32-46f7-b35f-07764f64634a",
+                            "id": "9d554c6d-5d84-40c6-9604-66c4608d4d90",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pimpinan D.P.N. membagi-bagikan anggota data Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "070b64ab-136b-4b60-9bbc-344b462110a9",
+                            "id": "e578bfb1-f81d-41c6-aaa0-e8dc87e9a409",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Bertukar Seksi dapat berlangsung, hanya dengan ijin Pimpinan D.P.N.\n16. Kedudukan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -651,22 +635,22 @@
                     ]
                 },
                 {
-                    "id": "8cc4787e-71a0-41e5-b547-19a653757127",
+                    "id": "54ad9bcb-73cb-41d8-b777-3c06e4da7b32",
                     "name": "Article 29",
                     "type": "article",
                     "children": [
                         {
-                            "id": "fd978416-e53f-4767-a177-97c149f6461b",
+                            "id": "85a3d73a-0105-4218-b68a-5e81a9f6d142",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Kedudukan keuangan anggota D.P.N. diatur dalam Peraturan Pemerintah\ntersendiri seperti dimaksud pada pasal 12 ayat (2) Undang-undang tentang Dewan\nPerancang Nasional.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "286f7b7b-d4c3-4b6e-815c-ce5230d85f37",
+                            "id": "5d2bbaa5-a023-4822-9969-4022b36459f1",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Peraturan Kedudukan anggota D.P.N. tak mengenal pengganti kerugian.\n17. Tugas.",
                             "explanation": "Tidak ada Penjelasan"
@@ -674,11 +658,11 @@
                     ]
                 },
                 {
-                    "id": "71929f88-4885-4da4-ab52-682e7c546e61",
+                    "id": "75391b04-844c-4d40-8c90-79fa19477415",
                     "name": "Article 30",
                     "type": "article",
                     "children": {
-                        "id": "86fcbcf6-d6a6-46fc-9e93-46dd0c71d588",
+                        "id": "ba44703f-41ff-47d2-8cc3-18a3a8d6c3bc",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -687,56 +671,56 @@
                     }
                 },
                 {
-                    "id": "b034116e-8ae1-4741-8da5-e54ddd2cd09b",
+                    "id": "63585a25-a68f-4024-8526-81ad04be1f0f",
                     "name": "Article 31",
                     "type": "article",
                     "children": {
-                        "id": "23f72d78-9e22-4a92-aac5-d11e0b441db1",
+                        "id": "2aeccd62-2a7d-45e1-84bc-72a6606ebd38",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nWewenang anggota ialah :\n1. mempunyai satu hak suara dalam rapat pleno atau rapat-rapat D.P.Ν;\n2. mengajukan usul berisi bagian-bagian rancangan Undang-undang Pembangunan\ndalam sidang pleno D.P.N. dengan memperhatikan syarat-syarat menurut\nPeraturan Tata-tertib;\n3. menambah atau mengubah suatu rancangan Undang-undang Pembangunan\ndalam sidang pleno D.P.N. dengan memperhatikan syarat-syarat menurut\nPeraturan Tata-tertib;\n4. Mengajukan usul dalam sidang pleno D.P.N. untuk meninjau pembangunan\ndengan memperhatikan syarat-syarat menurut Peraturan Tata-tertib;\n5. mengajukan usul kepada pimpinan D.P.N. untuk menilai pelaksanaan\npembangunan;,\n6. wewenang anggota diatur selanjutnya dalam Peraturan tata- tertib.",
+                        "content": "\nWewenang anggota ialah :\n1. mempunyai satu hak suara dalam rapat pleno atau rapat-rapat D.P.N;\n2. mengajukan usul berisi bagian-bagian rancangan Undang-undang Pembangunan\ndalam sidang pleno D.P.N. dengan memperhatikan syarat-syarat menurut\nPeraturan Tata-tertib;\n3. menambah atau mengubah suatu rancangan Undang-undang Pembangunan\ndalam sidang pleno D.P.N. dengan memperhatikan syarat-syarat menurut\nPeraturan Tata-tertib;\n4. Mengajukan usul dalam sidang pleno D.P.N. untuk meninjau pembangunan\ndengan memperhatikan syarat-syarat menurut Peraturan Tata-tertib;\n5. mengajukan usul kepada pimpinan D.P.N. untuk menilai pelaksanaan\npembangunan;,\n6. wewenang anggota diatur selanjutnya dalam Peraturan tata- tertib.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "16d42729-8926-4e54-b57e-8fea5fece5dd",
+                    "id": "da5c8f00-c536-4ba4-817c-159010975655",
                     "name": "Article 32",
                     "type": "article",
                     "children": {
-                        "id": "f2240d0a-722b-4c75-ad81-da0a6af6d22c",
+                        "id": "52fa2d81-662a-4970-9423-04db1bc7e298",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nCara pelaksanaan wewenang anggota seperti tersebut pada pasal 31 di atas diatur lebih\nlanjut dalam Peraturan Tata-tertib.\n19. Sumpah (janji) anggota D.P.Ν.",
+                        "content": "\nCara pelaksanaan wewenang anggota seperti tersebut pada pasal 31 di atas diatur lebih\nlanjut dalam Peraturan Tata-tertib.\n19. Sumpah (janji) anggota D.P.N.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "3cbe9387-ad94-448f-8387-72445e67a858",
+                    "id": "2cb831e3-78f0-4c67-b2ce-cc817e288173",
                     "name": "Article 33",
                     "type": "article",
                     "children": [
                         {
-                            "id": "cc2a9937-d793-47c9-b064-35e31c981fd8",
+                            "id": "712f8837-a55c-41fc-b7fd-8ce218585809",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Sebelum memulai pekerjaannya, anggota D.P.N. mengangkat sumpah (berjanji) di hadapan Presiden.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0b6201d3-3706-430b-aee0-faca88dae189",
+                            "id": "a9107994-3ff2-4725-8433-f2e774d8ab7b",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Presiden boleh mengusahakan kedada Perdana Menteri atau Ketua D.P.Ν., supaya sumpah (janji) diucapkan di hadapan Perdana Menteri atau Ketua D.P.N.",
+                            "content": " Presiden boleh mengusahakan kedada Perdana Menteri atau Ketua D.P.N., supaya sumpah (janji) diucapkan di hadapan Perdana Menteri atau Ketua D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8857f80f-b73e-497f-81ea-bc9c0229fe94",
+                            "id": "a36dce0f-1972-493a-93a9-00c2c25fe807",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Rumusan sumpah (janji) anggota Dewan Perancang Nasional berbunyi :\n\"Saya bersumpah (berjanji) bahwa saya, untuk diangkat menjadi anggota, Dewan Perancang Nasional langsung atau tak langsung, dengan nama atau dalih apapun, tiada memberikan atau menjanjikan atau akan memberikan sesuatu kepada siapapun juga.\nSaya bersumpah (berjanji) bahwa saya, untuk melakukan atau tidak melakukan sesuatu dalam jabatan ini, tiada sekali-kali akan menerima, langsung atau tak langsung, dari siapapun juga sesuatu janji atau pemberian. Saya bersumpah (berjanji) bahwa saya senantiasa akan setia dan memelihara Undang-undang Dasar Republik Indonesia, dan Undang-undang Dewan Perancang Nasional serta segala peraturan lain yang berlaku bagi Republik Indonesia.\nSaya bersumpah (berjanji) bahwa saya akan berusha dengan sekuat tenaga untuk membentuk masyarakat yang adil dan makmur berdasarkan Pancasila dengan melaksanakan pembangunan nasional sebagai nikmat kemerdekaan yang telah dicapai oleh Perjuangan dan Revolusi Kemerdekaan Indonesia\"",
                             "explanation": "Tidak ada Penjelasan"
@@ -746,28 +730,28 @@
             ]
         },
         {
-            "id": "48253335-3587-4b36-9a36-58e757143ce6",
+            "id": "3db4e563-c1f7-410d-9024-19278022a2e0",
             "name": "Chapter V",
             "title": "\nPIMPINAN SEKSI D.P.N. UMUM.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "bd8a55b5-3976-4637-9265-c9940f792390",
+                    "id": "608dc3e5-120f-4c93-ae04-fc4e41bf5a61",
                     "name": "Article 34",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ed7b2b9e-f072-4564-9430-a1e7626e3c26",
+                            "id": "3289509e-4a67-414b-8afe-108b2c40c32a",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pimpinan Seksi D:P.N. terdiri atas seorang Ketua Seksi dan Wakil Ketua Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ca03e35c-f1bb-4f76-a877-3418e34ba1c5",
+                            "id": "3302cc83-f1e7-4160-aed4-bc583d2d4bec",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Sekretaris Seksi membantu pimpinan Seksi.",
                             "explanation": "Tidak ada Penjelasan"
@@ -775,30 +759,30 @@
                     ]
                 },
                 {
-                    "id": "69eb8d5e-d2fc-4167-bc04-bb27de96701b",
+                    "id": "7341f556-1cc2-42e2-af27-cb91837f57f2",
                     "name": "Article 35",
                     "type": "article",
                     "children": [
                         {
-                            "id": "12970c7b-2761-4255-b0cc-d47dbeee2e47",
+                            "id": "5c218227-9d66-46bc-b455-36009ab97728",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pimpinan Dewan Perancang Nasional membentuk beberapa Seksi pembangunan semesta dan berencana menurut kebutuhan untuk menyusun rancangan Undang-undang Pembangunan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7016459d-612f-4d2d-a646-e25c5d0cb3f4",
+                            "id": "51fb813f-4199-4043-b86e-bab399b0a9bf",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pimpinan Dewan Perancang Nasional boleh menambah menggabungkan atau memberhentikan Seksi-seksi pembangunan yang telah dibentuk.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f53f536a-520f-44cd-b7d7-15441f44063b",
+                            "id": "d5309258-9116-42ca-8bb6-313fb001ed09",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Tugas tiap-tiap Seksi daitur selanjutnya dalam Peraturan Tatatertib.\nA.: KETUA SEKSI.\n20. Pengangkatan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -806,55 +790,55 @@
                     ]
                 },
                 {
-                    "id": "32b06dcb-f19f-4b38-908b-69cf83df150b",
+                    "id": "4db057f0-09d1-4c26-9ae1-4f97057adc20",
                     "name": "Article 36",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9c79c386-8334-4521-b73b-4f424616b5d3",
+                            "id": "a8c84f09-65eb-4bc3-ac43-393b493b83f9",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Ketua Seksi diangkat dan diperhatikan oleh Ketua D.P.N. atas usul rapat Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0a1c84e2-d1fa-4a15-9487-2dc355393f44",
+                            "id": "2783837b-c82e-4847-af24-9ca6ca36b508",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Usul rapat Seksi seperti dimaksud pada ayat (1) di atas dicapai dengan pemilihan\ndiantara anggota Seksi dalam rapat anggota Seksi.",
+                            "content": " Usul rapat Seksi seperti dimaksud pada ayat (1) di atas dicapai dengan pemilihan diantara anggota Seksi dalam rapat anggota Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f4ed1d56-fccd-4b09-a6df-934d2805a5d6",
+                            "id": "cbc3f0a1-2c9d-4786-861f-f484baa3d005",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Cara memilih Ketua dalam rapat Seksi diatur selanjutnya dalam Peraturan Tata- tertib.\n2.  1 Tugas Ketua Seksi.",
+                            "content": " Cara memilih Ketua dalam rapat Seksi diatur selanjutnya dalam Peraturan Tata-tertib.\n2.  1 Tugas Ketua Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "0a6f13ca-5252-423f-bda9-da942e7e48cc",
+                    "id": "e71c6bd6-82ff-4656-9942-c592c81aa923",
                     "name": "Article 37",
                     "type": "article",
                     "children": {
-                        "id": "b239fe08-4d24-4b0f-b7e6-3c733f8c91fa",
+                        "id": "c134e644-927b-4fa2-ba68-499e4d6b56f0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nTugas Ketua Seksi yang terutama, yaitu :\na. memimpin pekerjaan Seksi dalam menyusun bagian-bagian rancangan Undang- undang Pembangunan;\nb. mengawasi pekerjaan Sekretariat Seksi;\nc. mempersiapkan rancangan Undang-undang Pembangunan;\nd. menjelaskan rancangan Undang-undang Pembangunan kepada sidang pleno D.P.N.;\ne. membantu Pimpinan D.P.N.;\nf. duduk dalam Panitia Rumah Tangga.\n3.  Kedudukan.",
+                        "content": "\nTugas Ketua Seksi yang terutama, yaitu:\nA. memimpin pekerjaan Seksi dalam menyusun bagian-bagian rancangan Undang-undang Pembangunan;\nB. mengawasi pekerjaan Sekretariat Seksi;\nC. mempersiapkan rancangan Undang-undang Pembangunan;\nD. menjelaskan rancangan Undang-undang Pembangunan kepada sidang pleno D.P.N.;\nE. membantu Pimpinan D.P.N.;\nF. duduk dalam Panitia Rumah Tangga.\n3.  Kedudukan.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "9658ed5b-5642-4f06-a2bd-c753f28deeb1",
+                    "id": "85a3983d-a27f-44fb-b53c-bc40f68e29f2",
                     "name": "Article 38",
                     "type": "article",
                     "children": {
-                        "id": "eefcec7e-79a2-4b50-a768-3d3f88e07b26",
+                        "id": "fe7d3347-9f50-4827-8682-e8c9a3793be2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -863,38 +847,38 @@
                     }
                 },
                 {
-                    "id": "3ace9729-994a-4e63-964d-91384eda5b69",
+                    "id": "21931bd5-4381-4fb5-91e6-9ee7cbdfef92",
                     "name": "Article 39",
                     "type": "article",
                     "children": [
                         {
-                            "id": "2f18068d-7f8e-4a98-bd9d-e4e2c931001b",
+                            "id": "a1c1e361-f525-46c0-a68b-eee21b2dcba7",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Tiap-tiap Seksi mempunyai seorang Wakil Ketua Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "09ede504-d1c1-4343-a492-5cfe69b1f17e",
+                            "id": "5ce4d776-d03a-4ec9-92af-2b9b46197743",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Wakil Ketua Seksi diangkat dan diperhentikan oleh Ketua D.P.N. atas usul sidang Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4797a42c-e3e5-412d-99d9-24639f9a91e5",
+                            "id": "d2f4da9f-8323-4bfa-a11a-21bf3b2cb05d",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Usul rapat Seksi seperti dimaksud pada ayat (2) di atas dicapai dnegan pemilihan dalam rapat anggota Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "627a3e99-f422-4ab3-a1a3-078350219e43",
+                            "id": "7d50f766-9c3d-4858-a434-90506fb5da5c",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Cara memilih Wakil Ketua dalam sidang Seksi diatur selanjutnya dalam Peraturan Tata-tertib.\nC. SEKRETARIAT SEKSI.\n26. Pengangkatan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -902,22 +886,22 @@
                     ]
                 },
                 {
-                    "id": "63f85d33-9420-47fa-a29b-3ee7bacc8687",
+                    "id": "10635ee4-9a7a-4c4e-9472-fc6201683b49",
                     "name": "Article 40",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5de8bdeb-7000-447a-838b-81c594a7034b",
+                            "id": "5c5b1462-2fbc-4190-b293-d58d3c7fd622",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pada tiap-tiap Seksi pembangunan dipekerjakan sebanyak- banyaknya dua orang\npegawai menjabat jabatan Sekretaris I dan II.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "24d4ec57-0c69-4a09-a46c-2f53381329c2",
+                            "id": "9777a23d-78fc-4b7f-aeae-57f96aa8d7b6",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Sekretaris Seksi diangkat, diperhentikan atu dipindahkan ke Seksi lain oleh\nPimpinan D.P.N. atas usul Sekretaris Jenderal.\n27. Tugas.",
                             "explanation": "Tidak ada Penjelasan"
@@ -925,46 +909,46 @@
                     ]
                 },
                 {
-                    "id": "e8e291f7-45ff-4532-8fea-eb8186f7e142",
+                    "id": "1be99519-b550-4fc7-8010-32f9cc903502",
                     "name": "Article 41",
                     "type": "article",
                     "children": [
                         {
-                            "id": "00da6059-1171-45bb-9156-136b82c1a661",
+                            "id": "6b2de87c-52f3-40e2-b4bb-4f48efd45abc",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Sekretaris Seksi I memimpin Seketariat Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ad2810ae-eb0c-4c75-9fce-487ecbd6fc88",
+                            "id": "646ab824-c8fe-48a4-a92a-5d21dd92109c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Sekretaris Seksi duduk dalam Sekretariat D.P.N. di bawah Sekretaris Jenderal.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "403b2a4d-d859-4ce7-8139-a68595bdce40",
+                            "id": "06fef669-01c6-448f-bf8f-2238be652e29",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Sekretariat Seksi membantu Pimpinan Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "3f85e803-e511-4457-acc2-cdbb27576b54",
+                            "id": "c01f9268-ab20-4465-bb09-2464a386b36e",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Sekretaris Seksi menyediakan persiapan rancangan Undang-undang\nPembangunan dan menyimpan segala surat-surat yang diterima atau selain surat-\nsurat yang dikirimkan keluar.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "85e75492-d214-45c9-9a70-98463fe9f5c9",
+                            "id": "d125a63d-81e3-4125-b1f7-96ba8e461f8c",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Pada permulaan bulan, Sekretaris Seksi menyediakan pelaporan pekerjaan Seksi\ndalam bulan yang lampau, dan pelaporan itu disampaikan oleh Ketua Seksi\nkepada Pimpinan D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
@@ -974,52 +958,52 @@
             ]
         },
         {
-            "id": "890d2a92-3b8f-483d-99ba-6793dfd7ef2d",
+            "id": "958bb836-eaf0-4f3b-b300-2c505a31b439",
             "name": "Chapter VI",
             "title": "\n28. Pangangkatan dan Tugas Panitia D.P.N.\na. Panitia Rumah Tangga.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "d23a1750-77f8-4da4-972e-dc83a774d15a",
+                    "id": "1fcb74ae-c653-4b55-9d9d-f2dbf1e5a4bf",
                     "name": "Article 42",
                     "type": "article",
                     "children": [
                         {
-                            "id": "eaf46ed3-054f-437a-a90d-0527b1034f14",
+                            "id": "47d4ab26-8927-4e26-869b-547b02f47d38",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Adalah suatu Panitia Rumah Tangga D.P.N. yang diketuai oleh Ketua D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "33833846-e0bd-44a4-aae5-12e793a448f9",
+                            "id": "a7cf7125-e55d-41ff-a396-ee56ba559aab",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dalam Panitia Rumah Tangga duduk anggota pimpinan D.P.N., Sekretaris\nJenderal dan para Ketua Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6b2dde44-764a-424e-9790-d226f43b5b7f",
+                            "id": "5301da3d-ddcc-4ace-bdc1-5362c5a96cf2",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Panitia Rumah Tangga melakukan pengawasan tertinggi atas urusan rumah\ntangga dan kepegawaian D.P.N. membantu Ketua D.P.N. dalam melakukan\npekerjaannya dan memimpin segenpa pegawai yang bekerja pada D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "45783933-197c-40e0-9999-6175b4833ed9",
+                            "id": "2874e8a9-eb92-48ed-aa16-a72aa71342bf",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Panitia Rumah Tangga terbagi atas beberapa bagian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5c554926-034d-4846-a301-529d36f31b20",
+                            "id": "e81e821a-ba96-4e09-80eb-e413d7f8cb5d",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Dalam Praturan Pemerintah tentang Rumah Tangga diatur cara bekerja Panitia\nRumah Tangga seperti dimaksud pada ayat (2)-(4) di atas.\nb. Pantia D.P.N. lain.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1027,30 +1011,30 @@
                     ]
                 },
                 {
-                    "id": "89ac824c-ab1c-46f3-b274-c4250c328581",
+                    "id": "ca0aa4a4-551d-4758-ad9d-497c0834a861",
                     "name": "Article 43",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8cea6d9d-ef90-4b85-9c24-0e96150d0b4a",
+                            "id": "51c516ba-e3e1-4c0f-b956-627b5faf6428",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " di atas, apabila pekerjaannya sudah selesai atau karena tak diperlukan lagi.",
+                            "content": " Untuk menjalankan tugas pekerjaan D.P.N., maka atas usul Pimpinan D.P.Ν.,\nPanitia rumah Tangga atau sidang pleno D.P.N. Ketua D.P.N. boleh mengangkat\nPanitia Khusus untuk menyelenggarakan pekerjaan D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "dfb6d350-3169-4a8c-9eb0-20d15d6e3f2e",
+                            "id": "8fe5f077-ef14-4b53-8653-9431902df827",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Ketua D.P.N., boleh memberhentikan Panitia Khusus seperti dimaksud pada ayat",
+                            "content": " Ketua D.P.N., boleh memberhentikan Panitia Khusus seperti dimaksud pada ayat\n(1) di atas, apabila pekerjaannya sudah selesai atau karena tak diperlukan lagi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "38a4c037-aa71-4d24-bb0a-5d42422129a8",
+                            "id": "e3d440cd-e67d-428e-84c8-2384da4ed983",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dalam Peraturan Rumah Tangga D.P.N. diatur cara bekerja Panitia-panitia\nKhusus seperti dimaksud ayat 1 ini.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1060,169 +1044,161 @@
             ]
         },
         {
-            "id": "55d7d389-3e93-48fa-8ad4-ecc8a706a79b",
+            "id": "f22d1932-a241-44f2-b0dd-6a8cafb06046",
             "name": "Chapter VIII",
             "title": "\nPEGAWAI D.P.N.\n30. Pengangkatan dan pemberhentian serta tugas pegawai.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "4a361f49-0b9b-4ed4-9c54-45928220d3ed",
+                    "id": "1a163bcc-5681-4c98-8249-564dd1afdd20",
                     "name": "Article 45",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3ad2004b-26a7-45b1-abde-7b7363123303",
+                            "id": "1a3b45d5-cff6-40cf-9c1c-da926f3aaf4f",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Segala pegawai yang bekerja pada D.P.N. dan lembaga- lembaga D.P.N. diangkat dan diberhentikan oleh Ketua D.P.N. atas usul Sekretaris Jenderal dengan melalui Panitia Rumah Tangga.",
-                            "explanation": "\nMengatur pengangkatan dan memperhentikan serta tugas pegawai warga-negara atau\npegawai asing."
+                            "explanation": "\nMengatur pengangkatan dan memperhentikan serta tugas pegawai warga-negara atau pegawai asing."
                         },
                         {
-                            "id": "457e0321-4146-44ff-abce-6622307fe68e",
+                            "id": "3bac6f20-740b-4364-8482-0222c47f7582",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Tugas pegawai yang bekerja pada D.P.N. ditetapkan oleh Sekrtaris Jenderal.",
-                            "explanation": "\nMengatur pengangkatan dan memperhentikan serta tugas pegawai warga-negara atau\npegawai asing."
+                            "explanation": "\nMengatur pengangkatan dan memperhentikan serta tugas pegawai warga-negara atau pegawai asing."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "7a3cf374-6ca7-4ba5-a53a-028dd5750700",
+            "id": "723e8126-6b95-4465-84ad-a74a042acf02",
             "name": "Chapter IX",
             "title": ".\n31. Amanat Presiden.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "0c5a18f2-245d-406a-8c6c-47d071cb8eb6",
+                    "id": "aab1df7e-9718-4028-8361-49b56c27ce98",
                     "name": "Article 46",
                     "type": "article",
                     "children": [
                         {
-                            "id": "c77885ea-c10a-483d-a365-555cccd5c871",
+                            "id": "031934ad-77fa-44be-b18c-e68d6ba9d022",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Amanat tertulis yang disampaikan Presiden kepada sidang D.P.N. dengan segera dimasukkan Ketua D.P.N. kedalam agenda sidang pleno D.P.N.",
-                            "explanation": "\nMengatur cara mempergunakan manfaat amanat Presiden bagi rancangan Undang-\nundang Pembangunan."
+                            "explanation": "\nMengatur cara mempergunakan manfaat amanat Presiden bagi rancangan Undang-undang Pembangunan."
                         },
                         {
-                            "id": "ad3e78f1-0d4a-4cbc-b907-e0625fdc8597",
+                            "id": "00b22d41-23ff-4ee8-95f1-f7f6b70bc414",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Amanat yang disampaikan Presiden dengan lisan kepada sidang D.P.N. dengan segera dimasukkan Ketua D.P.N. rumusannya ke dalam agenda sidang pleno D.P.N.",
-                            "explanation": "\nMengatur cara mempergunakan manfaat amanat Presiden bagi rancangan Undang-\nundang Pembangunan."
+                            "explanation": "\nMengatur cara mempergunakan manfaat amanat Presiden bagi rancangan Undang-undang Pembangunan."
                         },
                         {
-                            "id": "29c5135b-baf4-4f3b-9fa7-da9baa5e0646",
+                            "id": "dab1bbf8-a02f-4be9-a9b0-00d94ce4ebe0",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Presiden dipersilakan menjelaskan amanat yang telah menjadi pokok agenda sidang pleno D.P.N., apabila Presiden melahirkan keinginan hendak mempergunakan kesempatan itu..",
-                            "explanation": "\nMengatur cara mempergunakan manfaat amanat Presiden bagi rancangan Undang-\nundang Pembangunan."
+                            "explanation": "\nMengatur cara mempergunakan manfaat amanat Presiden bagi rancangan Undang-undang Pembangunan."
                         },
                         {
-                            "id": "a16d5766-3893-4e30-bba9-098fdd665a93",
+                            "id": "8f40909c-b46a-42d8-bbae-0d9904f69ea4",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Ketua menyampaikan pelaporan kepada Pemerintah bagai mana pembahasan amanat itu berlangsung dalam rapat pleno D.P.N., setelah keputusan tentang",
-                            "explanation": "\nMengatur cara mempergunakan manfaat amanat Presiden bagi rancangan Undang-\nundang Pembangunan."
-                        },
-                        {
-                            "id": "03579544-2c5a-455a-975b-a987e1b66c52",
-                            "name": "Verse 5",
-                            "number": "(5)",
-                            "type": "verse",
-                            "content": " amanat itu terecapai.\nCara membahas dan menghubungkan amanat itu dengan rancangan Undang-\nundang Pembangunan ditetapkan dalam pasal-\npasal Peraturan Tata-tertib.",
-                            "explanation": "\nMengatur cara mempergunakan manfaat amanat Presiden bagi rancangan Undang-\nundang Pembangunan."
+                            "content": " Ketua menyampaikan pelaporan kepada Pemerintah bagai mana pembahasan amanat itu berlangsung dalam rapat pleno D.P.N., setelah keputusan tentang\n(5) amanat itu terecapai.\nCara membahas dan menghubungkan amanat itu dengan rancangan Undang-\nundang Pembangunan ditetapkan dalam pasal-\npasal Peraturan Tata-tertib.",
+                            "explanation": "\nMengatur cara mempergunakan manfaat amanat Presiden bagi rancangan Undang-undang Pembangunan."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "7a421d42-f64a-4ed5-a336-894f5ba4ce92",
+            "id": "74e973f0-3387-4872-8abd-399195197e61",
             "name": "Chapter X",
             "title": "\nMENTERI DAN D.P.N.\n32. Nasehat Menteri.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "965c0fa6-7171-4f33-80ed-713780569d37",
+                    "id": "cbcfe258-3e47-4e62-897e-93b9ca2898fe",
                     "name": "Article 47",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6eca8a02-125d-4c3d-a8b5-17fc3b439b3d",
+                            "id": "ed991835-4437-4d50-8b24-7479f5440ffa",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Menteri Republik Indonesia dapat menghadiri segala rapat D.P.N., untuk itu\nMenteri memberitahukan kepada Ketua D.P.N.",
-                            "explanation": "\nMengatur kedudukan Menteri dalam D.P.N. dengan mempunyai wewenang memberi\nsuara-nasehat."
+                            "explanation": "\nMengatur kedudukan Menteri dalam D.P.N. dengan mempunyai wewenang memberi suara-nasehat."
                         },
                         {
-                            "id": "7c4bf98f-a25b-43e8-8aed-4140ffdb3f99",
+                            "id": "3354aac4-0d15-4188-96af-61591abdb69d",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Menteri yang hadir dalam suatu rapat D.P.N. setiap waktu dapat melahirkan\npendapatnya berupa nasehat kepada rapat.",
-                            "explanation": "\nMengatur kedudukan Menteri dalam D.P.N. dengan mempunyai wewenang memberi\nsuara-nasehat."
+                            "explanation": "\nMengatur kedudukan Menteri dalam D.P.N. dengan mempunyai wewenang memberi suara-nasehat."
                         },
                         {
-                            "id": "ebac907e-7e32-4ee0-b929-f51988ce1d5d",
+                            "id": "a5e300ae-8f5b-4512-9c84-a7e7faa713ec",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Nasehat Menteri dilahirkan secara tertulis atau dengan lisan.",
-                            "explanation": "\nMengatur kedudukan Menteri dalam D.P.N. dengan mempunyai wewenang memberi\nsuara-nasehat."
+                            "explanation": "\nMengatur kedudukan Menteri dalam D.P.N. dengan mempunyai wewenang memberi suara-nasehat."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "c6c0638c-d32d-4810-a051-f379adf094ec",
+            "id": "8ec92447-be76-46c8-a3a3-5537266dd73a",
             "name": "Chapter XI",
-            "title": "\n34. Sidang D.P.N.",
+            "title": "\n34. Sidang D.P.Ν.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8462d2f1-07fe-45e1-9ee0-ced6256864b1",
+                    "id": "70a185d1-0407-4411-a083-db294933ed15",
                     "name": "Article 49",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1a7b3dc3-e51f-49ea-a759-897dbd0e109f",
+                            "id": "946ef47e-98bd-4745-88ba-16657eaed807",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Sidang D.P.N.ialah: Sidang pleno D.P.N. Sidang pleno Seksi, rapat Pimpinan\nD.P.N., rapat pimpinan Seksi, dan rapat Panitia.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "efda035a-ccba-46f9-97e9-224898ff5a36",
+                            "id": "02a1725e-e8e9-4a50-81fc-c37810c79777",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dengan memperhatikan pasal-pasal 50 dan 51, maka segala sidang termaktub\ndalam ayat (1) di atas diatur selanjutnya dalam Peraturan Tata-tertib.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "eabaa61a-01e0-4337-85ce-364c632245e4",
+                            "id": "b94a8db1-03bf-42fa-8545-dea464347cb3",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Tiap-tiap sidang terbagi atas beberapa rapat.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0f3c1152-49fa-4005-852c-969d9a478b1e",
+                            "id": "71cacdc6-0615-4c57-85a1-e42ec66a1a02",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Segala rapat D.P.N. berlangsung dengan pintu tertutup.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1230,46 +1206,46 @@
                     ]
                 },
                 {
-                    "id": "f15578c4-6689-4a9a-a98b-5c4416182a59",
+                    "id": "23b18d13-8a34-4c4d-85d0-f295806ce569",
                     "name": "Article 50",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9852fd2b-8a66-4d5b-80ba-b588952a0d49",
+                            "id": "61b87658-0e1c-43bf-8042-e3f587828902",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Sekurang-kurangnya dua kali dalam sebulan, Seksi harus bersidang.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "710520c3-61f3-4a9f-bc91-a1f51499ab28",
+                            "id": "08217d40-0356-429b-8016-ff2f8e939863",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Rapat dipimpin oleh Ketua Seksi atau Wakil Ketua Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "150b8aa2-2abf-4ebc-ae4d-aab06a4e9aba",
+                            "id": "87f17a79-cbb9-4b2e-b275-a51b4ed5414c",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Sekretaris Seksi membantu sidang Seksi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "81c690fb-5ba9-49d2-a473-0bdb24ae1310",
+                            "id": "29196248-4911-4c73-8a76-c9300f07dcea",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Sidang Seksi selanjutnya diatur dalam Peraturan Tata-tertib.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5a6ba838-1421-4c66-b1a5-fb2f12ed8de2",
+                            "id": "41a5a482-87b9-496b-aed9-30732286f808",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Jika Ketua Seksi berhalangan, maka ia digantikan oleh Wakil Ketua Seksi.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1277,54 +1253,54 @@
                     ]
                 },
                 {
-                    "id": "6717bb36-9a74-483b-a870-8946445a7cc7",
+                    "id": "5d331b9c-00c2-4675-90fb-9b24bd154042",
                     "name": "Article 51",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1b5f747e-ee86-45e4-b6dc-a068f609b3ea",
+                            "id": "2725df41-32b5-4ce9-a08d-62d75adc0df7",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Sekurang-kurangnya sekali dalam dua bulan, D.P.N. mengadakan sidang pleno\nseluruh anggota D.P.N.",
+                            "content": " Sekurang-kurangnya sekali dalam dua bulan, D.P.N. mengadakan sidang pleno seluruh anggota D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "fe19f066-5e9c-47e1-ad73-e805f24d60c5",
+                            "id": "4c2a8c61-a0a6-4595-b341-4d2a5b2d90e1",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Sidang pleno dipimpin oleh Ketua D.P.N. dan sidang pleno D.P.N. terbagi atas\nbeberapa rapat.",
+                            "content": " Sidang pleno dipimpin oleh Ketua D.P.N. dan sidang pleno D.P.N. terbagi atas beberapa rapat.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e6f4ce52-a1aa-4898-9a76-39ac0c29a3f8",
+                            "id": "e610344e-a758-42b2-8834-1fb0e7fc3d14",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Jikalau Ketua D.P.N. berhalangan, maka rapat pleno D.P.N. dipimpin oleh Wakil\nKetua D.P.N.",
+                            "content": " Jikalau Ketua D.P.N. berhalangan, maka rapat pleno D.P.N. dipimpin oleh Wakil Ketua D.P.NΝ.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b997ea2b-93e8-4101-a0ac-45a56883ddea",
+                            "id": "fd3427ca-b357-46ea-92a6-ad053b8532e2",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Agenda sidang plano memuat pokok pembicaraam tentang penyususnan\nrancangan Undang-undang Pembangunan Nasional yang berencana, amanat\nPresiden, urusan Rumah Tangga D.P.N. dan pelaporan kerja segala Seksi dalam\nwaktu yang lampau.",
+                            "content": " Agenda sidang plano memuat pokok pembicaraam tentang penyususnan rancangan Undang-undang Pembangunan Nasional yang berencana, amanat Presiden, urusan Rumah Tangga D.P.N. dan pelaporan kerja segala Seksi dalam waktu yang lampau.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "294841bf-4a23-4cdf-b40b-5bc8d82f5cb6",
+                            "id": "4f5b6a6d-ee17-420c-bbe7-1ac06a721762",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Sidang pleno dibantu oleh Sekertariat di bawah Sekretaris Jenderal.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "607e20bb-7f8b-464c-80f2-b3c71ff4649f",
+                            "id": "631ceaf7-ab34-4047-bf7b-a0ff755c4be0",
                             "name": "Verse 6",
-                            "number": "(6)",
+                            "number": "6",
                             "type": "verse",
                             "content": " Sidang pleno selanjutnya diatur dalam Peraturan Tata-tertib",
                             "explanation": "Tidak ada Penjelasan"
@@ -1334,74 +1310,74 @@
             ]
         },
         {
-            "id": "5ea8cd50-9785-4aa7-ac2e-72544f81176c",
+            "id": "af7028c7-6955-4036-9eb1-fbb196d41e79",
             "name": "Chapter XIII",
             "title": "\nPENUTUP.\n35. Peraturan Tata-tertib dan lain-lain.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "84b7d949-c684-49b4-99ca-2f0275c5c5d8",
+                    "id": "7319a696-7a7d-43ac-a0c3-7392d5a632de",
                     "name": "Article 52",
                     "type": "article",
                     "children": {
-                        "id": "723e4866-0c73-44a6-83e5-1251bf6ddf0f",
+                        "id": "b6359762-d358-4381-a999-456ba7e69e16",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPelaksanaan pasal-pasal di atas diatur dalam Peraturan Tata-tertib dengan\nmemperhatikan ketentuan-ketentuan dalam Peraturan Pemerintah ini.",
+                        "content": "\nPelaksanaan pasal-pasal di atas diatur dalam Peraturan Tata-tertib dengan memperhatikan ketentuan-ketentuan dalam Peraturan Pemerintah ini.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "daedd314-7e4e-4440-92a4-7e4ffcf96f59",
+                    "id": "68359a8d-d785-4da8-b729-e53496a1c5cf",
                     "name": "Article 53",
                     "type": "article",
                     "children": [
                         {
-                            "id": "7f3b5e47-f89c-4b0b-adf5-a741ed2ba49b",
+                            "id": "9c136f12-8d91-4a9b-93e9-09ee61263d60",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Pimpinan Dewan Perancang Nasional boleh membuat peraturan D.P.N. uang\nberisi keputusan Pimpinan D.P.N. atau keputusan sidang pleno D.P.N.",
+                            "content": " Pimpinan Dewan Perancang Nasional boleh membuat peraturan D.P.N. uang berisi keputusan Pimpinan D.P.N. atau keputusan sidang pleno D.P.N.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ee72c49d-1931-48c9-81e4-c3e2f9a58971",
+                            "id": "816da790-2a3e-4721-8837-e185dc5f0b0e",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Peraturan atas keputusan itu harus sesuai dengan Undang- undang Dewan\nPerancang Nasional dan ketiga-tiga Peraturan Pemerintah seperti dimaksud\ndalam Undang-undang Dewan Perancang Nasional pasal 10 dan 12.",
+                            "content": " Peraturan atas keputusan itu harus sesuai dengan Undang-undang Dewan Perancang Nasional dan ketiga-tiga Peraturan Pemerintah seperti dimaksud dalam Undang-undang Dewan Perancang Nasional pasal 10 dan 12.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7d2804a6-b06f-462b-94c1-e1c478f76877",
+                            "id": "7ecbd94a-2988-4aef-a826-df469fd58a29",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Peraturan D.P.N. atau Keputusan D.P.N, seperti dimaksud pada ayat (1) dan (2) di\natas boleh disiarkan.",
+                            "content": " Peraturan D.P.N. atau Keputusan D.P.N, seperti dimaksud pada ayat (1) dan (2) di atas boleh disiarkan.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "eda6629d-3044-46a7-97ca-71f4f6122964",
+                    "id": "5178a773-0ff4-4194-bc5a-5851973d311b",
                     "name": "Article 54",
                     "type": "article",
                     "children": {
-                        "id": "d8681be6-9690-4902-a520-4ce815a135c3",
+                        "id": "d7b6b43a-4a62-4a9b-80c8-b19d47816bf1",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini disebut \"Peraturan Pemerintah tentang Pelaksanaan Undang-\nundang Dewan.Perancang Nasional\".",
+                        "content": "\nPeraturan Pemerintah ini disebut \"Peraturan Pemerintah tentang Pelaksanaan Undang-undang Dewan. Perancang Nasional\".",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "c861e54c-b4f5-40f0-97bc-c99bcd67ba6a",
+                    "id": "c36f6614-475a-4a01-b443-6180a5e73bc8",
                     "name": "Article 55",
                     "type": "article",
                     "children": {
-                        "id": "b5b65197-b5ed-4f4a-a62f-f7bdb6492b99",
+                        "id": "ea12fba0-0a25-4306-8635-fc634492bbed",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1413,7 +1389,7 @@
         }
     ],
     "metadata": {
-        "Umum": ".\nUndang-undang Dewan Perancang Nasional pasal 12 menetapkan bahwa Undang-\nundang itu harus dilaksanakan dengan Peraturan Pemerintah. Maka segera setelah\nUndang-undang Dewan Perancang Nasional itu diterima baik oleh D.P.R. dan ditanda-\ntangani oleh Pemerintah, maka dirancanglah peraturan untuk melaksanakan Undang-\nundang Dewan Perancang Nasional itu, supaya badan itu dapat dibentuk dalam jangka\nBAB I : Pendahuluan.\nBAB II : Tugas D.P.N.\nBAB III-V: Organisasi D.P.N.\nBAB III: Ketentuan Umum.\nA. Ketua D.P.Ν.\nB. Wakil Ketua D.P.N.\nC. Sekretaris Jenderal.\nBAB IV: Anggota D.P.N.\nBAB V: Ketentuan Umum.\nA. Ketua Seksi.\nB. Wakil Ketua Seksi.\nC. Sekretaris Seksi.\nBAB VI: Panitia D.P.Ν.\nBAB VII: Lembaga.\nBAB VIII: Pegawai D.P.Ν.\nBAB IX: Presiden dan D.P.N.\nBAB X: Menteri dan D.P.N.\nBAB XI: Hak suara.\nBAB XII: Sidang\nBAB XIII: Penutup.\nSelain dari pada Peraturan Pemerintah pelaksanaan Undang-undang Dewan Perancang\nNasional tersebut diatas, maka diperlukan pula Peraturan Pemerintah berisi Peraturan\nTata-tertib Dewan Perancang Nasional seperti disarankan pada pasal 10 Undang-undang\nDewan Perancang Nasional dan sebuah Peraturan Pemerintah lagi, yang berisi aturan-\naturan tentang pembiayaan D.P.N. dan kedudukan keuangan Ketua, Wakil Ketua dan\nanggota D.P.N., seperti disarankan pada pasal 12 ayat (2) Undang-undang, Dewan\nPerancang Nasional.\nKedua-dua Peraturan Pemerintah itu segera akan datang menyusul.\nJumlah anggota D.P.N. adalah menurut perincian sebagai berikut:\nI. Ketua dan para Wakil Ketua D. P. N. (pasal-pasal 26 dan 13)\n4\nanggota\nII. Golongan-golongan fungsionil (pasal 24)\n34\nanggota\nIII. Sarjana dan ahli (pasal 22)\n6\nanggota\nIV. Fungsionil Daerah Swatantra tingkat I (pasal 23).\n21\nanggota\nV. Pejabat sipil dan militer (pasal 25)\n6\nanggota\nJumlah\n71\nanggota\nJumlah 71 orang anggota D.P.N. itu tidak perlu semuanya diangkat serentak, sedangkan\ngolongan III dan IV adalah pula mungkin berubah-ubah menurut keadaan.\nJumlah pegawai D.P.N. belum dapat diajukan karena berhubungan dengan kemungkinan\njumlah pegawai pembantu (rendah) yang dibutuhkan untuk pekerjaan bawahan dalam\nkantor Sekretariat di Jakarta.\nPegawai tingkatan atasan, menengah dan pegawai pembantu dapat diperinci sebagai\nberikut:\nI.\nSekretaris Jenderal\n1 orang\nII.\nSekretaris\nSekretaris pribadi\n5 orang\nKetua, Wakil Ketua, dan Sekretaris Jenderal)\nSekretaris I dan II Seksi\n10 X 2 orang\n20 orang\nSekretaris pada Sekretariat\n4 orang\nJumlah Sekretaris Jenderal dan Sekretaris-Sekretaris 30 orang\nIII.\nPegawai ahli (warganegara dan asing).\nIV.\nPegawai Menengah.\nV.\nPegawai pembantu.\nVI.\nPegawai penulis cepat.\nVII. Pegawai lain-lain.\nPeraturan Pemerintah ini terbagi atas 55 pasal dalam XIII Bab.",
+        "Umum": "\nUndang-undang Dewan Perancang Nasional pasal 12 menetapkan bahwa Undang-\nundang itu harus dilaksanakan dengan Peraturan Pemerintah. Maka segera setelah\nUndang-undang Dewan Perancang Nasional itu diterima baik oleh D.P.R. dan ditanda-\ntangani oleh Pemerintah, maka dirancanglah peraturan untuk melaksanakan Undang-\nundang Dewan Perancang Nasional itu, supaya badan itu dapat dibentuk dalam jangka\nBAB I : Pendahuluan.\nBAB II : Tugas D.P.N.\nBAB III-V: Organisasi D.P.N.\nBAB III: Ketentuan Umum.\nA. Ketua D.P.Ν.\nB. Wakil Ketua D.P.N.\nC. Sekretaris Jenderal.\nBAB IV: Anggota D.P.N.\nBAB V: Ketentuan Umum.\nA. Ketua Seksi.\nB. Wakil Ketua Seksi.\nC. Sekretaris Seksi.\nBAB VI: Panitia D.P.Ν.\nBAB VII: Lembaga.\nBAB VIII: Pegawai D.P.Ν.\nBAB IX: Presiden dan D.P.N.\nBAB X: Menteri dan D.P.N.\nBAB XI: Hak suara.\nBAB XII: Sidang\nBAB XIII: Penutup.\nSelain dari pada Peraturan Pemerintah pelaksanaan Undang-undang Dewan Perancang\nNasional tersebut diatas, maka diperlukan pula Peraturan Pemerintah berisi Peraturan\nTata-tertib Dewan Perancang Nasional seperti disarankan pada pasal 10 Undang-undang\nDewan Perancang Nasional dan sebuah Peraturan Pemerintah lagi, yang berisi aturan-\naturan tentang pembiayaan D.P.N. dan kedudukan keuangan Ketua, Wakil Ketua dan\nanggota D.P.N., seperti disarankan pada pasal 12 ayat (2) Undang-undang, Dewan\nPerancang Nasional.\nKedua-dua Peraturan Pemerintah itu segera akan datang menyusul.\nJumlah anggota D.P.N. adalah menurut perincian sebagai berikut:\nI. Ketua dan para Wakil Ketua D. P. N. (pasal-pasal 26 dan 13) 4 anggota\nII. Golongan-golongan fungsionil (pasal 24) 34 anggota\nIII. Sarjana dan ahli (pasal 22) 6 anggota\nIV. Fungsionil Daerah Swatantra tingkat I (pasal 23). 21 anggota\nV. Pejabat sipil dan militer (pasal 25) 6 anggota\nJumlah 71 anggota\nJumlah 71 orang anggota D.P.N. itu tidak perlu semuanya diangkat serentak, sedangkan\ngolongan III dan IV adalah pula mungkin berubah-ubah menurut keadaan.\nJumlah pegawai D.P.N. belum dapat diajukan karena berhubungan dengan kemungkinan\njumlah pegawai pembantu (rendah) yang dibutuhkan untuk pekerjaan bawahan dalam\nkantor Sekretariat di Jakarta.\nPegawai tingkatan atasan, menengah dan pegawai pembantu dapat diperinci sebagai\nberikut:\nI.\nSekretaris Jenderal\n1 orang\nII.\nSekretaris\nSekretaris pribadi\n. 5 orang\nKetua, Wakil Ketua, dan Sekretaris Jenderal)\nSekretaris I dan II Seksi\n10 X 2 orang\n20 orang\nSekretaris pada Sekretariat\n4 orang\nJumlah Sekretaris Jenderal dan Sekretaris-Sekretaris 30 orang\nIII.\nPegawai ahli (warganegara dan asing).\nIV.\nPegawai Menengah.\nV.\nPegawai pembantu.\nVI.\nPegawai penulis cepat.\nVII. Pegawai lain-lain.\nPeraturan Pemerintah ini terbagi atas 55 pasal dalam XIII Bab.",
         "Nomor": "1",
         "Tahun": "1959",
         "Tentang": "PELAKSANAAN UNDANG-UNDANG DEWAN PERANCANG NASIONAL",
@@ -1423,7 +1399,7 @@
         "Mengingat": {
             "Introduction": "\na. Undang-undang No. 80 tahun 1958 (Lembaran-Negara No. 144) tentang Dewan\nPerancang Nasional pasal 12 ayat (1);\nb. Undang-undang Dasar Sementara Republik Indonesia pasal pasal 98 dan 99;\nMemperhatikan \nUsul Panitia Persiapan Dewan Perancang Nasional.\nMendengar  Usul Dewan Menteri dalam sidangnya pada 9 Januari 1959;"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang-Pelaksanaan Undang-undang Dewan Perancang Nasional.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang-Pelaksanaan Undang-undang Dewan Perancang\nNasional.",
         "tanggal sah": "14 Januari 1959"
     }
 }

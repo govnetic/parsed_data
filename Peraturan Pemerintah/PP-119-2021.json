@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "62620e89-3dfe-4eea-8884-240fc2742014",
+            "id": "9815c2b6-7259-49c6-b49b-0437afc26096",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "9cd6ee42-6cdf-4be2-add7-de99a23a5701",
+                "id": "2ffdadcf-f1a6-403f-ae26-465a445e14f2",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "dca9a165-8faf-4a3c-8407-901d921e1fe9",
+            "id": "a5c7fb19-69b3-431a-8fb6-04b274287ca9",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "d94902ee-cf9e-470f-a93b-9e7af7d097ee",
+                "id": "4fefa526-1db7-492f-a62b-28e39e6f0397",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,15 +27,15 @@
             }
         },
         {
-            "id": "0a1433a5-06dd-4d7b-8a17-16ed0c457df7",
+            "id": "2a8e07b1-ce3c-4fca-8397-bacf454a0ff6",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "f1497a67-d084-4bd5-b023-d5fd973c99e7",
+                "id": "ff466a65-440f-45a1-8b63-8fbf6c9fb6e1",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -46,8 +46,8 @@
         "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO)\nPT KERETA API INDONESIA",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa untuk memperbaiki struktur permodalan dan meningkatkan kapasitas usaha Perusahaan Perseroan (Persero) PT Kereta Api Indonesia serta dalam rangka melanjutkan dukungan terhadap proyek strategis nasional melalui penugasan kepada Perusahaan Perseroan (Persero) PT Kereta Api Indonesia dalam penyelesaian proyek Kereta Api Ringan/Light Rail Transit Terintegrasi di Wilayah Jakarta, Bogor, Depok, dan Bekasi, serta proyek Kereta Cepat antara Jakarta dan Bandung, perlu melakukan penambahan penyertaan modal Negara Republik Indonesia ke dalam modal saham Perusahaan Perseroan (Persero) PT Kereta Api Indonesia yang bersumber dari Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2021 sebagaimana ditetapkan kembali dalam Rincian Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2021;",
-            "b": " bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, dan untuk melaksanakan ketentuan Pasal 4 ayat (4) Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara, perlu menetapkan Peraturan Pemerintah tentang Penambahan Penyertaan Modal Negara Republik Indonesia ke Dalam Modal Saham Perusahaan Perseroan (Persero) PT Kereta Api Indonesia;"
+            "a": "\tbahwa untuk memperbaiki struktur permodalan dan\nmeningkatkan kapasitas usaha Perusahaan Perseroan\n(Persero) PT Kereta Api Indonesia serta dalam rangka\nmelanjutkan dukungan terhadap proyek strategis\nnasional melalui penugasan kepada Perusahaan\nPerseroan (Persero) PT Kereta Api Indonesia dalam\npenyelesaian proyek Kereta Api Ringan/Light Rail\nTransit Terintegrasi di Wilayah Jakarta, Bogor, Depok,\ndan Bekasi, serta proyek Kereta Cepat antara Jakarta\ndan Bandung, perlu melakukan penambahan\npenyertaan modal Negara Republik Indonesia ke dalam\nmodal saham Perusahaan Perseroan (Persero) PT\nKereta Api Indonesia yang bersumber dari Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 2021\nsebagaimana ditetapkan kembali dalam Rincian\nAnggaran Pendapatan dan Belanja Negara Tahun\nAnggaran 2021;",
+            "b": "\tbahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, dan untuk melaksanakan\nketentuan Pasal 4 ayat (4) Undang-Undang Nomor 19\nTahun 2003 tentang Badan Usaha Milik Negara, perlu\nmenetapkan Peraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nIndonesia ke Dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Kereta Api Indonesia;"
         },
         "Mengingat": {
             "Introduction": "",
@@ -57,7 +57,7 @@
             "4": " Undang-Undang Nomor 9 Tahun 2020 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2021 (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 239, Tambahan Lembaran Negara Republik Indonesia Nomor 6570);",
             "5": " Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata Cara Penyertaan dan Penatausahaan Modal Negara pada Badan Usaha Milik Negara dan Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 116, Tambahan Lembaran Negara Republik Indonesia Nomor 4555) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 72 Tahun 2016 tentang Perubahan Atas Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata Cara Penyertaan dan Penatausahaan Modal Negara pada Badan Usaha Milik Negara dan Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 325, Tambahan Lembaran Negara Republik Indonesia Nomor 6006);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT KERETA API INDONESIA.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nIndonesia ke Dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Kereta Api Indonesia;\nMengingat \n1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 4297);\n3. Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran Negara Republik Indonesia Nomor 4355);\n4. Undang-Undang Nomor 9 Tahun 2020 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2021 (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 239, Tambahan Lembaran Negara Republik Indonesia Nomor 6570);\n5. Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata Cara Penyertaan dan Penatausahaan Modal Negara pada Badan Usaha Milik Negara dan Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 116, Tambahan Lembaran Negara Republik Indonesia Nomor 4555) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 72 Tahun 2016 tentang Perubahan Atas Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata Cara Penyertaan dan Penatausahaan Modal Negara pada Badan Usaha Milik Negara dan Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 325, Tambahan Lembaran Negara Republik Indonesia Nomor 6006);\nMEMUTUSKAN\nMenetapkan \nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT KERETA API INDONESIA.",
         "tanggal sah": "27 Desember 2021"
     }
 }

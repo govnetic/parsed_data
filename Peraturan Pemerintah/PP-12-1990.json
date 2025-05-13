@@ -1,0 +1,147 @@
+{
+    "results": [
+        {
+            "id": "d2eb81ae-5a60-43da-ae54-15071c625d7c",
+            "name": "Chapter I",
+            "title": "\nPENJUALAN SAHAM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "035c29ee-2548-4844-a48b-76cfa7d9d54c",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f7e0095d-7f3b-4bfb-b09a-976c5d1b91c4",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Negara Republik Indonesia menjual seluruh saham Perusahaan Perseroan (PERSERO) PT. Leppin kepada pihak swasta nasional.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "f37bf04b-2ae5-490c-add5-1a2feaa36122",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pelaksanaan penjualan seluruh saham Perusahaan Perseroan (PERSERO) PT. Leppin dilakukan oleh Menteri Perindustrian atas kuasa Menteri Keuangan selaku Pemegang Saham.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "fbdc1a3f-4145-4b70-809b-a539a1680921",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "323be41d-0cec-4420-9c92-5277a0d6c001",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Seluruh hasil penjualan disetorkan kepada Kas Negara.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "8f6ca486-9ef3-4a9d-b09b-b9724566a84d",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Semua biaya yang timbul sebagai akibat penjualan saham\nsebagaimana dimaksud dalam Pasal 1 ayat (1) menjadi beban\npembeli.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1a851cd5-02e4-4edb-9146-5291710cb2dd",
+            "name": "Chapter II",
+            "title": "\nPERALIHAN HAK DAN KEWAJIBAN PERUSAHAAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "ebded3f7-940d-41c0-b116-f50722144d35",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "5396916f-4731-4f39-9b2b-885fe9509010",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDengan dijualnya seluruh saham perusahaan sebagaimana dimaksud\ndalam Pasal 1 ayat (1) maka semua hak dan kewajiban beserta seluruh\nkaryawannya beralih dan menjadi tanggung jawab pihak pembeli.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "ba962091-740e-4902-8c91-f272b822971e",
+            "name": "Chapter III",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "c73de013-500b-4753-885e-95a47e170760",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "21a5f753-445d-4a8b-98e9-40798316f7d0",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nTerhitung sejak tanggal diselesaikannya penjualan saham sebagaimana\ndimaksud dalam Pasal 1, Peraturan Pemerintah Nomor 46 Tahun 1970\ndinyatakan tidak berlaku.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "55878edc-9fcf-4954-a0ce-58cca0f53e7b",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": {
+                        "id": "4fd3b841-96cb-4820-9bba-c7445b5cda10",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKetentuan lebih lanjut yang diperlukan bagi pelaksanaan Peraturan\nPemerintah ini diatur oleh Menteri Perindustrian dan Menteri\nKeuangan baik secara bersama maupun sendiri-sendiri sesuai dengan\nbidang tugasnya masing-masing.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "4ba0eb01-4fbd-4a35-a7e7-9eeae18398e7",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "0c508c94-18b4-47f4-bcbd-f7896731077d",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "12",
+        "Tahun": "1990",
+        "Tentang": "PENJUALAN SELURUH SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT. LEPPIN",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa usaha pemborongan pekerjaan dan jasa komersial yang\nselama ini menjadi bidang usaha Perusahaan Perseroan (PERSERO)",
+            "PT": " Leppin yang didirikan berdasarkan Peraturan Pemerintah Nomor\n46 Tahun 1970 pada saat ini sudah dapat dilakukan oleh pihak\nswasta nasional;",
+            "b": " bahwa dalam rangka meningkatkan peranan swasta nasional dalam\npembangunan, dipandang perlu untuk menjual seluruh saham\nPerusahaan Perseroan (PERSERO) PT. Leppin kepada perusahaan\nswasta nasional;",
+            "c": " bahwa sehubungan dengan hal tersebut, penjualan seluruh saham\nPerusahaan Perseroan (PERSERO) PT. Leppin perlu ditetapkan\ndengan Peraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor\n23) sebagaimana telah beberapa kali diubah, terakhir dengan\nUndang-undang Nomor 4 Tahun 1971 (Lembaran Negara Tahun 1971\nNomor 20, Tambahan Lembaran Negara Nomor 2959);",
+            "3": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang\nBentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969 Nomor\n16, Tambahan Lembaran Negara Nomor 2890) menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan\nLembaran Negara Nomor 2904);",
+            "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21,"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG PENJUALAN SELURUH SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT. LEPPIN.",
+        "tanggal sah": "25 April 1990"
+    }
+}

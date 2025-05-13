@@ -1,28 +1,28 @@
 {
     "results": [
         {
-            "id": "2504fe6a-6d70-4287-9dfb-acb623a0236b",
+            "id": "4c6364a6-4e6b-4e5a-8f61-54de56682ad4",
             "name": "Chapter I",
             "title": "\nPENGALIHAN BENTUK DAN PEMBUBARAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "d2a3a3e4-ecf2-4161-a6da-0f8a8490a75a",
+                    "id": "02ed7e32-cdfe-4496-ade7-5d5b0ba6bb32",
                     "name": "Article 1",
                     "type": "article",
                     "children": [
                         {
-                            "id": "419a3d1e-eced-434e-b6b1-007c166b6b82",
+                            "id": "6625307d-1f5f-4745-93f0-c40a6cac621e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Perusahaan Negara Blabak yang didirikan dengan Peraturan\nPemerintah Nomor 133 Tahun 1961 dialihkan bentuknya menjadi\nPerusahaan Perseroan (PERSERO) sebagaimana dimaksud dalam\nUndang-undang Nomor 9 Tahun 1969.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4a2ca120-e830-433e-a985-bf8d3fa2a609",
+                            "id": "9cb91d06-2237-4812-b7fd-aa6b5b214e5a",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dengan dialihkannya bentuk Perusahaan Negara Blabak menjadi\nPerusahaan Perseroan (PERSERO) sebagaimana dimaksud dalam\nayat (1), Perusahaan Negara Blabak dinyatakan bubar pada saat\npendirian Perusahaan Perseroan (PERSERO) tersebut, dengan\nketentuan bahwa hak dan kewajiban, kekayaan serta pegawai\nPerusahaan Negara Blabak yang ada pada saat pembubarannya\nberalih kepada Perusahaan Perseroan (PERSERO) yang\nbersangkutan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -32,17 +32,17 @@
             ]
         },
         {
-            "id": "59e7544e-c096-43c9-90e0-5d39b5f312e4",
+            "id": "afc07ca9-0720-466d-b2ba-fc65f6431157",
             "name": "Chapter II",
             "title": "\nMAKSUD DAN TUJUAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "1a9fa31a-1877-4b32-9298-6690c8044504",
+                    "id": "79ae5738-2985-4276-a8fb-03ed261b5c00",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "999bad90-007f-40fb-b35e-c6b61bcbf9c8",
+                        "id": "f2120453-7650-490f-b7d3-f93598f4fceb",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -53,46 +53,46 @@
             ]
         },
         {
-            "id": "ed45692a-1302-40c7-8702-c2a760b55b27",
+            "id": "8b0552e8-5be1-4d76-802d-9c128be4c270",
             "name": "Chapter III",
             "title": "\nMODAL PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "104d13b0-1aa4-450b-8838-5fc6c6bc890b",
+                    "id": "8869acee-f986-4e33-b96c-b38642112e52",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "a0b1ab9f-4095-4483-afc9-fc8ae00b900f",
+                            "id": "f345c375-f850-4349-aaab-cff93adac6a8",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Modal Perusahaan Perseroan (PERSERO) yang ditempatkan dan disetor pada saat pendiriannya berasal dari kekayaan Negara yang tertanam dalam Perusahaan Negara Blabak.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a5441878-8cc9-495a-86d3-02319571ac66",
+                            "id": "79af2989-d3b1-4aaf-9f2f-fc6837e0c002",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Nilai kekayaan Negara sebagaimana dimaksud dalam ayat (1) ditetapkan oleh Menteri Keuangan berdasarkan hasil perhitungan bersama oleh Departemen Keuangan dan Departemen Perindustrian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "021645ce-9fd8-4e95-94a6-ff394a0fe051",
+                            "id": "3967378f-ca8a-4636-af33-c438d5d63693",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Ketentuan-ketentuan lain mengenai permodalan Perusahaan Perseroan (PERSERO) diatur dalam Anggaran Dasarnya termasuk ketentuan mengenai modal dasar Perusahaan Perseroan (PERSERO) yang terbagi atas saham-saham sesuai dengan ketentuan-ketentuan Peraturan Pemerintah Nomor 12 Tahun 1969 sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24 Tahun 1972.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "22c199ca-5a53-4e2c-91f0-689b74a19cbb",
+                            "id": "5e9b9250-5e5c-4bf2-b34c-740d83c57699",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Neraca pembukaan Perusahaan Perseroan (PERSERO) ditetapkan",
+                            "content": " Neraca pembukaan Perusahaan Perseroan (PERSERO) ditetapkan\noleh Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -100,17 +100,17 @@
             ]
         },
         {
-            "id": "c96e2588-2264-4ec8-b3d8-433fdb2bb455",
+            "id": "d851bea3-84f4-425f-9795-10e65e896389",
             "name": "Chapter IV",
             "title": "\nPELAKSANAAN PENDIRIAN PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "b20670a6-bb89-427c-a1a7-29697664649f",
+                    "id": "431fd7bb-a5bf-4401-a76c-d969ba2434fd",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "23dca721-025b-4777-b74d-3a47f2a391fd",
+                        "id": "b721dac5-a485-48b2-886b-496466b14252",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -119,22 +119,22 @@
                     }
                 },
                 {
-                    "id": "b4f004ef-e806-42d3-8393-03556ce0b4c8",
+                    "id": "6f329c67-e1b0-4df8-b317-d0f32dc1146a",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d5336540-9935-433c-83b6-4d94b9f14e1b",
+                            "id": "c703b334-ccb3-4b6d-9f21-b7414eff0853",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penyelesaian pendirian Perusahaan Perseroan (PERSERO)\nsebagaimana dimaksud dalam Pasal 4 dikuasakan kepaaa Menteri\nKeuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ced23b71-9029-4f33-9476-13fa81639f6d",
+                            "id": "0c764b12-2ea2-4d6f-841a-8f1b8b1f307d",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Menteri Keuangan dapat menyerahkan kekuasaan sebagaimana\ndimaksud dalam ayat (1) dengan disertai hak substitusi kepada\nMenteri Perindustrian, dengan ketentuan bahwa Rancangan\nAnggaran Dasar Perusahaan Perseroan (PERSERO) harus mendapat\npersetujuan terlebih dahulu dari Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -144,17 +144,17 @@
             ]
         },
         {
-            "id": "fbcb37d5-264b-4d5d-b907-43cd4bbe81bc",
+            "id": "0f8b4c34-aca8-44bd-9972-d8b82fba9ccd",
             "name": "Chapter V",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "7f2da99e-3d97-45f5-bb59-8180d792170b",
+                    "id": "cbc35849-422e-4c29-9aa2-61f6a2aa8125",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "614314c5-ce74-44db-bc79-db4a8fe3159e",
+                        "id": "a0352e0f-1d0f-4910-94e1-d1f011a220ff",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -163,11 +163,11 @@
                     }
                 },
                 {
-                    "id": "c568a475-842e-461d-8490-f63e77e7f1fd",
+                    "id": "d927c957-c3f9-479d-bb79-d418aa6e85d9",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "c93716c7-4586-4a9a-8a32-3239e7ab8c06",
+                        "id": "86e41143-2cb4-42ca-860a-08381434d485",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -176,11 +176,11 @@
                     }
                 },
                 {
-                    "id": "e4458ba9-f4f0-4440-b59a-88b975d3c32d",
+                    "id": "d7d6e9ea-a0da-43d0-9a53-7653ff1637e8",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "1e8f6b2b-566f-462f-a87b-7bac857e7862",
+                        "id": "3eaa9b5c-828e-4077-aff9-011f3442d3ee",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -206,7 +206,7 @@
             "2": " Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor\n23) sebagaimana telah beberapa kali diubah, terakhir dengan\nUndang-undang Nomor 4 Tahun 1971 (Lembaran Negara Tahun 1971\nNomor 10, Tambahan Lembaran Negara Nomor 2959);",
             "3": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang\nBentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969 Nomor\n16, Tambahan Lembaran Negara Nomor 2890) menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan\nLembaran Negara Nomor 2904);",
             "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21,\nTambahan Lembaran Negara Nomor 2894) sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 24 Tahun 1972\n(Lembaran Negara Tahun 1972 Nomor 32, Tambahan Lembaran",
-            "5": " Peraturan Pemerintah Nomor 3 Tahun 1983 tentang Tata Cara\nPembinaan dan Pengawasan Perusahaan Jawatan (PERJAN),\nPerusahaan Umum (PERUM) dan Perusahaan Perseroan (PERSERO)\n(Lembaran Negara Tahun 1983 Nomor 3, Tambahan Lembaran\nNegara Nomor 3246) sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 28 Tahun 1983 (Lembaran Negara Tahun 1983\nNomor 37);"
+            "5": "  Peraturan Pemerintah Nomor 3 Tahun 1983 tentang Tata Cara\n    Pembinaan dan Pengawasan Perusahaan Jawatan (PERJAN),\n    Perusahaan Umum (PERUM) dan Perusahaan Perseroan (PERSERO)\n    (Lembaran Negara Tahun 1983 Nomor 3, Tambahan Lembaran\n    Negara Nomor 3246) sebagaimana telah diubah dengan Peraturan\n    Pemerintah Nomor 28 Tahun 1983 (Lembaran Negara Tahun 1983\n    Nomor 37);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG PENGALIHAN\nBENTUK PERUSAHAAN NEGARA BLABAK MENJADI PERUSAHAAN\nPERSEROAN (PERSERO).",
         "tanggal sah": ""

@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "7ac26d80-9b3d-45e4-80e3-58f704647010",
+            "id": "0721fb2d-085d-4c0c-964b-bfd5a20b37ae",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "546a09b6-fa47-41e1-8213-b59b34b327c2",
+                "id": "dc493701-47c8-464c-b1df-a147093d1b75",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,24 +14,24 @@
             }
         },
         {
-            "id": "6c37f7e5-816f-406e-8217-8bbb8155ab44",
+            "id": "78b0ba2e-4a3e-46bc-9cd5-c65cba4c69b9",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "955e3237-bf87-4c39-a413-4fe04c9d1a1b",
+                "id": "6ec1c41c-3eac-43cb-9a30-1b028cd4f6ef",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "1) Pemerintahan daerah Propinsi Sumatera Tengah untuk sementara\nwaktu dijalankan oleh seorang Gubernur, Kepala Daerah yang\ndiangkat oleh Pemerintah, bersama-sama dengan satu Dewan,\nyang terdiri dari seorang Ketua, yaitu Kepala Daerah dan\nsekurang-kurangnya 4 dan sebanyak banyaknya 6 orang anggauta\nyang diangkat dan diperhentikan oleh Menteri Dalam Negeri\natas usul Kepala Daerah.\n2) Dalam menjalankan tugasnya seperti tersebut dalam ayat 1\nDewan bertanggung-jawab kepada Menteri Dalam Negeri.",
+                "content": "1) Pemerintahan daerah Propinsi Sumatera Tengah untuk sementara\n    waktu dijalankan oleh seorang Gubernur, Kepala Daerah yang\n    diangkat oleh Pemerintah, bersama-sama dengan satu Dewan,\n    yang terdiri dari seorang Ketua, yaitu Kepala Daerah dan\n    sekurang-kurangnya 4 dan sebanyak banyaknya 6 orang anggauta\n    yang diangkat dan diperhentikan oleh Menteri Dalam Negeri\n    atas usul Kepala Daerah.\n2)   Dalam menjalankan tugasnya seperti tersebut dalam ayat 1\n    Dewan bertanggung-jawab kepada Menteri Dalam Negeri.\n    ",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "42a5849d-7a9c-4c4b-9992-abaedd7376eb",
+            "id": "e883bc0b-1765-47a3-bfb4-a44d740e2f63",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "61ddeb01-fb3d-4670-b287-10632c20b5bb",
+                "id": "9c014dfc-0229-4678-9e26-72376ee11465",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "577d3a59-b587-4025-925c-40abb8147540",
+            "id": "42771791-91ff-4a17-8691-49aac94fe4c7",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "9718aa8b-71b8-479f-abe6-9d9ad97ddfda",
+                "id": "7099274b-635e-4a5d-a88f-d3bfc82c0416",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -62,7 +62,7 @@
             "a": " Bahwa berhubung dengan pembentukan Propinsi Sumatera Tengah\nyang telah ditetapkan dengan Peraturan Pemerintah Pengganti\nUndang-undang No. 4 tahun 1950, yang berlaku mulai tanggal 15\nAgustus 1950, pemerintahan daerah Sumatera Tengah perlu\nsegera disusun baru menurut dasar-dasar dalam Undang-undang",
             "No": " 22 tahun 1948 sebagai pelaksanaan Program-Kabinet,\nPemerintah menganggap perlu mengadakan tindakan-tindakan dan\nperaturan seperti tersebut di bawah ini.",
             "b": " Bahwa pemerintahan daerah Propinsi Sumatera Tengah sejak hari\ntersebut masih dilakukan oleh Dewan Perwakilan Rakyat\nPropinsi dan Badan Eksekutip Propinsi (Dewan Pemerintah\nDaerah), yang dibentuk atas dasar Undang-undang No. 10 tahun\n1948, lagi pula jabatan Gubernur masih terluang, sehingga\njalannya pemerintahan daerah tidak lancar;",
-            "c": " Bahwa usaha-usaha Dewan Perwakilan Rakyat dan Badan Eksekutif\nPropinsi Sumatera Tengah dalam membentuk pemerintahan daerah\nbaru menuju ke arah pelaksanaan Undang-undang pokok\npemerintahan daerah tidak berhasil, sehingga perkembangan\npelaksanaan otonomi daerah Sumatera Tengah tertahan;",
+            "c": " Bahwa usaha-usaha Dewan Perwakilan Rakyat dan Badan Eksekutip\nPropinsi Sumatera Tengah dalam membentuk pemerintahan daerah\nbaru menuju ke arah pelaksanaan Undang-undang pokok\npemerintahan daerah tidak berhasil, sehingga perkembangan\npelaksanaan otonomi daerah Sumatera Tengah tertahan;",
             "d": " Bahwa Acting-Gubernur yang telah diangkat oleh Pemerintah\nuntuk memangku jabatan Kepala Daerah Propinsi Sumatera Tengah\ndengan tugas juga membentuk pemerintahan baru menurut\ninstruksi Menteri Dalam Negeri tanggal 19 September 1950 No.\nDes. 12/4/27 tidak dapat menjalankan kewajibannya, karena\npenolakan Dewan Perwakilan Rakyat Propinsi Sumatera Tengah\nterhadap keangkatannya itu, dan karena timbang-terima\ndilarang oleh Dewan Perwakilan Rakyat Propinsi;",
             "e": " Bahwa dengan perbuatan dan sikap tersebut Dewan Perwakilan\nRakyat dan Badan Eksekutip Propinsi Sumatera Tengah telah\nkeliru memakai kekuasaannya dan telah menghalang-halangi\nterbentuknya pemerintahan daerah baru, yang dalam keadaan\ntersebut di atas merugikan daerah dan Negara;",
             "f": " Bahwa berhubung dengan keadaan di daerah itu dan hasrat\nPemerintah untuk segera mengadakan pemerintahan daerah yang\nmemenuhi syarat-syarat seperti tersebut dalam Undang-undang"

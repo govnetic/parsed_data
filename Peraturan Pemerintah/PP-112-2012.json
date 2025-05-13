@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "79e2d460-d4bc-489a-bf8b-fc974d85c627",
+            "id": "42e3bbed-3b21-4da7-a8ea-f9ef9210d743",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "b0110a7c-0769-4994-b2fe-d26ec3261f37",
+                "id": "81eda64c-22b7-4861-ae30-294cba44e730",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "e2d4d039-b8ed-4662-bf39-bf90c4122ca1",
+            "id": "72ebd872-c525-41eb-ab5b-76b24cf41f0b",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "64a6a70d-9a30-4621-be39-e5a1c9fb6b12",
+                "id": "686ddb9e-17fc-421f-9bcd-3c32e99d7cb1",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "4b95246d-b2e7-447d-9b82-76f7385a3497",
+            "id": "cc99ff71-4451-4cc6-995c-9fdf2c5d318d",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "5efcfed0-669c-44ac-b4ac-08144eba2fb2",
+                "id": "f2e17f81-e010-4c93-8018-8c9b373d8d77",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -46,18 +46,18 @@
         "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO)\nPT INDUSTRI KAPAL INDONESIA",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa untuk memperbaiki struktur permodalan dan meningkatkan kapasitas usaha Perusahaan Perseroan (Persero) PT Industri Kapal Indonesia, perlu melakukan penambahan penyertaan modal Negara Republik Indonesia ke dalam modal saham Perusahaan Perseroan (Persero) PT Industri Kapal Indonesia yang bersumber dari Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2012 bagian dari alokasi penyertaan modal negara pada BUMN Strategis;",
-            "b": " bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan untuk melaksanakan ketentuan Pasal 4 ayat (4) Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara, perlu menetapkan Peraturan Pemerintah tentang Penambahan Penyertaan Modal Negara Republik Indonesia ke dalam Modal Saham Perusahaan Perseroan (Persero) PT Industri Kapal Indonesia;"
+            "a": " bahwa untuk memperbaiki struktur permodalan dan\nmeningkatkan kapasitas usaha Perusahaan Perseroan\n(Persero) PT Industri Kapal Indonesia, perlu melakukan\npenambahan penyertaan modal Negara Republik Indonesia\nke dalam modal saham Perusahaan Perseroan (Persero) PT\nIndustri Kapal Indonesia yang bersumber dari Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 2012\nbagian dari alokasi penyertaan modal negara pada BUMN\nStrategis;",
+            "b": " bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan untuk melaksanakan ketentuan Pasal 4\nayat (4) Undang-Undang Nomor 19 Tahun 2003 tentang\nBadan Usaha Milik Negara, perlu menetapkan Peraturan\nPemerintah tentang Penambahan Penyertaan Modal\nNegara Republik Indonesia ke dalam Modal Saham\nPerusahaan Perseroan (Persero) PT Industri Kapal\nIndonesia;"
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
-            "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 4297);",
-            "3": " Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran Negara Republik Indonesia Nomor 4355);",
-            "4": " Undang-Undang Nomor 22 Tahun 2011 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2012 (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 113, Tambahan Lembaran Negara Republik Indonesia Nomor 5254) sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 2012 tentang Perubahan atas Undang-Undang Nomor 22 Tahun 2011 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2012 (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 87, Tambahan Lembaran Negara Republik Indonesia Nomor 5303);",
-            "5": " Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata Cara Penyertaan dan Penatausahaan Modal Negara pada Badan Usaha Milik Negara dan Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 116, Tambahan Lembaran Negara Republik Indonesia Nomor 4555);"
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik Indonesia\nNomor 70, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4297);\n---",
+            "3": " Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);",
+            "4": " Undang-Undang Nomor 22 Tahun 2011 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 2012\n(Lembaran Negara Republik Indonesia Tahun 2011 Nomor\n113, Tambahan Lembaran Negara Republik Indonesia\nNomor 5254) sebagaimana telah diubah dengan Undang-\nUndang Nomor 4 Tahun 2012 tentang Perubahan atas\nUndang-Undang Nomor 22 Tahun 2011 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 2012\n(Lembaran Negara Republik Indonesia Tahun 2012 Nomor\n87, Tambahan Lembaran Negara Republik Indonesia\nNomor 5303);",
+            "5": " Peraturan Pemerintah Nomor 44 Tahun 2005 tentang Tata\nCara Penyertaan dan Penatausahaan Modal Negara pada\nBadan Usaha Milik Negara dan Perseroan Terbatas\n(Lembaran Negara Republik Indonesia Tahun 2005 Nomor\n116, Tambahan Lembaran Negara Republik Indonesia\nNomor 4555);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT INDUSTRI KAPAL INDONESIA.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT INDUSTRI KAPAL INDONESIA.",
         "tanggal sah": "24 Desember 2012"
     }
 }

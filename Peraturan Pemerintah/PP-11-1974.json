@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "2af95aa3-19da-4548-ba05-cc17b0c69aa5",
+            "id": "771adc1f-d8d7-4e02-b150-59e7ca60e572",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "865ccd4b-c3de-44db-80dc-a7ff385d7d97",
+                "id": "dc9939af-9726-4251-9203-e5a69e4c4e11",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "208a1674-90a3-446b-8e08-e4b248c9f7d5",
+            "id": "a3003c74-4cd4-4aa1-87f0-46c8d27693d4",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "c875d0d5-0e21-4e76-a0f7-dded646c595f",
+                "id": "70c115ce-0291-495c-a500-61fe3c68d12f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "a2feb197-607d-4e98-9dd9-d24f9deec9c2",
+            "id": "33f52c5e-3cfe-4e94-a269-5f9df0696aac",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "be4025cf-dfb4-45ad-b478-8903a27d1001",
+                "id": "2dbaba5c-b407-4cd6-983e-dfcf4ba407b6",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -51,7 +51,7 @@
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Pasal 5 ayat (2) Undang-undang Dasar 1945;",
+            "1": " Pasal 5 ayat (2) Undang-undang Dasar 1945 ;",
             "2": " Undang-undang Nomor 18 Tahun 1961 tentang Ketentuan-\nketentuan Pokok Kepegawaian (Lembaran Negara Tahun 1961\nNomor 263, Tambahan Lembaran Negara Nomor 2312);",
             "3": " Undang-undang Nomor 2 Tahun 1974 tentang Anggaran\nPendapatan dan Belanja Negara Tahun Anggaran 1974/1975\n(Lembaran Negara Tahun 1974 Nomor 9, Tambahan Lembaran\nNegara Nomor 3022);",
             "4": " Peraturan Pemerintah Nomor 10 Tahun 1970 tentang Pemberian\nTunjangan Kerja Bagi Pegawai Negeri Sipil (Lembaran Negara\nTahun 1970 Nomor 16);",

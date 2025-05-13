@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "745caf31-4f47-4300-bc8e-7f6c448c6aad",
+            "id": "2e83c1c0-df52-4719-b1ab-703086929b66",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "7070d457-9892-41c0-ba4d-b9149a127a36",
+                    "id": "cd4ffee2-e983-4e0a-b096-19fe9abee343",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "93a8b876-e41f-42c4-a9cf-58a4a8c8f817",
+                        "id": "4697a38d-72df-4a55-8bb1-e4a4e9180fa0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,22 +20,22 @@
                     }
                 },
                 {
-                    "id": "05067b56-db83-4519-854a-9c35fc8666c2",
+                    "id": "6015adc4-b58c-42c4-b3b6-46b2cf222683",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "163e6b68-a32e-4286-8ccf-d6f93dcb45c4",
+                            "id": "407a3e27-9849-4c16-a64c-9be7c7c3d949",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penambahan penyertaan modal Negara Republik Indonesia sebagaimana\ndimaksud dalam Pasal 1 berasal dari pemisahan sebagian kekayaan Negara yang\npada saat ini berada di bawah pengelolaan Direktorat Jenderal Bina Marga\nDepartemen Pekerjaan Umum, berupa nilai dari pada :\n- Ruas Jalan Tol Surabaya - Gempol\n- Jembatan Tol Mojokerto\n- Jembatan Tol Tello Lama\n- Jembatan Tol Kapuas/Sungai Landak.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "53749bf5-0397-4aee-aab9-11930ab32e84",
+                            "id": "df61e8d0-8ad7-40f6-a542-a47cd9ef89fc",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Besarnya nilai penambahan penyertaan modal Negara Republik Indonesia ke\ndalam modal saham Perusahaan Perseroan (PERSERO) PT. Jasa Marga\nsebagaimana dimaksud dalam ayat (1) ditetapkan oleh Menteri Keuangan\nberdasarkan perhitungan yang dilakukan bersama Departemen Pekerjaan Umum\ndan Departemen Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -45,55 +45,55 @@
             ]
         },
         {
-            "id": "805629ad-20dc-4a1f-a7ad-e0cdbcb9c1d6",
+            "id": "92823ea1-3a19-46ff-af21-409952784b91",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN\nPENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f5a8cd38-0e78-4125-9ea9-cf3efd25da2e",
+                    "id": "bd4b884e-de0b-4c69-8114-d5929585f9f7",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "0e6c0f7a-79d7-4ce9-9494-74859b4d2103",
+                        "id": "f47ff1c2-634f-45d9-9ae6-4f8992627803",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPelaksanaan penambahan penyertaan modal Negara Republik Indonesia ke dalam modal saham Perusahaan Perseroan (PERSERO) PT. Jasa Marga sebagaimana dimaksud dalam Pasal 1 dilakukan menurut ketentuan Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor 23) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-undang Nomor 4 Tahun 1971 dengan memperhatikan ketentuan-ketentuan yang tercantum dalam Peraturan Pemerintah Nomor 12 Tahun 1969, sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24 Tahun 1972.",
+                        "content": "\nPelaksanaan penambahan penyertaan modal Negara Republik Indonesia ke dalam\nmodal saham Perusahaan Perseroan (PERSERO) PT. Jasa Marga sebagaimana dimaksud\ndalam Pasal 1 dilakukan menurut ketentuan Kitab Undang-undang Hukum Dagang\n(Staatsblad Tahun 1847 Nomor 23) sebagaimana telah beberapa kali diubah, terakhir\ndengan Undang-undang Nomor 4 Tahun 1971 dengan memperhatikan ketentuan-\nketentuan yang tercantum dalam Peraturan Pemerintah Nomor 12 Tahun 1969,\nsebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24 Tahun 1972.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "626b9fad-228e-41d6-9c60-b8ad6b64f500",
+            "id": "a481a1cc-ea71-49d2-a8d3-b3e482b66f74",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "0e527f57-e5df-4f7c-8f40-a1ec7539801a",
+                    "id": "6fff650c-c583-4c0e-975d-a2eec410b223",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "6d8f0ce0-dcbf-43ce-a4eb-f6c6dca98371",
+                        "id": "a392bf9e-df87-4f89-995d-e5b4fc3dd510",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nKetentuan lebih lanjut yang diperlukan bagi pelaksanaan Peraturan Pemerintah ini diatur oleh Menteri Keuangan dan Menteri Pekerjaan Umum, baik secara bersama maupun sendiri-sendiri sesuai dengan bidang tugasnya masing-masing.",
+                        "content": "\nKetentuan lebih lanjut yang diperlukan bagi pelaksanaan Peraturan Pemerintah ini\ndiatur oleh Menteri Keuangan dan Menteri Pekerjaan Umum, baik secara bersama\nmaupun sendiri-sendiri sesuai dengan bidang tugasnya masing-masing.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "e665ef96-2b9e-4ded-833e-40bb44ab83b5",
+                    "id": "31b82be4-bb59-4189-a6ef-cf3507b3013c",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "7a3add61-0cd2-41c7-b79f-6af98877f3e5",
+                        "id": "691e5346-222d-4841-9e48-28396b572995",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }

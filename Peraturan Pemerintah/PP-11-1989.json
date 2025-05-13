@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "658a0ca2-0f29-4b35-83c3-fb54d5895002",
+            "id": "7d2501c7-0d80-44a1-81cd-29ee570de8a2",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f0cb5ed8-8c6f-4a65-ad65-4fd17555e7a1",
+                    "id": "e39a7d3f-fdbc-4323-b80f-e308f455ed2e",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "472f4aa2-e1ba-4830-8e02-f1bae9178eb3",
+                        "id": "4d5b2502-de76-461e-bb48-87cf3c3bc206",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,22 +20,22 @@
                     }
                 },
                 {
-                    "id": "8ded1302-74d1-4c77-b769-34f6fb925ebf",
+                    "id": "52be6c74-af7c-45a4-84e3-d8b6cfb31c69",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3c700852-0baf-4c22-aa68-0d65b20943f1",
+                            "id": "d4b97421-0e5c-413c-8427-40bd007eb16b",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penambahan penyertaan modal Negara Republik Indonesia\nsebagaimana dimaksud dalam Pasal 1 berasal dari pemisahan\nsebagian kekayaan Negara yang berada pada Direktorat Jenderal\nPerhubungan Laut Departemen Perhubungan berupa 14 (empat\nbelas) buah kapal perintis sebagaimana tercantum dalam\nLampiran Peraturan Pemerintah ini.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9b87e2df-7c78-4687-b96a-3df5228854ac",
+                            "id": "7b450d5c-b70b-43ee-9f81-275ac09bf078",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Nilai penambahan penyertaan modal Negara Republik Indonesia\nke dalam modal saham Perusahaan Perseroan (PERSERO) PT.\nPELNI sebagaimana dimaksud dalam Pasal 1 per 1 April 1987\nsebesar Rp 7.292.317.000,00 (tujuh milyar dua ratus sembilan\npuluh dua juta tiga ratus tujuh belas ribu rupiah).",
                             "explanation": "Tidak ada Penjelasan"
@@ -45,17 +45,17 @@
             ]
         },
         {
-            "id": "beef5757-3d0b-418e-b12a-7873788ecc35",
+            "id": "daa3f62b-aa4f-4ae4-a990-3b0cf0659212",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "98025397-116d-42c3-8f31-d83008c6090f",
+                    "id": "ffd2a1eb-47ef-4fc1-b13e-f5191f766a9c",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "ca4f1215-2c9c-4648-83f6-6ca879236b2b",
+                        "id": "27eac732-beb3-4f14-8cec-abb4dbf1a536",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -64,11 +64,11 @@
                     }
                 },
                 {
-                    "id": "7f96afa4-b72c-4a88-bbda-e5939231b535",
+                    "id": "2eff1231-a938-417a-a4d3-9245bbb5cc56",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "92c7c244-c02b-48de-a6c3-641ad08bed84",
+                        "id": "147636cf-637a-4e37-8313-63b312884eec",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -82,7 +82,7 @@
     "metadata": {
         "Nomor": "11",
         "Tahun": "1989",
-        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM\nMODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO)\nPT. PELAYARAN NASIONAL INDONESIA\n(PT. PELNI)",
+        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM\nMODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO)\nPT. PELAYARAN NASIONAL INDONESIA\n(PT. PELNI)\nPRESIDEN REPUBLIK INDONESIA,",
         "Menimbang": {
             "Introduction": "",
             "a": " bahwa untuk lebih meningkatkan dan mengembangkan kegiatan\nusaha Perusahaan Perseroan (PERSERO) PT. PELNI dalam rangka\npelayanan pelayaran perintis, dipandang perlu untuk menambah\npenyertaan modal Negara Republik Indonesia ke dalam modal\nsaham Perusahaan Perseroan (PERSERO) PT. PELNI;",

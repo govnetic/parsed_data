@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "6b33e516-e412-45b8-a5a5-b9de7b8d5c96",
+            "id": "41511b65-da2b-4bb4-bbb6-5473862aaf57",
             "name": "Chapter I",
             "title": "\nPENYERTAAN MODAL NEGARA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "051a8e9e-1033-44a6-a741-924cd84af1bc",
+                    "id": "8aedd578-68ad-44da-85c3-e3fc8dd68f3f",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "2798cd49-5627-4abc-ab03-942106b65176",
+                        "id": "d6969af2-e2ba-49d4-80c7-6b17e80e10b5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,66 +20,66 @@
                     }
                 },
                 {
-                    "id": "bd885fa0-dc7f-41f1-9a24-0d274afe4353",
+                    "id": "275abcab-f3b6-40fa-a8cd-969a17c116ed",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "f0c6f0e2-ec9d-4c19-9a35-20d1cd654001",
+                        "id": "101c3e1d-0e64-49c3-9a65-a7fdd9d6e7dd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nNilai penyertaan modal Negara Republik Indonesia ke dalam modal\nsaham Perseroan Terbatas Bank Bukopin sebagaimana dimaksud dalam\nPasal 1 adalah sebesar Rp. 45.000.000.000,- (empat puluh lima milyar\nrupiah).",
+                        "content": "\nNilai penyertaan modal Negara Republik Indonesia ke dalam modal saham Perseroan Terbatas Bank Bukopin sebagaimana dimaksud dalam Pasal 1 adalah sebesar Rp. 45.000.000.000,- (empat puluh lima milyar rupiah).",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "cd449248-c235-4eb2-b55e-2fa982d47597",
+                    "id": "25c12476-ed3c-4d40-a773-3714a2268278",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "499ba27a-e2dd-4f54-a0c8-007d4fb92c6d",
+                        "id": "eccb81cf-7722-4dbf-937a-a699d6386825",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPenyertaan modal Negara Republik Indonesia sebagaimana dimaksud\ndalam Pasal 2 merupakan kekayaan Negara yang dipisahkan.",
+                        "content": "\nPenyertaan modal Negara Republik Indonesia sebagaimana dimaksud dalam Pasal 2 merupakan kekayaan Negara yang dipisahkan.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "d3185128-8046-4af5-992c-7e4470392e4d",
+            "id": "b910a8cb-2c4a-4cbf-af78-589a260e36ab",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2bf33551-0657-4e97-b5c5-6d210d090f7d",
+                    "id": "06e48fa9-f9a1-4568-990e-e762369f6417",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "034ccb51-5b3f-4045-893a-3282270a44eb",
+                        "id": "4bd8c953-7505-4f68-9ac4-9c5027eb0584",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPelaksanaan penyertaan modal Negara Republik Indonesia ke dalam\nmodal saham Perseroan Terbatas Bank Bukopin sebagaimana dimaksud\ndalam Pasal 1, dilakukan menurut Undang-undang Hukum Dagang (Stbl\nTahun 1847 Nomor 23) sebagaimana telah beberapa kali diubah, terakhir\ndengan Undang-undang Nomor 4 Tahun 1971, dengan memperhatikan\nketentuan-ketentuan yang tercantum dalam Peraturan Pemerintah Nomor\n12 Tahun 1969, sebagaimana telah diubah dengan Peraturan Pemerintah\nNomor 24 Tahun 1972.",
+                        "content": "\nPelaksanaan penyertaan modal Negara Republik Indonesia ke dalam modal saham Perseroan Terbatas Bank Bukopin sebagaimana dimaksud dalam Pasal 1, dilakukan menurut Undang-undang Hukum Dagang (Stbl Tahun 1847 Nomor 23) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-undang Nomor 4 Tahun 1971, dengan memperhatikan ketentuan-ketentuan yang tercantum dalam Peraturan Pemerintah Nomor 12 Tahun 1969, sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24 Tahun 1972.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "1ede3a29-a4a2-41a3-979d-7d6fa233a748",
+            "id": "5cf6a03b-4d9e-41cf-ad0d-4b54ad693cf1",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ce9a1dbd-8dbe-4d5d-9205-7de29cf90c30",
+                    "id": "608c52de-c4ff-46d9-b69e-05cdf2c89a13",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "d34dd1fc-a88b-4b6b-9ab4-d140b815a0c4",
+                        "id": "092ffa5a-af6d-46b4-bd48-43eebde65a48",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -88,11 +88,11 @@
                     }
                 },
                 {
-                    "id": "57e7191d-3530-4178-b55c-24fbed837e45",
+                    "id": "778e70d3-b2e2-4445-bb9d-8020ba042014",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "fda87ccb-6f43-4196-917b-c36e7d465d3d",
+                        "id": "abc7f43e-f367-4989-bbfb-8640fef19887",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",

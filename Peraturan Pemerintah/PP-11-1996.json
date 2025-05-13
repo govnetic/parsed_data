@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "49c67648-e299-477b-a6bd-f8784790da24",
+            "id": "fa4da3b5-e53c-4bb0-b769-242633b23d65",
             "name": "Chapter I",
             "title": "\nPENYERTAAN MODAL NEGARA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8921d3dc-017b-4504-835b-1390790ed448",
+                    "id": "7b75a90e-25cd-4dac-bba3-22a1622d50c4",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "c00af218-4479-4d30-b2e3-e996f69f65db",
+                        "id": "5b49f774-b6a4-4dff-a3c3-11966d73de3c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -22,57 +22,362 @@
             ]
         },
         {
-            "id": "7e68a53c-31be-42de-b18a-fba18db5c918",
+            "id": "87f49925-bde5-49ad-99a3-fe1fe48be8d7",
+            "name": "Chapter II",
+            "title": "\nPENDIRIAN DAN PENYERTAAN MODAL",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "d3de04f6-73ea-4cdb-b86a-7b5652fa6acf",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "b82b4691-2a85-459a-ac96-442b9587a9a0",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Negara Republik Indonesia melakukan penyertaan modal kedalam\nPERSERO yang didirikan sesuai dengan ketentuan Undang-undang\nNomor 1 Tahun 1995 tentang Perseroan Terbatas.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "efab1d48-3c8c-45ca-a255-e0df0322a928",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pendirian PERSERO sebagaimana dimaksud pada ayat (1), dilakukan\ndengan seluruh sahamnya dimiliki oleh Negara Republik Indonesia.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "d33efd06-7332-4b3c-8f9c-b74e14b4ce08",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "d6d5693a-a8b4-480b-ae08-760f0329a352",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Modal dasar PERSERO pada saat pendirian adalah sebesar Rp\n142.000.000.000,- (seratus empat puluh dua milyar rupiah).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "e85a2756-9837-4c7a-aee3-8119dbc18d1d",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Dari modal dasar PERSERO sebagaimana dimaksud pada ayat (1),\ntelah ditempatkan dan disetor oleh Negara Republik Indonesia sebesar\nRp 47.333.000.000,- (empat puluh tujuh milyar tiga ratus tiga puluh\ntiga juta rupiah).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "cff7b349-62c9-42e9-bb66-723e0093da76",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Penyertaan modal Negara Republik Indonesia sebagaimana dimaksud\npada ayat (2), berasal dari sebagian modal Negara yang tertanam pada\nPerusahaan Perseroan (PERSERO) PT. Perkebunan III, Perusahaan\nPerseroan (PERSERO) PT. Perkebunan IV, Perusahaan Perseroan\n(PERSERO) PT. Perkebunan VI, Perusahaan Perseroan (PERSERO) PT\nPerkebunan VIII, sesuai dengan neraca pembukaan PERSERO",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "0d46418f-48e9-4e19-ac8a-d1415ac8351d",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "aa860521-15a9-407d-9225-57439cb4643c",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Apabila dikemudian hari modal dasar sebagaimana dimaksud dalam\nPasal 3 ayat (1) akan ditambah, maka penambahan modal dasar tersebut\ndilakukan sesuai dengan ketentuan Undang-undang Nomor 1 Tahun\n1995 tentang Perseroan Terbatas.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "19ad9ffb-5b67-4233-b7b4-06466afef76e",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penyetoran modal Negara Republik Indonesia kedalam PERSERO\ndilakukan secara bertahap sesuai dengan kebutuhan PERSERO.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "869eaafa-ca9f-4ade-8a8c-1df750f7fefb",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "88459054-c669-49bd-97f0-09f95eccbf73",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Apabila dikemudian hari saham PERSERO sebagaimana dimaksud dalam\nPasal 2 ayat (2), sebagian atau seluruhnya akan dialihkan kepada pihak\nlain, maka pengalihan tersebut dilakukan sesuai peraturan perundang\nundangan yang berlaku.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "c3281a4c-dc8c-4859-a288-0ce0d9fc7c87",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pelaksanaan pendirian PERSERO sebagaimana dimaksud dalam Pasal 2,\nserta penyertaan modal Negara Republik Indonesia sebagaimana\ndimaksud dalam Pasal 3, diatur lebih lanjut oleh Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "28afe1bf-ce87-450b-98ee-76279a674e24",
+            "name": "Chapter III",
+            "title": "\nMAKSUD DAN TUJUAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "3c10f382-336a-46fd-bafb-9054c41c0c03",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "7c869806-05cc-48cc-8b50-524e66606226",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPERSERO didirikan dengan maksud dan tujuan untuk :\na. menyelenggarakan usaha di bidang perkebunan;\nb. mengoptimalkan pemanfaatan sumber daya perusahaan untuk\nmenghasilkan barang dan atau jasa yang bermutu tinggi dan berdaya saing\nkuat;\nc. meningkatkan nilai perusahaan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "3489c643-7370-47e0-b684-7ea0c639828c",
+            "name": "Chapter IV",
+            "title": "\nRUANG LINGKUP KEGIATAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "7b79c7db-a78d-49ca-928a-dda680f43ac1",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": {
+                        "id": "7e3bed60-2ec8-48f6-b988-2f7a2c3fe91b",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nUntuk mencapai maksud dan tujuan sebagaimana dimaksud dalam Pasal 6,\nPERSERO menyelenggarakan kegiatan usaha sebagai berikut ;\na. mengusahakan tanaman perkebunan;\nb. mengolah, memasarkan hasil perkebunan dan hasil pertanian lainnya;\nc. melaksanakan kegiatan penelitian dan pengembangan di bidang\nperkebunan;\nd. melaksanakan kegiatan lain yang menunjang kegiatan usaha tersebut\ndiatas.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "0d845807-83a1-44c6-9fd5-ba5b33b1e6a2",
+            "name": "Chapter V",
+            "title": "\nORGAN PERSERO",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "54f76f79-eff5-4a38-8b6a-c5bf0c258779",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": {
+                        "id": "a1035514-1498-49b3-9c8e-78244eecf8cb",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nOrgan PERSERO terdiri dari :\na. Rapat Umum Pemegang Saham;\nb. Direksi;\nc. Komisaris.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "2a4061c1-ccf5-460a-a213-6d96ddcfa43a",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e4dfba2e-c8e4-4853-a3f9-7e67b6c5b26b",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Rapat Umum Pemegang Saham berwenang untuk :\na. menetapkan kebijakan umum PERSERO dalam rangka menjalankan\nkegiatan PERSERO;\nb. menyetujui Rencana Kerja dan Anggaran PERSERO;\nc. mengesahkan Neraca dan perhitungan Laba Rugi PERSERO;\nd. mengangkat dan memberhentikan anggota Direksi dan anggota\nKomisaris.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "03156f60-b7aa-45c2-9e66-5c00709161e1",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Rapat Umum Pemegang Saham diselenggarakan sekurang\nkurangnya 1 (satu) kali dalam 1 (satu) tahun.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "8bf38517-52d3-41c2-a9e3-862caabd5893",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "39ded4f1-977b-4bcd-8497-85cb62a73a1b",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Direksi bertanggung jawab atas pengurusan PERSERO.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "5e152732-4dcb-4b6a-be79-e0bf51276cbf",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Direksi berwenang untuk :\na. mewakili PERSERO didalam dan diluar pengadilan;\nb. melaksanakan kebijakan umum PERSERO sebagaimana dimaksud\ndalam pasal 9 ayat (1) huruf a.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "4d01e4f7-17bf-4b50-b60b-2b3899bee01f",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "8b233b93-5fe4-4506-a202-9c0348eee127",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Komisaris bertugas untuk mengawasi kebijakan Direksi dalam\nmenjalankan PERSERO serta memberikan nasihat kepada Direksi.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "f1d665c0-a26c-4f09-9e9d-e50b7dc4a0c2",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Komisaris berwenang untuk meminta keterangan dari Direksi\nmengenai hal hal yang berkaitan dengan pengurusan PERSERO.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "d18a902a-75e5-4585-b4dc-2bf55f38de1c",
+            "name": "Chapter VI",
+            "title": "\nPENGGUNAAN LABA",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "3c380947-cabb-48c7-903f-9f3b7a553c42",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "331dd909-280b-4189-bb21-45b8dc470e99",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " PERSERO wajib menyisihkan sebagian laba bersih untuk :\na. cadangan;\nb. pembagian laba kepada Pemegang Saham.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "52876e8d-80df-4163-b4e1-26f63692b2be",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Selain penggunaan laba bersih sebagaimana dimaksud pada ayat (1),\nPERSERO dapat menyisihkan laba bersih untuk kepentingan sosial dan\nkaryawan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "af204290-9e5c-40f2-acc9-61c52fab976e",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": {
+                        "id": "9d0502b4-6203-45d2-b64e-2fec8d9d4148",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKetentuan lebih lanjut mengenai penggunaan laba bersih sebagaimana\ndimaksud dalam pasal 12, diatur dalam Rencana Kerja dan Anggaran\nPERSERO.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "d59f9e61-72da-4c43-a007-ccf57dca04c2",
+            "name": "Chapter VII",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "beb9ec48-2a0f-4137-9bf3-83758c9ed734",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": {
+                        "id": "760cbd58-e5ef-4ac5-b1ed-cd98924cef3d",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik\nIndonesia.\nDitetapkan di Jakarta\npada tanggal 24 April 1996\nPRESIDEN REPUBLIK INDONESIA,\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 24 April 1996\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1996 NOMOR 38\nSalinan sesuai dengan aslinya,\nSEKRETARIAT KABINET RI\nKepala Biro Peraturan Perundang undangan,\nEddy Soesilo\n3. Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan Pemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang Bentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969 Nomor 16, Tambahan Lembaran Negara Nomor 2890) menjadi Undang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan Lembaran Negara Nomor 2904);\n4. Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21, Tambahan Lembaran Negara Nomor 2894) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24 Tahun 1972 (Lembaran Negara Tahun 1972 Nomor 32, Tambahan Lembaran Negara Nomor 2987);\n5. Peraturan Pemerintah Nomor 3 Tahun 1983 tentang Tata Cara Pembinaan dan Pengawasan Perusahaan Jawatan (PERJAN), Perusahaan Umum (PERUM) dan Perusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1983 Nomor 3, Tambahan Lembaran Negara Nomor 3246) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 28 Tahun 1983 (Lembaran Negara Tahun 1983 Nomor 37);\nMEMUTUSKAN:\nMenetapkan : PERATURAN PEMERINTAH TENTANG PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN PERUSAHAAN PERSEROAN (PERSERO) PT PERKEBUNAN NUSANTARA VI.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "639236be-d6d2-42ee-83fc-b643b1dd78f9",
             "name": "Chapter II",
             "title": "\nMAKSUD DAN TUJUAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "774ee45a-013c-4ac4-a753-bebebf8bda28",
+                    "id": "1a175db2-3163-444f-9abd-5975c2922f88",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "ed4dd7e0-e033-4310-a544-e3de7123de14",
+                        "id": "2c876005-b4b3-40b4-8203-f6e52b804fce",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMaksud dan tujuan pendirian PERSERO sebagaimana dimaksud dalam\nPasal 1 adalah untuk menyelenggarakan:\nA. usaha di bidang perkebunan; dan\nB. usaha-usaha lain yang menunjang penyelenggaraan usaha di bidang\nperkebunan sesuai dengan peraturan perundang-undangan yang\nberlaku.",
+                        "content": "\nMaksud dan tujuan pendirian PERSERO sebagaimana dimaksud dalam\nPasal 1 adalah untuk menyelenggarakan:\na. usaha di bidang perkebunan; dan\nb. usaha-usaha lain yang menunjang penyelenggaraan usaha di bidang\nperkebunan sesuai dengan peraturan perundang-undangan yang\nberlaku.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "7f384633-6b80-4747-b2ae-ebf16644e2d1",
+                    "id": "40600470-66c7-426b-89b8-7325c897960b",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "56d45caa-2c20-4777-b10c-6e09e5241d7d",
+                            "id": "6b510843-4812-4e38-96da-eda80a023eaa",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Modal PERSERO yang ditempatkan dan disetor pada saat\npendiriannya adalah kekayaan Negara yang berasal dari:\nA. Proyek Pengembangan Perusahaan Perseroan (PERSERO) PT\nPerkebunan III di Propinsi Sumatera Barat;\n\nb. Proyek Pengembangan Perusahaan Perseroan (PERSERO) PT\nPerkebunan IV di Propinsi Jambi;\nc. Proyek Pengembangan Perusahaan Perseroan (PERSERO) PT\nPerkebunan VI di Propinsi Sumatera Barat dan Jambi termasuk\nkonversi pinjaman Negara Republik Indonesia dari Kreditanstalt\nFur Wiederaufbau (KFW) untuk Proyek Ophir, dan kekayaan\nNegara yang tertanam di Proyek Rimbo Bujang;\nd. Proyek Pengembangan Perusahaan Perseroan (PERSERO) PT\nPerkebunan VIII di Propinsi Jambi dan Sumatera Barat;\ne. Sejumlah dana hasil peleburan Perusahaan Perseroan\n(PERSERO) PT Perkebunan III, Perusahaan Perseroan\n(PERSERO) PT Perkebunan IV, Perusahaan Perseroan\n(PERSERO) PT Perkebunan VI, Perusahaan Perseroan\n(PERSERO) PT Perkebunan VIII yang diperuntukkan dalam\nrangka pendirian PERSERO.",
+                            "content": " Modal PERSERO yang ditempatkan dan disetor pada saat\npendiriannya adalah kekayaan Negara yang berasal dari:\na. Proyek Pengembangan Perusahaan Perseroan (PERSERO) PT\nPerkebunan III di Propinsi Sumatera Barat;\n\nb. Proyek Pengembangan Perusahaan Perseroan (PERSERO) PT\nPerkebunan IV di Propinsi Jambi;\nc. Proyek Pengembangan Perusahaan Perseroan (PERSERO) PT\nPerkebunan VI di Propinsi Sumatera Barat dan Jambi termasuk\nkonversi pinjaman Negara Republik Indonesia dari Kreditanstalt\nFur Wiederaufbau (KFW) untuk Proyek Ophir, dan kekayaan\nNegara yang tertanam di Proyek Rimbo Bujang;\nd. Proyek Pengembangan Perusahaan Perseroan (PERSERO) PT\nPerkebunan VIII di Propinsi Jambi dan Sumatera Barat;\ne. Sejumlah dana hasil peleburan Perusahaan Perseroan\n(PERSERO) PT Perkebunan III, Perusahaan Perseroan\n(PERSERO) PT Perkebunan IV, Perusahaan Perseroan\n(PERSERO) PT Perkebunan VI, Perusahaan Perseroan\n(PERSERO) PT Perkebunan VIII yang diperuntukkan dalam\nrangka pendirian PERSERO.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8921a053-4379-4193-bbd9-53390671f579",
+                            "id": "591e6615-eaa0-4496-8f57-294ea7e3a954",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Besarnya modal PERSERO sebagaimana dimaksud dalam ayat (1)\nditetapkan oleh Menteri Keuangan berdasarkan hasil perhitungan\nbersama Departemen Keuangan dan Departemen Pertanian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "86b17540-5a40-45c7-a026-206e7d9b9788",
+                            "id": "144579fb-14bd-4702-82a4-18372216dce3",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Ketentuan lain mengenai permodalan PERSERO diatur dalam\nAnggaran Dasar, termasuk ketentuan mengenai modal dasar yang\nterbagi atas saham-saham sesuai dengan ketentuan Peraturan\nPemerintah Nomor 12 Tahun 1969 sebagaimana telah diubah\ndengan Peraturan Pemerintah Nomor 24 Tahun 1972.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6a3f9c1f-a672-4274-9fba-130fa97d985c",
+                            "id": "f230fe8b-7b73-4952-b5bb-b5a3bfb04119",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Neraca Pembukaan PERSERO ditetapkan oleh Menteri Keuangan.\n",
                             "explanation": "Tidak ada Penjelasan"
@@ -82,17 +387,17 @@
             ]
         },
         {
-            "id": "f637ac62-3633-4984-9822-2bb08cc51588",
+            "id": "cb400a99-ecc2-443b-b979-677b51e1e34b",
             "name": "Chapter IV",
             "title": "\nPELAKSANAAN PENDIRIAN PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "09328d9e-dd08-4c20-8cb5-e6efdaa70622",
+                    "id": "5d77c88b-8638-4718-a855-88dd492355df",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "e3858303-674c-468c-83b0-130282fc8858",
+                        "id": "1e426141-ea12-466a-80fa-3f6e53ebd124",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -101,22 +406,22 @@
                     }
                 },
                 {
-                    "id": "1640ffc0-a992-4da3-bcce-d5b22e2d6ab0",
+                    "id": "af2d2a53-36c6-45ea-9478-5e4888f88e8f",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ed97840e-5c38-43ae-bde0-b8128f24d278",
+                            "id": "53491dc0-9354-44d4-8e96-9fb6a59bc98d",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penyelesaian pendirian PERSERO sebagaimana dimaksud dalam\nPasal 4 dikuasakan kepada Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "c50ae436-17e6-45f3-adeb-cdfa7293fdbf",
+                            "id": "6cdb3164-d587-4d0d-b373-eae6452ac6c5",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Menteri Keuangan dapat menyerahkan kuasa sebagaimana\ndimaksud dalam ayat (1) dengan disertai hak substitusi kepada\nMenteri Pertanian dengan ketentuan bahwa Rancangan Anggaran\nDasar PERSERO harus mendapat persetujuan terlebih dahulu dari\nMenteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -126,17 +431,17 @@
             ]
         },
         {
-            "id": "1441168d-6470-4cac-9d27-4856ba8fc842",
+            "id": "8590d365-b9d8-4a99-a58e-99c1d0519cdc",
             "name": "Chapter V",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "7775c128-c2ef-448c-b602-24da76a1a0f6",
+                    "id": "03ee4a6f-ed65-4e42-8023-c7a4ac270996",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "8967eb0e-192f-4310-b40c-e4f3188c03d0",
+                        "id": "9c167dc7-2119-4cf8-8cf7-79571a412d8f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -145,11 +450,11 @@
                     }
                 },
                 {
-                    "id": "12f9fefc-7a20-42e5-a530-1e1feb51a225",
+                    "id": "1eb0a830-c167-4481-abae-2366353cb327",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "531d227a-7faf-4000-bab3-e62fb5b49ac8",
+                        "id": "8b492c63-a090-44e3-872d-17ec33674098",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -167,19 +472,16 @@
         "Menimbang": {
             "Introduction": "",
             "a": " bahwa Proyek-proyek Pengembangan Perusahaan Perseroan\n(PERSERO) PT. Perkebunan III, Perusahaan Perseroan (PERSERO)",
-            "PT": " Perkebunan IV, Perusahaan Perseroan (PERSERO) PT\nPerkebunan VI, dan Perusahaan Perseroan (PERSERO) PT\nPerkebunan VIII di Propinsi Jambi dan Sumatera Barat dinilai telah\ncukup berhasil dan perlu terus dikembangkan dan dikelola oleh suatu\nPerusahaan Perseroan (PERSERO);",
+            "PT": " Perkebunan IV, Perusahaan Perseroan (PERSERO) PT\nPerkebunan VI, dan Perusahaan Perseroan (PERSERO)\nPerkebunan VIII di Propinsi Jambi dan Sumatera Barat dinilai telah\ncukup berhasil dan perlu terus dikembangkan dan dikelola oleh suatu\nPerusahaan Perseroan (PERSERO);",
             "b": " bahwa sehubungan dengan hal tersebut pada huruf a, dipandang perlu\nuntuk mendirikan Perusahaan Perseroan (PERSERO);",
             "c": " bahwa sesuai dengan ketentuan Peraturan Pemerintah Nomor 12\nTahun 1969 sebagaimana telah diubah dengan Peraturan Pemerintah\nNomor 24 Tahun 1972 penyertaan modal Negara Republik Indonesia\nuntuk pendirian Perusahaan Perseroan (PERSERO) tersebut perlu\nditetapkan dengan Peraturan Pemerintah;"
         },
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor\n23) sebagaimana telah beberapa kali diubah terakhir dengan\nUndang-undang Nomor 4Tahun 1971 (Lembaran Negara Tahun 1971\nNomor 20, Tambahan Lembaran Negara Nomor 2959);",
-            "3": " Undang-undang Nomor 9Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1Tahun 1969 tentang\nBentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969 Nomor\n16, Tambahan Lembaran Negara Nomor 2890) menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan\nLembaran Negara Nomor 2904);",
-            "4": " Peraturan Pemerintah Nomor 12Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21,\nTambahan Lembaran Negara Nomor 2894) sebagaimana telah diubah\ndengan Peraturan Pemerintah Nomor 24 Tahun 1972 (Lembaran\nNegara Tahun 1972 Nomor 32, Tambahan Lembaran Negara Nomor\n2987);",
-            "5": " Peraturan Pemerintah Nomor 3Tahun 1983 tentang Tata Cara\nPembinaan dan Pengawasan Perusahaan Jawatan (PERJAN),\nPerusahaan Umum (PERUM) dan Perusahaan Perseroan (PERSERO)\n(Lembaran Negara Tahun 1983 Nomor 3, Tambahan Lembaran\nNegara Nomor 3246) sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 28Tahun 1983(Lembaran Negara Tahun 1983\nNomor 37);"
+            "2": " Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor\n23) sebagaimana telah beberapa kali diubah terakhir dengan\nUndang-undang Nomor 4Tahun 1971 (Lembaran Negara Tahun 1971\nNomor 20, Tambahan Lembaran Negara Nomor 2959);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENYERTAAN MODAL\nNEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN\nPERUSAHAAN PERSEROAN (PERSERO) PT PERKEBUNAN\nNUSANTARA VI.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nUNTUK PENDIRIAN PERUSAHAAN PERSEROAN (PERSERO)\nPT. PERKEBUNAN NUSANTARA VI.",
         "tanggal sah": ""
     }
 }

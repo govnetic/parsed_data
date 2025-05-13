@@ -1,0 +1,100 @@
+{
+    "results": [
+        {
+            "id": "5a789635-ce00-4958-aedc-7e2256a0536b",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "7a9396f6-7abc-4f0a-a729-489a0e171edf",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1.\nAtas penghasilan yang diterima atau diperoleh Wajib Pajak dalam negeri dan bentuk usaha tetap\ndari usaha di bidang jasa konstruksi, dikenakan Pajak Penghasilan berdasarkan ketentuan umum\nUndang-undang Pajak Penghasilan.\n2.\nAtas penghasilan yang diterima atau diperoleh Wajib Pajak sebagaimana dimaksud dalam ayat (1)\nyang memenuhi kualifikasi sebagai usaha kecil berdasarkan sertifikat yang dikeluarkan oleh\nLembaga yang berwenang, serta yang mempunyai nilai pengadaan sampai dengan Rp\n1.000.000.000,00 (satu miliar rupiah), dikenakan Pajak Penghasilan yang bersifat final.",
+                "explanation": "\nAtas penghasilan Wajib Pajak dalam negeri dan bentuk usaha tetap yang diterima atau\ndiperoleh dari usaha di bidang jasa konstruksi dikenakan Pajak Penghasilan berdasarkan\nketentuan umum Undang-undang Pajak Penghasilan, kecuali Wajib Pajak dengan kualifikasi usaha\nkecil termasuk orang perseorangan."
+            }
+        },
+        {
+            "id": "a4e13eb3-9f60-4467-be90-36c2c295d070",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "174b957b-f013-4b30-8c2c-b337c70ee3f2",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1.\n2.\nAtas penghasilan yang diterima atau diperoleh Wajib Pajak sebagaimana dimaksud dalam Pasal 1\nayat (1):\na. dikenakan pemotongan pajak berdasarkan Pasal 23 Undang-undang Pajak Penghasilan oleh\npengguna jasa, dalam hal pengguna jasa adalah badan Pemerintah, Subjek Pajak badan dalam\nnegeri, bentuk usaha tetap, atau orang pribadi sebagai Wajib Pajak dalam negeri yang ditunjuk\noleh Direktur Jenderal Pajak sebagai pemotong Pajak Penghasilan Pasal 23 pada saat\npembayaran uang muka dan termijn;\nb. dikenakan pajak berdasarkan ketentuan Pasal 25 Undang-undang Pajak Penghasilan dalam\nhal pemberi penghasilan adalah pengguna jasa lainnya selain yang dimaksud dalam huruf a.\nAtas penghasilan yang diterima atau diperoleh Wajib Pajak sebagaimana dimaksud dalam Pasal 1\nayat (2):\na. dikenakan pemotongan pajak yang bersifat final sesuai ketentuan Pasal 3 oleh pengguna jasa,\ndalam hal pengguna jasa adalah badan Pemerintah, Subjek Pajak badan dalam negeri, bentuk\nusaha tetap, atau orang pribadi sebagai Wajib Pajak dalam negeri yang ditunjuk oleh Direktur\nJenderal Pajak sebagai pemotong Pajak Penghasilan Pasal 23 pada saat pembayaran uang\nmuka dan termijn;\nb. dikenakan pajak yang bersifat final sesuai ketentuan Pasal 3, dengan cara menyetor sendiri\nPajak Penghasilan yang terutang pada saat menerima pembayaran uang muka dan termijn,\ndalam hal pemberi penghasilan adalah pengguna jasa lainnya selain yang dimaksud dalam\nhuruf a.",
+                "explanation": "\nCukup jelas"
+            }
+        },
+        {
+            "id": "3663f34e-ec97-459c-bc1c-809f013f8dba",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "8a5247c7-b638-46d0-8174-c3d92937fff2",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Besarnya Pajak Penghasilan yang terutang dan harus dipotong oleh pengguna jasa atau disetor sendiri\noleh Wajib Pajak penyedia jasa yang bersangkutan sebagaimana dimaksud dalam Pasal 2 ayat (2)\nditetapkan sebagai berikut:\na. 4% (empat persen) dari jumlah bruto, yang diterima Wajib Pajak penyedia jasa perencanaan\nkonstruksi;\nb. 2% (dua persen) dari jumlah bruto, yang diterima Wajib Pajak penyedia jasa pelaksanaan\nkonstruksi:\nc. 4% (empat persen) dari jumlah bruto, yang diterima Wajib Pajak penyedia jasa pengawasan\nkonstruksi.",
+                "explanation": "\nBerdasarkan Undang-undang tentang Jasa Konstruksi yang dimaksud dengan :\n1. Pengguna jasa adalah orang perseorangan atau badan sebagai pemberi tugas atau pemilik\npekerjaan/proyek yang memerlukan layanan jasa konstruksi.\n2. Penyedia jasa adalah orang perseorangan atau badan yang kegiatan usahanya menyediakan\nlayanan jasa konstruksi. Penyedia jasa terdiri dari perencana konstruksi, pelaksana\nkonstruksi, dan pengawas konstruksi."
+            }
+        },
+        {
+            "id": "6298f435-bc45-4984-a3bd-e62c78818c97",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "2e3207fa-b5b4-4c45-b01e-2b6428e8232c",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ketentuan lebih lanjut yang diperlukan bagi pelaksanaan Peraturan Pemerintah ini diatur dengan\nKeputusan Menteri Keuangan.",
+                "explanation": "\nCukup jelas"
+            }
+        },
+        {
+            "id": "9d1d988b-c7ee-49c8-8e94-5c0c4ca60cfa",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "d198fa7d-7902-45d2-9ee0-78348d6a7e10",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 73 Tahun 1996 tentang\nPajak Penghasilan Atas Penghasilan Dari Usaha Jasa Konstruksi dan Jasa Konsultan (Lembaran Negara\nRepublik Indonesia Tahun 1996 Nomor 112, Tambahan Lembaran Negara Nomor 3664), dinyatakan tidak\nberlaku.",
+                "explanation": "\nCukup jelas"
+            }
+        },
+        {
+            "id": "698d7986-82af-4c75-92f9-93676652aed2",
+            "name": "Article 6",
+            "type": "article",
+            "children": {
+                "id": "a7199d9d-6c5f-4508-a9c5-8c129f78321f",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari 2001.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "explanation": "\nCukup jelas\n"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "140",
+        "Tahun": "2000",
+        "Tentang": "PAJAK PENGHASILAN ATAS PENGHASILAN\nDARI USAHA JASA KONSTRUKSI",
+        "Menimbang": {
+            "Introduction": "\nbahwa dalam rangka meningkatkan efektivitas pengenaan Pajak Penghasilan atas\npenghasilan dari usaha jasa konstruksi sesuai dengan ketentuan Pasal 4 ayat (2)\nUndang-undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah\ndiubah terakhir dengan Undang-undang Nomor 17 Tahun 2000, perlu menetapkan\nPeraturan Pemerintah tentang Pajak Penghasilan Atas Penghasilan Dari Usaha Jasa\nKonstruksi;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945 sebagaimana telah diubah dengan\nPerubahan Kedua Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara\nPerpajakan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 49, Tambahan\nLembaran Negara Nomor 3262) sebagaimana telah diubah terakhir dengan\nUndang-undang Nomor 16 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun\n2000 Nomor 126, Tambahan Lembaran Negara Nomor 3984);",
+            "3": " Undang-undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan (Lembaran Negara\nRepublik Indonesia Tahun 1983 Nomor 50, Tambahan Lembaran Negara Nomor\n3263) sebagaimana telah diubah terakhir dengan Undang-undang Nomor 17 Tahun\n2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 127, Tambahan\nLembaran Negara Nomor 3985);",
+            "4": " Undang-undang Nomor 18 Tahun 1999 tentang Jasa Konstruksi (Lembaran Negara\nRepublik Indonesia Tahun 1999 Nomor 72, Tambahan Lembaran Negara Nomor\n3833);",
+            "5": " Peraturan Pemerintah Nomor 28 Tahun 2000 tentang Usaha dan Peran Masyarakat\nJasa Konstruksi (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 63,\nTambahan Lembaran Negara Nomor 3955);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN\nDARI USAHA JASA KONSTRUKSI.",
+        "tanggal sah": "1 Januari 2001"
+    }
+}

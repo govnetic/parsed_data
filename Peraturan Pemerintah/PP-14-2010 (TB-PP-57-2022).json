@@ -1,0 +1,802 @@
+{
+    "results": [
+        {
+            "id": "c4190a3d-d2e5-4261-bf54-1191144d5aa4",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "42c92045-f39e-4902-a1a1-41727552fa03",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "889221fa-a351-46f4-9058-7dcdc23f0499",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Pendidikan kedinasan adalah pendidikan profesi yang\ndiselenggarakan oleh Kementerian, kementerian lain, atau\nlembaga pemerintah nonkementerian yang berfungsi\nuntuk meningkatkan kemampuan dan keterampilan\ndalam pelaksanaan tugas kedinasan bagi pegawai negeri\ndan calon pegawai negeri.\n\n2. Pendidikan profesi adalah pendidikan tinggi setelah\nprogram sarjana yang mempersiapkan peserta didik\nuntuk memiliki pekerjaan dengan persyaratan keahlian\nkhusus.\n3. Satuan pendidikan kedinasan adalah satuan pendidikan\nyang menyelenggarakan pendidikan profesi di lingkungan\nkerja Kementerian, kementerian lain, atau lembaga\npemerintah nonkementerian yang bersangkutan dan/atau\nsatuan pendidikan lainnya di luar lingkungan kerja\nkementerian lain atau lembaga pemerintah\nnonkementerian yang bersangkutan, baik pada jalur\npendidikan formal maupun pada jalur pendidikan\nnonformal.\n4. Peserta didik pendidikan kedinasan adalah pegawai negeri\ndan calon pegawai negeri yang diberi tugas atau izin oleh\nKementerian, kementerian lain, atau lembaga pemerintah\nnonkementerian yang bersangkutan untuk mengikuti\npendidikan kedinasan.\n5. Akreditasi adalah kegiatan penilaian kelayakan program\ndan satuan pendidikan berdasarkan kriteria yang telah\nditetapkan.\n6. Kementerian adalah Kementerian Pendidikan Nasional.\n7. Kementerian lain adalah kementerian yang diberi\nkewenangan untuk menyelenggarakan pendidikan\nkedinasan.\n8. Lembaga Pemerintah Nonkementerian yang selanjutnya\ndisebut LPNK adalah lembaga pemerintah yang diberi\nkewenangan untuk menyelenggarakan pendidikan\nkedinasan.\n9. Menteri adalah menteri yang menyelenggarakan urusan\npemerintahan di bidang pendidikan nasional.\n10. Menteri lain adalah menteri yang diberi kewenangan oleh\nMenteri dalam menyelenggarakan pendidikan kedinasan.\n",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "506ffd6b-efbc-4366-a2f7-a7fe5ec00260",
+            "name": "Chapter II",
+            "title": "\nFUNGSI DAN KARAKTERISTIK",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "7df5fadd-b4a6-477e-806b-a34f24e3552a",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": {
+                        "id": "f47a0295-a795-4e4c-8b1b-da190f485da4",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPendidikan kedinasan berfungsi meningkatkan kemampuan\ndan keterampilan pegawai negeri dan calon pegawai negeri\npada Kementerian, kementerian lain, atau LPNK dalam\npelaksanaan tugas di lingkungan kerjanya dalam rangka\nmencapai tujuan pendidikan nasional.",
+                        "explanation": "\nPegawai negeri dan calon pegawai negeri dimaksud termasuk di dalamnya aparatur perekonomian negara."
+                    }
+                },
+                {
+                    "id": "dfd66ed0-f4a3-4dd4-afbc-f1ae4b08c929",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "81cfe960-7803-428a-88c4-6ed4c12e6cd5",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pendidikan kedinasan merupakan pendidikan yang\nbertujuan meningkatkan kemampuan dan keterampilan\npeserta didik dalam bidang keahlian tertentu agar\nmampu meningkatkan kinerja pelaksanaan tugas pada\nKementerian, kementerian lain, atau LPNK tempat\nmereka bekerja.",
+                            "explanation": "\nPenyelenggaraan pendidikan kedinasan mencakup pelaksanaan kurikulum dan pembelajaran serta evaluasi untuk menghasilkan lulusan sesuai dengan tujuan program yang didukung oleh sumberdaya pendidikan yang dibutuhkan."
+                        },
+                        {
+                            "id": "2ed44993-07e5-47a6-992a-71e018158259",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pendidikan kedinasan berorientasi pada kepentingan\npelayanan masyarakat dan kebutuhan profesi tertentu\ndari Kementerian, kementerian lain, atau LPNK.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "4ad85315-6e33-49b3-8d8e-61f207e4e4bf",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Kemampuan dan keterampilan sebagaimana dimaksud\npada ayat (1) merupakan standar kompetensi lulusan\npendidikan kedinasan yang disesuaikan dengan standar\nnasional pendidikan dengan mempertimbangkan\nperkembangan ilmu pengetahuan, teknologi, seni, dan\nbudaya.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6ac2e30d-73e9-4f91-83c9-942e6d1bb54a",
+            "name": "Chapter III",
+            "title": "\nPENYELENGGARAAN PENDIDIKAN KEDINASAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "eff0fd11-9cf5-4ed8-b95c-31c0fba0f8b9",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "eacd50c8-1c45-4b9c-89b7-d7e817af77a9",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Program pendidikan kedinasan hanya menerima peserta\ndidik pegawai negeri dan calon pegawai negeri.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "18435624-82d4-4747-9cf0-1a9bad4b1766",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pegawai negeri dan calon pegawai negeri sebagaimana\ndimaksud pada ayat (1) dapat berasal dari Kementerian,\nkementerian lain, atau LPNK penyelenggara program\npendidikan kedinasan.\n",
+                            "explanation": "\nApabila diperlukan, pegawai negeri dan calon pegawai negeri dari Kementerian, kementerian lain, dan/atau LPNK yang bukan penyelenggara dapat diterima menjadi peserta didik. Misalnya, pegawai dari Kementerian dapat menjadi peserta didik di pendidikan kedinasan bidang keuangan negara yang diselenggarakan oleh Kementerian Keuangan dalam rangka memenuhi kebutuhan Kementerian akan tenaga ahli di bidang keuangan negara.\n"
+                        }
+                    ]
+                },
+                {
+                    "id": "eb23cf24-e8a0-45d2-97e7-7c326baaaa34",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "80b27599-ac8a-4a3c-b032-542078b158eb",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Program pendidikan kedinasan yang merupakan program\npendidikan profesi setelah program sarjana (S-1) atau\ndiploma empat (D-IV) dapat diselenggarakan di dalam\ndan/atau di luar satuan pendidikan yang ada pada\nKementerian, kementerian lain, atau LPNK terkait, baik\npada jalur pendidikan formal maupun pada jalur\npendidikan nonformal.",
+                            "explanation": "\nProgram pendidikan kedinasan dapat berupa program gabungan dari\nberbagai jenis kompetensi yang dapat berasal dari berbagai satuan\npendidikan sesuai dengan tingkat dan jenis keahlian kedinasan yang\ndituntut. Misalnya, seorang peserta didik pendidikan kedinasan\nuntuk program tertentu di suatu institut dapat saja mengambil satu\natau lebih mata kuliah yang relevan dengan kompetensi program\nyang dituntut dari universitas tertentu, dan/atau mengikuti kursus\nkeahlian pada lembaga kursus tertentu yang terakreditasi, misalnya,\nmengikuti kursus bahasa asing pada tingkat lanjut (advanced level)\njika sesuai dengan standar pendidikan kedinasan yang dituntut.\nKarena pendidikan kedinasan difokuskan pada peningkatan\nkemampuan di tempat kerja, jenis keahlian yang dituntut untuk\nmeningkatkan kinerja lembaga tempat mereka bekerja sangat\nbervariasi dan sangat tergantung pada jenis keahlian yang harus\ndikuasai.\nDalam hal jenis keahlian untuk meningkatkan kemampuan pegawai\nnegeri dan calon pegawai negeri menuntut standar kompetensi yang\nada pada jenjang sebelum sarjana, peserta didik dimungkinkan\nmenempuh program pendidikan tersebut sebagai suatu kesatuan\ndengan program kedinasan secara keseluruhan.\nPendidikan kedinasan yang diselenggarakan pada jalur formal\nmerupakan rangkaian kegiatan pendidikan terstruktur yang dapat\nberupa program utuh yang secara keseluruhan diselenggarakan\npada satuan pendidikan kedinasan yang bersangkutan, atau berupa\nprogram gabungan pendidikan formal dan pendidikan nonformal\nsebagai implikasi standar kompetensi yang dituntut di dalam\nprogram pendidikan kedinasan tertentu.\nKegiatan pendidikan pada jalur pendidikan nonformal dapat\nberbentuk, antara lain, kursus pengetahuan atau keahlian khusus\ntertentu, dan/atau hasil belajar seorang individu melalui\npengalaman (experiential learning assessment).\nPengakuan terhadap program gabungan tersebut dapat dilakukan\nmelalui sistem pengumpulan kredit (credit earning system) yang\nditetapkan oleh satuan pendidikan yang terakreditasi.\nPenyelenggaraan pendidikan kedinasan pada jalur formal\ndilaksanakan oleh perguruan tinggi. Penyelenggaraan pendidikan\nkedinasan pada jalur nonformal dapat dilaksanakan oleh pusat\npendidikan dan pelatihan Kementerian, kementerian lain, dan/atau\nLPNK, atau lembaga kursus."
+                        },
+                        {
+                            "id": "85d02955-5fa0-4f32-a622-e4952b936549",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pendidikan kedinasan pada jalur pendidikan formal\nsebagaimana dimaksud pada ayat (1) diselenggarakan\ndengan beban belajar 36 (tiga puluh enam) sampai\ndengan 40 (empat puluh) satuan kredit semester setelah\nprogram sarjana (S-1) atau diploma empat (D-IV) sesuai\ndengan ketentuan peraturan perundang-undangan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "166f875e-79ee-4af3-97b6-27fa2d39a65b",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Pendidikan kedinasan pada jalur pendidikan nonformal\nsebagaimana dimaksud pada ayat (1) diselenggarakan\ndengan beban belajar setara 36 (tiga puluh enam) sampai\ndengan 40 (empat puluh) satuan kredit semester setelah\nprogram sarjana (S-1) atau diploma empat (D-IV) yang\ndapat dilakukan dalam bentuk kursus, pendidikan dan\npelatihan, atau bentuk lain yang sejenis.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "e5a33f3d-d422-43f6-8ebc-7b104678f238",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Beban belajar sebagaimana dimaksud pada ayat (2) dan\nayat (3) dihitung dari beban belajar kegiatan tatap muka,\nkegiatan terstruktur, dan kegiatan mandiri yang sebagian\ndari beban belajar itu dapat diperoleh dari hasil penilaian\nbelajar melalui pengalaman atau pengumpulan kredit\ndari satuan pendidikan lain yang diatur lebih lanjut\ndengan Peraturan Menteri.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "4fcf5902-61a6-4d48-975a-fbe4728b2c32",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": " Penyelenggaraan pendidikan kedinasan dengan beban\nbelajar di luar ketentuan sebagaimana dimaksud pada\nayat (2) dan ayat (3) diatur lebih lanjut dengan Peraturan\nMenteri.",
+                            "explanation": "\nKetentuan ini dimaksudkan agar Kementerian, kementerian lain,\natau LPNK terkait dapat menyelenggarakan program pendidikan\nkedinasan dengan beban belajar di luar ketentuan yang diatur\ndalam Pasal 5 ayat (2) dan ayat (3), sesuai dengan kekhasan\npendidikan kedinasan Kementerian, kementerian lain, atau LPNK\nyang bersangkutan berdasarkan kebutuhan dan beban kerjanya."
+                        },
+                        {
+                            "id": "f4ec697f-91a2-4677-b47e-5e5a59e879d7",
+                            "name": "Verse 6",
+                            "number": "6",
+                            "type": "verse",
+                            "content": " Penjurusan . . .\n- 5 -\n(6) Penjurusan pada pendidikan kedinasan dilaksanakan dalam bentuk program spesialisasi yang ditetapkan oleh Kementerian, kementerian lain, atau LPNK terkait.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "06a18df0-3ac4-4702-a4f1-9314cc511c79",
+                            "name": "Verse 7",
+                            "number": "7",
+                            "type": "verse",
+                            "content": " Program studi pada pendidikan kedinasan dikembangkan dengan memperhatikan tujuan program studi yang akan dicapai, kompetensi lulusan peserta didik yang diharapkan, kontribusi terhadap pembangunan nasional, kontribusi terhadap kebutuhan masyarakat, dan keunggulan pendidikan kedinasan tersebut.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "2cac48a6-30be-40da-a584-95af5255defa",
+                            "name": "Verse 8",
+                            "number": "8",
+                            "type": "verse",
+                            "content": " Penataan dan pengembangan program studi dilakukan oleh Kementerian, kementerian lain, atau LPNK yang bersangkutan setelah mendapat masukan dari asosiasi profesi, dunia kerja/industri terkait, dan masyarakat.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "316c02c9-d659-478e-86a8-7a2cf5449e68",
+                            "name": "Verse 9",
+                            "number": "9",
+                            "type": "verse",
+                            "content": " Penjurusan dan program studi sebagaimana dimaksud pada ayat (6) dan ayat (7) disusun berdasarkan Standar Nasional Pendidikan.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "0f2cca7e-3a01-4234-81b1-815615b7d7da",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "2c82681c-e8b1-420f-ae99-0bdd4c74b45b",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Kerangka dasar dan struktur kurikulum pendidikan kedinasan ditetapkan oleh satuan pendidikan kedinasan dengan melibatkan asosiasi profesi dengan mengacu pada standar isi dan berlaku secara nasional.",
+                            "explanation": "\nCukup jelas.\n"
+                        },
+                        {
+                            "id": "e4bb5782-2762-4f96-8cd3-5a843f9c5105",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Kurikulum pendidikan kedinasan dikembangkan oleh satuan pendidikan kedinasan sesuai dengan kebutuhan pelaksanaan tugas dan fungsi Kementerian, kementerian lain, atau LPNK.",
+                            "explanation": "\nCukup jelas.\n"
+                        },
+                        {
+                            "id": "cb1bbc61-c9c5-45dc-a010-54492df835f3",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Standar kompetensi lulusan pendidikan kedinasan dikembangkan oleh satuan pendidikan yang bersangkutan berdasarkan Standar Nasional Pendidikan dan dapat diperkaya sesuai dengan kebutuhan.",
+                            "explanation": "\nCukup jelas.\n"
+                        },
+                        {
+                            "id": "a7f0746b-c552-4e34-b787-8d6cd892fddc",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Standar Nasional Pendidikan untuk pendidikan kedinasan sebagaimana dimaksud pada ayat (3) digunakan sebagai acuan pengembangan kurikulum, tenaga kependidikan, sarana dan prasarana, pengelolaan, dan pembiayaan.\nPasal 7 . . .",
+                            "explanation": "\nCukup jelas.\n"
+                        }
+                    ]
+                },
+                {
+                    "id": "998913f7-15b9-4ed3-85e7-11c061a66a5b",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "936d039f-48f2-4486-9f27-46add69b8eeb",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Sertifikat pendidikan kedinasan berbentuk sertifikat kompetensi.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "29966d3b-4681-4874-be4c-f68c15eb8e8d",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Sertifikat kompetensi sebagaimana dimaksud pada ayat (1) diberikan kepada peserta didik sebagai pengakuan terhadap penguasaan kompetensi bidang keahlian tertentu oleh satuan pendidikan kedinasan yang terakreditasi atau lembaga sertifikasi profesi.",
+                            "explanation": "\nSertifikat kompetensi dapat dikeluarkan oleh lembaga atau satuan\npendidikan di luar penyelenggara pendidikan kedinasan sepanjang\nmateri pendidikan atau pelatihan yang diberikan pada lembaga atau\nsatuan pendidikan tersebut merupakan bagian dari entitas program\npendidikan kedinasan yang telah ditetapkan oleh Menteri."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "d2f19e55-01b2-4ab9-8f7c-1775b052ef07",
+            "name": "Chapter IV",
+            "title": "\nPENDIDIK DAN TENAGA KEPENDIDIKAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "ea029f09-ca30-4743-82b5-998344bb5ed9",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "166602dd-59ed-4e02-a49c-4217259b755e",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pendidik pada satuan pendidikan kedinasan terdiri atas dosen dan instruktur/widyaiswara.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "913e60ec-5a15-4947-8da3-a853f5f4322d",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pendidik pada satuan pendidikan kedinasan sebagaimana dimaksud pada ayat (1) adalah seseorang yang karena pendidikan dan/atau keahliannya diangkat oleh Kementerian, kementerian lain, LPNK terkait, dan/atau oleh satuan pendidikan atau penyelenggara pendidikan kedinasan dengan tugas utama mengajar dan/atau melatih peserta didik pada program pendidikan kedinasan yang bersangkutan.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "0511ccd6-c029-4f84-8775-f5cb13853702",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "2bf69b68-6f87-4a74-afe4-1fbcc491b103",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Tenaga kependidikan pada satuan pendidikan kedinasan terdiri atas tenaga penunjang akademik dan pengelola satuan pendidikan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "296f9708-b5ca-47c1-8d1d-e34d8925b20d",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Tenaga penunjang akademik pada pendidikan kedinasan adalah seseorang yang karena pendidikan dan/atau keahliannya diangkat oleh Kementerian, kementerian lain, LPNK terkait, dan/atau oleh satuan pendidikan atau penyelenggara pendidikan kedinasan untuk membantu penyelenggaraan pendidikan kedinasan yang bersangkutan.\n",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "470f2e6d-d7ad-4088-97aa-1536f5fce3c0",
+            "name": "Chapter V",
+            "title": "\nPESERTA DIDIK",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "d44bdb95-d39f-4a1b-b39b-48ca16314a45",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": {
+                        "id": "ab704b7d-2e82-43b3-aca3-fbfea4ba1289",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSyarat bagi peserta didik pendidikan kedinasan:\na.  pegawai negeri dan calon pegawai negeri pada Kementerian, kementerian lain, atau LPNK;\nb.  memiliki ijazah sarjana (S-1) atau yang setara; dan\nc.  memenuhi persyaratan penerimaan peserta didik pendidikan kedinasan sebagaimana ditetapkan oleh penyelenggara pendidikan kedinasan.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "af038ed8-50f1-42b7-be50-8d6949766b29",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "631ce5d2-3fb3-44cb-8ae5-03b52de2e71c",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Peserta didik pendidikan kedinasan memiliki hak:\na.  memperoleh biaya pendidikan kedinasan sesuai dengan keahlian tertentu yang diikutinya;\nb.  memanfaatkan sarana dan prasarana pendidikan untuk menunjang proses pembelajaran;\nc.  mendapat bimbingan dari pendidik dan tenaga kependidikan dalam rangka penyelesaian studinya; dan\nd.  memperoleh layanan informasi mengenai program pendidikan yang diikutinya serta hasil belajarnya.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "af4e9469-fc3a-44ad-bbf4-69c16de1807c",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai hak dan kewajiban\npeserta didik sebagaimana dimaksud pada ayat (1) dan\nayat (2) diatur oleh penyelenggara pendidikan kedinasan\nyang bersangkutan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "402803e9-9935-4b4e-a2e9-a4e76969e1c6",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Pengelola satuan pendidikan terdiri atas pimpinan lembaga, pembantu pimpinan, dan unsur penunjang pengelolaan satuan pendidikan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "7e95655b-199f-4219-93d4-413174f109ac",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Peserta didik pendidikan kedinasan berkewajiban:\na. mematuhi peraturan/ketentuan pada satuan\npendidikan;\nb. menjaga kewibawaan dan nama baik penyelenggara\npendidikan kedinasan, Kementerian, kementerian\nlain, atau LPNK terkait, dan satuan pendidikan\nkedinasan yang bersangkutan; dan\nc. memelihara sarana dan prasarana serta kebersihan,\nketertiban, dan keamanan.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "a798b3ee-74b7-4253-9a1e-b3697e31c5bf",
+            "name": "Chapter VI",
+            "title": "\nSARANA DAN PRASARANA",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "803c06e4-db29-4f10-9ef1-795b0af50e6b",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "b3091f8b-0739-44a9-844a-d411d4fa9231",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pengelolaan sarana dan prasarana yang diperoleh dengan\ndana yang berasal dari Anggaran Pendapatan dan\nBelanja Negara pada penyelenggara pendidikan\nkedinasan diselenggarakan berdasarkan ketentuan\nperaturan perundang-undangan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "3efaa42a-790d-4bb2-ba40-db120bef0885",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pengelolaan sarana dan prasarana yang diperoleh dengan\ndana yang bukan berasal dari Anggaran Pendapatan dan\nBelanja Negara diatur oleh penyelenggara pendidikan\nkedinasan.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "735471ea-d3bf-452e-837b-1311b32e2147",
+            "name": "Chapter VII",
+            "title": "\nPENDANAAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "c0818fad-c774-497c-a30a-a4bf684042fa",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "4bc096c8-83bd-48b5-9952-ecfd2d82334e",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pendanaan pendidikan kedinasan bersumber dari\nAnggaran Pendapatan dan Belanja Negara dan/atau\nsumber lain yang sesuai dengan ketentuan peraturan\nperundang-undangan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "1ba57b3d-e8dd-414e-b344-427dac82267b",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penggunaan dana pendidikan kedinasan diatur sesuai\ndengan ketentuan peraturan perundang-undangan.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "9a8f82f0-ccbd-44bb-8c16-5384c5921054",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "9c27e6ee-c3ea-4a95-9cf1-f874194ecb4c",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Otonomi satuan pendidikan kedinasan di bidang\nkeuangan mencakupi kewenangan untuk menerima,\nmenyimpan, dan menggunakan dana.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "1e27a6de-c2f2-4ee2-a5d4-22b11140f51f",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": "  Pengelolaan dana pendidikan kedinasan menganut\nprinsip transparansi dan akuntabilitas publik.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "f1e6de53-3204-4cdb-b9a0-8aea823d409b",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Pengelolaan keuangan pendidikan kedinasan yang\nberasal dari Anggaran Pendapatan dan Belanja Negara\ndiperiksa oleh aparat pengawasan fungsional Pemerintah\nsesuai dengan ketentuan peraturan perundang-\nundangan.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "90115114-e7f5-40a8-ac28-0f16bb5fcd48",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": {
+                        "id": "2c862b6e-62d9-4f82-9456-1e6184d46133",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nRencana anggaran pendapatan dan belanja pendidikan\nkedinasan diusulkan oleh pimpinan satuan pendidikan\nkedinasan melalui Menteri, menteri lain, atau pimpinan\nLPNK kepada Menteri Keuangan untuk disahkan menjadi\nanggaran pendidikan kedinasan.",
+                        "explanation": "\nCukup jelas.\n"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "0c2a0fba-8ec5-442c-9d38-fcd85d4c5c2a",
+            "name": "Chapter VIII",
+            "title": "\nPENDIRIAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "3dbdbbf7-3119-4cca-b13d-72a935aa8459",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "26561845-7cc1-4029-a19f-b3e20cbf1996",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pendirian pendidikan kedinasan oleh Kementerian,\nkementerian lain, atau LPNK didasarkan pada\nkebutuhan akan keahlian tertentu untuk meningkatkan\nkinerja pelaksanaan tugas dan fungsi pada Kementerian,\nkementerian lain, atau LPNK terkait.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "6cd638a0-12ee-4622-bb1c-be9335b87034",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pendirian pendidikan kedinasan didasarkan atas usulan\ntertulis dari Kementerian, kementerian lain, atau LPNK\nkepada Menteri yang meliputi:\n\na. hasil kajian kebutuhan Kementerian, kementerian\nlain, atau LPNK dalam bidang keahlian tertentu\nsehingga membutuhkan pendidikan kedinasan;\nb. hasil kajian kebutuhan Kementerian, kementerian\nlain, atau LPNK sebagaimana dimaksud pada huruf a\ntidak dapat dipenuhi oleh perguruan tinggi umum;\nc. proyeksi jumlah dan kualifikasi pendidikan serta\nstatus kepegawaian calon peserta didik yang\ndiusulkan untuk mengikuti pendidikan kedinasan;\nd. standar kompetensi, uji kompetensi, dan sertifikat\nkompetensi yang akan dipakai dalam pendidikan\nkedinasan tersebut;\ne. satuan pendidikan dan sumber-sumber belajar\npelaksana yang dibutuhkan, baik yang berada di\nlingkungan Kementerian, kementerian lain, atau\nLPNK terkait maupun yang berada di luar\nKementerian, kementerian lain, atau LPNK; dan\nf. rancangan anggaran dasar.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "a448980f-4c19-4568-8681-d24e9bd67022",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "658f81a2-c2d4-4240-8442-532a2c11d614",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Syarat untuk memperoleh izin pendirian satuan\npendidikan kedinasan paling sedikit memiliki:\na. kurikulum;\nb. pendidik dan tenaga kependidikan;\nc. sarana dan prasarana pendidikan;\nd. sumber pembiayaan untuk kelangsungan pendidikan\npaling sedikit untuk 1 (satu) tahun akademik\nberikutnya;\ne. sistem evaluasi dan sertifikasi;\nf. sistem manajemen dan proses pendidikan;\ng. kekhususan pendidikan kedinasan; dan\nh. dasar hukum penyelenggaraan pendidikan\nkedinasan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "2df63afb-f15e-4c57-8d8e-dbcea4b9e960",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Syarat sebagaimana dimaksud pada ayat (1) sesuai\ndengan ketentuan peraturan perundang-undangan.\n\n(3) Persetujuan pendirian pendidikan kedinasan\nsebagaimana dimaksud pada ayat (1) ditetapkan oleh\nMenteri.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "1d3d9f2b-868b-4469-9121-a73e5927fd19",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": {
+                        "id": "0a8c2d06-1dac-48c0-a8b5-df75b9651329",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPendirian satuan pendidikan kedinasan berlaku untuk\njangka waktu tertentu sesuai dengan proyeksi tenaga ahli\ndalam bidang keahlian tertentu yang dibutuhkan oleh\nKementerian, kementerian lain, atau LPNK.",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "ee2b19e7-d399-41f6-ba70-f268e3ec35b9",
+            "name": "Chapter IX",
+            "title": "\nEVALUASI DAN AKREDITASI",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "eb8edaa1-4423-4eed-9416-fa79cbf2dde1",
+                    "name": "Article 19",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "46602c36-cd51-4fdb-b52f-d76733455e33",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Evaluasi pendidikan kedinasan dilakukan dalam rangka\npengendalian mutu sebagai bentuk akuntabilitas.",
+                            "explanation": "\nPengendalian mutu dirumuskan dalam bentuk standar mutu yang\nmerupakan sinergi antara visi pendidikan kedinasan dan kebutuhan\npihak-pihak yang berkepentingan."
+                        },
+                        {
+                            "id": "581450ea-7d54-4c7c-ba66-37ca7b811bde",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Evaluasi pendidikan kedinasan dilakukan terhadap\npeserta didik, satuan pendidikan, dan program\npendidikan.",
+                            "explanation": "\nEvaluasi terhadap peserta didik pendidikan kedinasan terdiri atas\npenilaian hasil belajar dan uji kompetensi."
+                        },
+                        {
+                            "id": "023e3025-7918-4bef-a17a-6747b7c2283e",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Evaluasi terhadap peserta didik dilakukan oleh satuan\npendidikan kedinasan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "37b55e90-f400-4276-95c9-3e33052605b2",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Evaluasi terhadap satuan pendidikan dan program\npendidikan kedinasan dilakukan oleh lembaga mandiri\nyang diberi kewenangan oleh Menteri.",
+                            "explanation": "\nYang dimaksud dengan lembaga mandiri adalah Badan Standar\nNasional Pendidikan atau lembaga lain yang dibentuk oleh\nmasyarakat atau organisasi profesi untuk menilai pencapaian\nStandar Nasional Pendidikan."
+                        },
+                        {
+                            "id": "bb25b14b-8af0-4c7b-b059-cceb9a3c6533",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai tata cara pelaksanaan\nevaluasi dan penentuan lembaga mandiri sebagaimana\ndimaksud pada ayat (4) diatur dengan Peraturan\nMenteri.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "82018281-ace6-4bc6-a611-c60dcc252896",
+                    "name": "Article 20",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "0d6bbdad-7b92-4aec-a7ee-c69dc0381b26",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Akreditasi dilakukan untuk menentukan kelayakan\nprogram studi dan/atau satuan pendidikan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "210ba9f9-8f5c-439e-be32-6b4e3c24351f",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Akreditasi sebagaimana dimaksud pada ayat (1)\ndilakukan oleh Badan Akreditasi Nasional Perguruan\nTinggi (BAN-PT) untuk pendidikan kedinasan formal dan\n\nBadan Akreditasi Nasional Pendidikan Nonformal (BAN- PNF) untuk pendidikan kedinasan nonformal.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "66e55eac-cdd6-4b3a-9a0f-889d8716c450",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Akreditasi sebagaimana dimaksud pada ayat (1) dapat juga dilakukan oleh lembaga mandiri lain yang diberi kewenangan oleh Menteri.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3d30ea71-c5bb-44c5-a214-01cf321f91eb",
+            "name": "Chapter X",
+            "title": "\nPENGAWASAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "9431beae-ac29-4e13-93e3-457cbe872af0",
+                    "name": "Article 21",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "06e233ff-9490-46e6-962e-df7484cda15d",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pemerintah, pemerintah daerah, dan masyarakat melakukan pengawasan terhadap pendidikan kedinasan dengan prinsip transparansi dan akuntabilitas publik.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "793e4dda-3d9d-4432-81e9-ac98f6100f6e",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pengawasan sebagaimana dimaksud pada ayat (1) dilakukan untuk menjamin mutu pendidikan kedinasan sesuai dengan ketentuan peraturan perundang- undangan.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "75ba4423-a5dd-462a-966f-b5a5d68c7e44",
+            "name": "Chapter XI",
+            "title": "\nKERJA SAMA",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "ec0f8cda-578b-4450-b9a6-03000da063da",
+                    "name": "Article 22",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6dadbecb-e709-4441-a22f-fd2b404921e9",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Satuan pendidikan kedinasan dapat menjalin kerja sama dengan lembaga lain, baik di dalam maupun di luar negeri.",
+                            "explanation": "\nKerja sama oleh pendidikan kedinasan bertujuan meningkatkan\nmutu akademik dan meningkatkan pembinaan pelaksanaan\nprogram, memperluas pelayanan publik, serta memperluas jaringan\nkemitraan untuk kepentingan pendidikan kedinasan."
+                        },
+                        {
+                            "id": "60030ccc-3d85-4a93-93a6-9e9f343db34d",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Kerja sama sebagaimana dimaksud pada ayat (1) dapat berbentuk kerja sama dalam bidang akademik dan/atau nonakademik.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "1606d0e1-8b0a-4540-a141-481b381edfcb",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Kerja sama dalam bidang akademik sebagaimana dimaksud pada ayat (2) dapat berbentuk:\na. program kembaran;\nb. program pengumpulan kredit dan pengalihan kredit;\nc. tukar-menukar pendidik dan/atau tenaga kependidikan;\n\nd. pemanfaatan berbagai sumber daya;\ne. penerbitan terbitan berkala ilmiah;\nf. penelitian dan pengembangan;\ng. penyelenggaraan seminar;\nh. program pendidikan pesanan; dan/atau\ni. bentuk lain yang dianggap perlu.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "a32a1382-c587-4262-9a2a-d5b10f4d0ae1",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Kerja sama dalam bidang nonakademik sebagaimana\nyang dimaksud pada ayat (2) dapat berbentuk:\na. kontrak manajemen;\nb. pendayagunaan aset;\nc. usaha penggalangan dana;\nd. pembagian uang jasa dan royalti hak kekayaan\nintelektual/paten; dan/atau\ne. bentuk lain yang dianggap perlu.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "397f3589-f296-4be8-9d3f-f31af88b0fce",
+            "name": "Chapter XII",
+            "title": "\nSANKSI",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "822d1ccb-bac9-4015-9c16-795616615373",
+                    "name": "Article 23",
+                    "type": "article",
+                    "children": {
+                        "id": "43ef8b20-c932-4aae-861d-b2eb687d317a",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPenyelenggara pendidikan kedinasan yang tidak memenuhi\npersyaratan sebagaimana dimaksud dalam Pasal 17 diberi\nsanksi administratif berupa teguran lisan, teguran tertulis,\natau pencabutan izin penyelenggaraan pendidikan kedinasan.",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "5edcae99-5c1d-414c-a7f3-2d64dfbf6109",
+            "name": "Chapter XIII",
+            "title": "\nKETENTUAN PERALIHAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "70dba358-3230-4d26-a543-339b320185e0",
+                    "name": "Article 24",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "00775164-f3d2-4378-86cd-973b82e8a3f5",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Satuan pendidikan kedinasan yang diselenggarakan\nberdasarkan Undang-Undang Nomor 2 Tahun 1989\ntentang Sistem Pendidikan Nasional wajib diubah dengan\nmemilih salah satu alternatif sebagai berikut:\na. Untuk pendidikan kedinasan yang peserta didiknya\npegawai negeri dan calon pegawai negeri, baik pusat\nmaupun daerah, tersedia 4 (empat) alternatif\npenyesuaian:\n\n1) pendidikan kedinasan yang bersangkutan\ndijadikan pendidikan dan pelatihan pegawai yang\ndiselenggarakan oleh Kementerian, kementerian\nlain, atau LPNK yang bersangkutan sesuai dengan\nketentuan peraturan perundang-undangan, untuk\nmemenuhi kebutuhan akan keterampilan pegawai;\n2) pendidikan kedinasan yang bersangkutan\ndipertahankan tetap menjadi pendidikan\nkedinasan yang memenuhi semua persyaratan\nyang diatur dalam Peraturan Pemerintah ini,\nuntuk memenuhi kebutuhan akan pendidikan\nprofesi, spesialis, dan keahlian khusus lainnya;\n3) pendidikan kedinasan yang bersangkutan dialih-\nstatuskan menjadi badan hukum pendidikan,\nyang kementerian lain atau LPNK yang\nbersangkutan sebagai pendiri memiliki\nrepresentasi dalam organ representasi pemangku\nkepentingan, untuk memenuhi kebutuhan akan\npendidikan menengah, pendidikan tinggi vokasi,\ndan pendidikan tinggi akademik;\n4) pendidikan kedinasan yang bersangkutan dialih-\nstatuskan menjadi badan hukum pendidikan,\nyang kementerian lain atau LPNK yang\nbersangkutan sebagai pendiri memiliki\nrepresentasi dalam organ representasi pemangku\nkepentingan, untuk memenuhi sekaligus semua\nkebutuhan sebagaimana dimaksud pada huruf a\nangka 1), angka 2), dan angka 3).\nb. Untuk pendidikan kedinasan yang peserta didiknya\nbukan pegawai negeri dan bukan calon pegawai\nnegeri, tersedia 3 (tiga) alternatif penyesuaian:\n1) pendidikan kedinasan yang bersangkutan dialih-\nstatuskan menjadi badan hukum pendidikan,\nyang kementerian lain atau LPNK yang\nbersangkutan sebagai pendiri memiliki\nrepresentasi dalam organ representasi pemangku\nkepentingan, untuk memenuhi kebutuhan\n\nsektoral yang berkelanjutan dan memerlukan\npengawasan dan penjaminan mutu yang ketat\ndari kementerian lain atau LPNK yang\nbersangkutan;\n2) pendidikan kedinasan yang bersangkutan\ndiintegrasikan dengan perguruan tinggi negeri\ntertentu dan setelah integrasi diadakan kerja\nsama dengan kemasan khusus untuk memenuhi\nkebutuhan sektoral yang bersifat temporer dan\nmemerlukan pengawasan dan penjaminan mutu\nyang ketat dari kementerian lain atau LPNK yang\nbersangkutan;\n3) pendidikan kedinasan yang bersangkutan\ndiintegrasikan dengan perguruan tinggi negeri\ntertentu atau diserahkan kepada pemerintah\ndaerah jika kebutuhan akan pengawasan dan\npenjaminan mutu yang ketat dari kementerian\nlain atau LPNK yang bersangkutan rendah.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "74206a1e-ef9f-4759-b945-52523530b737",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penyesuaian sebagaimana dimaksud pada ayat (1) harus\nselesai paling lambat 5 (lima) tahun sejak Peraturan\nPemerintah ini diundangkan.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "3f7d07c1-2c3d-40f7-a47f-c3722f6229b3",
+                    "name": "Article 25",
+                    "type": "article",
+                    "children": {
+                        "id": "2ade57e1-6023-441d-b15f-e951d269bcf3",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSemua peraturan perundang-undangan yang telah ada pada\nsaat Peraturan Pemerintah ini diundangkan masih tetap\nberlaku sepanjang tidak bertentangan dan belum diganti\nberdasarkan Peraturan Pemerintah ini.",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "f0cf7e06-8121-4ea9-adb5-0b617d922396",
+            "name": "Chapter XIV",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "6e87fbca-ba56-47b6-b427-a5b79c6b5ce0",
+                    "name": "Article 26",
+                    "type": "article",
+                    "children": {
+                        "id": "f28a1cf5-e42f-468f-9aff-8ed954f53ed6",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "explanation": "\nCukup jelas.\n"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nPendidikan kedinasan sebagai pendidikan setelah program sarjana atau\nyang setara memiliki peran yang sangat penting dalam sistem pendidikan\nnasional, terutama dalam rangka mengembangkan potensi para pegawai negeri\ndan calon pegawai negeri untuk meningkatkan kemampuan dan keterampilan\npelaksanaan tugas kedinasannya. Pendidikan kedinasan adalah pendidikan\nprofesi yang mempersiapkan peserta didik untuk memiliki atau meningkatkan\nkemampuan pekerjaannya dengan persyaratan keahlian khusus.\nPendidikan kedinasan diselenggarakan apabila kebutuhan dan/atau keahlian\nkhusus tersebut di atas tidak dapat dipenuhi oleh perguruan tinggi umum.\nAgar pendidikan kedinasan dapat terselenggara secara menyeluruh yang\nmeliputi aspek kedinasan sesuai dengan tuntutan instansi pemerintah yang\nsangat berdiversifikasi kompetensinya, pendidikan kedinasan dituntut\nmemiliki fleksibilitas yang tinggi dari sisi penyelenggaraannya. Oleh karena itu,\nprogram pendidikan kedinasan dapat berupa program utuh pendidikan formal\ndari suatu satuan pendidikan kedinasan, atau program gabungan pendidikan\nformal dan nonformal sebagai bagian dari pendidikan kedinasan berdasarkan\nkompetensi kemampuan pelaksanaan tugas yang dituntut.\nPendidikan kedinasan dapat merupakan program pendidikan keahlian\ntertentu yang terdiri atas kumpulan standar kompetensi yang beragam, yang\ndapat berasal dari satuan pendidikan yang berada pada Kementerian,\nkementerian lain, LPNK terkait, atau satuan pendidikan di luar kementerian\nlain atau LPNK terkait, baik pada jalur pendidikan formal maupun jalur\npendidikan nonformal sepanjang memiliki kontribusi terhadap penerapan\nprofesi kedinasan di lingkungan kerja. Untuk mengemas program-program\npendidikan dimaksud dengan kompetensi yang dibutuhkan, berbagai\nkompetensi dapat berasal dari, antara lain, perguruan tinggi yang\nmenawarkan program yang dibutuhkan, kursus bahasa, kursus manajemen\ndan/atau pendidikan dan latihan keahlian khusus yang dibutuhkan dalam\n\npendidikan kedinasan. Kompetensi yang dibutuhkan dapat berupa satuan-\nsatuan program lepas yang membentuk entitas program keahlian tertentu,\natau paket program yang disusun di dalam satuan pendidikan kedinasan di\ndalam Kementerian, kementerian lain, atau LPNK terkait atau bekerja sama\ndengan satuan-satuan pendidikan lain di luar kementerian lain atau LPNK\ntersebut.\nDengan bervariasinya jenis tugas dan keahlian khusus yang ada pada\nberbagai lapangan pekerjaan para pegawai negeri, pada dasarnya\nperkembangan jenis dan tingkat kompetensi pendidikan kedinasan yang\ndituntut memiliki karakteristik yang sangat dinamis. Dari sisi keluasan tugas\npegawai negeri dalam melayani kebutuhan publik, keragaman jenis, dan\ntingkat kompetensi pendidikan kedinasan akan dengan cepat menyesuaikan\ndiri dengan tuntutan kebutuhan, mulai dari jenis dan tingkat kompetensi yang\nsangat praktis, sampai yang sangat konseptual.\nKarena standar kompetensi dalam pendidikan kedinasan merupakan\nstandar kemampuan yang disyaratkan untuk dapat melakukan pekerjaan\ntertentu, yang mencakup aspek pengetahuan, keterampilan dan/atau keahlian\nserta sikap kerja yang relevan dengan pelaksanaan tugas dan syarat jabatan,\nprogram yang ditawarkan dalam pendidikan kedinasan seyogyanya mampu\nmemberikan peluang seluas-luasnya kepada para peserta didik untuk\nmeningkatkan kemampuannya sebagai pegawai negeri.\nJika terdapat keterbatasan kemampuan satuan pendidikan kedinasan di\ndalam memberikan kemampuan yang memadai untuk meningkatkan\npelaksanaan tugas aparatur negara, kurikulum pendidikan kedinasan\ndimungkinkan untuk dikembangkan sebagai program gabungan yang secara\nluwes mengambil keahlian yang dibutuhkan dari luar satuan pendidikan\nkedinasan, asalkan memiliki kejelasan kompetensi keahlian yang mendukung\nketerampilan dan/atau keahlian serta sikap kerja yang relevan dengan\npeningkatan kualitas pelaksanaan tugas dan syarat jabatan. Dengan\ndemikian, program pendidikan kedinasan yang dikembangkan memungkinkan\npengumpulan kredit akademik lintas jenjang pendidikan, bahkan lintas jalur\npendidikan, selama program tersebut mampu memberikan batasan\nkompetensi yang jelas dari sisi kebutuhan peningkatan kinerja aparatur\nnegara.\n",
+        "Nomor": "14",
+        "Tahun": "2010",
+        "Tentang": "PENDIDIKAN KEDINASAN",
+        "Menimbang": {
+            "Introduction": "\nbahwa dalam rangka pelaksanaan Pasal 29 ayat (4) Undang-\nUndang Nomor 20 Tahun 2003 tentang Sistem Pendidikan\nNasional, dipandang perlu menetapkan Peraturan\nPemerintah tentang Pendidikan Kedinasan;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 20 Tahun 2003 tentang Sistem\nPendidikan Nasional (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 78, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4301);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nTENTANG PENDIDIKAN KEDINASAN.",
+        "tanggal sah": "22 Januari 2010"
+    }
+}

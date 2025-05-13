@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "8954d80b-a311-4454-a4f6-5d169cf93923",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "5b7f5179-9e36-498a-bee7-f91bafdce31b",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah No. 50 tahun 1951 tersebut di atas\ndiubah/ditambah sebagai berikut:\n(1) alam pasal 2 baris ketiga antara perkataan-perkataan \"ini\"\n  dan \"dalam,\" ditambah perkataan: \"kecuali.\"\n(2) alam pasal 5 baris kedua perkataan-perkataan \"pasal 3\"\n  diganti dengan: \"pasal 2.\"",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "7d24e1ea-e682-43c8-9c5c-1fe8dc22bcc7",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "024d2b23-3958-4725-aa1f-e14262707e62",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku sejak hari\ndiundangkan, serta mempunyai daya surut sampai tanggal 1 Januari\n1951.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "13",
+        "Tahun": "1955",
+        "Tentang": "PENGUBAHAN/PENAMBAHAN PERATURAN PEMERINTAH NO.50 TAHUN 1951\n(LEMBARAN-NEGARA NO. 70 TAHUN 1951) TENTANG PENETAPAN GAJI\nTENTARA ANGKATAN DARAT",
+        "Menimbang": {
+            "Introduction": "\n1. bahwa ternyata pembuatan kalimat-kalimat dari beberapa pasal\nPeraturan Gaji Militer 1951 tidak sempurna;\n2. bahwa perlu diadakan perubahan/tambahan dalam Peraturan Gaji\n  Militer tersebut;"
+        },
+        "Mengingat": {
+            "Introduction": "\nPeraturan Pemerintah No. 50 tahun 1951 (Lembaran Negara 1951 No.\n70) tentang Penetapan Gaji Tentara Angkatan Darat, yang telah\nditambah/diubah berturut-turut menurut Peraturan Pemerintah No. 72\ntahun 1951 (Lembaran Negara 1951 No. 118) dan Peraturan Pemerintah\nNo. 40 tahun 1954 (Lembaran Negara 1954 No. 71).\nMendengar \nDewan Menteri dalam rapatnya yang ke-97 pada tanggal 22 Pebruari\n1955;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH UNTUK MENGUBAH/MENAMBAH PERATURAN PEMERINTAH\nNo. 50 TAHUN 1951 (LEMBARAN NEGARA 1951 No. 70).",
+        "tanggal sah": "1 Januari 1951"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "results": [
+        {
+            "id": "7f899f82-b45d-4b8c-8d0a-931038de953e",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "58e65ddb-5900-4843-86c5-3b4f8b03005d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Fakultas Sosial dan Politik Universitas Gajah Mada mempunyai\ntingkat pengajaran :\na. persiapan dengan lama belajar satu tahun;\nb. kandidat dengan lama belajar satu tahun;\nc. bakaloreat dengan lama belajar lebih-kurang satu tahun;\nd. doktoral (sarjana) dengan lama belajar lebih kurang satu tahun.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "f08d8733-6c9e-435b-b6df-c6340c8e4187",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "c24473c9-b53d-45f5-a8f1-983cbf4401cd",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Jurusan-jurusan pada tiap tingkat pengajaran ditentukan oleh\nSenat Universitas Gajah Mada dengan pertimbangan atau atas usul\nFakultas Sosial dan Politik.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "84f38abe-5b55-4f06-b142-b5c1152b2cb5",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "16caee83-5e5a-40a9-8ecf-65d581a48df3",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Pasal 7 ayat 3 Putusan Menteri Pendidikan, Pengajaran dan Kebudayaan tanggal 15 September 1955 No. 53759/Kab. berlaku juga bagi Fakultas Sosial dan Politik.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "e1b1677a-84f3-4458-b671-cb8029c01fac",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "363faae8-dc08-4db8-8439-9faa56132c38",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ujian-ujian menurut peraturan yang berlaku sebelum hari bulan termaksud dalam Pasal 5, masih dapat ditempuh sampai pada waktu yang ditentukan oleh Senat Universitas Gajah Mada dengan pertimbangan atau atas usul Fakultas Sosial dan Politik.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "31f0e3a3-d868-4cff-8dd8-1555285488c5",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "bdc57cdd-176f-402f-9a59-a170a278ec6d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan dan berlaku surut sampai tanggal 19 Juli 1956.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatan dalam Lembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "15",
+        "Tahun": "1957",
+        "Tentang": "SUSUNAN TINGKAT PENGAJARAN PADA FAKULTAS SOSIAL\nDAN POLITIK UNIVERSITAS GAJAH MADA",
+        "Menimbang": {
+            "Introduction": "\nbahwa bagi perkembangan lebih lanjut daripada usaha pendidikan dan\npengajaran dalam ilmu sosial dan politik, perlu mengatur susunan\ntingkat pengajaran pada Fakultas Sosial dan Politik Universitas\nGajah Mada dalam Peraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "\na. Peraturan Pemerintah No. 37 tahun 1950 Republik Indonesia\ndahulu tentang Universitas Gajah Mada, sebagaimana bunyinya\nsetelah diubah dan ditambah, terakhir dengan Peraturan\nPemerintah No. 58 tahun 1954 (Lembaran Negara tahun 1954 No.\n100);\nb. Putusan Menteri Pendidikan, Pengajaran dan Kebudayaan",
+            "1": " tanggal 14 Agustus 1950 No. 6403/A tentang peraturan\npenyelenggaraan Universitas Gajah Mada;",
+            "2": " tanggal 15 September 1955 No. 53759/Kab. tentang\nmelengkapkan susunan Universitas Gajah Mada;\nMendengar\nDewan Menteri dalam rapatnya yang ke 56 pada tanggal 31 Januari\n1957;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG SUSUNAN TINGKAT PENGAJARAN PADA\nFAKULTAS SOSIAL DAN POLITIK UNIVERSITAS GAJAH MADA.",
+        "tanggal sah": "19 Juli 1956"
+    }
+}

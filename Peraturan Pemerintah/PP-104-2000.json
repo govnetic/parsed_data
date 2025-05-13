@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "cb0e993e-f1c4-43f3-9264-a0534c942d71",
+            "id": "69ea25f7-142c-49da-9513-fb7763851044",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e819783c-97ac-4058-bfc9-b251cef93d45",
+                    "id": "252e6f74-537e-4bca-8b36-cebc51ec2cf1",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "26b8c3ee-9e0d-4a20-a176-e878bf58f57c",
+                        "id": "6c7dfbb2-4a4e-475f-a490-a2cf8be32c0f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -22,64 +22,88 @@
             ]
         },
         {
-            "id": "e0a6e80d-5b41-450d-a52a-dfb0e1ea0ac4",
+            "id": "dfbf3006-d06d-4861-9c69-684a817af2ef",
             "name": "Chapter II",
-            "title": "\nBAGIAN DAERAH DARI PENERIMAAN PAJAK BUMI DAN BANGUNAN,\nBEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN,\nDAN PENERIMAAN DARI SUMBER DAYA ALAM\nBagian Pertama\nBagian Daerah Dari penerimaan Pajak Bumi dan Bangunan\nPasal 2\n(1) Penerimaan Negara dari Pajak Bumi dan Bangunan dibagi dengan imbangan 10% (sepuluh\npersen) untuk Penerimaan Pusat dan 90% (sembilan puluh persen) untuk Daerah.\n(2) Bagian Daerah dari Pajak Bumi dan Bangunan sebagaimana dimaksud dalam ayat (1) dibagi\ndengan rincian sebagai berikut:\na. 16,2% (enam belas koma dua persen) untuk Daerah Propinsi yang bersangkutan dan\ndisalurkan ke rekening Kas Daerah Propinsi;\nb. 64,8% (enam puluh empat koma delapan persen) untuk Daerah Kabupaten/Kota yang\nbersangkutan dan disalurkan ke rekening Kas Daerah Kabupaten/Kota.\nc. 9% (sembilan persen) untuk Biaya Pemungutan dan disalurkan ke rekening Kas Negara dan\nkas Daerah.\nPasal 3\nKetentuan lebih lanjut mengenai pembagian hasil penerimaan Pajak Bumi dan bangunan\nsebagaimana dimaksud dalam Pasal 2 dan penyalurannya diatur sesuai dengan peraturan\nperundang-undangan yang berlaku.\nPasal 4\n(1) Bagian Pemerintah Pusat dari Pajak Bumi dan Bangunan sebagaimana dimaksud dalam Pasal 2\nayat (1) dibagikan kepada seluruh Kabupaten dan Kota.\n(2) Alokasi pembagian sebagaimana dimaksud dalam ayat (1) didasarkan atas realisasi penerimaan\nPajak Bumi dan bangunan Tahun Anggaran berjalan.\n(3) Besarnya alokasi pembagian sebagaimana dimaksud dalam ayat (2) diatur sebagai berikut:\n     a. 65% (enam puluh lima persen) dibagikan secara merata kepada seluruh Kabupaten dan Kota;\n\n     b. 35% (tiga puluh lima persen) dibagikan sebagai insentif kepada Kabupaten dan Kota yang realisasi penerimaan Pajak Bumi dan Bangunan sektor Pedesaan dan perkotaan berhasil melampaui rencana penerimaan yang telah ditetapkan pada Tahun Anggaran sebelumnya.\n(4) Ketentuan lebih lanjut mengenai pembagian penerimaan Pajak Bumi dan Bangunan bagian penerimaan Pajak Bumi dan Bangunan bagian Pemerintah Pusat ke Kabupaten/Kota dan penyalurannya diatur dengan Keputusan Menteri Keuangan.",
+            "title": "\nBAGIAN DAERAH DARI PENERIMAAN PAJAK BUMI DAN BANGUNAN,\nBEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN,\nDAN PENERIMAAN DARI SUMBER DAYA ALAM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f540431c-8e47-469a-94be-daf78272a01a",
-                    "name": "Section Second",
-                    "title": "\nBagian Daerah dari bea Perolehan Hak\nAtas Tanah dan Bangunan",
+                    "id": "8187aa17-99b6-433a-b232-91fb6c8e6d95",
+                    "name": "Section First",
+                    "title": "\nBagian Daerah Dari penerimaan Pajak Bumi dan Bangunan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "09c82a49-6f9c-423c-9ae0-1b89ef4d88bb",
-                            "name": "Article 5",
+                            "id": "f5d11bdb-a084-4094-b8dc-9fece4763e68",
+                            "name": "Article 2",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "8b2c7c80-baab-46b1-b0f8-724fee601637",
+                                    "id": "e3de540a-21b8-4969-a9cb-19e339147212",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Penerimaan Negara dari Bea Perolehan Hak Atas tanah dan Bangunan dibagi dengan imbangan 20% (dua puluh persen) untuk Pemerintah Pusat dan 80% (delapan puluh persen) untuk Daerah.",
+                                    "content": " Penerimaan Negara dari Pajak Bumi dan Bangunan dibagi dengan imbangan 10% (sepuluh\npersen) untuk Penerimaan Pusat dan 90% (sembilan puluh persen) untuk Daerah.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "41580655-6573-4772-80c5-fcec48612550",
+                                    "id": "09ec802b-0a6e-489d-bfb1-c19d27b23414",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Bagian Daerah dari Bea Perolehan Hak Atas Tanah dan Bangunan sebagaimana dimaksud dalam ayat (1) dibagi untuk Daerah dengan rincian sebagai berikut:\n    a. 16% (enam belas persen) untuk Daerah Propinsi yang bersangkutan dan disalurkan ke rekening Kas Daerah Propinsi;\n    b. 64% (enam puluh empat persen) untuk Daerah Kabupaten/Kota penghasil dan disalurkan ke rekening Kas Daerah Kabupaten/Kota.",
+                                    "content": " Bagian Daerah dari Pajak Bumi dan Bangunan sebagaimana dimaksud dalam ayat (1) dibagi\ndengan rincian sebagai berikut:\na. 16,2% (enam belas koma dua persen) untuk Daerah Propinsi yang bersangkutan dan\ndisalurkan ke rekening Kas Daerah Propinsi;\nb. 64,8% (enam puluh empat koma delapan persen) untuk Daerah Kabupaten/Kota yang\nbersangkutan dan disalurkan ke rekening Kas Daerah Kabupaten/Kota.\nc. 9% (sembilan persen) untuk Biaya Pemungutan dan disalurkan ke rekening Kas Negara dan\nkas Daerah.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "51cd56f8-64b0-4221-b31a-1860de1b917c",
-                            "name": "Article 6",
+                            "id": "ef732932-cb39-44bc-a277-05429138f358",
+                            "name": "Article 3",
                             "type": "article",
                             "children": {
-                                "id": "450694f9-20bf-4bdc-9807-58a529d8c7cc",
+                                "id": "3ec144f2-95a1-4afb-af31-c4ed0ab902f1",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nKetentuan lebih lanjut mengenai pembagian hasil penerimaan Bea Perolehan Hak Atas Tanah dan Bangunan sebagaimana dimaksud dalam Pasal 5 dan penyalurannya diatur sesuai peraturan perundang-undangan yang berlaku.",
+                                "content": "\nKetentuan lebih lanjut mengenai pembagian hasil penerimaan Pajak Bumi dan bangunan\nsebagaimana dimaksud dalam Pasal 2 dan penyalurannya diatur sesuai dengan peraturan\nperundang-undangan yang berlaku.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "33337640-431a-4f94-b242-d1600acff673",
-                            "name": "Article 7",
+                            "id": "6be4198f-2145-4c30-8d4a-f9679dd2812b",
+                            "name": "Article 4",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "2c6eb22c-47e0-45b3-be18-314f0c71ba96",
+                                    "id": "1daa4b37-94c8-486e-976c-17eec6ced580",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Bagian Pemerintah Pusat dari penerimaan Bea Perolehan Hak Atas Tanah dan Bangunan sebagaimana dimaksud dalam Pasal 5 ayat (1) dibagikan dengan porsi yang sama besar untuk Kabupaten/Kota di seluruh Indonesia.",
+                                    "content": " Bagian Pemerintah Pusat dari Pajak Bumi dan Bangunan sebagaimana dimaksud dalam Pasal 2\nayat (1) dibagikan kepada seluruh Kabupaten dan Kota.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "deb54594-ec66-4620-ae6e-4b7f5fbaff8a",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Alokasi pembagian sebagaimana dimaksud dalam ayat (1) didasarkan atas realisasi penerimaan\nPajak Bumi dan bangunan Tahun Anggaran berjalan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "e4460e30-eaae-4ece-896e-caaf0123bf99",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Besarnya alokasi pembagian sebagaimana dimaksud dalam ayat (2) diatur sebagai berikut:\n    a. 65% (enam puluh lima persen) dibagikan secara merata kepada seluruh Kabupaten dan Kota;\n\n    b. 35% (tiga puluh lima persen) dibagikan sebagai insentif kepada Kabupaten dan Kota yang\nrealisasi penerimaan Pajak Bumi dan Bangunan sektor Pedesaan dan perkotaan berhasil\nmelampaui rencana penerimaan yang telah ditetapkan pada Tahun Anggaran sebelumnya.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "f74169d8-562e-43d2-b853-fd83f1019b47",
+                                    "name": "Verse 4",
+                                    "number": "4",
+                                    "type": "verse",
+                                    "content": " Ketentuan lebih lanjut mengenai pembagian penerimaan Pajak Bumi dan Bangunan bagian\npenerimaan Pajak Bumi dan Bangunan bagian Pemerintah Pusat ke Kabupaten/Kota dan\npenyalurannya diatur dengan Keputusan Menteri Keuangan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
@@ -87,17 +111,76 @@
                     ]
                 },
                 {
-                    "id": "df679a2d-08e6-4f66-b5fa-00ed394345c1",
+                    "id": "11b3699f-32a8-4a3f-824d-87140a513a29",
+                    "name": "Section Second",
+                    "title": "\nBagian Daerah dari bea Perolehan Hak\nAtas Tanah dan Bangunan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "9b0d2619-70e0-4166-87fd-29abeab1c642",
+                            "name": "Article 5",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "ff2d9f15-9593-42d7-8484-1a5c8673ba7e",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Penerimaan Negara dari Bea Perolehan Hak Atas tanah dan Bangunan dibagi dengan imbangan\n20% (dua puluh persen) untuk Pemerintah Pusat dan 80% (delapan puluh persen) untuk Daerah.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "2b1d6f6d-0d78-4b0d-a8f7-dd3981f2dda3",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Bagian Daerah dari Bea Perolehan Hak Atas Tanah dan Bangunan sebagaimana dimaksud dalam\nayat (1) dibagi untuk Daerah dengan rincian sebagai berikut:\n    a. 16% (enam belas persen) untuk Daerah Propinsi yang bersangkutan dan disalurkan ke\nrekening Kas Daerah Propinsi;\n    b. 64% (enam puluh empat persen) untuk Daerah Kabupaten/Kota penghasil dan disalurkan ke\n    rekening Kas Daerah Kabupaten/Kota.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "ddbba0c1-5f49-434e-9aa4-14827d443f2f",
+                            "name": "Article 6",
+                            "type": "article",
+                            "children": {
+                                "id": "ab29a89d-3fa8-4fd0-886c-588dc3d952bc",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nKetentuan lebih lanjut mengenai pembagian hasil penerimaan Bea Perolehan Hak Atas Tanah dan\nBangunan sebagaimana dimaksud dalam Pasal 5 dan penyalurannya diatur sesuai peraturan\nperundang-undangan yang berlaku.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        },
+                        {
+                            "id": "1968da11-3dea-4dbd-9bdb-282cf0b68fcf",
+                            "name": "Article 7",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "d1cf54eb-d7af-4f1e-9553-2887f7ff0973",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Bagian Pemerintah Pusat dari penerimaan Bea Perolehan Hak Atas Tanah dan Bangunan\nsebagaimana dimaksud dalam Pasal 5 ayat (1) dibagikan dengan porsi yang sama besar untuk\nKabupaten/Kota di seluruh Indonesia.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "c539a765-beac-4166-8073-3d54eb1c9851",
                     "name": "Section Third",
                     "title": "\nBagian Daerah dari Penerimaan Sumber Daya Alam",
                     "type": "section",
                     "children": [
                         {
-                            "id": "dbe38795-9ca5-4905-9610-98dd78fa94cb",
+                            "id": "b33d153b-3188-4dec-9047-2c2da9bbcc0f",
                             "name": "Article 8",
                             "type": "article",
                             "children": {
-                                "id": "1bb6f81b-50de-4074-96d2-65a71901f119",
+                                "id": "084e4074-aa0e-4896-a748-101c2124dd15",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -106,77 +189,69 @@
                             }
                         },
                         {
-                            "id": "f4844b22-f1b5-47c9-8c34-e8b997cead5f",
+                            "id": "ef1e9b28-1849-4b61-975c-7d955dd41196",
                             "name": "Article 9",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "bd7d01c8-6133-482b-a926-05cb7c752836",
+                                    "id": "939a88fc-4344-48ae-9745-fc5fa11c668e",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Penerimaan negara dari sumber daya alam sektor Kehutanan sebagaimana dimaksud dalam Pasal 8 terdiri dari:\na. Penerimaan luran Hak Pengusahaan Hutan;\nb. Penerimaan Provisi Sumber Daya Hutan;",
+                                    "content": " Penerimaan negara dari sumber daya alam sektor Kehutanan sebagaimana dimaksud dalam Pasal 8 terdiri dari:\n   a. Penerimaan Iuran Hak Pengusahaan Hutan;\n   b. Penerimaan Provisi Sumber Daya Hutan;\n(2) Bagian Daerah dari penerimaan negara Iuran Hak Pengusahaan Hutan sebagaimana dimaksud dalam ayat (1) huruf a, dibagi dengan perincian:\n   a. 16% (enam belas persen) untuk Daerah Propinsi yang bersangkutan;\n   b. 64% (enam puluh empat persen) untuk Daerah Kabupaten/Kota penghasil;\n(3) Bagian Daerah dari penerimaan negara Provisi Sumber Daya Hutan sebagaimana dimaksud dalam ayat (1) huruf b, dibagi dengan perincian:\n   a. 16% (enam belas persen) untuk Daerah Propinsi yang bersangkutan;\n   b. 32% (tiga puluh dua persen) untuk Daerah Kabupaten/Kota penghasil;\n   c. 32% (tiga puluh dua persen) untuk Daerah Kabupaten/Kota lainnya dalam Propinsi yang bersangkutan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "59688c2a-0d5a-4630-991b-d64965549500",
-                                    "name": "Verse 2",
-                                    "number": "(2)",
-                                    "type": "verse",
-                                    "content": " Bagian Daerah dari penerimaan negara Iuran Hak Pengusahaan Hutan sebagaimana dimaksud dalam ayat (1) huruf a, dibagi dengan perincian:\na. 16% (enam belas persen) untuk Daerah Propinsi yang bersangkutan;\nb. 64% (enam puluh empat persen) untuk Daerah Kabupaten/Kota penghasil;",
-                                    "explanation": "Tidak ada Penjelasan"
-                                },
-                                {
-                                    "id": "05699977-0951-4552-bc2e-7500cd8749ab",
-                                    "name": "Verse 3",
-                                    "number": "(3)",
-                                    "type": "verse",
-                                    "content": " Bagian Daerah dari penerimaan negara Provisi Sumber Daya Hutan sebagaimana dimaksud dalam ayat (1) huruf b, dibagi dengan perincian:\na. 16% (enam belas persen) untuk Daerah Propinsi yang bersangkutan;\nb. 32% (tiga puluh dua persen) untuk Daerah Kabupaten/Kota penghasil;\nc. 32% (tiga puluh dua persen) untuk Daerah Kabupaten/Kota lainnya dalam Propinsi yang bersangkutan.",
-                                    "explanation": "Tidak ada Penjelasan"
-                                },
-                                {
-                                    "id": "53f42718-47cb-4e25-a379-30aa9e85eba3",
+                                    "id": "ee48bbb6-3afe-4270-97ab-2f6554bd1f29",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Bagian Kabupaten/Kota sebagaimana dimaksud dalam ayat (3) huruf c, dibagikan dengan porsi yang sama besar untuk semua Kabupaten/Kota dalam Propinsi yang bersangkutan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "cb8538ec-149e-47ce-afb6-8a9e5f3bd418",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Alokasi pembagian sebagaimana dimaksud dalam ayat (1) didasarkan atas realisasi penerimaan Bea Perolehan Hak ATas Tanah dan Bangunan Tahun Anggaran berjalan dan sesuai dengan peraturan perundang-undangan yang berlaku.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "052eb46b-fd21-4b2b-a3a4-882640ec7213",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Ketentuan lebih lanjut mengenai penyaluran penerimaan Bea Perolehan Hak Atas Tanah dan Bangunan bagian Pemerintah Pusat sebagaimana dimaksud dalam (1) diatur dengan Keputusan Menteri Keuangan.\n",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "c4d3bdb4-dc6e-43f7-81f3-188a60cbe582",
+                            "id": "552ef337-2e7b-434e-abaa-ee936b91f2ce",
                             "name": "Article 10",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "a7c8f046-beff-4d42-a044-181957925b75",
+                                    "id": "67703f50-ccf1-46a7-9d19-6a29c85f3bf6",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Penerimaan Negara dari sumber daya alam sektor pertambangan umum sebagaimana dimaksud dalam Pasal 8 terdiri dari:\n   a. Penerimaan luran Tetap (Land-rent);\n   b. Penerimaan luran Eksplorasi dan luran Eksploitasi (Royalty).",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "f69753d4-55b2-4070-8213-7ab06f228687",
+                                    "id": "32eda2b3-a392-48be-a004-fcb1dc23f821",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Bagian Daerah dari penerimaan negara luran Tetap (Land-rent); sebagaimana dimaksud dalam ayat (1) huruf a, dibagi dengan perincian:\n   a. 16% (enam belas persen) untuk Daerah Propinsi yang bersangkutan;\n   b. 64% (enam puluh empat persen) untuk Daerah Kabupaten/Kota penghasil;",
+                                    "content": " Bagian Daerah dari penerimaan negara luran Tetap (Land-rent); sebagaimana dimaksud dalam ayat (1) huruf a, dibagi dengan perincian:\n   a. 16% (enam belas persen) untuk Daerah Propinsi yang bersangkutan;\n   b. 64% (enam puluh empat persen) untuk Daerah Kabupaten/Kota penghasil;\n(3) Bagian Daerah dari penerimaan negara luran Eksplorasi dan luran Eksploitasi (Royalty) sebagaimana dimaksud dalam ayat (1) huruf b, dibagi dengan perincian:\n   a. 16% (enam belas persen) untuk Daerah Propinsi yang bersangkutan;\n   b. 32% (tiga puluh dua persen) untuk Daerah Kabupaten/Kota penghasil;\n   c. 32% (tiga puluh dua persen) untuk Daerah Kabupaten/Kota lainnya dalam Propinsi yang bersangkutan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "de100b89-f716-4632-886a-c19b89c3eea1",
-                                    "name": "Verse 3",
-                                    "number": "(3)",
-                                    "type": "verse",
-                                    "content": " Bagian Daerah dari penerimaan negara luran Eksplorasi dan luran Eksploitasi (Royalty) sebagaimana dimaksud dalam ayat (1) huruf b, dibagi dengan perincian:\n   a. 16% (enam belas persen) untuk Daerah Propinsi yang bersangkutan;\n   b. 32% (tiga puluh dua persen) untuk Daerah Kabupaten/Kota penghasil;\n   c. 32% (tiga puluh dua persen) untuk Daerah Kabupaten/Kota lainnya dalam Propinsi yang bersangkutan.",
-                                    "explanation": "Tidak ada Penjelasan"
-                                },
-                                {
-                                    "id": "34ea624e-7dd2-46fd-a3e6-cb3e9e1bd593",
+                                    "id": "36ee090c-7ec5-46d7-b2be-a8c1e6da7832",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Bagian Kabupaten/Kota sebagaimana dimaksud dalam ayat (3) huruf c, dibagikan dengan porsi yang sama besar untuk semua Kabupaten/Kota dalam Propinsi yang bersangkutan.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -184,77 +259,69 @@
                             ]
                         },
                         {
-                            "id": "a632c6b9-64e2-41f3-9e0b-9dacc5eb968e",
+                            "id": "667cb473-3775-4797-9a4c-8b9387a9248e",
                             "name": "Article 11",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "36faba01-5ef2-47f3-bb87-5b4e116591f9",
+                                    "id": "180cb3f6-1cd5-473e-a737-5840e377bbf9",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Penerimaan Negara dari sumber daya alam sektor perikanan sebagaimana dimaksud dalam Pasal 8 terdiri dari:\n   a. Penerimaan Pungutan Pengusahaan Perikanan;\n   b. Penerimaan Pungutan Hasil Perikanan;",
-                                    "explanation": "Tidak ada Penjelasan"
-                                },
-                                {
-                                    "id": "b7effe4a-b09b-49f8-b077-60cca914d987",
-                                    "name": "Verse 2",
-                                    "number": "(2)",
-                                    "type": "verse",
-                                    "content": " Bagian Daerah dari penerimaan negara sektor perikanan sebagaimana dimaksud dalam ayat (1) dibagikan dengan prosi yang sama besar kepada Kabupaten/Kota di seluruh Indonesia.",
+                                    "content": " Penerimaan Negara dari sumber daya alam sektor perikanan sebagaimana dimaksud dalam Pasal 8 terdiri dari:\n   a. Penerimaan Pungutan Pengusahaan Perikanan;\n   b. Penerimaan Pungutan Hasil Perikanan;\n(2) Bagian Daerah dari penerimaan negara sektor perikanan sebagaimana dimaksud dalam ayat (1) dibagikan dengan prosi yang sama besar kepada Kabupaten/Kota di seluruh Indonesia.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "88b4a06d-6c04-4dbf-baae-809a40d7bdd8",
+                            "id": "ae8ffec9-10f4-4137-958a-9c7a585b18e6",
                             "name": "Article 12",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "4a3dc1e1-7304-48d9-b253-b85849b1bfdb",
+                                    "id": "63fc3060-5b49-4cf9-8027-18901b0eaf73",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Penerimaan negara dari Sumber daya alam sektor pertambangan minyak dan gas alam yang\ndibagikan ke daerah adalah penerimaan Negara dari sumber daya alam sektor pertambangan\nminyak dan gas alam dari wilayah daerah yang bersangkutan setelah dikurangi komponen pajak\ndan pungutan lainnya.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "8ec91d06-6754-4e3e-bc10-4eb8feeaef71",
+                                    "id": "09d37ee0-c30d-46a0-bdca-765bb1d0048f",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Penerimaan Negara dari pertambangan minyak bumi dan gas alam sebagaimana dimaksud dalam\nPasal (1) dibagi sebagai berikut:\n\na. Penerimaan Negara dari Pertambangan minyak bumi bibagi dengan imbangan 85% (delan\npuluh lima persen) untuk Pemerintah Pusat dan 15% (lima belas persen) untuk Daerah;\nb. Penerimaan Negara dari pertambangan gas alam dibagi dengan imbangan 70% (tujuh\npuluh persen) untuk Pemerintah Pusat dan 30% (tiga puluh persen) untuk Daerah.",
+                                    "content": " Penerimaan Negara dari pertambangan minyak bumi dan gas alam sebagaimana dimaksud dalam\nPasal (1) dibagi sebagai berikut:\na. Penerimaan Negara dari Pertambangan minyak bumi bibagi dengan imbangan 85% (delan\npuluh lima persen) untuk Pemerintah Pusat dan 15% (lima belas persen) untuk Daerah;\nb. Penerimaan Negara dari pertambangan gas alam dibagi dengan imbangan 70% (tujuh\npuluh persen) untuk Pemerintah Pusat dan 30% (tiga puluh persen) untuk Daerah.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "e02fd493-0551-41d6-a205-59e6af8ebfc1",
+                                    "id": "3bb6fcfc-95b3-4995-9535-bf5aef8e0b06",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Bagian Daerah sebagaimana dimaksud dalam ayat (2) huruf a, dibagi dengan rincian sebagai\nberikut:\na. 3% (tiga persen) dibagikan untuk Propinsi yang bersangkutan;\nb. 6% (enam persen) dibagikan untuk Kabupaten/Kota penghasil;\nc. 6% (enam persen) dibagikan untuk Kabupaten/Kota lain dalam Propinsi yang\nbersangkutan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "f23b029b-14b3-4304-9c05-d1d407656027",
+                                    "id": "9d889253-aa26-4706-b39c-1b78bf7276cd",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Bagian Kabupaten/Kota sebagaimana dimaksud dalam ayat (3) huruf c, dibagikan dengan porsi\nyang sama besar untuk semua Kabupaten/Kota dalam Propinsi yang bersangkutan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "1419d27f-e0ca-4eb3-a92c-e9b02817fa7a",
+                                    "id": "88ace5d5-71e8-4e99-88d0-fa485fdd8abf",
                                     "name": "Verse 5",
-                                    "number": "(5)",
+                                    "number": "5",
                                     "type": "verse",
                                     "content": " Bagian Daerah sebagaimana dimaksud dalam ayat (2) huruf b, dibagi dengan rincian sebagai\nberikut:\na. 6% (enam persen) dibagikan untuk Propinsi yang bersangkutan;\nb. 12% (dua belas persen) dibagikan untuk Kabupaten/Kota penghasil;\nc. 12% (dua belas persen) dibagikan untuk Kabupaten/Kota lainnya dalam Propinsi yang\nbersangkutan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "2461db2a-1ee3-42ab-9b1e-ac2bb431aa31",
+                                    "id": "1e3bd4e8-9515-410c-93b5-f3fb6daaf4de",
                                     "name": "Verse 6",
-                                    "number": "(6)",
+                                    "number": "6",
                                     "type": "verse",
                                     "content": " Bagian Kabupaten/Kota sebagaimana dimaksud dalam ayat (5) huruf c, dibagikan dengan porsi\nyang sama besar untuk semua Kabupaten/Kota dalam Propinsi yang bersangkutan.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -264,20 +331,20 @@
                     ]
                 },
                 {
-                    "id": "03a45287-f72f-4e54-9ef7-bacd5184fd6a",
+                    "id": "9b569f6a-e0d3-442b-97cc-8b09e06879aa",
                     "name": "Section Fourth",
                     "title": "\nTata Cara Penghitungan dan Penyaluran\nBagian Daerah dari Penerimaan Sumber daya Alam",
                     "type": "section",
                     "children": [
                         {
-                            "id": "9db41ccc-d5aa-49a9-8d39-dfb8fad36c96",
+                            "id": "ce74c28a-d2af-4db8-9a13-4dfffc1572f6",
                             "name": "Article 13",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "db470f50-730a-4b7f-8d22-bd1182277bab",
+                                    "id": "de62b5ac-fd70-4feb-b178-39d725c2d8fa",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Menteri Teknis setelah berkonsultasi dengan Menteri Dalam Negeri dan Otonomi Daerah\nmenetapkan Kabupaten/Kota penghasil sebagaimana dimaksud dalam Pasal 9, Pasal 10 dan",
                                     "explanation": "Tidak ada Penjelasan"
@@ -285,30 +352,22 @@
                             ]
                         },
                         {
-                            "id": "d5c8a072-1fec-49fb-88dc-14eb15d0a319",
+                            "id": "f47ff3cc-b60a-465c-920f-96f0e28b5cb1",
                             "name": "Article 12",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "81d242bb-e7f3-4d23-b9ad-3f9893a87129",
-                                    "name": "Verse 2",
-                                    "number": "(2)",
-                                    "type": "verse",
-                                    "content": " Menteri teknis menetapkan dasar penghitungan bagian Daerah Kabupaten/Kota penghasil setelah\nberkonsultasi dengan Dewan Pertimbangan Otonomi Daerah.",
-                                    "explanation": "Tidak ada Penjelasan"
-                                },
-                                {
-                                    "id": "26208df7-becb-42b3-8580-905aa3aede89",
+                                    "id": "dc3ffbd5-93c0-4a83-ab84-61fbb1172b65",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Menteri Teknis menyampaikan dasar penghitungan bagian Daerah Kabupaten/Kota penghasil\nkepada Menteri Keuangan,Gubernur dan Bupati/Walikota yang bersangkutan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "aedb0c02-ef3a-476f-84e8-2e9af2c1711a",
+                                    "id": "b449848f-8920-4f38-bedf-875ee824bd31",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Menteri Keuangan menetapkan jumlah dana bagian Daerah untuk masing-masing Daerah.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -316,22 +375,22 @@
                             ]
                         },
                         {
-                            "id": "a3e75f1f-4420-4fd4-8141-5b6471c79dbc",
+                            "id": "824b5c7f-a203-4239-bbc9-096c57efdf62",
                             "name": "Article 14",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "ed55d41c-a959-4813-82d6-798edf031150",
+                                    "id": "f76aac14-de04-4cfe-9c7c-1cd028fdc664",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Jumlah dana bagian Daerah sebagaimana dimaksud dalam pasal 13 ayat (4) disalurkan langsung\nke Kas Daerah oleh Menteri Keuangan secara berkala.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "4c02024c-12cf-4458-9117-5186220c969c",
+                                    "id": "77b044c0-834d-4079-87af-15efcc389823",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Ketentuan pelaksanaan penyaluran bagian Daerah dari sumber daya alam sebagaimana dimaksud\ndalam ayat (1) diatur lebih lanjut dengan Keputusan Menteri Keuangan.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -343,28 +402,28 @@
             ]
         },
         {
-            "id": "f2b70b8b-e55d-46b0-bd3c-15e7130e12f9",
+            "id": "c201ba4b-7487-49ab-b72b-db572e962da3",
             "name": "Chapter III",
             "title": "\nDANA ALOKASI UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "4c8a4ffc-b2f3-43d5-9750-27ffd6fadbb5",
+                    "id": "9d16da0c-5d78-41aa-b5bf-5b52b4b2f245",
                     "name": "Article 15",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d199e286-bccd-4568-b91c-f54f0b233c48",
+                            "id": "d733beef-3417-40d9-9007-57b3c3db92cb",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dana Alokasi Umum dialokasikan dengan tujuan pemerataan kemampuan keuangan antar Daerah\nuntuk membiayai kebutuhan pengeluarannya dalam rangka pelaksanaan Desentralisasi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "20bf14e8-13bc-4eab-8a22-1a61d51254c8",
+                            "id": "1f5785bf-70be-4049-9f98-2b14b0f55e2d",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Penggunaan Dana Alokasi Umum ditetapkan oleh Daerah.",
                             "explanation": "Tidak ada Penjelasan"
@@ -372,30 +431,30 @@
                     ]
                 },
                 {
-                    "id": "258ee276-dd8b-4f77-a759-6a927115ba56",
+                    "id": "19c8ffff-4258-4de3-a15a-9691883bb550",
                     "name": "Article 6",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1eef0129-a7bd-403d-ba0f-2a9ad4cecb67",
+                            "id": "cd628d30-457a-45c4-8aa6-87490010e00c",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dana Alokasi Umum terdiri dari:\na. Dana Alokasi Umum untuk Daerah Propinsi;\nb. Dana Alokasi Umum untuk Daerah Kabupaten/Kota.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7ab793bf-0ea8-4022-b013-83e8213b2126",
+                            "id": "58263120-f52d-4725-a52e-b904e8db4d7a",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dana Alokasi Umum ditetapkan sekurang-kurangnya 25% (dua puluh lima persen) dari penerimaan\nDalam Negeri yang ditetapkan dalam APBN.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "c37541ff-05c3-4ed1-88bd-22e00a17fdb0",
+                            "id": "458b611b-131c-48a9-ac24-5651250d7217",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dana Alokasi Umum untuk Daerah Propinsi dan untuk Daerah Kabupaten/Kota ditetapkan\nmasing-masing 10% (sepuluh persen) dan 90% (sembilan puluh persen) dari Dana Alokasi Umum\nsebagaimana yang ditetapkan dalam ayat (2).",
                             "explanation": "Tidak ada Penjelasan"
@@ -403,70 +462,70 @@
                     ]
                 },
                 {
-                    "id": "aa63345e-5098-48e1-a085-d41d3a4b3be2",
+                    "id": "e40b8f43-1fc8-46e8-bf09-460839dff86d",
                     "name": "Article 17",
                     "type": "article",
                     "children": [
                         {
-                            "id": "31101315-8d25-469d-bf1c-d62c4b5705d9",
+                            "id": "1650822e-64be-472b-bda6-7939cf895cee",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dana Alokasi Umum bagi masing-masing Daerah Propinsi dan Daerah Kabupaten/Kota\nsebagaimana dimaksud dalam Pasal 16 ayat (3) dihitung berdasarkan perkalian dari jumlah Dana\nAlokasi Umum bagi seluruh Daerah, dengan bobot Daerah yang bersangkutan dibagi dengan\njumlah masing-masing bobot seluruh Daerah di seluruh Indonesia.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d12f6287-391d-4b44-9ddf-c455608349ce",
+                            "id": "9a096bd1-bc94-4383-8d73-08ff2000c3bf",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Bobot Daerah sebagaimana dimaksud dalam ayat (1) ditetapkan berdasarkan:\na. Kebutuhan wilayah otonomi Daerah;\nb. Potensi ekonomi Daerah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "097df316-72b1-417f-afc9-e6a5633b490d",
+                            "id": "ff12911c-5476-4829-80da-72af78005ccd",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Kebutuhan wilayah otonomi Daerah sebagaimana dimaksud dalam ayat (2) dihitung berdasarkan\nperkalian antara Pengeluaran Daerah Rata-rata dengan penjumlahan dari Indeks Penduduk\nIndeks Luas Daerah, Indeks Harga Bangunan dan Indeks Kemiskinan Relatif setelah dibagi empat.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "831a9b76-6453-41b7-8f35-29742e872b92",
+                            "id": "eb8e163d-fcc0-46fa-9dc4-6a86b6f9dd51",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Potensi ekonomi Daerah sebagaimana dimaksud dalam ayat (2) dihitung berdasarkan perkalian\nantara penerimaan Daerah rata-rata dengan penjumlahan dari Indeks Industri, Indeks sumber daya\nalam, dan Indeks sumber daya manusia setelah dibagi tiga.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "bbe01ea9-2dc3-4694-bf71-3e2c9b9ae594",
+                            "id": "1d8a4fc9-69eb-4ce6-8228-66bb3a8f030e",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Dana Alokasi Umum suatu Daerah adalah Kebutuhan Daerah yang bersangkutan dikurangi\nPotensi ekonomi Daerah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1448f60f-616e-4e53-b546-2dd33202411d",
+                            "id": "a0d35e40-3f89-4cf4-a8a4-f0a6d28c4ec0",
                             "name": "Verse 6",
-                            "number": "(6)",
+                            "number": "6",
                             "type": "verse",
                             "content": " Bobot Daerah adalah proporsi kebutuhan dana Alokasi Umum suatu Daerah dengan Total\nKebutuhan Dana Alokasi Umum seluruh Daerah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7714b243-2941-4b31-bc14-7a47724af308",
+                            "id": "4e773178-10bf-430b-b581-f0de68742796",
                             "name": "Verse 7",
-                            "number": "(7)",
+                            "number": "7",
                             "type": "verse",
                             "content": " Hasil perhitungan Dana Alokasi Umum untuk masing-masing Daerah ditetapkan dengan\nKeputusan Presiden berdasarkan usulan Dewan Pertimbangan Otonomi Daerah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "fa73451f-f5ec-4105-ad77-66d036e91669",
+                            "id": "8f8e60c0-3ae1-429c-b393-b06d66bf902f",
                             "name": "Verse 8",
-                            "number": "(8)",
+                            "number": "8",
                             "type": "verse",
                             "content": " Usulan Dewan Pertimbangan Otonomi Daerah sebagaimana dimaksud dalam ayat (7) setelah\nmempertimbangkan faktor penyeimbangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -474,30 +533,30 @@
                     ]
                 },
                 {
-                    "id": "81843998-8e90-4f75-91e7-026c54e8aa28",
+                    "id": "7d903945-7988-4e1a-a2d4-9d3740f5b273",
                     "name": "Article 18",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e0b86f2f-150e-401b-a3b7-4f80e1f9fa36",
+                            "id": "40b37480-ba0d-4c0f-8907-b30ab32de9a0",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Rincian Dana Alokasi Umum Kepada masing-masing Daerah disampaikan oleh Dewan\nPertimbangan Otonomi Daerah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "06eff923-631f-450f-91fc-7b7c253d01b4",
+                            "id": "056dc48e-bc1b-45f8-8e80-f8dfa4a80c20",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Penyaluran Dana Alokasi Umum kepada masing-masing Kas Daerah dilaksanakan oleh Menteri\nKeuangan secara berkala.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "183f8d2a-dbc3-4da7-b56e-13769af6e7c4",
+                            "id": "41efd313-da6a-47a2-9f3d-3910de78fb2c",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Ketentuan pelaksanaan penyaluran Dana ALokasi Umum sebagaimana dimaksud dalam ayat (1)\ndiatur lebih lanjut dengan Keputusan Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -507,52 +566,52 @@
             ]
         },
         {
-            "id": "d7ddba5d-e325-4025-acc0-5096f2a1e8e1",
+            "id": "03b37d01-fb15-414b-83ff-c457c2bbacb4",
             "name": "Chapter IV",
             "title": "\nDANA ALOKASI KHUSUS",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6395d96c-7660-4cf3-bba4-defe0012630a",
+                    "id": "f834fde7-9663-484f-87ed-283a60cb9fcf",
                     "name": "Article 19",
                     "type": "article",
                     "children": [
                         {
-                            "id": "27c3a92b-23e7-4109-9d57-7dec23a95d88",
+                            "id": "8167eee5-c186-4fa2-be15-4c68778c3c3b",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dana Alokasi Khusus dapat dialokasikan dari APBN kepada Daerah tertentu untuk membantu\nmembiayai kebutuhan khusus, dengan memperhatikan tersedianya dana dalam APBN.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6cfdf13b-d7ba-4321-89ac-dec8e2cde165",
+                            "id": "49aa4bcd-ae65-4d31-95b4-616df68b10f1",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Kebutuhan khusus sebagaimana dimaksud dalam ayat (1) adalah:\na. kebutuhan yang tidak dapat diperkirakan secara umum dengan menggunakan rumus\nalokasi umum; dan atau\nb. kebutuhan yang merupakan komitmen atau proiritas nasional.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "910e7c3e-d7b9-4eab-886c-b800f30eab31",
+                            "id": "0b340987-8d58-4c64-ad5b-2ba2876c524a",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Kriteria teknis sektor/kegiatan yang dapat dibiayai dari Dana Alokasi Khusus ditetapkan oleh\nMenteri Teknis/instansi terkait.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f40e6b37-c32f-403c-80a5-34008365e70f",
+                            "id": "911efaa8-8932-481f-8e08-73c0d48193ea",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Sektor/kegiatan yang tidak dapat dibiayai dari Dana Alokasi Khusus adalah biaya administrasi,\nbiaya penyiapan proyek fisik, biaya penelitian, biaya pelatihan, biaya perjalanan pegawai Daerah\ndan lain-lain biaya umum sejenis.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f04f7c49-0829-4a44-b0c3-c820d173e341",
+                            "id": "7950852a-8e2e-4876-86d9-cf316026af04",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Penerimaan negara yang berasal dari Dana Reboisasi sebesar 40% (empat puluh persen)\ndisediakan kepada Daerah penghasil sebagai bagian Dana Alokasi Khusus untuk membiayai\nkegiatan reboisasi dan penghijauan oleh Daerah penghasil.",
                             "explanation": "Tidak ada Penjelasan"
@@ -560,11 +619,11 @@
                     ]
                 },
                 {
-                    "id": "5a2e1505-0e6c-4ac7-b940-4ba0ba8e1fe1",
+                    "id": "2ca8fe00-27c5-45a2-b1f3-36846354e907",
                     "name": "Article 20",
                     "type": "article",
                     "children": {
-                        "id": "cc416154-4a54-4e37-a24c-73e0ec613cbc",
+                        "id": "e918d4ca-a67a-4163-9062-e41728647da0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -573,69 +632,69 @@
                     }
                 },
                 {
-                    "id": "9d2d07ab-7b80-4558-bb77-8e5057a7e69b",
+                    "id": "ad3e8cee-3cb4-48a3-9b37-93a9c8110783",
                     "name": "Article 21",
                     "type": "article",
                     "children": [
                         {
-                            "id": "989a9390-0097-4598-8d50-6f188caf5517",
+                            "id": "789cf169-9b96-4c84-ad69-b21e2da6cb1c",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dana Alokasi Khusus sebagaimana dimaksud dalam Pasal 19 ayat (2) huruf a, dialokasikan\nkepada Daerah tertentu berdasarkan usulan daerah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0b018df0-c438-4f75-86c5-77d4a457d6b9",
+                            "id": "7f0eff50-d679-4561-9785-edb85bbf6e4b",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pembiayaan kebutuhan khusus sebagaimana dimaksud dalam Pasal 19 memerlukan dana\npendamping dari penerimaan umum APBD.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4c9edeae-3984-44bc-927c-46e3fc491bbc",
+                            "id": "22a02c0e-4410-4eb6-a0c5-27dfadff2230",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Porsi dana pendamping sebagaimana dimaksud dalam ayat (2) ditetapkan sekurang-kurangnya\n10% (sepuluh persen).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f8adda48-5758-41af-a9cb-69e75fe87017",
+                            "id": "e7c94edd-f0cd-4664-9f59-bbd569f71a05",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Dikecualikan dari ketentuan sebagaimana dimaksud dalam ayat (2) dan ayat (3) adalah\n\npembiayaan kegiatan reboisasi yang berasal dari Dana Reboisasi sebagaimana dimaksud dalam\nPasal 19 ayat (5).",
+                            "content": " Dikecualikan dari ketentuan sebagaimana dimaksud dalam ayat (2) dan ayat (3) adalah\npembiayaan kegiatan reboisasi yang berasal dari Dana Reboisasi sebagaimana dimaksud dalam\nPasal 19 ayat (5).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "dcacab26-ec63-40f1-879c-4ded92772acc",
+                            "id": "5ac35eb7-989b-4a6d-bb3e-7e61c16038e3",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
-                            "content": " Pengalokasian Dana Alokasi Khusus kepada Daerah ditetapkan oleh Menteri Keuangan setelah\nmemperhatikan pertimbangan Menteri Dalam Negeri dan Otonomi Daerah, Menteri teknis terkait\ndan instansi yang membidangi perencanaan pembangunan nasional.",
+                            "content": "\nPengalokasian Dana Alokasi Khusus kepada Daerah ditetapkan oleh Menteri Keuangan setelah\nmemperhatikan pertimbangan Menteri Dalam Negeri dan Otonomi Daerah, Menteri teknis terkait\ndan instansi yang membidangi perencanaan pembangunan nasional.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "0180660a-7e8d-4e02-a669-6442e70dde96",
+                    "id": "800b9328-f7b5-4289-b3a8-a9ff0d2bb2ee",
                     "name": "Article 22",
                     "type": "article",
                     "children": [
                         {
-                            "id": "00261f8f-d0f6-4166-9e9a-769d87f70c86",
+                            "id": "e498015c-97e7-47bb-8575-5fbfc8a87dd6",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Ketentuan tentang penyaluran Dana Alokasi Khusus kepada Daerah ditetapkan oleh Menteri\nKeuangan.",
+                            "content": "\nKetentuan tentang penyaluran Dana Alokasi Khusus kepada Daerah ditetapkan oleh Menteri\nKeuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "87ccefcb-fa74-4b35-9552-d896e26ff696",
+                            "id": "f092b9c6-d875-431e-81ec-e61dc3bb6f51",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Ketentuan pelaksanaan penyaluran Dana Alokasi Khusus sebagaimana dimaksud dalam ayat (1)\ndiatur lebih lanjut dengan Keputusan Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -643,24 +702,24 @@
                     ]
                 },
                 {
-                    "id": "cca32737-de0f-44f7-aef9-45020d1e44f0",
+                    "id": "c6d08393-6cf6-4c04-b2bd-9cf7445c713e",
                     "name": "Article 23",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bd19ec5e-576d-45e3-a6c6-db79939dc500",
+                            "id": "edf7c42d-cfef-4ac3-be53-08c8546bfdc1",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Menteri Teknis/istansi terkait melakukan pemantauan dari segi teknis terhadap proyek/kegiatan\nyang dibiayai dari Dana Alokasi Khusus.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b059a59e-c28c-4064-8bf6-b952e4697247",
+                            "id": "0fca9ba5-3764-4c47-b5ef-9ece1dc31f3c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Pemeriksaan atas penggunaan Dana Alokasi Khusus oleh Daerah dilakukan sesuai dengan\nperaturan perundang-undangan yang berlaku.",
+                            "content": "\nPemeriksaan atas penggunaan Dana Alokasi Khusus oleh Daerah dilakukan sesuai dengan\nperaturan perundang-undangan yang berlaku.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -668,38 +727,38 @@
             ]
         },
         {
-            "id": "61239590-47f7-409f-8349-01e1c82c0695",
+            "id": "be88ccbf-661e-4669-b12c-e7628a19c2d7",
             "name": "Chapter V",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2087d4ee-af48-4128-a740-c502cbf79762",
+                    "id": "a19b2588-9d78-454f-a2d5-4eb49191122e",
                     "name": "Article 24",
                     "type": "article",
                     "children": [
                         {
-                            "id": "814918cd-d629-4d2f-ba22-53494f522d19",
+                            "id": "fa19b35d-559f-4e24-9111-616d41095065",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Dengan berlakunya Peraturan Pemerintah ini, pelaksanaan alokasi Dana Alokasi Umum\ndisesuaikan dengan proses penataan organisasi pemerintahan daerah dan proses pengalihan\nPegawai ke Daerah.",
+                            "content": "\nDengan berlakunya Peraturan Pemerintah ini, pelaksanaan alokasi Dana Alokasi Umum\ndisesuaikan dengan proses penataan organisasi pemerintahan daerah dan proses pengalihan\nPegawai ke Daerah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e207f800-6daf-43c7-acea-b61dbd7eb17a",
+                            "id": "9c56cf3b-6350-4e42-afb0-330fff866264",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Dalam hal pegawai Pemerintah Pusat yang telah ditetapkan untuk dialihkan kepada Daerah belum\nsepenuhnya menjadi beban Daerah, pembayaran gaji pegawai tersebut diperhitungkan dengan\nalokasi Dana Alokasi Umum bagi Daerah yang bersangkutan.",
+                            "content": "\nDalam hal pegawai Pemerintah Pusat yang telah ditetapkan untuk dialihkan kepada Daerah belum\nsepenuhnya menjadi beban Daerah, pembayaran gaji pegawai tersebut diperhitungkan dengan\nalokasi Dana Alokasi Umum bagi Daerah yang bersangkutan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "07378984-4281-43d4-9a5c-40413a145105",
+                            "id": "5e67a840-93c9-4b6d-944a-92f40fcd8b97",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Jangka waktu masa peralihan adalah sampai dengan semua pegawai Pemerintah Pusat yang",
+                            "content": "  Jangka waktu masa peralihan adalah sampai dengan semua pegawai Pemerintah Pusat yang",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -707,17 +766,17 @@
             ]
         },
         {
-            "id": "ebe74917-a62f-4f47-a57d-556d3cc20dda",
+            "id": "a651d22f-830a-472d-8d1a-77fa161a1ec5",
             "name": "Chapter VI",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ad6957a2-df15-4ae4-8099-15d6f590443f",
+                    "id": "bc2ddca1-674a-4cad-9a2b-0ae98026c742",
                     "name": "Article 25",
                     "type": "article",
                     "children": {
-                        "id": "b675f468-541d-4d3c-b116-17b1e5d4611d",
+                        "id": "e4e327fb-5e82-4f82-8443-1211c53b3cf0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -731,7 +790,7 @@
     "metadata": {
         "Nomor": "104",
         "Tahun": "2000",
-        "Tentang": "DANA PERIMBANGAN",
+        "Tentang": "DANA PERIMBANGAN\nPRESIDEN REPUBLIK INDONESIA,",
         "Menimbang": {
             "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 10 Undang-undang Nomor 25 Tahun 1999\ntentang Perimbangan Keuangan antara Pemerintah Pusat dan Daerah, Perlu\nmenetapkan Peraturan Pemerintah tentang Dana Perimbangan;"
         },

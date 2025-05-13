@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "c14b5711-31f6-4e77-a8e0-488308028e4c",
+            "id": "f2c5c126-3550-4528-af2d-076bd0035196",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "d4809ecc-2e9d-4b25-a2c2-a079d6a59521",
+                    "id": "46da0bf7-7370-4086-a0f5-0a26aff3cb90",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "78bcd4e0-bbce-4d6a-a547-f14ed5f0cee3",
+                        "id": "c7fef54e-a03f-497d-ba7b-34995c346f8c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,11 +20,11 @@
                     }
                 },
                 {
-                    "id": "3829d082-9250-4d21-b09a-2a3def41d470",
+                    "id": "a2b3ec8a-fb78-4f2b-9918-c0c46658e06b",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "b14a5edb-fde9-4bee-8896-0108668352e4",
+                        "id": "d1f2ee65-31b8-4b70-bbb8-477d898c4035",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -35,57 +35,57 @@
             ]
         },
         {
-            "id": "5b073852-28c8-4664-ae8c-585b503ec1bf",
+            "id": "958c7979-8cf4-4063-9f69-8262e27ae401",
             "name": "Chapter II",
             "title": "\nFUNGSI, TUGAS, KEWAJIBAN, DAN WEWENANG\nLEMBAGA PELAKSANA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "78a13469-027f-49e1-8396-5c478445384c",
+                    "id": "24b78435-0bb7-45dd-b64e-ca60e62cf5ce",
                     "name": "Section First",
                     "title": "\nFungsi Lembaga Pelaksana",
                     "type": "section",
                     "children": [
                         {
-                            "id": "c3e391c2-40d6-4907-9ca5-a78e8afe3daa",
+                            "id": "b511d5a7-f84a-4ee0-9c48-19b62c5a51e0",
                             "name": "Article 3",
                             "type": "article",
                             "children": {
-                                "id": "cd659af5-26d6-4db5-8682-8137e6563952",
+                                "id": "37d7d94b-c976-4c2a-a1f4-01075bdcf27d",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nLembaga Pelaksana memiliki fungsi:\na. melindungi hak Pemegang Resi Gudang dan/atau\nPenerima Hak Jaminan apabila terjadi\nkegagalan,ketidakmampuan, dan/atau kebangkrutan\nPengelola Gudang dalam menjalankan kewajibannya; dan\nb. memelihara stabilitas dan integritas Sistem Resi Gudang\nsesuai dengan kewenangannya.",
+                                "content": "\nLembaga Pelaksana memiliki fungsi:\na. melindungi hak Pemegang Resi Gudang dan/atau Penerima Hak Jaminan apabila terjadi kegagalan,ketidakmampuan, dan/atau kebangkrutan Pengelola Gudang dalam menjalankan kewajibannya; dan\nb. memelihara stabilitas dan integritas Sistem Resi Gudang sesuai dengan kewenangannya.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         }
                     ]
                 },
                 {
-                    "id": "9d027183-b212-486b-97f1-f6808fd33b5b",
+                    "id": "3c55faaa-cd97-46a3-98a7-5e10643dea9c",
                     "name": "Section Second",
                     "title": "\nTugas Lembaga Pelaksana",
                     "type": "section",
                     "children": [
                         {
-                            "id": "f30f0ec5-9379-4045-9d91-ec0032d9e3f9",
+                            "id": "6d5b38c9-0950-4d3c-b990-f903f0ea4a92",
                             "name": "Article 4",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "216ab2c8-de5e-4396-904f-ec2edac75819",
+                                    "id": "5b3ea1ac-6544-46c6-b092-d7a3158ff8d0",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Dalam menjalankan fungsi sebagaimana dimaksud dalam\nPasal 3 huruf a, Lembaga Pelaksana mempunyai tugas:\na. merumuskan dan menetapkan kebijakan pelaksanaan\npenjaminan pengelolaan barang oleh Pengelola Gudang;\ndan\nb. melaksanakan penjaminan pengelolaan barang oleh\nPengelola Gudang.",
+                                    "content": " Dalam menjalankan fungsi sebagaimana dimaksud dalam Pasal 3 huruf a, Lembaga Pelaksana mempunyai tugas:\na. merumuskan dan menetapkan kebijakan pelaksanaan penjaminan pengelolaan barang oleh Pengelola Gudang; dan\nb. melaksanakan penjaminan pengelolaan barang oleh Pengelola Gudang.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "17d689e7-74ed-4cf8-9725-ae5aea3e44cd",
+                                    "id": "2d1c6753-7575-4dab-abf3-7de226c4dbcd",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Dalam menjalankan fungsi sebagaimana dimaksud dalam\nPasal 3 huruf b, Lembaga Pelaksana mempunyai tugas:\na. merumuskan dan menetapkan kebijakan dalam rangka\nmemelihara stabilitas dan integritas Sistem Resi\nGudang;\nb. merumuskan, menetapkan, dan melaksanakan\nkebijakan penyelesaian Pengelola Gudang gagal yang\ntidak berdampak luas (sistemik); dan\nc. melaksanakan penanganan Pengelola Gudang gagal\nyang berdampak luas (sistemik).",
+                                    "content": " Dalam menjalankan fungsi sebagaimana dimaksud dalam Pasal 3 huruf b, Lembaga Pelaksana mempunyai tugas:\na. merumuskan dan menetapkan kebijakan dalam rangka memelihara stabilitas dan integritas Sistem Resi Gudang;\nb. merumuskan, menetapkan, dan melaksanakan kebijakan penyelesaian Pengelola Gudang gagal yang tidak berdampak luas (sistemik); dan\nc. melaksanakan penanganan Pengelola Gudang gagal\nyang berdampak luas (sistemik).",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
@@ -93,28 +93,28 @@
                     ]
                 },
                 {
-                    "id": "e9e35ce6-b041-4e24-b881-94ff72050d64",
+                    "id": "4393840c-6dc9-40b3-935f-aaa5f64818b9",
                     "name": "Section Third",
                     "title": "\nKewajiban Lembaga Pelaksana",
                     "type": "section",
                     "children": [
                         {
-                            "id": "50755c8e-4f01-49da-a020-8f9bb248f5f0",
+                            "id": "87a2f4c5-6d55-432b-bf41-e3b0bbda62d4",
                             "name": "Article 5",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "93419ba1-c405-456f-aa48-18dd577eb56c",
+                                    "id": "a1a619ce-c505-4657-9532-2fb149cb0686",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Lembaga Pelaksana wajib:\na. membentuk struktur organisasi khusus dan tersendiri\nyang menangani fungsi, tugas, kewajiban, dan\nwewenang Lembaga Jaminan;\nb. memiliki sarana dan sistem informasi yang terhubung\nsecara *online* ke setiap Pengelola Gudang dalam Sistem\nResi Gudang di seluruh Indonesia;\nc. membuat laporan kegiatan dan pembukuan keuangan\nyang terpisah;\nd. memiliki sistem manajemen risiko yang terpercaya;\ndan\ne. membuat peraturan dan tata tertib dalam rangka\npelaksanaan penjaminan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "3ba823ee-b748-4610-9da0-f7b1117241e4",
+                                    "id": "437f50ae-f2b4-49c6-95d1-4519afbe3f24",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Lembaga Pelaksana bertanggung jawab atas pelaksanaan\nPenjaminan Sistem Resi Gudang kepada Menteri dan\nmelaporkan kegiatan Penjaminan Sistem Resi Gudang\nsetiap 3 (tiga) bulan kepada Menteri dengan tembusan\nkepada Badan Pengawas.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -124,36 +124,36 @@
                     ]
                 },
                 {
-                    "id": "d529f364-0e0d-4b63-bfa9-b8186204d71f",
+                    "id": "7c95794c-3e37-4354-90f9-4573e0534daa",
                     "name": "Section Fourth",
                     "title": "\nWewenang Lembaga Pelaksana",
                     "type": "section",
                     "children": [
                         {
-                            "id": "1bcb66e5-fa6f-49eb-b543-6a5846e792ce",
+                            "id": "7bb3b48f-0a58-43f6-8ed6-320d0fc476ea",
                             "name": "Article 6",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "6a9e8054-9eb9-428e-9009-736e8baa9113",
+                                    "id": "dc3d216b-640c-42bf-9eeb-804671c9d40b",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Dalam rangka melaksanakan tugas sebagaimana\ndimaksud dalam Pasal 4, Lembaga Pelaksana mempunyai\nwewenang:\na. menetapkan dan memungut kontribusi pada saat\nPengelola Gudang pertama kali menjadi peserta;\nb. menetapkan dan memungut uang jaminan atas setiap\nbarang yang disimpan;\nc. melakukan pengelolaan kekayaan dan kewajiban\nLembaga Pelaksana;\nd. mendapatkan dan memastikan data barang yang\ndisimpan pemilik barang pada Pengelola Gudang\nsesuai dengan data dalam Resi Gudang, data dan\nlaporan keadaan keuangan Pengelola Gudang;\ne. melakukan pencocokan (rekonsiliasi), verifikasi,\ndan/atau konfirmasi atas data sebagaimana dimaksud\ndalam huruf d;\nf. menetapkan syarat, tata сага, dan ketentuan\npembayaran klaim;\ng. menunjuk, menguasakan, dan/atau menugaskan\npihak lain untuk bertindak bagi kepentingan dan/atau\natas nama Lembaga Pelaksana, guna melaksanakan\nsebagian tugas tertentu; dan\nh. menjatuhkan sanksi administratif.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "7adf53fc-e783-42c8-b11d-c2a9cd8a19f4",
+                                    "id": "57cd01ce-1803-4878-aaaf-03650c9cc2ee",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Lembaga Pelaksana dapat melakukan penyelesaian dan\npenanganan Pengelola Gudang gagal.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "320c0a7b-bd36-4865-b323-ee113151acdb",
+                                    "id": "98ccdc8c-f95c-4803-9bf2-11d32a323a9a",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Dalam melakukan penyelesaian dan penanganan Pengelola\nGudang gagal sebagaimana dimaksud pada ayat (2),\nLembaga Pelaksana dapat bertindak sebagai kreditur\nterhadap Pengelola Gudang berdasarkan hak subrogasi dari\nPemegang Resi Gudang dan/atau Penerima Hak Jaminan\nyang dapat mengajukan permohonan pailit kepada\nPengadilan Niaga.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -165,17 +165,17 @@
             ]
         },
         {
-            "id": "40501701-651d-4e35-ae75-4b4a98d63848",
+            "id": "17c0e7d8-5331-490f-81f9-29ae5fc3909f",
             "name": "Chapter III",
             "title": "\nPEMBINAAN DAN PENGAWASAN PELAKSANAAN FUNGSI, TUGAS,\nKEWAJIBAN DAN WEWENANG LEMBAGA PELAKSANA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "82fecabc-0f97-4546-8828-ee5e289640e0",
+                    "id": "c869ce23-b934-4de7-b10a-37c87a6958c5",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "2fa508ed-4a20-445c-85ef-fa9e4ca610d8",
+                        "id": "19ff3510-cf7b-41b5-9e5d-3383e2eb2c0d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -184,30 +184,30 @@
                     }
                 },
                 {
-                    "id": "e1bd9e99-5484-4851-b192-16ab9c0369b0",
+                    "id": "7ccaa155-66e0-4b16-83c4-97a792471719",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9cae4da2-24c8-43ec-9fe7-9fda65d1c71b",
+                            "id": "1bd92536-af6e-4e87-848c-9b0088e60615",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pelaksanaan pembinaan teknis penjaminan Sistem Resi\nGudang sebagaimana dimaksud dalam Pasal 7 paling\nsedikit meliputi:\na. memberikan asistensi dan bimbingan teknis pada\nLembaga Pelaksana terkait dengan penyelenggaraan\npenjaminan dalam Sistem Resi Gudang;\nb. memberikan pelatihan sumber daya manusia Lembaga\nPelaksana terkait dengan penyelenggaraan penjaminan\ndalam Sistem Resi Gudang;\nc. memberikan sosialisasi dan edukasi kepada Lembaga\nPelaksana terkait dengan penyelenggaraan penjaminan\ndalam Sistem Resi Gudang; dan\nd. memberikan teguran tertulis dalam hal Lembaga\nPelaksana tidak menjalankan kewajibannya\nsebagaimana dimaksud dalam Pasal 5 ayat (1).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0ad84cc4-37e8-44d5-ba02-0e009f3b3d12",
+                            "id": "d8a8a0eb-d779-44d9-b2a5-7a07c483a0ca",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pengawasan teknis sebagaimana dimaksud dalam Pasal 7\ndapat dilakukan dengan:\na. meminta keterangan, konfirmasi, dan/atau bukti yang\ndiperlukan;\nb. memeriksa catatan, pembukuan, laporan, dan/atau\ndokumen pendukung lainnya; dan\nc. meminjam atau membuat salinan atas catatan,\npembukuan, laporan, dan/atau dokumen lainnya\nsepanjang diperlukan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "884fc6eb-3bd1-4731-9ee4-5a860242bae6",
+                            "id": "e8948d80-b785-4b2d-ae3d-8a63345045ba",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Ketentuan lebih lanjut mengenai pembinaan dan\npengawasan Lembaga Pelaksana diatur dengan Peraturan\nMenteri.",
                             "explanation": "Tidak ada Penjelasan"
@@ -217,28 +217,28 @@
             ]
         },
         {
-            "id": "f7b0fde6-059f-498f-86c7-67ca37a9fae7",
+            "id": "5abe6b5a-ec62-46d9-b981-5eff89479f4a",
             "name": "Chapter IV",
             "title": "\nSUMBER PENDANAAN DAN PENGELOLAAN DANA JAMINAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8e8fb64a-7433-4f49-8280-40a908ccc1b2",
+                    "id": "3a3f32a5-6a41-4a34-b4b7-14a8701121c0",
                     "name": "Article 9",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e9d52f04-1ea2-47d6-bda2-31074dd4d6a0",
+                            "id": "76eb558d-70e9-4bae-9b6d-49b6e7962eea",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Sumber pendanaan Lembaga Pelaksana untuk kegiatan\npenjaminan Sistem Resi Gudang berasal dari:\na. Pemerintah;\nb. kontribusi Pengelola Gudang pada saat pertama kali\nmenjadi anggota Lembaga Pelaksana;\nс. Premi Penjaminan dari anggota Lembaga Pelaksana\natas setiap barang yang disimpan;\nd. hasil investasi dari dana yang dihimpun oleh Lembaga\nPelaksana;\ne. denda; dan/atau\nf. sumber lain yang sah sesuai dengan ketentuan\nperaturan perundang-undangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4e903c8e-013d-4c23-95fd-bed6f3b71730",
+                            "id": "13c5b505-d98d-4ca8-90d4-c489bfd7ad49",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Untuk pertama kalinya sumber pendanaan Lembaga\nPelaksana untuk kegiatan penjaminan Sistem Resi\nGudang berasal dari Anggaran Pendapatan dan Belanja\nNegara sebagai penyertaan modal negara yang ditetapkan\ndengan Peraturan Pemerintah tersendiri.",
                             "explanation": "Tidak ada Penjelasan"
@@ -246,54 +246,54 @@
                     ]
                 },
                 {
-                    "id": "2dbd79c5-c010-4d1c-8453-27daf4d4bd8d",
+                    "id": "1b2604a0-852b-4476-a6a6-37d251599f44",
                     "name": "Article 10",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6d4cf791-3375-45a7-9b41-00b48224b855",
+                            "id": "eac69cd1-a49f-4eb8-ac6f-267b3cf356a5",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dana Lembaga Pelaksana sebagaimana dimaksud dalam\nPasal 9 ayat (1) huruf a, huruf b, huruf d, huruf e, dan\nhuruf f dipergunakan untuk operasional penyelenggaraan\npenjaminan Sistem Resi Gudang, investasi, pengadaan\nbarang, jasa dan biaya peningkatan kapasitas pelayanan\npenjaminan Sistem Resi Gudang.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "be4fd2cd-2c9c-471e-84ed-cb7255f0c83d",
+                            "id": "1a977e9e-9f8f-4e27-9949-93b456250df1",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dana Lembaga Pelaksana sebagaimana dimaksud dalam\nPasal 9 ayat (1) huruf c dipergunakan untuk pembayaran\nklaim.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "755e8d12-cd68-4231-8e16-32f18a31b27d",
+                            "id": "b1fa11c4-8d26-459b-a0ab-068a69d98cdd",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dana Lembaga Pelaksana sebagaimana dimaksud dalam\nPasal 9 ayat (2) dipergunakan untuk kegiatan penjaminan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6bd8b05b-4304-4431-b3dc-3ba1e7af7327",
+                            "id": "2209e9e0-3047-4878-97a5-7102ae4f149e",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Kegiatan penjaminan sebagaimana dimaksud pada ayat (3)\nmeliputi kegiatan operasional, pembayaran klaim, dan\ninvestasi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "c3efb52f-ef41-406c-acdc-5524e78894be",
+                            "id": "b284c625-afd6-4b1c-9c45-08be42261a51",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Investasi sebagaimana dimaksud pada ayat (1) dan ayat (4)\nhanya dapat dilakukan dalam bentuk Surat Berharga yang\nditerbitkan oleh Pemerintah dan/atau simpanan pada\nbank nasional.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "75fad2d6-3ea9-45e1-99a3-166ea3a62228",
+                            "id": "83a41cdd-1d5c-4dce-b104-8b26db5ced11",
                             "name": "Verse 6",
-                            "number": "(6)",
+                            "number": "6",
                             "type": "verse",
                             "content": " Penggunaan dana oleh Lembaga Pelaksana sebagaimana\ndimaksud pada ayat (1) untuk menjalankan fungsi dan\ntugas Lembaga Pelaksana sesuai dengan rencana kerja\ndan anggaran perusahaan yang telah mendapatkan",
                             "explanation": "Tidak ada Penjelasan"
@@ -301,22 +301,22 @@
                     ]
                 },
                 {
-                    "id": "c5d28524-2057-4523-be7c-dc00fcc24ace",
+                    "id": "8b4480f4-809b-4f02-8c97-c5291b99d77c",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "c394d760-1f6e-4937-8e60-1e047aedd70a",
+                            "id": "652613d1-9362-4b9a-a9d2-283c14423550",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Surplus yang diperoleh Lembaga Pelaksana dari kegiatan\noperasional selama 1 (satu) tahun takwim dialokasikan\nuntuk:\na. cadangan penjaminan; dan\nb. cadangan tujuan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e545e6cc-d119-4522-9345-bb834aabdae7",
+                            "id": "4801dcd6-4f01-4d7a-a5fe-2de29cefd7e6",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Besarnya alokasi cadangan penjaminan dan cadangan\ntujuan sebagaimana dimaksud pada ayat (1) ditentukan\noleh Menteri untuk ditetapkan oleh menteri yang\nmenyelenggarakan urusan pemerintahan di bidang badan\nusaha milik negara sesuai dengan ketentuan peraturan\nperundang-undangan di bidang badan usaha milik negara.",
                             "explanation": "Tidak ada Penjelasan"
@@ -324,62 +324,62 @@
                     ]
                 },
                 {
-                    "id": "b4df9945-c41f-45a5-9c4e-eac4780d3df4",
+                    "id": "3a0801a9-9134-48a7-a136-e3b7e78e0da0",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "67cca2ba-24e3-4dea-8ac6-5e3da33247de",
+                            "id": "c308f6d8-4a10-43ef-b480-ca44fe39c456",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Premi Penjaminan atas setiap barang yang disimpan di\nGudang ditetapkan oleh Direksi setiap 6 (enam) bulan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6c497dfd-6d39-4e31-9f5f-f2ec456bc827",
+                            "id": "9e1aa28e-f02c-43bd-8f08-ace44fbd4125",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Premi Penjaminan atas setiap barang yang disimpan\ndihitung setiap bulan berdasarkan jumlah dan jenis\nbarang.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7677a939-b04f-461d-bdf6-5276bb646192",
+                            "id": "43314317-677d-4f4d-bc48-f9c93d577a1e",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " disampaikan oleh Pengelola Gudang kepada Lembaga\nPelaksana paling lambat 5 (lima) hari kerja setelah akhir\nperiode triwulan.",
+                            "content": " Premi Penjaminan wajib dibayar oleh Pengelola Gudang\npaling lambat 5 (lima) hari kerja setelah neraca saldo\nkomoditi disampaikan kepada Lembaga Pelaksana pada\nsetiap akhir triwulan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "19fd5edc-1f0e-4710-a3b3-b4bd9ecf7262",
+                            "id": "6aa671f6-a6ca-4212-81bc-b551b3651033",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Neraca saldo komoditi sebagaimana dimaksud pada ayat",
+                            "content": " Neraca saldo komoditi sebagaimana dimaksud pada ayat\n(3) disampaikan oleh Pengelola Gudang kepada Lembaga\nPelaksana paling lambat 5 (lima) hari kerja setelah akhir\nperiode triwulan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a821800f-13b5-4fc4-941f-f1d8cff2adda",
+                            "id": "aac64546-898d-4f30-a802-a0cf5a899fc9",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Dalam hal Pengelola Gudang lalai membayar Premi\nPenjaminan kepada Lembaga Pelaksana dalam jangka\nwaktu sebagaimana dimaksud pada ayat (3), Lembaga\nPelaksana menjatuhkan sanksi administratif sebagaimana\ndimaksud dalam Pasal 6 ayat (1) huruf h.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1584d169-b41d-41a8-9e99-317891137ef7",
+                            "id": "b85cd1fb-3c42-4dbd-89b7-3792a4a90778",
                             "name": "Verse 6",
-                            "number": "(6)",
+                            "number": "6",
                             "type": "verse",
                             "content": " Lembaga Pelaksana wajib melaporkan kepada Badan\nPengawas atas kelalaian pembayaran premi penjaminan\nsebagaimana dimaksud pada ayat (3) dan sanksi\nadministratif sebagaimana dimaksud pada ayat (5).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "c35b0ffa-6756-40d3-9aa1-06b2cb543e10",
+                            "id": "0a0a5c14-cec1-4471-ad88-0d0f9edb10bd",
                             "name": "Verse 7",
-                            "number": "(7)",
+                            "number": "7",
                             "type": "verse",
                             "content": " Tata cara mengenai pembebanan dan pembayaran Premi\nPenjaminan ditetapkan oleh Lembaga Pelaksana.",
                             "explanation": "Tidak ada Penjelasan"
@@ -387,22 +387,22 @@
                     ]
                 },
                 {
-                    "id": "93006f0c-93d6-4b2e-98f3-f63b577aa6eb",
+                    "id": "da8569d2-2dbf-4c27-9e7d-b80a4b416d5e",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bd24b9c7-2697-4045-82a5-9abea8485845",
+                            "id": "6de17649-7c38-437a-98b6-52a914665289",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Lembaga Pelaksana wajib menyimpan Premi Penjaminan\ndalam rekening penjaminan Resi Gudang yang terpisah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0b577d4a-66ee-4cc0-9cf2-3f49f2c9a61b",
+                            "id": "ba5dea7c-82b7-4a39-b43a-523a45ae19ef",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dalam hal tertentu dana dalam rekening terpisah\nsebagaimana dimaksud pada ayat (1) dapat dilakukan\npemisahan berdasarkan jenis barang yang dijaminkan\ndengan terlebih dahulu mendapatkan pertimbangan dari\nMenteri.",
                             "explanation": "Tidak ada Penjelasan"
@@ -412,23 +412,23 @@
             ]
         },
         {
-            "id": "8231c92d-71b8-4b8e-8a13-953774a4e626",
+            "id": "522965a4-78ba-4b1b-b68b-453551d6798e",
             "name": "Chapter V",
             "title": "\nPESERTA PENJAMINAN DAN CAKUPAN JAMINAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6e58f70c-8539-4504-94c8-2be526911a71",
+                    "id": "628ef07c-0467-45ca-b56e-d24326df40eb",
                     "name": "Section First",
                     "title": "\nPeserta Penjaminan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "dfc28f90-979c-4824-9a94-4abc0466309e",
+                            "id": "78c2640d-04e4-465b-9378-401da55cdd38",
                             "name": "Article 14",
                             "type": "article",
                             "children": {
-                                "id": "bc2bcf23-4291-4165-aed7-db5af8300236",
+                                "id": "cf155304-0f20-43df-ad52-03009eaa77a1",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -437,32 +437,32 @@
                             }
                         },
                         {
-                            "id": "5c25ce9a-e94b-47de-a5d1-52fc59bd17c7",
+                            "id": "b749f3ec-9d17-49d2-8f85-794a3f61c6b2",
                             "name": "Article 15",
                             "type": "article",
                             "children": {
-                                "id": "15fa4bb6-ac52-4b0f-8a99-a7e9f2457f35",
+                                "id": "bc615c31-a565-4734-8623-c41a33da52a6",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nSetiap peserta penjaminan Lembaga Pelaksana wajib:\nA. menyerahkan surat pernyataan yang berisi:\n1) komitmen dan kesediaan direksi atau pengurus\nPengelola Gudang untuk mematuhi semua ketentuan\nsebagaimana ditetapkan dalam peraturan Lembaga\nPelaksana; dan\n2) melepaskan serta menyerahkan semua hak pengelolaan\ndan/atau kepentingan kepada Lembaga Pelaksana\napabila Pengelola Gudang dinyatakan pailit.\nb. membayar kontribusi awal;\nc. membayar Premi Penjaminan atas setiap barang yang\ndisimpan;\nd. menyerahkan laporan berkala sesuai dengan format yang\ntelah ditentukan oleh Lembaga Pelaksana;\ne. memberikan data, informasi, dan dokumen-dokumen yang\ndiperlukan atau diminta oleh Lembaga Pelaksana; dan\nf. menempatkan bukti kepesertaan atau salinannya di dalam\nkantor Pengelola Gudang dan tempat lain yang mudah\ndiketahui oleh masyarakat.",
+                                "content": "\nSetiap peserta penjaminan Lembaga Pelaksana wajib:\na. menyerahkan surat pernyataan yang berisi:\n1) komitmen dan kesediaan direksi atau pengurus\nPengelola Gudang untuk mematuhi semua ketentuan\nsebagaimana ditetapkan dalam peraturan Lembaga\nPelaksana; dan\n2) melepaskan serta menyerahkan semua hak pengelolaan\ndan/atau kepentingan kepada Lembaga Pelaksana\napabila Pengelola Gudang dinyatakan pailit.\nb. membayar kontribusi awal;\nc. membayar Premi Penjaminan atas setiap barang yang\ndisimpan;\nd. menyerahkan laporan berkala sesuai dengan format yang\ntelah ditentukan oleh Lembaga Pelaksana;\ne. memberikan data, informasi, dan dokumen-dokumen yang\ndiperlukan atau diminta oleh Lembaga Pelaksana; dan\nf. menempatkan bukti kepesertaan atau salinannya di dalam\nkantor Pengelola Gudang dan tempat lain yang mudah\ndiketahui oleh masyarakat.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         }
                     ]
                 },
                 {
-                    "id": "9b13c7ff-9b83-415e-8805-0dae640fcdf0",
+                    "id": "18bc7ec4-2524-4b70-9460-458bcc392459",
                     "name": "Section Second",
                     "title": "\nBatas Penjaminan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "adc5f82c-53f2-489f-bef2-5334cd10c4f5",
+                            "id": "b1ddea6a-fb1a-4ffa-a7d6-d1b4f806499f",
                             "name": "Article 16",
                             "type": "article",
                             "children": {
-                                "id": "6c0a1cd2-d472-4910-adc7-becaad40ed2a",
+                                "id": "bb8869bc-bdfa-44c5-961c-9a29827fd376",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -471,24 +471,24 @@
                             }
                         },
                         {
-                            "id": "4506df3e-1ad9-4d77-ae84-722b2786d0c6",
+                            "id": "f8da3716-7d12-4ae3-8aa3-649caac326dc",
                             "name": "Article 17",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "22b0aee8-5032-4889-9e36-e293d6979609",
+                                    "id": "2f02eff9-be61-47e8-8a49-906d3b5e75f5",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Lembaga Pelaksana tidak mengganti kerugian untuk\nbarang yang disimpan oleh:\na. karyawan perusahaan auditor independen atau auditor\nyang terlibat dalam operasi audit;\nb. karyawan atau anggota administrasi Lembaga Penilai\nKesesuaian dan/atau dari Pusat Registrasi Resi\nGudang;\nc. pemilik atau pemegang saham dari Pengelola Gudang\ngagal yang sahamnya melebihi 10% (sepuluh\nperseratus); dan/atau\nd. pihak ketiga yang bertindak sebagai wakil yang diberi\nkuasa oleh pihak-pihak sebagaimana dimaksud dalam\nhuruf a, huruf b, dan huruf c yang memegang Resi\nGudang.",
+                                    "content": " Lembaga Pelaksana tidak mengganti kerugian untuk\nbarang yang disimpan oleh:\nA. karyawan perusahaan auditor independen atau auditor\nyang terlibat dalam operasi audit;\nB. karyawan atau anggota administrasi Lembaga Penilai\nKesesuaian dan/atau dari Pusat Registrasi Resi\nGudang;\nC. pemilik atau pemegang saham dari Pengelola Gudang\ngagal yang sahamnya melebihi 10% (sepuluh\nperseratus); dan/atau\nD. pihak ketiga yang bertindak sebagai wakil yang diberi\nkuasa oleh pihak-pihak sebagaimana dimaksud dalam\nhuruf a, huruf b, dan huruf c yang memegang Resi\nGudang.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "5b9f8305-341c-4e44-b259-96f03afbc0f0",
+                                    "id": "0f7ecd3f-86c9-46dc-8bf1-020410e43b87",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Lembaga Pelaksana tidak menjamin kerugian apapun yang\ndisebabkan oleh kejadian keadaan kahar *(force majeure).*",
+                                    "content": " Lembaga Pelaksana tidak menjamin kerugian apapun yang\ndisebabkan oleh kejadian keadaan kahar (force majeure).",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
@@ -496,60 +496,60 @@
                     ]
                 },
                 {
-                    "id": "28205197-53dd-4561-bdda-c57c6cc5ac9c",
+                    "id": "718a0877-7e0c-44b7-b1b1-962c69d81c3c",
                     "name": "Section Third",
                     "title": "\nTata Cara Klaim atas Jaminan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "b77cc1c6-d120-44d2-bc62-9a1856d0b69f",
+                            "id": "645508dc-c3a5-4294-8d65-4bb06e47ea9b",
                             "name": "Article 18",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "19434485-7ddc-49ee-ac6f-c4497ba0b779",
+                                    "id": "77dcfc9e-821e-4ac0-bfd5-6894ce41a467",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pemegang Resi Gudang dan/atau Penerima Hak Jaminan\nmengajukan klaim kepada Lembaga Pelaksana atas\nkegagalan, kelalaian, atau ketidakmampuan Pengelola\nGudang dalam melaksanakan kewajiban menyimpan dan\nmenyerahkan barang sesuai Resi Gudang yang\nditerbitkan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "faa8a793-d960-41e9-bf0a-0937f6990a55",
+                                    "id": "45e4c1eb-076a-460f-b9c4-b8933da5c1af",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": ", Pengelola Gudang dan/atau Pusat Registrasi Resi\nGudang wajib memberikan data dan informasi yang\ndiperlukan kepada Lembaga Pelaksana.",
+                                    "content": " Lembaga Pelaksana melakukan verifikasi atas klaim yang\ndiajukan sebagaimana dimaksud pada ayat (1) dalam\njangka waktu paling lama 14 (empat belas) hari kerja sejak\nklaim diterima.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "824843e4-5edb-4bf0-9b7b-3ae3886cafa3",
+                                    "id": "2818940e-c9a9-40d2-8bfd-702976cddf22",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Dalam rangka verifikasi sebagaimana dimaksud pada ayat",
+                                    "content": " Dalam rangka verifikasi sebagaimana dimaksud pada ayat\n(2), Pengelola Gudang dan/atau Pusat Registrasi Resi\nGudang wajib memberikan data dan informasi yang\ndiperlukan kepada Lembaga Pelaksana.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "821bcd61-334e-40dc-8e84-95a6e8c6a036",
+                                    "id": "a0a5e16e-52eb-45ec-b65a-6f78c1f86d39",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Verifikasi sebagaimana dimaksud pada ayat (2) dilakukan\ndengan berkoordinasi dengan Badan Pengawas.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "9f5daddf-ed8c-40d5-93df-49146f97344b",
+                                    "id": "c5f8196c-eaab-48d7-b388-32dc86287f2c",
                                     "name": "Verse 5",
-                                    "number": "(5)",
+                                    "number": "5",
                                     "type": "verse",
                                     "content": " Dalam hal berdasarkan hasil verifikasi sebagaimana\ndimaksud pada ayat (2) klaim memenuhi persyaratan,\nLembaga Pelaksana membayarkan klaim kepada\nPemegang Resi Gudang dan/atau Penerima Hak Jaminan\nsebagaimana dimaksud pada ayat (1) paling lama 30 (tiga\npuluh) hari kerja sejak klaim diterima.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "8c161e03-d28b-4ba7-b81b-248f42284a89",
+                                    "id": "6be6c3f9-68a8-49bf-a0c3-16e94a418b52",
                                     "name": "Verse 6",
-                                    "number": "(6)",
+                                    "number": "6",
                                     "type": "verse",
                                     "content": " Dalam hal dana dalam rekening penjaminan tidak\nmencukupi pembayaran klaim, Lembaga Pelaksana dapat\nmenggunakan dana operasional kegiatan penjaminan.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -557,11 +557,11 @@
                             ]
                         },
                         {
-                            "id": "ba764bee-2648-44a2-bdf3-6ba7d5a87693",
+                            "id": "682274dd-cda9-4684-9faf-acccf5b77054",
                             "name": "Article 19",
                             "type": "article",
                             "children": {
-                                "id": "8b0eb13b-8ae1-4fd7-8e03-95edd7e706fc",
+                                "id": "d82454b3-9252-444f-9c52-c67558efc8e6",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -574,83 +574,83 @@
             ]
         },
         {
-            "id": "d22d7ae0-58c0-4329-93da-9fbac06e8c22",
+            "id": "2370f2a8-5239-45ab-a011-d58177ea3fa2",
             "name": "Chapter VI",
             "title": "\nLAPORAN DAN PERTANGGUNGJAWABAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "74beec1b-3b6d-4540-b629-186f58f9d387",
+                    "id": "6be96c4e-7e38-489d-a176-751bf93bb646",
                     "name": "Article 20",
                     "type": "article",
                     "children": [
                         {
-                            "id": "af1f843c-9212-4f28-b01c-7e80720979ec",
+                            "id": "5e0a027d-d94e-4773-b34a-aba93e35c396",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Lembaga Pelaksana wajib menyampaikan rancangan rencana kerja dan anggaran tahunan di bidang Penjaminan Resi Gudang kepada Menteri paling lama 90 (sembilan puluh) hari sebelum tahun anggaran dimulai untuk mendapatkan persetujuan dengan tembusan kepada Badan Pengawas.",
+                            "content": " Lembaga Pelaksana wajib menyampaikan rancangan\nrencana kerja dan anggaran tahunan di bidang\nPenjaminan Resi Gudang kepada Menteri paling lama 90\n(sembilan puluh) hari sebelum tahun anggaran dimulai\nuntuk mendapatkan persetujuan dengan tembusan\nkepada Badan Pengawas.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b590b4fd-2c9e-43f2-861e-09f84dce5321",
+                            "id": "464df86c-948f-4ca4-93f4-becacec574ef",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Rencana kerja dan anggaran tahunan yang telah mendapatkan persetujuan Menteri sebagaimana dimaksud pada ayat (1) disampaikan oleh Lembaga Pelaksana kepada menteri yang menyelenggarakan urusan pemerintahan di bidang badan usaha milik negara paling lama 60 (enam puluh) hari sebelum tahun anggaran dimulai untuk mendapatkan pengesahan.",
+                            "content": " Rencana kerja dan anggaran tahunan yang telah\nmendapatkan persetujuan Menteri sebagaimana dimaksud\npada ayat (1) disampaikan oleh Lembaga Pelaksana\nkepada menteri yang menyelenggarakan urusan\npemerintahan di bidang badan usaha milik negara paling\nlama 60 (enam puluh) hari sebelum tahun anggaran\ndimulai untuk mendapatkan pengesahan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ea0eb32e-8783-43ea-b385-a150950f46e1",
+                            "id": "2cebe434-407b-40bd-87d5-9aba21414d23",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Rencana kerja dan anggaran tahunan yang telah mendapatkan pengesahan dari menteri yang menyelenggarakan urusan pemerintahan di bidang badan usaha milik negara sebagaimana dimaksud pada ayat (2) disampaikan oleh Lembaga Pelaksana kepada Menteri dan Badan Pengawas.",
+                            "content": " Rencana kerja dan anggaran tahunan yang telah\nmendapatkan pengesahan dari menteri yang\nmenyelenggarakan urusan pemerintahan di bidang badan\nusaha milik negara sebagaimana dimaksud pada ayat (2)\ndisampaikan oleh Lembaga Pelaksana kepada Menteri dan\nBadan Pengawas.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "11ea111a-a8a4-4e15-84c8-7979b85a3720",
+                    "id": "748db0fd-fd56-4b01-8d22-026a63f76d36",
                     "name": "Article 21",
                     "type": "article",
                     "children": [
                         {
-                            "id": "95c08701-91d0-4a0a-b049-312e957e924d",
+                            "id": "388408bf-96b0-4864-9c1e-8dbcc02e7b64",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Lembaga Pelaksana wajib menyampaikan laporan tahunan di bidang Penjaminan Resi Gudang kepada Menteri paling lambat 3 (tiga) bulan setelah tahun buku ditutup untuk mendapatkan persetujuan dengan tembusan kepada Badan Pengawas.",
+                            "content": " Lembaga Pelaksana wajib menyampaikan laporan tahunan\ndi bidang Penjaminan Resi Gudang kepada Menteri paling\nlambat 3 (tiga) bulan setelah tahun buku ditutup untuk\nmendapatkan persetujuan dengan tembusan kepada\nBadan Pengawas.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "14414bb8-089e-4e92-a95a-e64447a60404",
+                            "id": "3b678975-57df-47b1-9218-1ead69d16d16",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Laporan tahunan yang telah mendapat persetujuan Menteri sebagaimana dimaksud pada ayat (1) disampaikan oleh Lembaga Pelaksana kepada menteri yang menyelenggarakan urusan pemerintahan di bidang badan usaha milik negara untuk memperoleh pengesahan paling lambat 5 (lima) bulan setelah tahun buku berakhir.",
+                            "content": " Laporan tahunan yang telah mendapat persetujuan\nMenteri sebagaimana dimaksud pada ayat (1) disampaikan\noleh Lembaga Pelaksana kepada menteri yang\nmenyelenggarakan urusan pemerintahan di bidang badan\nusaha milik negara untuk memperoleh pengesahan paling\nlambat 5 (lima) bulan setelah tahun buku berakhir.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "523921d9-be25-426f-94ed-78e49d9bf316",
+                            "id": "0136e233-37bd-432d-ba04-6f5462799399",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Laporan tahunan sebagaimana dimaksud pada ayat (1)\nterdiri dari laporan kegiatan dan laporan keuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d314cda0-f079-462e-9697-e6eab25008ec",
+                            "id": "c7a5a700-aee2-431d-8ace-b2db6a2f1c1e",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Laporan keuangan sebagaimana dimaksud pada ayat (2)\nharus diaudit oleh auditor eksternal yang ditetapkan oleh\nmenteri yang menyelenggarakan urusan pemerintahan di\nbidang badan usaha milik negara.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "bb5d194b-2b89-49c0-9b36-281073af8962",
+                            "id": "a6fb8bb6-9d09-4385-a9d1-7f57077396ff",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Laporan tahunan yang telah mendapatkan pengesahan\ndari menteri yang menyelenggarakan urusan\npemerintahan di bidang badan usaha milik negara\nsebagaimana dimaksud pada ayat (2) disampaikan oleh\nLembaga Pelaksana kepada Menteri dan Badan Pengawas.",
                             "explanation": "Tidak ada Penjelasan"
@@ -660,17 +660,17 @@
             ]
         },
         {
-            "id": "4a59ba1e-bf30-485c-a427-e33a4fe758d5",
+            "id": "fe5239f3-5794-4ab7-bc60-ced667b74d63",
             "name": "Chapter VII",
             "title": "\nHUBUNGAN ANTAR LEMBAGA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "a70570d5-7bb5-4521-9f57-ce56dce6e4df",
+                    "id": "cfe72849-9e73-4881-a569-90b6b3214131",
                     "name": "Article 22",
                     "type": "article",
                     "children": {
-                        "id": "403dc13c-af02-4dd2-9b4c-c9c50351a725",
+                        "id": "6589567f-3702-4819-aed9-46524edc6fdf",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -681,28 +681,28 @@
             ]
         },
         {
-            "id": "dcad6458-c4db-486f-8f83-6d03e1023f7d",
+            "id": "46ef5fef-3a46-477a-b629-788710a1a5d4",
             "name": "Chapter VIII",
             "title": "\nSTRUKTUR ORGANISASI",
             "type": "chapter",
             "children": [
                 {
-                    "id": "d91df5c6-7bd0-4f54-9a23-bcd10f46bdcb",
+                    "id": "7d46fea8-e393-41d5-8581-8b71ddef82cd",
                     "name": "Article 23",
                     "type": "article",
                     "children": [
                         {
-                            "id": "536b1749-52ad-4471-93e3-2e31d222092f",
+                            "id": "f0c42732-e67b-4ae8-ba7d-ab5499086407",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Struktur organisasi Lembaga Pelaksana sebagaimana\ndimaksud dalam Pasal 5 ayat (1) huruf a paling sedikit\nterdiri dari bidang-bidang yang memiliki tugas dan fungsi\npengelolaan risiko, pengelolaan dana jaminan, dan\npengelolaan informasi Penjaminan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f29ad845-f2bc-45b1-a3da-089c90bdf796",
+                            "id": "731d47de-8603-4648-8f57-e32a6d8f34a8",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Karyawan yang membawahi bidang sebagaimana\ndimaksud pada ayat (1) harus memiliki pengetahuan,\npengalaman dan keahlian terkait bidang Sistem Resi\nGudang, penjaminan, keuangan dan/atau pengelolaan\nrisiko.",
                             "explanation": "Tidak ada Penjelasan"
@@ -710,38 +710,38 @@
                     ]
                 },
                 {
-                    "id": "abc8ce40-1154-4bf6-8d76-e42825215142",
+                    "id": "ecc2865c-6854-4d14-a1c0-9a91888a1e63",
                     "name": "Article 24",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f6d90a59-6ecb-4d7f-a8cd-215651c18152",
+                            "id": "e15897b0-4452-47aa-bbe5-963ed13e00e5",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Lembaga Pelaksana dapat membentuk atau menunjuk kantor perwakilan di daerah di luar wilayah domisili kantor pusat yang menyelenggarakan fungsi Lembaga Pelaksana.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "3c30aa4d-d6b6-4272-a51b-914556d8b74f",
+                            "id": "0ed0f6df-319b-477b-ba92-e4d30907cca8",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pembentukan atau penunjukan kantor yang menyelenggarakan fungsi Lembaga Pelaksana sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan sebagai berikut:\na. memiliki struktur organisasi yang terdiri dari bidang yang memiliki tugas dan fungsi pengelolaan resiko dan pengelolaan informasi Penjaminan sebagaimana dimaksud dalam Pasal 23 ayat (1); dan\nb. memiliki karyawan yang memiliki kompetensi sebagaimana dimaksud dalam Pasal 23 ayat (2).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e0f52a80-a191-4a47-9865-102c4abc1fca",
+                            "id": "a13d9bc7-4c36-4b24-b0c2-e5e31d6243d5",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Usulan pembentukan atau penunjukan kantor yang menyelenggarakan fungsi Lembaga Pelaksana sebagaimana dimaksud pada ayat (1) disampaikan kepada Menteri untuk mendapatkan persetujuan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b91cc960-83a9-42f9-89e7-3c4a378bf8c1",
+                            "id": "555d8fcd-926e-4095-a745-870372ccddc9",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Ketentuan lebih lanjut mengenai tata cara pembentukan atau penunjukan kantor yang menyelenggarakan fungsi Lembaga Pelaksana sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Menteri.",
                             "explanation": "Tidak ada Penjelasan"
@@ -751,28 +751,28 @@
             ]
         },
         {
-            "id": "f9734321-9dc3-4dd2-877d-383df78a49f4",
+            "id": "4907cea2-bf0c-43ae-ae8d-6d2820b6dcb0",
             "name": "Chapter IX",
             "title": "\nKERAHASIAAN DATA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ff93d5cf-1ff1-4487-a2c7-01e7749bcd9c",
+                    "id": "48bd0fea-3aac-43ec-811e-438f44b8b93e",
                     "name": "Article 25",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ec1befa4-fa24-4cbe-babb-f5ddbedc89db",
+                            "id": "25e5e089-dd7b-4572-9846-d26e0a28cd60",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Direksi, Dewan Pengawas, karyawan Lembaga Pelaksana, atau setiap pihak yang bekerja untuk dan atas nama Lembaga Pelaksana harus menjamin kerahasiaan setiap data yang menurut sifatnya harus dirahasiakan sepanjang tidak bertentangan dengan ketentuan peraturan perundang-undangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2712c4f1-49aa-451d-bf3a-f8c179333981",
+                            "id": "3303f5b8-0cf7-480c-af55-826eab037c51",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Sifat kerahasiaan dari data yang terkait dengan Lembaga Pelaksana ditetapkan oleh Direksi Lembaga Pelaksana.",
                             "explanation": "Tidak ada Penjelasan"
@@ -782,17 +782,17 @@
             ]
         },
         {
-            "id": "781954b2-1b07-4fa6-a32d-d34a28b78d39",
+            "id": "94778346-59b2-4a4d-a9d0-3292e1ef4c02",
             "name": "Chapter X",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "05af99eb-9011-407a-be2f-655276eb76ee",
+                    "id": "bdeec26e-9700-4b59-a463-0969b4805078",
                     "name": "Article 26",
                     "type": "article",
                     "children": {
-                        "id": "5360d523-1310-47e4-a71c-25bb1c54c185",
+                        "id": "aac36062-a26f-40fa-a14e-413c284b2605",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -801,11 +801,11 @@
                     }
                 },
                 {
-                    "id": "dabddb4d-efa0-433c-9e4e-33b94fb6d280",
+                    "id": "670c04da-c0ed-4cd0-b2c7-5878f564fdd9",
                     "name": "Article 27",
                     "type": "article",
                     "children": {
-                        "id": "1820b2cf-eb3b-4dad-872c-fbf9dec96cba",
+                        "id": "69e79a38-3ace-4bbc-a3b1-b9f988351fdd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -816,21 +816,21 @@
             ]
         },
         {
-            "id": "1472db29-bbb1-420e-91af-ba5997c04ce5",
+            "id": "ef4158b7-26de-4391-9966-9502e6ad4f45",
             "name": "Chapter XI",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e1f972e4-ddae-4ad4-b9fb-73f5ab99c67e",
+                    "id": "76205c8c-4978-48d3-b64f-78a0a8b2c2a7",
                     "name": "Article 28",
                     "type": "article",
                     "children": {
-                        "id": "311a27b9-d448-4245-b392-8ae844edbbe7",
+                        "id": "ae339d3a-6c8f-42fe-a6d0-92fc754d8190",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }

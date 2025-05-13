@@ -1,0 +1,74 @@
+{
+    "results": [
+        {
+            "id": "59fb0c4a-982b-44c5-beef-df436dccdcfc",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "3adc3c66-cee4-444d-90c3-037754bf6747",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ketua D.P.A. mendapat gaji pokok , sejumlah Rp. 15.000,-\n(lima belas ribu rupiah).",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "29c15cab-b853-4db7-9437-a1e69030733d",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "33e43082-6f30-47e0-b8db-ef1baed67f6f",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Diatas gaji pokok termaksud dalam pasal 1 kepada Ketua\nD.P.A., diberikan tunjangan keluarga dan tunjangan-tunjangan.\nlainnya sesuai dengan peraturan-peraturan yang berlaku bagi\nPegawai Negeri.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "f242eea9-bd03-49aa-a070-7dbd76eb678c",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "df971e8b-b67e-433c-b882-ea74102a5fa3",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Segala ketentuan-ketentuan yang telah ada mengenai fasilitas-\nfasilitas yang berlaku bagi Wakil Ketua D.P.A. berlaku pula\nterhadap Ketua D.P.A.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "af5b70cf-bc0a-4f9c-8941-0dc2424b45f7",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "4a5ea630-aeb7-4dbb-b693-717ed4f747e5",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari ditetapkan\ndan mempunyai daya surut sampai dengan tanggal 29 Pebruari 1968.\nAgar supaya setiap orang dapat mengetahuinya memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya dalam\nLembaran-Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "15",
+        "Tahun": "1968",
+        "Tentang": "KEDUDUKAN KEUANGAN KETUA D.P.A.",
+        "Menimbang": {
+            "Introduction": "\nbahwa dengan adanya pengangkatan Ketua D.P.A. dipandang perlu\nsegera mengatur kedudukan keuangannya."
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-undang Dasar 1945;",
+            "2": " Undang-undang Nomor 3 tahun 1967.;",
+            "3": " Peraturan Pemerintah Nomor 211 tahun 1961;",
+            "4": " Peraturan Pemerintah Nomor 13 tahun 1967 jo. Peraturan\nPemerintah Nomor 1 dan Nomor 4 tahun 1968;",
+            "5": " Peraturan Pemerintah Nomor 20 tahun 1967 jo. Peraturan\nPemerintah Nomor 12 tahun 1968."
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang Kedudukan Keuangan Ketua Dewan\nPertimbangan Agung.",
+        "tanggal sah": "22 Mei 1968"
+    }
+}

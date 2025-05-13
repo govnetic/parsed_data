@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "2f444aea-7d81-40c5-8668-97e901d82431",
+            "id": "10f5f9aa-0e59-4ee3-9a6b-e92e4c05ecd2",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f58799f6-dc17-4744-8fd6-76035723bc01",
+                    "id": "92f1366e-cb9e-4712-adc6-6a20f603ecce",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "efcfad8f-5cf5-4b9a-a213-34a41e620d64",
+                        "id": "a4dfc4b3-f619-4575-bd36-157e404f90ba",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,22 +20,22 @@
                     }
                 },
                 {
-                    "id": "9c6862d1-93c1-421e-8d11-a44ee677f247",
+                    "id": "65ff9915-4552-4420-b408-e6c018ae1b2b",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ae58f576-7459-4c44-8316-dd4936e8d6bd",
+                            "id": "3d1d6e21-f046-48a6-bc54-57c4db005e49",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penambahan penyertaan modal Negara sebagaimana dimaksud\ndalam Pasal 1 berupa fasilitas bandar udara dan keselamatan\npenerbangan di:\na. Bandar Udara Soekarno-Hatta;\nb. Bandar Udara Supadio-Pontianak;\nc. Bandar Udara Sultan Mahmud Badaruddin II - Palembang;\nd. Bandar Udara Tabing-Padang;\ne. Bandar Udara Simpang Tiga-Pekanbaru;\nf. Bandar Udara Polonia-Medan;\ng. Bandar Udara Sultan iskandar Muda-Banda Aceh;\nh. Bandar Udara Husein Sastranegara-Bandung;\nyang pembangunannya berasal dari :\na. dana Anggaran Pendapatan dan Belanja Negara tahun Anggaran\n1985/1986, 1990/1991, 1991/1992, 1992/1993, 1993/1994,\n1994/1995;\nb. dana pinjaman luar negeri tahun 1984, 1988, 1990, dan tahun\n1991;\nc. dana Kredit Ekspor tahun 1982, 1992, dan tahun 1993.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "926ba6ba-0a47-462c-9702-78000f1476d0",
+                            "id": "e8ac76aa-5a54-416d-a168-6d542378c3d9",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Nilai penambahan penyertaan modal Negara sebagaimana dimaksud\npada ayat (1) seluruhnya berjumlah Rp 91.150.231.722,77 (sembilan\npuluh satu miliar seratus lima puluh juta dua ratus tiga puluh satu\nribu tujuh ratus dua puluh dua rupiah tujuh puluh tujuh sen) dengan\nrincian sebagaimana terlampir.",
                             "explanation": "Tidak ada Penjelasan"
@@ -45,17 +45,17 @@
             ]
         },
         {
-            "id": "1b926187-2c85-4e25-a119-62aa6fbc43fb",
+            "id": "5f598324-3423-474d-b4d1-403db044a351",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN\nPENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "4c6579b1-6dbc-4b95-85c3-d8b4aa273f82",
+                    "id": "f921d0d8-e2b1-4e21-8ed3-dc9a8679216f",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "1d92e796-4b66-4b7b-b9e2-142f1b079ee8",
+                        "id": "058eae1b-bd94-4eaa-8614-829dca90b1f9",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -66,17 +66,17 @@
             ]
         },
         {
-            "id": "02e05087-96f0-42d6-b651-a2a2f8f8f614",
+            "id": "d285db0c-504b-413f-bd62-210ca5f23d8f",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "3c8aab31-7166-4f1c-843c-f61836d14cb7",
+                    "id": "cda8926f-cc84-4b5e-9810-cc84bc1319ba",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "9f44bacf-e4af-4ea6-8019-d14105c25ebc",
+                        "id": "bfc85fca-49c0-4cf1-9b5e-96a279740949",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -85,11 +85,11 @@
                     }
                 },
                 {
-                    "id": "4d136129-8a71-42a7-8317-583548e3765a",
+                    "id": "5f5303b3-38b8-4811-ae6f-ee3eae0d014d",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "cd3054e3-fe10-4f08-9d3a-e5cb589b7885",
+                        "id": "8d7fc92c-1ada-4dd0-9e6b-37627c0ab8ab",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -107,19 +107,19 @@
         "Menimbang": {
             "Introduction": "",
             "a": " bahwa untuk lebih meningkatkan dan mengembangkan kegiatan\nusaha Perusahaan Perseroan (PERSERO) Angkasa Pura II,\ndipandang perlu untuk melakukan penambahan penyertaan modal\nNegara Republik Indonesia ke dalam modal saham Perusahaan\nPerseroan (PERSERO) tersebut;",
-            "b": " bahwa kekayaan Negara Republik Indonesia yang berasal dari\nAnggaran Pendapatan dan Belanja Negara , pinjaman luar negeri dan\nkredit ekspor yang berupa fasilitas bandar udara dan keselamatan\npenerbangan di Bandar Udara Soekarno-Hatta, Bandar Udara\nSupadio-Pontianak, Bandar Udara Sultan Mahmud Badaruddin\nII-Palembang, Bandar Udara Tabing-Pada, Bandar Udara Simpang\nTiga-Pekanbaru, Bandar Udara Polonia-Medan, Bandar Udara Sultan\nIskandar Muda-Banda Aceh, dan Bandar Udara Husein\nSastranegara-Bandung, dapat ditetapkan sebagai tambahan\npenyertaan modal Negara Republik Indonesia ke dalam modal saham\nPerusahaan Perseroan (PERSERO) PT Angkasa Pura II;",
+            "b": " bahwa kekayaan Negara Republik Indonesia yang berasal dari\nAnggaran Pendapatan dan Belanja Negara, pinjaman luar negeri dan\nkredit ekspor yang berupa fasilitas bandar udara dan keselamatan\npenerbangan di Bandar Udara Soekarno-Hatta, Bandar Udara\nSupadio-Pontianak, Bandar Udara Sultan Mahmud Badaruddin\nII-Palembang, Bandar Udara Tabing-Pada, Bandar Udara Simpang\nTiga-Pekanbaru, Bandar Udara Polonia-Medan, Bandar Udara Sultan\nIskandar Muda-Banda Aceh, dan Bandar Udara Husein\nSastranegara-Bandung, dapat ditetapkan sebagai tambahan\npenyertaan modal Negara Republik Indonesia ke dalam modal saham\nPerusahaan Perseroan (PERSERO) PT Angkasa Pura II;",
             "c": " bahwa penambahan penyertaan modal Negara tersebut, perlu\nditetapkan dengan Peraturan Pemerintah;"
         },
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang\nBentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969 Nomor\n16, Tambahan Lembaran Negara Nomor 2890) menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor 40,\nTambahan Lembaran Negara Nomor 2904);",
-            "3": " Undang-undang Nomor 1 Tahun 1995 tentang Perseroan Terbatan\n(Lembaran Negara Tahun 1975 Nomor 13, Tambahan Lembaran\nNegara Nomor 3587);",
-            "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21,\nTambahan Lembaran Negara Nomor 2894) sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 24 Tahun 1972\n(Lembaran Negara Tahun 1972 Nomor 32, Tambahan Lembaran\nNegara Nomor 2987);",
-            "5": " Peraturan Pemerintah Nomor 3 Tahun 1983 tentang Tata Cara\nPembinaan dan Pengawasan Perusahaan Jawatan (PERJAN),\nPerusahaan Umum (PERUM) dan Perusahaan Perseroan\n(PERSERO) (Lembaran Negara Tahun 1983 Nomor 3, Tambahan\nLembaran Negara Nomor 3246) sebagaimana telah diubah dengan\nPeraturan Pemerintah Nomor 28 Tahun 1983 (Lembaran Negara\nTahun 1983 Nomor 37);",
-            "6": " Peraturan Pemerintah Nomor 14 Tahun 1992 tentang Pengalihan\nBentuk Perusahaan Umum (PERUM) Angkasa Pura II menjadi\nPerusahan Perseroan (PERSERO) (Lembaran Negara Tahun 1992\nNomor 25);"
+            "2": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang\nBentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969 Nomor 16, Tambahan Lembaran Negara Nomor 2890) menjadi Undang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan Lembaran Negara Nomor 2904);",
+            "3": " Undang-undang Nomor 1 Tahun 1995 tentang Perseroan Terbatan (Lembaran Negara Tahun 1975 Nomor 13, Tambahan Lembaran Negara Nomor 3587);",
+            "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21, Tambahan Lembaran Negara Nomor 2894) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24 Tahun 1972 (Lembaran Negara Tahun 1972 Nomor 32, Tambahan Lembaran Negara Nomor 2987);",
+            "5": " Peraturan Pemerintah Nomor 3 Tahun 1983 tentang Tata Cara Pembinaan dan Pengawasan Perusahaan Jawatan (PERJAN), Perusahaan Umum (PERUM) dan Perusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1983 Nomor 3, Tambahan Lembaran Negara Nomor 3246) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 28 Tahun 1983 (Lembaran Negara Tahun 1983 Nomor 37);",
+            "6": " Peraturan Pemerintah Nomor 14 Tahun 1992 tentang Pengalihan Bentuk Perusahaan Umum (PERUM) Angkasa Pura II menjadi Perusahan Perseroan (PERSERO) (Lembaran Negara Tahun 1992 Nomor 25);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT ANGKASA PURA II.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT ANGKASA PURA II.",
         "tanggal sah": "9 Januari 1998"
     }
 }

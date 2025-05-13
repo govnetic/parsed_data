@@ -1,38 +1,38 @@
 {
     "results": [
         {
-            "id": "c1136889-f67a-479e-894d-7c3175eeb7f6",
+            "id": "99e5f956-ecb5-43f5-a4ce-b2f302ae6e7c",
             "name": "Chapter I",
             "title": "\nPENDIRIAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "cdd131db-72a8-4567-bf48-5d32b3c4e4c3",
+                    "id": "b32a0bcf-7d3a-4f78-91fb-e9d779f8a959",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "72ed455a-e18d-4e15-a70d-24055de08c73",
+                        "id": "259c17f0-1cb2-44dd-b0a3-618d92eca04e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDengan nama BADAN PIMPINAN UMUM MINYAK DAN GAS BUMI selanjutnya disebut BPU MINYAK DAN GAS BUMI didirikan suatu Badan Pimpinan Umum yang diserahi tugas mengadakan kerjasama dan kesatuan tindakan dalam mengurus perusahaan Negara yang berusaha dalam lapangan minyak dan gas bumi yang didirikan berdasarkan Undang-undang Nomor 19 Prp Tahun 1960 (Lembaran Negara Tahun 1960 Nomor 59) sebagai dimaksud dalam Pasal 20 ayat (1) sub c dan Pasal 23 ayat (1) sub a.",
+                        "content": "\nDengan nama BADAN PIMPINAN UMUM MINYAK DAN GAS BUMI selanjutnya\ndisebut BPU MINYAK DAN GAS BUMI didirikan suatu Badan Pimpinan Umum yang\ndiserahi tugas mengadakan kerjasama dan kesatuan tindakan dalam mengurus\nperusahaan Negara yang berusaha dalam lapangan minyak dan gas bumi yang didirikan\nberdasarkan Undang-undang Nomor 19 Prp Tahun 1960 (Lembaran Negara Tahun\n1960 Nomor 59) sebagai dimaksud dalam Pasal 20 ayat (1) sub c dan Pasal 23 ayat (1)\nsub a.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "fee4423d-3eb9-4172-81ac-d4ac66b6ef7c",
+            "id": "51f99c92-14a3-4b0d-993f-7125572b28ab",
             "name": "Chapter II",
             "title": "\nANGGARAN DASAR\nKetentuan Umum",
             "type": "chapter",
             "children": [
                 {
-                    "id": "abf5efa3-1862-4b1d-8fd2-672e93491d6a",
+                    "id": "e8c6b7d2-bc97-4841-80de-355ab0195b90",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "5d5a3ab3-3f6b-4dd2-9619-82949d0fcb76",
+                        "id": "fcb06ed8-9fde-4d94-b443-c4da2e8b1550",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -41,11 +41,11 @@
                     }
                 },
                 {
-                    "id": "64ecb567-40b8-4c1f-b597-4d612652e4a0",
+                    "id": "573654f9-ada0-4eb2-8699-72d0de41f390",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "9f01f542-2da2-458c-bbd3-bb215add16e1",
+                        "id": "4ea0356d-40e5-4cc0-83f8-159c108039c4",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -54,38 +54,38 @@
                     }
                 },
                 {
-                    "id": "ebbb35b7-b0c8-4510-bd1a-8946849c65aa",
+                    "id": "87f36a1d-a8cf-4c24-8d61-244361cc0f9e",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "a3887943-5a73-4f86-a6c9-abcb1d666165",
+                            "id": "5781c2dd-06a5-4106-8498-d399020acc8c",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Tugas BPU adalah untuk mengadakan kerjasama dan kesatuan tindakan dalam\nmengurus perusahaan Negara dimaksud dalam pasal 1.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "13cf7ba3-b72a-41b7-96e6-fcf52e13e98b",
+                            "id": "18134cf9-1191-4f91-ba5e-a57e1ce244b7",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Menteri akan menyesuaikan Anggaran Dasar Perusahaan-perusahaan minyak\ndan gas bumi yang akan ditunjuk kemudian seperti yang dimaksud dalam ayat (1)\nPasal ini, sepanjang perusahaan-perusahaan itu belum dibentuk berdasarkan\nUndang- undang Nomor 19 Prp Tahun 1960 (Lembaran Negara Tahun 1960\nNomor 59).",
+                            "content": " Menteri akan menyesuaikan Anggaran Dasar Perusahaan-perusahaan minyak\ndan gas bumi yang akan ditunjuk kemudian seperti yang dimaksud dalam ayat (1)\nPasal ini, sepanjang perusahaan-perusahaan itu belum dibentuk berdasarkan\nUndang-undang Nomor 19 Prp Tahun 1960 (Lembaran Negara Tahun 1960\nNomor 59).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5732311d-a221-4948-9e3c-5659c627cd6c",
+                            "id": "8be0e2b6-ac3e-4b16-9031-7b082f8cebfc",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Keputusan-keputusan yang diambil oleh BPU dalam rangka kerjasama dan\nkesatuan tindakan sebagaimana dimaksud oleh ayat (1) di atas mengikat\nperusahaan-perusahaan yang bersangkutan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "236afc58-5810-454a-b996-06c1e236e0ce",
+                            "id": "f13b6bd3-38fc-4e4a-bd9a-24c83ef4755e",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Yang dimaksud dengan kerjasama dan kesatuan tindakan adalah pelaksanaan\nkebijaksanaan pimpinan secara umum, kecuali mengenai bidang eksplorasi dan\nproduksi,\nAnggota",
                             "explanation": "Tidak ada Penjelasan"
@@ -93,30 +93,30 @@
                     ]
                 },
                 {
-                    "id": "a5585b3a-a700-442f-a75d-c065ee2826c6",
+                    "id": "99a54383-f7ce-4f96-bbe2-19b9cd68cbaf",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "7959cdf5-52b1-4578-bf9b-2fbeb5393a5e",
+                            "id": "2e704f90-7278-47a1-a3ac-9a1edca7207b",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " BPU terdiri dari 5 (lima) orang anggota.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "166f409a-6d41-4960-be4e-e716b0952b80",
+                            "id": "2c266063-ac97-4ee2-95a1-e001be0e2b68",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Salah seorang anggota diangkat sebagai Ketua BPU.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1693c949-f52d-4a31-84b6-dfc64b54fa44",
+                            "id": "8db791b3-7ba4-4902-bfd0-77bbef50617d",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Gaji dan penghasilan lain dari anggota itu ditetapkan oleh Menteri dengan\nmengingat peraturan-peraturan yang berlaku.",
                             "explanation": "Tidak ada Penjelasan"
@@ -124,11 +124,11 @@
                     ]
                 },
                 {
-                    "id": "993fbbac-6f38-4304-a328-a285c27e9bc2",
+                    "id": "e73c4987-8f26-4a5d-b259-da42a3214c5c",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "a57a0bc8-8604-4174-b55f-00d628adbc93",
+                        "id": "37bd2229-d533-47d8-9db3-c8b2c9fb7f5a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -137,192 +137,184 @@
                     }
                 },
                 {
-                    "id": "dc848b4f-4265-4565-9e4b-fc82da2b78df",
+                    "id": "91cc4098-ba44-41cb-b6d2-8c4c96b8da7d",
                     "name": "Article 7",
                     "type": "article",
                     "children": [
                         {
-                            "id": "08b8ba41-1364-431f-8be0-08844f133302",
+                            "id": "0023c38c-5acc-4811-a7d7-f32eac68b077",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Antara anggota BPU demikian juga antara anggota BPU dan anggota Direksi tidak boleh ada hubungan keluarga sampai derajat ketiga, baik menurut garis lurus, maupun menurut garis ke samping termasuk menantu dan ipar, kecuali jika diijinkan oleh Pemerintah. Jika setelah pengangkatan mereka masuk periparan yang terlarang itu, maka untuk dapat melanjutkan jabatannya diperlukan ijin Pemerintah.",
+                            "content": "  Antara anggota BPU demikian juga antara anggota BPU dan anggota Direksi tidak boleh ada hubungan keluarga sampai derajat ketiga, baik menurut garis lurus, maupun menurut garis ke samping termasuk menantu dan ipar, kecuali jika diijinkan oleh Pemerintah. Jika setelah pengangkatan mereka masuk periparan yang terlarang itu, maka untuk dapat melanjutkan jabatannya diperlukan ijin Pemerintah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7dcef293-3352-4171-8a60-d6a8543bb264",
+                            "id": "fb165291-f086-4ffc-adba-fd028e75b5e9",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Anggota BPU tidak boleh mempunyai kepentingan pribadi langsung atau tidak langsung pada perkumpulan/perusahaan lain yang berusaha dalam lapangan yang bertujuan mencari laba.",
+                            "content": "  Anggota BPU tidak boleh mempunyai kepentingan pribadi langsung atau tidak langsung pada perkumpulan/perusahaan lain yang berusaha dalam lapangan yang bertujuan mencari laba.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "a779ef0c-eda2-44b2-be57-c8a6b9973b1f",
+                    "id": "e5be95c2-6abf-4fbe-b629-982b90cc2daf",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0dcc77b5-19fc-41f6-bdb9-be0c683f2ee2",
+                            "id": "3ccf01c8-7bdf-4891-9faf-0c7cade29419",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Anggota BPU diangkat oleh Pemerintah atas usul Menteri untuk selama-lamanya 5 tahun. Setelah waktu itu berakhir anggota yang bersangkutan dapat diangkat kembali.",
+                            "content": "  Anggota BPU diangkat oleh Pemerintah atas usul Menteri untuk selama-lamanya 5 tahun. Setelah waktu itu berakhir anggota yang bersangkutan dapat diangkat kembali.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "bdd46593-35d9-45b7-a26c-90daf8da03ca",
+                            "id": "76f9a494-ec47-4aed-b8f7-c79cc10c6718",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Dalam hal-hal di bawah ini Pemerintah dapat memberhentikan anggota BPU meskipun waktu dalam ayat (1) belum berakhir:\na. atas permintaan sendiri;\nb. karena tindakan yang merugikan perusahaan negara yang diurusnya;\nc. karena tindakan atau sikap yang bertentangan dengan kepentingan Negara;\nd. karena meninggal dunia.\ne. karena kesehatannya terganggu buat menjalankan pekerjaannya;\nf. karena tidak cakap buat menjalankan pekerjaannya;",
+                            "content": "  Dalam hal-hal di bawah ini Pemerintah dapat memberhentikan anggota BPU meskipun waktu dalam ayat (1) belum berakhir:\na. atas permintaan sendiri;\nb. karena tindakan yang merugikan perusahaan negara yang diurusnya;\nc. karena tindakan atau sikap yang bertentangan dengan kepentingan Negara;\nd. karena meninggal dunia.\ne. karena kesehatannya terganggu buat menjalankan pekerjaannya;\nf. karena tidak cakap buat menjalankan pekerjaannya;\n(3)  Pemberhentian karena alasan tersebut dalam ayat (2) sub b dan sub c pasal ini, jika merupakan suatu pelanggaran dari peraturan hukum pidana, pemberhentian itu, adalah pemberhentian tidak dengan hormat.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f29b0e90-6ccd-4647-8b5c-ddd1b7dfa788",
-                            "name": "Verse 3",
-                            "number": "(3)",
-                            "type": "verse",
-                            "content": " Pemberhentian karena alasan tersebut dalam ayat (2) sub b dan sub c pasal ini, jika merupakan suatu pelanggaran dari peraturan hukum pidana, pemberhentian itu, adalah pemberhentian tidak dengan hormat.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "80b89b28-d8ce-47a7-81ba-bca93f51c814",
+                            "id": "240a5f1e-336a-4cf7-8d78-9231d2445815",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Sebelum pemberhentian karena alasan tersebut dalam ayat (2) sub b dan sub c dilakukan, anggota BPU yang bersangkutan diberi kesempatan untuk membela diri. hal mana harus dilaksanakan dalam waktu satu bulan setelah anggota BPU yang bersangkutan diberitahukan tentang niat akan pemberhentian itu oleh Menteri.",
+                            "content": "  Sebelum pemberhentian karena alasan tersebut dalam ayat (2) sub b dan sub c dilakukan, anggota BPU yang bersangkutan diberi kesempatan untuk membela diri. hal mana harus dilaksanakan dalam waktu satu bulan setelah anggota BPU yang bersangkutan diberitahukan tentang niat akan pemberhentian itu oleh Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "701111eb-bc54-4da9-842f-58de8c5c78fd",
+                            "id": "7313c336-18d0-47fe-b7b9-e5cca6ce6b01",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
-                            "content": " Selama persoalan tersebut dalam ayat (4) belum diputus, maka Menteri dapat memberhentikan untuk sementara waktu anggota BPU yang bersangkutan. Jika dalam waktu dua bulan setelah pemberhentian sementara dijatuhkan belum ada keputusan mengenai pemberhentian anggota berdasarkan ayat (3), maka pemberhentian sementara itu menjadi batal dan anggota BPU yang bersangkutan dapat segera menjalankan jabatannya lagi, kecuali bilamana untuk keputusan pemberhentian tersebut diperlukan keputusan pengadilan dan hal itu harus diberitahukan kepada yang bersangkutan.",
+                            "content": "  Selama persoalan tersebut dalam ayat (4) belum diputus, maka Menteri dapat memberhentikan untuk sementara waktu anggota BPU yang bersangkutan. Jika dalam waktu dua bulan setelah pemberhentian sementara dijatuhkan belum ada keputusan mengenai pemberhentian anggota berdasarkan ayat (3), maka pemberhentian sementara itu menjadi batal dan anggota BPU yang bersangkutan dapat segera menjalankan jabatannya lagi, kecuali bilamana untuk keputusan pemberhentian tersebut diperlukan keputusan pengadilan dan hal itu harus diberitahukan kepada yang bersangkutan.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "3c04e7b6-8fc2-407b-b714-a53badfc5372",
+                    "id": "f76ec848-e39b-41db-9631-7e356558284f",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "a7b51c81-1897-42e8-b799-69e79c03abb6",
+                        "id": "b45f1f4e-c069-42ab-853c-a032fe4f72b3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nTata tertib dan cara menjalankan pekerjaan BPU diatur dalam suatu Peraturan yang ditetapkan oleh BPU.",
+                        "content": "\nTata tertib dan cara menjalankan pekerjaan BPU diatur dalam suatu Peraturan yang ditetapkan oleh BPU.\nPembiayaan",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "847bed1e-cb6f-4395-832e-d41270efefb4",
+                    "id": "0148775e-66a0-46b1-86f1-7d33dff24ff4",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "aca02f38-ee9f-4308-aef1-f072377ea8f5",
+                        "id": "57f06897-f221-4e77-8eeb-a5229f11f665",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPembiayaan BPU ini dibebankan kepada perusahaan-perusahaan yang\nbersangkutan menurut ketentuan-ketentuan yang ditetapkan oleh BPU dengan\npersetujuan Menteri.",
+                        "content": "\nPembiayaan BPU ini dibebankan kepada perusahaan-perusahaan yang\nbersangkutan menurut ketentuan-ketentuan yang ditetapkan oleh BPU dengan\npersetujuan Menteri.\nTanggung jawab",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "03002087-2274-4c17-a5ef-99a30459dee1",
+                    "id": "964e5d56-2a0b-438d-b755-8d308b54034a",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ff6b8339-5e8a-4a16-8e6f-c1d21815909d",
+                            "id": "2085e6e1-30ff-42ea-b335-d0c68bce611f",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " BPU wajib memberikan pendapatnya mengenai anggaran Perusahaan,\nperubahan anggaran Perusahaan, anggaran tambahan Perusahaan, laporan\nperhitungan hasil usaha berkala dan kegiatan perusahaan serta laporan\nperhitungan tahunan Perusahaan kepada Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f61cd1dd-9615-4b2f-8615-c0cf41976394",
+                            "id": "39c671d1-5f61-42b5-8958-0bc85bb965c7",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " BPU wajib memberikan laporan kepada-Menteri mengenai segala kegiatan dan\npekerjaan yang dilakukannya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "dd560bce-1aca-484a-b035-4abc585e8bd0",
+                            "id": "0527b236-2f37-4f4f-a81f-91eb6927f7c1",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Mengenai pelaksanaan tugasnya BPU bertanggung jawab kepada Menteri.",
+                            "content": " Mengenai pelaksanaan tugasnya BPU bertanggung jawab kepada Menteri.\nHubungan BPU dengan perusahaan dibawahnya",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "aaf7d368-832d-4e99-bbe0-a58b9b62acd6",
+                    "id": "981593a2-aada-4f03-a25f-76be1f8f66e3",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5a55ab01-997e-4304-9b78-966a533e6e76",
+                            "id": "6e2f4075-cd4c-441a-b5b1-b44f9a28b940",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dengan tidak mengurangi ketentuan dalam Pasal 12 dan Pasal 13 Undang-\nundang Nomor 19 Prp Tahun 1960 (Lembaran Negara Tahun 1960 Nomor 59),\nBPU menetapkan sifat hubungan, pembagian dan pekerjaan antara Perusahaan\nsatu sama lain dan antara Perusahaan dengan BPU.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f0ce3a74-a627-4995-b60c-0c400c90a5fe",
+                            "id": "9babbf92-eacd-4924-948d-6da0c20375bd",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Keputusan BPU dimaksud dalam ayat (1) mengikat Perusahaan yang\nbersangkutan.",
+                            "content": " Keputusan BPU dimaksud dalam ayat (1) mengikat Perusahaan yang\nbersangkutan.\nLaporan Perhitungan Hasil Usaha Berkala\ndan Kegiatan Perusahaan",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "80aafb98-e9bc-4f35-b723-6fd99c3c9694",
+                    "id": "36284b8e-79ef-4c0e-9ac6-717ac1332e72",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "31c5c2f4-6fa0-41ed-9f09-3637efe96031",
+                            "id": "2cc854cf-5856-4b3c-a553-a4b558447b27",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " BPU menetapkan cara dan waktu pengiriman laporan perhitungan hasil usaha\nberkala dan kegiatan Perusahaan serta laporan perhitungan tahunan\nPerusahaan kepada Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "82b1a4d3-5c7a-49ae-9ffb-467657aae086",
+                            "id": "dc420fb6-d2ec-42da-bc1e-8188a99a9f44",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Direksi wajib memberi segala keterangan dan bantuan yang diperlukan oleh\nanggota BPU dalam melaksanakan tugasnya dengan sebaik-baiknya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "c3f250c4-66c9-4f62-a9e6-14e27b127dfb",
+                            "id": "329ef721-c0d2-4c84-8370-ab8f7c71f480",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Untuk dapat melakukan tindakan dan tindakan hukum disebut di bawah ini,\nDireksi harus mendapat persetujuan tertulis lebih dahulu dari BPU:\na. mendirikan atau menutup kantor cabang dan kantor perwakilan di dalam\nnegeri;\nb. menguasai dan mengurus cadangan umum yang dimaksud dalam Pasal\n9 ayat (3) Peraturan Pemerintah tentang Pendirian Perusahaan",
+                            "content": " Untuk dapat melakukan tindakan dan tindakan hukum disebut di bawah ini,\nDireksi harus mendapat persetujuan tertulis lebih dahulu dari BPU:\na. mendirikan atau menutup kantor cabang dan kantor perwakilan di dalam\nnegeri;\nb. menguasai dan mengurus cadangan umum yang dimaksud dalam Pasal\n9 ayat (3) Peraturan Pemerintah tentang Pendirian Perusahaan\nPembubaran",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "b6c97a08-61f8-4a5f-8968-b103a1603b5b",
+                    "id": "8e120279-8170-4501-9600-fb093ba493d8",
                     "name": "Article 14",
                     "type": "article",
                     "children": {
-                        "id": "e3e2ece2-74ca-4ec4-b743-36e9e3c0c716",
+                        "id": "115ac947-5461-4dd9-b3ee-daf9be8b977c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -333,17 +325,17 @@
             ]
         },
         {
-            "id": "320cc0c5-8634-4dc2-ac21-dbdd1dfea587",
+            "id": "a0fed8fc-751e-41ff-a707-6bddd2c45798",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "95e6b359-5610-4e33-ac4e-9663453882c3",
+                    "id": "59d9b0b9-7acf-4845-9ea7-58cddc08e210",
                     "name": "Article 15",
                     "type": "article",
                     "children": {
-                        "id": "f6a32498-d44a-4b62-a980-90b52b618a0b",
+                        "id": "b1c1e62e-43ae-4703-bd0d-3332ac4e8e3d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -352,11 +344,11 @@
                     }
                 },
                 {
-                    "id": "60b125d0-7ab1-40c8-a3ba-0baa42f02b01",
+                    "id": "c8511b65-a551-439a-922a-3885449eca09",
                     "name": "Article 16",
                     "type": "article",
                     "children": {
-                        "id": "3d95cb0a-5aa0-47d8-acc9-82095a593da9",
+                        "id": "08c2ea01-54bd-4264-83ce-b3604811a028",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -373,16 +365,16 @@
         "Tentang": "PEMBENTUKAN BADAN PIMPINAN UMUM MINYAK DAN GAS BUMI",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa perlu segera melaksanakan Undang-undang Nomor 19 Prp Tahun 1960 (Lembaran Negara Tahun 1960 Nomor 59) terhadap perusahaan-perusahaan Negara yang berada dalam lingkungan Departemen Perindustrian Dasar/Pertambangan;",
-            "b": " bahwa berhubung dengan itu perlu didirikan suatu Badan Pimpinan Umum yang diserahi tugas mengadakan kerjasama dan kesatuan tindakan diantara Perusahaan-perusahaan Negara yang berusaha dalam lapangan minyak dan gas bumi."
+            "a": " bahwa perlu segera melaksanakan Undang-undang Nomor 19 Prp Tahun 1960\n(Lembaran Negara Tahun 1960 Nomor 59) terhadap perusahaan-perusahaan\nNegara yang berada dalam lingkungan Departemen Perindustrian\nDasar/Pertambangan;",
+            "b": " bahwa berhubung dengan itu perlu didirikan suatu Badan Pimpinan Umum yang\ndiserahi tugas mengadakan kerjasama dan kesatuan tindakan diantara\nPerusahaan-perusahaan Negara yang berusaha dalam lapangan minyak dan gas\nbumi."
         },
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat 2 Undang-Undang Dasar;",
-            "2": " Pasal 20 ayat (1) sub c dan Pasal 23 ayat (1) sub a Undang-undang Nomor 19 Prp Tahun 1960 (Lembaran Negara Tahun 1960 Nomor 59);",
-            "3": " Undang-undang Nomor 10 Prp Tahun 1960 (Lembaran Negara Tahun 1960 Nomor 31);\nMendengar\nMusyawarah Kabinet Kerja pada tanggal 6 Oktober 1960;"
+            "2": " Pasal 20 ayat (1) sub c dan Pasal 23 ayat (1) sub a Undang-undang Nomor 19\nPrp Tahun 1960 (Lembaran Negara Tahun 1960 Nomor 59);",
+            "3": " Undang-undang Nomor 10 Prp Tahun 1960 (Lembaran Negara Tahun 1960\nNomor 31);\nMendengar\nMusyawarah Kabinet Kerja pada tanggal 6 Oktober 1960;"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG JUDUL DI ATAS; PENDIRIAN BADAN PIMPINAN UMUM MINYAK DAN GAS BUMI.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG JUDUL DI ATAS; PENDIRIAN BADAN\nPIMPINAN UMUM MINYAK DAN GAS BUMI.",
         "tanggal sah": "1 Januari 1961"
     }
 }

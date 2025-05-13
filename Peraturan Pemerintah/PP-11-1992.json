@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "76a999a4-6a7c-4688-aa13-9b09c14329af",
+            "id": "c1d9b802-402b-4cba-ba23-3335698d3584",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "799b2ac7-33aa-4d1b-8ac9-471bb496051f",
+                    "id": "a140eb1e-eb1d-4bd5-b4c6-ec3391a492c2",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "413cb431-db1d-4e3c-bc60-a8427288eda8",
+                        "id": "b9840e2c-7159-48a3-abd8-9f817081036d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,22 +20,22 @@
                     }
                 },
                 {
-                    "id": "31beebb1-783b-4b0b-89e3-fcc18bee4e26",
+                    "id": "e1c36de0-b69e-40dd-a154-97b2fbb10004",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "548f3968-e814-4ae5-8612-ce92ebc31c73",
+                            "id": "6175b9d8-8fbb-48de-a039-6a395d6f1379",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penambahan penyertaan modal Negara sebagaimana dimaksud\ndalam Pasal 1 terdiri dari kapal-kapal motor sebagaimana\ntercantum dalam Lampiran Peraturan Pemerintah ini.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "cb422b6b-a9ea-4b68-8230-3f267bddf9c5",
+                            "id": "adbb1d0c-a400-4d90-8fa4-8b9c739ed042",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Nilai kekayaan Negara sebagaimana dimaksud dalam ayat (1)\nsebesar Rp. 17.471.215.940, 80 (tujuh belas milyar empat ratus\ntujuh puluh satu juta dua ratus lima belas ribu sembilan ratus\nempat puluh rupiah delapan puluh sen).",
                             "explanation": "Tidak ada Penjelasan"
@@ -45,17 +45,17 @@
             ]
         },
         {
-            "id": "1db66074-b64b-42a5-828e-54875c18c315",
+            "id": "01c80b3d-a8c3-4eae-ac34-6b57d36357dd",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "cef74ac0-0da8-4bc4-a35b-4c77d9bd6b27",
+                    "id": "aeab769d-11cc-447b-a037-c0eb30e189af",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "66117d8a-a078-4cc8-bde6-5409844cb4da",
+                        "id": "f96c7d64-6f37-4486-9fcb-3d78dadb692c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -66,17 +66,17 @@
             ]
         },
         {
-            "id": "a951debd-6616-44b6-8fe1-fd368b600dcc",
+            "id": "13f9139b-6763-4b95-908d-2ac99cc82256",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "1ec67867-188d-4895-a217-60c6495d0f03",
+                    "id": "ab1a3425-7d78-4b30-a2e6-91ceb7e38cab",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "1550134c-97a2-4bb7-82ef-85ce65119121",
+                        "id": "be65366c-195a-450a-88e7-26344f740c37",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -85,11 +85,11 @@
                     }
                 },
                 {
-                    "id": "eba81d80-98f6-4f6c-af50-0a4b98e0e599",
+                    "id": "a79bc5bd-9b61-497d-9ccb-471b37e1ee2d",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "7f98b7ea-178a-4e98-b341-21cee6663be0",
+                        "id": "b1bad932-a2a7-4a7b-8f36-a69aaa8f2f93",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",

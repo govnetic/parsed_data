@@ -1,0 +1,131 @@
+{
+    "results": [
+        {
+            "id": "efc23344-9aee-4c25-beb2-3a080f23c36d",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "a1509beb-4c87-44a4-9ce6-1124e95ba534",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "28740ef7-276a-473c-bcf8-0044427a6a12",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pada setiap Jalan Tol harus tersedia sarana\nkomunikasi, sarana deteksi pengamanan lain\nyang memungkinkan pertolongan dengan segera\nsampai ke tempat kejadian, serta upaya\npengamanan terhadap pelanggaran, kecelakaan,\ndan gangguan keamanan lainnya."
+                        },
+                        {
+                            "id": "ddfb4876-4453-4882-b577-5f33a4a820f5",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pada Jalan Tol antarkota harus tersedia tempat\nistirahat dan pelayanan untuk kepentingan\nPengguna Jalan Tol."
+                        },
+                        {
+                            "id": "c76b5336-bb98-4740-ad6d-cb826d5cb100",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Pada Jalan Tol perkotaan dapat disediakan\ntempat istirahat dan pelayanan untuk\nkepentingan Pengguna Jalan Tol."
+                        },
+                        {
+                            "id": "d1752b80-45c8-421c-9edf-0221b076dd88",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Tempat istirahat dan pelayanan sebagaimana\ndimaksud pada ayat (2), disediakan paling sedikit\n1 (satu) untuk setiap jarak 50 (lima puluh)\nkilometer pada setiap jurusan."
+                        },
+                        {
+                            "id": "5072105f-40aa-4036-b8a8-21e4fb8462ed",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Setiap tempat istirahat dan pelayanan dilarang\ndihubungkan dengan akses apapun dari luar\nJalan Tol, kecuali untuk tempat istirahat dan\npelayanan dengan pengembangan dapat diberikan\nakses terbatas ke luar Jalan Tol."
+                        },
+                        {
+                            "id": "e0ad8f30-fbb8-4d5f-a933-f02209fc4beb",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Tempat istirahat dan pelayanan dapat\ndikembangkan dengan menambah fasilitas\npenunjang lainnya berupa:\na. penambahan area promosi produk tertentu\ndan daerah serta promosi usaha mikro,\nusaha kecil, dan usaha menengah;\nb. penambahan area lokasi perpindahan untuk\norang dan barang/logistik; dan/atau\nc. pengembangan untuk destinasi wisata dan\nkawasan industri.\n2021, No.27"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "8f6947a4-3d3a-48ae-9b06-5d49ccdde0b1",
+                    "name": "Article 7A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "1cd9c711-4d29-48de-a11a-7aedab096f0a",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pengusahaan tempat istirahat dan pelayanan\ndilakukan dengan mengakomodasi usaha mikro,\nusaha kecil, dan usaha menengah melalui pola\nkemitraan."
+                        },
+                        {
+                            "id": "31212f6e-b099-4083-9ee0-cd7beba6e7f3",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Untuk mengakomodasi usaha mikro, usaha kecil,\ndan usaha menengah sebagaimana dimaksud\npada ayat (1), Badan Usaha harus\nmengalokasikan lahan paling sedikit 30% (tiga\npuluh persen) dari total luas lahan area komersial\nuntuk usaha mikro, usaha kecil, dan usaha\nmenengah, baik untuk Jalan Tol yang telah\nberoperasi maupun untuk Jalan Tol yang masih\ndalam tahap perencanaan dan konstruksi."
+                        },
+                        {
+                            "id": "27bcf22f-025d-45ee-aa1e-3ac6536d9220",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Pengusahaan tempat istirahat dan pelayanan\nsebagaimana dimaksud pada ayat (1) harus\nmemberikan kemudahan usaha dan keringanan\nbagi usaha mikro, usaha kecil, dan usaha\nmenengah."
+                        },
+                        {
+                            "id": "4680320f-2914-4e19-93fb-267dd604d567",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Setiap usaha mikro, usaha kecil, dan usaha\nmenengah sebagaimana dimaksud pada ayat (1)\nharus memiliki surat keterangan sebagai usaha\nmikro, usaha kecil, dan usaha menengah."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4727563e-d5f1-4b3d-b250-5e2a79fb1003",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "19a1764d-91b3-49ef-afad-b72960ac06cc",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "17",
+        "Tahun": "2021",
+        "Tentang": "PERUBAHAN KEEMPAT ATAS PERATURAN PEMERINTAH NOMOR 15\nTAHUN 2005 TENTANG JALAN TOL",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 104 dan\nPasal 185 huruf b Undang-Undang Nomor 11 Tahun 2020\ntentang Cipta Kerja, perlu menetapkan Peraturan\nPemerintah tentang Perubahan Keempat atas Peraturan\nPemerintah Nomor 15 Tahun 2005 tentang Jalan Tol;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 38 Tahun 2004 tentang Jalan\n(Lembaran Negara Republik Indonesia Tahun 2004\nNomor 132, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4444);",
+            "3": " Undang-Undang Nomor 11 Tahun 2020 tentang Cipta\nKerja (Lembaran Negara Republik Indonesia Tahun\n2020 Nomor 245, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 6573);",
+            "4": " Peraturan Pemerintah Nomor 15 Tahun 2005 tentang\nJalan Tol (Lembaran Negara Republik Indonesia Tahun"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN KEEMPAT ATAS PERATURAN PEMERINTAH NOMOR 15 TAHUN 2005 TENTANG JALAN TOL.",
+        "tanggal sah": "2 Februari 2021"
+    }
+}

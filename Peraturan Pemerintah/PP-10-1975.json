@@ -1,28 +1,28 @@
 {
     "results": [
         {
-            "id": "c79ac3cb-dcfc-4140-974e-add057b68a81",
+            "id": "43e73798-ccd4-4f61-b8ce-91cdeaa76094",
             "name": "Chapter I",
             "title": "\nPENGALIHAN BENTUK DAN PEMBUBARAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "a2239430-2bfd-4737-8129-a9ef7e0d1acf",
+                    "id": "f12d124e-1305-4955-a957-de79c25d6aa9",
                     "name": "Article 1",
                     "type": "article",
                     "children": [
                         {
-                            "id": "cc05cb99-124b-4b14-8bd4-ef2d8b2927ec",
+                            "id": "217a1ff5-b79d-4945-aedb-dd4ba2fbd4a5",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Perusahaan Umum Ban dan Karet Palembang yang didirikan dengan\nPeraturan Pemerintah Nomor 56 Tahun 1971 dialihkan bentuknya\nmenjadi Perusahaan Perseroan (PERSERO) sebagaimana\ndimaksudkan dalam Pasal 2 ayat (3) Undang-undang Nomor 9 Tahun\n1969.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d4c251aa-5389-4c7e-b290-90f2a6dca420",
+                            "id": "cf388fe6-6ce9-4eea-8372-04a0b12e638a",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pelaksanaan pengalihan bentuk tersebut pada ayat (1) dilakukan\nmelalui penggabungannya dengan Perusahaan Perseroan (PERSERO)\nP.T. Intirub.",
                             "explanation": "Tidak ada Penjelasan"
@@ -30,46 +30,38 @@
                     ]
                 },
                 {
-                    "id": "a89bbf78-f67c-4222-82a7-b5f37ab74b00",
+                    "id": "d43d06c2-99f3-459b-8dbb-992a853a3d00",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0eecae49-becb-45d7-bdd6-dd2c512e7ee1",
+                            "id": "c8ffdfb2-021a-40bc-ac67-bb4886635aad",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Perusahaan Umum Ban dan Karet Palembang dinyatakan bubar pada\nsaat pelaksanaan ketentuan tersebut pada Pasal 1 ayat (2), dengan\nketentuan bahwa segala hak dan kewajiban, kekayaan serta\nperlengkapan dari Perusahaan Umum Ban dan Karet Palembang yang\nada pada saat pengalihannya, beralih kepada Perusahaan Perseroan\n(PERSERO) P.T. Intirub.\n",
+                            "content": " Perusahaan Umum Ban dan Karet Palembang dinyatakan bubar pada\nsaat pelaksanaan ketentuan tersebut pada Pasal 1 ayat (2), dengan\nketentuan bahwa segala hak dan kewajiban, kekayaan serta\nperlengkapan dari Perusahaan Umum Ban dan Karet Palembang yang\nada pada saat pengalihannya, beralih kepada Perusahaan Perseroan\n(PERSERO) P.T. Intirub.\n\n(2) Sebagai likwidatur dalam pelaksanaan pembubaran Perusahaan\nUmum Ban dan Karet Palembang sebagaimana yang dimaksud dalam\nayat (1) ditunjuk suatu team/panitia yang susunan keanggotaannya\nterdiri dari 2 (dua) orang wakil dari Departemen Perindustrian,\nseorang selaku Ketua dan seorang selaku Anggota. seorang wakil\ndari Departemen Keuangan selaku Wakil Ketua; dan seorang wakil\ndari Perusahaan Umum Ban dan Karet Palembang selaku Sekretaris.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "868208c3-9d14-45a9-b53d-1755655b381b",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": " dilakukan oleh Menteri Perindustrian berdasarkan hasil\npemeriksaan Direktorat Jenderal Pengawasan Keuangan Negara,\nDepartemen Keuangan.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "e804e948-c913-41e7-8f46-868545a6275d",
+                            "id": "14e7b610-4dc7-4093-b6ad-10c0cd9f4112",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Pelaksanaan pembentukan, perincian tugas, masa kerja, pembiayaan\ndan hal-hal lainnya yang bersangkutan dengan pelaksanaan tugas\nteam/panitia tersebut pada ayat (2) diatur lebih lanjut oleh Menteri\nPerindustrian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0810b11c-4ddc-4df4-9181-024749926142",
+                            "id": "db86665a-8893-40ee-b95f-fde2ca747a53",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Pengesahan atas pertanggungjawaban likwidatur tersebut pada ayat",
+                            "content": " Pengesahan atas pertanggungjawaban likwidatur tersebut pada ayat\n(2) dilakukan oleh Menteri Perindustrian berdasarkan hasil\npemeriksaan Direktorat Jenderal Pengawasan Keuangan Negara,\nDepartemen Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "ff20c881-b487-47da-9ad5-e0b43c6b8238",
+                            "id": "8ba38931-33aa-4423-a748-f30c9aa9a1a2",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Hal-hal lain yang timbul dari dan yang berhubungan dengan\npembubaran Perusahaan Umum Ban dan Karet Palembang\nsehubungan dengan pengalihan bentuknya menjadi Perusahaan\nPerseroan (PERSERO) diatur lebih lanjut oleh Menteri Perindustrian\ndengan memperhatikan peraturan perundang-undangan yang berlaku.\n",
                             "explanation": "Tidak ada Penjelasan"
@@ -79,28 +71,28 @@
             ]
         },
         {
-            "id": "13c63050-71c7-440e-88ae-d9e29ee8106b",
+            "id": "f2695978-12d7-43f1-abfd-17dc9fe80d23",
             "name": "Chapter III",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e8a539ee-4a58-459e-932b-56636fadbd96",
+                    "id": "f39d79ec-7a7c-4bd0-800f-37c8f5d2e052",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f291886b-218e-4f6f-bd16-264e132fc61e",
+                            "id": "5a913ebd-81c0-49bf-ae5b-4d63745b665e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Kekayaan Negara yang tertanam sebagai modal dalam Perusahaan\nUmum Ban dan Karet Palembang sampai pada saat pembubarannya,\ndipergunakan sebagai penambahan penyertaan modal Negara dalam\nmodal saham Perusahaan Perseroan (PERSERO) P.T. Intirub.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7477078c-5a18-4d8c-b620-8e4f93114960",
+                            "id": "7794ff2b-8524-457a-8d7d-130b243fa272",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Nilai dari kekayaan Negara tersebut pada ayat (1) ditetapkan oleh\nMenteri Keuangan berdasarkan hasil perhitungan yang dilakukan\nbersama oleh Departemen Keuangan dan Departemen Perindustrian.",
                             "explanation": "Tidak ada Penjelasan"
@@ -108,58 +100,58 @@
                     ]
                 },
                 {
-                    "id": "f744d536-ebbd-4d37-92af-125931cefc8f",
+                    "id": "a80982c2-fe32-47a5-93c9-94da5445e951",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "23fd5ae0-fd59-4101-b259-00f55e114b38",
+                        "id": "7e1b6247-17a4-4d32-baef-a9779fd8c62c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDengan memperhatikan ketentuan dalam Pasal 5 Peraturan Pemerintah\nNomor 12 Tahun 1969, pelaksanaan hal-hal yang berhubungan dengan\nperubahan Anggaran Dasar Perusahaan Perseroan (PERSERO) Ρ.Τ.\nIntirub sebagai akibat dari penambahan penyertaan modal Negara tersebut\npada Pasal 3 Peraturan Pemerintah ini, dilakukan oleh Menteri Keuangan\natau dilimpahkannya kepada Menteri Perindustrian dengan disertai hak\nsubsititusi, segala sesuatunya sesuai dengan peraturan perundang-\nundangan yang berlaku.",
+                        "content": "\nDengan memperhatikan ketentuan dalam Pasal 5 Peraturan Pemerintah\nNomor 12 Tahun 1969, pelaksanaan hal-hal yang berhubungan dengan\nperubahan Anggaran Dasar Perusahaan Perseroan (PERSERO) P.T.\nIntirub sebagai akibat dari penambahan penyertaan modal Negara tersebut\npada Pasal 3 Peraturan Pemerintah ini, dilakukan oleh Menteri Keuangan\natau dilimpahkannya kepada Menteri Perindustrian dengan disertai hak\nsubsititusi, segala sesuatunya sesuai dengan peraturan perundang-\nundangan yang berlaku.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "cc3dabf9-7d08-4bfb-a6fe-8da4a71e04b1",
+            "id": "cac5cc5d-2148-4e38-8c95-876bee7d5acc",
             "name": "Chapter IV",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8e8fed06-3d08-4a88-95dd-05a764514385",
+                    "id": "d24da633-3bae-43f9-8ee8-1268cac0951a",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "7e0945e0-f31a-4bef-906f-bb3c0873d4df",
+                        "id": "1cb947e1-e831-4a38-8a02-5dc2406e14d7",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nTerhitung mulai saat penggabungannya dengan Perusahaan Perseroan (PERSERO) P.T. Intirub serta dibubarkannya Perusahaan Umum Ban dan Karet Palembang sebagaimana yang dimaksudkan dalam Pasal 1 ayat (2) jo. Pasal 2 ayat (1), Peraturan Pemerintah Nomor 56 Tahun 1971 dan semua peraturan pelaksanaannya dinyatakan tidak berlaku lagi.",
+                        "content": "\nTerhitung mulai saat penggabungannya dengan Perusahaan Perseroan\n(PERSERO) P.T. Intirub serta dibubarkannya Perusahaan Umum Ban dan\nKaret Palembang sebagaimana yang dimaksudkan dalam Pasal 1 ayat (2)\njo. Pasal 2 ayat (1), Peraturan Pemerintah Nomor 56 Tahun 1971 dan\nsemua peraturan pelaksanaannya dinyatakan tidak berlaku lagi.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "200a5400-7deb-4606-9ae7-5ad861bca6ca",
+                    "id": "ff1283ac-1b07-43b9-a6f0-14a61a5304c2",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "94282996-21b4-49d0-8b2d-e8e4de9c664d",
+                        "id": "ef23a58c-59a4-40c1-a32f-c1b7d458a973",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nHal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini akan diatur tersendiri.",
+                        "content": "\nHal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini akan\ndiatur tersendiri.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "a0a1fa6b-ae7a-4516-9637-c623400b8305",
+                    "id": "9be109ea-e8f3-4023-bd45-4292ec9c07df",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "e72fe83b-2bbe-4ca9-981a-bc0488054aee",
+                        "id": "185fd9e7-2b9a-4db9-8f7b-3e2b19e4f422",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -183,7 +175,7 @@
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Kitab Undang-Undang Hukum Dagang Stbl. 184723\nsebagaimana yang telah beberapa kali diubah dan ditambah;\nterakhir dengan Undang-undang Nomor 4 Tahun, 1971 tentang\nPerubahan dan Penambahan Atas Ketentuan Pasal 54 Kitab\nUndang-undang Hukum Dagang Stbl. 1847 23\nNegara Republik Indonesia Tahun 1971 Nomor 20; Tambahan\nLembaran Negara Republik Indonesia Nomor 2959);",
+            "2": " Kitab Undang-Undang Hukum Dagang Stbl. 1847 23\nsebagaimana yang telah beberapa kali diubah dan ditambah;\nterakhir dengan Undang-undang Nomor 4 Tahun, 1971 tentang\nPerubahan dan Penambahan Atas Ketentuan Pasal 54 Kitab\nUndang-undang Hukum Dagang Stbl. 1847 23 (Lembaran\nNegara Republik Indonesia Tahun 1971 Nomor 20; Tambahan\nLembaran Negara Republik Indonesia Nomor 2959);",
             "3": " Undang-undang Nomor 19 Prp. Tahun 1960 tentang Perusahaan\nNegara (Lembaran Negara Republik Indonesia Tahun 1960\nNomor 59; Tambahan Lembaran Negara Republik Indonesia\nNomor 1989);",
             "4": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan\nPeraturan Pemerintah Pengganti Undang-undang Nomor 1 Tahun\n1969 (Lembaran Negara Republik Indonesia Tahun 1969 Nomor\n16; Tambahan Lembaran Negara Republik Indonesia Nomor\n2890) tentang Bentuk-bentuk Usaha Negara menjadi Undang-\nundang (Lembaran Negara Republik Indonesia Tahun 1969\nNomor 40; Tambahan Lembaran Negara Republik Indonesia\nNomor 2904)",
             "5": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Republik Indonesia\nTahun 1969 Nomor 21; Tambahan Lembaran Negara Republik\nIndonesia Nomor 2894) jo. Peraturan Pemerintah Nomor 24\nTahun 1972 tentang Perubahan Atas Ketentuan Pasal 7 Peraturan\nPemerintah Nomor 12 Tahun 1969 (Lembaran Negara Republik\nIndonesia Tahun 1969 Nomor 21; Tambahan Lembaran Negara\nRepublik Indonesia Nomor 2894), tentang Perusahaan Perseroan\n(PERSERO) (Lembaran Negara Republik Indonesia Tahun 1972\nNomor 32; Tambahan Lembaran Negara Republik Indonesia\nNomor 2987)",

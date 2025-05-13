@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "51dba87c-9d4b-4625-8fa9-61f33ac5bb39",
+            "id": "f68dd696-5c98-44e6-8f7a-973c4c5fcc73",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "86050641-6087-4548-a0fb-c4deaf0d68e0",
+                    "id": "c91810ad-5db2-4c72-b0c5-6aad4d5e32e8",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "0dac39b3-0c7f-41b6-87f1-5962c8ce29c8",
+                        "id": "6090470f-86e5-4927-a21d-16e2d3e12970",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,22 +20,22 @@
                     }
                 },
                 {
-                    "id": "d3106c97-1159-4094-9f98-f1074171a58a",
+                    "id": "45bcf4f9-98f0-4cfd-9df5-2bf5ee269cb0",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "cd51bdcb-2549-4be7-aef5-5b9c0919b531",
+                            "id": "7797b7b9-adb6-4949-bb32-b8d0af1bba97",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penambahan penyertaan modal Negara Republik Indonesia\nsebagaimana dimaksud dalam Pasal 1 berupa tanah, gedung kantor,\nkendaraan bermotor dan inventaris yang pada saat ini digunakan\noleh Perusahaan Perseroan (PERSERO) PT Pos Indonesia, yang\nberasal dari dana Anggaran Pendapatan dan Belanja Negara\nDepartemen Pariwisata, Pos dan Telekomunikasi Tahun Anggaran\n1995/1996 dan Tahun Anggaran 1996/1997 periode 1 Januari 1996\nsampai dengan 31 Maret 1997.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "226842c1-c3b5-463a-b914-c5d7d5871d5b",
+                            "id": "7b6488c5-52d1-43c9-bb5d-8c3947f52c7f",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Nilai penambahan penyertaan modal Negara sebagaimana dimaksud\ndalam ayat (1) sebesar Rp 26.247.457.815,00 (dua puluh enam\nmiliar dua ratus empat puluh tujuh juta empat ratus lima puluh tujuh\nribu delapan ratus lima belas rupiah) dengan rincian sebagaimana\nterlampir pada Peraturan Pemerintah ini sebagai bagian yang tidak\nterpisahkan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -45,17 +45,17 @@
             ]
         },
         {
-            "id": "c33ba27e-fdbf-4a1b-abb3-8fe868c7b923",
+            "id": "e2b1b4b5-5726-494d-8be1-421240d5575a",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "7353625d-24cc-4723-9029-a10e6aac19eb",
+                    "id": "e81adc85-9624-4f4c-bf41-576717ce31dc",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "05c101b8-67f1-4557-ba17-b3253c1638b9",
+                        "id": "68b82fbf-217c-4896-990c-15cbe1c038f5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -66,17 +66,17 @@
             ]
         },
         {
-            "id": "42c4054c-947b-4aa0-9899-75340ca54174",
+            "id": "9aa7837f-0f25-416f-8b05-bdffefea553e",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "9622b679-b165-4095-bf00-0e694ac9bb31",
+                    "id": "7319e333-4c4a-4e2a-9e86-0975db83d5bc",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "ca5977c9-18b2-476a-9a80-924fe0315c98",
+                        "id": "1118352c-638e-4c3d-a4a2-c695d400d345",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -85,11 +85,11 @@
                     }
                 },
                 {
-                    "id": "1e452c3c-8f7c-4e09-a93b-c7d67c6587f5",
+                    "id": "3435d62f-b468-467e-b12a-1273084c5e34",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "4c0ba5bf-455e-4a32-a4e8-767fb72615a5",
+                        "id": "a481d144-eeba-46db-8068-08315b96a359",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -115,7 +115,10 @@
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
             "2": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang\nBentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969\nNomor 16, Tambahan Lembaran Negara Nomor 2890) menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor 40,\nTambahan Lembaran Negara Nomor 2904);",
             "3": " Undang-undang Nomor 6 Tahun 1984 tentang Pos (Lembaran\nNegara Tahun 1984 Nomor 28, Tambahan Lembaran Negara Nomor\n3276);",
-            "4": " Undang-undang Nomor 1 Tahun 1995 tentang Perseroan Terbatas\n(Lembaran Negara Tahun 1995 Nomor 13, Tambahan Lembaran\nNegara Nomor 3587);"
+            "4": " Undang-undang Nomor 1 Tahun 1995 tentang Perseroan Terbatas\n(Lembaran Negara Tahun 1995 Nomor 13, Tambahan Lembaran\nNegara Nomor 3587);",
+            "5": " Peraturan Pemerintah Nomor 5 Tahun 1995 tentang Pengalihan\nBentuk Perusahaan Umum (PERUM) Pos dan Giro Menjadi\nPerusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1995\nNomor 11);",
+            "6": " Peraturan Pemerintah Nomor 12 Tahun 1998 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1998 Nomor 15,\nTambahan Lembaran Negara Nomor 3731);",
+            "7": " Peraturan Pemerintah Nomor 50 Tahun 1998 tentang Pengalihan\nKedudukan, Tugas dan Kewenangan Menteri Keuangan Selaku\nPemegang Saham atau Rapat Umum Pemegang Saham (RUPS) pada\nPerusahaan Perseroan kepada Menteri Negara Pendayagunaan\nBadan Usaha Milik Negara (Lembaran Negara Tahun 1998 Nomor\n82, Tambahan Lembaran Negara Nomor 3758);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT POS INDONESIA.",
         "tanggal sah": "5 Januari 1999"

@@ -1,0 +1,390 @@
+{
+    "results": [
+        {
+            "id": "910cbe7e-b38d-4ac5-ab48-59d579f4b258",
+            "name": "Chapter I",
+            "title": ".\nPEMBENTUKAN.",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "94d1aea3-cbb1-468b-8f83-b655cfe67afd",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "2fe6d922-6534-44e7-82a6-3f8edf2b0062",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Dengan nama Badan Pimpinan Umum Tabungan dan Asuransi Pegawai Negeri, selanjutnya\ndisebut B.P.U. Tabungan dan Asuransi Pegawai Negeri, dibentuk suatu Badan Pimpinan\nUmum yang diserahi tugas mengawasi pekerjaan menguasai dan mengurus Perusahaan\nNegara yang berusaha dalam lapangan tabungan dan asuransi dilingkungan Pegawai Negeri,\nsebagai dimaksudkan dalam pasal 20 ayat (1) sub d Undang-undang No. 19 Prp tahun 1960\ntentang Perusahaan Negara.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "848ae809-4200-4eea-980d-7da2fc5d9a02",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Perusahaan Negara dimaksudkan pada ayat (1) adalah Perusahaan Negara Dana Tabungan\ndan Asuransi Pegawai Negeri yang didirikan dengan Peraturan Pemerintah No. 15 tahun\n1963.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "be1879ce-71a0-4735-b2cc-4d5efd33a45e",
+            "name": "Chapter II",
+            "title": ".\nANGGARAN DASAR.\nKetentuan Umum.",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "67d247e5-5de4-49be-9a1b-ea3b4ae9cbf2",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": {
+                        "id": "b0e31902-3b11-4ed2-98e9-4d39fb71accc",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam peraturan Pemerintah ini yang dimaksudkan dengan :\na. \"Pemerintah\" ialah Presiden Republik Indonesia,\nb. \"Menteri\" ialah Menteri Urusan Pendapatan, Pembiayaan dan Pengawasan;\nc. \"Perusahaan\" ialah perusahaan dimaksudkan dalam pasal 1 ayat (2).\nd. \"Direksi\" ialah direksi perusahaan dimaksud dalam pasal 1 ayat (2);\ne. B.P.U.\" ialah Badan Pimpinan Umum Tabungan dan Asuransi Pegawai Negeri.\nTempat kedudukan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "544cb4ae-0db2-4964-9aaf-97071c1908b8",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "69b2f5a5-dbdc-4d51-b3d2-3c7041da818d",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nB.P.U. berkedudukan di Jakarta.\nTugas dan kewajiban.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "bf169b66-6647-4012-aaf1-18d2709a8784",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "c29dc96a-8073-4cc4-8215-70ec39de9699",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nTugas B.P.U. ialah :\nA. mengawasi pekerjaan menguasai dan mengurus Perusahaan Negara dimaksudkan pasal 1\nayat (2). Yang dimaksud dengan pengawasan adalah :\na. penyesuaian segala kegiatan Perusahaan dengan politik Ekonomi Negara;\nb. memperhatikan perkembangan Perusahaan serta menjaga kepentingan peserta\ntabungan dan asuransi;\nc. khusus mengawasi pekerjaan Direksi agar supaya pim pinan perusahaan dijalankan\nsecara efektif dan efisien.\nB. menjalankan pekerjaan seperti dimaksudkan dalam pasal 12 ayat (3).\nKeanggotaan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "6fdc894f-aa28-4679-894c-7be46c7e729c",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "7f76e472-f37c-428c-af15-150fe67ee282",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " B.P.U. terdiri dari sekurang-kurangnya tiga dan sebanyak- banyaknya tujuh anggota\ndiantaranya wakil organisasi/gabungan organisasi Pegawai Negeri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "a4ee9dc3-b5bd-4f54-9df3-e0500be029f2",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Salah seorang anggota diangkat sebagai ketua B.P.U.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "1643a1b9-7fba-42f3-8868-aead03dc2833",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Gaji dan penghasilan lain para anggota B.P.U. ditetapkan oleh Menteri dengan mengingat\nketentuan yang ditetapkan dengan atau berdasarkan Undang-undang.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "ba4a8472-1b9f-4c77-955b-e8d3eae34bdc",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "4572bfc4-04f6-41b8-a37a-c11ad13badce",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nAnggota B.P.U. adalah warga negara Indonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "191e20b1-ce3a-4cb5-bcc2-5a34bde81474",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "7e632973-955e-41bc-8f40-1786b03b61c8",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Antara anggota B.P.U., demikian juga antara anggota B.P.U. dan anggota Direksi tidak\nboleh ada hubungan keluarga sampai derajat ketiga, baik menurut garis lurus, maupun\nmenurut garis kesamping, termasuk menantu dan ipar, kecuali jika diizinkan oleh\nPemerintah. Jika setelah pengangkatan mereka masuk periparan yang terlarang itu maka\nuntuk dapat melanjutkan jabatannya diperlukan izin Pemerintah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "39810ba9-971c-4c3c-99fa-c69b6bc9614b",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Anggota B.P.U. tidak boleh mempunyai kepentingan pribadi langsung atau tidak langsung\npada perkumpulan/perusahaan lain yang berusaha dalam lapangan yang bertujjuan mencari\nlaba.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "43287632-29b6-41c0-915b-e51a8bb35f24",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "5191c098-3f6a-4966-a629-a979e079efa3",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Anggota B.P.U. diangkat oleh Pemerintah atas usul Menteri untuk selama-lamanya 5 tahun.\nSetelah waktu itu berakhir anggota yang bersanngkutan dapat diangkat kembali.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "d7cc7931-7605-4f6d-a8de-a97f0916f506",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Dalam hal-hal tersebut dibawah ini Pemerintah dapat memberhentikan anggota B.P.U.\nmeskipun waktu tersebut pada ayat (1) belum berakhir :\na.atas permintaan sendiri;\nb.karena tindakan yang merugikan perusahaan;\nc.karena tindakan atau sikap yang bertentangan dengan kepentingan Negara;\nd.karena meninggal dunia.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "542b2762-183c-4c07-9b1c-424cd9bdeb3b",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Pemberhentian karena alasan tersebut pada ayat huruf b dan huruf c, jika merupakan suatu\npelanggaran dari peraturan hukum pidana, merupakan pemberhentian tidak dengan hormat.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "bed90521-2654-463c-8b5b-09bd56cb1522",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Sebelum pemberhentian karena alasan tersebut pada ayat (2) huruf b dan huruf c, dilakukan,\nanggota B.P.U. yang bersangkutan diberi kesempatan untuk membela diri, hal mana harus\ndilaksanakan dalam waktu satu bulan setelah anggota B.P.U. yang bersangkutan\ndiberitahukan tentang niat akan pemberhentian itu oleh Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "16cd88a7-1fca-4b95-a4f6-1ddc2eab1238",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": " Selama persoalan tersebut pada ayat (4) belum diputus, maka Menteri dapat\nmemberhentikan untuk sementara waktu anggota B.P.U. yang bersangkutan. Jika dalam\nwaktu dua bulan pemberhentian sementara dijatuhkan belum ada keputusan me ngenai\npemberhentian anggota B.P.U. berdasarkan ayat (3), maka pemberhentian sementara itu\nmenjadi batal dan anggota B.P.U. yang bersangkutan dapat segera menjalankan jabatannya\nlagi, kecuali bilamana untuk kepeutusan pemberhentian tersebut diperlukan keputusan\npengadilan, dalam hal mana hal itu harus diberitahukan kepada yang bersangkutan.\nTata Tertib",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "f775de86-9d22-496f-8e24-8fc9fefa0bea",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "0e9b3b00-0836-4632-ae81-2e0ec4c14680",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Tata-tertib dan cara menjalankan pekerjaan B.P.U. diatur dalam suatu peraturan yang\nditetapkan oleh B.P.U. B.P.U. mengangkat dan memberhentikan pegawai B.P.U. menurut\nperaturan kepegawaian yang disetujui oleh Menteri berdasarkan peraturan pokok\nkepegawaian yang ditetapkan oleh Pemerintah.\nTanggung-jawab.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "07b7c347-d846-4b2a-9794-6b068184fa85",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "80158a6d-8b94-49aa-a25b-820e47ef75ef",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " B.P.U. wajib memberikan pendapatnya mengenai anggaran Perusahaan, perobahan anggaran\n(2) Perusahaan, anggaran tam bahan Perusahaan, laporan perhitungan hasil usaha berkala dan kegiatan Perusahaan serta laporan perhitungan tahunan Perusahaan kepada Menteri.\nB.P.U. wajib memberikan laporan kepada Menteri mengenai segala kegiatan dan pekerjaan yang dilakukannya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "9e1b1cb3-4442-4007-bc22-c36b6043160f",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Mengenai pelaksanaan tugasnya B.P.U. bertanggung-jawab kepada Menteri.\nHubungan B.P.U. dengan P.N. Dana Tabungan dan Asuransi Pegawai Negeri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "9e844cd4-1379-44df-b732-4781bb103786",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ca482b45-7044-40e9-a93e-9c30be971d23",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Untuk kepentingan pelaksanaan tugas dimaksud dalam pasal 4 anggota B.P.U., baik bersama-sama maupun sendiri berhak :\na.meminta segala keterangan mengenai Perusahaan dan memeriksa buku dan surat Perusahaan;\nb.memasuki bangunan, halaman dan tempat lain yang dipergunakan oleh Perusahaan;\nc.menghadiri rapat Direksi.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "eabb1d44-991f-43f6-ad4a-e667f1ba67ce",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " B.P.U. berhak memberi pendapatnya, baik diminta maupun tidak oleh Direksi.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "e5a420f6-a659-43a1-b8e9-4d2dddb6451a",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " B.P.U. berhak mengajukan usul kepada Menteri mengenai pemberhentian anggota Direksi menurut pasal 8 Undang-undang No. 19 Prp tahun 1960 tentang Perusahaan Negara.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "5af22e71-0ff5-47c5-a016-9b1a7f392d98",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " B.P.U. berhak mengajukan saran kepada Menteri mengenai pengangkatan anggota Direksi.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "8d800e54-0e09-47b3-973d-da3215685916",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": " Untuk kepentingan pelaksanaan tugasnya B.P.U. berhak meenggunakan tenaga ahli atas biaya Perusahaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "1a1f368a-ddf9-43d1-9453-163cdfa3ceb6",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "bc3830f3-1df7-4579-bbbc-a0c2bb86de83",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " B.P.U. menetapkan cara dan waktu pengiriman laporan perhitungan hasil usaha berkala dan kegiatan Perusahaan serta laporan perhitungan tahunan Perusahaan kepada Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "fa223789-ebfa-469c-bb72-ae8490af9471",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Direksi wajib memberikan segala keterangan dan bantuan yang diperlukan oleh anggota B.P.U. dalam melaksanakan tugas-tugasnya dengan sebaik-baiknya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "a963d356-c0ff-4b90-824d-50d911ead0c9",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Direksi memberlukan persetujuan terlebih dahulu dari B.P.U. untuk tindakan-tindakan tersebut dibawah ini :\na.membeli, melepaskan atau memberatkan benda-benda tidak bergerak milik Perusahaan;\nb.kebijaksanaan investasi.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "d225e92d-5193-40a2-9a9a-71e3b0532455",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": {
+                        "id": "3b0c9549-4eb3-43ea-8165-da06739a8b04",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSegala biaya B.P.U. dibebankan pada Perusahaan.\nPembubaran.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "68de2416-80d1-4f41-98be-674d3d2ff74b",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": {
+                        "id": "dff07053-95b5-4c6c-9f19-bd91564962b4",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPembubaran B.P.U. dan segala akibatnya diatur dengan Per aturan Pemerintah.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "4b231206-c22b-4046-a284-3797df138ab3",
+            "name": "Chapter III",
+            "title": ".\nKETENTUAN PENUTUP.",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "92ab7fe7-db2c-4953-9e00-71b08ca06814",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": {
+                        "id": "c9fea9bb-c706-4da5-832e-70c2cea2eef6",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSoal-soal yang belum atau belum cukup diatur dalam Peraturan Pemerintah ini ditetapkan\noleh Menteri.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "d2f69407-5992-439d-980b-db6eb484e605",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": {
+                        "id": "c43627cb-8b3c-435b-baad-ef14e9d7d492",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada hari diundang kannya.\nAgar supaya setiap orang dapat mengetahuinya memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatan dalam Lembaran-Negara Republik Indonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "16",
+        "Tahun": "1963",
+        "Tentang": "PEMBENTUKAN BADAN PIMPINAN UMUM TABUNGAN DAN\nASURANSI PEGAWAI NEGERI",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa perlu segera melaksanakan Undang-undang No. 19 Prp tahun 1960 (Lembaran-\nNegara tahun 1960 No. 59) terhadap Perusahaan Negara yang ada dalam lingkungan\nDepartemen Urusan Pendapatan, Pembiayaan dan Pengawasan,",
+            "b": " bahwa berhubung dengan itu perlu didirikan suatu Badan Pimpinan Umum yang diserahi\ntugas mengawasi pekerjaan menguasai dan mengurus Perusahaan Negara yang berusaha\ndalam lapangan tabungan dan asuransi dilingkungan Pegawai Negeri;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat 2 Undang-undang Dasar;",
+            "2": " Pasal 20 (1) huruf d jo pasal 23 (1) huruf b Undang-undang No. 19 Prp tahun 1960 tentang\nPerusahaan Negara (Lembaran-Negara tahun 1960 No. 59)",
+            "3": " Pasal 12 Peraturan Pemerintah No. 15 tahun 1963 tentang pendirian P.N. Dana Tabungan\ndan Asuransi Pegawai Negeri;\nMendengar \nMusyawarah Kabinet Kerja pada tanggal 6 Maret 1963;"
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang Pembentukan Badan Pimpinan Umum Tabungan dan Asuransi\nPegawai Negeri.",
+        "tanggal sah": "17 April 1963"
+    }
+}

@@ -1,150 +1,225 @@
 {
     "results": [
         {
-            "id": "f8286435-c34a-4e84-a908-badd2f4a1d55",
+            "id": "5f889abe-2751-44c5-83b5-aff4418d6e7c",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e2476dc9-9004-45e1-95cc-ce1ad7192ca0",
+                    "id": "22de0329-2789-48d8-9b69-6ec4aebf1d82",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "161ca98b-8f3b-48ff-b31f-f983dce722b9",
+                        "id": "913228ac-792b-4707-a9a9-689d48398515",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam keputusan ini yang dimaksud dengan:\na.\tPemerintah Pusat, selanjutnya disebut Pemerintah adalah Perangkat Negara Kesatuan Republik Indonesia yang terdiri dari Presiden beserta para Menteri;\nb.\tDaerah Otonom selanjutnya disebut Daerah, adalah kesatuan masyarakat hukum yang mempunyai batas daerah tertentu berwenang mengatur dan mengurus kepentingan masyarakat setempat menurut prakarsa sendiri berdasarkan aspirasi masyarakat dalam ikatan Negara Kesatuan Republik Indonesia;\nc.\tPemerintah Daerah adalah Kepala Daerah beserta Perangkat Daerah Otonom yang lain sebagai Badan Eksekutif Daerah;\nd.\tDewan Perwakilan Rakyat Daerah selanjutnya disebut DPRD adalah Badan Legislatif Daerah yang meliputi DPRD Propinsi dan DPRD Kabupaten/Kota;\ne.\tPimpinan DPRD adalah Ketua dan Wakil-wakil Ketua DPRD Propinsi atau Kabupaten/Kota;\nf.\tKepala Daerah adalah Gubernur, Bupati, atau Walikota;\ng.\tWakil Kepala Daerah adalah Wakil Gubernur, Wakil Bupati, atau Wakil Walikota;\nh.\tAnggota DPRD adalah Anggota DPRD Propinsi atau Kabupaten/Kota.",
+                        "content": "\nDalam keputusan ini yang dimaksud dengan :\na.\nPemerintah Pusat, selanjutnya disebut Pemerintah adalah Perangkat Negara Kesatuan Republik\nIndonesia yang terdiri dari Presiden beserta para Menteri;\nb.\nDaerah Otonom selanjutnya disebut Daerah, adalah kesatuan masyarakat hukum yang\nmempunyai batas daerah tertentu berwenang mengatur dan mengurus kepentingan masyarakat\nsetempat menurut prakarsa sendiri berdasarkan aspirasi masyarakat dalam ikatan Negara\nKesatuan Republik Indonesia;\nC.\nPemerintah Daerah adalah Kepala Daerah beserta Perangkat Daerah Otonom yang lain sebagai\nBadan Eksekutif Daerah;\nd.\nDewan Perwakilan Rakyat Daerah selanjutnya disebut DPRD adalah Badan Legislatif Daerah yang\nmeliputi DPRD Propinsi dan DPRD Kabupaten/Kota;\ne.\nPimpinan DPRD adalah Ketua dan Wakil-wakil Ketua DPRD Propinsi atau Kabupaten/Kota;\nf.\nKepala Daerah adalah Gubernur, Bupati, atau Walikota;\ng.\nWakil Kepala Daerah adalah Wakil Gubernur, Wakil Bupati, atau Wakil Walikota;\nh.\nAnggota DPRD adalah Anggota DPRD Propinsi atau Kabupaten/Kota.",
                         "explanation": "\nCukup jelas"
                     }
                 }
             ]
         },
         {
-            "id": "d43fbbaf-2373-4125-8d54-6611226809ca",
+            "id": "0c24c9f7-b335-4f93-b828-84b895662204",
             "name": "Chapter II",
-            "title": "\nKEDUDUKAN, SUSUNAN, TUGAS WEWENANG, HAK DAN KEWAJIBAN DPRD\nBagian Pertama\nKedudukan dan Susunan\nPasal 2\nKedudukan, susunan, tugas, wewenang, hak dan kewajiban DPRD ditetapkan dalam peraturan tata tertib DPRD berdasarkan ketentuan peraturan perundang-undangan.\nPasal 3\n(1) DPRD sebagai Lembaga Perwakilan Rakyat di daerah adalah unsur Pemerintahan Daerah\nsebagai wahana untuk melaksanakan demokrasi berdasarkan Pancasila.\n(2) DPRD sebagai badan legislatif daerah berkedudukan sejajar dan menjadi mitra dari Pemerintah\nDaerah.\nPasal 4\n(1) Anggota DPRD sesuai dengan ketentuan Undang-undang terdiri atas Anggota Partai Politik hasil\nPemilu dan Anggota TNI/Polri yang diangkat.\n(2) Keanggotaan DPRD dan jumlah anggota DPRD ditetapkan sesuai dengan peraturan\nperundang-undangan.\n(3) DPRD membentuk Fraksi-fraksi yang bukan merupakan alat kelengkapan DPRD.",
+            "title": "\nKEDUDUKAN, SUSUNAN, TUGAS\nWEWENANG, HAK DAN KEWAJIBAN DPRD",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e2589218-9a46-4cce-8cee-87af2f626982",
+                    "id": "911350ee-c4b5-48fb-8952-c26ee15a1fab",
+                    "name": "Section First",
+                    "title": "\nKedudukan dan Susunan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "0d5bf415-b655-4f9c-be17-dea814c55e95",
+                            "name": "Article 2",
+                            "type": "article",
+                            "children": {
+                                "id": "40b42b1b-b44f-487d-bed6-31e32c49eae7",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nKedudukan, susunan, tugas, wewenang, hak dan kewajiban DPRD ditetapkan dalam peraturan tata tertib\nDPRD berdasarkan ketentuan peraturan perundang-undangan.",
+                                "explanation": "\nCukup jelas\n"
+                            }
+                        },
+                        {
+                            "id": "4090af3d-94ab-4abe-ac9a-467d8bff9cb1",
+                            "name": "Article 3",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "7b3aa40d-e190-4118-bfb8-d8bbea2c0c1b",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " DPRD sebagai Lembaga Perwakilan Rakyat di daerah adalah unsur Pemerintahan Daerah\nsebagai wahana untuk melaksanakan demokrasi berdasarkan Pancasila.",
+                                    "explanation": "\nAyat 1\nSebagai unsur pemerintahan daerah, dalam melaksanakan tugas dan fungsinya DPRD berpegang kepada prinsip-prinsip otonomi daerah dalam kerangka Negara Kesatuan Republik Indonesia.\nAyat 2\nYang dimaksud dengan sejajar dan menjadi mitra dalam ayat ini adalah bahwa DPRD dan Pemerintah Daerah memiliki tanggung jawab yang sama dalam mewujudkan Pemerintahan Daerah yang efisien, efektif, dan transparan dalam rangka memberikan pelayanan sebaik-baiknya kepada masyarakat demi terjaminnya produktivitas dan kesejahteraan masyarakat di daerah."
+                                },
+                                {
+                                    "id": "51a5edd5-116d-4bb6-93a4-d00ef78beff4",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " DPRD sebagai badan legislatif daerah berkedudukan sejajar dan menjadi mitra dari Pemerintah Daerah.",
+                                    "explanation": "\nAyat 1\nSebagai unsur pemerintahan daerah, dalam melaksanakan tugas dan fungsinya DPRD berpegang kepada prinsip-prinsip otonomi daerah dalam kerangka Negara Kesatuan Republik Indonesia.\nAyat 2\nYang dimaksud dengan sejajar dan menjadi mitra dalam ayat ini adalah bahwa DPRD dan Pemerintah Daerah memiliki tanggung jawab yang sama dalam mewujudkan Pemerintahan Daerah yang efisien, efektif, dan transparan dalam rangka memberikan pelayanan sebaik-baiknya kepada masyarakat demi terjaminnya produktivitas dan kesejahteraan masyarakat di daerah."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "56f2c8cd-dbec-4f83-875f-62a3c1fd048f",
+                            "name": "Article 4",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "3eb59396-3144-4bf2-a0a0-38db49d445a5",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Anggota DPRD sesuai dengan ketentuan Undang-undang terdiri atas Anggota Partai Politik hasil Pemilu dan Anggota TNI/Polri yang diangkat.",
+                                    "explanation": "\nKeanggotaan DPRD menjadi resmi apabila telah dilaksanakan pengambilan sumpah/janji setelah ditetapkan Surat Keputusan Pengesahan Peresmian Keanggotaan dari Menteri Dalam Negeri dan Otonomi Daerah untuk keanggotaan DPRD Propinsi atau Surat Keputusan Pengesahan Peresmian Keanggotaan dari Gubernur untuk keanggotaan DPRD Kabupaten/Kota."
+                                },
+                                {
+                                    "id": "da84da2f-8b0b-47cc-a405-2b607341e8e9",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Keanggotaan DPRD dan jumlah anggota DPRD ditetapkan sesuai dengan peraturan perundang-undangan.",
+                                    "explanation": "\nKeanggotaan DPRD menjadi resmi apabila telah dilaksanakan pengambilan sumpah/janji setelah ditetapkan Surat Keputusan Pengesahan Peresmian Keanggotaan dari Menteri Dalam Negeri dan Otonomi Daerah untuk keanggotaan DPRD Propinsi atau Surat Keputusan Pengesahan Peresmian Keanggotaan dari Gubernur untuk keanggotaan DPRD Kabupaten/Kota."
+                                },
+                                {
+                                    "id": "09976029-17f2-4473-9530-4a23161ceebd",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " DPRD membentuk Fraksi-fraksi yang bukan merupakan alat kelengkapan DPRD.",
+                                    "explanation": "\nKeanggotaan DPRD menjadi resmi apabila telah dilaksanakan pengambilan sumpah/janji setelah ditetapkan Surat Keputusan Pengesahan Peresmian Keanggotaan dari Menteri Dalam Negeri dan Otonomi Daerah untuk keanggotaan DPRD Propinsi atau Surat Keputusan Pengesahan Peresmian Keanggotaan dari Gubernur untuk keanggotaan DPRD Kabupaten/Kota."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "b8576890-2ff6-4beb-a1a0-a6998315daf7",
                     "name": "Section Second",
                     "title": "\nPelaksanaan Tugas dan Wewenang",
                     "type": "section",
                     "children": [
                         {
-                            "id": "97a1e4d4-85df-46f8-9f25-9a68fa71e89f",
+                            "id": "92fcdae5-9dc3-4501-a51b-17196ece422c",
                             "name": "Paragraph 1",
                             "title": "\nPemilihan Kepala Daerah dan Wakil Kepala Daerah",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "bca36853-6a32-4ecf-89bc-efb384f00b65",
+                                    "id": "2bec5f11-2575-4eb9-b24e-e714e74bc833",
                                     "name": "Article 5",
                                     "type": "article",
                                     "children": {
-                                        "id": "b8c8005c-f789-44fe-9b5c-bbac1ca995ec",
+                                        "id": "7e832884-e5de-4747-bc91-5f1e6ec650b0",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
-                                        "content": "\nTata cara pemilihan Kepala Daerah dan Wakil Kepala Daerah dilaksanakan sesuai dengan peraturan\nperundang-undangan.",
+                                        "content": "\nTata cara pemilihan Kepala Daerah dan Wakil Kepala Daerah dilaksanakan sesuai dengan peraturan perundang-undangan.",
                                         "explanation": "\nCukup jelas"
                                     }
                                 }
                             ]
                         },
                         {
-                            "id": "9172da6c-d35e-4871-aa87-d9ba83b989a9",
+                            "id": "ba204cc9-b774-4d95-8e89-1d1b516cb1ae",
                             "name": "Paragraph 2",
                             "title": "\nPemilihan Anggota MPR Utusan Daerah",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "251ab3d6-ebca-4392-9c13-3b5abde8ab3b",
+                                    "id": "823086fc-52ff-48d8-b10d-0f43479dc7ed",
                                     "name": "Article 6",
                                     "type": "article",
                                     "children": {
-                                        "id": "6475387c-04b1-4cbe-97b4-bafe6bc6949d",
+                                        "id": "f21994a1-a42a-46ed-833b-31de186d01e5",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
-                                        "content": "\nDPRD Propinsi memilih Anggota MPR Utusan Daerah yang berasal dari Tokoh Masyarakat yang\nmemenuhi persyaratan sebagaimana dimaksud dalam Pasal 3 ayat (1) Undang-undang Nomor 4 Tahun\n1999.",
+                                        "content": "\nDPRD Propinsi memilih Anggota MPR Utusan Daerah yang berasal dari Tokoh Masyarakat yang memenuhi persyaratan sebagaimana dimaksud dalam Pasal 3 ayat (1) Undang-undang Nomor 4 Tahun 1999.",
                                         "explanation": "\nCukup jelas"
                                     }
                                 },
                                 {
-                                    "id": "175741ff-913d-42e4-a562-f8585d8588a0",
+                                    "id": "4ca92362-75da-4836-a38c-605cdeb8cc92",
                                     "name": "Article 7",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "5c9765c4-5ceb-41db-a070-92ba099af8d5",
+                                            "id": "d084d6a1-5725-4b33-a349-0b68963f6e48",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Penetapan Anggota MPR Utusan Daerah sebagaimana pelaksanaan Pasal 2 ayat (2) Undang-undang Nomor 4 Tahun 1999, dilakukan melalui rapat DPRD yang dihadiri oleh sekurang-kurangnya 2/3 (dua pertiga) dari jumlah Anggota DPRD unsur-unsur fraksi.",
+                                            "content": " Penetapan Anggota MPR Utusan Daerah sebagaimana pelaksanaan Pasal 2 ayat (2)\nUndang-undang Nomor 4 Tahun 1999, dilakukan melalui rapat DPRD yang dihadiri oleh\nsekurang-kurangnya 2/3 (dua pertiga) dari jumlah Anggota DPRD unsur-unsur fraksi.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "3d147efe-92ad-4d74-a5fe-43e95cfa0df4",
+                                            "id": "e710f114-f5f2-4002-b2aa-d1734d8765b4",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Apabila pada pembukaan rapat DPRD sebagaimana dimaksud pada ayat (1) jumlah Anggota DPRD belum mencapai quorum, Rapat ditunda paling lama satu jam.",
+                                            "content": " Apabila pada pembukaan rapat DPRD sebagaimana dimaksud pada ayat (1) jumlah Anggota\nDPRD belum mencapai quorum, Rapat ditunda paling lama satu jam.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "0ed0cd52-d46f-46eb-8981-28ddcadc0f28",
+                                            "id": "16ff6113-3b07-48e3-a159-7273179f4ddc",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Apabila ketentuan sebagaimana dimaksud pada ayat (2) belum dicapai, rapat diundur paling lama satu jam lagi.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "e3dc7b4d-9312-4f64-adda-4ffe827dcfb4",
+                                            "id": "a468e2fa-082a-4d99-a109-74e08d100e23",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
-                                            "content": " Apabila ketentuan sebagaimana dimaksud pada ayat (3) belum dipenuhi tetapi telah dihadiri lebih dari 1 (satu) fraksi, pemilihan Anggota MPR Utusan Daerah tetap dilaksanakan.",
+                                            "content": " Apabila ketentuan sebagaimana dimaksud pada ayat (3) belum dipenuhi tetapi telah dihadiri lebih\ndari 1 (satu) fraksi, pemilihan Anggota MPR Utusan Daerah tetap dilaksanakan.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "36754be7-5b22-4330-bc1e-a4bda1b1be63",
+                                            "id": "3cc7f5be-1083-429f-9b23-a7fab5a65ace",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
-                                            "content": " Apabila ketentuan sebagaimana dimaksud pada ayat (4) tidak terpenuhi, rapat ditunda pada rapat berikutnya selambat-lambatnya 2 X 24 jam, sampai terpenuhinya ketentuan sebagaimana dimaksud pada ayat (4).",
+                                            "content": " Apabila ketentuan sebagaimana dimaksud pada ayat (4) tidak terpenuhi, rapat ditunda pada rapat\nberikutnya selambat-lambatnya 2 X 24 jam, sampai terpenuhinya ketentuan sebagaimana\ndimaksud pada ayat (4).",
                                             "explanation": "\nCukup jelas"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "d87aeece-4975-40a7-a147-9271dace3562",
+                                    "id": "594bd092-9f4d-48a5-9a04-484009c5bc61",
                                     "name": "Article 8",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "f2600270-2749-4514-bf0f-d3858918278e",
+                                            "id": "7c1ee8c3-c4f8-4bc3-968e-47bbf797ba42",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Calon anggota MPR Utusan Daerah diusulkan oleh masing-masing fraksi, paling banyak 5 (lima) orang dari setiap fraksi.",
+                                            "content": " Calon anggota MPR Utusan Daerah diusulkan oleh masing-masing fraksi, paling banyak 5 (lima)\norang dari setiap fraksi.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "eb25b64b-ba5f-4db4-961f-750267750832",
+                                            "id": "d28f600f-538b-41ea-9d01-88ad17e5eb3f",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Calon Anggota MPR Utusan Daerah ditetapkan dengan Keputusan Pimpinan DPRD Propinsi paling sedikit 10 (sepuluh) orang.",
+                                            "content": " Calon Anggota MPR Utusan Daerah ditetapkan dengan Keputusan Pimpinan DPRD Propinsi\npaling sedikit 10 (sepuluh) orang.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "0807bc7e-47f3-4704-a043-cebdee33088d",
+                                            "id": "860d7383-6d5a-4e59-b847-7766c977718e",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " DPRD memilih 5 (lima) orang dari calon anggota MPR Utusan Daerah sebagaimana dimaksud pada ayat (2).",
                                             "explanation": "\nCukup jelas"
@@ -152,53 +227,53 @@
                                     ]
                                 },
                                 {
-                                    "id": "0965ef0e-9a2d-4edf-b791-154233f021e1",
+                                    "id": "72ebdbdc-2c5d-44e9-b88d-4171647b3a8e",
                                     "name": "Article 9",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "839a73b6-5c58-4465-80b1-8558cc13f5db",
+                                            "id": "c45456ae-9b50-44bb-9eab-ae75eb9ae9da",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Setiap Anggota DPRD dapat memilih paling banyak 5 (lima) Calon.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "542e63c8-4ab6-48dd-8085-9f54e0578210",
+                                            "id": "1de3df78-d9de-4f34-9b42-615b6b2c0d37",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Calon terpilih ditetapkan berdasarkan 5 (lima) urutan calon yang memperoleh suara terbanyak.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "5ec1c2f8-bfbe-452e-ba65-b70e27ceef7d",
+                                            "id": "7dbcdeda-d136-4942-a4bc-dff532edd06e",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
-                                            "content": " Apabila terdapat perolehan suara yang sama sehingga diperoleh lebih dari 5 (lima) calon, dilakukan pemilihan ulang terhadap calon yang memperoleh suara yang sama sampai terpenuhinya ketentuan sebagaimana dimaksud pada ayat (2).",
+                                            "content": " Apabila terdapat perolehan suara yang sama sehingga diperoleh lebih dari 5 (lima) calon,\ndilakukan pemilihan ulang terhadap calon yang memperoleh suara yang sama sampai\nterpenuhinya ketentuan sebagaimana dimaksud pada ayat (2).",
                                             "explanation": "\nCukup jelas"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "e926185b-d5e6-4c3d-81df-e603e24293cd",
+                                    "id": "b2241c02-3857-45e8-b746-5fe22d6a857a",
                                     "name": "Article 10",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "4bff8a9d-96c2-4dc2-b302-5959cfb86c1f",
+                                            "id": "a5a5c917-d491-472e-b6e8-6eaadaf2309a",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " DPRD Propinsi menyampaikan Calon Anggota MPR Utusan Daerah kepada Komisi Pemilihan Umum.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "0b95b935-0ca1-486d-9fb4-2d02ae3db3ac",
+                                            "id": "bdd9614b-85c8-471d-abd3-65d3ea7edf47",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Komisi Pemilihan Umum menyampaikan Calon Anggota MPR Utusan Daerah kepada Presiden sebagai Kepala Negara untuk diresmikan.",
                                             "explanation": "\nCukup jelas"
@@ -208,17 +283,17 @@
                             ]
                         },
                         {
-                            "id": "60b88899-0528-4fb2-b8b9-c6d28eb682e4",
+                            "id": "8394ce42-2e9e-49f3-8777-50bcdb3aadcd",
                             "name": "Paragraph 3",
                             "title": "\nUsul Pengesahan, Pemberhentian\nKepala Daerah dan Wakil Kepala Daerah",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "5e767feb-3352-48cc-b778-9e6fead63937",
+                                    "id": "e51f2338-407d-4a33-82d8-b85e35521f50",
                                     "name": "Article 11",
                                     "type": "article",
                                     "children": {
-                                        "id": "38c31692-18fb-4d3c-850c-8a7611d84255",
+                                        "id": "69516175-8197-43b9-9a54-590666aa6991",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -231,23 +306,23 @@
                     ]
                 },
                 {
-                    "id": "bb6462b7-7fb9-48a3-9af4-0fab07dbd81f",
+                    "id": "8176804d-beaa-4f86-9d60-9099b68ec869",
                     "name": "Section Third",
-                    "title": "\nHak-hak DPRD\nPasal 12\nUntuk melaksanakan tugas dan wewenang sebagaimana dimaksud dalam Pasal 2 DPRD mempunyai hak :\na. meminta pertanggungjawaban Gubernur, Bupati dan Walikota;\nb. meminta keterangan kepada Pemerintah Daerah;\nc. mengadakan penyelidikan;\nd. mengadakan perubahan atas Rancangan Peraturan Daerah;\ne. mengajukan pernyataan pendapat;\nf. mengajukan Rancangan Peraturan Daerah;\ng. menentukan Anggaran Belanja DPRD sebagai kesatuan dalam ABPBD; dan\nh. menetapkan Peraturan Tata Tertib DPRD.",
+                    "title": "\nHak-hak DPRD\nPasal 12\nUntuk melaksanakan tugas dan wewenang sebagaimana dimaksud dalam Pasal 2 DPRD mempunyai hak:\na. meminta pertanggungjawaban Gubernur, Bupati dan Walikota;\nb meminta keterangan kepada Pemerintah Daerah;\nc. mengadakan penyelidikan;\nd. mengadakan perubahan atas Rancangan Peraturan Daerah;\ne. mengajukan pernyataan pendapat;\nf. mengajukan Rancangan Peraturan Daerah;\ng. menentukan Anggaran Belanja DPRD sebagai kesatuan dalam ABPBD; dan\nh. menetapkan Peraturan Tata Tertib DPRD.",
                     "type": "section",
                     "children": [
                         {
-                            "id": "9e508265-0738-4a5c-aa7f-dc9684979992",
+                            "id": "15713682-f817-413f-860c-c9d5a4b80957",
                             "name": "Paragraph 1",
                             "title": "\nHak Meminta Pertanggungjawaban Gubernur,\nBupati dan Walikota",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "3d727444-f7b7-4bc4-ace4-ffda36b52fa9",
+                                    "id": "001f5a29-2a4c-4ad9-bdc3-5ed75ff748bf",
                                     "name": "Article 13",
                                     "type": "article",
                                     "children": {
-                                        "id": "d8b9b869-37f2-4938-87e9-0c2a50be9034",
+                                        "id": "ec7f1cc4-2f8a-405e-8f5c-6d4e05978a85",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -258,84 +333,76 @@
                             ]
                         },
                         {
-                            "id": "5dc947d9-da2c-4715-8a39-7e5ee27bda39",
+                            "id": "3d08b946-ae0b-442c-98fb-16d82435e329",
                             "name": "Paragraph 2",
                             "title": "\nHak Meminta Keterangan Kepada Pemerintah Daerah",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "af342d26-1249-4c52-b573-adc49826a084",
+                                    "id": "d9c79eab-ca76-429b-959d-06e852d54fd8",
                                     "name": "Article 14",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "6c2f6d70-3c96-4d68-ad4d-6a4b9736c748",
+                                            "id": "72561f60-46ae-462e-90d1-15e70e9783c8",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Paling sedikit 5 (lima) orang Anggota DPRD dapat mengajukan usul kepada DPRD untuk meminta\nketerangan kepada Pemerintah Daerah tentang sesuatu kebijakan pemerintah daerah secara lisan\nmaupun tertulis.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "261cdf39-cecf-4374-8530-d2a0754d1343",
+                                            "id": "e6b28fb5-e772-4eba-86e0-a34ee6a8d1b6",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Usul sebagaimana dimaksud pada ayat (1), disampaikan kepada Pimpinan DPRD, disusun secara\nsingkat, jelas, dan ditandatangani oleh para pengusul serta diberikan Nomor Pokok oleh\nSekretariat DPRD.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "2c678752-2991-4ff6-bef1-ad5e9aa0c8d0",
+                                            "id": "f8fc516e-f5d9-4230-8868-f022ad23f0eb",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
-                                            "content": " Usul meminta keterangan tersebut, oleh Pimpinan DPRD disampaikan pada Rapat Paripurna DPRD.",
+                                            "content": " Usul meminta keterangan tersebut, oleh Pimpinan DPRD disampaikan pada Rapat Paripurna\nDPRD.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "3f5d4885-38c4-4603-a7d2-2275b0e14408",
+                                            "id": "d05bd0d3-313b-47a9-9ce0-ee6ade8d0de2",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Dalam Rapat Paripurna sebagaimana dimaksud pada ayat (3), para pengusul diberi kesempatan\nmenyampaikan penjelasan lisan atas usul permintaan penjelasan tersebut.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "e162b1ea-c9c9-449b-8f2a-f08622fdb0bd",
+                                            "id": "dbef79b1-8484-486c-a8a3-c007e3a62246",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
                                             "content": " Pembicaraan mengenai sesuatu usul meminta keterangan dilakukan dengan memberi kesempatan\nkepada:\na. anggota DPRD lainnya untuk memberikan pandangan;\nb. para pengusul memberikan jawaban atas pandangan para Anggota DPRD.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "71c79db5-76f0-4b06-ab29-5db07415df15",
+                                            "id": "2d0ae64d-a047-482d-8a91-c7b20e03346e",
                                             "name": "Verse 6",
-                                            "number": "(6)",
+                                            "number": "6",
                                             "type": "verse",
                                             "content": " Keputusan persetujuan atau penolakan terhadap usul permintaan keterangan kepada Pemerintah\nDaerah ditetapkan dalam Rapat Paripurna.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "33924e0b-9093-4884-818c-e8884780aad0",
+                                            "id": "d960bd43-8a47-4130-91dd-af0b9e8cc9b9",
                                             "name": "Verse 7",
-                                            "number": "(7)",
+                                            "number": "7",
                                             "type": "verse",
-                                            "content": " Selama usul permintaan keterangan DPRD belum memperoleh keputusan, para pengusul berhak mengajukan perubahan atau menarik kembali usulannya.\n",
+                                            "content": " Selama usul permintaan keterangan DPRD belum memperoleh keputusan, para pengusul berhak mengajukan perubahan atau menarik kembali usulannya.\n\n(8) Apabila Rapat Paripurna menyetujui terhadap usul permintaan keterangan, Pimpinan DPRD segera membentuk Panitia Musyawarah.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "32fd85a3-0106-4377-ae68-996a8af132f1",
-                                            "name": "Verse 8",
-                                            "number": "(8)",
-                                            "type": "verse",
-                                            "content": " Apabila Rapat Paripurna menyetujui terhadap usul permintaan keterangan, Pimpinan DPRD segera membentuk Panitia Musyawarah.",
-                                            "explanation": "\nCukup jelas"
-                                        },
-                                        {
-                                            "id": "9113bae3-c00d-491a-8f7a-6c8b456d693a",
+                                            "id": "2f2c229e-4d26-4773-b123-f786fb8754a7",
                                             "name": "Verse 9",
-                                            "number": "(9)",
+                                            "number": "9",
                                             "type": "verse",
                                             "content": " Panitia Musyawarah melalui Pimpinan DPRD mengajukan permintaan keterangan kepada Pemerintah Daerah.",
                                             "explanation": "\nCukup jelas"
@@ -343,46 +410,46 @@
                                     ]
                                 },
                                 {
-                                    "id": "9df46b2e-8755-4fda-b50d-b6b7e27a6a6e",
+                                    "id": "8e37980e-d650-4053-8a5a-5a606ba806c7",
                                     "name": "Article 15",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "81f0f810-b770-47d6-a2fd-169c4e98fb85",
+                                            "id": "5e8ada92-b7c1-4df1-9d5f-27af680475a4",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Pemerintah Daerah wajib memberikan keterangan lisan maupun tertulis dalam Rapat Paripurna.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "61d4d88b-6776-4e63-b81d-ca9edfa1eaa9",
+                                            "id": "128be058-9720-42f1-8a99-bbf00b4614b3",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Setiap anggota DPRD dapat mengajukan pertanyaan atas keterangan Pemerintah Daerah sebagaimana dimaksud pada ayat (1).",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "40f1b8a7-03ab-499c-b4b4-04742f24496b",
+                                            "id": "2fd3f0fb-dc7c-4e90-8862-816258e619b5",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Atas jawaban Pemerintah Daerah sebagaimana dimaksud pada ayat (2), DPRD dapat menyatakan pendapatnya.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "3d56dbde-24ad-4ce5-8754-d958d8c43e78",
+                                            "id": "31d7a374-95c3-4a1e-8956-40bcf5e4d13f",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Pernyataan pendapat sebagaimana dimaksud pada ayat (3) disampaikan secara resmi oleh DPRD kepada Pemerintah Daerah.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "a0578029-aca5-4877-9a3d-15f94c933d52",
+                                            "id": "af4695c6-bf8a-4491-931c-a9ab60e0c9e8",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
                                             "content": " Pernyataan pendapat DPRD atas keterangan Pemerintah Daerah sebagaimana dimaksud pada ayat (4), dapat sebagai bahan bagi DPRD dalam rangka penilaian pertanggungjawaban Kepala Daerah.",
                                             "explanation": "\nCukup jelas"
@@ -392,17 +459,17 @@
                             ]
                         },
                         {
-                            "id": "e541b95a-9e98-451f-a565-ac96b262bb95",
+                            "id": "d860a21d-8dae-4905-be14-cbe06176725a",
                             "name": "Paragraph 3",
                             "title": "\nHak Mengadakan Penyelidikan",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "c88bf833-cf22-4384-a8b4-527c3525f06d",
+                                    "id": "80d7058f-6829-423c-94b4-9f355b98a864",
                                     "name": "Article 16",
                                     "type": "article",
                                     "children": {
-                                        "id": "5ab48939-688c-4856-a6a9-1ed3028e0247",
+                                        "id": "31dadf24-5ce0-470d-90db-fdff4864a7e1",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -413,109 +480,109 @@
                             ]
                         },
                         {
-                            "id": "904e3799-65f9-4dfc-b50d-ee4923e74f8e",
+                            "id": "e1d0379f-63c8-4c48-ac8c-eff24611a4df",
                             "name": "Paragraph 4",
                             "title": "\nHak Mengadakan Perubahan Rancangan Peraturan Daerah",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "3dc6c95a-5bdc-4a43-96b4-ea3a24f95797",
+                                    "id": "30f74872-7d82-4188-9e97-59f2dd060fd4",
                                     "name": "Article 17",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "f8fd1610-0540-4bd3-84ec-35cf99bb74d9",
+                                            "id": "571d68bd-0897-479d-97ea-a7267df16382",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " DPRD dapat mengajukan usul perubahan atas Rancangan Peraturan Daerah yang diajukan Kepala Daerah.",
-                                            "explanation": "\nPembahasan Rancangan Peraturan Daerah dilakukan melalui empat tahapan\npembicaraan, yaitu tahap I,II,III, dan IV.\nPembicaraan tahap I meliputi :\na. penjelasan Kepala Daerah dalam Rapat Paripurna terhadap Rancangan Peraturan\ndaerah yang berasal dari Kepala Daerah;\nb. penjelasan dalam Rapat Paripurna oleh Pimpinan Komisi/Pimpinan Rapat Gabungan\nKomisi atau Pimpinan Panitia Khusus atas nama DPRD terhadap Rancangan\nPeraturan Daerah usul prakarsa.\n\nPembicaraan tahap II meliputi :\na.\tdalam hal Rancangan Peraturan Daerah yang berasal dari Kepala Daerah :\n1.\tpemandangan umum dalam Rapat Paripurna oleh para Anggota yang\nmembawakan suara Fraksinya terhadap Rancangan Peraturan Daerah;\n2. jawaban Kepala Daerah dalam Rapat Paripurna terhadap Pemandangan\numum para anggota.\nb.\tdalam hal Rancangan Peraturan Daerah atas prakarsa DPRD :\n1.\tpendapat Kepala Daerah dalam Rapat Paripurna terhadap Rancangan\nPeraturan Daerah;\n2.\tjawaban Pimpinan Komisi, Pimpinan Rapat Gabungan Komisi atau Pimpinan\nPanitia Khusus atas nama DPRD dalam Rapat Paripurna terhadap pendapat\nKepala Daerah.\nPembicaraan tahap III ialah pembahasan dalam Rapat Komisi/Rapat Gabungan Komisi\natau rapat Panitia Khusus, yang dilakukan bersama-sama dengan pejabat yang ditunjuk\noleh Kepala Daerah.\nPembicaraan tahap IV meliputi :\na.\tpengambilan Keputusan dalam Rapat Paripurna, yang didahului dengan :\n1)\tlaporan hasil pembicaraan tahap III;\n2)\tpendapat akhir Fraksi yang disampaikan oleh Anggotanya.\nb.\tpemberian kesempatan kepada Kepala Daerah untuk menyampaikan sambutan\nterhadap pengambilan Keputusan tersebut."
+                                            "explanation": "\nPembahasan Rancangan Peraturan Daerah dilakukan melalui empat tahapan\npembicaraan, yaitu tahap I,II,III, dan IV.\nPembicaraan tahap I meliputi :\na. penjelasan Kepala Daerah dalam Rapat Paripurna terhadap Rancangan Peraturan\ndaerah yang berasal dari Kepala Daerah;\nb. penjelasan dalam Rapat Paripurna oleh Pimpinan Komisi/Pimpinan Rapat Gabungan\nKomisi atau Pimpinan Panitia Khusus atas nama DPRD terhadap Rancangan\nPeraturan Daerah usul prakarsa.\n\nPembicaraan tahap II meliputi:\na.  dalam hal Rancangan Peraturan Daerah yang berasal dari Kepala Daerah :\n    1.  pemandangan umum dalam Rapat Paripurna oleh para Anggota yang\n        membawakan suara Fraksinya terhadap Rancangan Peraturan Daerah;\n    2.  jawaban Kepala Daerah dalam Rapat Paripuma terhadap Pemandangan\n        umum para anggota.\nb. dalam hal Rancangan Peraturan Daerah atas prakarsa DPRD :\n    1.  pendapat Kepala Daerah dalam Rapat Paripurna terhadap Rancangan\n        Peraturan Daerah;\n    2.  jawaban Pimpinan Komisi, Pimpinan Rapat Gabungan Komisi atau Pimpinan\n        Panitia Khusus atas nama DPRD dalam Rapat Paripurna terhadap pendapat\n        Kepala Daerah.\nPembicaraan tahap III ialah pembahasan dalam Rapat Komisi/Rapat Gabungan Komisi\natau rapat Panitia Khusus, yang dilakukan bersama-sama dengan pejabat yang ditunjuk\noleh Kepala Daerah.\nPembicaraan tahap IV meliputi:\na. pengambilan Keputusan dalam Rapat Paripurna, yang didahului dengan :\n    1) laporan hasil pembicaraan tahap III;\n    2) pendapat akhir Fraksi yang disampaikan oleh Anggotanya.\nb. pemberian kesempatan kepada Kepala Daerah untuk menyampaikan sambutan\nterhadap pengambilan Keputusan tersebut."
                                         },
                                         {
-                                            "id": "760cb1a2-85ca-4d60-bffd-6e6c319733a0",
+                                            "id": "cb7b9a38-0a0b-4b18-b007-28dfe011627f",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Pokok-pokok usul perubahan sebagaimana dimaksud pada ayat (1), disampaikan dalam Pemandangan Umum para anggota pada Pembicaraan Tahap II.",
-                                            "explanation": "\nPembahasan Rancangan Peraturan Daerah dilakukan melalui empat tahapan\npembicaraan, yaitu tahap I,II,III, dan IV.\nPembicaraan tahap I meliputi :\na. penjelasan Kepala Daerah dalam Rapat Paripurna terhadap Rancangan Peraturan\ndaerah yang berasal dari Kepala Daerah;\nb. penjelasan dalam Rapat Paripurna oleh Pimpinan Komisi/Pimpinan Rapat Gabungan\nKomisi atau Pimpinan Panitia Khusus atas nama DPRD terhadap Rancangan\nPeraturan Daerah usul prakarsa.\n\nPembicaraan tahap II meliputi :\na.\tdalam hal Rancangan Peraturan Daerah yang berasal dari Kepala Daerah :\n1.\tpemandangan umum dalam Rapat Paripurna oleh para Anggota yang\nmembawakan suara Fraksinya terhadap Rancangan Peraturan Daerah;\n2. jawaban Kepala Daerah dalam Rapat Paripurna terhadap Pemandangan\numum para anggota.\nb.\tdalam hal Rancangan Peraturan Daerah atas prakarsa DPRD :\n1.\tpendapat Kepala Daerah dalam Rapat Paripurna terhadap Rancangan\nPeraturan Daerah;\n2.\tjawaban Pimpinan Komisi, Pimpinan Rapat Gabungan Komisi atau Pimpinan\nPanitia Khusus atas nama DPRD dalam Rapat Paripurna terhadap pendapat\nKepala Daerah.\nPembicaraan tahap III ialah pembahasan dalam Rapat Komisi/Rapat Gabungan Komisi\natau rapat Panitia Khusus, yang dilakukan bersama-sama dengan pejabat yang ditunjuk\noleh Kepala Daerah.\nPembicaraan tahap IV meliputi :\na.\tpengambilan Keputusan dalam Rapat Paripurna, yang didahului dengan :\n1)\tlaporan hasil pembicaraan tahap III;\n2)\tpendapat akhir Fraksi yang disampaikan oleh Anggotanya.\nb.\tpemberian kesempatan kepada Kepala Daerah untuk menyampaikan sambutan\nterhadap pengambilan Keputusan tersebut."
+                                            "explanation": "\nPembahasan Rancangan Peraturan Daerah dilakukan melalui empat tahapan\npembicaraan, yaitu tahap I,II,III, dan IV.\nPembicaraan tahap I meliputi :\na. penjelasan Kepala Daerah dalam Rapat Paripurna terhadap Rancangan Peraturan\ndaerah yang berasal dari Kepala Daerah;\nb. penjelasan dalam Rapat Paripurna oleh Pimpinan Komisi/Pimpinan Rapat Gabungan\nKomisi atau Pimpinan Panitia Khusus atas nama DPRD terhadap Rancangan\nPeraturan Daerah usul prakarsa.\n\nPembicaraan tahap II meliputi:\na.  dalam hal Rancangan Peraturan Daerah yang berasal dari Kepala Daerah :\n    1.  pemandangan umum dalam Rapat Paripurna oleh para Anggota yang\n        membawakan suara Fraksinya terhadap Rancangan Peraturan Daerah;\n    2.  jawaban Kepala Daerah dalam Rapat Paripuma terhadap Pemandangan\n        umum para anggota.\nb. dalam hal Rancangan Peraturan Daerah atas prakarsa DPRD :\n    1.  pendapat Kepala Daerah dalam Rapat Paripurna terhadap Rancangan\n        Peraturan Daerah;\n    2.  jawaban Pimpinan Komisi, Pimpinan Rapat Gabungan Komisi atau Pimpinan\n        Panitia Khusus atas nama DPRD dalam Rapat Paripurna terhadap pendapat\n        Kepala Daerah.\nPembicaraan tahap III ialah pembahasan dalam Rapat Komisi/Rapat Gabungan Komisi\natau rapat Panitia Khusus, yang dilakukan bersama-sama dengan pejabat yang ditunjuk\noleh Kepala Daerah.\nPembicaraan tahap IV meliputi:\na. pengambilan Keputusan dalam Rapat Paripurna, yang didahului dengan :\n    1) laporan hasil pembicaraan tahap III;\n    2) pendapat akhir Fraksi yang disampaikan oleh Anggotanya.\nb. pemberian kesempatan kepada Kepala Daerah untuk menyampaikan sambutan\nterhadap pengambilan Keputusan tersebut."
                                         },
                                         {
-                                            "id": "04fb931b-a9f0-4b1c-b5ae-4c49acff9250",
+                                            "id": "aa30873a-7866-4d0b-9e4b-868c3ef5a7ef",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Perubahan sebagaimana dimaksud pada ayat (2), disampaikan oleh anggota dalam Pembicaraan Tahap III untuk dibahas dan diambil keputusan pada Tahap IV.",
-                                            "explanation": "\nPembahasan Rancangan Peraturan Daerah dilakukan melalui empat tahapan\npembicaraan, yaitu tahap I,II,III, dan IV.\nPembicaraan tahap I meliputi :\na. penjelasan Kepala Daerah dalam Rapat Paripurna terhadap Rancangan Peraturan\ndaerah yang berasal dari Kepala Daerah;\nb. penjelasan dalam Rapat Paripurna oleh Pimpinan Komisi/Pimpinan Rapat Gabungan\nKomisi atau Pimpinan Panitia Khusus atas nama DPRD terhadap Rancangan\nPeraturan Daerah usul prakarsa.\n\nPembicaraan tahap II meliputi :\na.\tdalam hal Rancangan Peraturan Daerah yang berasal dari Kepala Daerah :\n1.\tpemandangan umum dalam Rapat Paripurna oleh para Anggota yang\nmembawakan suara Fraksinya terhadap Rancangan Peraturan Daerah;\n2. jawaban Kepala Daerah dalam Rapat Paripurna terhadap Pemandangan\numum para anggota.\nb.\tdalam hal Rancangan Peraturan Daerah atas prakarsa DPRD :\n1.\tpendapat Kepala Daerah dalam Rapat Paripurna terhadap Rancangan\nPeraturan Daerah;\n2.\tjawaban Pimpinan Komisi, Pimpinan Rapat Gabungan Komisi atau Pimpinan\nPanitia Khusus atas nama DPRD dalam Rapat Paripurna terhadap pendapat\nKepala Daerah.\nPembicaraan tahap III ialah pembahasan dalam Rapat Komisi/Rapat Gabungan Komisi\natau rapat Panitia Khusus, yang dilakukan bersama-sama dengan pejabat yang ditunjuk\noleh Kepala Daerah.\nPembicaraan tahap IV meliputi :\na.\tpengambilan Keputusan dalam Rapat Paripurna, yang didahului dengan :\n1)\tlaporan hasil pembicaraan tahap III;\n2)\tpendapat akhir Fraksi yang disampaikan oleh Anggotanya.\nb.\tpemberian kesempatan kepada Kepala Daerah untuk menyampaikan sambutan\nterhadap pengambilan Keputusan tersebut."
+                                            "explanation": "\nPembahasan Rancangan Peraturan Daerah dilakukan melalui empat tahapan\npembicaraan, yaitu tahap I,II,III, dan IV.\nPembicaraan tahap I meliputi :\na. penjelasan Kepala Daerah dalam Rapat Paripurna terhadap Rancangan Peraturan\ndaerah yang berasal dari Kepala Daerah;\nb. penjelasan dalam Rapat Paripurna oleh Pimpinan Komisi/Pimpinan Rapat Gabungan\nKomisi atau Pimpinan Panitia Khusus atas nama DPRD terhadap Rancangan\nPeraturan Daerah usul prakarsa.\n\nPembicaraan tahap II meliputi:\na.  dalam hal Rancangan Peraturan Daerah yang berasal dari Kepala Daerah :\n    1.  pemandangan umum dalam Rapat Paripurna oleh para Anggota yang\n        membawakan suara Fraksinya terhadap Rancangan Peraturan Daerah;\n    2.  jawaban Kepala Daerah dalam Rapat Paripuma terhadap Pemandangan\n        umum para anggota.\nb. dalam hal Rancangan Peraturan Daerah atas prakarsa DPRD :\n    1.  pendapat Kepala Daerah dalam Rapat Paripurna terhadap Rancangan\n        Peraturan Daerah;\n    2.  jawaban Pimpinan Komisi, Pimpinan Rapat Gabungan Komisi atau Pimpinan\n        Panitia Khusus atas nama DPRD dalam Rapat Paripurna terhadap pendapat\n        Kepala Daerah.\nPembicaraan tahap III ialah pembahasan dalam Rapat Komisi/Rapat Gabungan Komisi\natau rapat Panitia Khusus, yang dilakukan bersama-sama dengan pejabat yang ditunjuk\noleh Kepala Daerah.\nPembicaraan tahap IV meliputi:\na. pengambilan Keputusan dalam Rapat Paripurna, yang didahului dengan :\n    1) laporan hasil pembicaraan tahap III;\n    2) pendapat akhir Fraksi yang disampaikan oleh Anggotanya.\nb. pemberian kesempatan kepada Kepala Daerah untuk menyampaikan sambutan\nterhadap pengambilan Keputusan tersebut."
                                         }
                                     ]
                                 }
                             ]
                         },
                         {
-                            "id": "fcdc47ab-107e-41e5-839c-be952c4c4a40",
+                            "id": "e04930d7-b604-4648-921d-dced328d3a61",
                             "name": "Paragraph 5",
                             "title": "\nHak Mengajukan Pernyataan Pendapat",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "002fd85a-941e-43e9-89d2-768d6ef36610",
+                                    "id": "b7a95846-d9b6-40e3-a07f-3d8478d4d000",
                                     "name": "Article 18",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "43b2afe8-3077-41e2-ac11-ab2ff4c4849e",
+                                            "id": "184892e1-7736-4f3f-b57c-54a4ab990032",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Paling sedikit lima orang yang terdiri lebih dari satu fraksi dapat mengajukan usul pernyataan pendapat.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "9190f83b-2685-490f-8f01-5a4c2cab0f27",
+                                            "id": "7557789b-3d7b-4f6a-8b42-7a04d5a2d4d5",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Usul pernyataan pendapat sebagaimana dimaksud pada ayat (1), serta penjelasannya disampaikan secara tertulis kepada Pimpinan DPRD, dengan disertai daftar nama dan tanda tangan para pengusul serta fraksinya.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "1b6d3449-18c1-48be-8fbd-3bd0b6378976",
+                                            "id": "1ccef7fd-4998-4676-b9ff-cf919e7040f8",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Usul sebagaimana dimaksud pada ayat (2), diberi nomor pokok oleh Sekretariat DPRD.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "b5090e5f-6fb2-4a90-9d3c-3c886dc3c08f",
+                                            "id": "1399347c-085c-41b7-b864-a41c0ca81405",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Usul pernyataan pendapat tersebut oleh Pimpinan DPRD disampaikan dalam Rapat Paripurna DPRD setelah mendapat pertimbangan dari Panitia Musyawarah.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "77ff8792-25dc-4977-a800-81c0da67b249",
+                                            "id": "1d158b34-1290-414a-8671-603ff964844d",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
                                             "content": " Dalam Rapat Paripurna DPRD sebagaimana dimaksud pada ayat (4), para pengusul diberi kesempatan memberikan penjelasan atas usul pernyataan pendapat tersebut.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "9fd4d78e-2b70-4f2a-8c54-635e16180458",
+                                            "id": "ccbc0261-071e-41a5-9fa5-894000216bd3",
                                             "name": "Verse 6",
-                                            "number": "(6)",
+                                            "number": "6",
                                             "type": "verse",
-                                            "content": " Pembicaraan mengenai sesuatu usul pernyataan pendapat dilakukan dengan memberikan kesempatan kepada :\na. anggota DPRD lainnya untuk memberikan pandangan;\nb. Kepala Daerah untuk memberikan pendapat;\nc. para pengusul memberikan jawaban atas pandangan para anggota dan pendapat Kepala Daerah.",
+                                            "content": " Pembicaraan mengenai sesuatu usul pernyataan pendapat dilakukan dengan memberikan kesempatan kepada :\n a. anggota DPRD lainnya untuk memberikan pandangan;\n b. Kepala Daerah untuk memberikan pendapat;\n c. para pengusul memberikan jawaban atas pandangan para anggota dan pendapat Kepala Daerah.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "a9251b9f-df3a-4eba-8d8e-bf899773d570",
+                                            "id": "d821837b-6faf-4102-88ab-9ce0e6928010",
                                             "name": "Verse 7",
-                                            "number": "(7)",
+                                            "number": "7",
                                             "type": "verse",
-                                            "content": " Pembicaraan diakhiri dengan Keputusan DPRD yang menerima atau menolak usul pernyataan\n",
+                                            "content": " Pembicaraan diakhiri dengan Keputusan DPRD yang menerima atau menolak usul pernyataan",
                                             "explanation": "\nCukup jelas"
                                         }
                                     ]
@@ -523,84 +590,84 @@
                             ]
                         },
                         {
-                            "id": "109ea316-116a-4f37-9a7e-d7dc9eb00c6d",
+                            "id": "824ccbb2-551a-4396-b9de-8d055284663c",
                             "name": "Paragraph 6",
                             "title": "\nHak Mengajukan Rancangan Peraturan Daerah",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "ffcff437-bb41-41b4-9cdd-152c6cb6090e",
+                                    "id": "83d89312-5c0d-44f2-8462-26e98e660e4f",
                                     "name": "Article 19",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "977cc894-0d61-4633-b1bf-dafb6dcc3f6b",
+                                            "id": "6bffbf2b-ecd0-4cf5-898f-611aa347bf46",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Paling sedikit lima orang anggota DPRD yang terdiri lebih dari satu fraksi dapat mengajukan suatu usul prakarsa pengaturan kewenangan Daerah.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "cff7af27-550b-48b5-a9f2-b76210cee9be",
+                                            "id": "acfc2922-b392-4343-b952-4fbf85845f16",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Usul prakarsa sebagaimana dimaksud pada ayat (1), disampaikan kepada Pimpinan DPRD dalam bentuk Rancangan Peraturan Daerah disertai penjelasan secara tertulis.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "9ae73a81-7bc6-41c3-bbb1-8d63a4f9aa1b",
+                                            "id": "90b15bd2-dd17-40e4-9328-2efe418a1b55",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Usul sebagaimana dimaksud pada ayat (2), diberikan nomor pokok oleh Sekretariat DPRD.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "50c6d3cf-a3c4-4502-8fd9-470c5b93b5ad",
+                                            "id": "228cb4dc-dfd4-4521-bfaf-5c4dd8c2168b",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Usul prakarsa tersebut oleh Pimpinan DPRD disampaikan pada Rapat Paripurna DPRD, setelah mendapat pertimbangan dari Panitia Musyawarah.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "d714139c-641a-4dd8-a8b0-4d95b15f6639",
+                                            "id": "b83f7be2-6b65-4899-8b94-5d906d9497eb",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
                                             "content": " Dalam Rapat Paripurna, para pengusul diberi kesempatan memberikan penjelasan atas usul sebagaimana dimaksud pada ayat (2).",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "a83757b2-1f50-4030-b7b2-9d4616b49f05",
+                                            "id": "73696bd0-c9d0-45a8-a809-c8ec433eca97",
                                             "name": "Verse 6",
-                                            "number": "(6)",
+                                            "number": "6",
                                             "type": "verse",
-                                            "content": " Pembicaraan mengenai sesuatu usul prakarsa dilakukan dengan memberikan kesempatan kepada:\na. anggota DPRD lainnya untuk memberikan pandangan;\nb. Kepala Daerah untuk memberikan pendapat;\nc. para pengusul memberikan jawaban atas pandangan para anggota dan pendapat Kepala Daerah.",
+                                            "content": " Pembicaraan mengenai sesuatu usul prakarsa dilakukan dengan memberikan kesempatan kepada:\n    a. anggota DPRD lainnya untuk memberikan pandangan;\n    b. Kepala Daerah untuk memberikan pendapat;\n    c. para pengusul memberikan jawaban atas pandangan para anggota dan pendapat Kepala Daerah.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "a753604d-2051-49bb-8dd2-479528c2acca",
+                                            "id": "266c5440-2c0e-4e57-9f31-5f6838996458",
                                             "name": "Verse 7",
-                                            "number": "(7)",
+                                            "number": "7",
                                             "type": "verse",
                                             "content": " Pembicaraan diakhiri dengan Keputusan DPRD yang menerima atau menolak usul prakarsa menjadi prakarsa DPRD.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "d087cc87-1562-4622-bc6e-53056d44ed7f",
+                                            "id": "f594d4be-f698-42ed-b86f-4b36298b5406",
                                             "name": "Verse 8",
-                                            "number": "(8)",
+                                            "number": "8",
                                             "type": "verse",
                                             "content": " Tatacara pembahasan Rancangan Peraturan Daerah atas prakarsa DPRD mengikuti ketentuan yang berlaku dalam pembahasan Rancangan Peraturan Daerah atas parakarsa Kepala Daerah.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "76b1d048-7f14-4b50-b330-946931c4fd13",
+                                            "id": "36646be2-d346-41af-9518-e37ede9f3380",
                                             "name": "Verse 9",
-                                            "number": "(9)",
+                                            "number": "9",
                                             "type": "verse",
                                             "content": " Selama usul prakarsa belum diputuskan menjadi prakarsa DPRD, para pengusul berhak mengajukan perubahan dan/atau mencabutnya kembali.",
                                             "explanation": "\nCukup jelas"
@@ -610,17 +677,17 @@
                             ]
                         },
                         {
-                            "id": "27cf6816-047a-467f-b58e-6a4489d75e8b",
+                            "id": "5576cc39-fb08-4b0a-8985-61f95ef71c2f",
                             "name": "Paragraph 7",
                             "title": "\nHak Menentukan Anggaran Belanja dan\nMenetapkan Peraturan Tata Tertib DPRD",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "ecdf10f5-105c-450f-9c12-83eb005f988b",
+                                    "id": "a37c4a43-7d4b-437e-aae3-64115fef2d3d",
                                     "name": "Article 20",
                                     "type": "article",
                                     "children": {
-                                        "id": "9099358e-18bb-437d-ae5d-e1974ea4c6e4",
+                                        "id": "698e7a4f-8425-4a73-a810-64f4d71733a3",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -629,11 +696,11 @@
                                     }
                                 },
                                 {
-                                    "id": "09cb69dc-1784-4b54-995b-2d8ba835fd8b",
+                                    "id": "1ebebd1a-48ff-4f63-b3bb-12dc2ae5054b",
                                     "name": "Article 21",
                                     "type": "article",
                                     "children": {
-                                        "id": "cc41000e-105a-45f9-a638-15c1b4682fdf",
+                                        "id": "c6a06dfc-a983-46c6-93ab-c510a4c1d495",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -644,30 +711,30 @@
                             ]
                         },
                         {
-                            "id": "0d7a92ec-0331-48a8-bf66-bf5bb5f45984",
+                            "id": "f67be7cd-c28a-4d6a-beb8-8be4c0c52552",
                             "name": "Paragraph 8",
                             "title": "\nHak DPRD Meminta Keterangan Pejabat Negara,\nPejabat Pemerintah atau Warga Masyarakat",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "d81f9099-775b-42eb-8a88-410e6962d2a0",
+                                    "id": "4a8ad025-5d61-4283-852f-c70088fa44f7",
                                     "name": "Article 22",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "7a735c95-2c2a-4d5d-9707-2c2d1715febd",
+                                            "id": "8124a3b5-3394-4cc4-b23b-af04520927e6",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " DPRD dalam melaksanakan tugasnya berhak meminta Pejabat Negara, Pejabat Pemerintahan,\nWarga Masyarakat untuk memberikan keterangan tentang sesuatu hal yang perlu ditangani demi\nkepentingan negara, bangsa, pemerintahan dan pembangunan.",
                                             "explanation": "\nCukup jelas"
                                         },
                                         {
-                                            "id": "50cb30d0-0264-4a69-bf83-ab64ba540f84",
+                                            "id": "7f13f69d-0cc1-473e-9c9a-16a8d3e4f86b",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Pejabat Negara, Pejabat Pemerintah atau warga masyarakat yang menolak permintaan DPRD\nsebagaimana dimaksud pada ayat (1), diancam dengan pidana kurungan paling lama 1 (satu)\ntahun karena merendahkan martabat dan kehormatan DPRD.",
+                                            "content": "\nPejabat Negara, Pejabat Pemerintah atau warga masyarakat yang menolak permintaan DPRD\nsebagaimana dimaksud pada ayat (1), diancam dengan pidana kurungan paling lama 1 (satu)\ntahun karena merendahkan martabat dan kehormatan DPRD.",
                                             "explanation": "\nCukup jelas"
                                         }
                                     ]
@@ -677,84 +744,84 @@
                     ]
                 },
                 {
-                    "id": "f3d446da-eff6-4043-828f-e9b6bc0156a1",
+                    "id": "d4ed3cf0-769e-4481-a6cd-a89f1055ce4a",
                     "name": "Section Fourth",
                     "title": "\nHak-hak Anggota DPRD",
                     "type": "section",
                     "children": [
                         {
-                            "id": "547d6a99-4064-4bf9-a8f1-88d61085c7e6",
+                            "id": "7f5e1d7e-d8a3-4101-8031-752a575677f3",
                             "name": "Article 23",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "0559f235-f070-424a-ab9a-a68261fe9bae",
+                                    "id": "f9b57f4b-09f0-4a44-b5a3-50e68fb1d1da",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Setiap Anggota DPRD dapat mengajukan pertanyaan kepada Kepala Daerah.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "80f4e833-cb8f-4945-a1ab-21a6d65939e2",
+                                    "id": "5a4cf6af-68c3-43fc-bf16-ec6ca59d8812",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Pertanyaan sebagaimana dimaksud pada ayat (1), disusun singkat, jelas dan tertulis disampaikan\nkepada Pimpinan DPRD.",
+                                    "content": "\nPertanyaan sebagaimana dimaksud pada ayat (1), disusun singkat, jelas dan tertulis disampaikan\nkepada Pimpinan DPRD.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "e62dc338-df7a-4f6e-bb08-53ebdbe59ab0",
+                                    "id": "66e33f97-1e77-4815-b5a1-bc23ca4b1b49",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Pimpinan DPRD mengadakan rapat untuk menilai pertanyaan yang diajukan guna memutuskan\nlayak tidaknya pertanyaan sebagaimana dimaksud pada ayat (1) untuk dilanjutkan.",
+                                    "content": "\nPimpinan DPRD mengadakan rapat untuk menilai pertanyaan yang diajukan guna memutuskan\nlayak tidaknya pertanyaan sebagaimana dimaksud pada ayat (1) untuk dilanjutkan.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "dfa17a9e-f8ff-4eaf-b82e-830df81f633c",
+                                    "id": "cb880c26-b187-4704-80f1-be04d0bb6b28",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
-                                    "content": " Apabila keputusan rapat menyatakan pertanyaan sebagaimana dimaksud pada ayat (1) perlu ditindaklanjuti, DPRD membentuk Panitia Musyawarah.",
+                                    "content": " Apabila keputusan rapat menyatakan pertanyaan sebagaimana dimaksud pada ayat (1) perlu\nditindaklanjuti, DPRD membentuk Panitia Musyawarah.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "62cbcf22-b129-427e-8c65-77ccf2e97303",
+                                    "id": "c7348fbe-0601-4d80-b79e-ad02c748ab83",
                                     "name": "Verse 5",
-                                    "number": "(5)",
+                                    "number": "5",
                                     "type": "verse",
-                                    "content": " Pimpinan DPRD setelah mendapat pertimbangan dari Panitia Musyawarah meneruskan pertanyaan sebagaimana dimaksud pada ayat (2) kepada Kepala Daerah.",
+                                    "content": " Pimpinan DPRD setelah mendapat pertimbangan dari Panitia Musyawarah meneruskan\npertanyaan sebagaimana dimaksud pada ayat (2) kepada Kepala Daerah.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "fb152595-6ecf-4cb6-bd97-bb19929fb40a",
+                                    "id": "31c44b2a-3bb6-4f0d-a014-0f3aa98650da",
                                     "name": "Verse 6",
-                                    "number": "(6)",
+                                    "number": "6",
                                     "type": "verse",
                                     "content": " Apabila jawaban atas pertanyaan dimaksud oleh Kepala Daerah disampaikan secara tertulis, tidak diadakan pembicaraan secara lisan.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "abb08adc-8dcb-4197-a01a-c431c11b571b",
+                                    "id": "72003068-221e-4bdc-b014-5faa55657982",
                                     "name": "Verse 7",
-                                    "number": "(7)",
+                                    "number": "7",
                                     "type": "verse",
-                                    "content": " Penanya dapat meminta supaya pertanyaannya dijawab oleh Kepala Daerah secara lisan.\n",
+                                    "content": " Penanya dapat meminta supaya pertanyaannya dijawab oleh Kepala Daerah secara lisan.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "3ae619a3-fdb5-4bab-9745-8eb6eea3f060",
+                                    "id": "b40418dd-c045-4598-a259-80b2821019b0",
                                     "name": "Verse 8",
-                                    "number": "(8)",
+                                    "number": "8",
                                     "type": "verse",
                                     "content": " Dalam hal Kepala Daerah menjawab secara lisan, maka dalam rapat yang ditentukan untuk itu oleh Panitia Musyawarah, penanya dapat mengemukakan lagi dengan singkat penjelasan tentang pertanyaannya agar Kepala Daerah dapat memberikan keterangan yang lebih jelas tentang soal yang terkandung dalam pertanyaan itu.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "51b45dc8-5ab9-4812-ab66-0963e4fd98f5",
+                                    "id": "5384e9f5-b0b4-40b3-8b1b-65260601f088",
                                     "name": "Verse 9",
-                                    "number": "(9)",
+                                    "number": "9",
                                     "type": "verse",
                                     "content": " Pemberian jawaban oleh Kepala Daerah, sebagaimana dimaksud pada ayat (8) dapat diwakilkan kepada pejabat daerah yang ditunjuk.",
                                     "explanation": "\nCukup jelas"
@@ -762,11 +829,11 @@
                             ]
                         },
                         {
-                            "id": "d82c3099-aaf5-45d5-908d-8573c7e5b6c5",
+                            "id": "f87549b8-1544-418f-83c3-e3d1a6841fa6",
                             "name": "Article 24",
                             "type": "article",
                             "children": {
-                                "id": "6b17e17a-2952-44bd-aa16-d94f062ffbdb",
+                                "id": "296a8df3-f6b5-41cc-a8ab-c4466a32db22",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -777,21 +844,21 @@
                     ]
                 },
                 {
-                    "id": "dcfdd1e3-789c-42da-9e92-8c1bed731dc6",
+                    "id": "fbd1c510-40d4-43b2-ab33-53f5e530280d",
                     "name": "Section Fifth",
                     "title": "\nKewajiban DPRD",
                     "type": "section",
                     "children": [
                         {
-                            "id": "529f19ca-916a-4daa-b530-84d03b2cc8dd",
+                            "id": "3302f765-631e-4a39-8bc9-afa7fdf12dbe",
                             "name": "Article 25",
                             "type": "article",
                             "children": {
-                                "id": "026cab9c-ad1e-48f6-811b-f260687a33c4",
+                                "id": "6a8fa677-1972-4e98-9041-76ff72162115",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nDPRD mempunyai kewajiban :\na. mempertahankan dan memelihara keutuhan Negara Kesatuan Republik Indonesia;\nb. mengamalkan Pancasila dan Undang-Undang Dasar 1945, serta mentaati segala peraturan perundang-undangan;\nc. membina demokrasi dalam penyelenggaraan Pemerintahan Daerah;\nd. meningkatkan kesejahteraan rakyat di Daerah berdasarkan demokrasi ekonomi; dan\ne. memperhatikan dan menyalurkan aspirasi, menerima keluhan dan pengaduan masyarakat, serta memfasilitasi tindak lanjut penyelesaiannya.",
+                                "content": "\nDPRD mempunyai kewajiban:\na. mempertahankan dan memelihara keutuhan Negara Kesatuan Republik Indonesia;\nb. mengamalkan Pancasila dan Undang-Undang Dasar 1945, serta mentaati segala peraturan perundang-undangan;\nc. membina demokrasi dalam penyelenggaraan Pemerintahan Daerah;\nd. meningkatkan kesejahteraan rakyat di Daerah berdasarkan demokrasi ekonomi; dan\ne. memperhatikan dan menyalurkan aspirasi, menerima keluhan dan pengaduan masyarakat, serta memfasilitasi tindak lanjut penyelesaiannya.",
                                 "explanation": "\nCukup jelas"
                             }
                         }
@@ -800,28 +867,28 @@
             ]
         },
         {
-            "id": "1a422aa2-86e1-4a12-aaf5-460ce559815a",
+            "id": "5b458483-8d21-489c-b7a9-e2344c9da6cf",
             "name": "Chapter III",
             "title": "\nKEANGGOTAAN DPRD",
             "type": "chapter",
             "children": [
                 {
-                    "id": "46a7ffd4-ab0c-4c4e-a210-4c9d9f74b264",
+                    "id": "2c62d6bf-bf38-42ea-a48c-b3edf3ec1916",
                     "name": "Article 26",
                     "type": "article",
                     "children": [
                         {
-                            "id": "cb83f0b8-847a-4a36-9292-a1780bcd00b5",
+                            "id": "d39648d3-41e1-490a-aa6f-7ba517c2f601",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Anggota DPRD adalah mereka yang memenuhi persyaratan sebagaimana dimaksud dalam Pasal\n19 atau Pasal 26 Undang-undang Nomor 4 Tahun 1999 dan yang telah diresmikan\nkeanggotaannya melalui pengambilan sumpah/janji berdasarkan peraturan perundang-undangan\nyang berlaku.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "1e03532d-4fe0-433e-854b-a9bf1c74b92a",
+                            "id": "8c366368-31e3-49f4-8cc8-425c78d84ebf",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pengambilan sumpah/janji sebagaimana dimaksud pada ayat (1) sesuai dengan peraturan\nperundang-undangan.",
                             "explanation": "\nCukup jelas"
@@ -831,28 +898,28 @@
             ]
         },
         {
-            "id": "d5a4cdb6-e51f-4364-b206-83c5c67bce4c",
+            "id": "3b879fe6-99d7-4e0d-b39f-8174a88e7d7f",
             "name": "Chapter IV",
             "title": "\nKELENGKAPAN DPRD",
             "type": "chapter",
             "children": [
                 {
-                    "id": "14c186ff-bb89-47da-a86a-376e00bb7b3c",
+                    "id": "2959e25c-9ba7-4c43-abd9-4a716adb46ad",
                     "name": "Article 27",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0aba644b-2736-48d9-ae55-5717879aa4db",
+                            "id": "9991bb37-2c8a-4ee7-8bc9-5f576cae5900",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Alat kelengkapan DPRD terdiri dari :\na. Pimpinan;\nb. Komisi;\nc. Panitia-panitia.",
+                            "content": " Alat kelengkapan DPRD terdiri dari :\n   a. Pimpinan;\n   b. Komisi;\n   c. Panitia-panitia.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "4a85b9ab-6bb3-475c-a34e-95bf388a75a1",
+                            "id": "be39426f-f1e5-4c7d-ae86-ce6e4776ef5d",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Alat-alat kelengkapan sebagaimana dimaksud pada ayat (1) mengatur tata kerjanya sendiri\ndengan persetujuan Pimpinan DPRD.",
                             "explanation": "\nCukup jelas"
@@ -860,30 +927,30 @@
                     ]
                 },
                 {
-                    "id": "4370e7cb-ebd9-4025-a315-7c4bb56a05d4",
+                    "id": "b06a5dc3-d62f-4cc3-802d-049678d99758",
                     "name": "Article 28",
                     "type": "article",
                     "children": [
                         {
-                            "id": "93a19a31-862a-424f-add4-9db70addeb77",
+                            "id": "8a01d26f-4758-40f8-b83d-b609d9bd1ff8",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pimpinan DPRD merupakan lembaga yang bersifat kolektif terdiri dari anggota-anggota yang dipilih\nmenjadi Ketua dan Wakil-wakil Ketua yang bertugas untuk memimpin pengorganisasian DPRD.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "1afbc27c-d468-45ba-b7f0-22bffa376338",
+                            "id": "9cfb0e87-7b6e-4e33-8f4d-f0e77f1afb61",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pimpinan DPRD terdiri dari unsur-unsur fraksi.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "aa846266-fac4-43f0-8c63-39953771df79",
+                            "id": "3776f24d-2330-4d75-8a74-bca5a94dc630",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Masa kerja Pimpinan DPRD adalah 5 (lima) tahun.",
                             "explanation": "\nCukup jelas"
@@ -891,30 +958,30 @@
                     ]
                 },
                 {
-                    "id": "c157c004-3a2c-4ad7-a6c7-1d75478abc48",
+                    "id": "5ebcf11e-7563-4140-aa8c-00f84040bcaf",
                     "name": "Article 29",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d0a6f99f-a742-492c-9ae8-1b0932560f4c",
+                            "id": "e92de949-b257-4be2-9149-c84ff44797f8",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Komisi merupakan alat kelengkapan yang dibentuk oleh Pimpinan DPRD untuk menangani bidang\ntugas umum tertentu.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "0fe17121-81db-4a66-90cd-95567049202d",
+                            "id": "c8ece87c-ad34-44d5-9f57-f5f0095469e0",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Anggota Komisi terdiri dari unsur-unsur fraksi.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "ebfcbf6a-ac76-4a6a-9ec9-1a0e878bb4e0",
+                            "id": "927c89ea-7e2b-4fc0-a38b-16354bf93d00",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Masa kerja komisi paling lama 2 (dua) tahun.",
                             "explanation": "\nCukup jelas"
@@ -922,30 +989,30 @@
                     ]
                 },
                 {
-                    "id": "2a054e16-08bb-4f47-99c4-14709f636411",
+                    "id": "f14db362-15a7-4230-945c-c7e15b6b3824",
                     "name": "Article 30",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d0786858-4f04-45f5-bfb5-afb0a89d4a93",
+                            "id": "a429da62-e4ce-4110-a8d9-01992d417435",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Panitia adalah alat kelengkapan DPRD yang dibentuk oleh Pimpinan DPRD untuk menangani tugas yang bersifat khusus.",
+                            "content": " Panitia adalah alat kelengkapan DPRD yang dibentuk oleh Pimpinan DPRD untuk menangani\ntugas yang bersifat khusus.",
                             "explanation": "\nCukup jelas\n"
                         },
                         {
-                            "id": "822b3f03-86c2-4015-8a88-75a90f0f0f86",
+                            "id": "dd69ca43-930a-4be6-885d-a5d7b169bfdb",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Anggota panitia terdiri dari unsur-unsur fraksi.",
                             "explanation": "\nCukup jelas\n"
                         },
                         {
-                            "id": "785713f5-7b59-4e90-9d51-6e9434622f33",
+                            "id": "41e26d0c-f12f-4205-890c-9a6ed7bc374c",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Masa kerja panitia ditentukan oleh Pimpinan DPRD.",
                             "explanation": "\nCukup jelas\n"
@@ -955,75 +1022,75 @@
             ]
         },
         {
-            "id": "6ecdf6c6-712c-4cc2-8e33-57e7c7f2853a",
+            "id": "38ec832d-26b0-4e95-ae47-32eecda22e6c",
             "name": "Chapter V",
             "title": "\nPEMILIHAN PIMPINAN DPRD",
             "type": "chapter",
             "children": [
                 {
-                    "id": "1ee379a0-0b41-430a-a77a-12087dbf54a7",
+                    "id": "5080df9c-0db3-4a74-9d6c-a915192c86b8",
                     "name": "Article 31",
                     "type": "article",
                     "children": [
                         {
-                            "id": "deb5c403-84fe-4f4f-8b60-50a62a68dc56",
+                            "id": "cea2be57-c4f1-4e15-8b4a-e8ea82201510",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Pimpinan DPRD bersifat kolektif terdiri dari unsur-unsur fraksi dan berurutan berdasarkan besarnya jumlah Anggota Fraksi.",
+                            "content": " Pimpinan DPRD bersifat kolektif terdiri dari unsur-unsur fraksi dan berurutan berdasarkan besarnya\njumlah Anggota Fraksi.",
                             "explanation": "\nBersifat kolektif dalam hal ini berarti tanggung jawab pelaksanaan tugas pimpinan\nmerupakan tanggung jawab bersama Ketua dan Wakil-wakil Ketua."
                         },
                         {
-                            "id": "dfef1004-70fc-459c-bf22-513b6268c854",
+                            "id": "3743ff28-96c4-4a88-9e26-78ad4f3201c9",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pimpinan DPRD terdiri dari seorang Ketua dan paling banyak 3 (tiga) orang Wakil Ketua.",
                             "explanation": "\nBersifat kolektif dalam hal ini berarti tanggung jawab pelaksanaan tugas pimpinan\nmerupakan tanggung jawab bersama Ketua dan Wakil-wakil Ketua."
                         },
                         {
-                            "id": "80fd5448-4393-488c-8234-47781a8116f1",
+                            "id": "37bd2648-80e4-42b5-8df9-f750446f80c4",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Apabila ada beberapa fraksi memiliki jumlah anggota yang sama sehingga berhak untuk duduk dalam salah satu posisi Pimpinan DPRD sebagaimana dimaksud pada ayat (2), penentuan tentang fraksi mana yang berhak duduk dalam Pimpinan DPRD mengacu kepada :\na. mendahulukan fraksi yang tidak seorang pun anggotanya diperoleh dari stambush accord; dan atau\nb. mendahulukan fraksi yang memperoleh sisa suara terbanyak dalam Pemilihan Umum.",
+                            "content": " Apabila ada beberapa fraksi memiliki jumlah anggota yang sama sehingga berhak untuk duduk\ndalam salah satu posisi Pimpinan DPRD sebagaimana dimaksud pada ayat (2), penentuan\ntentang fraksi mana yang berhak duduk dalam Pimpinan DPRD mengacu kepada :\na. mendahulukan fraksi yang tidak seorang pun anggotanya diperoleh dari stambush accord;\ndan atau\nb. mendahulukan fraksi yang memperoleh sisa suara terbanyak dalam Pemilihan Umum.",
                             "explanation": "\nBersifat kolektif dalam hal ini berarti tanggung jawab pelaksanaan tugas pimpinan\nmerupakan tanggung jawab bersama Ketua dan Wakil-wakil Ketua."
                         }
                     ]
                 },
                 {
-                    "id": "585ab5aa-5326-410b-b0f4-542456ffc6ac",
+                    "id": "85b4e58d-511a-407b-95e3-2cf5f73cac4a",
                     "name": "Article 32",
                     "type": "article",
                     "children": [
                         {
-                            "id": "c84919c2-54a9-467a-bea4-c813a6e97975",
+                            "id": "216bd9a7-5447-4592-bed4-4051c0d265c3",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Pemilihan Pimpinan DPRD dilaksanakan dalam rapat Paripurna dihadiri oleh paling sedikit 2/3 (dua pertiga) jumlah anggota DPRD dari unsur-unsur fraksi.",
+                            "content": " Pemilihan Pimpinan DPRD dilaksanakan dalam rapat Paripurna dihadiri oleh paling sedikit 2/3 (dua\npertiga) jumlah anggota DPRD dari unsur-unsur fraksi.",
                             "explanation": "\nPasal 33\nCukup jelas"
                         },
                         {
-                            "id": "f20a9b87-697a-49fc-8b08-9be7e04e3d32",
+                            "id": "ebf0d35c-ffa4-4eae-acfd-d8edbc46a3ba",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Apabila jumlah anggota DPRD belum mencapai quorum sebagaimana dimaksud pada ayat (1), rapat ditunda paling lama 1 (satu) jam.",
+                            "content": " Apabila jumlah anggota DPRD belum mencapai quorum sebagaimana dimaksud pada ayat (1),\nrapat ditunda paling lama 1 (satu) jam.",
                             "explanation": "\nPasal 33\nCukup jelas"
                         },
                         {
-                            "id": "3783370e-60fb-43cc-bd8a-e210bd2cea82",
+                            "id": "e72fdba6-b78e-4740-a734-038ac6d1daef",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Apabila ketentuan sebagaimana dimaksud pada ayat (2) belum tercapai, Rapat Paripurna diundur paling lama 1 (satu) jam lagi.",
+                            "content": " Apabila ketentuan sebagaimana dimaksud pada ayat (2) belum tercapai, Rapat Paripurna diundur\npaling lama 1 (satu) jam lagi.",
                             "explanation": "\nPasal 33\nCukup jelas"
                         },
                         {
-                            "id": "6c03f423-2a84-4494-b542-1e5fe4f08d2d",
+                            "id": "ac09d0ff-f5ec-4442-b08b-573d078915d5",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Apabila ketentuan sebagaimana dimaksud pada ayat (3) belum tercapai, tetapi unsur-unsur fraksi\ntelah ada, pemilihan Pimpinan DPRD tetap dilaksanakan.",
                             "explanation": "\nPasal 33\nCukup jelas"
@@ -1031,37 +1098,35 @@
                     ]
                 },
                 {
-                    "id": "ea3155c4-58e6-493d-b7c9-523fe5864145",
+                    "id": "f00809dc-813b-43da-beb6-10e88447804f",
                     "name": "Article 33",
                     "type": "article",
-                    "children": [
-                        {
-                            "id": "ba490bdb-7ee9-4bd8-a0bd-5a0f5777a5ef",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": ", paling banyak 2 (dua) orang.",
-                            "explanation": "Tidak ada Penjelasan"
-                        }
-                    ]
+                    "children": {
+                        "id": "fe7025e5-cd55-4235-9cd7-2c5c0836c419",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nCalon Pimpinan DPRD diusulkan oleh masing-masing Fraksi sebagaimana dimaksud dalam Pasal 31 ayat\n(2), paling banyak 2 (dua) orang.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
                 },
                 {
-                    "id": "b9cb83d1-5600-4af1-98aa-bc01a7062ed2",
+                    "id": "ee2c0c21-e561-4ee3-a431-63faaba85a42",
                     "name": "Article 34",
                     "type": "article",
                     "children": [
                         {
-                            "id": "a51d858f-e51b-4722-b370-c2a682676055",
+                            "id": "e7c1cdb3-fe18-4081-b741-4ecf87a740d4",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Calon Pimpinan DPRD sebagaimana dimaksud dalam Pasal 33 disampaikan kepada Pimpinan\nsementara DPRD untuk ditetapkan sebagai Calon yang berhak dipilih.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "754ace97-8190-401f-bb9e-aa10c3e84aa6",
+                            "id": "4fa22d61-ab8a-447c-93fa-cfb503c774bf",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Calon yang berhak dipilih sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan\nPimpinan Sementara DPRD setelah dibahas bersama-sama dengan fraksi-fraksi DPRD.",
                             "explanation": "\nCukup jelas"
@@ -1069,56 +1134,48 @@
                     ]
                 },
                 {
-                    "id": "a49c082c-36ab-464c-b282-4398b78e1e49",
+                    "id": "4114fee2-c350-4af9-a812-4c5134e3ad86",
                     "name": "Article 35",
                     "type": "article",
                     "children": [
                         {
-                            "id": "c48d3f7e-0758-47c0-99aa-cf5467a43341",
+                            "id": "f6e0f40b-7a11-418b-a4c5-5606c8fff72c",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pemilihan Pimpinan DPRD dilaksanakan secara langsung, bebas, rahasia, jujur, dan adil.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "a6cf58aa-ae08-498f-874a-9682beb853c7",
+                            "id": "2d1a05ea-af39-471a-a199-07f8433dc604",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Untuk melaksanakan Pemilihan Calon Pimpinan DPRD sebagaimana dimaksud pada ayat (1),\ndibentuk Panitia Teknis Pemilihan yang terdiri dari unsur-unsur fraksi dan ditetapkan dengan\nKeputusan Pimpinan Sementara DPRD.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "ddb89266-5116-4441-a087-b026ffbf36aa",
+                            "id": "50c40e2e-0d17-4401-b56f-aab36d49329f",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Calon Terpilih yang mendapat suara terbanyak ditetapkan sebagai Ketua DPRD, sedangkan Calon\nlainnya ditetapkan sebagai Wakil-wakil Ketua DPRD sesuai urutan perolehan suara.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "8ce7e8b9-38ec-4834-b7bf-106eec4b392e",
+                            "id": "a9580345-aa33-491b-9223-dfc7d6389cb5",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Keputusan diambil berdasarkan ketentuan sebagai berikut:\na. urutan perolehan suara terbanyak pertama, kedua, ketiga dan keempat;\nb. apabila pada urutan pertama terdapat lebih dari 1 (satu) orang yang mendapat suara yang\nsama, dilakukan pemilihan ulang bagi yang memperoleh suara yang sama, sehingga calon\nyang mendapatkan suara terbanyak menjadi Ketua dan yang mendapatkan suara lebih\nsedikit menjadi Wakil Ketua secara berurutan bersama Wakil Ketua yang lain;\nc. calon terpilih Ketua DPRD dan Wakil Ketua DPRD Propinsi diresmikan oleh Menteri Dalam\nNegeri dan Otonomi Daerah atas nama Presiden sebagai Kepala Negara, calon terpilih\nKetua DPRD dan Wakil Ketua DPRD Kabupaten dan Kota diresmikan oleh Gubernur atas\nnama Presiden sebagai Kepala Negara.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "638b4393-702d-424d-a17f-59028d4b46aa",
+                            "id": "51c8c64c-4b63-48e8-b389-300519e51af2",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
-                            "content": " Apabila ketentuan sebagaimana dimaksud pada ayat (1) tidak dapat dilaksanakan karena alasan",
-                            "explanation": "\nCukup jelas"
-                        },
-                        {
-                            "id": "c106a249-7129-4d36-a2fb-56bed9b88372",
-                            "name": "Verse 6",
-                            "number": "(6)",
-                            "type": "verse",
-                            "content": " keamanan, rapat ditunda paling lama 2 X 24 jam atau sampai dengan kondisi aman yang\ndinyatakan oleh kepolisian.\nRapat DPRD dilangsungkan di Gedung DPRD, kecuali untuk hal-hal yang dianggap tidak\nmemungkinkan, yang ditetapkan dengan Keputusan Pimpinan DPRD.",
+                            "content": " Apabila ketentuan sebagaimana dimaksud pada ayat (1) tidak dapat dilaksanakan karena alasan\n(6) keamanan, rapat ditunda paling lama 2 X 24 jam atau sampai dengan kondisi aman yang\ndinyatakan oleh kepolisian.\nRapat DPRD dilangsungkan di Gedung DPRD, kecuali untuk hal-hal yang dianggap tidak\nmemungkinkan, yang ditetapkan dengan Keputusan Pimpinan DPRD.",
                             "explanation": "\nCukup jelas"
                         }
                     ]
@@ -1126,44 +1183,44 @@
             ]
         },
         {
-            "id": "48597c1c-0e7d-4fa0-a9c8-a6853edfcd68",
+            "id": "3b44c7f4-ec46-4190-8203-1ed4294046bb",
             "name": "Chapter VI",
             "title": "\nPENGGANTIAN PIMPINAN DPRD",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ec652ecb-ca06-4423-bfc0-584852dc4c45",
+                    "id": "38cba9aa-11b1-4f1f-ae86-c2797ffa70e9",
                     "name": "Article 36",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5e93bc85-6e7b-43f6-9699-9a27d930cd77",
+                            "id": "22f5028a-be6d-457b-9b2c-ab8f8fe74a51",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pimpinan DPRD dapat diberhentikan apabila kinerjanya dinilai tidak baik dan menyimpang dari\nketentuan peraturan perundang-undangan.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "fb458b31-ca02-44c5-aa40-a071d93c71ef",
+                            "id": "b55d105f-99a1-4cfe-bcf8-c7271f9be24a",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Penilaian kinerja dilakukan terhadap pimpinan DPRD secara kolektif.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "b1f404ed-3b65-4f8e-af67-cae58ca63a67",
+                            "id": "8e91fe13-5e43-4f18-b05a-3c64415d036e",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Penilaian kinerja Pimpinan DPRD sebagaimana dimaksud pada ayat (1) dilakukan melalui sidang\nparipurna DPRD dihadiri oleh sekurang-kurangnya 2/3 (dua per tiga) dari jumlah anggota DPRD.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "bd245c51-01f5-4da5-9dc8-1f45ffd5ad39",
+                            "id": "b79b6a45-4c86-45b7-8afe-787e96f74779",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Penilaian kinerja Pimpinan DPRD yang dinilai tidak baik dan menyimpang sebagaimana dimaksud\npada ayat (1) disetujui paling sedikit 2/3 dari jumlah anggota yang hadir dan sebagai bahan usulan\npemberhentian Pimpinan DPRD.",
                             "explanation": "\nCukup jelas"
@@ -1171,22 +1228,22 @@
                     ]
                 },
                 {
-                    "id": "231b681f-6af3-4965-a457-c3a264d83c10",
+                    "id": "021ab75e-0373-4492-b9b5-79fb80861f2b",
                     "name": "Article 37",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6fee28f0-7975-4201-be75-2bb432dcc704",
+                            "id": "e7a8075b-dd3c-4c5a-992c-8c0baebfb3ce",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Usulan pemberhentian sebagaimana dimaksud dalam Pasal 36 ayat (4), diputuskan dalam Sidang\nParipurna yang dihadiri paling sedikit 2/3 (dua per tiga) dari jumlah anggota DPRD.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "9f4f7df6-94c1-4090-afc1-21ee713dc15f",
+                            "id": "efc3d527-e4fd-4574-b87e-99b28828f97c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Keputusan DPRD tentang usulan pemberhentian pimpinan DPRD sebagaimana dimaksud pada\nayat (1) dilengkapi dengan Berita Acara Usulan Pemberhentian.",
                             "explanation": "\nCukup jelas"
@@ -1194,11 +1251,11 @@
                     ]
                 },
                 {
-                    "id": "be30a1d3-130f-48a6-8fe1-b3232194bf36",
+                    "id": "0431bc96-1493-41e8-914a-fc19081cbc33",
                     "name": "Article 38",
                     "type": "article",
                     "children": {
-                        "id": "b325d143-9c30-4258-9d29-c8db8f03e074",
+                        "id": "80d2e7f9-5798-4736-b952-0d2545e3d3ab",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1207,22 +1264,22 @@
                     }
                 },
                 {
-                    "id": "4cba1c69-0004-4ca5-8a5a-5b198f7de03d",
+                    "id": "9caf6907-2a90-4b86-9957-597e08c8cd35",
                     "name": "Article 39",
                     "type": "article",
                     "children": [
                         {
-                            "id": "394234ff-8ce8-42bc-9abd-be6f0735a983",
+                            "id": "484affab-ef53-4480-9148-1a69ca9ddbd0",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Ketua atau Wakil-wakil Ketua secara sendiri-sendiri dapat diberhentikan apabila secara pribadi\nterbukti melakukan tindak pidana.",
                             "explanation": "\nPembuktian sangkaan tindak pidana atas Ketua atau Wakil-wakil Ketua dilakukan melalui\nproses peradilan sesuai Perundang-undangan yang berlaku."
                         },
                         {
-                            "id": "5a4ad452-b4a5-410c-b34b-3c02b250c7ec",
+                            "id": "5ffea271-06bc-4fc6-ad01-b7735140c88e",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pemberhentian sebagaimana dimaksud pada ayat (1) dilakukan oleh Menteri Dalam Negeri dan\nOtonomi Daerah atas nama Presiden sebagai Kepala Negara untuk DPRD Propinsi dan Gubernur\natas nama Presiden sebagai Kepala Negara untuk DPRD Kabupaten/Kota setelah ada keputusan\nperadilan yang mempunyai kekuatan hukum tetap.",
                             "explanation": "\nPembuktian sangkaan tindak pidana atas Ketua atau Wakil-wakil Ketua dilakukan melalui\nproses peradilan sesuai Perundang-undangan yang berlaku."
@@ -1230,11 +1287,11 @@
                     ]
                 },
                 {
-                    "id": "23c9fe4c-0b2c-4658-a698-0c38ef3acea1",
+                    "id": "f799370a-d710-401e-bb6f-7d7e6586ade3",
                     "name": "Article 40",
                     "type": "article",
                     "children": {
-                        "id": "85f584c8-27c5-468c-b23b-6edd85039ce0",
+                        "id": "5c39fe91-8fa6-4875-ad5d-17457ae02612",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1245,52 +1302,52 @@
             ]
         },
         {
-            "id": "494b7285-4379-4712-8edb-0979442aba04",
+            "id": "ca4f4406-7e60-4a68-8afa-b9b242020d3d",
             "name": "Chapter VII",
             "title": "\nFRAKSI-FRAKSI",
             "type": "chapter",
             "children": [
                 {
-                    "id": "311ce1a7-aab5-46de-bf03-9afdbd6c8228",
+                    "id": "9fcf6282-e58a-42d1-8b16-45cfd63b6922",
                     "name": "Article 41",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e392e681-3fd0-40c5-9b6e-6dfc44fe000f",
+                            "id": "a64c613f-aa70-499f-ac62-9da69cb8c481",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Fraksi merupakan pengelompokan anggota DPRD berdasarkan Partai Politik peserta Pemilihan\nUmum dan TNI/POLRI yang diangkat.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "c4454701-ad22-480f-8852-7f4c65320d51",
+                            "id": "beca8a5c-20bd-4815-888f-696cee3f15f6",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Partai Politik yang dapat membentuk fraksi adalah Partai yang memperoleh jumlah kursi paling\nsedikit 1/10 (satu per sepuluh) dari jumlah anggota DPRD yang ada.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "feeb27b3-5582-498c-8cfc-a9341f906a12",
+                            "id": "064e6b72-4656-4d48-a380-30947afa9dad",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Beberapa partai politik peserta Pemilihan Umum yang jumlah kursinya di DPRD kurang dari 1/10\n(satu per sepuluh), dapat membentuk satu fraksi yang merupakan gabungan dari Partai-partai\nPolitik yang bersangkutan atau bergabung ke dalam salah satu fraksi yang sudah diakui\nkeberadaannya.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "a8732422-b7ed-4a27-8414-9c511363e319",
+                            "id": "e50dd388-ec25-4e8f-8aac-e39dcbe6cf2b",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Anggota DPRD dari partai politik yang jumlah kursinya kurang dari 1/10 (satu per sepuluh)\nsebagaimana dimaksud pada ayat (3) tidak dapat dicalonkan sebagai pimpinan DPRD.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "6411005d-d6c4-4c2c-9365-966d1bb0c02a",
+                            "id": "704c7d80-e9ab-469a-a619-04bf4027e137",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Anggota DPRD sebagaimana dimaksud pada ayat (3) dan pimpinan fraksi tempat ia bergabung\nwajib menyampaikan keputusan penggabungan kepada Pimpinan Sementara DPRD yang\nselanjutnya mengumumkan kepada seluruh anggota DPRD.",
                             "explanation": "\nCukup jelas"
@@ -1298,89 +1355,89 @@
                     ]
                 },
                 {
-                    "id": "3f6a9e30-c241-4438-88bc-a19286946a5b",
+                    "id": "f0bc0345-5f60-495c-a1e0-222cb6ee4c3e",
                     "name": "Article 42",
                     "type": "article",
                     "children": {
-                        "id": "45cadd8f-b159-4e66-a48a-2a99273209ec",
+                        "id": "e8fbbb99-56e9-4ae6-affd-98ca229cc361",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nFraksi mempunyai tugas:\na.\nmenentukan dan mengatur segala sesuatu yang menyangkut urusan fraksi;\nb. meningkatkan kualitas, kemampuan, efisiensi, dan efektifitas kerja para anggota;\nC.\nmelaksanakan kegiatan penyaringan dan penetapan pasangan Bakal Calon Kepala Daerah dan\nWakil Kepala Daerah.",
+                        "content": "\nFraksi mempunyai tugas:\na. menentukan dan mengatur segala sesuatu yang menyangkut urusan fraksi;\nb. meningkatkan kualitas, kemampuan, efisiensi, dan efektifitas kerja para anggota;\nc. melaksanakan kegiatan penyaringan dan penetapan pasangan Bakal Calon Kepala Daerah dan\nWakil Kepala Daerah.",
                         "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "a2301037-11a8-464d-88a7-434d6da30b59",
+                    "id": "d50cb59b-cd0b-46cb-aa27-d816e0554fca",
                     "name": "Article 43",
                     "type": "article",
                     "children": {
-                        "id": "3c52e28a-99a4-42c8-8541-3ba1cf0cd017",
+                        "id": "95495e52-5665-4980-9e25-a9d28b2d8709",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nFraksi-fraksi dapat memberikan pertimbangan kepada Pimpinan DPRD mengenai hal-hal yang dianggap\nperlu, berkenaan dengan bidang tugas DPRD, diminta atau tidak diminta.\n",
+                        "content": "\nFraksi-fraksi dapat memberikan pertimbangan kepada Pimpinan DPRD mengenai hal-hal yang dianggap\nperlu, berkenaan dengan bidang tugas DPRD, diminta atau tidak diminta.",
                         "explanation": "\nCukup jelas"
                     }
                 }
             ]
         },
         {
-            "id": "dedeecca-7b6a-48ff-ba18-3b523a99ed0c",
+            "id": "d2cd00fa-fb03-46ba-8d5d-c846e418e31d",
             "name": "Chapter VIII",
             "title": "\nRAPAT-RAPAT DPRD",
             "type": "chapter",
             "children": [
                 {
-                    "id": "81dc2766-cbd7-4937-84c3-a733031835e6",
+                    "id": "66be4019-d8f0-4217-8ea8-ce8b50d01912",
                     "name": "Article 44",
                     "type": "article",
                     "children": [
                         {
-                            "id": "a6059e7b-70e4-4a37-a790-c2718ca31e21",
+                            "id": "9da263fa-4318-4846-ba81-96b652676686",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " DPRD mengadakan rapat secara berkala paling sedikit 6 (enam) kali dalam setahun.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "27d5ea4e-fc1b-4497-a49d-b219269979aa",
+                            "id": "98480f9e-cef0-4d56-a20e-cb6e18c48e70",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Kecuali sebagaimana dimaksud pada ayat (1) atas permintaan sekurang-kurangnya 1/5 (satu per",
+                            "content": " Kecuali sebagaimana dimaksud pada ayat (1) atas permintaan sekurang-kurangnya 1/5 (satu per\nlima) dari jumlah anggota DPRD atau atas permintaan Kepala Daerah, DPRD dapat mengundang\nAnggotanya untuk mengadakan rapat selambat-lambatnya dalam waktu 1 (satu) bulan setelah\npermintaan itu diterima.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "86fc60d6-c3fa-4678-9304-17896b3121f3",
+                            "id": "b3cad445-9e1c-4879-bdd1-a7ddd663b2e0",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": "\nlima) dari jumlah anggota DPRD atau atas permintaan Kepala Daerah, DPRD dapat mengundang\nAnggotanya untuk mengadakan rapat selambat-lambatnya dalam waktu 1 (satu) bulan setelah\npermintaan itu diterima.\nDPRD mengadakan rapat atas undangan Ketua DPRD.",
+                            "content": " DPRD mengadakan rapat atas undangan Ketua DPRD.",
                             "explanation": "\nCukup jelas"
                         }
                     ]
                 },
                 {
-                    "id": "cf8c334a-cbb3-4f17-89e5-0a707d4fbf46",
+                    "id": "dbe48d3f-59bb-4409-923c-d2970476a9d8",
                     "name": "Article 45",
                     "type": "article",
                     "children": {
-                        "id": "0fd1822c-ac25-4db2-ac8d-9764c0a324ed",
+                        "id": "adbfb9a0-c54e-4244-a668-e245a3ba3166",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nJenis Rapat DPRD terdiri dari :\na.\nRapat Paripurna merupakan rapat anggota DPRD yang dipimpin oleh Ketua atau Wakil Ketua dan\nmerupakan forum tertinggi dalam melaksanakan wewenang dan tugas DPRD antara lain untuk\nmenyetujui Rancangan Peraturan Daerah menjadi Peraturan Daerah dan menetapkan Keputusan\nDPRD;\nb. Rapat Paripurna Istimewa merupakan Rapat anggota DPRD yang dipimpin oleh Ketua atau Wakil\nKetua untuk melaksanakan suatu acara tertentu dengan tidak mengambil Keputusan;\nC. Rapat Paripurna Khusus merupakan Rapat anggota DPRD yang dipimpin oleh Ketua atau Wakil\nKetua membahas hal-hal yang khusus;\nd. Rapat Fraksi merupakan rapat anggota fraksi yang dipimpin oleh Ketua Fraksi atau Wakil Ketua\nFraksi;\ne. Rapat Pimpinan merupakan rapat unsur Pimpinan yang dipimpin oleh Ketua DPRD;\nf. Rapat Panitia Musyawarah merupakan rapat anggota Panitia Musyawarah yang dipimpin oleh\nKetua atau Wakil Ketua Panitia Musyawarah;\ng. Rapat Komisi merupakan rapat anggota komisi yang dipimpin oleh Ketua atau Wakil Ketua Komisi;\nh. Rapat Gabungan Komisi merupakan rapat komisi-komisi yang dipimpin oleh Ketua atau Wakil\nKetua DPRD;\ni. Rapat Gabungan Pimpinan DPRD dengan Pimpinan Komisi dan atau Pimpinan Fraksi merupakan\nrapat bersama yang dipimpin oleh Pimpinan Dewan;\nj. Rapat Panitia Anggaran merupakan rapat anggota Panitia Anggaran yang dipimpin oleh Ketua\natau Wakil Ketua Panitia Anggaran;\nk. Rapat Panitia Khusus merupakan rapat anggota Panitia Khusus yang dipimpin oleh Ketua atau\nWakil Ketua dan Sekretaris Panitia Khusus;\n1. Rapat Kerja merupakan rapat antara DPRD/Panitia Anggaran/Komisi/Gabungan Komisi/Panitia\nKhusus dengan Kepala Daerah atau pejabat yang ditunjuk;\nm. Rapat Dengar Pendapat merupakan Rapat antara DPRD/Komisi/ Gabungan Komisi/Panitia\nKhusus dengan Lembaga/Badan/ Organisasi Kemasyarakatan.",
+                        "content": "\nJenis Rapat DPRD terdiri dari:\na. Rapat Paripurna merupakan rapat anggota DPRD yang dipimpin oleh Ketua atau Wakil Ketua dan\nmerupakan forum tertinggi dalam melaksanakan wewenang dan tugas DPRD antara lain untuk\nmenyetujui Rancangan Peraturan Daerah menjadi Peraturan Daerah dan menetapkan Keputusan\nDPRD;\n\nb. Rapat Paripurna Istimewa merupakan Rapat anggota DPRD yang dipimpin oleh Ketua atau Wakil\nKetua untuk melaksanakan suatu acara tertentu dengan tidak mengambil Keputusan;\nC. Rapat Paripurna Khusus merupakan Rapat anggota DPRD yang dipimpin oleh Ketua atau Wakil\nKetua membahas hal-hal yang khusus;\nd. Rapat Fraksi merupakan rapat anggota fraksi yang dipimpin oleh Ketua Fraksi atau Wakil Ketua\nFraksi;\ne. Rapat Pimpinan merupakan rapat unsur Pimpinan yang dipimpin oleh Ketua DPRD;\nf. Rapat Panitia Musyawarah merupakan rapat anggota Panitia Musyawarah yang dipimpin oleh\nKetua atau Wakil Ketua Panitia Musyawarah;\ng. Rapat Komisi merupakan rapat anggota komisi yang dipimpin oleh Ketua atau Wakil Ketua Komisi;\nh. Rapat Gabungan Komisi merupakan rapat komisi-komisi yang dipimpin oleh Ketua atau Wakil\nKetua DPRD;\ni. Rapat Gabungan Pimpinan DPRD dengan Pimpinan Komisi dan atau Pimpinan Fraksi merupakan\nrapat bersama yang dipimpin oleh Pimpinan Dewan;\nj. Rapat Panitia Anggaran merupakan rapat anggota Panitia Anggaran yang dipimpin oleh Ketua\natau Wakil Ketua Panitia Anggaran;\n\nk. Rapat Panitia Khusus merupakan rapat anggota Panitia Khusus yang dipimpin oleh Ketua atau\nWakil Ketua dan Sekretaris Panitia Khusus;\n1. Rapat Kerja merupakan rapat antara DPRD/Panitia Anggaran/Komisi/Gabungan Komisi/Panitia\nKhusus dengan Kepala Daerah atau pejabat yang ditunjuk;\nm. Rapat Dengar Pendapat merupakan Rapat antara DPRD/Komisi/ Gabungan Komisi/Panitia\nKhusus dengan Lembaga/Badan/ Organisasi Kemasyarakatan.",
                         "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "9c56a5fb-a4a5-4a8f-8454-dc07443f5f9d",
+                    "id": "6e0e8673-0fd0-4c72-8526-4f0f6d06d431",
                     "name": "Article 46",
                     "type": "article",
                     "children": {
-                        "id": "9bac00a3-c6d8-4b88-ac4b-8c3995a4e11d",
+                        "id": "1d24b0e7-6a70-428f-947b-214131079110",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1391,17 +1448,17 @@
             ]
         },
         {
-            "id": "9f8594e8-6b65-422e-bb91-91e37e07b208",
+            "id": "d677a025-f062-47c0-98a2-592a62d1461e",
             "name": "Chapter IX",
             "title": "\nPENGAMBILAN KEPUTUSAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "14760ed5-6c2e-4d5e-a588-65860cdaa869",
+                    "id": "179a4b55-5a8c-43c0-81bc-a185a627b52a",
                     "name": "Article 47",
                     "type": "article",
                     "children": {
-                        "id": "ef6095a3-065d-418c-99e6-b469615dcfc7",
+                        "id": "2456dc9e-6b78-46c7-b750-388f2d4212ff",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1410,11 +1467,11 @@
                     }
                 },
                 {
-                    "id": "9d1bc3b7-6a7c-4905-b88e-4ae0781bccf7",
+                    "id": "8e962694-d7f9-4e01-a41b-238036c35127",
                     "name": "Article 48",
                     "type": "article",
                     "children": {
-                        "id": "ce78c802-c320-4619-bbf9-8dce5348de92",
+                        "id": "00edd302-320a-4d57-b621-45798cb604d9",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1425,44 +1482,44 @@
             ]
         },
         {
-            "id": "18313647-bf9a-49ca-bcb3-aac4c15990f9",
+            "id": "ffa06c48-b440-4946-b742-c59a1e2f9d29",
             "name": "Chapter X",
             "title": "\nPENETAPAN PERATURAN DAERAH",
             "type": "chapter",
             "children": [
                 {
-                    "id": "77598fbe-c366-431c-a017-5fd489d1f40a",
+                    "id": "bc1dfc47-5f1e-434d-a953-7d7c0c9d6358",
                     "name": "Article 49",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e2e1d63e-3d23-41e3-8c47-d5fa12191024",
+                            "id": "6472ed84-131b-4cec-aab8-e97391b40d9d",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Kepala Daerah dengan persetujuan DPRD menetapkan Peraturan Daerah.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "5bca9944-835a-4ed9-add7-0a5d42db7226",
+                            "id": "9c0feef0-5cf5-4c0b-a69f-3fe23f06075f",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Rancangan Peraturan Daerah berasal dari Kepala Daerah dan atau atas usul prakarsa DPRD.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "4ee1e9b8-4254-4ea2-9de6-608bc4c0c5e9",
+                            "id": "8c2f39e3-5e67-4194-abf5-ac00cc08c7ed",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Peraturan Daerah hanya ditandatangani oleh Kepala Daerah.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "882667e4-8b1c-432f-b448-66e4cf9b9921",
+                            "id": "6e929193-b362-428f-aac4-bcae1e3d8bf5",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Persetujuan DPRD terhadap rancangan Peraturan Daerah ditetapkan dalam keputusan DPRD.",
                             "explanation": "\nCukup jelas"
@@ -1470,11 +1527,11 @@
                     ]
                 },
                 {
-                    "id": "822ef6ce-f7b8-4f48-b291-943ee00d1e44",
+                    "id": "91bbb7ce-ddc4-4d3a-971a-cac6683d49b4",
                     "name": "Article 50",
                     "type": "article",
                     "children": {
-                        "id": "f823a5c9-93bc-41d3-ae80-373ec0d45e78",
+                        "id": "5fa2933e-ce4b-4e40-a842-dd1927cf2feb",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1483,11 +1540,11 @@
                     }
                 },
                 {
-                    "id": "7ea5b711-f341-4131-a1d9-9cdc822a2ed1",
+                    "id": "52285808-8668-41f8-8d84-6ebffda4f075",
                     "name": "Article 51",
                     "type": "article",
                     "children": {
-                        "id": "be0414b3-6f77-43e1-88ae-ff74febe2a7e",
+                        "id": "c352617c-78b7-49e2-95c8-a9ebfd21ce1d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1498,38 +1555,30 @@
             ]
         },
         {
-            "id": "485f630a-0572-49c1-90ec-4380de11bb3a",
+            "id": "b80a76e6-662c-4bd1-b972-30b259794832",
             "name": "Chapter XI",
             "title": "\nKEUANGAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8799000c-c523-47d9-8496-4aefdf3ee23a",
+                    "id": "8725e21f-04ef-4315-a3b3-e8bdd3fbac55",
                     "name": "Article 52",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ebb9b00a-6edd-4dac-9b81-40f9c39de59b",
+                            "id": "4ad7f559-b680-41ec-b466-966c5107978e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " DPRD dalam melaksanakan fungsinya disediakan pembiayaan yang dianggarkan dalam Anggaran",
+                            "content": " DPRD dalam melaksanakan fungsinya disediakan pembiayaan yang dianggarkan dalam Anggaran\n(2) Pendapatan dan Belanja Daerah.\nDPRD beserta Sekretaris DPRD menyusun rencana Anggaran Belanja DPRD setiap Tahun\nAnggaran.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "c9c1a2df-dd94-4c04-a524-e642127f0b77",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": "\nPendapatan dan Belanja Daerah.\nDPRD beserta Sekretaris DPRD menyusun rencana Anggaran Belanja DPRD setiap Tahun\nAnggaran.",
-                            "explanation": "\nCukup jelas"
-                        },
-                        {
-                            "id": "8fcd2857-db95-41fc-829b-2fb7c09b3d37",
+                            "id": "6160cf50-5e45-4729-a282-3c50c7c2610b",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": "\nJenis dan biaya kegiatan DPRD ditetapkan sesuai dengan Peraturan Pemerintah tentang\nKedudukan Keuangan DPRD.",
+                            "content": " Jenis dan biaya kegiatan DPRD ditetapkan sesuai dengan Peraturan Pemerintah tentang\nKedudukan Keuangan DPRD.",
                             "explanation": "\nCukup jelas"
                         }
                     ]
@@ -1537,46 +1586,46 @@
             ]
         },
         {
-            "id": "cec03e6e-1dc6-4400-b28b-646c0d500a09",
+            "id": "94a5d160-a4e7-41ab-89e0-3578a0be705c",
             "name": "Chapter XII",
             "title": "\nSANKSI",
             "type": "chapter",
             "children": [
                 {
-                    "id": "0cbe3f2c-015c-44b3-9a48-60019622fef9",
+                    "id": "d1976ab3-070a-4411-aba0-1fe1fb07175c",
                     "name": "Article 53",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6ccb3284-147e-4732-b79c-7e32a0c4d639",
+                            "id": "6c494743-606a-49af-89ee-fa730dc9a8c2",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": "\nSetiap anggota DPRD wajib melaksanakan ketentuan sebagai-mana dimaksud dalam Pasal 25.",
+                            "content": " Setiap anggota DPRD wajib melaksanakan ketentuan sebagai-mana dimaksud dalam Pasal 25.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "a35c8b60-180a-4dd9-970b-3ca60a1f592a",
+                            "id": "68ff4202-fb5b-41b7-9dab-c3189c1322ba",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Selain ketentuan sebagaimana dimaksud pada ayat (1) anggota DPRD berkewajiban mematuhi\nsegala ketentuan yang telah ditetapkan dalam Peraturan Tata Tertib.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "5d650e47-ecf4-4ca3-a39f-591440cd0446",
+                            "id": "001b87b9-8ebd-403c-a915-49c0ef6cedca",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": "",
+                            "content": " Sanksi terhadap anggota DPRD yang melanggar ketentuan sebagaimana dimaksud pada ayat (1)\ndilaksanakan sesuai dengan peraturan perundang-undangan.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "a7ce9d0b-391a-444f-abce-6c86e6c9225b",
+                            "id": "07758036-d9e0-484a-912a-0c96d08f6659",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": "\nSanksi terhadap anggota DPRD yang melanggar ketentuan sebagaimana dimaksud pada ayat (2),\ndilaksanakan oleh Pimpinan DPRD atas usul dan pertimbangan Fraksi yang bersangkutan setelah\nmendengar pertimbangan dan penilaian dari Badan yang dibentuk khusus untuk itu.\nSanksi terhadap anggota DPRD yang melanggar ketentuan sebagaimana dimaksud pada ayat (1)\ndilaksanakan sesuai dengan peraturan perundang-undangan.",
+                            "content": " Sanksi terhadap anggota DPRD yang melanggar ketentuan sebagaimana dimaksud pada ayat (2),\ndilaksanakan oleh Pimpinan DPRD atas usul dan pertimbangan Fraksi yang bersangkutan setelah\nmendengar pertimbangan dan penilaian dari Badan yang dibentuk khusus untuk itu.",
                             "explanation": "\nCukup jelas"
                         }
                     ]
@@ -1584,40 +1633,40 @@
             ]
         },
         {
-            "id": "d829d8aa-b902-4b9e-8fd4-fd981c6712b3",
+            "id": "4f1bc65a-6ffc-4522-bd95-7525df2112a1",
             "name": "Chapter XIII",
-            "title": "\n\nSEKRETARIAT DPRD",
+            "title": "\nSEKRETARIAT DPRD",
             "type": "chapter",
             "children": [
                 {
-                    "id": "732499f5-b501-499d-8813-3aa5b77d8add",
+                    "id": "b661875c-1387-4075-8980-874343da3b1a",
                     "name": "Article 54",
                     "type": "article",
                     "children": [
                         {
-                            "id": "c55ef659-8a12-48b1-9d6b-9d609ac66d95",
+                            "id": "60547f36-5f81-49ae-809e-85e4ae1cc56e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": "\nSekretariat DPRD dipimpin oleh seorang sekretaris DPRD merupakan unsur staf yang membantu\nDPRD dalam menye-lenggarakan tugas dan kewenangannya.",
+                            "content": " Sekretariat DPRD dipimpin oleh seorang sekretaris DPRD merupakan unsur staf yang membantu\nDPRD dalam menye-lenggarakan tugas dan kewenangannya.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "5535d0fa-dbd9-4f83-9128-e8b54b7593a3",
+                            "id": "3a208be6-101a-4ca4-b452-beea5dd251de",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": "\nSekretariat DPRD dalam menjalankan fungsinya dapat menyediakan tenaga ahli untuk membantu\nAnggota DPRD, yang ditetapkan dengan Keputusan DPRD.",
+                            "content": " Sekretariat DPRD dalam menjalankan fungsinya dapat menyediakan tenaga ahli untuk membantu\nAnggota DPRD, yang ditetapkan dengan Keputusan DPRD.",
                             "explanation": "\nCukup jelas"
                         }
                     ]
                 },
                 {
-                    "id": "e8b7eeea-50f3-4d9d-adc1-0c8cce25c30c",
+                    "id": "fed66203-4881-4a65-8c19-40dcb5ffa571",
                     "name": "Article 55",
                     "type": "article",
                     "children": {
-                        "id": "ab029e20-472b-4e16-99f1-9002cd97c5be",
+                        "id": "e50bfb24-f291-4a9b-8b53-d137eb3b62cb",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1628,17 +1677,17 @@
             ]
         },
         {
-            "id": "ef91d6c6-d2c1-49e2-8e26-f2b89197307e",
+            "id": "c77a15ea-057d-4b34-999a-c3191749da47",
             "name": "Chapter XIV",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "fadf231a-1444-428e-8187-a43e5a52f20c",
+                    "id": "5e3394bc-da6c-445a-ac69-954ae73fc1f4",
                     "name": "Article 56",
                     "type": "article",
                     "children": {
-                        "id": "25c31d3c-660c-407e-a9a4-ed5c78e41b4b",
+                        "id": "4c736314-3daa-4dd5-8c18-8be1dadaa932",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",

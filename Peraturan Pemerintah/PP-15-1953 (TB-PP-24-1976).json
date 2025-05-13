@@ -1,0 +1,330 @@
+{
+    "results": [
+        {
+            "id": "6bbc64b7-223f-46ce-ab54-3d14d9acf8ce",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "16fc8223-1fd9-49dc-8359-a35027213c18",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini berlaku bagi pegawai tetap dan pegawai sementara, termasuk\npegawai bulanan. Pekerja-harian tidak termasuk pegawai dalam peraturan ini. Untuk dapat\ndiberikan hak atas istirahat menurut peraturan ini, pegawai itu harus mempunyai masa kerja\nterus menerus dalam jabatan negeri selama 6 bulan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "40cf3a7c-fa8a-45e1-90f4-623c037eed8f",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "03c938a0-2f7c-45d1-9ffc-5cd692cdf22c",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Biaya perjalanan kesesuatu tempat yang ditunjuk oleh tabib, hanya diberikan jika menurut\nsurat keterangan tabib, dijalankan-nya istirahat itu pada tempat yang ditunjuk, adalah perlu\nuntuk sembuhnya si sakit.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "19f1e439-a167-4dce-bacd-988871673a92",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "7faec9ba-cc8a-4cc5-a4bd-44cbaeb83349",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Pembesar-pembesar yang berhak memberikan istirahat adalah sedikit berlainan dengan\npembesar-pembesar yang berhak mengangkat dan memperhentikan pegawai. Demikian itu\nialah untuk melancarkan penyelesaiannya.\nHak untuk memberikan istirahat sakit dan istirahat karena alasan penting sebaiknya jangan\ndiserahkan lebih lanjut kepada pegawai-pegawai lebih rendah daripada Kepala Jawatan atau\nGubernur.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "0c1a5484-033e-4a64-a614-a79f8262c98c",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "fbc46705-9e80-47cf-8a67-287b58928cca",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Maksud ayat 2, ialah bahwa dipandang adil, apabila tunjangan jabatan dan tunjangan perjalanan tetapi diberikan kepada pegawai yang mewakili dan melakukan pekerjaaan si sakit.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "cff49eac-4855-4361-b71b-88259f271ddd",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "a36a734b-300f-4a36-9a79-5704b753f78f",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ketentuan ini diadakan berdasar penyelidikan dan anjuran Kementerian Kesehatan dan sekarangpun telah dijalankan.\nYang dimaksudkan dengan gaji penuh dalam pasal ini, adalah sama dengan gaji penuh dalam pasal 4 ayat 2, yaitu gaji pokok beserta semua tunjangan-tunjangan, kecuali tunjangan jabatan dan tunjangan perjalanan tetap.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "723f8937-36f1-4fd7-a36b-39eded416806",
+            "name": "Article 6",
+            "type": "article",
+            "children": {
+                "id": "03a3fd39-47bb-4ae8-9053-65325103931d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ketentuan dalam pasal ini dipandang selayaknya untuk hal yang dimaksudkan dalam pasal itu. Untuk seorang pegawai, yang baru bekerja beberapa hari, kemudian jatuh sakit, dirasakan tidak ada alasannya untuk diberikan gaji terus menerus selama waktu tersebut dalam pasal 4.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "77678d7b-808f-4acb-9771-95e5f8b6fb70",
+            "name": "Article 7",
+            "type": "article",
+            "children": {
+                "id": "fc8c4746-64da-4148-9464-09d14995f643",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Tidak memerlukan penjelasan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "21661f60-567d-4a45-a106-faed3259e314",
+            "name": "Article 8",
+            "type": "article",
+            "children": {
+                "id": "24430beb-227b-47a3-975c-e0c0fc67e732",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Dalam pasal ini diberikan beberapa contoh tentang apa yang dimaksudkan dengan \"alasan penting\", Menteri Urusan Pegawai dapat menentukan lain-lain hal sebagai alasan semacam itu.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "5153e90e-fb1a-4831-bf44-6dc970700959",
+            "name": "Article 9",
+            "type": "article",
+            "children": {
+                "id": "505dabe4-5fea-4d80-99a3-69f6de43ba82",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Yang dimaksudkan dengan \"lain-lain hal\", dalam ayat 2 huruf b ialah, misalnya jika istirahat itu akan dijalankan di satu kepulauan termasuk dalam propinsi yang sama, tapi perhubungannya agak sukar. Umpamanya seorang pegawai di Makassar akan menjalankan istirahatnya di pulau Talaud, jadi meskipun dalam satu propinsi, tapi perjalanannya mengambil waktu yang lama.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "7e626493-40b5-4213-82e0-cec3a8b7101b",
+            "name": "Article 10",
+            "type": "article",
+            "children": {
+                "id": "a5723fd8-c732-4fb2-98c3-dc322d61f2a0",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Tidak memerlukan penjelasan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "cb6dca23-db63-4fdf-a055-36a7316b9154",
+            "name": "Article 11",
+            "type": "article",
+            "children": {
+                "id": "65ae8c2d-3e62-4ec7-a23e-0a62860c3df1",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Tidak memerlukan penjelasan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "491b2ae3-9986-46ff-a9a5-0cbabafa6d32",
+            "name": "Article 12",
+            "type": "article",
+            "children": {
+                "id": "2556445d-e9f0-4eb3-aee0-27ee87861e9a",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Jangka waktu \"setiap tahun\" tersebut dalam ayat 1, harus dihitung dari tanggal 1 Januari\nhingga tanggal 1 Januari tahun yang berikut (kalender yaar).\nBerhubung dengan ini, maka ketentuan dalam ayat 3 berarti, bahwa seorang pegawai yang\nbaru diangkat, atau baru bekerja kembali dan sebagainya pada 1 Agustus, selama tahun yang\njalan tidak berhak atas istirahat libur.\nPasal 13 dan 14\nKetentuan-ketentuan dalam pasal-pasal ini adalah untuk menjadi, supaya pegawai-pegawai\ndapat mempergunakan haknya atas istirahat libur dengan tidak merugikan kepentingan\njabatan.\nPasal 15, 16 dan 17\nTidak memerlukan penjelasan.\nKetentuan-ketentuan dalam pasal-pasal ini diadakan atas anjuran Kementerian Kesehatan\nberdasar atas pendapat yang telah diakui kebenarannya dalam ilmu kedokteran, bahwa\nistirahat seperti yang dimaksudkan di sini (yang agak lama) perlu diberikan guna kesuburan\njasmani dan lebih lagi kesuburan rohani.\nMaksudnya terutama ialah supaya pegawai-pegawai melulu sebagai liburan dan dengan\nleluasa tidak karena ada sesuatu \"alasan penting\" dapat beristirahat dalam kampung\nhalamannya sendiri bersama keluarganya.\nPertimbangan lain untuk mengadakan ketentuan-ketentuan seperti ini, ialah supaya keseganan\nuntuk dipindahkan ke daerah yang jauh dari daerah sendiri, akan mengurangi, karena ada\nkepastian bahwa sesudah tempo 6 tahun dapat pulang ke daerah sendiri. Hal ini diharap dapat\nmenenteramkan pikiran pegawai yang bersangkutan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "7adf24a9-3375-4441-b20d-f372fbb34f6d",
+            "name": "Article 13",
+            "type": "article",
+            "children": {
+                "id": "5548242b-7a90-4bec-8f90-b8f9b9800e73",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1. Pembesar-pembesar yang berhak memberikan istirahat libur, berhak untuk menangguhkan atau memperlambat tanggal mulainya istirahat yang diminta dengan waktu yang tidak lebih dari 6 bulan, juga jika istirahat itu akan jatuh dalam tahun yang berikut. Dalam hal ini istirahat itu dipandang sebagai diberikan dalam dan untuk tahun waktu istirahat itu diminta.\n2. Permintaan istirahat libur hanya dapat ditolak dalam hal kepergiannya pegawai yang bersangkutan, akan mengganggu sungguh-sungguh kepentingan jabatan\n3. Penolakan diberikan secara tertulis dan menyebut alasan-alasannya.\n4. Hal termaksud dalam ayat 1 pasal ini tidak dipandang sebagai penolakan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "fb167fc7-5bf5-4ab1-8aa1-3eef1bf84462",
+            "name": "Article 14",
+            "type": "article",
+            "children": {
+                "id": "18f83501-84e0-42ab-9480-c0902628bb12",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1. Apabila permintaan istirahat libur dalam sesuatu tahun ditolak, maka pegawai yang berkepentingan dalam tahun yang berikut berhak untuk menjalankan istirahat yang ditolak itu di samping istirahat yang dapat diberikan kepadanya untuk tahun yang bersangkutan, dengan ketentuan bahwa kedua istirahat itu tidak lebih lama dari 24 hari-kerja.\n2. Dalam hal termaksud dalam pasal 12 ayat 2, waktu ini dapat diperpanjang dengan 7 cq. 14 hari.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "7d69e601-8acc-45e1-b272-481e48fa7599",
+            "name": "Article 15",
+            "type": "article",
+            "children": {
+                "id": "f2212ae2-6010-43e2-a955-5d0d8909b110",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1. Apabila hak atas istirahat libur ini dalam sesuatu tahun tidak dipergunakan, maka hak itu tidak dapat dipergunakan lagi dalam tahun yang berikut di samping hak yang timbul untuk tahun itu.\n2. Pembesar yang berhak memberikan istirahat libur dapat menyimpang dari ketentuan dalam ayat 1, apabila ada alasannya.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "0e1e4b25-8139-46e7-a262-9bf028891382",
+            "name": "Article 16",
+            "type": "article",
+            "children": {
+                "id": "c0e4eb9a-97e3-4c0c-8ab7-de42ed7d19df",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1. Istirahat libur tidak dapat dipecah-pecah hingga waktu yang kurang dari 6 hari-kerja, kecuali apabila berdasar kepentingan jabatan, atau berdasar kepentingan pegawai yang bersangkutan.\n2. Waktu mulainya istirahat libur ditetapkan sedapat-dapatnya sesuai dengan kehendak pegawai yang bersangkutan, akan tetapi dalam hal ini harus diperhatikan pula kepentingan jabatan dan kepentingan pegawai-pegawai lainnya.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "9c1d5657-be18-4ccc-936f-bd5e4271cde4",
+            "name": "Article 17",
+            "type": "article",
+            "children": {
+                "id": "bc10b606-f76c-49d8-9977-4b26b8e10adc",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Yang tidak berhak atas istirahat libur berdasar Peraturan ini ialah:\na.guru-guru dan maha-guru pada sekolah-sekolah, yang mendapat liburan menurut liburan yang berlaku untuk sekolah-sekolah.\nb.lain-lain pegawai, yang akan ditunjuk menurut keperluan oleh tiap-tiap Menteri.\nISTIRAHAT BESAR",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "a2737f44-ef22-4125-8fa5-84d423b54368",
+            "name": "Article 18",
+            "type": "article",
+            "children": {
+                "id": "2afa1a46-657f-48c8-a92e-afad02c27c28",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1. Pegawai warga-negara dan pegawai bangsa asing yang tidak berhak atas sesuatu istirahat Luar Negeri, yang telah bekerja terus-menerus selama 6 tahun, dalam tahun berikutnya berhak atas istirahat Dalam Negeri sebagai liburan selama 3 bulan.\nIstirahat ini selanjutnya disebut istirahat besar.\n2. Dalam hal istirahat ini diberikan, maka hak atas istirahat libur seperti dimaksudkan dalam Pasal 11, hapus.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "f6f4f26a-4674-4f5e-bece-5c77a660d1d0",
+            "name": "Article 19",
+            "type": "article",
+            "children": {
+                "id": "bd95e95e-c3b5-421e-8d8c-e7bf005a04e2",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Bilamana istirahat besar karena kepentingan jabatan tidak dapat diberikan pada waktunya,\nmaka pembesar yang berhak memberi istirahat itu, berhak untuk menangguhkan atau\nmemperlambat tanggal mulainya istirahat yang diminta dengan waktu yang tidak lebih dari 2\ntahun.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "14c49bf8-d4e8-4816-9a14-4c49642b8082",
+            "name": "Article 20",
+            "type": "article",
+            "children": {
+                "id": "f2677294-ed3e-4dbd-a81b-973b9f3f43a7",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "KETENTUAN-KETENTUAN UMUM",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "830c6e3f-51ec-4666-82d3-13529fc6818f",
+            "name": "Article 21",
+            "type": "article",
+            "children": {
+                "id": "ea49ede6-5f14-45b9-bc75-2f757ab67f09",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Tidak memerlukan penjelasan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "c016171b-fd16-4512-b613-33eebfaaddb3",
+            "name": "Article 22",
+            "type": "article",
+            "children": {
+                "id": "ae0d04f4-248b-4cc3-9c56-d23710594aa2",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ketentuan pembatasan ini perlu ditetapkan untuk menghindarkan kejadian, bahwa seorang\npegawai dengan tiada terbatas mempergunakan kemungkinan untuk minta istirahat karena\nalasan penting.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "51abe784-576b-48dd-a954-48f6af4027cb",
+            "name": "Article 23",
+            "type": "article",
+            "children": {
+                "id": "545c9122-3937-455b-9616-9dfff93b1779",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Karena pada waktu mulai berlakunya peraturan ini sudah banyak pegawai Negeri yang\nberhak atas istirahat besar, maka apabila mereka semua ingin segera mempergunakan haknya\nitu, pekerjaan jabatan mungkin akan sangat terganggu. Berhubung dengan itu, maka sebagai\nperaturan peralihan diadakan ketentuan seperti dalam pasal ini, yang berarti bahwa pertama\nsekali harus diberikan kesempatan penuh untuk beristirahat kepada pegawai yang sudah\nmempunyai masa-kerja lebih dari 24 tahun. Selanjutnya, atau jika pada waktu itu tidak ada\npegawai yang sudah mempunyai masa kerja tersebut, maka pegawai-pegawai yang sudah\nmempunyai masa-kerja 20 tahun sampai 24 tahun dapat diberikan kesempatan dan seterusnya\nmenurut daftar dalam pasal ini.\nTermasuk Lembaran Negara Republik Indonesia Nomor 26 tahun 1953.\nDiketahui:\nMENTERI KEHAKIMAN,\nttd\nLOEKMAN WIRIADINΑΤΑ.\nCATATAN\nRALAT\nDalam Peraturan Pemerintah Nomor 15 tahun 1953, yang dimuat dalam Lembaran Negara\nNomor 26 tahun 1953, halaman 6, sebagaimana termaktub pada Pasal 16, sub 1, baris kedua\ndari atas, kata \"harus\" seharusnya dibaca \"hapus\".\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 379\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "74d50202-ad97-4653-8d65-193c3797f7e6",
+            "name": "Article 24",
+            "type": "article",
+            "children": {
+                "id": "e0b91864-c240-4f77-995f-0207841b81e1",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatan dalam Lembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "15",
+        "Tahun": "1953",
+        "Tentang": "PEMBERIAN ISTIRAHAT DALAM NEGERI",
+        "Menimbang": {
+            "Introduction": "\nperlu memperbaharui dan menetapkan kembali peraturan-peraturan\nyang mengenai pemberian istirahat dalam Negeri;"
+        },
+        "Mengingat": {
+            "Introduction": "\nPeraturan Pemerintah Republik Indonesia Nomor 6 tahun 1948,\nStaatsblad 1912 Nomor 198 seperti kemudian diubah dan ditambah\ndan Staatsblad 1934 Nomor 479\nMendengar  Dewan Menteri dalam rapatnya yang ke-81 pada tanggal 20 Pebruari",
+            "1953": ""
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PEMBERIAN\nISTIRAHAT DALAM NEGERI.",
+        "tanggal sah": "11 Maret 1953"
+    }
+}

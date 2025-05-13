@@ -1,0 +1,127 @@
+{
+    "results": [
+        {
+            "id": "d03ba7e5-e775-4c29-9aaf-281a8dee732e",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [],
+                    "id": "e7fe154a-3ce7-4dcd-a7b7-e33ba208b1f9",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ed008b8a-1207-4bd1-b265-13ac0c530bac",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "5f481a56-c049-4ebf-a9c0-569c8a1c40d3",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "dfb14b4f-1dca-4e99-ad32-900abce1ce09",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "693533ce-48d4-42d2-926f-270debe48e00",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "4494cd4a-d32f-44bb-aba1-010b39c9463b",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "0bfc6dfb-9435-4511-84e7-cedfff72c115",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f94b4899-0610-4a8d-92f2-a6cfc33dce18",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "2547f11c-d669-4267-8e35-48c32c81c984",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e4acca8f-00da-4117-83a8-5d878d9ed803",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ef3a9c1a-fa3e-44f5-93d7-5a8638dd6d46",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "e69b9b0d-238e-49bd-b1bc-fe32c46e3634",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang mengetahuinya memerintahkan pengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "141",
+        "Tahun": "2000",
+        "Tentang": "PERUBAHAN KEDUA ATAS\nPERATURAN PEMERINTAH NOMOR 15 TAHUN 1990\nTENTANG USAHA PERIKANAN",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa Peraturan Pemerintah Nomor 15 Tahun 1990 tentang Usaha Perikanan\nsebagaimana telah diubah dengan Peraturan Pemerintah Nomor 46 Tahun 1993\ndalam pelaksanaannya sudah tidak dapat menampung perkembangan kegiatan\nusaha perikanan;",
+            "b": " bahwa dalam rangka meningkatkan penerimaan Negara dari sektor perikanan, perlu\nmemberikan pelayanan Surat Izin Kapal Penangkap dan Pengangkut Ikan Indonesia\n(SIKPPII) dan Surat Izin Kapal Pengangkut Ikan Indonesia (SIKPII) bagi perorangan\nmaupun badan hukum yang melakukan usaha perikanan;",
+            "c": " bahwa sehubungan dengan hal tersebut, dipandang perlu mengubah Peraturan\nPemerintah Nomor 15 Tahun 1990 tentang Usaha Perikanan sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 46 Tahun 1993;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945 sebagaimana telah diubah dengan\nPerubahan Kedua Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 1 Tahun 1967 tentang Penanaman Modal Asing (Lembaran\nNegara Republik Indonesia Tahun 1967 Nomor 1, Tambahan Lembaran Negara\nNomor 2818) sebagaimana telah diubah dengan Undang-undang Nomor 11 Tahun\n1970 (Lembaran Negara Republik Indonesia Tahun 1970 Nomor 46, Tambahan\nLembaran Negara Nomor 2943);",
+            "3": " Undang-undang Nomor 6 Tahun 1968 tentang Penanaman Modal Dalam Negeri\n(Lembaran Negara Republik Indonesia Tahun 1968 Nomor 33, Tambahan Lembaran\nNegara Nomor 2853) sebagaimana telah diubah dengan Undang-undang Nomor 12\nTahun 1970 (Lembaran Negara Republik Indonesia Tahun 1970 Nomor 47,\nTambahan Lembaran Negara Nomor 2944);",
+            "4": " Undang-undang Nomor 5 Tahun 1983 tentang Zona Ekonomi Eksklusif Indonesia\n(Lembaran Negara Republik Indonesia Tahun 1983 Nomor 44, Tambahan Lembaran\nNegara Nomor 3260);",
+            "5": " Undang-undang Nomor 9 Tahun 1985 tentang Perikanan (Lembaran Negara Republik\nIndonesia Tahun 1985 Nomor 16, Tambahan Lembaran Negara Nomor 3299);",
+            "6": " Undang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara Bukan Pajak\n(Lembaran Negara Republik Indonesia Tahun 1997 Nomor 43, Tambahan Lembaran\nNegara Nomor 3687);",
+            "7": " Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah (Lembaran\nNegara Republik Indonesia Tahun 1999 Nomor 60, Tambahan Lembaran Negara\nNomor 3839);",
+            "8": " Undang-undang Nomor 25 Tahun 1999 tentang Perimbangan Keuangan antara\nPemerintah Pusat dan Daerah (Lembaran Negara Republik Indonesia Tahun 1999\nNomor 72, Tambahan Lembaran Negara Nomor 3851);",
+            "9": " Peraturan Pemerintah Nomor 15 Tahun 1990 tentang Usaha Perikanan (Lembaran\nNegara Republik Indonesia Tahun 1990 Nomor 19, Tambahan Lembaran Negara\nNomor 3408) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 43\nTahun 1993 (Lembaran Negara Republik Indonesia Tahun 1993 Nomor 73,\nTambahan Lembaran Negara Nomor 3536);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN KEDUA ATAS PERATURAN\nPEMERINTAH NOMOR 15 TAHUN 1990 TENTANG USAHA PERIKANAN.",
+        "tanggal sah": "21 Desember 2000"
+    }
+}

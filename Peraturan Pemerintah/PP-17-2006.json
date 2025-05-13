@@ -1,0 +1,103 @@
+{
+    "results": [
+        {
+            "id": "95c43164-291e-4cd1-87ae-30ce4b6abfee",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "bdd8bc83-ee7a-4970-8f43-655cbb9a68c8",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "420f78af-755b-47d4-8d1c-f5afa6268825",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nKepada Perintis Pergerakan Kebangsaan/Kemerdekaan\ndiberikan Tunjangan Perintis Pergerakan\nKebangsaan/Kemerdekaan sebesar Rp 984.000,00\n(sembilan ratus delapan puluh empat ribu rupiah) setiap\nbulan."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "dac8f2fe-be18-4f78-8bc3-10d9dc691224",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "b8234d51-6a1a-4c7f-95dc-0cc9ef6729a6",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Apabila Perintis Pergerakan Kebangsaan/\nKemerdekaan meninggal dunia kepada janda/dudanya\nyang sah diberikan penghargaan/tunjangan sebesar\nRp 733.000,00 (tujuh ratus tiga puluh tiga ribu\nrupiah) setiap bulan."
+                        },
+                        {
+                            "id": "b23f97f5-29d3-4828-b54e-e86a104db968",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Dalam hal terdapat lebih dari seorang janda/ duda\nyang sah, maka tunjangan sebagaimana dimaksud\npada ayat (1) dibagi rata untuk masing-masing\njanda/duda."
+                        },
+                        {
+                            "id": "3bfaa245-0ef1-4c56-b7ef-0c5e12a2dc1d",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Pembayaran penghargaan/tunjangan sebagaimana\ndimaksud pada ayat (1), dihentikan apabila\njanda/duda Perintis Pergerakan Kebangsaan/\nKemerdekaan yang bersangkutan :\na. Meninggal dunia; atau\nb. Kawin lagi."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "eb264382-608e-4cfd-9863-3d6e022a0082",
+                    "name": "Article 3A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "93190576-edfa-431c-b6a6-80f2042e4b3f",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPemberian Tunjangan sebagaimana dimaksud dalam Pasal\n1 dan Pasal 3 berlaku sejak tanggal 1 Januari 2006."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "46ba644a-ec49-4a0f-bc14-4783967f28c1",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "dbe259d5-8384-4d4b-8d75-615c17b47a7f",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "17",
+        "Tahun": "2006",
+        "Tentang": "PERUBAHAN KELIMA ATAS\nPERATURAN PEMERINTAH NOMOR 14 TAHUN 1985\nTENTANG PEMBERIAN TUNJANGAN PERINTIS PERGERAKAN\nKEBANGSAAN/KEMERDEKAAN",
+        "Menimbang": {
+            "Introduction": "\nbahwa besaran tunjangan yang diberikan kepada Perintis\nPergerakan Kebangsaan/Kemerdekaan sebagaimana\nditetapkan dalam Peraturan Pemerintah Nomor 14 Tahun\n1985 tentang Pemberian Tunjangan Perintis Pergerakan\nKebangsaan/Kemerdekaan, sebagaimana telah tiga kali\ndiubah terakhir dengan Peraturan Pemerintah Nomor 36\nTahun 2001, tidak sesuai lagi dengan perkembangan keadaan,\nsehingga perlu diubah besaran tunjangannya dengan\nPeraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 5 Prps. Tahun 1964 tentang\nPemberian Penghargaan/Tunjangan Kepada Perintis\nPergerakan Kembangsaan/Kemerdekaan (Lembaran Negara\nRepublik Indonesia Tahun 1964 Nomor 19, Tambahan\nLembaran Negara Republik Indonesia Nomor 2636);",
+            "3": " Peraturan Pemerintah Nomor 14 Tahun 1985 tentang\nTunjangan Perintis Pergerakan Kebangsaan/ Kemerdekaan\n(Lembaran Negara Republik Indonesia Tahun 1985 Nomor\n20), sebagaimana telah empat kali diubah terakhir dengan\nPeraturan Pemerintah Nomor 36 Tahun 2001 (Lembaran\nNegara Republik Indonesia Tahun 2001 Nomor 59);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN KELIMA\nATAS PERATURAN PEMERINTAH NOMOR 14 TAHUN 1985\nTENTANG PEMBERIAN TUNJANGAN PERINTIS PERGERAKAN\nKEBANGSAAN/KEMERDEKAAN.",
+        "tanggal sah": "20 April 2006"
+    }
+}

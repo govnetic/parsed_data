@@ -1,68 +1,68 @@
 {
     "results": [
         {
-            "id": "7abafa70-2b98-439f-8568-c4b7f6dcccc9",
+            "id": "ff5e5d2c-34ec-418f-8bea-28514809e063",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "b5eb2248-d42d-4d2a-9f8b-f0981e732a5a",
+                "id": "9ebfc562-37cb-43a2-9385-0fa54c30b184",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas.",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Dalam Peraturan Pemerintah ini yang dimaksud dengan :\n1. Surat Perbendaharaan Negara yang selanjutnya disebut SPN\nadalah Surat Utang Negara yang berjangka waktu paling\nlama 12 (dua belas) bulan dengan pembayaran bunga\nsecara diskonto.\n2. Diskonto SPN adalah selisih lebih antara nilai nominal yang\nakan diterima pada saat jatuh tempo dengan nilai tunai\nyang dibayar, tidak termasuk Pajak Penghasilan yang\ndipungut, pada saat penerbitan SPN di Pasar Perdana.\n3. Pasar Perdana SPN adalah kegiatan penawaran dan\npenjualan SPN untuk pertama kali.",
+                "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "222a2410-8788-40d2-b64f-f22505508782",
+            "id": "1e37482d-ac3d-4a61-87c4-c47ba5543cc3",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "004dd02f-8a80-4e76-861d-449e1a10ec57",
+                "id": "aa1682b9-3a54-4c6e-9102-3ad14567b439",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Pasal 2\nCukup jelas.",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "(1) Atas penghasilan tertentu dari Wajib Pajak berupa Diskonto\nSPN dikenakan pemungutan Pajak Penghasilan yang\nbersifat final.\n(2) Besarnya . . .\n(2) Besarnya Pajak Penghasilan sebagaimana dimaksud pada\nayat (1) adalah 20% (dua puluh persen) dari diskonto SPN.",
+                "explanation": "\nPasal 2\nCukup jelas."
             }
         },
         {
-            "id": "f9d36d1d-34d6-49d1-b7c7-e7fa1972d015",
+            "id": "8b434e84-7fc6-4c41-89c3-ae62d21f1619",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "1d9207f9-a3a4-483c-825b-0af6815babc3",
+                "id": "84dfad9b-2e7c-4df1-ae1f-9feb7d62c01e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas.",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "(1) Pemungutan Pajak Penghasilan sebagaimana dimaksud\ndalam Pasal 2 dilakukan oleh Bank Indonesia sebagai agen\npembayar bunga dan pokok Surat Utang Negara.\n(2) Pemungutan Pajak Penghasilan dilakukan pada tanggal\npenyelesaian transaksi penjualan SPN di Pasar Perdana.",
+                "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "64421d2c-9309-45c6-994b-a17a991d8610",
+            "id": "3682f0c5-41f9-4f3b-bb28-886062dba783",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "5578115b-8520-4f34-b970-ddf1bd4ded4e",
+                "id": "67a0699c-e99a-43bb-880f-d20e329ef14e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas.",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Ketentuan lebih lanjut mengenai tata cara pemungutan pajak\npenghasilan sebagaimana dimaksud dalam Pasal 3 diatur\ndengan Peraturan Menteri Keuangan.",
+                "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "baffd8db-17bc-4008-925b-c26d8e42f778",
+            "id": "4eca526a-2929-403e-a6a7-f04c35efe7b6",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "5de52146-f16a-490d-b9bd-5a850b724f9a",
+                "id": "7d351c80-2d9c-42d8-8c20-4752eda27411",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas.\n",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "explanation": "\nCukup jelas.\n"
             }
         }
     ],
@@ -77,9 +77,10 @@
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
             "2": " Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan\nUmum dan Tata Cara Perpajakan (Lembaran Negara\nRepublik Indonesia Tahun 1983 Nomor 49, Tambahan\nLembaran Negara Republik Indonesia Nomor 3262)\nsebagaimana telah beberapa kali diubah terakhir dengan\nUndang-Undang Nomor 16 Tahun 2000 (Lembaran Negara\nRepublik Indonesia Tahun 2000 Nomor 127; Tambahan\nLembaran Negara Republik Indonesia Nomor 3985);",
-            "3": " Undang-Undang Nomor 7 Tahun 1983 tentang Pajak\nPenghasilan (Lembaran Negara Republik Indonesia Tahun\n1983 Nomor 50, Tambahan Lembaran Negara Republik\nIndonesia Nomor 3985);"
+            "3": " Undang-Undang Nomor 7 Tahun 1983 tentang Pajak\nPenghasilan (Lembaran Negara Republik Indonesia Tahun\n1983 Nomor 50, Tambahan Lembaran Negara Republik\nIndonesia Nomor 3985);",
+            "4": " Undang-Undang Nomor 24 Tahun 2002 tentang Surat utang\nNegara (Lembaran Negara Republik Indonesia Tahun 2002\nNomor 110, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4236);"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang Pajak Penghasilan\nAtas Diskonto Surat Perbendaharaan Negara;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan\nUmum dan Tata Cara Perpajakan (Lembaran Negara\nRepublik Indonesia Tahun 1983 Nomor 49, Tambahan\nLembaran Negara Republik Indonesia Nomor 3262)\nsebagaimana telah beberapa kali diubah terakhir dengan\nUndang-Undang Nomor 16 Tahun 2000 (Lembaran Negara\nRepublik Indonesia Tahun 2000 Nomor 127; Tambahan\nLembaran Negara Republik Indonesia Nomor 3985);\n3. Undang-Undang Nomor 7 Tahun 1983 tentang Pajak\nPenghasilan (Lembaran Negara Republik Indonesia Tahun\n1983 Nomor 50, Tambahan Lembaran Negara Republik\nIndonesia Nomor 3985);\nMEMUTUSKAN\nMenetapkan\n4. Undang-Undang\nUndang-Undang Nomor 24 Tahun 2002\nMEMUTUSKAN \nMenetapkan  PERATURAN PEMERINTAH TENTANG PAJAK PENGHASILAN ATAS DISKONTO SURAT PERBENDAHARAAN NEGARA.",
-        "tanggal sah": ""
+        "Menetapkan": "\nPeraturan Pemerintah tentang Pajak Penghasilan\nAtas Diskonto Surat Perbendaharaan Negara;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan\nUmum dan Tata Cara Perpajakan (Lembaran Negara\nRepublik Indonesia Tahun 1983 Nomor 49, Tambahan\nLembaran Negara Republik Indonesia Nomor 3262)\nsebagaimana telah beberapa kali diubah terakhir dengan\nUndang-Undang Nomor 16 Tahun 2000 (Lembaran Negara\nRepublik Indonesia Tahun 2000 Nomor 127; Tambahan\nLembaran Negara Republik Indonesia Nomor 3985);\n3. Undang-Undang Nomor 7 Tahun 1983 tentang Pajak\nPenghasilan (Lembaran Negara Republik Indonesia Tahun\n1983 Nomor 50, Tambahan Lembaran Negara Republik\nIndonesia Nomor 3985);\n4. Undang-Undang\n4. Undang-Undang Nomor 24 Tahun 2002 tentang Surat utang\nNegara (Lembaran Negara Republik Indonesia Tahun 2002\nNomor 110, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4236);\nMEMUTUSKAN \nMenetapkan  PERATURAN PEMERINTAH TENTANG PAJAK PENGHASILAN\nATAS DISKONTO SURAT PERBENDAHARAAN NEGARA.",
+        "tanggal sah": "15 April 2006"
     }
 }

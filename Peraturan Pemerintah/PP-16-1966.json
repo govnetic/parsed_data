@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+            "id": "3cceb295-eefc-4323-a5fe-c605b35708c1",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "0b5b4893-9b6a-446b-b359-82f6f3161c09",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Perusahaan Bangunan Negara \"Nabuka Karya\" yang didirikan\ndengan Peraturan Pemerintah No. 16 Tahun 1962 (Lembaran Negara\nTahun 1962 No. 57), terhitung mulai tanggal 1 September 1966\ndinyatakan dibubarkan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "8242016b-42ca-4364-bb29-c9d6103575b0",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "0d9f6575-00b8-4054-8c1b-762eef8115b5",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Cara Pembubaran Perusahaan dan penyelenggaraan pengurusan dan\npengawasan terhadap segala hak dan kewajiban perlengkapan dan\nkekayaan serta usaha-usaha dari Perusahaan Bangunan Negara\n\"Nabuka Karya\" yang dibubarkan diatur dan ditetapkan oleh\nMenteri Pekerjaan Umum, dengan mengindahkan petunjuk-petunjuk\nKetua Presidium Kabinet.\n(2) Menteri Pekerjaan Umum menunjuk likuidatur untuk Perusahaan\nyang dibubarkan, seperti dimaksud pada pasal 1.\n(3) Semua kekayaan Perusahaan setelah diadakan likwidasi menjadi\nmilik Negara c.q. Departemen Pekerjaan Umum.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "8d4fb278-726a-4b33-a85d-a0310c7d7def",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "69df0115-d95e-4a7f-ae8e-4f62175bfb0d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1\nSeptember 1966.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "16",
+        "Tahun": "1966",
+        "Tentang": "PEMBUBARAN PERUSAHAAN BANGUNAN NEGARA \"NABUKA KARYA\"",
+        "Menimbang": {
+            "Introduction": "\nbahwa dalam rangka penyederhanaan Struktur aparatur-pembangunan\nserta untuk mempertinggi effisiensi (daya-guna) dalam pelaksanaan\ntugas-tugas pembangunan khususnya di bidang prasarana (Pekerjaan\nUmum), perlu membubarkan perusahaan Bangunan Negara \"Nabuka-Karya\"\nyang didirikan dengan Peraturan Pemerintah No. 16 Tahun 1962."
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar;",
+            "2": " Undang-undang No. 19 Prp Tahun 1960."
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PEMBUBARAN PERUSAHAAN BANGUNAN NEGARA\n\"NABUKA KARYA\".",
+        "tanggal sah": "1 September 1966"
+    }
+}

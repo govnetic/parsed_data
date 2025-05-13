@@ -1,0 +1,132 @@
+{
+    "results": [
+        {
+            "id": "4ade3ad6-0ea7-45d8-b704-7c8597fb34db",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "a7e5c87e-4991-4eaf-ac5f-7b025709e12b",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "10f3983e-e3cb-4834-96dc-ec21cce25033",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pimpinan LPSK diberikan penghasilan setiap\nbulan."
+                        },
+                        {
+                            "id": "64e53a13-e5ad-4ebe-adba-2ab251a5cd0b",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Penghasilan sebagaimana dimaksud pada ayat (1)\nterdiri atas:\na. gaji; dan\nb. tunjangan jabatan."
+                        },
+                        {
+                            "id": "2f5669df-996c-4ed8-9f67-709cbc056dd5",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Besaran gaji Pimpinan LPSK sebagaimana\ndimaksud pada ayat (2) huruf a sebagai berikut:\na. Ketua merangkap Anggota sebesar\nRp21.000.000,00 (dua puluh satu juta\nrupiah); dan\nb. Wakil Ketua merangkap Anggota sebesar\nRp21.000.000,00 (dua puluh satu juta\nrupiah)."
+                        },
+                        {
+                            "id": "6d167430-362d-4523-8e07-0145dea4fd10",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Besaran tunjangan jabatan Pimpinan LPSK\nsebagaimana dimaksud pada ayat (2) huruf b\nsebagai berikut:\na. Ketua merangkap Anggota sebesar\nRp13.800.000,00 (tiga belas juta delapan\nratus ribu rupiah); dan\nb. Wakil Ketua merangkap Anggota sebesar\nRp12.420.000,00 (dua belas juta empat ratus\ndua puluh ribu rupiah)."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "237f8c95-74a3-4ec1-8832-c37077f71b46",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "320edbef-177e-48f6-99a6-a2fa10537003",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pimpinan LPSK diberikan hak lainnya berupa:\na. tunjangan perumahan;\nb. tunjangan asuransi kesehatan dan jiwa;\nc. uang penghargaan;\nd. tunjangan transportasi;\ne. keprotokolan;\nf. perlindungan hukum; dan\ng. biaya perjalanan dinas."
+                        },
+                        {
+                            "id": "d5b1c215-cac8-457a-baa1-f824abad06b0",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Besaran tunjangan perumahan sebagaimana\ndimaksud pada ayat (1) huruf a sebagai berikut:\na. Ketua merangkap Anggota sebesar\nRp6.770.000,00 (enam juta tujuh ratus tujuh\npuluh ribu rupiah); dan\nb. Wakil Ketua merangkap Anggota sebesar\nRp6.120.000,00 (enam juta seratus dua\npuluh ribu rupiah)."
+                        },
+                        {
+                            "id": "c03cd7fc-7dd0-4da6-b617-4cb419b9352a",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Besaran tunjangan asuransi kesehatan dan jiwa\nsebagaimana dimaksud pada ayat (1) huruf b\nsebagai berikut:\na. Ketua merangkap Anggota sebesar\nRp4.000.000,00 (empat juta rupiah); dan\nb. Wakil Ketua merangkap Anggota sebesar\nRp4.000.000,00 (empat juta rupiah)."
+                        },
+                        {
+                            "id": "1b4f5660-a0e7-47d1-af51-4f746b184481",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Besaran tunjangan transportasi sebagaimana\ndimaksud pada ayat (1) huruf d sebagai berikut:\na. Ketua merangkap Anggota sebesar\nRp17.660.000,00 (tujuh belas juta enam\nratus enam puluh ribu rupiah); dan\nb. Wakil Ketua merangkap Anggota sebesar\nRp17.660.000,00 (tujuh belas juta enam\nratus enam puluh ribu rupiah)."
+                        },
+                        {
+                            "id": "3c6c6096-a4be-442a-b820-83391e1aa320",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Biaya perjalanan dinas sebagaimana dimaksud\npada ayat (1) huruf g diberikan setara dengan\nbiaya perjalanan dinas Jabatan Pimpinan Tinggi\nMadya yang penggunaannya dilaksanakan sesuai\ndengan ketentuan peraturan perundang-\nundangan."
+                        },
+                        {
+                            "id": "d7386d8a-0060-4a74-98c7-d04f1e38a869",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Hak lainnya bagi Pimpinan LPSK sebagaimana\ndimaksud pada ayat (1) tidak termasuk fasilitas\nberupa rumah jabatan dan kendaraan dinas\njabatan, serta perlindungan berupa manfaat\njaminan kesehatan dan manfaat jaminan\npensiun."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3f5c9c40-e558-4580-8c99-fd6243223944",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "4b49769d-b267-4508-a1e3-5e4992b0f3a7",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "14",
+        "Tahun": "2022",
+        "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 12 TAHUN 2016\nTENTANG PENGHASILAN, HAK LAINNYA, DAN PERLINDUNGAN KEAMANAN\nBAGI PIMPINAN LEMBAGA PERLINDUNGAN SAKSI DAN KORBAN",
+        "Menimbang": {
+            "Introduction": "",
+            "a": "\nPRESIDEN REPUBLIK INDONESIA,\nbahwa Peraturan Pemerintah Nomor 12 Tahun 2016\ntentang Penghasilan, Hak Lainnya, dan Perlindungan\nKeamanan Bagi Pimpinan Lembaga Perlindungan\nSaksi dan Korban perlu disesuaikan sejalan dengan\nperubahan struktur organisasi, serta penambahan\ntugas dan kewenangan Pimpinan Lembaga\nPerlindungan Saksi dan Korban;",
+            "b": " bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nPemerintah tentang Perubahan Atas Peraturan\nPemerintah Nomor 12 Tahun 2016 tentang\nPenghasilan, Hak Lainnya, dan Perlindungan\nKeamanan Bagi Pimpinan Lembaga Perlindungan\nSaksi dan Korban;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 64, Tambahan Lembaran Negara Republik Indonesia Nomor 4635) sebagaimana telah diubah dengan Undang-Undang Nomor 31 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 293, Tambahan Lembaran Negara Republik Indonesia Nomor 5602);",
+            "3": " Peraturan Pemerintah Nomor 12 Tahun 2016 tentang Penghasilan, Hak Lainnya, dan Perlindungan Keamanan Bagi Pimpinan Lembaga Perlindungan Saksi dan Korban (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 88, Tambahan Lembaran Negara Republik Indonesia Nomor 5879);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 12 TAHUN 2016 TENTANG PENGHASILAN, HAK LAINNYA, DAN PERLINDUNGAN KEAMANAN BAGI PIMPINAN LEMBAGA PERLINDUNGAN SAKSI DAN KORBAN.",
+        "tanggal sah": "5 April 2022"
+    }
+}

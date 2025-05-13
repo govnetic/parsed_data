@@ -1,0 +1,392 @@
+{
+    "results": [
+        {
+            "id": "38065862-aaf6-4300-9d5a-016221c23ee3",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "52a357d9-01d2-4c13-b865-aebf6900cf89",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "1d345753-6f36-48ba-9d45-a95b30d58abe",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan\n1. Menteri adalah Menteri yang bertanggung jawab dalam bidang\npeternakan.\n2. Izin\n2. Izin Usaha Peternakan adalah izin tertulis yang diberikan oleh\nMenteri atau pejabat lain yang diberi wewenang olehnya, yang\nmemberikan hak untuk melaksanakan perusahaan peternakan;\n3. Perusahaan Peternakan adalah suatu usaha yang dijalankan secara\nteratur dan terusmenerus pada suatu tempat dan dalam jangka waktu\ntertentu untuk tujuan komersiil yang meliputi kegiatan menghasilkan\nternak (ternak bibit/ternak potong), telur dan susu serta usaha\nmenggemukkan suatu jenis ternak termasuk mengumpulkan,\nmengedarkan dan memasarkannya, yang untuk tiap jenis ternak\nmelebihi dari jumlah yang ditetapkan untuk tiap jenis ternak pada\npeternakan rakyat;\n4. Peternakan Rakyat adalah usaha peternakan yang diselenggarakan\nsebagai usaha sampingan yang jumlah maksimum kegiatannya untuk\ntiap jenis ternak ditetapkan oleh Menteri.",
+                        "explanation": "\nAngka I\nCukup jelas.\nAngka 2\nJika dipandang perlu pemberian Izin Usaha Peternakan dapat dilimpahkan oleh\nMenteri kepada pejabat lain yang ditunjuk atau Gubernur Kepala Daerah.\nAngka 3\nTermasuk dalam pengertian \"mengumpulkan dan mengedarkan\"ternak ialah\nmengumpulkan dan mengedarkan ternak dengan maksud dijual-belikan.\nAngka 4\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "39b7b82d-71b8-4292-b5ee-7d816ade4dcd",
+            "name": "Chapter II",
+            "title": "\nWILAYAH USAHA DAN JENIS PETERNAKAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "61b46525-1080-48f7-892d-9a56580ca625",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": {
+                        "id": "7e03e3bb-c8b1-47ed-b785-c00c2374eb39",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSeluruh wilayah Negara Republik Indonesia terbuka untuk semua jenis\nusaha di bidang peternakan; kecuali apabila Menteri menetapkan lain.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "d1274bec-a312-45cf-ac49-f9e0cb78a0b1",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6995472b-6d0f-4c9c-ba6f-946cdf03edcf",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Jenis peternakan dapat digolongkan menjadi:\nA. Peternakan Unggas, yang terdiri dari bidang: peternakan ayam\ntelur;\na.2. peternakan\na.2. peternakan ayam daging;\na.3. peternakan ayam bibit;\na.4. peternakan unggas lainnya;\nb. Peternakan kambing dan domba;\nc. Peternakan babi;\nd. Peternakan sapi potong;\ne. Peternakan kerbau-potong;\nf. Peternakan sapi perah;\ng. Peternakan kerbau perah;\nh. Peternakan kuda.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "17a1440b-5cdb-4166-adc2-8a97f3956f2f",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Menteri dapat mengubah dan atau menambah jenis-jenis peternakan\nsebagaimana dimaksud pada ayat (1).",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8af23ab6-02d9-41c8-9ac1-1574b392559b",
+            "name": "Chapter III",
+            "title": "",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "e716ca04-6d4f-46d0-8f5b-a768b3d7d891",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "64e4d7fa-f2be-4864-bfc0-43cf82ce9728",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSetiap perusahaan peternakan wajib memiliki Izin Usaha Peternakan.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "aa310b0e-1df1-4e46-a364-604b7887fcab",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": {
+                        "id": "cc93d7d6-be5c-414b-a6e9-90f396844636",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nIzin Usaha Peternakan dapat diberikan kepada\na. Badan Hukum Indonesia;\nb. Perorangan Warganegara Indonesia.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "6aae906f-8564-45b5-86d7-1c6d08101241",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a9b86165-0881-4c0c-9e28-c4280f0d7cf4",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Perusahaan Peternakan wajib mempunyai tenaga ahli, modal, dan\nperalatan yang cukup sesuai dengan persyaratan yang ditetapkan\nlebih lanjut oleh Menteri.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "4673a755-fc62-411e-8ce4-b0c99b7f3b5f",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Syarat-syarat dan tatacara pengajuan permohonan serta pemberian\nIzin Usaha Peternakan ditetapkan lebih lanjut oleh Menteri.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "8cc59a92-1954-495f-975b-1ee27ba1b73b",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": {
+                        "id": "9ebe215c-400a-4882-aec0-e9a3ac2a0462",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSetiap Izin Usaha Peternakan dikenakan Iuran Izin Usaha Peternakan\nyang besarnya serta tatacara pemungutan, penyetoran, dan\npenggunaannya ditetapkan lebih lanjut oleh Menteri setelah mengadakan\nkonsultasi dan koordinasi dengan Menteri Keuangan.",
+                        "explanation": "\nCukup jelas.\n"
+                    }
+                },
+                {
+                    "id": "1845a500-3e2a-4766-af97-63c407cd2faf",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "869599d1-8ceb-4c9a-98ba-7c74b013f4ad",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pemegang Izin Usaha Peternakan wajib dengan nyata-nyata dan\nsungguh-sungguh mendirikan dan menjalankan perusahaan\npeternakan sesuai dengan rencana yang telah disetujui oleh Menteri.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "e31b7ddc-8abf-478d-b178-ac4fa0ff4659",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Izin Usaha Peternakan sebagaimana dimaksud pada Pasal 5 tidak\ndapat dipindah tangankan dengan cara dan atau bentuk apapun.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "0955b0c6-8ea1-4c8a-8405-803d6ce7dfdc",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": {
+                        "id": "facbd3ba-82a7-4967-850a-d81dcece4c63",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPemegang Izin Usaha Peternakan sebagaimana dimaksud Pada Pasal 8\nayat (1) wajib memperhatikan dan melaksanakan segala ketentuan di\nbidang peternakan, pencegahan, pemberantasan, dan pengobatan\npenyakit hewan serta ketentuan peraturan perundang-undangan yang\nberlaku.\n",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "26e719bc-bdc7-4090-bbe6-fd280ed6220f",
+            "name": "Chapter IV",
+            "title": "\nJANGKA WAKTU DAN JENIS USAHA",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "b7c0bef7-6cdf-4c5c-b4d0-46ec0fdce1a7",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "47555a8e-1c14-4911-9c73-e6d37d1e2079",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Izin Usaha Peternakan diberikan dan berlaku untuk 1 (satu) jenis\natau lebih dari 1 (satu) bidang usaha peternakan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "0a01d9fa-4a91-43fc-b6de-79015533e091",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Persyaratan dan ketentuan-ketentuan lain dari tiap-tiap jenis atau\nbidang usaha peternakan ditetapkan lebih lanjut oleh Menteri.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "9e7e231e-908c-4262-b847-a3443781a066",
+            "name": "Chapter V",
+            "title": "\nBIMBINGAN DAN PENGAWASAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "554405dd-d7f2-43b9-83f7-444bbc6ce579",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "12ff9b43-5391-4a74-a0b6-2ecbc8b4818b",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Menteri atau pejabat yang ditunjuk olehnya melakukan bimbingan\ndan pengawasan atas pelaksanaan perusahaan-perusahaan\npeternakan.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "1b7fcc01-dd05-4b62-b5df-6cd8b2537d4a",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Tatacara dan pelaksanaan bimbingan dan pengawasan sebagaimana\ndimaksud pada ayat (1) ditetapkan lebih lanjut oleh Menteri.\n",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6f9d0558-2de2-4928-aa3e-e57566d23329",
+            "name": "Chapter VI",
+            "title": "\nBERAKHIRNYA IZIN USAHA PETERNAKAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "5f9d9e5a-dc68-45b2-a436-426229df327e",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": {
+                        "id": "94471546-310c-43f4-b5d7-a5417c057537",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nIzin Usaha Peternakan berakhir karena :\na. Jangka waktu yang diberikan telah berakhir;\nb. Diserahkan kembali oleh pemegang izin kepada yang berwenang\nsebelum jangka waktu diberikan berakhir;\nc. Dicabut oleh yang berwenang memberikan Izin Usaha Peternakan,\nkarena pemegang izin yang bersangkutan melakukan suatu\npelanggaran;\nd. Perusahaan yang bersangkutan jatuh pailit;\ne. Perusahaan yang bersangkutan menghentikan usahanya.",
+                        "explanation": "\nAngka 1 sampai dengan Angka 4\nCukup jelas.\nAngka 5\nPihak yang bersangkutan menghentikan usahanya, dimaksudkan bahwa karena\npemiliknya meninggal dunia atau karena suatu hal, perusahaan dihentikan\nsecara sukarela, sebelum jangka waktu yang diberikan berakhir (habis).\nApabila pemilik perusahaan peternakan meninggal dunia maka Izin Usaha\nPeternakan tidak dengan sendirinya beralih kepada ahli warisnya; dengan\nmeninggalnya pemilik perusahaan, maka Izin Usaha peternakan berhenti\nberlaku, akan tetapi dapat diperbaharui atas permintaan ahli waris yang berhak."
+                    }
+                },
+                {
+                    "id": "a2336d29-46f9-4232-8a0a-5a9e550953dc",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": {
+                        "id": "be249196-d36b-434f-8f60-e3f9dd6c47a9",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nIzin Usaha Peternakan dicabut karena :\na. Pemegang Izin tidak melakukan usahanya secara nyata dalam waktu\n3 (tiga) bulan setelah Izin Usaha Peternakan dikeluarkan;\nb. Pemegang Izin tidak mentaati serta melakukan ketentuan peraturan\nperundang-undangan yang berlaku.",
+                        "explanation": "\nPasal 14\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "465a3467-cfe7-4acb-9813-9b596f6d3246",
+            "name": "Chapter VII",
+            "title": "\nKETENTUAN PIDANA",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "93827c9e-c1cb-492a-8475-7722452b4570",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "8772d4dd-5ec2-4dec-83d7-f57f13bbbea8",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Barang siapa dengan sengaja melakukan perbuatan yang\nbertentangan dengan ketentuan Pasal-pasal 4, 8 dan 9 diancam\ndengan pidana penjara selama-lamanya 2 (dua) tahun.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "a6d9dd8a-333a-4e53-b9df-5ce435ac506a",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Barang\n(2) Barang siapa karena kealpaannya melakukan perbuatan yang\nbertentangan dengan ketentuan Pasal-pasal 4, 8 dan 9 diancam\ndengan pidana kurungan selama-lamanya 6 (enam) bulan atau pidana\ndenda setinggi-tingginya Rp. 1.000.000,-(satu juta rupiah).",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "29500c88-b699-4dbb-ab5f-00142dfc5e6a",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Tindak pidana sebagaimana dimaksud pada ayat (1) adalah\nkejahatan, tindak pidana sebagaimana dimaksud pada ayat (2) adalah\npelanggaran.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "07072aaf-8f7e-4bcf-a543-f532175e0fae",
+            "name": "Chapter VIII",
+            "title": "\nKETENTUAN PERALIHAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "83eb484d-c6a9-4efb-a265-4574b8bf2b4a",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "816fbf3d-7154-4152-b04d-7136d6e1fc83",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Hal-hal yang belum atau belum cukup diatur dalam Peraturan\nPemerintah ini diatur lebih lanjut oleh Menteri.",
+                            "explanation": "\nDengan berlakunya Peraturan Pemerintah ini maka peraturan-peraturan yang telah\ndikeluarkan oleh Pemerintah Daerah mengenai hal yang sama masih tetap berlaku,\nsepanjang tidak bertentangan dengan jiwa Peraturan Pemerintah ini, sampai\ndikeluarkannya peraturan pelaksanaan dari Peraturan Pemerintah ini."
+                        },
+                        {
+                            "id": "f2ed3b43-5196-4f2e-8fd9-631460200dc4",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Selama ketentuan pelaksanaan Peraturan Pemerintah ini belum\nditetapkan, maka ketentuan yang ada tetap berlaku, sepanjang tidak\nbertentangan dengan jiwa Peraturan Pemerintah ini.",
+                            "explanation": "\nDengan berlakunya Peraturan Pemerintah ini maka peraturan-peraturan yang telah\ndikeluarkan oleh Pemerintah Daerah mengenai hal yang sama masih tetap berlaku,\nsepanjang tidak bertentangan dengan jiwa Peraturan Pemerintah ini, sampai\ndikeluarkannya peraturan pelaksanaan dari Peraturan Pemerintah ini."
+                        },
+                        {
+                            "id": "8ca621f5-e6a7-428b-8422-e60a778ed2b8",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Izin Usaha Peternakan yang telah dikeluarkan sebelum Peraturan\nPemerintah ini ditetapkan, disesuaikan dengan Peraturan Pemerintah\nini.",
+                            "explanation": "\nDengan berlakunya Peraturan Pemerintah ini maka peraturan-peraturan yang telah\ndikeluarkan oleh Pemerintah Daerah mengenai hal yang sama masih tetap berlaku,\nsepanjang tidak bertentangan dengan jiwa Peraturan Pemerintah ini, sampai\ndikeluarkannya peraturan pelaksanaan dari Peraturan Pemerintah ini."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "989213c8-4ea4-4f47-905b-e313e4442610",
+            "name": "Chapter IX",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "b8add6ea-6e2e-40ba-96b2-23dec004e6cd",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": {
+                        "id": "ecb0200d-30fc-44fb-9cef-a00becd8f5a3",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya dalam\nLembaran Negara Republik Indonesia.",
+                        "explanation": "\nCukup jelas.\n"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nDalam rangka mencukupi kebutuhan protein hewan dan kebutuhan-kebutuhan lain\nyang berhubungan dengan ternak, maka Pemerintah melakukan usaha-usaha untuk\nmeningkatkan hasil produksi ternak oleh karena itu Pemerintah perlu mengadakan\npengaturan mengenai usaha peternakan, baik dengan menggunakan modal dalam\nnegeri maupun dengan modal asing.\nSampai saat ini Pemerintah belum mempunyai peraturan perundang-undangan yang\nmengatur mengenai usaha peternakan secara umum untuk seluruh wilayah Negara Republik Indonesia, yang ada hanya peraturan-peraturan yang dikeluarkan oleh Pemerintah Daerah dan khusus mengatur mengenai jenis-jenis ternak tertentu yang sudah banyak diternakkan oleh masyarakat atau karena sifatnya perlu diatur.\nMengingat hal tersebut diatas, Pemerintah perlu mengatur semua jenis usaha peternakan yang dapat diusahakan di wilayah Negara Republik Indonesia yang mengarah kepada pengembangan peternakan sebagai sumber kemakmuran dan sebagai salah satu penunjang untuk suksesnya pembangunan nasional.",
+        "Nomor": "16",
+        "Tahun": "1977",
+        "Tentang": "USAHA PETERNAKAN",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa dalam rangka melaksanakan pembangunan nasional maka\npeternakan yang merupakan salah satu faktor penunjang yang\npenting perlu diselenggarakan dengan tertib dan teratur, sehingga\ndapat diperoleh ternak yang baik dan sehat",
+            "b": " bahwa oleh karena itu dipandang perlu mengatur usaha peternakan\ndengan Peraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-Undang Nomor 1 Tahun 1967 tentang Penanaman Modal\nAsing (Lembaran Negara Tahun 1967 Nomor 1, Tambahan\nLembaran Negara Nomor 2818) juncto Undang-Undang Nomor 11\nTahun 1970 tentang Perubahan dan Tambahan Undang-undang\nNomor 1 Tahun 1967 tentang Penanaman Modal Asing (Lembaran\nNegara Tahun 1970 Nomor 16, Tambahan Lembaran Negara Nomor\n2943);",
+            "3": " Undang-undang Nomor 6 Tahun 1967 tentang Ketentuan-ketentuan\nPokok Peternakan dan Kesehatan Hewan (Lembaran Negara Tahun\n1967 Nomor 10, Tambahan Lembaran Negara Nomor 2824);",
+            "4": " Undang-undang Nomor 6 Tahun 1968 tentang Penanaman Modal\nDalam Negeri (Lembaran Negara Tahun 1968 Nomor 33, Tambahan\nLembaran Negara Nomor 2853) juncto Undang-undang Nomor 12\nTahun 1970 tentang Perubahan dan Tambahan Undang-undang\nNomor 6 Tahun 1968 tentang Penanaman Modal Dalam Negeri\n(Lembaran Negara Tahun 1970 Nomor 47, Tambahan Lembaran\nNegara Nomor 2944);",
+            "5": " Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok\nPemerintahan Di Daerah (Lembaran Negara Tahun 1974 Nomor 38,\nTambahan Lembaran Negara Nomor 3037);",
+            "6": " Peraturan Pemerintah Nomor 15 Tahun 1977 tentang Penolakan,\nPencegahan, Pemberantasan, dan Pengobatan Penyakit Hewan\n(Lembaran Negara Tahun 1977 Nomor 20, Tambahan Lembaran\nNegara Nomor 3101);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG USAHA PETERNAKAN.",
+        "tanggal sah": "16 Maret 1977"
+    }
+}

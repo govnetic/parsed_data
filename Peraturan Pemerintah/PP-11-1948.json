@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "9f2d3998-5dfd-472b-ae19-72a35883f70c",
+            "id": "d8d7db0d-0a3d-410c-95ab-e0622744804d",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "68252942-0faa-4151-aebd-c333496c97a7",
+                "id": "f3bf4f97-4e8b-4a53-bbc8-c6bc975bcbf6",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "d6238e8d-3839-4b5e-870c-8aebee5a83ec",
+            "id": "ad53a875-b2d6-470b-b6d9-31a1ff673739",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "792c1ace-9fa5-4052-a3a3-64b759faeb16",
+                "id": "a4ad0091-805c-484b-89fd-2e8198d1e96f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "5c330137-c797-4cda-8a08-97468c7b9672",
+            "id": "deec8c6e-3405-4b01-af69-2aabf216c38d",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "2519d474-2f3d-4a36-8cee-7a13b5f9ae8d",
+                "id": "c79b6e43-6f6b-42a4-af6d-4a7d6c77bbb3",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "edf9b67e-b7d2-419a-976e-7bbd7a92eba6",
+            "id": "e961ecec-63e8-4b28-af26-9bd48637ae7e",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "653fe09d-5487-4508-a71b-4d501d3b40da",
+                "id": "1f3ca509-2061-4494-9247-5006de612add",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "b371b58a-7195-44b0-8610-40c91f10a459",
+            "id": "8cca541e-25c8-46a7-a220-991d292943f1",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "df64b093-85fc-431d-a3e3-0fd790f7bb44",
+                "id": "1002fec3-8176-4a7b-82d6-782ae8a10206",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "10cc821c-3375-423d-8ba7-77ac80ef584a",
+            "id": "f2c25cfd-ec32-4f0e-b1e6-ba0970056497",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "cd51c7c7-c99b-4c69-9755-07061f4c840a",
+                "id": "3d0c1515-1199-43a3-a4c5-8c3808a3f27e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -79,28 +79,28 @@
             }
         },
         {
-            "id": "170816ed-e2c1-445d-a1ef-f64e17197284",
+            "id": "246f0405-5d46-4650-80c5-cb313db93447",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "19ce4c2e-d26e-4a84-819a-af52e71a2dfd",
+                "id": "bf0d3bb3-ecf2-4420-8f9a-8e20662e3aac",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Kepala Kantor Urusan Pegawai Negeri berhak:\na. meminta kepada semua pegawai, baik sipil maupun militer, keterangan yang\ndiperlukan untuk melakukan kewajibannya;\nb. meminta pengiriman laporan-laporan dari Kementerian-kementerian,\nJawatan-jawatan dan Perusahaan Negeri.",
+                "content": "Kepala Kantor Urusan Pegawai Negeri berhak:\na. meminta kepada semua pegwai, baik sipil maupun militer, keterangan yang diperlukan untuk melakukan kewajibannya;\nb. meminta pengiriman laporan-laporan dari Kementerian-kementerian, Jawatan-jawatan dan Perusahaan Negeri.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "0c17dee1-8e3c-422a-8715-9346bcc49271",
+            "id": "4d0e749d-4aa4-4dba-9789-6f6919319c04",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "610d38ac-9587-434a-ad5e-b3f13d97bc8f",
+                "id": "1359e2cf-a37d-4013-bb7d-a11e49840c6a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Kepala Kantor Urusan Pegawai Negeri diwajibkan memberikan laporan tahunan\nkepadana Perdana Menteri tentang pekerjaan yang telah dilakukannya.",
+                "content": "Kepala Kantor Urusan Pegawai Negeri diwajibkan memberikan laporan tahunan kepadana Perdana Menteri tentang pekerjaan yang telah dilakukannya.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "18f75bfd-b358-4dc2-9dac-c84b0b98544f",
+            "id": "48ebed3f-6917-4a26-96d6-3087442a9902",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "1bac93d5-fefa-4c21-91aa-87e04c4ba267",
+                "id": "0a93b3f7-7209-466f-b57f-98a12bbd3408",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "0c68e203-8a60-4924-9303-1f16dbd392a5",
+            "id": "af3405fd-d800-454c-a810-a69640406181",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "365ea2d2-8274-4aa5-bcc6-80b61fd0b598",
+                "id": "171a10c0-2230-4020-a568-e0469a565b65",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "2f94e901-1d37-48df-8ca6-9f4d1fb08ab9",
+            "id": "5d979dab-8444-47be-b855-66c39978e952",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "d9edb16f-e4d9-49ab-8a9e-b081514239ea",
+                "id": "074cd002-1094-4313-b50a-20a46da513b4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,15 +40,15 @@
             }
         },
         {
-            "id": "2197404f-77b2-4823-b7fc-6766fd3aecf9",
+            "id": "b86de734-8ca6-448a-bcf3-d321b9149945",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "95a8602d-dc09-4d23-ae33-94e464d71d4d",
+                "id": "dad0b160-d564-4cc9-9f92-6e4ed18c8703",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -56,10 +56,10 @@
     "metadata": {
         "Nomor": "1",
         "Tahun": "1995",
-        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL PERUSAHAAN UMUM (PERUM)\nPRASARANA PERIKANAN SAMUDERA\nPRESIDEN REPUBLIK INDONESIA,",
+        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA\nKE DALAM MODAL PERUSAHAAN UMUM (PERUM)\nPRASARANA PERIKANAN SAMUDERA",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa untuk lebih meningkatkan dan mengembangkan kegiatan usaha\nPerusahaan Umum (PERUM) Prasarana Perikanan Samudera,\ndipandang perlu untuk menambah penyertaan modal Negara Republik\nIndonesia ke dalam modal Perusahaan Umum (PERUM) Prasarana\nPerikanan Samudera;",
+            "a": " bahwa untuk lebih meningkatkan dan mengembangkan kegiatan usaha\nPerusahaan Umum (PERUM) Prasarana Perikanan Samudera,\ndipandang perlu untuk menambah penyertaan modal Negara Republik\nIndonesia ke dalam modal Perusahaan Umum (PERUM) Prasarana\nPerikanan Samudera",
             "b": " bahwa kekayaan Negara berupa uang tunai yang berasal dari Anggaran\nPendapatan dan Belanja Negara yang telah disetorkan dan digunakan\nuntuk modal kerja Perusahaan Umum (PERUM) Prasarana Perikanan\nSamudera dapat ditetapkan sebagai tambahan penyertaan modal\nNegara Republik Indonesia ke dalam modal Perusahaan Umum\n(PERUM) Prasarana Perikanan Samudera;",
             "c": " bahwa penambahan penyertaan modal Negara tersebut, perlu\nditetapkan dengan Peraturan Pemerintah;"
         },

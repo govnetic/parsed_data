@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "289f1580-000c-4407-be90-92b207bff056",
+            "id": "9ed11e8d-3386-499a-9d6d-bef67ec7dc04",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "3d44158a-2eb7-4e5f-b2ce-f300a77cd659",
+                    "id": "0b320460-d784-458b-898f-7b6115744b54",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "4b6b638c-894c-47e9-9e5e-be70b3255666",
+                        "id": "b1077b15-6511-4612-8864-86d111122973",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -22,87 +22,87 @@
             ]
         },
         {
-            "id": "63601636-8de5-475b-829b-2110d4919d87",
+            "id": "e245f09f-f1ef-4a35-aaaa-49d08677848f",
             "name": "Chapter II",
             "title": "\nNILAI BATAS YANG DIIZINKAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f5c8a47a-06e1-4f1a-b170-faa5d4332881",
+                    "id": "a0b6d784-bf12-4cea-94d9-b76761a2a7b6",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "a05d98f0-870c-4621-b6a4-2ca08c72e19e",
+                        "id": "4e587f63-a521-4ee6-b030-cf427e56070f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nUntuk menentukan Nilai Batas Yang Diizinkan ditetapkan dosis tertentu sehingga menurut tingkat pengetahuan dewasa ini, kemungkinan luka somatik dan kerusakan genetik dapat dihindarkan.",
+                        "content": "\nUntuk menentukan Nilai Batas Yang Diizinkan ditetapkan dosis tertentu\nsehingga menurut tingkat pengetahuan dewasa ini, kemungkinan luka\nsomatik dan kerusakan genetik dapat dihindarkan.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "daacf5da-858e-465e-ba1e-1c27a506e99f",
+                    "id": "9c7a0b06-e57f-4f74-acab-7e89d0fe3d6e",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "065743f0-6abb-4280-910a-7e05545de655",
+                        "id": "7c3bd90a-073b-418f-9916-d437779ec5a5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nKetentuan-ketentuan Nilai Batas Yang Diizinkan sebagaimana dimaksudkan pada Pasal 2 akan diatur lebih lanjut oleh Instansi Yang Berwenang.",
+                        "content": "\nKetentuan-ketentuan Nilai Batas Yang Diizinkan sebagaimana\ndimaksudkan pada Pasal 2 akan diatur lebih lanjut oleh Instansi Yang\nBerwenang.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "db9fc3e2-3555-4b40-9156-181a474c3790",
+            "id": "0aa4788b-cd90-4e72-8ebe-751b00a49c13",
             "name": "Chapter III",
             "title": "\nPETUGAS DAN AHLI PROTEKSI RADIASI",
             "type": "chapter",
             "children": [
                 {
-                    "id": "59c540ed-02e7-4175-a442-11822da50f33",
+                    "id": "8ebcc7f9-039c-4ba4-8987-50f128ab7b1e",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "08fbb71b-1d91-4173-9f42-03ee7d319791",
+                        "id": "9f6165bd-c6df-40b4-8968-ec44d80d361e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nSetiap Instalasi Atom harus mempunyai sekurang-kurangnya seorang Petugas Proteksi Radiasi.",
+                        "content": "\nSetiap Instalasi Atom harus mempunyai sekurang-kurangnya seorang\nPetugas Proteksi Radiasi.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "2f990393-9dae-4bc7-839d-47bdbd3622ed",
+                    "id": "3e2a342e-bced-4b7c-b09c-aed8321bf654",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "be23b5b3-5db2-482d-9522-b53cdd66c357",
+                            "id": "b815356b-9aff-4ce8-b758-7895ee81eb20",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Setiap Penguasa Instalasi Atom, dengan persetujuan Instansi Yang Berwenang, diwajibkan menunjuk dirinya sendiri atau orang lain dibawahnya selaku Petugas Proteksi Radiasi.",
+                            "content": " Setiap Penguasa Instalasi Atom, dengan persetujuan Instansi Yang\nBerwenang, diwajibkan menunjuk dirinya sendiri atau orang lain\ndibawahnya selaku Petugas Proteksi Radiasi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d067abfd-f244-4440-a6fc-3a6a34142fa6",
+                            "id": "32e44489-277e-4c7c-8b87-5f001e712f6f",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Petugas Proteksi Radiasi bertanggungjawab atas segala sesuatu yang berhubungan dengan keselamatan setiap orang dalam lingkungan kekuasaaannya kepada Penguasa Instalasi Atom.\n",
+                            "content": " Petugas Proteksi Radiasi bertanggungjawab atas segala sesuatu yang\nberhubungan dengan keselamatan setiap orang dalam lingkungan\nkekuasaaannya kepada Penguasa Instalasi Atom.\n",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "8cd454fa-42a7-473e-8652-98f729c581ed",
+                    "id": "cbde7aed-1820-4f39-8d46-fd9a81e42d06",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "61d3341e-4773-4691-aa74-474298730f17",
+                        "id": "b6bf1687-00ba-4bc4-b23d-6dd38eb40b05",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -111,22 +111,22 @@
                     }
                 },
                 {
-                    "id": "7e9fd4cd-6f2e-4d73-926a-c89b7347020e",
+                    "id": "2a0f4839-b4fa-498c-85f7-fa8876c77a23",
                     "name": "Article 7",
                     "type": "article",
                     "children": [
                         {
-                            "id": "a02e00b1-a08e-46ba-afdb-5d515959f78f",
+                            "id": "a652f4d4-60db-4f25-b74f-0655ff6b1091",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Untuk mengawasi ditaatinya peraturan-peraturan keselamatan kerja\nterhadap radiasi, perlu ditunjuk Ahli Proteksi Radiasi oleh Instansi\nYang Berwenang.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "be595773-a3f2-4809-963d-feb2f699a26c",
+                            "id": "1614bec1-ff9b-40f1-ba31-6fc927e423f6",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Ahli Proteksi Radiasi diwajibkan memberikan laporan kepada\nInstansi Yang Berwenang dan Menteri Tenaga Kerja, Transmigrasi\ndan Koperasi secara berkala.",
                             "explanation": "Tidak ada Penjelasan"
@@ -136,34 +136,109 @@
             ]
         },
         {
-            "id": "9f12d090-547d-434b-8eb6-7a5aea65f466",
+            "id": "61159f76-dc03-4817-8c01-b0813fb42850",
             "name": "Chapter IV",
-            "title": "\nKESEHATAN\nBagian Pertama\nPemeriksaan Kesehatan Calon Pekerja dan Pekerja Radiasi\nPasal 8\nSetiap calon pekerja radiasi yang akan bekerja dalam Instansi Atom wajib\nmendapat pemeriksaan atas kesehatannya secara teliti dan menyeluruh\noleh dokter yang ditunjuk oleh Instalasi Atom setempat.\nPasal 9\nPasal 9\n(1) Setiap pekerja radiasi disyaratkan sehat jasmaniah maupun rohaniah.\n(2) Setiap pekerja radiasi. secara berkala wajib mendapat pemeriksaan\natas kesehatannya secara teliti dan menyeluruh oleh dokter yang\nditunjuk oleh Instalasi Atom setempat.\nPasal 10\n(1) Pemeriksaan berkala bagi pekerja radiasi dilakukan 1 (satu) kali\ndalam setahun.\n(2) Apabila dipandang perlu, pemeriksaan dapat dilakukan sewaktu-\nwaktu.\n(3) Setiap pekerja radiasi yang memutuskan hubungan kerja dengan\nInstalasi Atom wajib mendapat pemeriksaan atas kesehatannya secara\nteliti dan menyeluruh oleh dokter yang ditunjuk oleh Instalasi Atom\nsetempat.",
+            "title": "\nKESEHATAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "a87734c3-caf5-45f6-a230-5d46d57039a8",
+                    "id": "2d1c5ac4-baa2-4bf6-ab3f-5ff22424d739",
+                    "name": "Section First",
+                    "title": "\nPemeriksaan Kesehatan Calon Pekerja dan Pekerja Radiasi",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "a0d335f5-0605-4b79-8686-8463751c5e8a",
+                            "name": "Article 8",
+                            "type": "article",
+                            "children": {
+                                "id": "c37d8b26-4225-4a95-8366-aa84dba7552f",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nSetiap calon pekerja radiasi yang akan bekerja dalam Instansi Atom wajib\nmendapat pemeriksaan atas kesehatannya secara teliti dan menyeluruh\noleh dokter yang ditunjuk oleh Instalasi Atom setempat.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        },
+                        {
+                            "id": "7883e007-c211-4b1a-afe2-7052991fc2ca",
+                            "name": "Article 9",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "d1104d42-5fc0-4da5-a60d-158528b26744",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Setiap pekerja radiasi disyaratkan sehat jasmaniah maupun rohaniah.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "13e28907-c028-4cfb-94d2-7d9f58d6adcc",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Setiap pekerja radiasi. secara berkala wajib mendapat pemeriksaan\natas kesehatannya secara teliti dan menyeluruh oleh dokter yang\nditunjuk oleh Instalasi Atom setempat.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "695f41d4-fa61-4d6e-a41f-bf5a5fdd937c",
+                            "name": "Article 10",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "fa76f9ce-d81b-48f7-9776-4d8fca8313c0",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Pemeriksaan berkala bagi pekerja radiasi dilakukan 1 (satu) kali\ndalam setahun.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "ed7e77cf-18b9-4f06-8034-0b9f9c3509b8",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Apabila dipandang perlu, pemeriksaan dapat dilakukan sewaktu-\nwaktu.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "37655ecc-ae05-403e-9747-5767b789fc1c",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Setiap pekerja radiasi yang memutuskan hubungan kerja dengan\nInstalasi Atom wajib mendapat pemeriksaan atas kesehatannya secara\nteliti dan menyeluruh oleh dokter yang ditunjuk oleh Instalasi Atom\nsetempat.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "559b6ebd-6365-4840-b67d-d6ec5f5a7296",
                     "name": "Section Second",
                     "title": "\nKartu Kesehatan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "07ee423f-230e-4018-9e8f-ea36c5438a93",
+                            "id": "c3015d61-749e-46af-b876-0393aaeff132",
                             "name": "Article 11",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "ef67aa37-57fb-4913-bdb0-89e60ca0c4c3",
+                                    "id": "0c2ebefa-ee4c-4720-ad23-d63426cbf5f7",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Setiap pekerja radiasi mempunyai kartu kesehatan guna mencatat\nsecara teratur hasil pemeriksaan medis dan disimpan dibawah\npengawasan dokter yang ditunjuk oleh Instalasi Atom setempat.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "cff77a4a-ff75-4a18-82db-eaacd6c88423",
+                                    "id": "ecbefbf0-ede3-45f6-8bdc-7b10050493bd",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Petugas Proteksi Radiasi diwajibkan mencatat dalam kartu khusus\nsecara teratur banyaknya dosis radiasi menurut jenis yang diterima\noleh setiap pekerja dalam Instalasi Atom setempat dan kartu tersebut\ndisimpan dibawah pengawasan Petugas Proteksi Radiasi.\n",
                                     "explanation": "Tidak ada Penjelasan"
@@ -171,11 +246,11 @@
                             ]
                         },
                         {
-                            "id": "ed307190-05e4-46e2-899a-8a9c7160e92c",
+                            "id": "6cc95dcc-beeb-488c-b3de-dbe5fe0c008b",
                             "name": "Article 12",
                             "type": "article",
                             "children": {
-                                "id": "0b4aa535-717e-4f23-a78c-0b3419205201",
+                                "id": "3943001f-88bb-404b-8e3e-2349f4b39c62",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -186,17 +261,17 @@
                     ]
                 },
                 {
-                    "id": "9f4b3fd9-f2e8-48ae-9d35-9e59305a7008",
+                    "id": "a821b4f3-16ce-416d-b097-83dae9f8e90c",
                     "name": "Section Third",
                     "title": "\nPenukaran Tugas Pekerjaan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "a9a162a6-9430-4275-8fde-6b4c53955b67",
+                            "id": "ee40b666-7f61-4a68-b210-3a46eb081a9f",
                             "name": "Article 13",
                             "type": "article",
                             "children": {
-                                "id": "516d5eb1-187d-4b15-8642-2be44574846e",
+                                "id": "7201ae6a-d2ff-4454-951b-28a1bf906dec",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -209,17 +284,17 @@
             ]
         },
         {
-            "id": "eb678b82-c686-400d-bf85-1bfbb21c501f",
+            "id": "ce5ebccf-9b21-4c3b-8196-a76cd85d4a92",
             "name": "Chapter V",
             "title": "\nKETENTUAN-KETENTUAN KERJA DENGAN ZAT-ZAT RADIOAKTIP\nDAN ATAU SUMBER RADIASI LAINNYA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "1c4c31a6-aea3-409f-a69a-e1ce34c2fbc6",
+                    "id": "c3f6b082-e58e-4ae2-bfff-98b4aa82c8d3",
                     "name": "Article 14",
                     "type": "article",
                     "children": {
-                        "id": "11fe79a0-df5b-4c57-b67b-0ceda5259288",
+                        "id": "df284070-c432-49a2-9000-53ae8b5de6c4",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -228,11 +303,11 @@
                     }
                 },
                 {
-                    "id": "7d7b3282-47e0-43dd-a16c-9bf11e7a566a",
+                    "id": "3b6b6d00-bf98-4488-bce7-ed858535d746",
                     "name": "Article 15",
                     "type": "article",
                     "children": {
-                        "id": "8963c88d-50a8-40de-8837-0f4fea68e10d",
+                        "id": "73b23c02-f330-450c-acd0-52800636710f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -243,17 +318,17 @@
             ]
         },
         {
-            "id": "a91ec273-5209-4d33-b32b-80f6adff289b",
+            "id": "c88fe9ef-23d3-409c-b5a0-7fafb3f5c1b9",
             "name": "Chapter VI",
-            "title": "\nPEMBAGIAN DAERAH KERJA\nDAN PENGURUSAN SAMPAH RADIΟΑΚΤΙΡ",
+            "title": "\nPEMBAGIAN DAERAH KERJA\nDAN PENGURUSAN SAMPAH RADIOAKTIF",
             "type": "chapter",
             "children": [
                 {
-                    "id": "86285e6a-dfb7-45a4-b862-d22f5dea8e03",
+                    "id": "c9e190d7-9a8b-459c-a4e0-ad2ca95f1e07",
                     "name": "Article 16",
                     "type": "article",
                     "children": {
-                        "id": "b4759e04-1d44-4506-b109-292a8b60f790",
+                        "id": "f6113bb9-6c51-4a8e-8b03-118e340decf2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -262,32 +337,32 @@
                     }
                 },
                 {
-                    "id": "70ed422a-971e-49d8-bf17-13a4142eaa3c",
+                    "id": "450b4d4b-e8c6-41dc-80e3-231a99d7e0e2",
                     "name": "Article 17",
                     "type": "article",
                     "children": {
-                        "id": "3ceeb5b2-3e86-4b5b-98a9-ca939e15c8ed",
+                        "id": "105739d5-db45-45b7-96af-64ee5c613ec6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nSampah radioaktip harus dikumpulkan, disimpan, dan dibuang pada\ntempat dan dengan cara sebagai yang ditentukan dalam peraturan yang\ndikeluarkan oleh Instansi Yang Berwenang.",
+                        "content": "\nSampah radioaktif harus dikumpulkan, disimpan, dan dibuang pada\ntempat dan dengan cara sebagai yang ditentukan dalam peraturan yang\ndikeluarkan oleh Instansi Yang Berwenang.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "58fd02f8-0822-4fae-ae7a-f24ab16a7941",
+            "id": "cc7bcce2-e550-404b-903e-69e78c83962d",
             "name": "Chapter VII",
             "title": "\nKECELAKAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e558d46f-8202-47e7-bd4b-45601e2e9ccd",
+                    "id": "57212952-3faa-41fd-b190-f3bf51db7037",
                     "name": "Article 18",
                     "type": "article",
                     "children": {
-                        "id": "b59e1bc9-dbc3-461e-b8f2-f1fc134550af",
+                        "id": "f101b2f3-9049-4c20-8100-d4d480fb86f5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -296,11 +371,11 @@
                     }
                 },
                 {
-                    "id": "7cfc3d94-fa0b-47f6-8110-7629cef81519",
+                    "id": "ae7b105e-915e-44ab-af7e-113ec9de88bd",
                     "name": "Article 19",
                     "type": "article",
                     "children": {
-                        "id": "94cb7566-d61d-4903-9054-3946bc0eedd8",
+                        "id": "82f0ccc9-7458-4e66-96c7-0a2d76d7ba66",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -309,11 +384,11 @@
                     }
                 },
                 {
-                    "id": "9e54a625-2284-4410-ae92-f5741a04f2ad",
+                    "id": "a3fc8aee-7e41-437a-bad7-f561e0768c3b",
                     "name": "Article 20",
                     "type": "article",
                     "children": {
-                        "id": "08e7dfe9-c3d6-4148-b374-b68be37684db",
+                        "id": "65777284-8833-4334-a565-c0532b52929a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -322,11 +397,11 @@
                     }
                 },
                 {
-                    "id": "50cf3d64-b2cb-46e3-8ce7-f8362a8838f0",
+                    "id": "de170aec-586c-4273-8f35-b1b73e94706c",
                     "name": "Article 21",
                     "type": "article",
                     "children": {
-                        "id": "00d41d0e-350a-48bd-b18b-6e42576b3202",
+                        "id": "30a83dba-22d7-479b-a2ce-db2b40859001",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -335,11 +410,11 @@
                     }
                 },
                 {
-                    "id": "799e1f27-7a61-4446-a1a0-38d420cf532f",
+                    "id": "11da53af-0851-4a63-9dc2-32c93cb37749",
                     "name": "Article 22",
                     "type": "article",
                     "children": {
-                        "id": "4fbab814-a863-43dc-9c12-a66d91a29cb2",
+                        "id": "a6fb7bb6-49c5-4d5a-8079-dfbbd18fbb6e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -350,28 +425,28 @@
             ]
         },
         {
-            "id": "aeaf73cd-343e-4e0c-a792-89d7a88444f0",
+            "id": "26b96ad7-2bcc-48ce-bf0e-a8b354927889",
             "name": "Chapter VIII",
             "title": "\nKETENTUAN PIDANA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "531faf3f-b52d-4404-8f91-aa0b9171ad8c",
+                    "id": "ca321502-84bf-426e-8076-45e08446e923",
                     "name": "Article 23",
                     "type": "article",
                     "children": [
                         {
-                            "id": "235b097b-0756-45c6-a2cd-22f1eb5baa43",
+                            "id": "2d3d6a28-e83b-4b57-b38d-1e3dad6bded0",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pelanggaran terhadap ketentuan-ketentuan yang tersebut dalam Pasal-\npasal 5 ayat (1), 6, 11 ayat (2) dan Pasal 18, diancam dengan pidana\ndenda setinggi-tingginya Rp. 100.000,- (seratus ribu rupiah).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "aaba3857-f975-4819-a8fb-f6091b34bb94",
+                            "id": "1e0f3932-42ad-4cb2-a8d9-283f565f2927",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Tindak pidana yang dimaksudkan dalam ayat (1) adalah pelanggaran.",
                             "explanation": "Tidak ada Penjelasan"
@@ -381,17 +456,17 @@
             ]
         },
         {
-            "id": "e270c0c7-a0db-4bd0-a37d-b1a11ca89274",
+            "id": "5126c323-f242-4bea-adfb-f3d47388d3fb",
             "name": "Chapter IX",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "949c5910-7f1d-46f0-89ed-acde70265db7",
+                    "id": "38ef8645-99e3-44a6-aaec-ad5a99edefa8",
                     "name": "Article 24",
                     "type": "article",
                     "children": {
-                        "id": "dc1723fc-e130-4be2-af43-e12125c761bb",
+                        "id": "65e29799-8647-4ae2-ba43-294a43a1f600",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -400,11 +475,11 @@
                     }
                 },
                 {
-                    "id": "3ede85ad-4df0-401d-aa7d-f5cf7d75a51b",
+                    "id": "fddfdd92-6d28-4cbc-b23d-02c50d2345e8",
                     "name": "Article 25",
                     "type": "article",
                     "children": {
-                        "id": "623fde86-2882-4508-b1fd-f9eef87b7340",
+                        "id": "3bd66905-6182-4c19-a183-a6b89b07781b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -413,11 +488,11 @@
                     }
                 },
                 {
-                    "id": "2d0083d6-bea7-419a-96cd-040c954734cc",
+                    "id": "c5fafa0b-c3b1-437a-961a-50d0475f0c72",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "416f46cd-8d83-4189-a1f3-91b3ee5c33c1",
+                        "id": "5257d710-9555-494e-9c89-88613e0a9b4b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -426,11 +501,11 @@
                     }
                 },
                 {
-                    "id": "b8c33922-c59c-4645-8c0c-ed7df27d0d9a",
+                    "id": "7657f4b3-7fe2-404f-a0d4-6a922d787b6b",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "4919cc12-4749-43c5-a33b-eff46f9fbedc",
+                        "id": "601f609f-a0b9-4430-b867-5c5ed15defb7",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -439,11 +514,11 @@
                     }
                 },
                 {
-                    "id": "b87f31e0-07ed-48c9-9b22-9b133750a733",
+                    "id": "061f8c5e-acb7-426b-a7e9-fd25b7733977",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "9b928b43-8321-4d33-a0d2-3b1703366d54",
+                        "id": "f2436856-728b-485b-a6f3-aefeea0fdfe3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -452,11 +527,11 @@
                     }
                 },
                 {
-                    "id": "68766e68-4711-4343-a1be-8414e8992039",
+                    "id": "46e772da-f439-4d28-8ed7-87ae5e97848f",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "ec2146e3-a6d8-4db9-b734-efb395a802e6",
+                        "id": "3c5be1ec-b3b6-412b-9b1f-fee8c489b538",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -465,11 +540,11 @@
                     }
                 },
                 {
-                    "id": "296c4e8f-ac05-412c-938a-8bc5fb278418",
+                    "id": "0c605e5f-e5b8-467d-a0b9-78a0bc90ee6f",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "e6d33900-d40e-4ee8-bb64-e43db0596fcb",
+                        "id": "9a16e369-3943-4fc3-bf5c-4650b0f7a662",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -478,102 +553,102 @@
                     }
                 },
                 {
-                    "id": "bcb93d1b-3a9c-4f37-b028-344145da4c4f",
+                    "id": "c8c06ffb-38cc-4ca9-9519-c734c2e2be8b",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "f2f4c367-ff9c-49d2-9b42-a5163204b32f",
+                        "id": "18ec6123-0578-4d42-a7c1-72031f0fddd5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPemeriksaan bagi calon pekerjaan dimaksudkan untuk mengetahui:\n1. Kondisi badan agar dapat diketahui pengaruh radiasi pada kesehatannya\nselama dan sesudah bekerja dengan radiasi;\n2. Pengaruh\n2. Pengaruh radiasi pada badannya yang diterima pada Instalasi Atom lainnya.",
+                        "content": "\nPemeriksaan bagi calon pekerjaan dimaksudkan untuk mengetahui:\n1. Kondisi badan agar dapat diketahui pengaruh radiasi pada kesehatannya\nselama dan sesudah bekerja dengan radiasi;\n2. Pengaruh\n2. Pengaruh radiasi pada badannya yang diterima pada Instalasi Atom\nlainnya.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "946773b6-9cea-4682-aa8a-c8d6eeba429f",
+                    "id": "a37f097d-2ef8-432d-b592-114daad55ba4",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "91628bd0-5de3-4c8d-bd37-3192b6a72a56",
+                        "id": "f007a4ce-a0d9-4332-877f-7821a2b89d79",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nSyarat sehat jasmaniah maupun rohaniah dari setiap pekerja ini dibuktikan dengan hasil pemeriksaan dokter yang ditunjuk oleh Instalasi setempat.",
+                        "content": "\nSyarat sehat jasmaniah maupun rohaniah dari setiap pekerja ini dibuktikan\ndengan hasil pemeriksaan dokter yang ditunjuk oleh Instalasi setempat.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "049dcc9a-b446-4e23-9714-672a5dbdabab",
+                    "id": "d9917bd5-3f61-40f4-b69b-a9b25f57ca23",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "33c3f115-0f89-4a6c-8ca9-32115efbc53b",
+                        "id": "dc564fc3-2508-4382-8378-95d7e929a693",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nApabila ada dugaan bahwa petugas tersebut mendapat penyinaran lebih (over exposure) maka pekerja tersebut harus diperiksa.",
+                        "content": "\nApabila ada dugaan bahwa petugas tersebut mendapat penyinaran lebih (over\nexposure) maka pekerja tersebut harus diperiksa.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "841185b1-ad4a-49a2-865e-7cf85be056f9",
+                    "id": "177ca03f-ec84-42c8-b9c3-5ce2c9225d19",
                     "name": "Article 11",
                     "type": "article",
                     "children": {
-                        "id": "03da7000-8385-455c-bad9-041d5ff09651",
+                        "id": "fa803c15-bb54-4682-8c58-ef5591a6782e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam hal suatu Instalasi Atom belum mempunyai seorang dokter tersendiri maka kartu kesehatan disimpan dibawah tanggungjawab Penguasa Instalasi.",
+                        "content": "\nDalam hal suatu Instalasi Atom belum mempunyai seorang dokter tersendiri\nmaka kartu kesehatan disimpan dibawah tanggungjawab Penguasa Instalasi.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "89be9fd1-8638-46b6-af9a-cb33e2ccd3a8",
+                    "id": "9e44a98c-546a-4f57-a1dc-80c4c82b9a3d",
                     "name": "Article 12",
                     "type": "article",
                     "children": {
-                        "id": "289756d2-e16d-4a11-b3bd-9029b86a165d",
+                        "id": "308fc84c-2522-41aa-82ba-49119af09a6c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMaksud penyimpanan kartu kesehatan tersebut, yang juga harus mengikuti setiap pekerja dilingkungan pekerjaannya adalah berhubung adanya kemungkinan akibat radiasi yang muncul kemudian (delayed effects) pada pekerja yang bersangkutan.",
+                        "content": "\nMaksud penyimpanan kartu kesehatan tersebut, yang juga harus mengikuti\nsetiap pekerja dilingkungan pekerjaannya adalah berhubung adanya\nkemungkinan akibat radiasi yang muncul kemudian (delayed effects) pada\npekerja yang bersangkutan.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "60129296-0fa7-4ec3-8a61-5d6babda6495",
+                    "id": "eeacc996-2501-4a2b-8cb3-18387367bc41",
                     "name": "Article 13",
                     "type": "article",
                     "children": {
-                        "id": "e5c4e092-ddd0-471d-a23f-beb7be874e2d",
+                        "id": "1d24a49b-0bf1-4fa1-93eb-d576c6a58d97",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPemindahan itu bermaksud agar kesehatan pekerja yang bersangkutan pulih kembali. Sebagai tindakan preventip Petugas Proteksi Radiasi dapat menasehatkan untuk memindahkan pekerja radiasi sekalipun Nilai Batas Yang Diizinkan untuk jangka waktu tertentu belum dilampaui.",
+                        "content": "\nPemindahan itu bermaksud agar kesehatan pekerja yang bersangkutan pulih\nkembali. Sebagai tindakan preventip Petugas Proteksi Radiasi dapat\nmenasehatkan untuk memindahkan pekerja radiasi sekalipun Nilai Batas Yang\nDiizinkan untuk jangka waktu tertentu belum dilampaui.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "b7890c8c-56ba-4943-b2ad-8710c62fd905",
+                    "id": "c1ebdd01-12cc-420b-a0a2-a74ba4e31e2b",
                     "name": "Article 14",
                     "type": "article",
                     "children": {
-                        "id": "23990925-465b-4714-98b5-5fd8278637dd",
+                        "id": "c78ddc91-aec3-4989-bc43-89db0d66d613",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nCukup jelas\n",
+                        "content": "\nCukup jelas",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "076a47b9-f31f-4541-bc46-8bdcfa44c00c",
+                    "id": "521e8abb-ae34-4c4a-b9e8-6afb811efb9e",
                     "name": "Article 15",
                     "type": "article",
                     "children": {
-                        "id": "74c3dee4-1844-41b3-aa1f-aa26670cba9e",
+                        "id": "4ddb20eb-bfff-4f0d-9768-9c3924ece859",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -582,11 +657,11 @@
                     }
                 },
                 {
-                    "id": "63150eda-ac97-45d6-bb56-ddc59b4d95d6",
+                    "id": "24650feb-827e-4fda-9cdd-d0ab18367adc",
                     "name": "Article 16",
                     "type": "article",
                     "children": {
-                        "id": "5e364df5-07c0-49f9-96ef-70c04f94d149",
+                        "id": "58d89c7d-f909-4aa5-a7ec-4f95de0c4470",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -595,11 +670,11 @@
                     }
                 },
                 {
-                    "id": "cc69a131-7be7-4ffe-9b79-c1f659f8feb8",
+                    "id": "c9fa63e5-b39c-458d-a92d-b310d13db99f",
                     "name": "Article 19",
                     "type": "article",
                     "children": {
-                        "id": "7f0e82ab-5e3a-450d-b777-1b0c136c52b0",
+                        "id": "9cbc155b-4f6d-47be-8485-bc8a45ef61e8",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -608,11 +683,11 @@
                     }
                 },
                 {
-                    "id": "3a7ae161-bd62-40f0-8b21-44ce5384f7e3",
+                    "id": "e86d209a-d5de-485c-a87b-b8ab3edbdba5",
                     "name": "Article 20",
                     "type": "article",
                     "children": {
-                        "id": "7bfa1ade-0b67-4e0c-9577-88b22f48dbfa",
+                        "id": "e82b8792-c6b2-4c7e-88da-73024a24e57f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -621,11 +696,11 @@
                     }
                 },
                 {
-                    "id": "b578ae17-76a0-4955-afab-6b29fb3df776",
+                    "id": "f04c4420-9c32-4ebe-9b58-aef930e3ce26",
                     "name": "Article 21",
                     "type": "article",
                     "children": {
-                        "id": "83364477-f7a0-499e-a8a1-2272c9485cf2",
+                        "id": "d6f775bf-0912-484c-bbba-83eb7d1a4c59",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -634,11 +709,11 @@
                     }
                 },
                 {
-                    "id": "85a0a77d-44cb-4f34-9fdf-c11543d99311",
+                    "id": "35ec94e0-4e25-4e40-bccf-e9202bbbc86b",
                     "name": "Article 22",
                     "type": "article",
                     "children": {
-                        "id": "667b5dea-d302-4325-b208-8093f18c20dc",
+                        "id": "0468d762-ac08-4a8e-9ff2-363ec218ec97",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -655,16 +730,16 @@
         "Tentang": "KESELAMATAN KERJA TERHADAP RADIASI",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa sejalan dengan perkembangan ilmu pengetahuan dalam penggunaan tehnologi modern, pemakaian zat radioaktip dan atau sumber radiasi lainnya telah semakin meluas di Indonesia;",
-            "b": " bahwa pemakaian zat radioaktip dan atau sumber radiasi lainnya tersebut disamping mengandung segi-segi positip bagi kehidupan juga dapat menimbulkan bahaya radiasi, baik terhadap manusia maupun terhadap harta dan benda;",
-            "c": " bahwa untuk mencapai suasana kerja yang aman dan sehat serta untuk menghindarkan akibat-akibat buruk yang mungkin terjadi terhadap para pekerja, penduduk, dan lingkungan sekitarnya maka perlu ditetapkan peraturan yang mengatur keselamatan kerja terhadap bahaya radiasi;"
+            "a": " bahwa sejalan dengan perkembangan ilmu pengetahuan dalam\npenggunaan tehnologi modern, pemakaian zat radioaktip dan atau\nsumber radiasi lainnya telah semakin meluas di Indonesia;",
+            "b": " bahwa pemakaian zat radioaktip dan atau sumber radiasi lainnya\ntersebut disamping mengandung segi-segi positip bagi kehidupan\njuga dapat menimbulkan bahaya radiasi, baik terhadap manusia\nmaupun terhadap harta dan benda;",
+            "c": " bahwa untuk mencapai suasana kerja yang aman dan sehat serta\nuntuk menghindarkan akibat-akibat buruk yang mungkin terjadi\nterhadap para pekerja, penduduk, dan lingkungan sekitarnya\nmaka perlu ditetapkan peraturan yang mengatur keselamatan\nkerja terhadap bahaya radiasi;"
         },
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Undang-undang Nomor 31 Tahun 1964 tentang Ketentuan-ketentuan Pokok Tenaga Atom (Lembaran Negara Republik Indonesia Tahun 1964 Nomor 124, Tambahan Lembaran Negara Republik Indonesia Nomor 2722);",
-            "3": " Undang-undang Nomor 1 Tahun 1970 tentang Keselamatan Kerja (Lembaran Negara Republik Indonesia Tahun 1970 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 2918);",
-            "4": " Peraturan Pemerintah Nomor 33 Tahun 1965 tentang Dewan Tenaga Atom dan Badan Tenaga Atom Nasional (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 88);"
+            "2": " Undang-undang Nomor 31 Tahun 1964 tentang Ketentuan-\nketentuan Pokok Tenaga Atom (Lembaran Negara Republik\nIndonesia Tahun 1964 Nomor 124, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 2722);",
+            "3": " Undang-undang Nomor 1 Tahun 1970 tentang Keselamatan\nKerja (Lembaran Negara Republik Indonesia Tahun 1970 Nomor\n1, Tambahan Lembaran Negara Republik Indonesia Nomor\n2918);",
+            "4": " Peraturan Pemerintah Nomor 33 Tahun 1965 tentang Dewan\nTenaga Atom dan Badan Tenaga Atom Nasional (Lembaran\nNegara Republik Indonesia Tahun 1965 Nomor 88);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nTENTANG KESELAMATAN KERJA TERHADAP RADIASI.",
         "tanggal sah": ""

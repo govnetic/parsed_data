@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "5fa748a7-c4aa-4781-9f8a-35ab47d4d5e3",
+            "id": "13053352-244a-40ef-92ab-56b23eb06bdf",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ce713c49-9d47-4e6a-9bd2-8dd6e49e618d",
+                    "id": "a5a105db-2ac8-40d7-a614-ca7f75e37fd9",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "2d8c16b9-f22e-4efb-b97f-eb567ecc6c2c",
+                        "id": "bd179bf1-5bf9-4584-a291-c03f4375b31e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,24 +20,16 @@
                     }
                 },
                 {
-                    "id": "42fb695d-2006-410c-ba0b-17453e60e225",
+                    "id": "808c8aae-182a-4364-a1af-88c2844ea62b",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "dd63ef68-ebfd-45c8-9700-2f87ac4dd449",
+                            "id": "5f8a2ad9-20a9-484d-b3f3-e5bd6a8712bd",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Penambahan penyertaan Modal Negara Republik Indonesia sebagaimana dimaksud\ndalam Pasal 1 Peraturan Pemerintah ini berasal dari pemisahan sebagian kekayaan\nnegara yang pada saat ini berada di bawah pengelolaan Departemen Pekerjaan\nUmum berupa tanah yang terletak di Jalan M.T. Haryono Kaveling Nomor 9,\nJakarta Timur;",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "5042dbbf-bc8c-447b-a564-501513a38d62",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": " Besarnya nilai penambahan penyertaan Modal Negara Republik Indonesia ke dalam\nModal Saham Perusahaan Perseroan (PERSERO) PT. Indra Karya ditetapkan oleh\nMenteri Keuangan melalui penilaian yang dilakukan bersama oleh Departemen\nPekerjaan Umum dan Departemen Keuangan.\n",
+                            "content": " Penambahan penyertaan Modal Negara Republik Indonesia sebagaimana dimaksud\n    dalam Pasal 1 Peraturan Pemerintah ini berasal dari pemisahan sebagian kekayaan\n    negara yang pada saat ini berada di bawah pengelolaan Departemen Pekerjaan\n    Umum berupa tanah yang terletak di Jalan M.T. Haryono Kaveling Nomor 9,\n    Jakarta Timur;\n(2) Besarnya nilai penambahan penyertaan Modal Negara Republik Indonesia ke dalam\n    Modal Saham Perusahaan Perseroan (PERSERO) PT. Indra Karya ditetapkan oleh\n    Menteri Keuangan melalui penilaian yang dilakukan bersama oleh Departemen\n    Pekerjaan Umum dan Departemen Keuangan.\n",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -45,17 +37,17 @@
             ]
         },
         {
-            "id": "97cad5b1-a611-41d7-8738-2c84293bd2d8",
+            "id": "42c3e6cc-4680-412d-bc48-3055efb260a7",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "630412a4-ca9a-4834-8f6d-ddc8e82fb3b8",
+                    "id": "eb681dd6-06e1-4b4e-a1b6-66b6cfd876cd",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "81b9bec1-2e68-4081-83db-1b8691b34dec",
+                        "id": "de5dc65c-1d16-4120-a808-292ffe1744e3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -66,17 +58,17 @@
             ]
         },
         {
-            "id": "ca9d50c7-6bd0-46d2-aab2-365d14177a5b",
+            "id": "45f0bb03-ad85-4077-89b6-2d3fcdb43c83",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "04ebebd5-0e48-471c-ac1e-7be33c96576e",
+                    "id": "f4bcae1f-5834-4de6-9fc2-290d5044d2bc",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "8f093a86-1692-4f93-8ac8-5ca8d5b621b4",
+                        "id": "1cc580af-9de1-41a4-8ab2-92392a2deb4d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -85,11 +77,11 @@
                     }
                 },
                 {
-                    "id": "32f5d886-36a5-4ac5-b6e1-93e659ec8821",
+                    "id": "047ae0dd-3c66-45f9-b1d3-de2042f83de2",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "087c08c9-bd2e-4168-9d45-bbd3f1152731",
+                        "id": "2e6c65a7-e5a8-442c-9ef3-d07de3205ead",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -115,11 +107,9 @@
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
             "2": " Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847\nNomor 23) sebagaimana telah beberapa kali diubah dan\nditambah, terakhir dengan, Undang-undang Nomor 4 Tahun\n1971 (Lembaran Negara Tahun 1971 Nomor 20, Tambahan\nLembaran Negara Nomor 2959);",
             "3": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan\nPeraturan Pemerintah Pengganti Undang-undang Nomor 1 Tahun\n1969 (Lembaran Negara Tahun 1969 Nomor 16, Tambahan\nLembaran Negara Nomor 2890) tentang Bentuk-bentuk Usaha\nNegara menjadi Undang-undang (Lembaran Negara Tahun 1969\nNomor 40, Tambahan Lembaran Negara Nomor 2904);",
-            "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor\n21, Tambahan Lembaran Negara Nomor 2894) jo Peraturan\nPemerintah Nomor 24 Tahun 1972 tentang Perubahan atas\nKetentuan Pasal 7 Peraturan Pemerintah Nomor 12 Tahun 1969\ntentang Perusahaan Perseroan (PERSERO) (Lembaran Negara\nTahun 1972 Nomor 32, Tambahan Lembaran Negara Nomor\n2987);",
-            "5": " Peraturan Pemerintah Nomor 42 Tahun 1970 tentang Pengalihan\nBentuk Perusahaan Negara (PN) Indra Karya menjadi Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1970 Nomor\n60);",
-            "6": " Peraturan Pemerintah Nomor 34 Tahun 1981 tentang\nPenambahan Penyertaan Modal Negara Republik Indonesia ke\ndalam Modal Saham Perusahaan Perseroan (PERSERO) PT.\nIndra Karya (Lembaran Negara Tahun 1981 Nomor 49)."
+            "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor\n21, Tambahan Lembaran Negara Nomor 2894) jo Peraturan\nPemerintah Nomor 24 Tahun 1972 tentang Perubahan atas\nKetentuan Pasal 7 Peraturan Pemerintah Nomor 12 Tahun 1969\ntentang Perusahaan Perseroan (PERSERO) (Lembaran Negara\nTahun 1972 Nomor 32, Tambahan Lembaran Negara Nomor\n2987);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT. INDRA KARYA.",
+        "Menetapkan": "\n5.  Peraturan Pemerintah Nomor 42 Tahun 1970 tentang Pengalihan\n    Bentuk Perusahaan Negara (PN) Indra Karya menjadi Perusahaan\n    Perseroan (PERSERO) (Lembaran Negara Tahun 1970 Nomor\n    60);\n6.  Peraturan Pemerintah Nomor 34 Tahun 1981 tentang\n    Penambahan Penyertaan Modal Negara Republik Indonesia ke\n    dalam Modal Saham Perusahaan Perseroan (PERSERO) PT.\n    Indra Karya (Lembaran Negara Tahun 1981 Nomor 49).\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT. INDRA KARYA.",
         "tanggal sah": "12 April 1982"
     }
 }

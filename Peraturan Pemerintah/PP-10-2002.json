@@ -1,55 +1,55 @@
 {
     "results": [
         {
-            "id": "a08fef95-902d-4641-a60a-492f76d07101",
+            "id": "e7e12f06-af5a-49e9-aff8-c890a38723c9",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "83dff873-49cd-45c8-ba50-9a97705462cf",
+                "id": "81796010-c410-494d-9be4-6f8bc35d7609",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas.",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "(1) Jenis Penerimaan Negara Bukan Pajak yang berlaku pada Kantor\nMenteri Negara Lingkungan Hidup di bidang pengendalian dampak\nlingkungan berasal dari penerimaan Uji Udara Emisi, Uji Udara\nAmbien, Uji Kebisingan, Uji Air dan Limbah Cair, Uji Limbah\nPadat dan Biologi, serta Uji Karakteristik Limbah Bahan Berbahaya\ndan Beracun (B3).\n(2) Tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada\nKantor Menteri Negara Lingkungan Hidup di bidang pengendalian\ndampak lingkungan sebagaimana dimaksud dalam ayat (1) adalah\nsebagaimana ditetapkan dalam Lampiran Peraturan Pemerintah ini.\n(3) Tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada\nKantor Menteri Negara Lingkungan Hidup di bidang pengendalian\ndampak lingkungan sebagaimana dimaksud dalam ayat (2) yang\nbelum tercakup dalam Lampiran Peraturan Pemerintah ini akan\ndisusulkan sebagai bagian yang tidak terpisahkan dari Peraturan\nPemerintah ini dan pencantumannya dilakukan dengan Peraturan\nPemerintah tersendiri.",
+                "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "045ed5f3-1c43-44df-bf65-2245c88270b5",
+            "id": "6c5c2db9-a3c4-430c-bea3-ca5f6cb02a69",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "42a52ce0-39cd-4bca-a925-892bc483fec6",
+                "id": "2fa16b84-d9f1-45c1-8f54-36beeba08066",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas.",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Jenis Penerimaan Negara Bukan Pajak sebagaimana dimaksud dalam\nPasal 1 mempunyai tarif dalam satuan rupiah.",
+                "explanation": "\nCukup jelas."
             }
         },
         {
-            "id": "4554c1f4-5545-40fd-b3e6-f6e730ccad90",
+            "id": "ce3e7e8a-445f-41f4-bb41-e9137e083c52",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "5a37f3d1-d748-460f-a916-3ea035741364",
+                "id": "720b7108-96f9-4bee-beae-b7e30a66288e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Yang dimaksud dengan Kas Negara adalah sebagaimana dimaksud dalam\nUndang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara Bukan Pajak.",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Seluruh Penerimaan Negara Bukan Pajak sebagaimana dimaksud dalam\nPasal 1 wajib disetor langsung secepatnya ke Kas Negara.",
+                "explanation": "\nYang dimaksud dengan Kas Negara adalah sebagaimana dimaksud dalam\nUndang-undang Nomor 20 Tahun 1997 tentang Penerimaan Negara Bukan Pajak."
             }
         },
         {
-            "id": "3f0034a7-b008-4f25-95c0-85c6be810836",
+            "id": "19ea20ec-bbe5-4b8a-82c5-40a6bd56614f",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "a82e0854-e3d5-47f3-b9de-9b20ed7fecba",
+                "id": "e26c5f34-c350-468b-8d07-a3e82fee45a7",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas.\n",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                "explanation": "\nCukup jelas.\n"
             }
         }
     ],

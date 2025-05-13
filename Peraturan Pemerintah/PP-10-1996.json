@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "4c6abc1e-db14-404c-8b29-4bfc5c835513",
+            "id": "b9d25feb-bb40-4a7f-984a-bb9a5fc60011",
             "name": "Chapter I",
             "title": "\nPENYERTAAN MODAL NEGARA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "06126cb6-e56e-4e7d-83c7-39f9d27c0ddc",
+                    "id": "a75b9352-ac12-41d7-a59a-87d2939b53a9",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "5aa2c3e6-c274-4096-926d-9a9be13615de",
+                        "id": "e70126d6-c8fc-4b18-854e-9770a0fc64bc",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -22,17 +22,17 @@
             ]
         },
         {
-            "id": "eb9e246d-dd4b-4d37-b06f-0fbf3de9bccc",
+            "id": "214e28a9-3699-4cc5-9e86-e68db91ca3c2",
             "name": "Chapter II",
             "title": "\nMAKSUD DAN TUJUAN PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "0c43972e-d8a4-4fd9-94f7-37e9b8580455",
+                    "id": "d6ee729d-d7dd-4f36-92b6-065ff1e7abd7",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "1d0848ce-717d-4304-baf9-d1ec5a7e34a5",
+                        "id": "418cb9fa-3719-4851-b3ac-333dc54de8b5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -43,44 +43,44 @@
             ]
         },
         {
-            "id": "4733d795-7b7c-4f62-b8fc-c9828cd9206c",
+            "id": "33ee9d66-b52d-4db4-9f2f-9a3893433f56",
             "name": "Chapter III",
             "title": "\nMODAL PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "c8e1a380-15da-4fd7-93af-84e01c4bcbd2",
+                    "id": "56c9b12e-f9fa-460c-9df3-54f2fb69dd1c",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ef69c9c8-675f-48d9-8b16-43799558242a",
+                            "id": "0c5152f0-f4b1-422a-937b-df457a431eda",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Modal PERSERO yang ditempatkan dan disetor pada saat\npendiriannya adalah kekayaan Negara yang berasal dari:\n\na. Proyek Pengembangan Perusahaan Perseroan (PERSERO) PT\nPerkebunan II di Propinsi Riau termasuk konversi pinjaman\nNegara Republik Indonesia dari Asian Development Bank\n(ADB) yang diteruskan kepada Perusahaan untuk membiayai\nProyek Sei Buatan;\nb. Proyek Pengembangan Perusahaan Perseroan (PERSERO) PT\nPerkebunan IV di Propinsi Riau;\nc. Proyek Pengembangan Perusahaan Perseroan (PERSERO) PT\nPerkebunan V di Propinsi Riau.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "75c6e932-c55f-4ef2-ac27-a753aad537e0",
+                            "id": "eeebc375-f8c4-4d55-beaf-1e1c36e1a3b4",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Besarnya modal PERSERO sebagaimana dimaksud dalam ayat (1)\nditetapkan oleh Menteri Keuangan berdasarkan hasil perhitungan\nbersama Departemen Keuangan dan Departemen Pertanian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0848cfc7-a289-4cf1-9849-954bf3c1632e",
+                            "id": "d1bd8eb5-fc83-42a7-95ce-0d50f0d6e2ba",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Ketentuan lain mengenai permodalan PERSERO diatur dalam\nAnggaran Dasar, termasuk ketentuan mengenai modal dasar yang\nterbagi atas saham-saham sesuai dengan ketentuan Peraturan\nPemerintah Nomor 12 Tahun 1969 sebagaimana telah diubah\ndengan Peraturan Pemerintah Nomor 24 Tahun 1972.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7c4fcd62-2551-48c8-89d1-6e5d6323cce5",
+                            "id": "e5423019-f88e-47d1-9245-2ae98b46fff1",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Neraca Pembukaan PERSERO ditetapkan oleh Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -90,17 +90,17 @@
             ]
         },
         {
-            "id": "fbd15af3-e741-42da-8bb0-36630abd6853",
+            "id": "380db792-8d48-44ac-a75a-81ee388455d6",
             "name": "Chapter IV",
             "title": "\nPELAKSANAAN PENDIRIAN PERSERO",
             "type": "chapter",
             "children": [
                 {
-                    "id": "d7141604-b9c1-4cb0-9a30-c2edc1400bca",
+                    "id": "18591c11-5955-4ec6-87e5-85c568c8bdfd",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "5092b1a7-8c23-4f94-b742-5d81ec7409ca",
+                        "id": "e147b7cc-5af3-49aa-9169-6db663369f32",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -109,22 +109,22 @@
                     }
                 },
                 {
-                    "id": "b3c4757b-5d7c-4a36-a9e1-f2abe3eb807c",
+                    "id": "e5971a7c-f0e0-4bbd-8aa2-0c0c5f17ca80",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "43adcd80-c1a1-4a21-b117-db705d8c6c75",
+                            "id": "6b7efe93-6fd6-48bd-a7cd-69468605b4b3",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penyelesaian pendirian PERSERO sebagaimana dimaksud dalam\nPasal 4 dikuasakan kepada Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "855d80d9-20ac-4703-92ce-d317a54d7851",
+                            "id": "1260ecb9-ab40-43f2-b5ab-53d21db7fa31",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Menteri Keuangan dapat menyerahkan kuasa sebagaimana\ndimaksud dalam ayat (1) dengan disertai hak substitusi kepada\nMenteri Pertanian dengan ketentuan bahwa Rancangan Anggaran\nDasar PERSERO harus mendapat persetujuan terlebih dahulu dari\nMenteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -134,17 +134,17 @@
             ]
         },
         {
-            "id": "5e1fd5b0-95a7-4f8e-86bf-6aacfe7859bf",
+            "id": "bf174acc-0717-4122-8b67-d1ebf1e2d229",
             "name": "Chapter V",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e5d56bc4-8590-4457-b437-fa52b84605ac",
+                    "id": "de13da88-f199-4148-bea3-6862cb88c8ea",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "3bd3b72e-8477-4655-ad30-1e98638ec6f4",
+                        "id": "487880df-bd8c-4d96-9ea4-10a05419c4f9",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -153,11 +153,11 @@
                     }
                 },
                 {
-                    "id": "498c3c9f-3dd8-4dfa-8796-16e6c2655bb2",
+                    "id": "f2541d5a-f9d4-4034-97d3-407f95bd7887",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "feb28418-22d4-401d-8908-d45c82bf8d5d",
+                        "id": "e2a81664-574e-45ba-a63b-546124b2d701",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -182,7 +182,7 @@
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
             "2": " Kitab Undang-undang Hukum Dagang (staatsblad Tahun 1847 Nomor\n23) sebagaimana telah beberapa kali diubah terakhir dengan\nUndang-undang Nomor 4 Tahun 1971 (Lembaran Negara Tahun 1971\nNomor 20, Tambahan Lembaran Negara Nomor 2959);",
-            "3": " Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang\nBentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969 Nomor\n16, Tambahan Lembaran Negara Nomor 2890) menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan\nLembaran Negara Nomor 2904);",
+            "3": "  Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969 tentang\nBentuk-bentuk Usaha Negara (Lembaran Negara Tahun 1969 Nomor\n16, Tambahan Lembaran Negara Nomor 2890) menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan\nLembaran Negara Nomor 2904);",
             "4": " Peraturan Pemerintah Nomor 12 Tahun 1969 tentang Perusahaan\nPerseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21,\nTambahan Lembaran Negara Nomor 2894) sebagaimana telah diubah\ndengan Peraturan Pemerintah Nomor 24 Tahun 1972 (Lembaran\nNegara Tahun 1972 Nomor 32, Tambahan Lembaran Negara Nomor\n2987);",
             "5": " Peraturan Pemerintah Nomor 3 Tahun 1983 tentang Tata Cara\nPembinaan dan Pengawasan Perusahaan Jawatan (PERJAN),\nPerusahaan Umum (PERUM) dan Perusahaan Perseroan (PERSERO)\n(Lembaran Negara Tahun 1983 Nomor 3, Tambahan Lembaran\nNegara Nomor 3246) sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 28 Tahun 1983 (Lembaran Negara Tahun 1983\nNomor 37);"
         },

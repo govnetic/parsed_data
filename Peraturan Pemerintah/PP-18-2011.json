@@ -1,0 +1,74 @@
+{
+    "results": [
+        {
+            "id": "0933b7cb-320b-42f2-a75f-f1ac7eeea811",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "de30dd05-95d4-4154-8173-7a9883be6f37",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "bd939b82-5207-44a2-b7c5-ff52e75b0952",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "ed7973af-f76c-4f18-a1af-bbde6abcb282",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "dfff65dd-2886-4efe-bb67-31e2bd47ce17",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "aaba6d32-6a5e-4f39-bf12-656f3b1c2860",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "985b1034-4a10-4b9e-9987-2bda80fe9b36",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "18",
+        "Tahun": "2011",
+        "Tentang": "PERUBAHAN KESEMBILAN ATAS\nPERATURAN PEMERINTAH NOMOR 14 TAHUN 1985\nTENTANG PEMBERIAN TUNJANGAN PERINTIS PERGERAKAN\nKEBANGSAAN/KEMERDEKAAN",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa besaran tunjangan Perintis Pergerakan\nKebangsaan/Kemerdekaan sebagaimana ditetapkan\ndalam Peraturan Pemerintah Nomor 14 Tahun 1985\ntentang Pemberian Tunjangan Perintis Pergerakan\nKebangsaan/Kemerdekaan, sebagaimana telah delapan\nkali diubah terakhir dengan Peraturan Pemerintah\nNomor 32 Tahun 2010 tidak sesuai lagi dengan\nperkembangan keadaan;",
+            "b": " bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, perlu menetapkan Peraturan\nPemerintah tentang Perubahan Kesembilan Atas\nPeraturan Pemerintah Nomor 14 Tahun 1985 tentang\nPemberian Tunjangan Perintis Pergerakan Kebangsaan/\nKemerdekaan;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 5 Prps Tahun 1964 tentang\nPemberian Penghargaan/Tunjangan Kepada Perintis\nPergerakan Kebangsaan/Kemerdekaan (Lembaran\nNegara Republik Indonesia Tahun 1964 Nomor 19,\nTambahan Lembaran Negara Republik Indonesia Nomor\n2636);",
+            "3": " Peraturan Pemerintah Nomor 14 Tahun 1985 tentang\nPemberian Tunjangan Perintis Pergerakan\nKebangsaan/Kemerdekaan (Lembaran Negara Republik\nIndonesia Tahun 1985 Nomor 20) sebagaimana telah\ndelapan kali diubah terakhir dengan Peraturan\nPemerintah Nomor 32 Tahun 2010 (Lembaran Negara\nRepublik Indonesia Tahun 2010 Nomor 38);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN\nKESEMBILAN ATAS PERATURAN PEMERINTAH NOMOR 14\nTAHUN 1985 TENTANG PEMBERIAN TUNJANGAN\nPERINTIS PERGERAKAN KEBANGSAAN/KEMERDEKAAN.",
+        "tanggal sah": "16 Februari 2011"
+    }
+}

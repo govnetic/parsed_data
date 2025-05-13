@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "329c4be0-4cb3-46bb-b5d2-3dbd5355d91a",
+            "id": "0abcfd64-2157-4ce9-98ee-224d740857ea",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "08d10601-accc-4cb3-bafd-ad8ade2dca37",
+                    "id": "74d194d0-e518-4875-94a1-98ccb8185004",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "54ada52d-a3c1-44a2-a85e-08a70820de53",
+                        "id": "f82c0afe-777c-4b31-a7aa-fabdbac7739b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -22,36 +22,36 @@
             ]
         },
         {
-            "id": "32804f1a-b82c-4e15-969a-0dd1deb9d3e2",
+            "id": "c68c43b0-757f-4835-a131-d621857df863",
             "name": "Chapter II",
             "title": "\nINSTANSI PEMERIKSA DAN INSTANSI PENGELOLA PNBP\nATAU WAJIB BAYAR YANG DIPERIKSA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "3c614155-ea8d-4295-83c6-dc9ae3e6728f",
+                    "id": "cbfcd894-3063-464a-bd98-fada28c669fc",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "c28f0548-87c8-47b3-8eb3-f3276da6b153",
+                            "id": "b6ae5fb8-5dfd-4236-8f73-7b96f679bcff",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " dapat dilakukan atas permintaan Menteri dan/atau\nPimpinan Instansi Pengelola PNBP.",
+                            "content": " Pemeriksaan PNBP dilakukan oleh Instansi Pemeriksa.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9447ca41-4c72-45de-8f7d-d5f8c13a58ba",
+                            "id": "6b65ecb6-cd92-4f9d-b865-d04eeefa48ee",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Pemeriksaan PNBP sebagaimana dimaksud pada ayat",
+                            "content": " Pemeriksaan PNBP sebagaimana dimaksud pada ayat\n(1) dapat dilakukan atas permintaan Menteri dan/atau\nPimpinan Instansi Pengelola PNBP.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "47f92a27-3b3a-49c2-bd7c-74d043a27942",
+                            "id": "aeaf771d-1515-4830-82a5-d528ec1091a4",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Menteri dan/atau Pimpinan Instansi Pengelola PNBP\nsebagaimana dimaksud pada ayat (2) dapat\nmendelegasikan permintaan pemeriksaan kepada\npejabat setingkat di bawah Menteri dan/atau\nPimpinan Instansi Pengelola PNBP.",
                             "explanation": "Tidak ada Penjelasan"
@@ -59,11 +59,11 @@
                     ]
                 },
                 {
-                    "id": "55015ad9-d0fe-42e5-9130-33d7fe65e6a3",
+                    "id": "28fc062b-d993-4d9b-8d27-188696258772",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "56c7ae95-ac1a-420c-86f1-cd23c719b45c",
+                        "id": "119e1879-23b4-45f1-8139-aa57b3ae7293",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -74,72 +74,72 @@
             ]
         },
         {
-            "id": "ee636781-9f7c-46c4-92ec-6e079707dc5c",
+            "id": "7107bb80-a6c0-4fc8-865f-d9db8ae0be14",
             "name": "Chapter III",
             "title": "\nPEMERIKSAAN PNBP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "38d3b632-f9c5-4466-85c0-17b6bb403192",
+                    "id": "5cd8e1db-23e6-48dd-b011-7e4833b8f11e",
                     "name": "Section First",
                     "title": "\nDasar Pemeriksaan PNBP",
                     "type": "section",
                     "children": [
                         {
-                            "id": "ef7f278d-cbe9-484f-a70f-7f8a6bde8978",
+                            "id": "008c6420-1c07-408d-bffa-1550b3228178",
                             "name": "Paragraph 1",
                             "title": "\nPermintaan Pemeriksaan oleh Pimpinan Instansi Pengelola\nPNBP\ndan/atau Menteri Terhadap Wajib Bayar",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "8a6cdac8-c1df-4e4e-be5a-46ecb62ed1d2",
+                                    "id": "715fca18-9028-414b-903b-df3195530bdc",
                                     "name": "Article 4",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "b6ddb8d0-106e-4d77-b1dd-b4cdf39011a1",
+                                            "id": "f6f22d47-a5ac-42bd-9f03-3f3908eed586",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Wajib Bayar sebagaimana dimaksud dalam Pasal 3\nhuruf a terdiri dari:\na. Wajib Bayar yang menghitung sendiri PNBP\nTerutang; dan\nb. Wajib Bayar yang PNBP Terutangnya dihitung\noleh Instansi Pengelola PNBP atau dihitung oleh\nMitra Instansi Pengelola PNBP.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "c9b4c925-8d5c-4ad4-a452-c1bf3ff1ca6b",
+                                            "id": "704b8962-9eeb-4684-9c5b-e83af27cc10b",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Terhadap Wajib Bayar yang menghitung sendiri\nkewajiban PNBP Terutang sebagaimana dimaksud\npada ayat (1) huruf a, atas permintaan Pimpinan\nInstansi Pengelola PNBP, dapat dilakukan\nPemeriksaan PNBP oleh Instansi Pemeriksa.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "25adc01f-68cd-498c-919b-d402843ad15b",
+                                            "id": "8dfca64b-8acd-42ac-bc38-5c770a577ffb",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
-                                            "content": " Permintaan Pimpinan Instansi Pengelola PNBP\nsebagaimana dimaksud pada ayat (2), dilakukan\nberdasarkan:\na. hasil pengawasan Instansi Pengelola PNBP\nterhadap Wajib Bayar yang bersangkutan;\nb. permohonan pengembalian kelebihan\npembayaran PNBP; dan/atau\nC. permohonan keringanan PNBP Terutang.",
+                                            "content": " Permintaan Pimpinan Instansi Pengelola PNBP\nsebagaimana dimaksud pada ayat (2), dilakukan\nberdasarkan:\na. hasil pengawasan Instansi Pengelola PNBP\nterhadap Wajib Bayar yang bersangkutan;\nb. permohonan pengembalian kelebihan\npembayaran PNBP; dan/atau\nc. permohonan keringanan PNBP Terutang.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "75c472ef-4df9-4939-b00a-5b35425d9687",
+                                            "id": "3432862c-33b7-44a1-8081-8657b2db670f",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Permohonan pengembalian kelebihan pembayaran\nPNBP sebagaimana dimaksud pada ayat (3) huruf b\nmerupakan permohonan pengembalian dengan\nnilai/jumlah tertentu.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "aea2c96c-980d-4ea8-9096-ba954459b7c7",
+                                            "id": "6cc374aa-922e-4b73-9677-d9a463923f79",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
                                             "content": " Permohonan keringanan PNBP Terutang sebagaimana\ndimaksud pada ayat (3) huruf c berupa pengurangan\ndan pembebasan dengan nilai/jumlah tertentu sebagai\nakibat kondisi kesulitan likuiditas.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "4a6173d6-d115-4ad8-a7ec-2bff31681802",
+                                            "id": "4c624ceb-ce39-48a2-a14c-d9c95fe8eca6",
                                             "name": "Verse 6",
-                                            "number": "(6)",
+                                            "number": "6",
                                             "type": "verse",
                                             "content": " Ketentuan mengenai nilai/jumlah tertentu\nsebagaimana dimaksud pada ayat (4) dan ayat (5)\ndiatur dengan Peraturan Menteri.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -147,30 +147,30 @@
                                     ]
                                 },
                                 {
-                                    "id": "3fc6035c-3cda-4090-8e1c-321980a60d9d",
+                                    "id": "8e250834-c3a8-4131-ba97-b476ee9ba3d9",
                                     "name": "Article 5",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "f51d3742-6251-46d7-8e4a-a80846eea0fe",
+                                            "id": "57887f69-8c9a-4461-ad33-b4c55c5f51ec",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Dalam hal tertentu, Menteri dapat meminta Instansi\nPemeriksa untuk melakukan Pemeriksaan PNBP\nterhadap Wajib Bayar yang menghitung sendiri\nkewajiban PNBP Terutang sebagaimana dimaksud\ndalam Pasal 4 ayat (1) huruf a.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "d0da9494-9059-4cae-a459-caa018b3db71",
+                                            "id": "71ee58f3-cc60-4a1a-9422-427990af6243",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Hal tertentu sebagaimana dimaksud pada ayat (1),\ntermasuk:\na. adanya indikasi ketidakpatuhan terhadap\nketentuan peraturan perundang-undangan di\nbidang PNBP;\nb. adanya indikasi kerugian negara dan/atau\nindikasi unsur tindak pidana; dan/atau\nc. adanya permohonan pengembalian kelebihan\npembayaran PNBP secara tunai.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "86ded7f0-1658-496f-8688-e1e67c055762",
+                                            "id": "70ab74df-681d-48ea-a67c-84a984a937b6",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Dalam permintaan Pemeriksaan PNBP sebagaimana\ndimaksud pada ayat (1), Menteri berkoordinasi dengan\nInstansi Pengelola PNBP.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -178,100 +178,100 @@
                                     ]
                                 },
                                 {
-                                    "id": "08e9fb22-8295-45a8-af45-38a3c367c8c5",
+                                    "id": "eb41b289-1df8-40c6-84ec-d8e1c4016ecb",
                                     "name": "Article 6",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "0dd43d37-7974-41c9-a099-150fd1b83609",
+                                            "id": "b95410cb-ffed-46a5-bd59-fc7656b70346",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Dalam hal tertentu, Menteri dan/atau Pimpinan\nInstansi Pengelola PNBP dapat meminta Instansi\nPemeriksa untuk melakukan Pemeriksaan PNBP\nterhadap Wajib Bayar yang kewajiban PNBP\nTerutangnya dihitung oleh Instansi Pengelola PNBP\natau dihitung oleh Mitra Instansi Pengelola PNBP\nsebagaimana dimaksud dalam Pasal 4 ayat (1) huruf b.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "b8db5a1b-7b7c-4b7b-a702-f57d5327a219",
+                                            "id": "6075e231-5b0f-4e9e-b1ba-424d3832b288",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Hal tertentu sebagaimana dimaksud pada ayat (1),\ntermasuk:\na. adanya permintaan koreksi Surat Tagihan PNBP;\nb. adanya permohonan pengembalian kelebihan\nc.\npembayaran PNBP secara tunai; dan/atau\nadanya permohonan keringanan PNBP.",
+                                            "content": " Hal tertentu sebagaimana dimaksud pada ayat (1),\ntermasuk:\na. adanya permintaan koreksi Surat Tagihan PNBP;\nb. adanya permohonan pengembalian kelebihan pembayaran PNBP secara tunai; dan/atau\nc. adanya permohonan keringanan PNBP.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "deb2d3d6-b25a-486f-a55c-3d4bf01ceede",
+                                            "id": "a71ed9c8-c5b4-4325-8bc6-6c590f757cb6",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
-                                            "content": " Permintaan koreksi Surat Tagihan PNBP sebagaimana\na\ndimaksud pada ayat (2) huruf\nmerupakan\npermintaan koreksi yang bersifat substantif dengan:\na. nilai tertentu; dan/atau\nb. kriteria tertentu.",
+                                            "content": " Permintaan koreksi Surat Tagihan PNBP sebagaimana dimaksud pada ayat (2) huruf a merupakan permintaan koreksi yang bersifat substantif dengan:\na. nilai tertentu; dan/atau\nb. kriteria tertentu.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "02a10a87-eb8c-449f-9301-130ea4250d1a",
+                                            "id": "a6e9ce8a-f5f1-41bd-b7b6-99d807dd0923",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
-                                            "content": " Permohonan pengembalian kelebihan pembayaran\nPNBP sebagaimana dimaksud pada ayat (2) huruf b\nmerupakan permohonan pengembalian dengan\nnilai/jumlah tertentu.",
+                                            "content": " Permohonan pengembalian kelebihan pembayaran PNBP sebagaimana dimaksud pada ayat (2) huruf b merupakan permohonan pengembalian dengan nilai/jumlah tertentu.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "8132a57f-52c9-4535-9da2-3ff0d8cd9a95",
+                                            "id": "66790ebe-9069-4169-8a53-5dce15376a3f",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
-                                            "content": " Permohonan keringanan PNBP sebagaimana dimaksud\npada ayat (2) huruf c berupa pengurangan atau\npembebasan dengan nilai/jumlah tertentu sebagai\nakibat kondisi kesulitan likuiditas.",
+                                            "content": " Permohonan keringanan PNBP sebagaimana dimaksud pada ayat (2) huruf c berupa pengurangan atau pembebasan dengan nilai/jumlah tertentu sebagai akibat kondisi kesulitan likuiditas.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "857b73f5-3284-4c0f-81fb-fd5a4024c815",
+                                            "id": "c882c1af-e4de-4be8-bf44-356b9dd32a27",
                                             "name": "Verse 6",
-                                            "number": "(6)",
+                                            "number": "6",
                                             "type": "verse",
-                                            "content": " Ketentuan lebih lanjut mengenai permintaan koreksi\nyang bersifat substantif dengan nilai tertentu\ndan/atau kriteria tertentu sebagaimana dimaksud\npada ayat (3) dan penentuan nilai/jumlah\nsebagaimana dimaksud pada ayat (4) dan ayat (5)\ndiatur dengan Peraturan Menteri.",
+                                            "content": " Ketentuan lebih lanjut mengenai permintaan koreksi yang bersifat substantif dengan nilai tertentu dan/atau kriteria tertentu sebagaimana dimaksud pada ayat (3) dan penentuan nilai/jumlah sebagaimana dimaksud pada ayat (4) dan ayat (5) diatur dengan Peraturan Menteri.",
                                             "explanation": "Tidak ada Penjelasan"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "cac077d5-5998-4c37-a84d-0e52482945f2",
+                                    "id": "cb31a5be-b428-4fbc-a4d4-1997a5b28854",
                                     "name": "Article 7",
                                     "type": "article",
                                     "children": {
-                                        "id": "a012dd45-9308-4190-bab2-2e91f90ea862",
+                                        "id": "5542ca7b-e19c-40ee-a2b8-214a99d54736",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
-                                        "content": "\nPermintaan Pemeriksaan PNBP selain sebagaimana\ndimaksud dalam Pasal 5 ayat (2) dan Pasal 6 ayat (2) diatur\nlebih lanjut dengan Peraturan Menteri.",
+                                        "content": "\nPermintaan Pemeriksaan PNBP selain sebagaimana dimaksud dalam Pasal 5 ayat (2) dan Pasal 6 ayat (2) diatur lebih lanjut dengan Peraturan Menteri.",
                                         "explanation": "Tidak ada Penjelasan"
                                     }
                                 }
                             ]
                         },
                         {
-                            "id": "4e5a209a-ac7a-4335-b553-db09571979d8",
+                            "id": "b9fa4fd2-5231-4c73-9e85-3e5f13aa1f8a",
                             "name": "Paragraph 2",
                             "title": "\nPermintaan Pemeriksaan oleh Menteri\nTerhadap Instansi Pengelola PNBP",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "078ba310-3617-491d-be8c-61018f67ac36",
+                                    "id": "4f51adc8-6366-4ae9-8870-72531f1bad97",
                                     "name": "Article 8",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "91c29b96-15f2-4fd1-b9c4-a9fe220cc4df",
+                                            "id": "9f3f132e-715e-4ffc-a6f2-d9ff248bbe5f",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Menteri dapat meminta Instansi Pemeriksa untuk\nmelakukan Pemeriksaan PNBP terhadap Instansi\nPengelola PNBP sebagaimana dimaksud dalam Pasal 3\nhuruf b.",
+                                            "content": " Menteri dapat meminta Instansi Pemeriksa untuk melakukan Pemeriksaan PNBP terhadap Instansi\nPengelola PNBP sebagaimana dimaksud dalam Pasal 3\nhuruf b.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "f1670814-2f8c-4db1-9074-d145806509b6",
+                                            "id": "b9f4dbde-8cfa-4874-a7fd-bb75f61a52a0",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Permintaan pemeriksaan oleh Menteri sebagaimana\ndimaksud pada ayat (1) dilakukan berdasarkan:\n  a. adanya indikasi pelanggaran terhadap ketentuan\nperaturan perundang-undangan di bidang PNBP;\n  b. adanya indikasi kerugian negara dan/atau\nindikasi unsur tindak pidana;\n  c. hasil pengawasan aparat pengawasan intern\npemerintah; dan/atau\n  d. hasil pengawasan Menteri.",
+                                            "content": " Permintaan pemeriksaan oleh Menteri sebagaimana\ndimaksud pada ayat (1) dilakukan berdasarkan:\na. adanya indikasi pelanggaran terhadap ketentuan\nperaturan perundang-undangan di bidang PNBP;\nb. adanya indikasi kerugian negara dan/atau\nindikasi unsur tindak pidana;\nC. hasil pengawasan aparat pengawasan intern\npemerintah; dan/atau\nd. hasil pengawasan Menteri.",
                                             "explanation": "Tidak ada Penjelasan"
                                         }
                                     ]
@@ -279,30 +279,30 @@
                             ]
                         },
                         {
-                            "id": "3309c290-1d83-4f5f-88c9-19b51a82fbfc",
+                            "id": "ea871b9a-ccc8-43c6-83f8-63ac6fe0cab6",
                             "name": "Paragraph 3",
                             "title": "\nPermintaan Pemeriksaan oleh Menteri dan/atau\nInstansi Pengelola Terhadap Mitra Instansi Pengelola PNBP",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "1a94f3b2-6a54-439b-98f6-0e65599e2e08",
+                                    "id": "94268b21-e269-40e0-85e2-cc7e02e5713d",
                                     "name": "Article 9",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "3aa38da7-bda4-499e-b0d9-c7609095585b",
+                                            "id": "a3a25b46-7d71-4d93-b43b-a50328edfa19",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Menteri dan/atau Pimpinan Instansi Pengelola PNBP\ndapat meminta Instansi Pemeriksa untuk melakukan\nPemeriksaan PNBP terhadap Mitra Instansi Pengelola\nPNBP sebagaimana dimaksud dalam Pasal 3 huruf c.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "0006bf86-485b-4120-84d9-0dc04ffacd68",
+                                            "id": "e8940907-5ca5-4801-8a61-6875f39c65f1",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Permintaan pemeriksaan oleh Menteri dan/atau\nPimpinan Instansi Pengelola PNBP sebagaimana\ndimaksud pada ayat (1) dilakukan berdasarkan:\n  a. indikasi pelanggaran terhadap ketentuan\nperaturan perundang-undangan di bidang PNBP;\n  b. indikasi kerugian negara dan/atau indikasi unsur\ntindak pidana; dan/atau\n  c. hasil pengawasan aparat pengawasan intern\npemerintah.",
+                                            "content": " Permintaan pemeriksaan oleh Menteri dan/atau\nPimpinan Instansi Pengelola PNBP sebagaimana\ndimaksud pada ayat (1) dilakukan berdasarkan:\na. indikasi pelanggaran terhadap ketentuan\nperaturan perundang-undangan di bidang PNBP;\nb. indikasi kerugian negara dan/atau indikasi unsur\ntindak pidana; dan/atau\nC. hasil pengawasan aparat pengawasan intern\npemerintah.",
                                             "explanation": "Tidak ada Penjelasan"
                                         }
                                     ]
@@ -310,28 +310,28 @@
                             ]
                         },
                         {
-                            "id": "4dbbcd47-3b2d-4244-a251-cafa5d46f411",
+                            "id": "08ffbc66-2fcd-403d-9cf9-5f1af74bfc70",
                             "name": "Paragraph 4",
                             "title": "\nHasil Pengawasan",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "975a6168-260c-48c2-8e6c-6864df63579c",
+                                    "id": "2c217fb2-6712-4bd3-aacd-8ebdc45f1033",
                                     "name": "Article 10",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "2c0602cf-986c-4046-ab22-64804e29c1c7",
+                                            "id": "8266a4fc-5124-4896-8622-f6e6880620f6",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Hasil Pengawasan sebagaimana dimaksud dalam Pasal\n4 ayat (3) huruf a, Pasal 8 ayat (2) huruf c dan huruf d,\ndan Pasal 9 ayat (2) huruf c, selain dilakukan\nberdasarkan ketentuan sebagaimana dimaksud dalam\nPasal 8 ayat (2) huruf a dan huruf b dan Pasal 9 ayat",
+                                            "content": " Hasil Pengawasan sebagaimana dimaksud dalam Pasal\n4 ayat (3) huruf a, Pasal 8 ayat (2) huruf c dan huruf d,\ndan Pasal 9 ayat (2) huruf c, selain dilakukan\nberdasarkan ketentuan sebagaimana dimaksud dalam\nPasal 8 ayat (2) huruf a dan huruf b dan Pasal 9 ayat\n(2) huruf a dan huruf b dapat dilakukan berdasarkan\nindikasi lainnya.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "74b2f992-28c7-4403-8aaf-efa937f6d1f3",
+                                            "id": "8ebf7f79-ee22-491c-83a9-cd2e157b8c6c",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Ketentuan lebih lanjut mengenai indikasi lainnya\nsebagaimana dimaksud pada ayat (1) diatur dengan\nPeraturan Menteri.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -341,17 +341,17 @@
                             ]
                         },
                         {
-                            "id": "7e2c8e75-fa52-43fe-99e4-8e7d9482c440",
+                            "id": "a0881f02-2365-4543-947f-cbc36f35b163",
                             "name": "Paragraph 5",
                             "title": "\nBatas Waktu Permintaan Pemeriksaan",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "33252689-e5ee-47ba-96b1-9b3e97ba64e2",
+                                    "id": "8763bebf-9321-401f-b38a-bb4979ebb7aa",
                                     "name": "Article 11",
                                     "type": "article",
                                     "children": {
-                                        "id": "c9f72e69-5cc6-414a-a4d0-a5742d4a3974",
+                                        "id": "54a7773f-8eb4-4761-9803-ce29b42fa620",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -362,17 +362,17 @@
                             ]
                         },
                         {
-                            "id": "8f4f0207-b2f5-4e49-ac45-dc50cabd4c55",
+                            "id": "c2da7ae0-c148-468a-9912-3e307c501e87",
                             "name": "Paragraph 6",
                             "title": "\nPengaturan Lebih Lanjut Tata Cara\nPermintaan Pemeriksaan",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "b3905ef2-a2ae-464f-9915-ef0b8a61a9d5",
+                                    "id": "d63caa17-f565-4b30-8633-7a82afd837cb",
                                     "name": "Article 12",
                                     "type": "article",
                                     "children": {
-                                        "id": "f7c13ad0-9f29-4e7d-9c9a-8e79a69ab765",
+                                        "id": "3f5b5666-75ed-4e40-8551-2f5d5c5dcf4c",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -385,52 +385,52 @@
                     ]
                 },
                 {
-                    "id": "1217f22e-83d1-4940-8edc-1ab681c35ceb",
+                    "id": "fea31eb0-5cba-46eb-9883-e07177d0ce53",
                     "name": "Section Second",
                     "title": "\nRuang Lingkup Pemeriksaan PNBP",
                     "type": "section",
                     "children": [
                         {
-                            "id": "d1600a8b-1805-46e6-ba70-ff1e1f859425",
+                            "id": "524b176e-14bd-49d8-b722-3dd3da2a4797",
                             "name": "Article 13",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "b44c12e4-f4d7-4c05-b73a-f9bcdb4d9fd5",
+                                    "id": "32550f9e-89f1-4662-b5fb-79383969c307",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pemeriksaan PNBP terhadap Wajib Bayar yang\nmenghitung sendiri kewajiban PNBP Terutang\nsebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a\ntermasuk pemeriksaan atas:\na. laporan keuangan serta dokumen pendukung lain\nyang berkaitan dengan objek Pemeriksaan PNBP;\ndan\nb. bukti transaksi keuangan yang berkaitan dengan\npembayaran dan/atau penyetoran PNBP.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "94747dde-bff5-4a66-9945-a354f01359b8",
+                                    "id": "698427cf-694f-49d5-b694-07cf8e949366",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Pemeriksaan PNBP terhadap Wajib Bayar yang\nkewajiban PNBP Terutangnya dihitung oleh Instansi\nPengelola PNBP atau dihitung oleh Mitra Instansi\nPengelola PNBP sebagaimana dimaksud dalam Pasal 4\nayat (1) huruf b, meliputi pemeriksaan atas:\na. dokumen terkait pemenuhan kewajiban PNBP;\ndan\nb. pemenuhan ketentuan peraturan perundang-\nundangan di bidang PNBP.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "0cb24d7e-c2ec-43d3-9960-fa73b87d3483",
+                                    "id": "2b7db760-4e8c-4084-81ed-d0b63a17a4e0",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Pemeriksaan PNBP terhadap Instansi Pengelola PNBP\ntermasuk Pemeriksaan atas:\na. sistem pengendalian intern terkait pengelolaan\nPNBP;\nb. bukti transaksi keuangan yang berkaitan dengan\npembayaran dan/atau penyetoran PNBP.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "5198b856-cf21-4822-9a06-5a3c37ae666c",
+                                    "id": "b1318019-e19f-43bf-843b-c65754caf633",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Pemeriksaan PNBP terhadap Mitra Instansi Pengelola\nPNBP termasuk pemeriksaan atas:\na. sistem pengendalian intern terkait pemungutan,\npenagihan, penyetoran dan pelaporan PNBP;\nb. laporan dan dokumen pendukung lain yang\nberkaitan dengan objek Pemeriksaan PNBP; dan\nc. bukti transaksi keuangan lain yang berkaitan\ndengan pembayaran dan/atau penyetoran PNBP.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "81759b32-3637-472f-abde-36ef6ccaea6f",
+                                    "id": "902bf419-d859-4784-acbe-9b6f9c963e84",
                                     "name": "Verse 5",
-                                    "number": "(5)",
+                                    "number": "5",
                                     "type": "verse",
                                     "content": " Ketentuan lebih lanjut mengenai ruang lingkup\npemeriksaan PNBP terhadap Wajib Bayar yang\nmenghitung sendiri kewajiban PNBP Terutang selain\nsebagaimana dimaksud pada ayat (1), ruang lingkup\npemeriksaan terhadap Instansi Pengelola PNBP selain\nsebagaimana dimaksud pada ayat (3) dan ruang\nlingkup pemeriksaan terhadap Mitra Instansi\nPengelola PNBP selain sebagaimana dimaksud pada\nayat (4), diatur dengan Peraturan Menteri.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -440,34 +440,34 @@
                     ]
                 },
                 {
-                    "id": "8a3e74aa-85a2-416f-aac3-0c4d54ef0b54",
+                    "id": "895160b8-037d-4172-aa4c-e906f9890292",
                     "name": "Section Third",
                     "title": "\nPelaksanaan Pemeriksaan PNBP",
                     "type": "section",
                     "children": [
                         {
-                            "id": "b9c8c14c-2c22-41a5-9a3d-b1fafed4f624",
+                            "id": "f0100a55-2016-461d-b4cf-232690acd0d4",
                             "name": "Paragraph 1",
                             "title": "\nTugas dan Wewenang Instansi Pemeriksa",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "2a7dab05-1294-44c6-adbb-6d75bfced49b",
+                                    "id": "3c96fff5-2339-4250-a628-51f16cc694b7",
                                     "name": "Article 14",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "ab636f02-17d0-4452-9576-d11b442128ed",
+                                            "id": "60f2c14f-34ff-44fe-b654-bf29c0c62943",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Dalam pelaksanaan Pemeriksaan PNBP, Instansi\nPemeriksa mempunyai tugas paling sedikit:\na. menyerahkan surat tugas kepada Instansi\nb.\nPengelola PNBP, Mitra Instansi Pengelola PNBP,\ndan/atau Wajib Bayar yang akan diperiksa;\nmenjelaskan maksud dan tujuan pemeriksaan\nkepada Instansi Pengelola PNBP, Mitra Instansi\nPengelola PNBP dan/atau Wajib Bayar yang\ndiperiksa;\nC. memberikan penjelasan mengenai hak dan\nkewajiban Instansi Pengelola PNBP, Mitra Instansi\nPengelola PNBP dan/atau Wajib Bayar selama\ndan setelah kegiatan pemeriksaan;\nd. memberitahukan secara tertulis kepada Instansi\nPengelola PNBP, Mitra Instansi Pengelola PNBP\ndan/atau Wajib Bayar yang diperiksa tentang\ntemuan hasil pemeriksaan untuk mendapat\ntanggapan;\ne.\nmengembalikan barang bukti dan dokumen\npendukung lainnya yang dipinjam dari Instansi\nf. Pengelola PNBP, Mitra Instansi Pengelola PNBP\ndan/atau Wajib Bayar yang diperiksa dalam\njangka waktu paling lambat 10 (sepuluh) hari\nkerja terhitung sejak selesainya pemeriksaan;\nmengikuti pembahasan temuan hasil\npemeriksaan;\ng. menatausahakan kertas kerja pemeriksaan dan\nberita acara pembahasan serta membuat laporan\nhasil pemeriksaan; dan\nh. merahasiakan segala sesuatu yang diketahui atau\ndiberitahukan kepada Pemeriksa mengenai data\nInstansi Pengelola PNBP, Mitra Instansi Pengelola,\ndan/atau Wajib Bayar, kecuali terhadap\nPimpinan Instansi Pengelola PNBP yang meminta\npemeriksaan, Menteri dan/atau ditentukan lain\noleh peraturan perundang-undangan.",
+                                            "content": " Dalam pelaksanaan Pemeriksaan PNBP, Instansi\nPemeriksa mempunyai tugas paling sedikit:\na. menyerahkan surat tugas kepada Instansi\nPengelola PNBP, Mitra Instansi Pengelola PNBP,\ndan/atau Wajib Bayar yang akan diperiksa;\nb. menjelaskan maksud dan tujuan pemeriksaan\nkepada Instansi Pengelola PNBP, Mitra Instansi\nPengelola PNBP dan/atau Wajib Bayar yang\ndiperiksa;\nC. memberikan penjelasan mengenai hak dan\nkewajiban Instansi Pengelola PNBP, Mitra Instansi\nPengelola PNBP dan/atau Wajib Bayar selama\ndan setelah kegiatan pemeriksaan;\nd. memberitahukan secara tertulis kepada Instansi\nPengelola PNBP, Mitra Instansi Pengelola PNBP\ndan/atau Wajib Bayar yang diperiksa tentang\ntemuan hasil pemeriksaan untuk mendapat\ntanggapan;\ne. mengembalikan barang bukti dan dokumen\npendukung lainnya yang dipinjam dari Instansi\nPengelola PNBP, Mitra Instansi Pengelola PNBP\ndan/atau Wajib Bayar yang diperiksa dalam\njangka waktu paling lambat 10 (sepuluh) hari\nkerja terhitung sejak selesainya pemeriksaan;\nf. mengikuti pembahasan temuan hasil\npemeriksaan;\ng. menatausahakan kertas kerja pemeriksaan dan\nberita acara pembahasan serta membuat laporan\nhasil pemeriksaan; dan\nh. merahasiakan segala sesuatu yang diketahui atau\ndiberitahukan kepada Pemeriksa mengenai data\nInstansi Pengelola PNBP, Mitra Instansi Pengelola,\ndan/atau Wajib Bayar, kecuali terhadap\nPimpinan Instansi Pengelola PNBP yang meminta\npemeriksaan, Menteri dan/atau ditentukan lain\noleh peraturan perundang-undangan.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "30a16314-682b-4ea1-81ec-280b1ec428c5",
+                                            "id": "33964278-e2ca-4f26-a5b9-2d35f5a14d42",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Dalam pelaksanaan Pemeriksaan PNBP, Instansi\nPemeriksa sebagaimana dimaksud pada ayat (1)\nmempunyai kewenangan paling sedikit:\na. memeriksa dan/atau meminjam barang bukti dan\ndokumen pendukung lainnya;\nb. meminta keterangan dan/atau bukti yang\ndiperlukan dari Instansi Pengelola PNBP, Mitra\nInstansi Pengelola PNBP, dan/atau Wajib Bayar\nyang diperiksa;\nc. memasuki tempat atau ruangan yang diduga\nmerupakan tempat menyimpan dokumen, uang,\nbarang yang dapat memberi petunjuk tentang\nkeadaan Instansi Pengelola PNBP, Mitra Instansi\nPengelola PNBP dan/atau Wajib Bayar yang\ndiperiksa dan atau tempat lain yang dianggap\npenting serta melakukan pemeriksaan di tempat\ntersebut;\nd. mengakses dan/atau mengunduh data yang\ndikelola secara elektronik;\ne. kewenangan lain sesuai dengan ketentuan\nperaturan perundang-undangan.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -477,74 +477,74 @@
                             ]
                         },
                         {
-                            "id": "617df692-b56e-4cb0-a7b3-3c0c1379c03f",
+                            "id": "7ddd2642-83ef-43d9-90ea-eaa3a5ef5635",
                             "name": "Paragraph 2",
                             "title": "\nKeikutsertaan Pihak Lain",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "38a0d82f-89ff-42bd-aacb-e4d03cc620d9",
+                                    "id": "f0358427-3c8b-4fad-a5f2-1d1fc2131fce",
                                     "name": "Article 15",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "6a26e948-6695-4f51-ab64-d54a0b9974b7",
+                                            "id": "b55a1518-2ad7-4485-a06b-5d6e58d0a925",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Dalam kondisi tertentu, Instansi Pemeriksa sebagaimana dimaksud dalam Pasal 14 dapat dibantu dan/atau mengikutsertakan pihak lain dalam pelaksanaan Pemeriksaan PNBP.",
+                                            "content": " Dalam kondisi tertentu, Instansi Pemeriksa\nsebagaimana dimaksud dalam Pasal 14 dapat dibantu\ndan/atau mengikutsertakan pihak lain dalam\npelaksanaan Pemeriksaan PNBP.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "f873b646-f7fa-40cf-9947-a9d14968cbee",
+                                            "id": "0ff08f06-ee47-422c-a686-ba9a2b22db2a",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Pihak lain sebagaimana dimaksud pada ayat (1), wajib merahasiakan segala sesuatu yang diketahui atau diberitahukan kepada pihak lain dan kepada Pemeriksa mengenai data Instansi Pengelola PNBP, Mitra Instansi Pengelola, dan/atau Wajib Bayar, kecuali terhadap Menteri dan/atau Pimpinan Instansi Pengelola PNBP yang meminta pemeriksaan, atau ditentukan lain oleh peraturan perundang-undangan.",
+                                            "content": " Pihak lain sebagaimana dimaksud pada ayat (1), wajib\nmerahasiakan segala sesuatu yang diketahui atau\ndiberitahukan kepada pihak lain dan kepada\nPemeriksa mengenai data Instansi Pengelola PNBP,\nMitra Instansi Pengelola, dan/atau Wajib Bayar,\nkecuali terhadap Menteri dan/atau Pimpinan Instansi\nPengelola PNBP yang meminta pemeriksaan, atau\nditentukan lain oleh peraturan perundang-undangan.",
                                             "explanation": "Tidak ada Penjelasan"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "216c15db-917d-4d0c-980f-71ddc41ef1cd",
+                                    "id": "5a776b05-3008-444c-aed9-9967ace744ac",
                                     "name": "Article 16",
                                     "type": "article",
                                     "children": {
-                                        "id": "05b64039-4a07-47fd-b357-f27e287c641e",
+                                        "id": "982c16d6-9af7-4cee-9edb-54afe6ef6a95",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
-                                        "content": "\nKetentuan lebih lanjut mengenai tata cara pengikutsertaan pihak lain dalam pemeriksaan sebagaimana dimaksud dalam Pasal 15 diatur dalam Peraturan Menteri.",
+                                        "content": "\nKetentuan lebih lanjut mengenai tata cara pengikutsertaan\npihak lain dalam pemeriksaan sebagaimana dimaksud\ndalam Pasal 15 diatur dalam Peraturan Menteri.",
                                         "explanation": "Tidak ada Penjelasan"
                                     }
                                 }
                             ]
                         },
                         {
-                            "id": "bedfde64-ab36-42df-a9c7-f712f583260b",
+                            "id": "332669c1-fdc6-4de5-9430-e21898a99ec1",
                             "name": "Paragraph 3",
-                            "title": "\nHak Wajib Bayar, Instansi Pengelola PNBP, atau Mitra Instansi Pengelola PNBP dan Jangka Waktu Pelaksanaan Pemeriksaan PNBP",
+                            "title": "\nHak Wajib Bayar, Instansi Pengelola PNBP, atau\nMitra Instansi Pengelola PNBP dan Jangka Waktu\nPelaksanaan Pemeriksaan PNBP",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "94ce6a81-8893-41e9-9be1-94a2c1f2d35e",
+                                    "id": "cfc2cd44-d965-4101-961f-0ec44d0488b4",
                                     "name": "Article 17",
                                     "type": "article",
                                     "children": {
-                                        "id": "2959fa11-90cc-4b1e-afe0-e023a93ecfe8",
+                                        "id": "58df853b-ab72-4de5-8ffb-56ecae3e5a41",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
-                                        "content": "\nWajib Bayar, Instansi Pengelola PNBP, atau Mitra Instansi Pengelola PNBP yang diperiksa oleh Instansi Pemeriksa sebagaimana dimaksud dalam Pasal 14 memiliki hak paling sedikit untuk:\na. meminta surat tugas Instansi Pemeriksa;\nb. meminta penjelasan mengenai maksud dan tujuan pemeriksaan;\nc. meminta penjelasan mengenai hak dan kewajiban selama dan setelah kegiatan pemeriksaan;\nd. meminta pengembalian barang bukti dan dokumen\npendukung lainnya yang dipinjam dalam jangka waktu\npaling lambat 10 (sepuluh) hari kerja terhitung sejak\nselesainya pemeriksaan;\ne. mengetahui tentang temuan hasil pemeriksaan; dan\nf.\nmeminta kepada Pemeriksa untuk memperlihatkan\nsurat yang berisi perubahan tim Pemeriksa apabila\nsusunan keanggotaan tim Pemeriksa mengalami\nperubahan.",
+                                        "content": "\nWajib Bayar, Instansi Pengelola PNBP, atau Mitra Instansi\nPengelola PNBP yang diperiksa oleh Instansi Pemeriksa\nsebagaimana dimaksud dalam Pasal 14 memiliki hak paling\nsedikit untuk:\na. meminta surat tugas Instansi Pemeriksa;\nb. meminta penjelasan mengenai maksud dan tujuan\npemeriksaan;\nc. meminta penjelasan mengenai hak dan kewajiban\nselama dan setelah kegiatan pemeriksaan;\nd. meminta pengembalian barang bukti dan dokumen\npendukung lainnya yang dipinjam dalam jangka waktu\npaling lambat 10 (sepuluh) hari kerja terhitung sejak\nselesainya pemeriksaan;\ne. mengetahui tentang temuan hasil pemeriksaan; dan\nf. meminta kepada Pemeriksa untuk memperlihatkan\nsurat yang berisi perubahan tim Pemeriksa apabila\nsusunan keanggotaan tim Pemeriksa mengalami\nperubahan.",
                                         "explanation": "Tidak ada Penjelasan"
                                     }
                                 },
                                 {
-                                    "id": "caa16906-20d9-4588-bf9d-493d9b2239da",
+                                    "id": "83283f15-db5c-4f1e-af71-e48e3d35e0ee",
                                     "name": "Article 18",
                                     "type": "article",
                                     "children": {
-                                        "id": "565e8fa0-967c-445f-a077-9ca427791b9d",
+                                        "id": "13c90557-a2ac-4a15-bdea-9cb4af6d53f7",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -553,70 +553,70 @@
                                     }
                                 },
                                 {
-                                    "id": "861e97c5-9453-465e-8f37-7c2e3b8c182e",
+                                    "id": "aba8d4a6-e3bd-48a1-bd8a-5cfd64a2382f",
                                     "name": "Article 19",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "f9fff822-c430-4d81-bc1d-5028346d2d81",
+                                            "id": "84fb905b-03ba-4d1e-b8bd-67a4a812f640",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Dalam pelaksanaan Pemeriksaan PNBP, Wajib Bayar,\nInstansi Pengelola PNBP, atau Mitra Instansi Pengelola\nPNBP, wajib memberikan, memperlihatkan, dan/atau\nmenyampaikan dokumen, keterangan, dan/atau bukti\nlain yang diminta oleh Instansi Pemeriksa.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "87090559-0ede-41d5-83b5-87bee68d8f31",
+                                            "id": "9dc88781-4d54-4d4a-ba6f-bfb8313b5429",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Wajib Bayar, Instansi Pengelola PNBP, atau Mitra\nInstansi Pengelola PNBP sebagaimana dimaksud pada\nayat (1), wajib memberikan, memperlihatkan,\ndan/atau menyampaikan dokumen, keterangan\ndan/atau bukti lainnya yang diperlukan paling lambat\n7 (tujuh) hari kerja sejak surat permintaan dokumen,\nketerangan, dan/atau bukti lain diterima dari Instansi\nPemeriksa.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "277c0fba-faac-453c-ab0c-b4ca230594fe",
+                                            "id": "947f0190-8968-46fe-a6f4-c629a7a6ff24",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Dalam hal Wajib Bayar, Instansi Pengelola PNBP, atau\nMitra Instansi Pengelola PNBP, tidak memberikan,\nmemperlihatkan, dan/atau menyampaikan dokumen,\nketerangan dan/atau bukti lainnya dalam jangka\n2021, No.1\nwaktu sebagaimana dimaksud pada ayat (2), Instansi\nPemeriksa menerbitkan surat peringatan pertama.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "3fbcd653-c5c0-4eec-b68b-2672aa582b2a",
+                                            "id": "992df262-4b96-4e79-a45b-f1de7268170b",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Wajib Bayar, Instansi Pengelola PNBP, atau Mitra\nInstansi Pengelola PNBP sebagaimana dimaksud pada\nayat (3), wajib menyampaikan dokumen, keterangan\ndan/atau bukti lainnya yang diperlukan paling lambat\n7 (tujuh) hari kerja sejak diterimanya surat peringatan\npertama dari Instansi Pemeriksa.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "f89210e0-a38a-44b3-bd59-b83987408992",
+                                            "id": "172ccc93-625f-4ae2-8028-1fb8f69631bd",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
                                             "content": " Dalam hal Wajib Bayar, Instansi Pengelola PNBP, atau\nMitra Instansi Pengelola PNBP sebagaimana dimaksud\npada ayat (4) tetap tidak memberikan,\nmemperlihatkan, dan/atau menyampaikan dokumen,\nketerangan dan/atau bukti lainnya dalam jangka\nwaktu 7 (tujuh) hari kerja, Instansi Pemeriksa\nmenerbitkan surat peringatan kedua.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "e00d3379-3e45-48dc-a37c-1fb3fd51a141",
+                                            "id": "1242356f-056f-4a4a-9fbf-32f77cda7ca1",
                                             "name": "Verse 6",
-                                            "number": "(6)",
+                                            "number": "6",
                                             "type": "verse",
                                             "content": " Wajib Bayar, Instansi Pengelola PNBP, atau Mitra\nInstansi Pengelola PNBP sebagaimana dimaksud pada\nayat (5), wajib memberikan, memperlihatkan,\ndan/atau menyampaikan dokumen, keterangan\ndan/atau bukti lainnya yang diperlukan paling lambat\n7 (tujuh) hari kerja sejak diterimanya surat peringatan\nkedua dari Instansi Pemeriksa.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "e980d7b5-585b-4dc1-bd72-c693e1e5b1b1",
+                                            "id": "04527b22-ba9c-45dd-85b5-1b0956739737",
                                             "name": "Verse 7",
-                                            "number": "(7)",
+                                            "number": "7",
                                             "type": "verse",
                                             "content": " Dalam hal Wajib Bayar, Instansi Pengelola PNBP, atau\nMitra Instansi Pengelola PNBP sebagaimana dimaksud\npada ayat (6) tetap tidak memberikan,\nmemperlihatkan, dan/atau menyampaikan dokumen,\nketerangan dan/atau bukti lainnya dalam jangka\nwaktu 7 (tujuh) hari kerja, Instansi Pemeriksa\nmenerbitkan surat peringatan ketiga.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "be4b910b-6f0f-41bc-a366-66f0daec7273",
+                                            "id": "44588ca4-c873-41c4-984c-057551bae8cf",
                                             "name": "Verse 8",
-                                            "number": "(8)",
+                                            "number": "8",
                                             "type": "verse",
                                             "content": " Wajib Bayar, Instansi Pengelola PNBP, atau Mitra\nInstansi Pengelola PNBP sebagaimana dimaksud pada\nayat (7), wajib memberikan, memperlihatkan,\ndan/atau menyampaikan dokumen, keterangan\ndan/atau bukti lainnya yang diperlukan paling lambat\n3 (tiga) hari kerja sejak diterimanya surat peringatan\nketiga dari Instansi Pemeriksa.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -624,38 +624,38 @@
                                     ]
                                 },
                                 {
-                                    "id": "4a1cb791-3af3-4cc4-bb78-776119cbf64d",
+                                    "id": "c9703bc3-0973-4ffc-adce-a3b9b01af30d",
                                     "name": "Article 20",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "041eb2be-b8b6-4068-9608-da3cd6e102f7",
+                                            "id": "86e0b599-1662-44d0-98d4-2bc713cf2932",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Dalam hal Wajib Bayar yang telah mendapatkan surat peringatan ketiga sebagaimana dimaksud dalam Pasal 19 ayat (8) tetap tidak memberikan, memperlihatkan, dan/atau menyampaikan dokumen, keterangan dan/atau bukti lainnya, Instansi Pemeriksa melakukan penghitungan PNBP Terutang secara jabatan ditambah sanksi administratif berupa denda sebesar 2 (dua) kali jumlah PNBP Terutang yang tidak dibayar atau kurang bayar.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "fe53d016-ea6e-4990-8128-5fd57b59e73f",
+                                            "id": "f1fc6a5f-2d4e-4563-b0ee-842ca0f8df34",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Penghitungan PNBP Terutang secara jabatan sebagaimana dimaksud pada ayat (1), didasarkan pada dokumen, keterangan dan/atau bukti lainnya yang diperoleh dari pihak selain Wajib Bayar.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "4d279777-d29e-4594-844f-2d18169476d6",
+                                            "id": "d257fe21-4996-41b3-a806-1796cb9714d2",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Instansi Pengelola PNBP yang telah mendapatkan surat peringatan ketiga sebagaimana dimaksud dalam Pasal 19 ayat (8) tetap tidak memberikan, memperlihatkan, dan/atau menyampaikan dokumen, keterangan dan/atau bukti lainnya, dikenai sanksi administratif sesuai dengan ketentuan peraturan perundang-undangan.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "e6ea55ac-eb43-4323-8677-78fd6adf48e4",
+                                            "id": "2a75158c-9bf7-43c3-a1db-e867c3661437",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Mitra Instansi Pengelola PNBP yang telah mendapatkan surat peringatan ketiga sebagaimana dimaksud dalam Pasal 19 ayat (8) tetap tidak memberikan, memperlihatkan, dan/atau menyampaikan dokumen, keterangan dan/atau bukti lainnya, dikenai sanksi sesuai ketentuan peraturan perundang-undangan dan/atau berdasarkan perjanjian/kontrak antara Instansi Pengelola PNBP dengan Mitra Instansi Pengelola PNBP.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -663,11 +663,11 @@
                                     ]
                                 },
                                 {
-                                    "id": "f83c57da-1da9-4ce7-b377-408db7437b0b",
+                                    "id": "dfcb1468-34a8-4b8c-9289-a0521db41495",
                                     "name": "Article 21",
                                     "type": "article",
                                     "children": {
-                                        "id": "ee1fbb9d-261e-4a23-bc2f-a1774355a8c1",
+                                        "id": "1178abba-8bb4-4398-ae9a-86b44edd4fb3",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -678,68 +678,68 @@
                             ]
                         },
                         {
-                            "id": "78011b84-329b-495d-96ed-3e79929acfdc",
+                            "id": "8eea86ed-cbc4-4afc-805f-fac357e8bddb",
                             "name": "Paragraph 4",
-                            "title": "\nPermintaan Kepada Pihak Lain",
+                            "title": "\nPermintaan Kepada Pihak Lain\n2021, No.1",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "3f10ba26-bfb9-4115-bb35-1de962356a5e",
+                                    "id": "fd0dc328-1f9b-4ca4-9a54-a93d83458d19",
                                     "name": "Article 22",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "b198f643-8180-4d06-a49f-d6b24dc9445f",
+                                            "id": "1f485a89-e555-4515-b825-a06a8822ded7",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Untuk kepentingan Pemeriksaan PNBP, Instansi\nPemeriksa dapat meminta dokumen, keterangan,\ndan/atau bukti lain kepada pihak lain.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "f5f6ba2e-2ad5-4104-8538-b638227c31d9",
+                                            "id": "a9be643b-dafe-41d4-a3a9-071cf7b3aeed",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Pihak lain sebagaimana dimaksud pada ayat (1) wajib\nmenyampaikan dokumen, keterangan, dan/atau bukti\nlain yang dimiliki paling lambat 14 (empat belas) hari\nkerja sejak diterimanya surat permintaan dari Instansi\nPemeriksa.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "93e17c66-651e-4aff-87bd-23ba924e9f0f",
+                                            "id": "5ce58f4e-db17-404d-bc65-591ceaefd549",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Dalam hal pihak lain tidak menyampaikan dokumen,\nketerangan dan/atau bukti lainnya dalam jangka\nwaktu sebagaimana dimaksud pada ayat (2), Instansi\nPemeriksa menerbitkan surat permintaan kedua.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "6eb95f0b-f897-49c1-99ba-2380e92c3786",
+                                            "id": "92cdcd69-d539-42fe-9142-d1b4f2bd63d4",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Pihak lain wajib menyampaikan dokumen, keterangan\ndan/atau bukti lainnya yang diperlukan paling lambat\n7 (tujuh) hari kerja sejak diterimanya surat\npermintaan kedua dari Instansi Pemeriksa.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "9f0ce75a-9e7d-4c5e-836f-201d349a42ad",
+                                            "id": "e2cc7b9f-e78c-4770-9eb5-2e0d0795c179",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
                                             "content": " Dalam hal pihak lain tidak menyampaikan dokumen,\nketerangan dan/atau bukti lainnya dalam jangka\nwaktu sebagaimana dimaksud pada ayat (4), Instansi\nPemeriksa menerbitkan surat permintaan ketiga.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "915e1d66-fe68-4c2f-be93-cd8b8894bfb5",
+                                            "id": "1170dfb5-8a51-4e9a-935c-e386046fb1fb",
                                             "name": "Verse 6",
-                                            "number": "(6)",
+                                            "number": "6",
                                             "type": "verse",
                                             "content": " Pihak lain wajib menyampaikan dokumen, keterangan\ndan/atau bukti lainnya yang diperlukan paling lambat\n3 (tiga) hari kerja sejak diterimanya surat permintaan\nketiga dari Instansi Pemeriksa.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "2af8f95b-d156-433d-9c5f-1a176f36f33a",
+                                            "id": "04a5d100-8b3d-4dda-a12a-3e8fca346fd8",
                                             "name": "Verse 7",
-                                            "number": "(7)",
+                                            "number": "7",
                                             "type": "verse",
                                             "content": " Pihak lain yang tidak melakukan kewajiban\nsebagaimana dimaksud pada ayat (6) dikenai sanksi\nsesuai dengan ketentuan peraturan perundang-\nundangan.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -749,28 +749,28 @@
                             ]
                         },
                         {
-                            "id": "4c9a923f-85b7-41bf-86d3-7dde0d295f2d",
+                            "id": "39e801af-5086-477c-a5ba-5a80b06a03c9",
                             "name": "Paragraph 5",
                             "title": "\nPerpanjangan Jangka Waktu Pemeriksaan PNBP",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "71aeca64-0a61-4ea5-9b81-b68efb5bfbb9",
+                                    "id": "0a17c5a0-bb58-416d-9d4b-3a63c94aa563",
                                     "name": "Article 23",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "a4ea9cd0-5781-44c2-93b2-1b2776e5d087",
+                                            "id": "4e2a920c-7ad1-47a1-9348-3530c6e07500",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Dalam hal tertentu, jangka waktu pelaksanaan\nPemeriksaan PNBP sebagaimana dimaksud dalam\nPasal 18 dapat diperpanjang paling lama 60 (enam\npuluh) hari kerja oleh Instansi Pemeriksa.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "b57ab9dc-a383-42c2-99cc-27c586cce91a",
+                                            "id": "d954c22c-8a23-4b5e-9f2a-c66dbb4c2b2a",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Perpanjangan jangka waktu pemeriksaan dimaksud\npada ayat (1), diberitahukan secara tertulis oleh\nInstansi Pemeriksa kepada instansi yang meminta\npemeriksaan.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -782,36 +782,36 @@
                     ]
                 },
                 {
-                    "id": "6c907a31-6b92-481e-b4e5-6e3e8ced5976",
+                    "id": "af3e9e8e-f85b-4538-9ca9-b7fd4932750a",
                     "name": "Section Fourth",
                     "title": "\nHasil Pemeriksaan PNBP",
                     "type": "section",
                     "children": [
                         {
-                            "id": "f4dfa807-fa61-4afa-bb10-927221523cb1",
+                            "id": "b60d3c24-cfcb-4a13-bdf0-ad1013b60bb8",
                             "name": "Paragraph 1",
                             "title": "\nTemuan Hasil Pemeriksaan PNBP",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "393a7171-a96e-4feb-b4ed-8091b87804ce",
+                                    "id": "96dc2c04-0d3f-44a3-8e52-cde8db2527e4",
                                     "name": "Article 24",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "38c47964-5c1d-4d70-849a-0fe35510d160",
+                                            "id": "fbeced2a-2f56-45f4-8b81-08734be6054a",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " paling lambat 14 (empat belas) hari kerja setelah\nberakhirnya kegiatan pemeriksaan.",
+                                            "content": " Instansi Pemeriksa wajib menyampaikan secara\ntertulis temuan hasil Pemeriksaan PNBP kepada Wajib\nBayar, Instansi Pengelola PNBP, atau Mitra Instansi\nPengelola PNBP yang diperiksa.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "11239551-aea0-4d2d-b33f-cc12f1b87363",
+                                            "id": "7c377cf9-6d0b-4a64-9304-f8403d46378e",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Instansi Pemeriksa wajib menyampaikan temuan hasil\nPemeriksaan PNBP sebagaimana dimaksud pada ayat",
+                                            "content": " Instansi Pemeriksa wajib menyampaikan temuan hasil\nPemeriksaan PNBP sebagaimana dimaksud pada ayat\n(1) paling lambat 14 (empat belas) hari kerja setelah\nberakhirnya kegiatan pemeriksaan.",
                                             "explanation": "Tidak ada Penjelasan"
                                         }
                                     ]
@@ -819,52 +819,52 @@
                             ]
                         },
                         {
-                            "id": "36c426fd-0ff4-45b7-97c7-77e19e68faab",
+                            "id": "a67c9a6d-e230-495a-a622-1157b59c7b5e",
                             "name": "Paragraph 2",
                             "title": "\nTanggapan atas Temuan Hasil Pemeriksaan PNBP",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "68e9d660-d4ab-4ec7-8629-0ec0b0dfba1f",
+                                    "id": "e6b5b741-9a32-412a-960c-be3695720f82",
                                     "name": "Article 25",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "b8830569-0853-4f29-8147-6bf4a20c50c4",
+                                            "id": "511d0ad4-83b8-446d-9d8f-84099bb0b584",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Wajib Bayar, Instansi Pengelola PNBP, atau Mitra\nInstansi Pengelola PNBP yang diperiksa, wajib\nmenyampaikan tanggapan tertulis atas temuan hasil\nPemeriksaan PNBP kepada Instansi Pemeriksa, dalam\n2021, No.1\njangka waktu paling lambat 14 (empat belas) hari kerja\nsejak penyampaian temuan hasil Pemeriksaan PNBP\nditerima.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "3d83aab2-d249-4782-ab16-f1d0fb9005fc",
+                                            "id": "49ee2b24-3d1a-4030-a22e-13115ca9f6e4",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Dalam hal dibutuhkan tambahan waktu penyampaian\ntanggapan tertulis atas temuan hasil Pemeriksaan\nPNBP sebagaimana dimaksud pada ayat (1), Wajib\nBayar, Instansi Pengelola PNBP atau Mitra Instansi\nPengelola PNBP yang diperiksa mengajukan\npermohonan perpanjangan waktu penyampaian\ntanggapan secara tertulis kepada Instansi Pemeriksa,\nsebelum batas waktu 14 (empat belas) hari kerja\nsebagaimana dimaksud pada ayat (1) berakhir.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "9a0480f0-3952-44d5-9dd5-caaae4e85584",
+                                            "id": "fb84fe78-9653-4516-a2d5-75b8ab9c7894",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Tambahan waktu penyampaian tanggapan tertulis\natas temuan hasil Pemeriksaan PNBP sebagaimana\ndimaksud pada ayat (2), diberikan untuk paling lama 7\n(tujuh) hari kerja.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "6220d5f1-37f1-4e9d-abfc-ad507ec1df31",
+                                            "id": "53a2181b-d53c-4e6d-89d4-599a5093a230",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Dalam hal tanggapan tertulis atas temuan hasil\nPemeriksaan PNBP tidak disampaikan sampai dengan\nbatas waktu yang ditetapkan sebagaimana dimaksud\npada ayat (1) dan ayat (3), Wajib Bayar, Instansi\nPengelola PNBP atau Mitra Instansi Pengelola PNBP\nyang diperiksa, dianggap menyetujui seluruh temuan\nhasil Pemeriksaan PNBP.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "22daa3ba-3281-4254-bfac-24329d771464",
+                                            "id": "f10b98c9-2d7e-4307-93b6-003602a55c76",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
                                             "content": " Dalam jangka waktu paling lambat 14 (empat belas)\nhari kerja sejak surat tanggapan atas temuan hasil\nPemeriksaan PNBP diterima oleh Instansi Pemeriksa\natau kondisi sebagaimana dimaksud pada ayat (2) dan\nayat (4), Instansi Pemeriksa memberitahukan secara\ntertulis konsep laporan hasil pemeriksaan kepada\nMenteri atau Pimpinan Instansi Pengelola PNBP yang\nmeminta Pemeriksaan PNBP.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -872,11 +872,11 @@
                                     ]
                                 },
                                 {
-                                    "id": "a575be01-f3c5-4b17-b6bd-4b9f40ad134f",
+                                    "id": "13a21804-d420-44bd-97b0-7e417e6960a5",
                                     "name": "Article 26",
                                     "type": "article",
                                     "children": {
-                                        "id": "70fb4ff2-2c3e-476c-ac3b-bb65bae11c63",
+                                        "id": "bc47771a-4e8d-49d6-8685-1d0c5e534020",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -887,76 +887,76 @@
                             ]
                         },
                         {
-                            "id": "6a53bfb7-9066-4a70-833c-227f5dfc6059",
+                            "id": "1b0ad35a-80da-4edb-b43e-4ee3e41518a0",
                             "name": "Paragraph 3",
                             "title": "\nPembahasan atas Konsep Laporan Hasil Pemeriksaan",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "dab0dc05-a1dc-4aad-9780-db80ea7f9f1b",
+                                    "id": "f74b8122-cae0-47f7-886c-f54282c12d7a",
                                     "name": "Article 27",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "3808bbe0-11cb-4fbd-aac5-491c45e8f89f",
+                                            "id": "f41ef08a-1113-495f-b830-e18040d45051",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Berdasarkan penyampaian konsep laporan hasil\npemeriksaan secara tertulis dari Instansi Pemeriksa\nsebagaimana dimaksud dalam Pasal 25 ayat (5),\nMenteri atau Pimpinan Instansi Pengelola PNBP yang\nmeminta Pemeriksaan PNBP menyelenggarakan\npembahasan temuan hasil pemeriksaan dan/atau\ntanggapan dalam jangka waktu paling lambat 21 (dua\npuluh satu) hari kerja sejak pemberitahuan secara\ntertulis diterima.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "8b682bd3-753e-4e7e-9b3d-566f5b67f85d",
+                                            "id": "9ccf076d-0fe8-42ad-8b1a-75b8aff35dc3",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Pembahasan konsep laporan hasil pemeriksaan\nsebagaimana dimaksud pada ayat (1) dihadiri oleh\nMenteri dan/atau Pimpinan Instansi Pengelola PNBP\nyang meminta pemeriksaan, Instansi Pemeriksa, dan\nWajib Bayar/Instansi Pengelola PNBP/Mitra Instansi\nPengelola PNBP yang diperiksa.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "25bcec25-3fb3-42df-8740-5fcfe42085ce",
+                                            "id": "e0ef6f8a-f8d7-4d7b-9d4c-58953baf4a3d",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Menteri atau Pimpinan Instansi Pengelola PNBP\nyang meminta Pemeriksaan PNBP berkoordinasi\ndengan Instansi Pemeriksa untuk menetapkan jadwal\npelaksanaan pembahasan konsep laporan hasil\npemeriksaan sebagaimana dimaksud pada ayat (2).",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "3a501016-802c-4fb2-864c-debe6a07902f",
+                                            "id": "1e44c4c3-5c0e-4a41-acbd-56cacaf56f18",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Instansi Pemeriksa menugaskan pejabat yang ditunjuk\nuntuk hadir dalam pembahasan konsep laporan hasil\npemeriksaan.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "9fb71b3f-248e-4518-9dcd-74d2deec2ad5",
+                                            "id": "22e70ac7-38e1-48cd-9e1e-7a8166c45d0b",
                                             "name": "Verse 5",
-                                            "number": "(5)",
+                                            "number": "5",
                                             "type": "verse",
                                             "content": " Dalam hal Wajib Bayar, Instansi Pengelola PNBP, atau\nMitra Instansi Pengelola PNBP yang diperiksa\nsebagaimana dimaksud pada ayat (2) tidak dapat hadir\ndalam pembahasan konsep laporan hasil pemeriksaan,\nWajib Bayar, Instansi Pengelola PNBP, atau Mitra\nInstansi Pengelola PNBP yang diperiksa menyampaikan\nsurat pemberitahuan tidak dapat hadir dalam\npembahasan konsep laporan hasil pemeriksaan.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "54dba187-158f-42af-a8aa-085ec50c4c14",
+                                            "id": "4a362e19-70be-4efd-8ea3-292ac2772991",
                                             "name": "Verse 6",
-                                            "number": "(6)",
+                                            "number": "6",
                                             "type": "verse",
-                                            "content": " dilakukan untuk 1 (satu) kali kesempatan dan\ndalam jangka waktu paling lambat 5 (lima) hari kerja,\nsejak surat pemberitahuan tidak dapat hadir dalam\npembahasan konsep laporan hasil pemeriksaan\nditerima oleh Menteri atau Pimpinan Instansi Pengelola\nyang meminta Pemeriksaan PNBP.",
+                                            "content": " Berdasarkan surat pemberitahuan tidak dapat hadir\ndalam pembahasan konsep laporan hasil pemeriksaan\n2021, No.1\nsebagaimana dimaksud pada ayat (5), Menteri atau\nPimpinan Instansi Pengelola PNBP yang meminta\npemeriksaan, menjadwalkan kembali pembahasan\nkonsep laporan hasil pemeriksaan.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "4c171981-e88e-46c9-b6cc-7d963125d9ca",
+                                            "id": "8005b6a4-dd0c-4422-bbc4-f72a7da9d989",
                                             "name": "Verse 7",
-                                            "number": "(7)",
+                                            "number": "7",
                                             "type": "verse",
-                                            "content": " Penjadwalan kembali pembahasan konsep laporan\nhasil pemeriksaan sebagaimana dimaksud pada ayat",
+                                            "content": " Penjadwalan kembali pembahasan konsep laporan\nhasil pemeriksaan sebagaimana dimaksud pada ayat\n(6) dilakukan untuk 1 (satu) kali kesempatan dan\ndalam jangka waktu paling lambat 5 (lima) hari kerja,\nsejak surat pemberitahuan tidak dapat hadir dalam\npembahasan konsep laporan hasil pemeriksaan\nditerima oleh Menteri atau Pimpinan Instansi Pengelola\nyang meminta Pemeriksaan PNBP.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "13a492e0-d4ff-4c2c-8655-01db7fbce0b4",
+                                            "id": "3c8ba6be-7867-47e5-b36c-587488b76a22",
                                             "name": "Verse 8",
-                                            "number": "(8)",
+                                            "number": "8",
                                             "type": "verse",
                                             "content": " Hasil pembahasan akhir konsep laporan hasil\npemeriksaan dituangkan dalam suatu berita acara\npembahasan, yang ditandatangani oleh pejabat yang\nditunjuk dari instansi yang meminta pemeriksaan,\nInstansi Pemeriksa, dan Wajib Bayar/Instansi\nPengelola PNBP/Mitra Instansi Pengelola PNBP yang\ndiperiksa.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -964,30 +964,30 @@
                                     ]
                                 },
                                 {
-                                    "id": "99342d02-bcf1-4ee8-a523-fb84cdef46bf",
+                                    "id": "80bdb4b3-6ddb-4c11-95f9-803ca1965520",
                                     "name": "Article 28",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "cb0e2600-25d9-41cf-9d71-f0d6fb75811e",
+                                            "id": "cf041f8b-4462-43e9-8a8a-e86b24c2d07f",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Dalam hal Wajib Bayar, Instansi Pengelola PNBP, atau\nMitra Instansi Pengelola PNBP yang diperiksa, tidak\nmenyampaikan surat pemberitahuan tidak dapat hadir\ndalam pembahasan konsep laporan hasil pemeriksaan\nsebagaimana dimaksud dalam Pasal 27 ayat (5), Wajib\nBayar, Instansi Pengelola PNBP, atau Mitra Instansi\nPengelola PNBP yang diperiksa dianggap menyetujui\nseluruh temuan hasil Pemeriksaan PNBP.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "97951f2c-7ba3-4a57-b159-597090f4e731",
+                                            "id": "7e67f2a2-9725-4466-8e9e-6b2b4860e901",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Dalam hal Wajib Bayar yang diperiksa berhalangan\nhadir pada saat pembahasan konsep laporan hasil\npemeriksaan sebagaimana dimaksud dalam Pasal 27\nayat (5), Wajib Bayar dapat mewakilkan kepada\nwakil/kuasa Wajib Bayar yang ditandai dengan surat\nperwakilan/surat kuasa.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "8a533c9b-d9c1-49c4-9905-15c470c7d15e",
+                                            "id": "6882b51c-40e5-430b-b7c8-a43f3d942383",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Dalam hal Instansi Pengelola PNBP/Mitra Instansi\nPengelola PNBP yang diperiksa berhalangan hadir pada\nsaat pembahasan konsep laporan hasil pemeriksaan\nsebagaimana dimaksud dalam Pasal 27 ayat (5),\nInstansi Pengelola PNBP/Mitra Instansi Pengelola\nPNBP menugaskan pejabat yang ditunjuk untuk hadir\ndalam pembahasan temuan hasil Pemeriksaan PNBP\nyang ditandai dengan surat penunjukan.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -995,11 +995,11 @@
                                     ]
                                 },
                                 {
-                                    "id": "4cebb2be-0407-440a-b53c-a7ac234dcfa9",
+                                    "id": "6e479c1b-f28a-45b7-afcb-5497eff7900d",
                                     "name": "Article 29",
                                     "type": "article",
                                     "children": {
-                                        "id": "3708750e-f194-4d4f-b9fa-6f8b535ac317",
+                                        "id": "2e4126dc-b7d8-4b6f-9083-37a6b2c0c905",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -1010,44 +1010,44 @@
                             ]
                         },
                         {
-                            "id": "9ba17104-d0c8-4cf8-b2f6-44651e3dd0a6",
+                            "id": "3ec1bdea-7645-4dd7-9bfb-218d11cc7584",
                             "name": "Paragraph 4",
                             "title": "\nLaporan Hasil Pemeriksaan",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "365bbd8b-26d0-4d85-b18a-e3f6748f09e0",
+                                    "id": "24aba3b5-607c-4386-8754-59d88932de27",
                                     "name": "Article 30",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "de5c4c0d-70ea-4e05-8375-ee3d6ea3fefd",
+                                            "id": "28709440-7f3d-4868-b865-f760c97113b1",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Instansi Pemeriksa wajib membuat laporan hasil\npemeriksaan paling lambat 10 (sepuluh) hari kerja\nsejak ditandatanganinya berita acara pembahasan\nakhir konsep laporan hasil pemeriksaan sebagaimana\ndimaksud dalam Pasal 27 ayat (8) dan\nmenyampaikannya kepada Menteri dan/atau\nPimpinan Instansi Pengelola PNBP.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "6f527709-6683-47f0-941e-27f1e4a7565e",
+                                            "id": "42022ef2-4684-4b45-a40c-8c6fb6cff8a4",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Dalam hal Pemeriksaan PNBP atas permintaan\nMenteri, laporan hasil pemeriksaan sebagaimana\ndimaksud pada ayat (1) disampaikan oleh Pimpinan\nInstansi Pemeriksa kepada Menteri.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "b2f84109-80c7-46a0-8bd5-dadcff9edc3c",
+                                            "id": "365362fc-9221-42da-b598-e4e40e797bed",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Dalam hal laporan hasil pemeriksaan sebagaimana\ndimaksud pada ayat (2) perlu ditindaklanjuti oleh\nInstansi Pengelola PNBP, Menteri menyampaikan\nlaporan hasil pemeriksaan kepada Pimpinan Instansi\nPengelola PNBP.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "dc660ad8-f4a5-430e-8370-0e11786ec099",
+                                            "id": "3039ccf0-50c8-4d55-886f-4c9dacaf5e27",
                                             "name": "Verse 4",
-                                            "number": "(4)",
+                                            "number": "4",
                                             "type": "verse",
                                             "content": " Dalam hal Pemeriksaan PNBP atas permintaan\nPimpinan Instansi Pengelola PNBP, laporan hasil\npemeriksaan sebagaimana dimaksud pada ayat (1)\ndisampaikan oleh Pimpinan Instansi Pemeriksa",
                                             "explanation": "Tidak ada Penjelasan"
@@ -1061,28 +1061,28 @@
             ]
         },
         {
-            "id": "063cd16d-5f1f-4ede-b918-100087927eb5",
+            "id": "903d2b2d-8bd3-4588-b686-d3961206c983",
             "name": "Chapter IV",
             "title": "\nTINDAK LANJUT\nLAPORAN HASIL PEMERIKSAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "71649eb6-3f41-4ffd-acb5-2cd118cc6cf6",
+                    "id": "456a41d2-4b78-474d-ae5e-ba2fa1246143",
                     "name": "Article 31",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b89604f1-f218-4e64-849a-fe6ccd659afc",
+                            "id": "844fbec9-f93a-4c50-acbe-edb3ace7847e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Laporan hasil pemeriksaan sebagaimana dimaksud\ndalam Pasal 30 ayat (1) wajib ditindaklanjuti oleh\nMenteri dan/atau Pimpinan Instansi Pengelola PNBP\nyang meminta Pemeriksaan PNBP.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4d36f3a7-10bf-405d-98b5-933b979449d5",
+                            "id": "36ae99cd-6407-4a22-ba43-80b486f7ae66",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Menteri atau Pimpinan Instansi Pengelola PNBP yang\nmeminta Pemeriksaan PNBP sebagaimana dimaksud\npada ayat (1) menindaklanjuti laporan hasil\npemeriksaan paling lambat 10 (sepuluh) hari kerja\nsejak laporan hasil pemeriksaan diterima.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1090,93 +1090,93 @@
                     ]
                 },
                 {
-                    "id": "3ab0da16-a060-496b-9849-f2b351001fd0",
+                    "id": "48146184-47cc-4d46-810a-dd605fd64282",
                     "name": "Article 32",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0953f171-774e-4deb-b1f4-03da9b6770fb",
+                            "id": "c7d42fad-fb95-4e57-9706-9f6b4e39abcb",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam hal berdasarkan laporan hasil pemeriksaan\nterhadap Wajib Bayar terdapat kekurangan\npembayaran PNBP Terutang, Pimpinan Instansi\nPengelola PNBP atau Pejabat Kuasa Pengelola PNBP\nmenindaklanjuti dengan menerbitkan dan\nmenyampaikan Surat Ketetapan PNBP Kurang Bayar\ndan Surat Tagihan PNBP kepada Wajib Bayar.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "19600c57-5d55-4f5d-808c-27e5613fe1b8",
+                            "id": "bccc1900-9653-4329-8969-535cca392765",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Laporan hasil pemeriksaan, Surat Ketetapan PNBP\nKurang Bayar, dan Surat Tagihan PNBP kepada Wajib",
+                            "content": " Laporan hasil pemeriksaan, Surat Ketetapan PNBP\nKurang Bayar, dan Surat Tagihan PNBP kepada Wajib\n(5) Dalam hal laporan hasil pemeriksaan sebagaimana\ndimaksud pada ayat (1) perlu ditindaklanjuti oleh\nMitra Instansi Pengelola PNBP, Pimpinan Instansi\nPengelola PNBP menyampaikan laporan hasil\npemeriksaan kepada Mitra Instansi Pengelola PNBP.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b2c7c54d-d112-4407-9b73-958c901f68a6",
-                            "name": "Verse 5",
-                            "number": "(5)",
-                            "type": "verse",
-                            "content": " Wajib Bayar menindaklanjuti Surat Ketetapan PNBP\nKurang Bayar dan Surat Tagihan PNBP sebagaimana\ndimaksud pada ayat (1) atau ayat (4) paling lambat 3\n(tiga) bulan setelah Surat Ketetapan PNBP Kurang\nBayar dan Surat Tagihan PNBP diterbitkan.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "f6a81e77-bef7-4ee7-8c71-71ef94dd8ad0",
+                            "id": "e3a875e8-22a7-4108-978e-a2118410c35b",
                             "name": "Verse 6",
-                            "number": "(6)",
+                            "number": "6",
                             "type": "verse",
                             "content": " Dalam hal hasil Pemeriksaan PNBP terhadap Wajib\nBayar terdapat kelebihan pembayaran PNBP,\nPimpinan Instansi Pengelola PNBP atau Pejabat Kuasa\nPengelola PNBP menerbitkan Surat Ketetapan PNBP\nLebih Bayar dan menyampaikan surat pemberitahuan\nkepada Wajib Bayar.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9f054b86-18b7-4abd-9bcc-7f40d92c3787",
+                            "id": "d4eac87b-42fd-4b00-a23e-0f8e96e55748",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Sanksi administratif berupa denda sebagaimana\ndimaksud pada ayat (2) dikenakan untuk jangka\nwaktu paling lama 24 (dua puluh empat) bulan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a7d6694c-89ce-4fef-b738-46b59306d4f8",
+                            "id": "69a3de9f-0199-455c-99f4-5ad561a683cb",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Dalam hal PNBP Terutang ditetapkan secara jabatan\nsebagaimana dimaksud dalam Pasal 20 ayat (1), Surat\nKetetapan PNBP Kurang Bayar dan Surat Tagihan\nPNBP kepada Wajib Bayar telah memperhitungkan\nsanksi administratif berupa denda sebesar 2 (dua) kali\njumlah PNBP Terutang yang tidak dibayar atau kurang\nbayar.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6ceafc8f-f16a-4a0f-814e-942c1e9d5dba",
+                            "id": "15aa4f0b-eace-433e-b651-9b097b635d62",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": " Wajib Bayar menindaklanjuti Surat Ketetapan PNBP\nKurang Bayar dan Surat Tagihan PNBP sebagaimana\ndimaksud pada ayat (1) atau ayat (4) paling lambat 3\n(tiga) bulan setelah Surat Ketetapan PNBP Kurang\nBayar dan Surat Tagihan PNBP diterbitkan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "863fb657-43fb-4db7-a3bb-4921854bd99b",
                             "name": "Verse 7",
-                            "number": "(7)",
+                            "number": "7",
                             "type": "verse",
                             "content": " Dalam hal hasil Pemeriksaan PNBP terhadap Wajib\nBayar tidak terdapat kekurangan atau kelebihan\npembayaran PNBP, Pimpinan Instansi Pengelola PNBP\natau Pejabat Kuasa Pengelola PNBP menerbitkan Surat\nKetetapan PNBP Nihil dan menyampaikan surat\npemberitahuan kepada Wajib Bayar.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4e92acd4-686f-4e5e-a91d-a60961768d6c",
+                            "id": "de3fe493-bbf4-4a27-8ccf-1e017466e452",
                             "name": "Verse 8",
-                            "number": "(8)",
+                            "number": "8",
                             "type": "verse",
-                            "content": " Dalam hal hasil Pemeriksaan PNBP terhadap\npermohonan keringanan berupa pengurangan atau\npembebasan PNBP dari Wajib Bayar merupakan suatu\nrekomendasi, Menteri atau Pimpinan Instansi\nPengelola PNBP atau Pejabat Kuasa Pengelola PNBP",
+                            "content": " Dalam hal hasil Pemeriksaan PNBP terhadap\npermohonan keringanan berupa pengurangan atau\npembebasan PNBP dari Wajib Bayar merupakan suatu\nrekomendasi, Menteri atau Pimpinan Instansi\nPengelola PNBP atau Pejabat Kuasa Pengelola PNBP\n(9) Pengembalian kelebihan pembayaran PNBP\nsebagaimana dimaksud pada ayat (6), diperhitungkan\nsebagai pembayaran di muka atas jumlah PNBP\nTerutang berikutnya, atau dapat dibayarkan secara\nlangsung melalui pemindahbukuan, setelah memenuhi\nkondisi tertentu sebagaimana diatur dalam peraturan\nperundang-undangan.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "50496300-006c-46e8-9044-5677225d9f8a",
+                    "id": "8ee444bc-bf49-42aa-8a46-124a8457b360",
                     "name": "Article 33",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1834244e-f4c2-4885-acdb-6cd2586c10f5",
+                            "id": "71d974e7-1617-4fa8-9d4a-79020acf24cd",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pimpinan Instansi Pengelola PNBP atau Pimpinan\nMitra Instansi Pengelola PNBP yang diperiksa, wajib\nmenindaklanjuti hasil pemeriksaan dalam jangka\nwaktu paling lambat 2 (dua) bulan sejak laporan hasil\npemeriksaan diterima.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "335b2b22-a424-4a73-879c-4e69f102c43a",
+                            "id": "d6b7cad6-296a-4f48-aeef-4e18b48205d7",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Tindak lanjut laporan hasil pemeriksaan sebagaimana\ndimaksud pada ayat (1), disampaikan secara tertulis\noleh Pimpinan Instansi Pengelola PNBP kepada\nMenteri dan Instansi Pemeriksa.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1184,42 +1184,34 @@
                     ]
                 },
                 {
-                    "id": "46849657-6558-4a86-af3e-659e562ca375",
+                    "id": "9b22808e-b121-4547-91a7-95ac87dcb3f4",
                     "name": "Article 34",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8aad45bf-0558-4a08-a865-4a73b25660ec",
+                            "id": "2d7b8e12-fbb8-4401-9e8e-3165013b82e5",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam hal Pemeriksa menemukan adanya indikasi\ntindak pidana dalam pemeriksaan terhadap Wajib\nBayar, Instansi Pengelola PNBP, atau Mitra Instansi\nPengelola PNBP yang diperiksa, Menteri dan/atau\nPimpinan Instansi Pengelola PNBP menindaklanjuti\nsesuai dengan ketentuan peraturan perundang-\nundangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "390c07c9-ef01-4e3a-a0ba-906e24365136",
+                            "id": "75626875-050e-4bbd-a8b4-fdc5c24fabd6",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Dalam hal Pemeriksa sebagaimana dimaksud pada\nayat (1) memperoleh data dan informasi tentang:\na. indikasi pelanggaran terhadap ketentuan\nperaturan perundang-undangan di bidang\npenerimaan negara;\nb. indikasi kerugian negara; dan/atau\nC. indikasi unsur tindak pidana di luar yang\ndiperiksa,",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "29279d35-504e-430c-99ea-02a20fa9142f",
-                            "name": "Verse 9",
-                            "number": "(9)",
-                            "type": "verse",
-                            "content": " Pengembalian kelebihan pembayaran PNBP\nsebagaimana dimaksud pada ayat (6), diperhitungkan\nsebagai pembayaran di muka atas jumlah PNBP\nTerutang berikutnya, atau dapat dibayarkan secara\nlangsung melalui pemindahbukuan, setelah memenuhi\nkondisi tertentu sebagaimana diatur dalam peraturan\nperundang-undangan.\nmenindaklanjuti dengan surat persetujuan atau\npenolakan.\nInstansi Pemeriksa menyampaikan data dan informasi\nsecara terpisah kepada Menteri atau Pimpinan Instansi\nPengelola PNBP.",
+                            "content": " Dalam hal Pemeriksa sebagaimana dimaksud pada\nayat (1) memperoleh data dan informasi tentang:\na. indikasi pelanggaran terhadap ketentuan\nperaturan perundang-undangan di bidang\npenerimaan negara;\nb. indikasi kerugian negara; dan/atau\nC. indikasi unsur tindak pidana di luar yang\ndiperiksa,\nInstansi Pemeriksa menyampaikan data dan informasi\nsecara terpisah kepada Menteri atau Pimpinan Instansi\nPengelola PNBP.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "8efc66f4-6e88-44f2-9758-b85a860670a9",
+                    "id": "b31b6b87-0cc9-4531-a641-fef54807ead5",
                     "name": "Article 35",
                     "type": "article",
                     "children": {
-                        "id": "f21e2c1b-322c-4d59-a2bd-ae7fb6f9af3c",
+                        "id": "058d06a7-42c8-472e-9f28-27543132f19e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1230,28 +1222,28 @@
             ]
         },
         {
-            "id": "fe6e9bac-a1e6-4ad0-95aa-6705603039ac",
+            "id": "7cdcce89-3969-460b-a692-35ffc85f8ef9",
             "name": "Chapter V",
             "title": "\nMONITORING DAN EVALUASI PENYELESAIAN\nTINDAK LANJUT LAPORAN HASIL PEMERIKSAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "cbdb2b50-b3a8-4f6e-9559-b085fa063a2a",
+                    "id": "e85ab9df-2f19-40ea-9c03-c29eee95a640",
                     "name": "Article 36",
                     "type": "article",
                     "children": [
                         {
-                            "id": "91c8d1c0-262e-40f8-9852-bd3b2507eabc",
+                            "id": "6bb94944-516d-421c-bb13-997ee2c23cc9",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Instansi Pengelola PNBP menyampaikan secara\nberkala laporan atas tindak lanjut penyelesaian\nlaporan hasil pemeriksaan kepada Instansi Pemeriksa\ndan Menteri.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8cde5713-79f0-41f7-b298-50c61650d5e3",
+                            "id": "d4b09726-29a0-4598-bbfd-b4473f549ad4",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Berdasarkan laporan sebagaimana dimaksud pada\nayat (1), Instansi Pemeriksa dan Menteri melakukan\nmonitoring dan evaluasi atas perkembangan tindak\nlanjut penyelesaian laporan hasil pemeriksaan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1259,11 +1251,11 @@
                     ]
                 },
                 {
-                    "id": "80eb5245-0486-47ec-88e2-66cf2eb7fbd6",
+                    "id": "a3f58526-8953-4402-aed9-edc4e330f284",
                     "name": "Article 37",
                     "type": "article",
                     "children": {
-                        "id": "f672fa4e-fd2b-4922-91ed-14f15c1d555e",
+                        "id": "7303df6a-47ce-4b3e-a740-637515791c7c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1274,21 +1266,21 @@
             ]
         },
         {
-            "id": "2c7d6002-5f82-4354-ae46-c641b114fa66",
+            "id": "900f5239-5263-4618-a51f-246d6ae3269b",
             "name": "Chapter VI",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "3f542452-a059-4c8b-90c8-f44db58b3d6a",
+                    "id": "cc6e2084-06e6-4fd7-9dd8-45b162a84f47",
                     "name": "Article 38",
                     "type": "article",
                     "children": {
-                        "id": "6d605524-ef66-4df2-be8c-c416ec2cd347",
+                        "id": "20423dcb-60e0-4b2e-b9dd-020da8a0fb5f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku setelah 30 (tiga\npuluh) hari terhitung sejak tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku setelah 30 (tiga\npuluh) hari terhitung sejak tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
@@ -1304,7 +1296,8 @@
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;\n          2. Undang-Undang Nomor 9 Tahun 2018 tentang Penerimaan Negara Bukan Pajak (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 147, Tambahan Lembaran Negara Republik Indonesia Nomor 6245);"
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 9 Tahun 2018 tentang Penerimaan Negara Bukan Pajak (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 147, Tambahan Lembaran Negara Republik Indonesia Nomor 6245);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG TATA CARA PEMERIKSAAN PENERIMAAN NEGARA BUKAN PAJAK.",
         "tanggal sah": "4 Januari 2021"

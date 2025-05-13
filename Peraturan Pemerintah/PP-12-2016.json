@@ -1,0 +1,461 @@
+{
+    "results": [
+        {
+            "id": "77b8aa7e-5db6-4c5e-bc60-4724a5189e89",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "b05e5299-9e87-4821-964a-1260ef8c13ea",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "e239a082-017f-4028-9d9b-5ce2f71a1fe7",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan\nLembaga Perlindungan Saksi dan Korban yang selanjutnya\ndisingkat LPSK adalah lembaga yang bertugas dan berwenang\nuntuk memberikan perlindungan dan hak-hak lain kepada\nSaksi dan/atau Korban sebagaimana diatur dalam Undang-\nUndang.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "fcbc0baf-a984-4d9c-a45d-528d19f200d8",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "aa0f4f2d-0d87-4a6b-a810-3f4b7057aabc",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pimpinan LPSK terdiri atas:\na. 1 (satu) orang ketua merangkap anggota LPSK; dan\nb. 6 (enam) orang wakil ketua masing-masing\nmerangkap anggota LPSK.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "8b122462-9941-45e1-98ee-638cc1fac6eb",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Ketua sebagaimana dimaksud pada ayat (1) huruf a\nmerupakan penanggung jawab tertinggi LPSK.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "a0e758d5-a4a5-4962-9845-ddfef98b31f7",
+            "name": "Chapter II",
+            "title": "\nPENGHASILAN DAN HAK LAINNYA",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "73160939-b0fb-4171-9485-16ba740be5af",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "ec90aa2b-4744-4a0c-bbcf-8f424c34bb97",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPimpinan LPSK berhak memperoleh penghasilan, hak lainnya,\ndan perlindungan keamanan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "0b072157-6ebc-4dd3-b60c-d01431a8c753",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e8e171f8-b5e4-4fdc-badb-2ae0c9262a32",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pimpinan LPSK diberikan penghasilan setiap bulan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "a99a9b45-e01b-4761-be6e-28f2d59423b1",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penghasilan sebagaimana dimaksud pada ayat (1) terdiri\n2016, No.88\natas:\na. gaji; dan\nb. tunjangan jabatan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "a0238dd8-7e51-4876-a92f-fda9f3aea6cb",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Besarnya gaji pimpinan LPSK sebagaimana dimaksud\npada ayat (2) huruf a sebagai berikut:\n    a. Ketua sebesar Rp15.000.000,00 (lima belas juta\n    rupiah);\n    b. Wakil ketua sebesar Rp15.000.000,00 (lima belas juta\n    rupiah).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "113baa67-f623-4dfe-9e16-b7bf79908518",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Besarnya tunjangan jabatan pimpinan LPSK sebagaimana\ndimaksud pada ayat (2) huruf b sebagai berikut:\n    a. Ketua sebesar Rp10.000.000,00 (sepuluh juta\n    rupiah);\n    b. Wakil ketua sebesar Rp9.000.000,00 (sembilan juta\n    rupiah).",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "40fae84f-5a5a-4f62-9d73-94f30cf0ae50",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e80770cb-c177-401b-8cec-a370fb332759",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pimpinan LPSK diberikan hak lainnya berupa:\n    a. tunjangan perumahan;\n    b. tunjangan asuransi kesehatan dan jiwa;\n    c. uang penghargaan;\n    d. fasilitas transportasi;\n    e. keprotokolan; dan\n    f. perlindungan hukum.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "0bc71bd7-a700-4035-ad7d-7f7417bce1df",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Besaran tunjangan perumahan sebagaimana dimaksud\npada ayat (1) huruf a sebagai berikut:\n    a. Ketua sebesar Rp5.000.000,00 (lima juta rupiah);\n    b. Wakil Ketua sebesar Rp4.000.000,00 (empat juta\n    rupiah).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "f2beb424-9745-48b8-944a-b6214397a125",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Besaran tunjangan asuransi kesehatan dan jiwa\nsebagaimana dimaksud pada ayat (1) huruf b sebesar\nRp3.000.000,00 (tiga juta rupiah).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "0651086f-5802-4fe6-a013-309795386d46",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Fasilitas transportasi sebagaimana dimaksud pada ayat (1)\nhuruf d diatur sesuai dengan ketentuan peraturan\nperundang-undangan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "90672688-4741-4037-b8ea-23e7b5072759",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": " Pimpinan LPSK juga diberikan fasilitas perjalanan dinas\nyang disetarakan dengan pejabat setingkat Eselon I.a.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "9151edcb-9b92-4c79-a092-07b3005dba21",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "d11186d3-feef-44da-8d90-5bb9bf4afc41",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Uang penghargaan sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf c diberikan kepada Pimpinan LPSK yang berhenti dari jabatannya karena:\na. meninggal dunia;\nb. masa tugas berakhir; atau\nc. sakit jasmani atau rohani yang mengakibatkan tidak dapat menjalankan tugas selama 30 (tiga puluh) hari secara terus menerus.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "d36cb8e7-d8bd-4828-85b5-16706731ddcb",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Uang penghargaan sebagaimana dimaksud pada ayat (1) diberikan juga kepada pimpinan LPSK yang diberhentikan dan diangkat oleh Presiden untuk menduduki jabatan lain.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "062e79cf-ba23-481b-8fef-f6678ac71821",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Uang penghargaan sebagaimana dimaksud pada ayat (1) diberikan sebesar 6 (enam) kali dari penghasilan setiap bulan sebagaimana dimaksud dalam Pasal 4.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "4f46ead7-9b98-4e9f-a7ed-7f4678cc81e5",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Besaran uang penghargaan sebagaimana dimaksud pada ayat (3) tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "e04f0bf9-7cf7-429f-9bab-25c4a9d78ac2",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": {
+                        "id": "689a1023-518b-4f81-83a8-2208dbc1557c",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPajak yang ditimbulkan atas penghasilan Pimpinan LPSK sebagaimana dimaksud dalam Pasal 4 dan Pasal 5 diberlakukan sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "93011e5a-ef2f-4f1e-adf4-73a81674ff67",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "db7f01a7-fcf1-448d-8074-6687ba2b886c",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Dalam hal Pimpinan LPSK berasal dari Pegawai Negeri Sipil, Prajurit Tentara Nasional Indonesia, atau Anggota Kepolisian Negara Republik Indonesia, penerimaan gaji diperhitungkan sebagai penghasilan Pimpinan LPSK.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "18765e3d-f4f4-42f7-9ddf-7b85a66c641b",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Dalam hal Pimpinan LPSK berasal dari Pegawai Negeri Sipil, Prajurit Tentara Nasional Indonesia, atau Anggota Kepolisian Negara Republik Indonesia yang telah pensiun, penerimaan pensiun tidak diperhitungkan sebagai penghasilan Pimpinan LPSK.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "05b649f2-c722-4e8d-8632-35cfbd83a6be",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "8465369e-eb39-4d89-8782-2c976cb3ec10",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pimpinan LPSK memperoleh hak keprotokolan\nsebagaimana dimaksud dalam Pasal 5 ayat (1) huruf e\ndalam acara kenegaraan dan acara resmi.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "df63b896-dd40-45f7-8d82-8edf6e651b85",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Hak keprotokolan sebagaimana dimaksud pada ayat (1)\ndilaksanakan sesuai dengan ketentuan peraturan\nperundang-undangan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "55acbb7b-3c67-4719-85f3-8b1725403a37",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "c6c40271-581e-4aa9-a2d6-90e53007dbf6",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Perlindungan hukum sebagaimana dimaksud dalam Pasal\n5 ayat (1) huruf f diberikan kepada Pimpinan LPSK yang\nmenghadapi masalah hukum dalam pelaksanaan tugas\ndan wewenangnya serta atas perintah kedinasan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "9592948e-1c33-4dad-a4e6-3beae4a2ed18",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Perlindungan hukum diberikan dan/atau dikoordinasikan\noleh unit kerja yang menangani bidang hukum di\nlingkungan LPSK.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "49366498-fbad-4c27-b572-116fe88732d4",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Perlindungan hukum diberikan dalam bentuk:\na. konsultasi hukum;\nb. pendampingan pada setiap tingkat pemeriksaan;\ndan/atau\nc. beracara di persidangan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "0faa57d7-c6a0-4972-90d2-20d17c151831",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": {
+                        "id": "71d022f1-a20d-41c1-8c15-af1f6f1cca8c",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKetua, Wakil Ketua, dan Anggota LPSK yang mendapatkan\nhonorarium berdasarkan Peraturan Presiden Nomor 69 Tahun\n2012 tentang Honorarium Ketua, Wakil Ketua, dan Anggota\nLembaga Perlindungan Saksi dan Korban maka penghasilan\nsesuai Peraturan Pemerintah ini dibayarkan selisih antara\npenghasilan sesuai dengan Peraturan Pemerintah ini dan\nhonorarium sesuai dengan Peraturan Presiden Nomor 69 Tahun\n2012 tentang Honorarium Ketua, Wakil Ketua, dan Anggota\nLembaga Perlindungan Saksi dan Korban pada jabatannya\nterhitung sejak Undang-Undang Nomor 31 Tahun 2014 tentang\nPerubahan atas Undang-Undang Nomor 13 Tahun 2006 tentang\nPerlindungan Saksi dan Korban diundangkan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "49c01655-af0e-4b79-b592-60e4caeb031e",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": {
+                        "id": "8d1a3e7e-537d-4171-9aa5-a1cea2aa2694",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPenghasilan dan hak lainnya dihentikan terhitung mulai bulan\nberikutnya sejak Keputusan Presiden mengenai pemberhentian\nAnggota LPSK ditetapkan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "c2da4bd0-d406-44fd-8e4b-337f7aa796bd",
+            "name": "Chapter III",
+            "title": "\nPERLINDUNGAN KEAMANAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "f33867e4-b0f5-44a8-87dc-0207cd706f8d",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "af4ffb25-9a40-44c7-8276-ccb9005271bd",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pimpinan LPSK memperoleh perlindungan keamanan\nterkait dengan pelaksanaan tugas dan wewenangnya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "9646a4a9-d88d-4f31-bd26-3a9a884c5a58",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Perlindungan keamanan sebagaimana dimaksud pada ayat\n(1) diberikan selama menjabat sebagai pimpinan LPSK.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "a047827d-1110-4969-abe9-1c38b825eed3",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Perlindungan keamanan sebagaimana dimaksud pada ayat\n(1) dapat diberikan juga kepada keluarga pimpinan LPSK.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "f8e0b1a6-de9b-4cf7-9e7c-c3f5a72eea53",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Perlindungan keamanan dapat diberikan dalam bentuk:\na. tindakan pengawalan; dan/atau\nb. perlengkapan keamanan, termasuk yang dipasang di\ntempat kediaman serta kendaraan pimpinan LPSK.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "f1681d60-4bb8-4295-b231-4cf384bfa02c",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": " Perlindungan Keamanan sebagaimana dimaksud pada\nayat (3) dan ayat (4) diberikan setiap waktu dan sesuai\ndengan kebutuhan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "29d125ac-f0a0-4e09-912a-44c3fff2ff8a",
+                            "name": "Verse 6",
+                            "number": "6",
+                            "type": "verse",
+                            "content": " Perlindungan keamanan terhadap pimpinan LPSK dalam\nbentuk tindakan pengawalan sebagaimana dimaksud pada\nayat (4) huruf a diberikan oleh Kepolisian Negara Republik\nIndonesia.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "48a05efe-3b2f-40c0-a163-bc9446d7fe2d",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": {
+                        "id": "da723584-6f00-43af-a70d-b65a35b55ab5",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKetentuan lebih lanjut mengenai perlindungan hukum dan\nperlindungan keamanan bagi Pimpinan LPSK diatur dengan\nPeraturan LPSK.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "f56998d1-7846-4a6e-a2b9-a9a4398e8618",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": {
+                        "id": "949d7cbe-b1b7-41b0-8214-b9a183130dd4",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSegala biaya yang timbul sehubungan dengan pelaksanaan\npemberian penghasilan, hak lainnya, dan perlindungan\nkeamanan kepada pimpinan LPSK dibebankan pada Anggaran\nPendapatan dan Belanja Negara.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "b9ccdce3-208f-4347-a75d-5342b09228cc",
+            "name": "Chapter IV",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "211960eb-81d7-4a3f-9b8d-fb0fe08840a5",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": {
+                        "id": "8bb3851c-e0ae-4f5b-88a1-5af433c2bf66",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKetentuan lebih lanjut yang diperlukan bagi pelaksanaan\nPeraturan Pemerintah ini ditetapkan oleh menteri yang\nmenyelenggarakan urusan pemerintahan di bidang keuangan\ndan/atau Sekretaris Jenderal, baik secara bersama-sama\nmaupun secara sendiri-sendiri sesuai dengan bidang tugasnya\nmasing-masing.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "ce45d170-772f-4c46-9e64-199b564a419c",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": {
+                        "id": "a042a356-2768-44ec-be22-c2aaffcbd834",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan\nPresiden Nomor 69 Tahun 2012 tentang Honorarium Ketua,\nWakil Ketua dan Anggota Lembaga Perlindungan Saksi dan\nKorban (Lembaran Negara Republik Indonesia Tahun 2012\nNomor 152), dicabut dan dinyatakan tidak berlaku.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "85980386-c7f8-49f2-8025-023b37d975f5",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": {
+                        "id": "e255657a-2fd1-445b-8940-ab11b19fc5f1",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "12",
+        "Tahun": "2016",
+        "Tentang": "PENGHASILAN, HAK LAINNYA, DAN PERLINDUNGAN KEAMANAN BAGI\nPIMPINAN LEMBAGA PERLINDUNGAN SAKSI DAN KORBAN",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 16B Undang-\nUndang Nomor 31 Tahun 2014 tentang Perubahan atas\nUndang-Undang Nomor 13 Tahun 2006 tentang Perlindungan\nSaksi dan Korban, perlu menetapkan Peraturan Pemerintah\ntentang Penghasilan, Hak Lainnya, dan Perlindungan\nKeamanan bagi Pimpinan Lembaga Perlindungan Saksi dan\nKorban;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 13 Tahun 2006 tentang\nPerlindungan Saksi dan Korban (Lembaran Negara\nRepublik Indonesia Tahun 2006 Nomor 64, Tambahan\nLembaran Negara Republik Indonesia Nomor 4635)\nsebagaimana telah diubah dengan Undang-Undang Nomor\n31 Tahun 2014 tentang Perubahan atas Undang-Undang\nNomor 13 Tahun 2006 tentang Perlindungan Saksi dan\nKorban (Lembaran Negara Republik Indonesia Tahun 2014"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENGHASILAN, HAK\nLAINNYA, DAN PERLINDUNGAN KEAMANAN BAGI PIMPINAN\nLEMBAGA PERLINDUNGAN SAKSI DAN KORBAN.",
+        "tanggal sah": "4 Mei 2016"
+    }
+}

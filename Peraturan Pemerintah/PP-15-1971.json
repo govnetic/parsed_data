@@ -1,0 +1,229 @@
+{
+    "results": [
+        {
+            "id": "e20cf289-ba4e-44d5-be04-cd59037f857d",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "DELETE"
+                    ],
+                    "id": "ebbd7386-6dea-4536-89cb-d7ad263538e6",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e7cb991f-4fa0-43c8-86c1-920f273b3513",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "149d1715-625b-4c92-bf0f-80734c9faeb0",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "3fef6b6a-b00b-4db6-a183-cfdd01a4b135",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "5a9295c5-dcaf-444c-a110-81300b78a7b3",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f355dc65-b668-4f57-a707-e162cc7dc383",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [],
+                    "id": "1852ecf0-1369-4533-af9a-c772eb853d4f",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ffac5b4d-1134-4327-a52e-78f9356aedfa",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "8712eee0-f888-411c-b0f8-f6f475ad2763",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ebf6cc12-89d3-4eb6-903f-6494655fa79b",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "0595392d-3636-4977-9412-0f89e673062e",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "656acbbf-1065-493c-a580-50e7ef300289",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE",
+                        "DELETE"
+                    ],
+                    "id": "c7019981-5a36-4c6f-9552-d9096dca6a09",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a1be7467-0bf7-404b-83f2-18276f2b94b9",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "6d8bcb75-cf44-4ed7-a061-a411a560ed35",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6dbc52b9-b847-4369-b093-7cee7b960ded",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "39f14a3b-b467-4dbb-a9da-840487941d22",
+                    "name": "Article 19",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "01060aa5-ea57-4d69-92b1-b9f8b7047e7c",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "6da2a3f5-3bb1-4f2c-a2bf-4f0737d30385",
+                    "name": "Article 20",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "465c2f5e-49c3-42c9-8604-76d2ad5ff9cf",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "d79d1da4-73bb-47ec-a214-2e034b20b9ee",
+                    "name": "Article 21",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ad7f1634-661f-483d-8703-cf40ac49a394",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6785eebd-4ce1-452c-bd41-41a93e11b4a6",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "6ae84c90-ed6f-471d-a075-ff417226b0a1",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\n(1) Sejak berlakunya Peraturan Pemerintah ini, kapal-kapal dan alat-\nalat apung lainnya seperti tersebut dalam lampiran Peraturan\nPemerintah ini dinyatakan sebagai kekayaan Negara yang\ndipisahkan dan hak-milik atas kapal-kapal dan alat-alat apung\nlainnya tersebut diserahkan kepada Perusahaan Negara Bahtera\nAdhiguna sebagai tambahan modal Perusahaan Negara Bahtera\nAdhiguna.\n(2) Nilai dari pada kekayaan Negara yang dipisahkan tersebut pada\nayat (1)pasal ini ditentukan oleh Menteri Keuangan."
+                }
+            ]
+        },
+        {
+            "id": "2df08a69-d15d-4a18-b17d-ecc814d1d649",
+            "name": "Article III",
+            "type": "article",
+            "children": [
+                {
+                    "id": "e60e9491-4d40-41f5-8df3-f4764591220e",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": ".\nPeraturan Pemerintah ini mulai berlaku pada hari tanggal\ndiundangkannya dengan ketentuan bahwa penggantian nama Perusahaan\nNegara Menunda Kapal Tundabara menjadi Perusahaan Negara Bahtera\nAdhiguna sebagaimana yang dimaksudkan dalam Pasal I Peraturan\nPemerintah ini mulai berlaku sejak tanggal 1 Januari 1966.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya dalam\nLembaran Negara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "15",
+        "Tahun": "1971",
+        "Tentang": "PERUBAHAN PERATURAN PEMERINTAH REPUBLIK INDONESIA NO. 110\nTAHUN 1961 TENTANG PENDIRIAN P.N. MENUNDA KAPAL TUNDABARA (L.N.\nTAHUN 1961 NO. 134)\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "",
+            "a": "\nbahwa guna meningkatkan kemampuan usaha dan produktivitas\nPerusahaan Negara Menunda Kapal Tundabara sebagaimana yang\ndidirikan berdasarkan Peraturan Pemerintah No. 110 tahun 1961\n(Lembaran-Negara Republik Indonesia tahun 1961 No. 134), perlu\ndiadakan perbaikan serta penyempurnaan dalam cara pengurusan\nserta penguasaannya dan perluasan-perluasan dalam bidang usaha\nserta permodalannya;",
+            "b": "\nbahwa perluasan permodalan tersebut pada sub a diatas dilakukan\ndengan cara menetapkan sejumlah kapal dan alat-alat apung\nlainnya yang sekarang telah ada di dalam penguasaan dan\ndiusahakan oleh Perusahaan Negara tersebut sebagai kekayaan\nNegara yang dipisahkan untuk dijadikan penambahan modal bagi\nPerusahaan Negara yang bersangkutan;",
+            "c": " bahwa berdasarkan pertimbangan-pertimbangan tersebut diatas,\nperlu dikeluarkan suatu Peraturan Pemerintah yang memuat\nketentuan-ketentuan mengenai perubahan-perubahan Peraturan\nPemerintah No. 110 tahun 1961 (Lembaran-Negara Republik\nIndonesia tahun 1961 Nomor 134) dan penetapan pemisahan\nkekayaan Negara sebagaimana yang dimaksudkan dalam sub b\ndiatas."
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": "\nPasal 5 ayat (2) Undang-Undang Dasar 1945,"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN PERATURAN\nPEMERINTAH REPUBLIK INDONESIA NO. 110 TAHUN 1961 TENTANG\nPENDIRIAN P.N. MENUNDA KAPAL TUNDABARA.\nPasal 1\nMengubah ketentuan Pasal 1 Peraturan Pemerintah No. 110 tahun 1961\ntentang Pendirian Perusahaan Negara Menunda Kapal Tundabara sehingga\nberbunyi sebagai berikut\nPasal 1\n(1) Dengan nama Perusahaan Menunda (disingkat P.N. Menunda) didirikan\nsuatu perusahaan Negara yang bergerak dalam bidang jasa-jasa angkutan laut\ndan jasa-jasa teknik (technical service), kecuali dalam hal-hal yang bersangkutan\ndengan pelaksanaan pelayaran samudra, dengan tidak mengurangi ketentuan\nyang termaktub dalam pasal 3 Peraturan Pemerintah ini.\n(2) P.N. Menunda berkedudukan dan berkantor pusat di Jakarta.\nPasal 2\nPeraturan Pemerintah ini mulai berlaku pada hari tanggal diundangkan.\nAgar supaya setiap orang dapat mengetahuinya memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran-Negara\nRepublik Indonesia.\nDitetapkan di Jakarta\npada tanggal 22 Pebruari 1971\n---\nPEMERINTAH R\nSEKRETARIS KABINST\n---\nUndang-undang Nomor 19 Prp. Tahun 1960 (Lembaran-Negara\nRepublik Indonesia Tahun 1960 Nomor 59; Tambahan Lembaran-\nNegara Republik Indonesia Nomor 1989);\n3. Undang-undang Nomor 9 Tahun 1969 (Lembaran-Negara\nRepublik Indonesia Tahun 1969 Nomor 40; Tambahan Lembaran-\nNegara Republik Indonesia Nomor 2904);\n4. Peraturan Pemerintah Nomor 26 Tahun 1964 (Lembaran-Negara\nRepublik Indonesia Tahun 1964 Nomor 60; Tambahan Lembaran-\nNegara Republik Indonesia Nomor 2658);\n5. Peraturan Pemerintah Nomor 27 Tahun 1965 (Lembaran-Negara\nRepublik Indonesia Tahun 1965 Nomor 47).\nMEMUTUSKAN\nMenetapkan  Peraturan Pemerintah Republik Indonesia tentang Perubahan Peraturan\nPemerintah Republik Indonesia Nomor 110 Tahun 1961 tentang\npendirian Perusahaan Negara Menunda Kapal Tundabara (Lembaran-\nNegara Republik Indonesia Tahun 1961 Nomor 134).",
+        "tanggal sah": "1 Januari 1966"
+    }
+}

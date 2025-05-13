@@ -1,426 +1,297 @@
 {
     "results": [
         {
-            "id": "f168711a-62e7-4daa-b2e2-5cc5afadd74f",
+            "id": "02d21512-12f8-491a-88aa-a93abc50e44c",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2d020092-0abe-4e21-aefe-582867fd4ec3",
+                    "id": "4ec7bc86-b2eb-45df-bc9d-09429f548d3f",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "c1e080ea-46b3-419c-9c9c-703d0dddf303",
+                        "id": "586a8581-1c53-4dcd-81f2-dd1868bac7d8",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Pemeriksaan adalah serangkaian kegiatan mencari, mengumpulkan,\ndan mengolah data dan/atau keterangan lain yang dilakukan oleh\nPemeriksa untuk menentukan ada atau tidaknya pelanggaran\nperaturan perundang-undangan di bidang Perdagangan Berjangka\nKomoditi.\n2. Pemeriksa adalah Pegawai Negeri Sipil di lingkungan Bappebti yang\ndiangkat oleh Kepala Bappebti sebagai Pemeriksa untuk melakukan\npemeriksaan sebagaimana dimaksud dalam Pasal 66 Undang-undang\nNomor 32 Tahun 1997 tentang Perdagangan Berjangka Komoditi.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nAngka 1\nCukup jelas\nAngka 2\nCukup jelas"
                     }
                 }
             ]
         },
         {
-            "id": "400274eb-9d1f-44f3-9e21-75ffba2c124a",
+            "id": "13a2a253-2b60-49fd-9b7e-814a13def083",
             "name": "Chapter II",
             "title": "\nDASAR PEMERIKSAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6901f61b-c2cc-4618-81b4-457b73b77e30",
+                    "id": "3e08ed3a-e3b8-4480-af47-0ef7a095939c",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "b4c95d32-614b-46b1-95cf-277c8ed560c1",
+                        "id": "651bfdfe-389a-40fe-bb39-bf6388b972d0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nPemeriksaan dilakukan berdasarkan:\na. adanya laporan, pemberitahuan atau pengaduan tentang adanya\npelanggaran peraturan perundang-undangan di bidang Perdagangan\nBerjangka Komoditi.\nb. tidak dipenuhinya kewajiban yang harus dilakukan oleh pemegang\nizin usaha, izin orang perorangan, persetujuan atau sertifikat\npendaftaran yang diberikan oleh Bappebti, atau pihak lain yang\nmelakukan kegiatan di bidang Perdagangan Berjangka Komoditi;\nc. terdapat petunjuk tentang terjadinya perbuatan pelanggaran\nperaturan perundang-undangan di bidang Perdagangan Berjangka\nKomoditi.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas"
                     }
                 },
                 {
-                    "id": "ea39474f-8be9-415b-b69e-8040bc0307e3",
+                    "id": "f7ea5ecf-209e-4639-bf9d-414205310304",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "41372d25-062d-466f-852b-1af94d931c56",
+                        "id": "18862d73-5b2b-4e99-a897-7f52136a8883",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nPemeriksaan dilakukan oleh Pemeriksa berdasarkan Surat Perintah\nPemeriksaan dari Kepala Bappebti.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nSurat Perintah Pemeriksaan antara lain memuat nama Pemeriksa, nama Pihak yang\ndiperiksa, objek yang diperiksa, dan jangka waktu pemeriksaan."
                     }
                 }
             ]
         },
         {
-            "id": "9bc599c9-edb5-4196-8df7-f7b5159d8ab5",
+            "id": "26a2175d-2e50-4d94-a364-eb0988076c45",
             "name": "Chapter III",
             "title": "\nPEMERIKSA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2f8c6e76-f4fc-479d-b73e-67718a21b26a",
+                    "id": "7f3458a6-2171-457d-a3ed-91a1bc9aadee",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "eceefaa6-989f-4729-bd9a-496a4a0ceb9f",
+                        "id": "624c8122-91a7-4a74-b95e-feec8a3c147c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nSyarat-syarat menjadi Pemeriksa adalah:\na. Pegawai Negeri Sipil di lingkungan Bappebti yang serendah-rendahnya berpangkat Penata Muda (Golongan III/a);\nb. lulus pendidikan Pemeriksa.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nHuruf a\nCukup jelas\nHuruf b"
                     }
                 },
                 {
-                    "id": "0c94713c-dc09-4db0-aa42-2560dece660f",
+                    "id": "ec04e422-3258-425f-8e05-370f6072ac26",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "65b60aa0-ac1e-4ed0-aaf8-84865edd6ff4",
+                        "id": "1448521c-8037-4ae5-9646-ba62044cf31c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nDalam pemeriksaan, Pemeriksa wajib:\na. memiliki Surat Perintah Pemeriksaan dan Tanda Pengenal Pemeriksa dari kepala Bappebti dan memperhatikannya kepada Pihak yang akan diperiksa pada waktu akan melakukan pemeriksaan;\nb. memberitahukan secara tertulis tentang akan dilakukan pemeriksaan kepada Pihak yang akan diperiksa;\nc. menjelaskan maksud dan tujuan pemeriksaan kepada Pihak yang akan diperiksa;\nd. merahasiakan kepada Pihak lain yang tidak berhak segala sesuatu yang diketahui dalam rangka pemeriksaan;\ne. membuat laporan hasil pemeriksaan.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nHuruf a\nSurat Perintah Pemeriksaan diperlukan agar pemeriksaan hanya ditujukan\nterhadap Pihak yang diperiksa yang namanya tercantum dalam Surat Perintah\nPemeriksaan.\nTanda Pengenal Pemeriksa dalam Pasal ini diperlukan agar pemeriksaan dilakukan\nhanya oleh Pemeriksa yang berwenang. Sebelum pemeriksaan dimulai, Pemeriksa\nwajib memperlihatkan Surat Perintah Pemeriksaan dan Tanda Pengenal Pemeriksa\nkepada Pihak yang akan diperiksa.\nApabila Pemeriksa tidak memperlihatkan Surat Perintah Pemeriksaan dan Tanda\nPengenal Pemeriksa, atau apabila identitas Pemeriksa yang tercantum dalam\nTanda Pengenal Pemeriksa tidak sesuai dengan yang tercantum dalam Surat\nPerintah Pemeriksaan, Pihak yang akan diperiksa berhak untuk menolak\npemeriksaan.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nKetentuan ini tidak membatasi kewenangan Bappebti untuk mengumumkan hasil\npemeriksaan.\nHuruf e\nCukup jelas"
                     }
                 }
             ]
         },
         {
-            "id": "e7d727d4-bb0c-4f0e-8446-aa91fb05dfeb",
+            "id": "0313b7d8-c0e1-404f-9006-e0fbd0a81c96",
             "name": "Chapter IV",
             "title": "\nPIHAK YANG DIPERIKSA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8aa8c54b-db35-4203-864b-121c6296dc74",
+                    "id": "4ff86944-39ea-463a-89dd-d557c5811986",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "b86f059d-5f90-478b-b135-ee460b58a9db",
+                        "id": "23af90a7-14fd-4bd0-8e3a-ee480f1138cf",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nDalam pemeriksaan, Pihak yang diperiksa:\na. berhak meminta kepada Pemeriksa tembusan Surat Perintah Pemeriksaan dan memperhatikan Tanda Pengenal Pemeriksa;\nb. berhak meminta kepada Pemeriksa untuk memberikan penjelasan tentang maksud dan tujuan pemeriksaan;\nc. wajib menandatangani hasil pemeriksaan yang dibuat dalam Berita Acara Pemeriksaan.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas"
                     }
                 }
             ]
         },
         {
-            "id": "31d8b601-9510-49b1-b9cd-95f71edcd369",
+            "id": "550a8151-c6d9-4a52-b181-21af53a4b8f7",
             "name": "Chapter V",
             "title": "\nPELAKSANAAN PEMERIKSAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "9b36426c-1354-4ccc-9656-d327df088d00",
+                    "id": "6da07817-5f19-4b22-9a94-a98a3beb3e51",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "8eaa4324-200c-4106-99bb-4ce4c01f85c1",
+                        "id": "79b30e92-901f-4252-b041-43a019d8c085",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nPemeriksaan dilaksanakan sebagai berikut:\na. pemeriksaan wajib dilakukan oleh lebih dari satu orang Pemeriksa;\nb. pemeriksaan dapat dilaksanakan di Kantor Pemeriksa, di kantor atau\ndi tempat usaha atau di gudang atau di tempat tinggal Pihak yang\ndiperiksa atau di tempat lain yang diduga ada kaitannya dengan\npelanggaran yang terjadi;\nc. pemeriksaan dilaksanakan pada hari kerja dan jam kerja atau jika\ndianggap perlu dilakukan di luar kerja dan di luar hari kerja;\nd. hasil pemeriksaan dibuat dalam bentuk Berita Acara Pemeriksaan;\nc. Berita Acara Pemeriksaan wajib ditandatangani oleh Pemeriksa dan\nyang diperiksa.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nDalam pelaksanaan pemeriksaan perlu ada ketentuan-ketentuan yang mengatur\nhal-hal yang berkaitan antara Pemeriksa dengan Pihak yang diperiksa yang wajib\ndipatuhi baik oleh Pemeriksa maupun olah Pihak yang diperiksa, agar\npemeriksaan dapat terlaksana dengan lancar dan tertib."
                     }
                 },
                 {
-                    "id": "e11b8caf-2d5c-4f88-b05d-5c0146ffbe0e",
+                    "id": "c959eed1-d8cb-48c7-a997-04b244dc050b",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bcb1328f-139b-4f5e-beb5-7a0c22a1fdc0",
+                            "id": "0ac9e669-d84f-4773-a8b1-f5291ca6738c",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam melakukan pemeriksaan, Pemeriksa dapat:\na. meminta keterangan, konfirmasi, dan/atau bukti yang diperlukan\ndari Pihak yang diperiksa dan/atau Pihak lain yang diperlukan\nuntuk kepentingan pemeriksaan;\nb. memerintahkan Pihak yang diperiksa untuk melakukan atau tidak\nmelakukan kegiatan tertentu;\nc. memeriksa catatan, pembukuan, dan/atau dokumen pendukung\nlainnya;\nd. meminjam atau membuat salinan atas catatan, pembukuan\ndan/atau dokumen lainnya sepanjang diperlukan;\ne. memasuki tempat atau ruangan tertentu yang diduga merupakan\ntempat menyimpan catatan, pembukuan, dan/atau dokumen\nlainnya, dan\nf. memerintahkan Pihak yang diperiksa untuk mengamankan,\nmenjaga dan memelihara catatan, pembukuan dan/atau dokumen\nlainnya untuk kepentingan pemeriksaan, yang berada dalam\ntempat atau ruangan sebagaimana dimaksud dalam huruf e, untuk\nkepentingan pemeriksaan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nYang dimaksud dengan \"membuat salinan\" dalam huruf ini adalah termasuk\npula menggandakan dengan cara memfotocopy.\nHuruf e\nCukup jelas\nHuruf f\nUntuk mencegah agar pembukuan, catatan dan/atau dokumen lainnya yang\nberhubungan dengan kegiatan Pihak yang diperiksa tidak dirusak, dimusnahkan,\ndiganti, dipalsu, dipindahtangankan dan sebagainya maka sebelum Pemeriksa\nmeninggalkan tempat atau ruangan Pihak yang diperiksa, Pemeriksa dapat\nmemerintahkan Pihak yang diperiksa untuk melakukan pengamanan terhadap\ndokumen-dokumen tersebut kepentingan proses pemeriksaan."
                         },
                         {
-                            "id": "fcd26eb7-d5e0-4634-8cf7-5768b3ea4fda",
+                            "id": "4fe1d701-721b-47dd-b9fe-6d7fc8413b95",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Atas peminjaman catatan, pembukuan dan/atau dokumen lainnya\nsebagaimana dimaksud pada ayat (1) huruf d diberikan tanda bukti\npeminjaman yang menyebutkan secara jelas dan terinci jenis serta\njumlahnya.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         }
                     ]
                 },
                 {
-                    "id": "5a25b153-129a-4d8f-8f43-1501cc994b8d",
+                    "id": "012448e1-fafd-449f-a57e-375ae57ba296",
                     "name": "Article 9",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6ffca0b8-ae41-4202-830c-2589a50046a3",
+                            "id": "29b3cfe2-d4cf-4438-a997-db0cf854fdd3",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Apabila Pihak yang diperiksa atau wakil atau kuasanya menolak\natau menghambat pemeriksaan, atau menolak menandatangani\nBerita Acara Pemeriksaan, maka yang bersangkutan wajib\nmenandatangani Surat Pernyataan Menolak, Menghambat\nPemeriksaan, atau Surat Pernyataan Menolak Menandatangani\nBerita Acara Pemeriksaan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "7003e008-cf8a-469c-b204-c6e1c571c9b8",
+                            "id": "04e5ed4f-5512-4053-887c-2236719abe4c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Apabila pegawai Pihak yang diperiksa sebagaimana dimaksud pada\nayat (1) menolak untuk membantu atau menghambat kelancaran\npemeriksaan, maka yang bersangkutan wajib menandatangani Surat\nPernyataan Menolak Membantu atau Menghambat Kelancaran\nPemeriksaan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "d7b49e8a-ee47-4d89-bc83-f79ce2e3316b",
+                            "id": "32ae9fcb-d066-4f03-9ee2-dc98f026ab8b",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Apabila terjadi penolakan untuk menandatangani surat pernyataan\nsebagaimana dimaksud pada ayat (1) dan ayat (2), Pemeriksa\nmembuat Berita Acara tentang penolakan tersebut yang\nditandatangani oleh Pemeriksa.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "4d6bc7aa-a491-402c-a4eb-fc609e332326",
+                            "id": "020a5b70-d82e-4624-9103-6f2b7e9638bf",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Surat Pernyataan Menolak atau Menghambat Pemeriksaan, atau\nSurat Pernyataan Menolak Menandatangani Berita Acara\nPemeriksaan, Surat Pernyataan Menolak Membantu atau\nMenghambat Kelancaran Pemeriksaan atau Berita Acara tentang\npenolakan sebagaimana dimaksud pasa ayat (1), ayat (2) dan ayat (3)\ndapat dijadikan dasar untuk dilakukan\npenyidikan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "f48d881a-fbfa-43a2-b7e0-eabd6e1d350a",
+            "id": "a410f2c4-0eff-467b-8c35-63f8486f50cc",
             "name": "Chapter VI",
             "title": "\nLAPORAN HASIL PEMERIKSAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "bc76f381-159a-40a1-8d8e-61a2874f2f90",
+                    "id": "3e63c4c6-217f-4a81-9ba6-84c6d8e87507",
                     "name": "Article 10",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f1f14d3f-3b52-41d6-9f51-e7e9ca59a9e9",
+                            "id": "878ff736-5b93-42a4-85fc-ce92e0281fe5",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pemeriksa membuat laporan hasil pemeriksaan yang berisi analisa\nhukum, resume/kesimpulan, pendapat dan saran serta data dan fakta\nyang ditemukan Pemeriksa.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "ca3358b0-e024-4479-95a4-d7f5fd8222cc",
+                            "id": "570c533d-059a-459f-9d23-d6e65c99b576",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Laporan hasil pemeriksaan sebagaimana dimaksud pada ayat (1)\nantara lain memuat:\na. sifat dan jenis pelanggaran;\nb. bukti atau petunjuk adanya pelanggaran;\nc. pengaruh atau akibat dari pelanggaran;\nd. tata cara peraturan perundang-undangan di bidang Perdagangan Berjangka Komoditi yang dilanggar; dan\ne. hal-hal lain yang ditemukan dalam pemeriksaan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Laporan hasil pemeriksaan sebagaimana dimaksud pada ayat (1)\nantara lain memuat:\na. sifat dan jenis pelanggaran;\nb. bukti atau petunjuk adanya pelanggaran;\nc. pengaruh atau akibat dari pelanggaran;\nd. tata cara peraturan perundang-undangan di bidang Perdagangan\nBerjangka Komoditi yang dilanggar; dan\ne. hal-hal lain yang ditemukan dalam pemeriksaan.",
+                            "explanation": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas"
                         },
                         {
-                            "id": "fe021433-edb2-499d-842d-420cfacb958a",
+                            "id": "b237673d-8d07-42b5-a9e6-5d4fbc4de759",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Laporan hasil pemeriksaan sebagaimana dimaksud pada ayat (1) dan ayat (2) beserta Berita Acara Pemeriksaan disampaikan kepada Kepala Bappebti.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Laporan hasil pemeriksaan sebagaimana dimaksud pada ayat (1) dan\nayat (2) beserta Berita Acara Pemeriksaan disampaikan kepada\nKepala Bappebti.",
+                            "explanation": "\nCukup jelas"
                         }
                     ]
                 },
                 {
-                    "id": "26bc933f-0891-4e0c-a158-c4d9e57550fe",
+                    "id": "d24526ce-97cb-4824-af3a-857e776b808b",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6074e32b-5421-4583-b7d5-f312fdcb46bb",
+                            "id": "1fc87ea3-e852-486a-8541-66b085596015",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Apabila dalam pemeriksaan ditemukan bukti permulaan tentang adanya tindak pidana di bidang Perdagangan Berjangka Komoditi, Pemeriksa wajib segera membuat laporan Kepada Bappebti mengenai temuan tersebut, dan pemeriksaan tetap dilanjutkan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Apabila dalam pemeriksaan ditemukan bukti permulaan tentang\nadanya tindak pidana di bidang Perdagangan Berjangka Komoditi,\nPemeriksa wajib segera membuat laporan Kepada Bappebti\nmengenai temuan tersebut, dan pemeriksaan tetap dilanjutkan.",
+                            "explanation": "\nDengan ditemukannya bukti permulaan tentang adanya tindak pidana, maka\nKepala Bappebti memerintahkan penyidikan yang dimaksudkan untuk\nmempertahankan kepastian hukum, sehingga semua pihak dapat menghindarkan\ndiri melakukan pelanggaran atau terlibat dalam pelanggaran peraturan\nperundang-undangan di bidang Perdagangan Berjangka Komoditi."
                         },
                         {
-                            "id": "fe9851d8-1f55-4c91-98aa-c4ebc0f0f89d",
+                            "id": "dbc5b6fb-8b6c-49d2-ad0a-b488de1de6d3",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Berdasarkan bukti permulaan sebagaimana dimaksud pada ayat (1), Kepala Bappebti menetapkan dilaksanakannya penyidikan sebagaimana dimaksud dalam Pasal 68 Undang-undang Nomor 32 Tahun 1997 tentang Perdagangan Berjangka Komoditi.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Berdasarkan bukti permulaan sebagaimana dimaksud pada ayat (1),\nKepala Bappebti menetapkan dilaksanakannya penyidikan\nsebagaimana dimaksud dalam Pasal 68 Undang-undang Nomor 32\nTahun 1997 tentang Perdagangan Berjangka Komoditi.",
+                            "explanation": "\nCukup jelas"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "c136b13d-b3c5-4518-844e-a0bd7355e6be",
+            "id": "aba5581d-9ab4-49ad-b1ea-ccdd0a424242",
             "name": "Chapter VII",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "744530ac-0636-4a22-ba1b-59b80f6051b7",
+                    "id": "f778eabe-6fba-4123-adc7-e286db171807",
                     "name": "Article 12",
                     "type": "article",
                     "children": {
-                        "id": "ce95dae0-fe62-4503-a01c-4241ca326949",
+                        "id": "5ad2947f-ab55-4cce-a5e2-bc4c6dd26402",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nHal ini dimaksudkan untuk menciptakan kesatuan persepsi dan kesatuan tindak\nberkenaan dengan tata cara pemeriksaan di bidang Perdagangan Berjangka Komoditi.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nKetentuan lebih lanjut yang diperlukan mengenai tata cara pemeriksaan\ndi bidang Perdagangan Berjangka Komoditi sebagaimana diatur dalam\nPeraturan Pemerintah ini, ditetapkan oleh Bappebti.",
+                        "explanation": "\nHal ini dimaksudkan untuk menciptakan kesatuan persepsi dan kesatuan tindak\nberkenaan dengan tata cara pemeriksaan di bidang Perdagangan Berjangka Komoditi."
                     }
                 },
                 {
-                    "id": "1b45da89-3955-4a2c-9b43-b69a23fd8c93",
+                    "id": "84977dd5-1acf-4deb-9089-b367ac4adf0a",
                     "name": "Article 13",
                     "type": "article",
                     "children": {
-                        "id": "881be393-5e72-4fc3-81d0-600a6ab1139d",
+                        "id": "5e8c7fec-1d66-4777-ba66-bcf86c498d6c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3806\n",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "8021932a-6080-466c-a0e3-ac6fc9374e9f",
-                    "name": "Article 1",
-                    "type": "article",
-                    "children": {
-                        "id": "cfb18f56-3d78-4987-b5b2-38e264d59020",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAngka 1\nCukup jelas\nAngka 2\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "0ba8b850-011f-4432-b22c-6c895f29d635",
-                    "name": "Article 2",
-                    "type": "article",
-                    "children": {
-                        "id": "e3b48895-47fb-4297-8387-1a83ab95cd18",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "aa82bf4e-c124-4dec-8f11-d4f9530c8d97",
-                    "name": "Article 3",
-                    "type": "article",
-                    "children": {
-                        "id": "e1535b45-d982-4366-b978-afd1ae092820",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nPasal 4\nSurat Perintah Pemeriksaan antara lain memuat nama Pemeriksa, nama Pihak yang\ndiperiksa, objek yang diperiksa, dan jangka waktu pemeriksaan.\nHuruf a\nCukup jelas\nHuruf b",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "0d08029e-e02c-4a15-a459-bff8a6dad34f",
-                    "name": "Article 5",
-                    "type": "article",
-                    "children": {
-                        "id": "bbc88abe-4c58-4ebe-94ca-e4b9b47111e9",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nHuruf a\nSurat Perintah Pemeriksaan diperlukan agar pemeriksaan hanya ditujukan terhadap Pihak yang diperiksa yang namanya tercantum dalam Surat Perintah Pemeriksaan.\nTanda Pengenal Pemeriksa dalam Pasal ini diperlukan agar pemeriksaan dilakukan hanya oleh Pemeriksa yang berwenang. Sebelum pemeriksaan dimulai, Pemeriksa wajib memperlihatkan Surat Perintah Pemeriksaan dan Tanda Pengenal Pemeriksa kepada Pihak yang akan diperiksa.\nApabila Pemeriksa tidak memperlihatkan Surat Perintah Pemeriksaan dan Tanda Pengenal Pemeriksa, atau apabila identitas Pemeriksa yang tercantum dalam Tanda Pengenal Pemeriksa tidak sesuai dengan yang tercantum dalam Surat Perintah Pemeriksaan, Pihak yang akan diperiksa berhak untuk menolak pemeriksaan.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nKetentuan ini tidak membatasi kewenangan Bappebti untuk mengumumkan hasil pemeriksaan.\nHuruf e\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "8decba7d-e1b9-4fc0-a4d8-557bd9d43229",
-                    "name": "Article 6",
-                    "type": "article",
-                    "children": {
-                        "id": "02635cc3-ff36-4281-a2e6-fde0b543170b",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "3d4e1cbf-9755-4187-b91c-3d404e071012",
-                    "name": "Article 7",
-                    "type": "article",
-                    "children": {
-                        "id": "048e4c26-b444-42ae-8d48-ef891d442c68",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nDalam pelaksanaan pemeriksaan perlu ada ketentuan-ketentuan yang mengatur hal-hal yang berkaitan antara Pemeriksa dengan Pihak yang diperiksa yang wajib dipatuhi baik oleh Pemeriksa maupun olah Pihak yang diperiksa, agar pemeriksaan dapat terlaksana dengan lancar dan tertib.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "caa2c8a7-23b1-48d5-9eeb-0441c366a11d",
-                    "name": "Article 8",
-                    "type": "article",
-                    "children": {
-                        "id": "4310fce3-4aee-41f9-a681-abc931482f57",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nYang dimaksud dengan \"membuat salinan\" dalam huruf ini adalah termasuk\npula menggandakan dengan cara memfotocopy.\nHuruf e\nCukup jelas\nHuruf f\nUntuk mencegah agar pembukuan, catatan dan/atau dokumen lainnya yang\nberhubungan dengan kegiatan Pihak yang diperiksa tidak dirusak, dimusnahkan,\ndiganti, dipalsu, dipindahtangankan dan sebagainya maka sebelum Pemeriksa\nmeninggalkan tempat atau ruangan Pihak yang diperiksa, Pemeriksa dapat\nmemerintahkan Pihak yang diperiksa untuk melakukan pengamanan terhadap\ndokumen-dokumen tersebut kepentingan proses pemeriksaan.\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "6aa43571-f89d-495f-a02e-633a80dd3f7b",
-                    "name": "Article 9",
-                    "type": "article",
-                    "children": {
-                        "id": "fb040814-02ec-419a-8c03-ebcd9f5880e8",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "b4b2772d-57f3-4dde-87c3-d1ab103492ff",
-                    "name": "Article 10",
-                    "type": "article",
-                    "children": {
-                        "id": "8ceb6f66-7a3a-4ae1-9b04-6ade5a7a523e",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nAyat (3)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "b390f230-6066-4f72-a40b-57e35ef289a3",
-                    "name": "Article 11",
-                    "type": "article",
-                    "children": {
-                        "id": "1558f5ce-bc91-4a13-a599-136f452b9c4d",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nDengan ditemukannya bukti permulaan tentang adanya tindak pidana, maka\nKepala Bappebti memerintahkan penyidikan yang dimaksudkan untuk\nmempertahankan kepastian hukum, sehingga semua pihak dapat menghindarkan\ndiri melakukan pelanggaran atau terlibat dalam pelanggaran peraturan\nperundang-undangan di bidang Perdagangan Berjangka Komoditi.\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                        "explanation": "\nCukup jelas\n"
                     }
                 }
             ]
         }
     ],
     "metadata": {
+        "Umum": "\nAgar kegiatan di bidang Perdagangan Berjangka Komoditi dapat dilaksanakan\nsecara teratur, wajar, efektif dan efisien, serta masyarakat dapat dilindungi dari kerugian\nyang timbul akibat pelanggaran dari praktik yang merugikan dan tidak sejalan dengan\nperundang-undangan di bidang Perdagangan Berjangka Komoditi, Bappebti mempunyai\nkewenangan untuk melakukan pemeriksaan terhadap setiap Pihak yang diduga\nmelakukan atau terlibat dalam pelanggaran peraturan perundang-undangan di bidang\nPerdagangan Berjangka Komoditi.\nUntuk menjamin agar pemeriksaan tersebut dapat terlaksana dengan lancar dan\ntertib dengan memperhatikan hak-hak dan kewajiban dari Pihak yang diperiksa, perlu\ndiatur dengan Peraturan Pemerintah tentang Tata Cara Pemeriksaan Di Bidang\nPerdagangan Berjangka Komoditi sebagai pelaksanaan dari ketentuan Pasal 67\nUndang-undang Nomor 32 Tahun 1997 tentang Perdagangan Berjangka Komoditi.",
         "Nomor": "10",
         "Tahun": "1999",
         "Tentang": "TATA CARA PEMERIKSAAN DI BIDANG PERDAGANGAN BERJANGKA\nKOMODITI",
@@ -435,6 +306,6 @@
             "2": " Undang-undang Nomor 32 Tahun 1997 tentang Perdagangan\nBerjangka Komoditi (Lembaran Negara Tahun 1997 Nomor 93\nTambahan Lembaran Negara Nomor 3720);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG TATA CARA\nPEMERIKSAAN DI BIDANG PERDAGANGAN BERJANGKA\nKOMODITI.",
-        "tanggal sah": ""
+        "tanggal sah": "27 Januari 1999"
     }
 }

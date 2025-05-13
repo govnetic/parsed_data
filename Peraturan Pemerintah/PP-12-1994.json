@@ -1,0 +1,73 @@
+{
+    "results": [
+        {
+            "id": "0f087352-f2bf-4e90-8d52-dcffbb87b1c2",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "58c21ca7-5c53-4911-aacc-a192dbb18636",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Besarnya persentase Nilai Jual Kena Pajak sebagai dasar perhitungan pajak terhutang sebagaimana dimaksud dalam Pasal 6 ayat (3) Undang-undang Nomor 12 Tahun 1985 tentang Pajak Bumi dan Bangunan, adalah sebagai berikut:\na. Sebesar 40 % (empat puluh persen) untuk obyek pajak perumahan yang wajib pajaknya perseorangan dengan Nilai Jual Obyek Pajak sama atau lebih besar dari Rp.1.000.000.000,00 (satu milyar rupiah).\nb. Sebesar 20 % (dua puluh persen) untuk obyek pajak lainnya.",
+                "explanation": "\nDengan ketentuan ini, maka persentase Nilai Jual Kena Pajak untuk obyek pajak\nperumahan yang wajib pajaknya perseorangan dengan Nilai Jual Obyek Pajak sama\natau lebih besar dari Rp. 1.000.000.000,00 (satu milyar rupiah), dibedakan dari\nobyek pajak lainnya yaitu besarnya tidak 20% (dua puluh perseratus) melainkan\nsebesar 40% (empat puluh perseratus)."
+            }
+        },
+        {
+            "id": "20412d94-1ce1-435f-bdf2-a6c120e8a952",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "16fb5ddf-94c7-417a-87c7-840ad3903441",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ketentuan sebagaimana diatur dalam Pasal 1 huruf a tidak berlaku untuk obyek pajak yang dimiliki, dikuasai, atau dimanfaatkan oleh Pegawai Negeri Sipil, ABRI, dan para pensiunan termasuk janda dan dudanya, yang penghasilannya semata-mata berasal dari gaji atau uang pensiun.",
+                "explanation": "\nPara pegawai negeri, anggota ABRI, dan para pensiunan termasuk janda atau\ndudanya yang penghasilannya semata-mata dari gaji atau uang pensiun pada\numumnya tergolong kurang mampu.\nKarena itu apabila mereka memiliki, menguasai, atau memanfaatkan obyek pajak\nperumahan maka Nilai Jual Obyek pajak ditetapkan sebesar 20% (dua puluh\npersen), sepanjang penghasilannya semata-mata dari gaji atau uang pensiun."
+            }
+        },
+        {
+            "id": "a345bd03-50cf-403b-987c-aee84b8f447c",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "10bdfbc6-528a-4fe8-b912-dc9a5938034e",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Dengan ditetapkannya Peraturan Pemerintah ini, maka Peraturan Pemerintah Nomor 46 Tahun 1985 tentang Penetapan Besarnya Persentase Nilai Jual Kena Pajak pada Pajak Bumi dan Bangunan, dinyatakan tidak berlaku lagi.",
+                "explanation": "\nCukup jelas"
+            }
+        },
+        {
+            "id": "0bd94568-a3dd-4b69-9340-a53d1041632e",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "c4cad527-8942-449d-894f-2886cc602619",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tahun takwim 1994.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                "explanation": "\nCukup jelas\n"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "12",
+        "Tahun": "1994",
+        "Tentang": "PENETAPAN BESARNYA PERSENTASE NILAI JUAL KENA PAJAK\nPADA PAJAK BUMI DAN BANGUNAN\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa ketentuan mengenai Besarnya Persentase Nilai Jual Kena Pajak\npada Pajak Bumi dan Bangunan sebagaimana diatur dalam Peraturan\nPemerintah Nomor 46 Tahun 1985, perlu disesuaikan dengan\nperkembangan perekonomian nasional;",
+            "b": " bahwa sehubungan dengan itu dan untuk memenuhi aspek keadilan,\ndipandang perlu menetapkan kembali Besarnya Persentase Nilai Jual\nKena Pajak pada Pajak Bumi dan Bangunan dengan Peraturan\nPemerintah."
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 12 Tahun 1985 tentang Pajak Bumi dan\nBangunan (Lembaran Negara Tahun 1985 Nomor 68, Tambahan\nLembaran Negara Nomor 3312);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG\nPENETAPAN BESARNYA PERSENTASE NILAI JUAL KΕΝΑ\nPAJAK PADA PAJAK BUMI DAN BANGUNAN.",
+        "tanggal sah": "18 Maret 1994"
+    }
+}

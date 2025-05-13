@@ -1,28 +1,28 @@
 {
     "results": [
         {
-            "id": "bc786dd6-6e93-41ab-b617-ee38c3fc168d",
+            "id": "545a3fea-1040-4146-a39c-1661622d72ef",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "f658a2bd-1728-43dc-bf87-130b7fff69e1",
+                "id": "eaf693ac-3b3c-456b-baf2-eca35690ac7b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Penghasilan terendah bagi penerima pensiun adalah Rp. 10.000,00\n(sepuluh ribu rupiah) sebulan.\n(2) Kepada penerima pensiun/tunjangan yang bersifat\npensiun/tunjangan penghargaan menurut peraturan pensiun yang\nberlaku bagi masing-masing yang berpenghasilan kurang dari Rp.\n10.000,00 (sepuluh ribu rupiah) diberikan tambahan sebesar\nselisihnya.\nPasal 2…",
+                "content": "(1) Penghasilan terendah bagi penerima pensiun adalah Rp. 10.000,00\n(sepuluh ribu rupiah) sebulan.\n(2) Kepada penerima pensiun/tunjangan yang bersifat\npensiun/tunjangan penghargaan menurut peraturan pensiun yang\nberlaku bagi masing-masing yang berpenghasilan kurang dari Rp.\n10.000,00 (sepuluh ribu rupiah) diberikan tambahan sebesar\nselisihnya.\n",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "dfe5633f-1fdc-43d5-8421-811ea67009db",
+            "id": "343aae95-fddc-4b31-b32c-25c3b75aca36",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "877d9dc1-160c-48b3-b72f-7e30ebd12ebf",
+                "id": "43c89c48-5d20-4c23-8b1e-32a8b08f8bdb",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1978.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1978.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -32,15 +32,15 @@
         "Tahun": "1978",
         "Tentang": "PENGHASILAN TERENDAH BAGI PENERIMA PENSIUN",
         "Menimbang": {
-            "Introduction": "\nbahwa dipandang perlu menetapkan penghasilan terendah bagi penerima pensiun,"
+            "Introduction": "\nbahwa dipandang perlu menetapkan penghasilan terendah bagi penerima\npensiun,"
         },
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Undang-undang Nomor 9 Tahun 1953 tentang Pemberian Tunjangan yang Bersifat Pensiun Kepada Bekas Ketua dan Bekas Anggota Dewan Perwakilan Rakyat Republik Indonesia (Lembaran Negara Tahun 1953 Nomor 36) sebagaimana telah ditambah dan diubah dengan Undang-undang Nomor 10 Tahun 1971 (Lembaran Negara Tahun 1971 Nomor 78, Tambahan Lembaran Negara Nomor 2973);",
-            "3": " Undang-undang Nomor 6 Tahun 1966 tentang Pemberian Pensiun/Tunjangan Bersifat Pensiun dan Tunjangan kepada Militer Sukarela (Lembaran Negara Tahun 1966 Nomor 33, Tambahan Lembaran Negara Nomor 2812);",
-            "4": " Undang-undang Nomor 11 Tahun 1969 tentang Pensiun Pegawai dan Pensiun Janda/Duda Pegawai (Lembaran Negara Tahun 1969 Nomor 42, Tambahan Lembaran Negara Nomor 2906);",
-            "5": " Peraturan Pemerintah Nomor 17 Tahun 1967 tentang Kedudukan Keuangan Menteri Negara Republik Indonesia (Lembaran Negara Tahun 1967 Nomor 29, Tambahan Lembaran Negara Nomor 2837) sebagaimana telah beberapa kali diubah dan ditambah terakhir dengan Peraturan Pemerintah Nomor 10 Tahun 1977 (Lembaran Negara Tahun 1977 Nomor 14);",
+            "2": " Undang-undang Nomor 9 Tahun 1953 tentang Pemberian Tunjangan\nyang Bersifat Pensiun Kepada Bekas Ketua dan Bekas Anggota\nDewan Perwakilan Rakyat Republik Indonesia (Lembaran Negara\nTahun 1953 Nomor 36) sebagaimana telah ditambah dan diubah\ndengan Undang-undang Nomor 10 Tahun 1971 (Lembaran Negara\nTahun 1971 Nomor 78, Tambahan Lembaran Negara Nomor 2973);",
+            "3": " Undang-undang Nomor 6 Tahun 1966 tentang Pemberian Pensiun/\nTunjangan Bersifat Pensiun dan Tunjangan kepada Militer Sukarela\n(Lembaran Negara Tahun 1966 Nomor 33, Tambahan Lembaran\nNegara Nomor 2812);",
+            "4": " Undang-undang Nomor 11 Tahun 1969 tentang Pensiun Pegawai\ndan Pensiun Janda/Duda Pegawai (Lembaran Negara Tahun 1969\nNomor 42, Tambahan Lembaran Negara Nomor 2906);",
+            "5": " Peraturan Pemerintah Nomor 17 Tahun 1967 tentang Kedudukan\nKeuangan Menteri Negara Republik Indonesia (Lembaran Negara\nTahun 1967 Nomor 29, Tambahan Lembaran Negara Nomor 2837)\nsebagaimana telah beberapa kali diubah dan ditambah terakhir\ndengan Peraturan Pemerintah Nomor 10 Tahun 1977 (Lembaran\nNegara Tahun 1977 Nomor 14);",
             "6": " Peraturan Pemerintah Nomor 14 Tahun 1973 tentang Tunjangan\nPenghargaan Bagi Bekas Ketua/Bekas Wakil Ketua/Bekas Anggota\nDewan Pertimbangan Agung dan Badan Pemeriksa Keuangan\n(Lembaran Negara Tahun 1973 Nomor 20);",
             "7": " Peraturan Pemerintah Nomor 15 Tahun 1974 tentang Gaji/Gaji\nKehormatan/Uang Kehormatan Ketua, Wakil Ketua, dan Anggota\nLembaga Tertinggi/Tinggi Negara (Lembaran Negara Tahun 1974\nNomor 18), sebagaimana telah diubah dan ditambah dengan\nPeraturan Pemerintah Nomor 11 Tahun 1977 (Lembaran Negara\nTahun 1977 Nomor 15);",
             "8": " Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji\nPegawai Negeri Sipil (Lembaran Negara Tahun 1977 Nomor 11,\nTambahan Lembaran Negara Nomor 3098);",

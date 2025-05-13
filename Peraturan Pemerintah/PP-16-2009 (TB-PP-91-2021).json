@@ -1,0 +1,112 @@
+{
+    "results": [
+        {
+            "id": "73974ca5-bfac-4091-af56-bfe83296ec85",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "7aee6956-25c3-4ae6-8d9b-a25ef437ed62",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Dalam Peraturan Pemerintah ini, yang dimaksud dengan:\n1. Obligasi adalah surat utang dan surat utang negara,\nyang berjangka waktu lebih dari 12 (dua belas) bulan.\n2. Bunga Obligasi adalah imbalan yang diterima dan/atau\ndiperoleh pemegang Obligasi dalam bentuk bunga\ndan/atau diskonto.",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "56b3fb10-e78c-4018-9f0a-9eed369b1266",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "4413e8f8-3b06-4c64-a234-397321e86929",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Atas penghasilan yang diterima dan/atau diperoleh\nWajib Pajak berupa Bunga Obligasi dikenai\npemotongan Pajak Penghasilan yang bersifat final.\n(2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak\nberlaku apabila penerima penghasilan berupa Bunga\nObligasi adalah:\na. Wajib Pajak dana pensiun yang pendirian atau\npembentukannya telah disahkan oleh Menteri\nKeuangan dan memenuhi persyaratan\nsebagaimana diatur dalam Pasal 4 ayat (3) huruf h\nUndang-Undang Nomor 7 Tahun 1983 tentang\nPajak Penghasilan sebagaimana telah beberapa\nkali diubah terakhir dengan Undang-Undang\nNomor 36 Tahun 2008 tentang Perubahan\nKeempat atas Undang-Undang Nomor 7 Tahun\n1983 tentang Pajak Penghasilan; dan\nb. Wajib Pajak bank yang didirikan di Indonesia atau\ncabang bank luar negeri di Indonesia.\n",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "ebcc8e04-601f-47d9-aaf3-991d1a4ce91a",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "3d8e1852-dfb9-4e10-8ab2-3ff23f69517a",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Besarnya Pajak Penghasilan sebagaimana dimaksud dalam\nPasal 2 ayat (1) adalah:\na. bunga dari Obligasi dengan kupon sebesar:\n1) 15% (lima belas persen) bagi Wajib Pajak dalam\nnegeri dan bentuk usaha tetap; dan\n2) 20% (dua puluh persen) atau sesuai dengan tarif\nberdasarkan persetujuan penghindaran pajak\nberganda bagi Wajib Pajak luar negeri selain bentuk\nusaha tetap,\ndari jumlah bruto bunga sesuai dengan masa\nkepemilikan Obligasi;\nb. diskonto dari Obligasi dengan kupon sebesar:\n1) 15% (lima belas persen) bagi Wajib Pajak dalam\nnegeri dan bentuk usaha tetap; dan\n2) 20% (dua puluh persen) atau sesuai dengan tarif\nberdasarkan persetujuan penghindaran pajak\nberganda bagi Wajib Pajak luar negeri selain bentuk\nusaha tetap,\ndari selisih lebih harga jual atau nilai nominal di atas\nharga perolehan Obligasi, tidak termasuk bunga\nberjalan;\nc. diskonto dari Obligasi tanpa bunga sebesar:\n1) 15% (lima belas persen) bagi Wajib Pajak dalam\nnegeri dan bentuk usaha tetap; dan\n2) 20% (dua puluh persen) atau sesuai dengan tarif\nberdasarkan persetujuan penghindaran pajak\nberganda bagi Wajib Pajak luar negeri selain bentuk\nusaha tetap,\ndari selisih lebih harga jual atau nilai nominal di atas\nharga perolehan Obligasi; dan\nd. bunga dan/atau diskonto dari Obligasi yang diterima\ndan/atau diperoleh Wajib Pajak reksadana yang\nterdaftar pada Badan Pengawas Pasar Modal dan\nLembaga Keuangan sebesar:\n1) 0% (nol persen) untuk tahun 2009 sampai dengan\ntahun 2010;\n\n2) 5% (lima persen) untuk tahun 2011 sampai dengan\ntahun 2013; dan\n3) 15% (lima belas persen) untuk tahun 2014 dan\nseterusnya.",
+                "explanation": "\nHuruf a\nYang dimaksud dengan \"Obligasi dengan kupon\" dikenal\ndengan istilah interest bearing debt securities.\nYang dimaksud dengan \"masa kepemilikan\" dikenal dengan\nistilah holding period.\nHuruf b\nYang dimaksud dengan \"bunga berjalan\" dikenal dengan\nistilah accrued interest.\nHuruf c\nYang dimaksud dengan \"Obligasi tanpa bunga\" dikenal dengan\nistilah non-interest bearing debt securities.\nHuruf d\nCukup Jelas."
+            }
+        },
+        {
+            "id": "a6130765-ae8b-4dc7-b5c2-981ae3552599",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "bcd426fe-f963-40fe-aad6-42a44c316261",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Pemotongan Pajak Penghasilan sebagaimana dimaksud\ndalam Pasal 2 dilakukan oleh:\na. penerbit Obligasi atau kustodian selaku agen\npembayaran yang ditunjuk, atas bunga dan/atau\ndiskonto yang diterima pemegang Obligasi dengan\nkupon pada saat jatuh tempo Bunga Obligasi, dan\ndiskonto yang diterima pemegang Obligasi tanpa bunga\npada saat jatuh tempo Obligasi; dan/atau\nb. perusahaan efek, *dealer*, atau bank, selaku pedagang\nperantara dan/atau pembeli, atas bunga dan diskonto\nyang diterima penjual Obligasi pada saat transaksi.",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "998c9a91-814b-4069-9bdc-52a2a1955bbe",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "0e3b1f9d-c607-4341-8f46-d83f283a5c16",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ketentuan lebih lanjut mengenai tata cara pemotongan,\npenyetoran, dan pelaporan Pajak Penghasilan atas Bunga\nObligasi diatur dengan atau berdasarkan Peraturan\nMenteri Keuangan.",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "d2efc418-c15d-421d-bd62-30c3c5aaa31e",
+            "name": "Article 6",
+            "type": "article",
+            "children": {
+                "id": "8e08b83d-235e-4fe1-85ee-0911580c491f",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Pada saat Peraturan Pemerintah ini mulai berlaku,\nPeraturan Pemerintah Nomor 6 Tahun 2002 tentang Pajak\nPenghasilan atas Bunga dan Diskonto Obligasi yang\nDiperdagangkan dan/atau Dilaporkan Perdagangannya di\nBursa Efek (Lembaran Negara Republik Indonesia Tahun\n2002 Nomor 11, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4175), dicabut dan dinyatakan tidak\nberlaku.",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "90865573-b61a-44f9-909b-bcc785f61a4a",
+            "name": "Article 7",
+            "type": "article",
+            "children": {
+                "id": "a2de2213-1de5-4886-8c04-98aeca3b401b",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1\nJanuari 2009.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.",
+                "explanation": "\nCukup jelas.\n"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "16",
+        "Tahun": "2009",
+        "Tentang": "PAJAK PENGHASILAN ATAS PENGHASILAN BERUPA BUNGA OBLIGASI",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa dengan dilakukan perubahan terhadap Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 36 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan, perlu dilakukan penyesuaian terhadap ketentuan Pajak Penghasilan atas penghasilan berupa bunga obligasi;",
+            "b": " bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan untuk melaksanakan ketentuan Pasal 4 ayat (2) huruf a dan Pasal 17 ayat (7) Undang-Undang Nomor 36 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan, perlu menetapkan Peraturan Pemerintah tentang Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 50, Tambahan Lembaran Negara Republik Indonesia Nomor 3263) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 36 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 133, Tambahan Lembaran Negara Republik Indonesia Nomor 4893);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PAJAK PENGHASILAN\nATAS PENGHASILAN BERUPA BUNGA OBLIGASI.",
+        "tanggal sah": "1 Januari 2009"
+    }
+}

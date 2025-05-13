@@ -1,107 +1,107 @@
 {
     "results": [
         {
-            "id": "2f26d399-099d-4e51-9b58-c85fd6b3f65f",
+            "id": "8e3828ee-106a-4763-9620-2b95406d8322",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "22501696-8fda-4718-8b51-3d89bee48e0e",
+                    "id": "06e59fe0-33dd-40c3-97db-7d7191da9e17",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "4cea8ba1-a857-4c01-a91a-42a4c65f4397",
+                        "id": "05aca3e0-3edf-4c24-b7d4-6d572669d295",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Penginderaan Jauh adalah penginderaan permukaan\n   bumi dari dirgantara dengan memanfaatkan sifat\n   gelombang elektromagnetik yang dipancarkan,\n   dipantulkan, atau dihamburkan oleh objek yang\n   diindera.\n2. Penyelenggaraan Kegiatan Penginderaan Jauh adalah\n   rangkaian pengelolaan dan pelaksanaan Penginderaan\n   Jauh.\n3. Perolehan Data adalah salah satu bentuk kegiatan\n   Penginderaan Jauh yang berupa pengumpulan data\n   tentang obyek di permukaan bumi yang berada pada\n   daerah tertentu di dalam wilayah kedaulatan Republik\n   Indonesia.\n4. Pengolahan Data adalah salah satu bentuk kegiatan\n   Penginderaan Jauh yang berupa usaha untuk\n   memperoleh informasi mengenai kualitas, kuantitas,\n   dan sebaran sumber daya alam, sumber daya buatan,\n   sarana dan prasarana nasional tentang wilayah\n   kedaulatan Republik Indonesia.\n5. Penyimpanan Data adalah salah satu bentuk kegiatan\n   Penginderaan yang berupa upaya administrasi terpadu\n   dan terpusat untuk kemanfaatan maksimal atas data\n   penginderaan jauh tentang wilayah kedaulatan\n   Republik Indonesia.\n6. Pendistribusian Data adalah salah satu bentuk\n   kegiatan Penginderaan Jauh yang berupa penyebaran\n   data primer dan data proses kepada Pengguna agar\n   dapat menghasilkan analisis informasi.\n7. Pemanfaatan Data adalah salah satu bentuk kegiatan\n   Penginderan Jauh yang menggunakan analisis\n   informasi Penginderaan Jauh dalam berbagai\n   keperluan guna mendukung pembangunan nasional.\n8. Diseminasi Informasi adalah salah satu bentuk\nkegiatan Penginderaan Jauh yang berupa penyebaran\nhasil analisis informasi Penginderaan Jauh kepada\nPengguna agar dapat memanfaatkan informasi\ntersebut.\n9. Satelit adalah wahana antariksa yang beredar\nmengelilingi bumi berfungsi sebagai sarana perolehan\ndata primer dalam kegiatan penginderaan jauh.\n10. Wahana Lain adalah sarana yang dilengkapi dengan\nperalatan tertentu untuk keperluan validasi dan\nkalibrasi, peningkatan kualitas data, dan kebutuhan\nkhusus lainnya selain dari menggunakan Satelit\nPenginderaan Jauh.\n11. Sensor adalah bagian dari sistem Penginderaan Jauh\nbumi berbasis antariksa, yang merekam gelombang\nelektromagnetik dari semua rentang spektral atau\nbidang gravimetrik, dan terdiri atas sensor pasif dan\nsensor aktif.\n12. Atmosfer adalah lapisan udara yang terdiri atas\ncampuran berbagai gas dan partikel yang menyelimuti\nbumi.\n13. Stasiun Bumi adalah fasilitas di permukaan bumi\nuntuk menerima dan merekam data Satelit\nPenginderaan Jauh resolusi menengah dan tinggi.\n14. Perangkat Penerima Teknis adalah fasilitas di\npermukaan bumi untuk pengumpulan data Satelit\npengamatan bumi resolusi rendah.\n15. Data Penginderaan Jauh adalah informasi tentang\nobjek, daerah, atau gejala di darat, laut, dan atmosfer\nserta antariksa yang diindera melalui Satelit dan/atau\nwahana lain.\n16. Citra Satelit adalah gambar yang dihasilkan dari\nkegiatan penginderaan permukaan bumi\nmenggunakan sensor yang dipasang pada Satelit.\n17. Data Resolusi Rendah adalah Citra Satelit yang\nmenggambarkan kondisi spasial secara global, seperti\npada Citra Satelit lingkungan dan cuaca.\n18. Data Resolusi Menengah adalah Citra Satelit yang\nmenggambarkan kondisi spasial teliti, seperti pada\nSatelit sumber daya alam.\n19. Data Resolusi Tinggi adalah Citra Satelit yang\nmenggambarkan kondisi spasial sangat teliti dengan\nketelitian spasial kurang dari 4 (empat) meter.\n20. Metadata adalah informasi terstruktur\nyang\nmendeskripsikan, menjelaskan, atau setidaknya\nmenjadikan suatu informasi mudah untuk ditemukan\nkembali, digunakan, atau dikelola.\n21. Permukaan Bumi adalah seluruh permukaan darat,\npermukaan laut, dan atmosfer yang dapat dijangkau\noleh teknologi Penginderaan Jauh.\n22. Koreksi Geometrik adalah proses untuk memperbaiki\nposisi/koordinat data sehingga sesuai dengan posisi di\npermukaan bumi.\n23. Koreksi Radiometrik adalah proses untuk\nmemperbaiki nilai intensitas pada data yang\ndiakibatkan oleh efek sudut dan posisi matahari saat\npencitraan, topografi permukaan bumi, kondisi\natmosfer, dan/atau sensor.\n24. Klasifikasi adalah proses pengolahan data lanjutan\nuntuk mengelompokkan objek di permukaan bumi\nberdasarkan karakteristik ketampakan dan/atau nilai\ndigital dari data tersebut.\n25. Deteksi Parameter Geobiofisik adalah proses\nidentifikasi parameter ketampakan yang menjadi ciri\ndari objek permukaan bumi seperti koefisien pantulan,\nsuhu permukaan, kandungan klorofil, kandungan air,\ndan kekasaran permukaan (surface roughness) objek.\n26. Standar adalah persyaratan teknis atau sesuatu yang\ndibakukan, termasuk tata cara dan metode yang\ndisusun\nberdasarkan\nkonsensus\nsemua\npihak/Pemerintah/keputusan internasional yang\nterkait, dengan memperhatikan syarat keselamatan,\nkeamanan, kesehatan, lingkungan hidup,\nperkembangan ilmu pengetahuan dan teknologi,\n2018, No.56\npengalaman, serta perkembangan masa kini dan masa\ndepan untuk memperoleh manfaat yang sebesar-\nbesarnya.\n27. Pemerintah Pusat adalah Presiden Republik Indonesia\nyang memegang kekuasaan pemerintahan Negara\nRepublik Indonesia yang dibantu oleh Wakil Presiden\ndan Menteri sebagaimana dimaksud dalam Undang-\nUndang Dasar Negara Republik Indonesia Tahun\n1945.\n28. Pemerintah Daerah adalah kepala daerah sebagai\nunsur penyelenggara Pemerintahan Daerah yang\nmemimpin pelaksanaan urusan pemerintahan yang\nmenjadi kewenangan daerah otonom.\n29. Instansi Pemerintah adalah kementerian dan/atau\nlembaga pemerintah nonkementerian (termasuk TNI\ndan Polri).\n30. Lembaga adalah Instansi Pemerintah yang\nmelaksanakan urusan pemerintahan di bidang\npenelitian dan pengembangan kedirgantaraan dan\npemanfaatannya\nKeantariksaan.\nserta\nPenyelenggaraan\n31. Masyarakat adalah orang perseorangan, kelompok\norang, termasuk masyarakat hukum adat, korporasi,\ndan/atau pemangku kepentingan nonpemerintah lain.\n32. Penyedia Data adalah badan usaha di dalam maupun\ndi luar negeri yang mampu menyediakan data\npenginderaan jauh.\n33. Pengguna adalah para pihak yang menggunakan data\ndan/atau informasi Penginderaan Jauh baik instansi\npemerintah, pemerintah daerah dan/atau masyarakat.\n34. Asing adalah perseorangan warga negara asing, badan\nusaha asing, dan/atau pemerintah asing.",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Penginderaan Jauh adalah penginderaan permukaan\n   bumi dari dirgantara dengan memanfaatkan sifat\n   gelombang elektromagnetik yang dipancarkan,\n   dipantulkan, atau dihamburkan oleh objek yang\n   diindera.\n2.  Penyelenggaraan Kegiatan Penginderaan Jauh adalah\n    rangkaian pengelolaan dan pelaksanaan Penginderaan\n    Jauh.\n3.  Perolehan Data adalah salah satu bentuk kegiatan\n    Penginderaan Jauh yang berupa pengumpulan data\n    tentang obyek di permukaan bumi yang berada pada\n    daerah tertentu di dalam wilayah kedaulatan Republik\n    Indonesia.\n4.  Pengolahan Data adalah salah satu bentuk kegiatan\n    Penginderaan Jauh yang berupa usaha untuk\n    memperoleh informasi mengenai kualitas, kuantitas,\n    dan sebaran sumber daya alam, sumber daya buatan,\n    sarana dan prasarana nasional tentang wilayah\n    kedaulatan Republik Indonesia.\n5.  Penyimpanan Data adalah salah satu bentuk kegiatan\n    Penginderaan yang berupa upaya administrasi terpadu\n    dan terpusat untuk kemanfaatan maksimal atas data\n    penginderaan jauh tentang wilayah kedaulatan\n    Republik Indonesia.\n6.  Pendistribusian Data adalah salah satu bentuk\n    kegiatan Penginderaan Jauh yang berupa penyebaran\n    data primer dan data proses kepada Pengguna agar\n    dapat menghasilkan analisis informasi.\n7. Pemanfaatan Data adalah salah satu bentuk kegiatan\n   Penginderan Jauh yang menggunakan analisis\n   informasi Penginderaan Jauh dalam berbagai\n   keperluan guna mendukung pembangunan nasional.\n8. Diseminasi Informasi adalah salah satu bentuk\nkegiatan Penginderaan Jauh yang berupa penyebaran\nhasil analisis informasi Penginderaan Jauh kepada\nPengguna agar dapat memanfaatkan informasi\ntersebut.\n9. Satelit adalah wahana antariksa yang beredar\nmengelilingi bumi berfungsi sebagai sarana perolehan\ndata primer dalam kegiatan penginderaan jauh.\n10. Wahana Lain adalah sarana yang dilengkapi dengan\nperalatan tertentu untuk keperluan validasi dan\nkalibrasi, peningkatan kualitas data, dan kebutuhan\nkhusus lainnya selain dari menggunakan Satelit\nPenginderaan Jauh.\n11. Sensor adalah bagian dari sistem Penginderaan Jauh\nbumi berbasis antariksa, yang merekam gelombang\nelektromagnetik dari semua rentang spektral atau\nbidang gravimetrik, dan terdiri atas sensor pasif dan\nsensor aktif.\n12. Atmosfer adalah lapisan udara yang terdiri atas\ncampuran berbagai gas dan partikel yang menyelimuti\nbumi.\n13. Stasiun Bumi adalah fasilitas di permukaan bumi\nuntuk menerima dan merekam data Satelit\nPenginderaan Jauh resolusi menengah dan tinggi.\n14. Perangkat Penerima Teknis adalah fasilitas di\npermukaan bumi untuk pengumpulan data Satelit\npengamatan bumi resolusi rendah.\n15. Data Penginderaan Jauh adalah informasi tentang\nobjek, daerah, atau gejala di darat, laut, dan atmosfer\nserta antariksa yang diindera melalui Satelit dan/atau\nwahana lain.\n16. Citra Satelit adalah gambar yang dihasilkan dari\nkegiatan penginderaan permukaan bumi\nmenggunakan sensor yang dipasang pada Satelit.\n17. Data Resolusi Rendah adalah Citra Satelit yang\nmenggambarkan kondisi spasial secara global, seperti\npada Citra Satelit lingkungan dan cuaca.\n18. Data Resolusi Menengah adalah Citra Satelit yang\nmenggambarkan kondisi spasial teliti, seperti pada\nSatelit sumber daya alam.\n19. Data Resolusi Tinggi adalah Citra Satelit yang\nmenggambarkan kondisi spasial sangat teliti dengan\nketelitian spasial kurang dari 4 (empat) meter.\n20. Metadata adalah informasi terstruktur yang\nmendeskripsikan, menjelaskan, atau setidaknya\nmenjadikan suatu informasi mudah untuk ditemukan\nkembali, digunakan, atau dikelola.\n21. Permukaan Bumi adalah seluruh permukaan darat,\npermukaan laut, dan atmosfer yang dapat dijangkau\noleh teknologi Penginderaan Jauh.\n22. Koreksi Geometrik adalah proses untuk memperbaiki\nposisi/koordinat data sehingga sesuai dengan posisi di\npermukaan bumi.\n23. Koreksi Radiometrik adalah proses untuk\nmemperbaiki nilai intensitas pada data yang\ndiakibatkan oleh efek sudut dan posisi matahari saat\npencitraan, topografi permukaan bumi, kondisi\natmosfer, dan/atau sensor.\n24. Klasifikasi adalah proses pengolahan data lanjutan\nuntuk mengelompokkan objek di permukaan bumi\nberdasarkan karakteristik ketampakan dan/atau nilai\ndigital dari data tersebut.\n25. Deteksi Parameter Geobiofisik adalah proses\nidentifikasi parameter ketampakan yang menjadi ciri\ndari objek permukaan bumi seperti koefisien pantulan,\nsuhu permukaan, kandungan klorofil, kandungan air,\ndan kekasaran permukaan (surface roughness) objek.\n26. Standar adalah persyaratan teknis atau sesuatu yang\ndibakukan, termasuk tata cara dan metode yang\ndisusun berdasarkan konsensus semua\npihak/Pemerintah/keputusan internasional yang\nterkait, dengan memperhatikan syarat keselamatan,\nkeamanan, kesehatan, lingkungan hidup,\nperkembangan ilmu pengetahuan dan teknologi,\n2018, No.56\npengalaman, serta perkembangan masa kini dan masa\ndepan untuk memperoleh manfaat yang sebesar-\nbesarnya.\n27. Pemerintah Pusat adalah Presiden Republik Indonesia\nyang memegang kekuasaan pemerintahan Negara\nRepublik Indonesia yang dibantu oleh Wakil Presiden\ndan Menteri sebagaimana dimaksud dalam Undang-\nUndang Dasar Negara Republik Indonesia Tahun\n1945.\n28. Pemerintah Daerah adalah kepala daerah sebagai\nunsur penyelenggara Pemerintahan Daerah yang\nmemimpin pelaksanaan urusan pemerintahan yang\nmenjadi kewenangan daerah otonom.\n29. Instansi Pemerintah adalah kementerian dan/atau\nlembaga pemerintah nonkementerian (termasuk TNI\ndan Polri).\n30. Lembaga adalah Instansi Pemerintah yang\nmelaksanakan urusan pemerintahan di bidang\npenelitian dan pengembangan kedirgantaraan dan\npemanfaatannya\nKeantariksaan.\nserta\nPenyelenggaraan\n31. Masyarakat adalah orang perseorangan, kelompok\norang, termasuk masyarakat hukum adat, korporasi,\ndan/atau pemangku kepentingan nonpemerintah lain.\n32. Penyedia Data adalah badan usaha di dalam maupun\ndi luar negeri yang mampu menyediakan data\npenginderaan jauh.\n33. Pengguna adalah para pihak yang menggunakan data\ndan/atau informasi Penginderaan Jauh baik instansi\npemerintah, pemerintah daerah dan/atau masyarakat.\n34. Asing adalah perseorangan warga negara asing, badan\nusaha asing, dan/atau pemerintah asing.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "2eec2749-7d8c-4adc-a667-ee384db651d7",
+                    "id": "c17d841b-29d5-4fe7-881d-f8b69e3c24e6",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "bb8ad999-2069-4257-9381-a58c1128c184",
+                        "id": "897bbf97-4556-43ed-b960-88020f237350",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mengatur mengenai Tata Cara\nPenyelenggaraan Kegiatan Penginderaan Jauh yang\nmeliputi:",
+                        "content": "\nPeraturan Pemerintah ini mengatur mengenai Tata Cara\nPenyelenggaraan Kegiatan Penginderaan Jauh yang\nmeliputi:\na. perolehan data;\nb. pengolahan data;\nc. penyimpanan dan pendistribusian data; dan\nd. pemanfaatan data dan diseminasi informasi.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "d67df4a7-7410-4e48-b155-5de2cac947f3",
+            "id": "67210420-9c7a-4a51-9c51-3b16da78620f",
             "name": "Chapter II",
             "title": "\nPEROLEHAN DATA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "9b162b95-804b-4cee-869a-9c1c2689a0ee",
+                    "id": "f04a0ccf-c95e-4860-a06e-8680f2ba77ec",
                     "name": "Section First",
                     "title": "\nUmum",
                     "type": "section",
                     "children": [
                         {
-                            "id": "ac777d53-144e-46d4-a7ea-cd2858ceade1",
+                            "id": "5e08f3ae-8e44-4492-9df0-81ac30eb1bb3",
                             "name": "Article 3",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "ad61a133-332e-4775-ab44-199a4cf9e31f",
+                                    "id": "85d1ef30-7477-4e7d-9f81-55c20ce5bef4",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Perolehan data penginderaan jauh sebagaimana dimaksud dalam Pasal 2 huruf a dilaksanakan untuk menjamin kontinuitas ketersediaan data.",
+                                    "content": " Perolehan data penginderaan jauh sebagaimana\ndimaksud dalam Pasal 2 huruf a dilaksanakan untuk\nmenjamin kontinuitas ketersediaan data.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "919525e9-5e67-4d22-8654-49c1c5a9987d",
+                                    "id": "02322e8e-84b7-42ae-bdc6-c6292069dd33",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Perolehan data penginderaan jauh sebagaimana dimaksud pada ayat (1) dilaksanakan dengan menggunakan sarana:\na. Satelit;\nb. Wahana lain;\nc. Stasiun Bumi;\nd. Perangkat Penerima Teknis; dan/atau\ne. Perangkat pengolahan data.",
+                                    "content": " Perolehan data penginderaan jauh sebagaimana\ndimaksud pada ayat (1) dilaksanakan dengan\nmenggunakan sarana:\na. Satelit;\nb. Wahana lain;\nc. Stasiun Bumi;\nd. Perangkat Penerima Teknis; dan/atau\ne. Perangkat pengolahan data.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "cf14a375-898e-4ee0-9d0f-8ea9c270b1f7",
+                            "id": "f1fd1856-f332-4625-ba2e-083a0dbb933d",
                             "name": "Article 4",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "ff773ef3-d4a9-4e02-95cf-2f004dfbdc08",
+                                    "id": "ddace237-ef35-4bb2-b2de-3b65fcbb9681",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Perolehan data penginderaan jauh sebagaimana dimaksud dalam Pasal 3 dilaksanakan melalui:\na. pengoperasian Satelit;\nb. pengoperasian Stasiun Bumi; dan/atau\nc. Citra Satelit.",
+                                    "content": " Perolehan data penginderaan jauh sebagaimana\ndimaksud dalam Pasal 3 dilaksanakan melalui:\na. pengoperasian Satelit;\nb. pengoperasian Stasiun Bumi; dan/atau\nc. Citra Satelit.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "51a85b57-b00d-4837-bf0c-fcbedf87232d",
+                                    "id": "567d52c3-2865-4265-84e3-252ef540aefb",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Perolehan data penginderaan jauh melalui pengoperasian Satelit sebagaimana dimaksud pada ayat (1) huruf a hanya dapat dilaksanakan dengan dukungan pengoperasian Stasiun Bumi.",
+                                    "content": " Perolehan data penginderaan jauh melalui\npengoperasian Satelit sebagaimana dimaksud pada\nayat (1) huruf a hanya dapat dilaksanakan dengan\ndukungan pengoperasian Stasiun Bumi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "fe89a56d-101d-48d7-b5b2-377f4687055b",
+                                    "id": "2ebe564b-17cc-44ce-9c4e-55ad45ba6cbc",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Perolehan data penginderaan jauh melalui pengoperasian Stasiun Bumi sebagaimana dimaksud\n2018, No.56\npada ayat (1) huruf b dapat dilaksanakan tanpa\npengoperasian Satelit.",
+                                    "content": " Perolehan data penginderaan jauh melalui\npengoperasian Stasiun Bumi sebagaimana dimaksud\n2018, No.56\npada ayat (1) huruf b dapat dilaksanakan tanpa\npengoperasian Satelit.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "ad0f4b39-a670-4885-82a5-2d54c01c685b",
+                                    "id": "411e0103-6837-41fe-8607-aa230ad4da92",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Selain pengoperasian Stasiun Bumi sebagaimana\ndimaksud pada ayat (1) huruf b, pengumpulan data\nSatelit pengamatan bumi resolusi rendah\ndilaksanakan dengan menggunakan Perangkat\nPenerima Teknis.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -109,24 +109,24 @@
                             ]
                         },
                         {
-                            "id": "2407aff8-64a0-477b-b799-cd90283b44a8",
+                            "id": "a8031224-0b1d-4f4c-818f-d5a27cc0d0e2",
                             "name": "Article 5",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "92bdfaaf-a87e-4da2-8105-915aecbc30e0",
+                                    "id": "2246eef2-604c-4e6d-abc4-f30acd4dfade",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Hasil perolehan data penginderaan jauh dapat berupa:\na. data primer; dan\nb. data proses.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "cafbec4d-b6fc-4619-8dc5-502bb02b952c",
+                                    "id": "999c2c34-0f07-48b3-9384-c35dfbc370f3",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Data sebagaimana dimaksud pada ayat (1) dapat\ndiklasifikasikan ke dalam:\na. resolusi rendah;\nb. resolusi menengah; dan\nC. resolusi tinggi.",
+                                    "content": " Data sebagaimana dimaksud pada ayat (1) dapat\ndiklasifikasikan ke dalam:\na. resolusi rendah;\nb. resolusi menengah; dan\nc. resolusi tinggi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
@@ -134,17 +134,17 @@
                     ]
                 },
                 {
-                    "id": "43746e2e-7c8b-4be9-9b18-7170d4838dc2",
+                    "id": "41bde1e7-e541-4c3b-b136-c1551e69e181",
                     "name": "Section Second",
                     "title": "\nPengoperasian Satelit",
                     "type": "section",
                     "children": [
                         {
-                            "id": "30465938-5705-49af-9b19-d01699596833",
+                            "id": "b9a22036-6c12-4b86-a52e-b7babb63a399",
                             "name": "Article 6",
                             "type": "article",
                             "children": {
-                                "id": "a8b4b914-463d-49b8-bfa8-728abf6c417f",
+                                "id": "679e7a5c-c0d8-4ed0-bcf1-4f880882b441",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -153,22 +153,22 @@
                             }
                         },
                         {
-                            "id": "04f79c72-4e91-476b-85b6-63be3e1988ea",
+                            "id": "ec897c8c-5e94-4c20-bf7b-eebff113e197",
                             "name": "Article 7",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "afc3cb2d-3bfa-4859-a406-3176f430f37f",
+                                    "id": "e70ff41b-2054-4541-8975-0ab7ab2108f0",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pengoperasian Satelit sebagaimana dimaksud dalam\nPasal 6 dilaksanakan oleh Lembaga.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "0c641c74-5a0a-4577-97c0-517312228568",
+                                    "id": "aae08315-a20a-4b6c-8baa-c478243555f0",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Pengoperasian Satelit oleh Lembaga sebagaimana\ndimaksud pada ayat (1) dilaksanakan melalui\nkegiatan:\na. membuat perencanaan Satelit;\nb. membangun Satelit; dan\nc. mengoperasikan Satelit.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -176,185 +176,185 @@
                             ]
                         },
                         {
-                            "id": "8c6f8876-a0ec-4b17-ad2b-6f565ed185c9",
+                            "id": "870d89ba-5352-421b-8d53-a4386507f699",
                             "name": "Article 8",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "733b9c0b-3dd1-46ef-b675-85666717e379",
+                                    "id": "e1d9deae-5b02-44cb-bece-dd6a00429028",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Dalam membuat perencanaan dan membangun Satelit sebagaimana dimaksud dalam Pasal 7 ayat (2) huruf a dan huruf b, Lembaga mempertimbangkan:\na. kepentingan misi Satelit; dan\nb. peta jalan (roadmap) pembangunan Satelit.",
+                                    "content": " Dalam membuat perencanaan dan membangun Satelit\nsebagaimana dimaksud dalam Pasal 7 ayat (2) huruf a\ndan huruf b, Lembaga mempertimbangkan:\na. kepentingan misi Satelit; dan\nb. peta jalan (roadmap) pembangunan Satelit.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "3c32d077-31e3-4f41-a62d-5997dfea5039",
+                                    "id": "d9cd884a-b417-4035-b75a-47efc6125b4c",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Dalam membuat perencanaan dan membangun Satelit sebagaimana dimaksud pada ayat (1), Lembaga dapat mengikutsertakan Instansi Pemerintah, Pemerintah Daerah, dan/atau Masyarakat.",
+                                    "content": " Dalam membuat perencanaan dan membangun Satelit\nsebagaimana dimaksud pada ayat (1), Lembaga dapat\nmengikutsertakan Instansi Pemerintah, Pemerintah\nDaerah, dan/atau Masyarakat.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "f800ac71-4798-436e-be68-76cdb9513288",
+                                    "id": "6d6c94ff-78b3-487d-9beb-e5d509af6ea1",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Ketentuan lebih lanjut mengenai tata cara keikutsertaan Instansi Pemerintah, Pemerintah Daerah, dan/atau Masyarakat dalam perencanaan dan pembangunan Satelit diatur dalam Peraturan Lembaga.",
+                                    "content": " Ketentuan lebih lanjut mengenai tata cara\nkeikutsertaan Instansi Pemerintah, Pemerintah\nDaerah, dan/atau Masyarakat dalam perencanaan dan\npembangunan Satelit diatur dalam Peraturan\nLembaga.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "b8aadc1f-96dd-4bf6-8bb2-a63d486577f8",
+                            "id": "a05fedaa-9e2f-497b-b62b-2c5881a326f3",
                             "name": "Article 9",
                             "type": "article",
                             "children": {
-                                "id": "0bd84fe5-fa7d-4f3e-b200-620a401589b0",
+                                "id": "f3aeb7fa-fcb7-4dbd-9d2f-9841ee2911ff",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nPelaksanaan perencanaan sebagaimana dimaksud dalam Pasal 7 ayat (2) huruf a ditetapkan oleh Lembaga dalam rencana strategis lima tahunan yang didasarkan pada Rencana Induk Keantariksaan.",
+                                "content": "\nPelaksanaan perencanaan sebagaimana dimaksud dalam\nPasal 7 ayat (2) huruf a ditetapkan oleh Lembaga dalam\nrencana strategis lima tahunan yang didasarkan pada\nRencana Induk Keantariksaan.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "534d3c92-e257-429c-b408-1816984ad169",
+                            "id": "ae32aa8a-3631-47ee-8c45-67e03843b043",
                             "name": "Article 10",
                             "type": "article",
                             "children": {
-                                "id": "251da717-7de5-476e-bf46-95615150f273",
+                                "id": "dff4589c-4853-4722-9b9a-b1e7595e7c68",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nDalam mengoperasikan Satelit sebagaimana dimaksud dalam Pasal 7 ayat (2) huruf c, Lembaga harus memenuhi persyaratan:\na. ketentuan internasional; dan\nb. memiliki izin penggunaan spektrum frekuensi radio sesuai dengan peraturan perundang-undangan.",
+                                "content": "\nDalam mengoperasikan Satelit sebagaimana dimaksud\ndalam Pasal 7 ayat (2) huruf c, Lembaga harus memenuhi\npersyaratan:\na. ketentuan internasional; dan\nb. memiliki izin penggunaan spektrum frekuensi radio\nsesuai dengan peraturan perundang-undangan.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "61b33d89-a78e-466c-b596-e954866fdbc6",
+                            "id": "821f5d8d-b76b-43b7-bb6a-57e9bf6d6d6b",
                             "name": "Article 11",
                             "type": "article",
                             "children": {
-                                "id": "f16e73fe-a977-4666-a155-860b7f7f444b",
+                                "id": "b36a49ee-6d4c-4563-86d0-eaa138f000ba",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nHasil Pengoperasian Satelit sebagaimana dimaksud dalam Pasal 6 berupa data primer yang akan dikirimkan secara langsung ke Stasiun Bumi.",
+                                "content": "\nHasil Pengoperasian Satelit sebagaimana dimaksud dalam\nPasal 6 berupa data primer yang akan dikirimkan secara\nlangsung ke Stasiun Bumi.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         }
                     ]
                 },
                 {
-                    "id": "18420a86-a0d6-4b9a-8b79-c9ed0ea080e0",
+                    "id": "9e6b9bf7-f337-48ff-99b6-55ec4bddac0a",
                     "name": "Section Third",
                     "title": "\nPengoperasian Stasiun Bumi",
                     "type": "section",
                     "children": [
                         {
-                            "id": "ee2a3434-846f-4925-beb3-8328e6650e1b",
+                            "id": "b99f3a40-11ab-4857-b03f-fe0e204802a6",
                             "name": "Article 12",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "edae43dd-d3c1-47d6-a70c-a1a293cd4a6a",
+                                    "id": "e17c26f5-b9b6-4a40-bba8-1fbb963d76a9",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Pengoperasian Stasiun Bumi sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf b dilaksanakan untuk menerima dan merekam data primer sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a.",
+                                    "content": " Pengoperasian Stasiun Bumi sebagaimana dimaksud\ndalam Pasal 4 ayat (1) huruf b dilaksanakan untuk\nmenerima dan merekam data primer sebagaimana\ndimaksud dalam Pasal 5 ayat (1) huruf a.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "5a7507fd-f5e1-4b9b-9215-57364d220596",
+                                    "id": "e9f7644b-6be4-4787-b7c7-3ef37054ffe7",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Data primer sebagaimana dimaksud pada ayat (1) terdiri atas resolusi menengah dan/atau resolusi tinggi.",
+                                    "content": " Data primer sebagaimana dimaksud pada ayat (1)\nterdiri atas resolusi menengah dan/atau resolusi\ntinggi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "f7a64652-36b8-410a-a6e5-39a2771b1732",
+                            "id": "dca754c0-0ce7-4a44-8bb8-4c5238cc57bc",
                             "name": "Article 13",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "77ae8e2a-ee78-41f6-81ab-8cfe326817b0",
+                                    "id": "2714ce45-1916-46bb-b90b-acbb3821d266",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Pengoperasian Stasiun Bumi sebagaimana dimaksud dalam Pasal 12 dilaksanakan melalui kegiatan:\na. membangun Stasiun Bumi; dan\nb. mengoperasikan Stasiun Bumi.",
+                                    "content": " Pengoperasian Stasiun Bumi sebagaimana dimaksud\ndalam Pasal 12 dilaksanakan melalui kegiatan:\na. membangun Stasiun Bumi; dan\nb. mengoperasikan Stasiun Bumi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "461bba76-4e22-4381-b3f0-94d1ee964722",
+                                    "id": "c28252d6-9df7-43a1-bd20-81df2491b15c",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Stasiun Bumi sebagaimana dimaksud pada ayat (1) hanya dapat dibangun dan dioperasikan oleh Lembaga.",
+                                    "content": " Stasiun Bumi sebagaimana dimaksud pada ayat (1)\nhanya dapat dibangun dan dioperasikan oleh\nLembaga.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "114f2e1f-72a4-4b70-86a1-cbe022e77103",
+                            "id": "84519841-fd1f-43e7-933d-953637ff51d7",
                             "name": "Article 14",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "47d7a357-f51a-471d-928d-cd3365e18eee",
+                                    "id": "be197d53-08e3-40a6-96d9-204b2e885570",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Pelaksanaan pengoperasian Stasiun Bumi sebagaimana dimaksud dalam Pasal 13 didahului dengan membuat rencana teknis oleh Lembaga.",
+                                    "content": " Pelaksanaan pengoperasian Stasiun Bumi\nsebagaimana dimaksud dalam Pasal 13 didahului\ndengan membuat rencana teknis oleh Lembaga.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "64479117-727d-4415-96d4-0f5a529d28f5",
+                                    "id": "d2e9e0c9-76e3-4576-bffe-24f4d9664218",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Rencana teknis sebagaimana dimaksud pada ayat (1) didasarkan pada Rencana Induk Keantariksaan.",
+                                    "content": " Rencana teknis sebagaimana dimaksud pada ayat (1)\ndidasarkan pada Rencana Induk Keantariksaan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "d9dbcd2c-6c3c-481b-9586-7fa03fb72c26",
+                                    "id": "20c6c97f-1605-4dca-85c5-25091d806b77",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Rencana teknis sebagaimana dimaksud pada ayat (2), paling sedikit memuat:\na. penentuan data Satelit yang akan diterima oleh Stasiun Bumi;\nb. penentuan spesifikasi teknis sistem Stasiun Bumi; dan\nc. penyusunan peta jalan pembangunan Stasiun Bumi.",
+                                    "content": " Rencana teknis sebagaimana dimaksud pada ayat (2),\npaling sedikit memuat:\na. penentuan data Satelit yang akan diterima oleh\nStasiun Bumi;\nb. penentuan spesifikasi teknis sistem Stasiun\nBumi; dan\nc. penyusunan peta jalan pembangunan Stasiun\nBumi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "9e483167-1e82-4878-901d-14472174653c",
+                                    "id": "05e7a001-181d-4b82-a13d-ff2ea039bb67",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
-                                    "content": " Rencana teknis sebagaimana dimaksud pada ayat (1) ditetapkan oleh Kepala Lembaga.",
+                                    "content": " Rencana teknis sebagaimana dimaksud pada ayat (1)\nditetapkan oleh Kepala Lembaga.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "f8432ac2-37bc-4792-9904-8d1a3e7c0891",
+                            "id": "0d3bf43a-804f-42d0-8fec-8d3e8dc38704",
                             "name": "Article 15",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "b5e2219a-4693-4c8f-b97f-e18fe8401f4b",
+                                    "id": "55a79a16-e383-40af-baac-3fcf8fd05d99",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Dalam membangun Stasiun Bumi sebagaimana\ndimaksud dalam Pasal 13 ayat (1) huruf a, Lembaga\nmelakukan:\na. penentuan lokasi Stasiun Bumi;\nb. pengajuan permohonan izin penggunaan\nspektrum frekuensi radio;\nc. pembangunan sarana dan prasarana; dan\nd. pemasangan instalasi sistem Stasiun Bumi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "c7359a9c-a452-4a5d-8fbd-2156fcc41ed8",
+                                    "id": "f2a07c38-01ae-42ce-9120-1485b0661894",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Dalam mengoperasikan Stasiun Bumi sebagaimana\ndimaksud dalam Pasal 13 ayat (1) huruf b, Lembaga\nmelakukan:\na. perencanaan akuisisi data Satelit;\nb. penerimaan dan perekaman data Satelit;\nc. pengolahan data primer; dan\nd. pemeliharaan Stasiun Bumi.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -362,11 +362,11 @@
                             ]
                         },
                         {
-                            "id": "384873c7-8e00-4577-bc1f-3985d336d1a2",
+                            "id": "06ed7de2-2099-4563-ad49-3deef3bf8642",
                             "name": "Article 16",
                             "type": "article",
                             "children": {
-                                "id": "0414425d-7385-4fb8-a30a-c51d042f06ec",
+                                "id": "12b413a3-0e79-4c1e-a688-38c82a2f7db5",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -375,22 +375,22 @@
                             }
                         },
                         {
-                            "id": "e83c4731-0210-4c90-99f9-1900e9e7c921",
+                            "id": "9010b90b-1236-465e-b429-de9532a8980e",
                             "name": "Article 17",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "0c293047-ebae-4b5b-b598-63317316f567",
+                                    "id": "cb7a4f5e-4b67-4717-b8d9-987d5b903d2f",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Lembaga mengajukan permohonan izin penggunaan\nspektrum frekuensi radio sebagaimana dimaksud\ndalam Pasal 15 ayat (1) huruf b kepada kementerian\nyang menyelenggarakan urusan pemerintahan di\nbidang komunikasi dan informatika.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "5f32210a-7cf3-4121-a5dc-9474b5594b97",
+                                    "id": "a00f9b81-5890-4b50-b4f1-91578adc0bbd",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Izin penggunaan spektrum frekuensi radio\nsebagaimana dimaksud pada ayat (1) diterbitkan\nsesuai dengan ketentuan peraturan perundang-\nundangan.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -398,68 +398,68 @@
                             ]
                         },
                         {
-                            "id": "9321fe03-2664-49fd-a762-0fc13d1125c0",
+                            "id": "0aede7eb-0675-4060-81a2-d9cc31625927",
                             "name": "Article 18",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "e6a5a58a-80f9-4add-b478-f1503c30e870",
+                                    "id": "4407bd58-53a9-4b03-83ff-01b3c43debdb",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Dalam hal Lembaga belum dapat melakukan\npengoperasian Satelit, Lembaga dapat melakukan\nkerja sama operasional dengan operator Asing guna\nmemperoleh data untuk pengoperasian Stasiun Bumi.",
+                                    "content": " Dalam hal Lembaga belum dapat melakukan\npengoperasian Satelit, Lembaga dapat melakukan\nkerja sama operasional dengan operator Asing guna memperoleh data untuk pengoperasian Stasiun Bumi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "41a24836-119e-4e99-8b31-287d2a59caa4",
+                                    "id": "419bcb33-bf81-4bda-ab9c-0a71cf0f12f5",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Dalam hal melakukan kerja sama operasional\nsebagaimana dimaksud pada ayat (1), Lembaga dapat\ndikenakan biaya sewa Satelit oleh operator Asing.",
+                                    "content": " Dalam hal melakukan kerja sama operasional sebagaimana dimaksud pada ayat (1), Lembaga dapat dikenakan biaya sewa Satelit oleh operator Asing.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "46903ccb-20c3-43a2-83d3-eef5c941df93",
+                                    "id": "9230768b-e8d2-4513-a8ce-dc69611f6dca",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Dalam hal menentukan operator asing sebagaimana\ndimaksud pada ayat (1) Lembaga mempertimbangkan\nkeberlanjutan ketersediaan data guna memenuhi\nkebutuhan program prioritas nasional.",
+                                    "content": " Dalam hal menentukan operator asing sebagaimana dimaksud pada ayat (1) Lembaga mempertimbangkan keberlanjutan ketersediaan data guna memenuhi kebutuhan program prioritas nasional.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "cfec746a-40e5-46bc-9b43-005fa3ca6755",
+                            "id": "f5bef7d9-0a3b-4a31-b4bb-40ebd0ca147e",
                             "name": "Article 19",
                             "type": "article",
                             "children": {
-                                "id": "e918ded2-9b96-4533-ac09-d597264a890e",
+                                "id": "045b3c2a-f82d-4058-8777-1c95ad81d159",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nPengoperasian Perangkat Penerima Teknis sebagaimana\ndimaksud dalam Pasal 3 ayat (2) huruf d dilaksanakan\nuntuk mengumpulkan data primer sebagaimana dimaksud\ndalam Pasal 5 ayat (1) huruf a dari Satelit pengamatan\nbumi resolusi rendah.",
+                                "content": "\nPengoperasian Perangkat Penerima Teknis sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf d dilaksanakan untuk mengumpulkan data primer sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a dari Satelit pengamatan bumi resolusi rendah.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "fd9c70fe-9d6b-4c31-8123-544e468ccf73",
+                            "id": "0eb27e0d-11b0-4f97-a9bd-f7c2942e1e8c",
                             "name": "Article 20",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "95fe23ad-2c3a-4e7a-a849-e86d31cdc890",
+                                    "id": "4ec6edfc-7ff8-47cb-b928-01644a84f333",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Pengoperasian Perangkat Penerima Teknis\nsebagaimana dimaksud dalam Pasal 19 dilaksanakan\nmelalui kegiatan:\na. membangun Perangkat Penerima Teknis; dan\nb. mengoperasikan Perangkat Penerima Teknis.",
+                                    "content": " Pengoperasian Perangkat Penerima Teknis sebagaimana dimaksud dalam Pasal 19 dilaksanakan melalui kegiatan:\na. membangun Perangkat Penerima Teknis; dan\nb. mengoperasikan Perangkat Penerima Teknis.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "b5eb7503-b0e9-41f4-84d3-d86e10533997",
+                                    "id": "a9ed3831-b818-4072-9f2e-f277073075f0",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Perangkat Penerima Teknis sebagaimana dimaksud\npada ayat (1) dapat dibangun dan dioperasikan oleh\nLembaga, Instansi Pemerintah, Pemerintah Daerah,\ndan/atau Masyarakat.",
+                                    "content": " Perangkat Penerima Teknis sebagaimana dimaksud pada ayat (1) dapat dibangun dan dioperasikan oleh Lembaga, Instansi Pemerintah, Pemerintah Daerah, dan/atau Masyarakat.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
@@ -467,113 +467,105 @@
                     ]
                 },
                 {
-                    "id": "9f79054a-728f-4f45-83cf-bcd6d1b0fe1f",
+                    "id": "f44d9d62-96a1-4042-9629-8d0a1cff7bb3",
                     "name": "Section Fourth",
                     "title": "\nCitra Satelit",
                     "type": "section",
                     "children": [
                         {
-                            "id": "01faa692-e348-4d97-a58f-7d34b1a90534",
+                            "id": "4cc67009-f649-426f-97b0-c34d1c498dc8",
                             "name": "Article 21",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "4f390cb7-44e7-4b4d-b730-87ba76f2f11d",
+                                    "id": "98550177-2f11-439e-a1bc-f842fa06d5c3",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Perolehan data penginderaan jauh melalui Citra Satelit\nsebagaimana dimaksud dalam Pasal 4 ayat (1) huruf c\ndilaksanakan untuk melengkapi ketersediaan data\nyang tidak dipenuhi melalui pengoperasian Satelit dan\npengoperasian Stasiun Bumi.",
-                                    "explanation": "Tidak ada Penjelasan"
-                                },
-                                {
-                                    "id": "f706057a-adf7-4436-be4f-f24f5e54772e",
-                                    "name": "Verse 2",
-                                    "number": "(2)",
-                                    "type": "verse",
-                                    "content": " Untuk melengkapi ketersediaan data sebagaimana\ndimaksud pada ayat (1) dilakukan melalui pengadaan\nCitra Satelit.",
+                                    "content": " Perolehan data penginderaan jauh melalui Citra Satelit sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf c dilaksanakan untuk melengkapi ketersediaan data yang tidak dipenuhi melalui pengoperasian Satelit dan pengoperasian Stasiun Bumi.\n2018, No.56\n(2) Untuk melengkapi ketersediaan data sebagaimana dimaksud pada ayat (1) dilakukan melalui pengadaan Citra Satelit.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "1c520a9c-8608-4bf0-ac36-cfbc56110869",
+                            "id": "13e84cef-6c1b-49bf-be45-951cbe1893bf",
                             "name": "Article 22",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "cebbcd81-529b-4dd2-986a-f0cd02f23eb8",
+                                    "id": "51e59686-d6be-4412-9ef1-e6304cd181c9",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Pengadaan Citra Satelit sebagaimana dimaksud dalam\nPasal 21 dapat diperoleh dari:\na. pembelian dari penyedia data;\nb. kerja sama dengan Asing; dan\nc. akses data yang tersedia secara bebas.",
+                                    "content": " Pengadaan Citra Satelit sebagaimana dimaksud dalam Pasal 21 dapat diperoleh dari:\na. pembelian dari penyedia data;\nb. kerja sama dengan Asing; dan\nc. akses data yang tersedia secara bebas.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "e9455de0-1bcd-47fb-a7f5-c09eac4ecb88",
+                                    "id": "d7d2f5d4-f87a-4400-8890-6961935e937c",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Pengadaan Citra Satelit sebagaimana dimaksud pada\nayat (1) dapat berupa:\na. data resolusi rendah;\nb. data resolusi menengah; atau\nc. data resolusi tinggi.",
+                                    "content": " Pengadaan Citra Satelit sebagaimana dimaksud pada ayat (1) dapat berupa:\na. data resolusi rendah;\nb. data resolusi menengah; atau\nc. data resolusi tinggi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "bd5b6875-b78a-4ea5-85f3-33cd63353a96",
+                            "id": "9c50b882-b82d-4a9c-9e48-5588dce2af15",
                             "name": "Article 23",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "a8c1f910-4070-4709-892f-6ced88ec66c8",
+                                    "id": "33d5a4b9-ce8f-4d03-9dab-0fbb90bda6db",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Pengadaan Citra Satelit sebagaimana dimaksud dalam\nPasal 22 berupa:\na. data primer; dan\nb. data proses.",
+                                    "content": " Pengadaan Citra Satelit sebagaimana dimaksud dalam Pasal 22 berupa:\na. data primer; dan\nb. data proses.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "ec8576ed-6872-4755-b279-c8bec5a5541b",
+                                    "id": "64fecd5a-0b21-4946-8972-ebd9dc7acc12",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Data primer sebagaimana dimaksud pada ayat (1)\nhuruf a merupakan data mentah dari Satelit yang\nbelum diolah yang diterima langsung oleh Stasiun\nBumi milik asing.",
+                                    "content": " Data primer sebagaimana dimaksud pada ayat (1) huruf a merupakan data mentah dari Satelit yang belum diolah yang diterima langsung oleh Stasiun Bumi milik asing.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "87a19703-09e8-4c49-aa24-43514ff0c75b",
+                                    "id": "46526f95-975d-4b62-8ae3-01806ea58f6e",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Data proses sebagaimana dimaksud pada ayat (1)\nhuruf b merupakan data siap pakai hasil pengolahan\ndata primer.",
+                                    "content": " Data proses sebagaimana dimaksud pada ayat (1) huruf b merupakan data siap pakai hasil pengolahan data primer.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "d78405c1-0758-4f85-8b75-6a958d571fd7",
+                            "id": "85717a0c-b448-4153-84f3-b6cc37edeefb",
                             "name": "Article 24",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "a5a5ce35-6c91-41d1-8ef2-4e6755f5cf78",
+                                    "id": "5c88f4f8-a5e4-4370-9fdc-5f05471c15af",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Dalam hal Instansi Pemerintah dan/atau Pemerintah\nDaerah memerlukan data resolusi tinggi sebagaimana\ndimaksud dalam Pasal 22 ayat (2) huruf c, pengadaan\nCitra Satelit hanya dapat dilaksanakan oleh Lembaga.",
+                                    "content": " Dalam hal Instansi Pemerintah dan/atau Pemerintah Daerah memerlukan data resolusi tinggi sebagaimana dimaksud dalam Pasal 22 ayat (2) huruf c, pengadaan Citra Satelit hanya dapat dilaksanakan oleh Lembaga.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "568ed1c4-de56-4e06-838c-62f46d550d21",
+                                    "id": "4ee1047f-5ed9-4c98-b84b-a611ca60c0bb",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Instansi Pemerintah dan/atau Pemerintah Daerah\ndapat melakukan pengadaan Citra Satelit resolusi\nrendah dan/atau resolusi menengah melalui\n2018, No.56\npembelian dari penyedia data sebagaimana dimaksud\ndalam Pasal 22 ayat (1) huruf a dan/atau kerja sama\ndengan Asing sebagaimana dimaksud dalam Pasal 22\nayat (1) huruf b yang bersifat komersial setelah\nberkoordinasi dengan Lembaga.",
+                                    "content": " Instansi Pemerintah dan/atau Pemerintah Daerah dapat melakukan pengadaan Citra Satelit resolusi rendah dan/atau resolusi menengah melalui\n2018, No.56\npembelian dari penyedia data sebagaimana dimaksud\ndalam Pasal 22 ayat (1) huruf a dan/atau kerja sama\ndengan Asing sebagaimana dimaksud dalam Pasal 22\nayat (1) huruf b yang bersifat komersial setelah\nberkoordinasi dengan Lembaga.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "3e82cdca-aab7-4ae6-95b8-7a47385a1ddb",
+                                    "id": "1e04a5d2-0b9a-4e87-a08c-285a4deeb7bb",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Pengadaan Citra Satelit yang dilakukan oleh Instansi\nPemerintah dan/atau Pemerintah Daerah melalui\npembelian dari penyedia data dan kerja sama dengan\nAsing yang bersifat komersial sebagaimana dimaksud\npada ayat (2) harus memenuhi persyaratan:\na. sesuai dengan kebutuhan pengguna;\nb. dilaksanakan secara selektif; dan\nc. data bersifat multi lisensi.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -581,22 +573,22 @@
                             ]
                         },
                         {
-                            "id": "ca6e17fd-8d92-413e-874d-5aca53625098",
+                            "id": "e857e441-e2a0-4739-83ff-210d8499dd04",
                             "name": "Article 25",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "9a593f62-e5d7-40c7-835f-c68b162e5b93",
+                                    "id": "56cf5fe1-395c-4f91-b433-f2d25a343439",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Dalam pengadaan Citra Satelit sebagaimana dimaksud\ndalam Pasal 24 ayat (1), Instansi Pemerintah dan/atau\nPemerintah Daerah wajib mengajukan perencanaan\nkebutuhan Citra Satelit kepada Lembaga.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "bc049896-dbca-4cf9-974d-e9103a5482e0",
+                                    "id": "25939091-9bd5-4a84-bd8c-144fb6db2b7a",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Pengajuan perencanaan kebutuhan Citra Satelit\nsebagaimana dimaksud pada ayat (1) dilengkapi\ndengan persyaratan:\na. melampirkan kerangka acuan kerja mengenai\nrencana penggunaan data;\nb. menyertakan informasi area spesifik yang diminta\natau koordinat area yang dibutuhkan;\nc. menyertakan surat pernyataan tidak mengajukan\nanggaran pengadaan Citra Satelit dalam\nAPBN/APBD;\nd. menyertakan kontak person; dan\ne. rencana kebutuhan Citra Satelit untuk tahun\nberikutnya.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -604,123 +596,123 @@
                             ]
                         },
                         {
-                            "id": "cd86c07c-7594-432a-a840-0aa7376657d0",
+                            "id": "f55fac32-731a-4577-a6c1-966a984f7c44",
                             "name": "Article 26",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "b9cf915a-5b8d-4435-956e-6e1c8feb225e",
+                                    "id": "bf022eac-986b-4d0e-a47f-a847c707f9f6",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Perencanaan kebutuhan sebagaimana dimaksud\ndalam Pasal 25 dibahas dalam Rapat Koordinasi\nNasional Citra Satelit yang diselenggarakan oleh Lembaga.",
+                                    "content": " Perencanaan kebutuhan sebagaimana dimaksud\ndalam Pasal 25 dibahas dalam Rapat Koordinasi\nNasional Citra Satelit yang diselenggarakan oleh\nLembaga.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "eb99c36a-81a8-4bd0-ba7f-850589771c5c",
+                                    "id": "96e974e6-dd19-4568-beb6-c01d67292b2d",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Rapat Koordinasi Nasional Citra Satelit diselenggarakan dengan melibatkan Instansi Pemerintah, Pemerintah Daerah, kementerian yang menyelenggarakan urusan pemerintahan di bidang keuangan dan badan yang menyelenggarakan urusan pemerintahan di bidang perencanaan pembangunan nasional.",
+                                    "content": " Rapat Koordinasi Nasional Citra Satelit\ndiselenggarakan dengan melibatkan Instansi\nPemerintah, Pemerintah Daerah, kementerian yang\nmenyelenggarakan urusan pemerintahan di bidang\nkeuangan dan badan yang menyelenggarakan urusan\npemerintahan di bidang perencanaan pembangunan\nnasional.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "44cb5185-a2ce-4803-ade3-5a5ac93cd552",
+                                    "id": "c11adfdc-c3ba-44e6-8eab-36eb8ce9aa26",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Rapat Koordinasi Nasional Citra Satelit sebagaimana dimaksud pada ayat (1) untuk pengadaan Citra Satelit tahun berikutnya, dilaksanakan paling sedikit 1 (satu) kali dalam setahun dengan memperhatikan siklus penyusunan Anggaran Pendapatan dan Belanja Negara sesuai dengan ketentuan peraturan perundang-undangan.",
+                                    "content": " Rapat Koordinasi Nasional Citra Satelit sebagaimana\ndimaksud pada ayat (1) untuk pengadaan Citra Satelit\ntahun berikutnya, dilaksanakan paling sedikit 1 (satu)\nkali dalam setahun dengan memperhatikan siklus\npenyusunan Anggaran Pendapatan dan Belanja Negara\nsesuai dengan ketentuan peraturan perundang-\nundangan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "5ae82f76-54dd-4227-82d3-317d2a292752",
+                            "id": "d4b7b461-a14f-4b6d-804d-395bedb7f66a",
                             "name": "Article 27",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "e1d12187-f7b4-4a13-bd68-ec1d7b074361",
+                                    "id": "3dc8eafd-42fa-4365-9441-a6ade0d48d03",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Dalam keadaan tertentu, Instansi Pemerintah dan/atau Pemerintah Daerah dapat melakukan pengadaan Citra Satelit di luar ketentuan sebagaimana dimaksud dalam Pasal 24 dan Pasal 25.",
+                                    "content": " Dalam keadaan tertentu, Instansi Pemerintah\ndan/atau Pemerintah Daerah dapat melakukan\npengadaan Citra Satelit di luar ketentuan\nsebagaimana dimaksud dalam Pasal 24 dan Pasal 25.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "610522bb-0c00-4244-8224-e3d353258f8a",
+                                    "id": "16860fdc-155a-45e3-8be6-37cc3f8d4508",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Keadaan tertentu sebagaimana dimaksud pada ayat (1) mencakup:\na. kepentingan pertahanan dan keamanan negara (stabilitas nasional);\nb. kepentingan darurat kebencanaan; atau\n \nC. kepentingan strategis lainnya.",
+                                    "content": " Keadaan tertentu sebagaimana dimaksud pada ayat (1)\nmencakup:\na. kepentingan pertahanan dan keamanan negara\n(stabilitas nasional);\nb. kepentingan darurat kebencanaan; atau\nC. kepentingan strategis lainnya.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "80696006-b4e9-4bfa-84d3-abdaf864f33a",
+                            "id": "3978ac0c-8f65-4d52-9a84-d839719a1402",
                             "name": "Article 28",
                             "type": "article",
                             "children": {
-                                "id": "e9a2db8d-f717-4217-be12-812e075b2539",
+                                "id": "9348f133-55de-4402-9a93-c934b02d2db4",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nPengadaan Citra Satelit yang dikenai tarif komersial dan/atau resolusi tinggi untuk wilayah strategis oleh Masyarakat wajib memperoleh izin dari kementerian yang menyelenggarakan urusan pemerintahan di bidang pertahanan dan keamanan.",
+                                "content": "\nPengadaan Citra Satelit yang dikenai tarif komersial\ndan/atau resolusi tinggi untuk wilayah strategis oleh\nMasyarakat wajib memperoleh izin dari kementerian yang\nmenyelenggarakan urusan pemerintahan di bidang\npertahanan dan keamanan.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         }
                     ]
                 },
                 {
-                    "id": "0c950cad-1071-45fa-8752-e6a810068c55",
+                    "id": "cb580006-e777-4961-a42f-eea8082b1274",
                     "name": "Section Fifth",
                     "title": "\nValidasi dan Kalibrasi Data Penginderaan Jauh",
                     "type": "section",
                     "children": [
                         {
-                            "id": "44a69537-657e-4d7a-8c0f-24001f956fa7",
+                            "id": "e1e4302d-b52f-4ad7-b4ca-2b7b73762dee",
                             "name": "Article 29",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "dbff6752-e7e3-42e5-abee-80f501633542",
+                                    "id": "ccf03a4b-4e9b-4d2c-9267-3b9b3fb6c4de",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Dalam rangka keperluan validasi dan kalibrasi data\npenginderaan jauh, peningkatan kualitas data\npenginderaan jauh serta kebutuhan khusus lainnya,\nLembaga dapat melakukan pengoperasian wahana\nlain.",
+                                    "content": " Dalam rangka keperluan validasi dan kalibrasi data penginderaan jauh, peningkatan kualitas data penginderaan jauh serta kebutuhan khusus lainnya, Lembaga dapat melakukan pengoperasian wahana lain.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "87ca947e-288e-40e7-abec-ae1fb89d6dec",
+                                    "id": "ccaf3ae6-5183-48e1-b096-537c00b56707",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Pengoperasian wahana lain sebagaimana dimaksud\npada ayat (1) dapat dilaksanakan dengan\nmenggunakan:\na. wahana udara;\nb. wahana darat; atau\nc. wahana laut.",
+                                    "content": " Pengoperasian wahana lain sebagaimana dimaksud pada ayat (1) dapat dilaksanakan dengan menggunakan:\na. wahana udara;\nb. wahana darat; atau\nc. wahana laut.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "747db5b2-0cfa-4350-92ba-d9249b938848",
+                                    "id": "b57293c7-e2dc-423a-b997-d22d6c38957f",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Penggunaan wahana lain sebagaimana dimaksud pada\nayat (2) dilengkapi dengan:\na. sensor aktif;\nb. sensor pasif; dan/atau\nc. alat ukur terestrial.",
+                                    "content": " Penggunaan wahana lain sebagaimana dimaksud pada ayat (2) dilengkapi dengan:\na. sensor aktif;\nb. sensor pasif; dan/atau\nc. alat ukur terestrial.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "b7e80310-abff-44dd-9fd2-df2058818f45",
+                                    "id": "ec4d3497-cd8f-4ce6-89c5-a065fef374a7",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
-                                    "content": " Pengoperasian wahana lain sebagaimana dimaksud\npada ayat (2) dilaksanakan oleh Lembaga, Instansi\nPemerintah, Pemerintah Daerah, dan/atau Masyarakat\nsesuai dengan peraturan perundang-undangan.",
+                                    "content": " Pengoperasian wahana lain sebagaimana dimaksud pada ayat (2) dilaksanakan oleh Lembaga, Instansi Pemerintah, Pemerintah Daerah, dan/atau Masyarakat sesuai dengan peraturan perundang-undangan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "43b3478b-a653-4e17-9453-8af8e6cb6163",
+                                    "id": "5f8f9a1d-b63f-42af-a515-e88c0bf78fb7",
                                     "name": "Verse 5",
-                                    "number": "(5)",
+                                    "number": "5",
                                     "type": "verse",
-                                    "content": " Pengoperasian Wahana lain untuk keperluan validasi\ndan kalibrasi data penginderaan jauh sebagaimana\ndimaksud pada ayat (4) wajib berkoordinasi dengan\nLembaga.\n2018, No.56",
+                                    "content": " Pengoperasian Wahana lain untuk keperluan validasi dan kalibrasi data penginderaan jauh sebagaimana dimaksud pada ayat (4) wajib berkoordinasi dengan Lembaga.\n2018, No.56",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
@@ -730,23 +722,23 @@
             ]
         },
         {
-            "id": "fa0a37a9-6b80-4256-9118-31bffc5cc47c",
+            "id": "c30c00de-4be5-46a8-97e8-a3d7198fe82e",
             "name": "Chapter III",
             "title": "\nPENGOLAHAN DATA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "cdc61bf8-51f7-48ec-a2e0-0d2b62fd5745",
+                    "id": "3282a53b-e524-45c2-bbf2-bc11b0feecb5",
                     "name": "Section First",
                     "title": "\nUmum",
                     "type": "section",
                     "children": [
                         {
-                            "id": "d706dfa1-50b7-49da-bbc2-88a193e80577",
+                            "id": "e76b0afc-2315-45ed-b6ae-d90da1846387",
                             "name": "Article 30",
                             "type": "article",
                             "children": {
-                                "id": "0e50137a-f0d6-4b39-a2f1-cefe77a2cc65",
+                                "id": "eb5a4d27-6ee2-43ca-9e5f-25798bbe8407",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -755,11 +747,11 @@
                             }
                         },
                         {
-                            "id": "df9a6337-1a98-4628-8b87-9555ac839e7f",
+                            "id": "245ccbad-cef0-4dab-a510-66644077fcb7",
                             "name": "Article 31",
                             "type": "article",
                             "children": {
-                                "id": "e61446a5-044d-4ce6-b522-7e019e99e56e",
+                                "id": "1092bf54-11e4-46c8-a4fb-f41afbda0fea",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -768,61 +760,53 @@
                             }
                         },
                         {
-                            "id": "4b590fe4-abf0-41ec-a7a5-be0a7e08ae63",
+                            "id": "d772a4c2-a48f-40dd-ad9e-6e42c70a4344",
                             "name": "Article 32",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "d6f22bf4-8505-491b-8a6e-b56744fa9252",
+                                    "id": "add20c89-bf7d-4ba3-b707-e47bd85d314b",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " huruf a, hanya dilaksanakan oleh Lembaga\ndan/atau badan yang menyelenggarakan urusan\npemerintahan di bidang informasi geospasial.",
+                                    "content": " Pengolahan Data penginderaan jauh untuk mengolah\ndata primer menjadi data proses sebagaimana\ndimaksud dalam Pasal 30 huruf a meliputi:\na. koreksi geometrik; dan\nb. koreksi radiometrik;\n(2) Dalam melakukan koreksi geometrik sebagaimana\ndimaksud pada ayat (1) huruf a, wajib mengacu pada\ninformasi geospasial dasar sesuai dengan ketentuan\nperaturan perundang-undangan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "caa23bc1-d8ca-479b-a35c-3f5564e44769",
-                                    "name": "Verse 2",
-                                    "number": "(2)",
-                                    "type": "verse",
-                                    "content": " Dalam melakukan koreksi geometrik sebagaimana\ndimaksud pada ayat (1) huruf a, wajib mengacu pada\ninformasi geospasial dasar sesuai dengan ketentuan\nperaturan perundang-undangan.",
-                                    "explanation": "Tidak ada Penjelasan"
-                                },
-                                {
-                                    "id": "4a01b183-ccad-42e9-9b00-c70db7e16639",
+                                    "id": "6411a484-9590-4d63-84e0-1fdf39f4d802",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Koreksi geometrik sebagaimana dimaksud pada ayat",
+                                    "content": " Koreksi geometrik sebagaimana dimaksud pada ayat\n(1) huruf a, digunakan sebagai dasar pembuatan\ninformasi geospasial tematik.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "63bad748-f47c-4686-bd9c-a2c988407e35",
+                                    "id": "28328cd1-5b38-4416-8bdf-36427aa36b7f",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
-                                    "content": " Koreksi geometrik sebagaimana dimaksud pada ayat",
+                                    "content": " Koreksi geometrik sebagaimana dimaksud pada ayat\n(1) huruf a, hanya dilaksanakan oleh Lembaga\ndan/atau badan yang menyelenggarakan urusan\npemerintahan di bidang informasi geospasial.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "271a7180-5f26-438e-9ccc-095d94cc05c3",
+                            "id": "be89fab6-99e4-4f86-8908-e3446649a5fe",
                             "name": "Article 33",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "c7e4ff16-01ff-418f-ae88-b00a3179b4eb",
+                                    "id": "7794c47b-0e70-4732-9bb3-dfb76c39e913",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pengolahan Data Penginderaan Jauh untuk mengolah\ndata proses menjadi analisis informasi sebagaimana\ndimaksud dalam Pasal 30 huruf b meliputi:\na.\nklasifikasi; dan\nb. deteksi parameter geobiofisik.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "0551b327-9b93-44b1-96ac-2b1ff998cba7",
+                                    "id": "294b1126-86e1-4867-89cb-47fc6bc6d6cf",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Deteksi parameter geobiofisik sebagaimana dimaksud\npada ayat (1) huruf b, digunakan untuk identifikasi\nparameter ketampakan ciri objek permukaan bumi\ntermasuk atmosfer.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -832,36 +816,36 @@
                     ]
                 },
                 {
-                    "id": "a0429e62-b454-4c72-bad5-b4a52abd5b6e",
+                    "id": "b74d31a9-0908-420b-9418-a4b3939f00c1",
                     "name": "Section Second",
                     "title": "\nMetode dan Kualitas Pengolahan Data Penginderaan Jauh",
                     "type": "section",
                     "children": [
                         {
-                            "id": "44cee4f3-373a-477d-a0fb-88b661976bc2",
+                            "id": "9919d1f8-074b-4ce7-881b-403ec1298e6a",
                             "name": "Article 34",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "b680afce-ebb6-4fda-a42b-2e0e95b5079d",
+                                    "id": "302a77ad-827c-4bfd-8142-277c20ac3d2b",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pengolahan Data Penginderaan Jauh sebagaimana\ndimaksud dalam Pasal 31 wajib mengacu pada metode\ndan kualitas Pengolahan Data Penginderaan Jauh.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "d0fb66ac-3cc5-474a-8805-1d5f649e6b56",
+                                    "id": "a2ad2e4c-b1b4-4fb5-a8b1-81838457f364",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Metode dan kualitas Pengolahan Data Penginderaan\nJauh sebagaimana dimaksud pada ayat (1) dapat\ndisempurnakan secara terencana, terarah, dan\nberkelanjutan sesuai dengan perkembangan ilmu\npengetahuan dan teknologi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "8e099f6d-482f-4d42-bb73-234f862506af",
+                                    "id": "bf2c5d6c-9fed-4a21-8bff-37f6622e0e23",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Ketentuan mengenai metode dan kualitas Pengolahan\nData Penginderaan Jauh diatur dalam Peraturan\nLembaga.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -869,11 +853,11 @@
                             ]
                         },
                         {
-                            "id": "9f1c7ab8-5115-42db-9515-32e5ebc4f19d",
+                            "id": "b28a2b3c-a0f3-4832-8a03-2eb3d80ddb72",
                             "name": "Article 35",
                             "type": "article",
                             "children": {
-                                "id": "8872756d-7f4d-48c4-ab7a-236bdda0a688",
+                                "id": "396affe5-a710-41e5-add3-175585cce5be",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -886,17 +870,17 @@
             ]
         },
         {
-            "id": "e3075358-966a-4de1-88cb-f885a8289ef5",
+            "id": "9ba760ad-11d9-45db-807a-50425aeaa1d7",
             "name": "Chapter IV",
             "title": "\nPENYIMPANAN DAN PENDISTRIBUSIAN DATA\nPENGINDERAAN JAUH",
             "type": "chapter",
             "children": [
                 {
-                    "id": "54f0b895-483d-4495-b8ed-3a64d0f3b420",
+                    "id": "b2dfcf7a-ef72-4cf4-b074-39d2b23a7138",
                     "name": "Article 36",
                     "type": "article",
                     "children": {
-                        "id": "eb036416-ee93-4e68-8a55-3e50aa790fd6",
+                        "id": "9333f5ef-33e6-4dfa-b1aa-0915ab492c9f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -905,22 +889,22 @@
                     }
                 },
                 {
-                    "id": "fc4436c3-cf91-4841-8361-b84658b158c8",
+                    "id": "bedf8533-18a1-41f9-af01-17f2733e9801",
                     "name": "Article 37",
                     "type": "article",
                     "children": [
                         {
-                            "id": "6595e93f-d321-4004-a89c-1d8b25b9ea13",
+                            "id": "fce2afdb-c7d6-4d7f-8aed-0b12e630eb11",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penyimpanan dan pendistribusian data penginderaan\njauh sebagaimana dimaksud dalam Pasal 36, dapat\ndilaksanakan oleh Lembaga, Instansi Pemerintah,\nPemerintah Daerah, dan/atau Masyarakat sesuai\ndengan ketentuan yang diatur dalam perjanjian\nlisensi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "169695dc-d3fa-4964-8b9b-03cbfa7b1b69",
+                            "id": "425d60bc-4bfc-43ed-ae50-96b7e2e14dac",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Instansi Pemerintah Penyelenggara Penginderaan Jauh\nwajib menyerahkan metadata dan duplikat data\npenginderaan jauh kepada Lembaga, kecuali\nditentukan lain berdasarkan perjanjian lisensi.",
                             "explanation": "Tidak ada Penjelasan"
@@ -928,30 +912,30 @@
                     ]
                 },
                 {
-                    "id": "ce2648ee-f2c7-49ef-af6d-d526341f8dfb",
+                    "id": "02978fc3-9aa0-43cd-8b5c-5699a4a888a2",
                     "name": "Article 38",
                     "type": "article",
                     "children": [
                         {
-                            "id": "35cbbf9b-a5fe-4e19-bd3f-4cc149c9d72e",
+                            "id": "1dccbf0a-cf55-45cd-a5c2-714c210e2a21",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Lembaga dalam menyelenggarakan penyimpanan dan\npendistribusian Data Penginderaan Jauh sebagaimana\ndimaksud dalam Pasal 37 wajib:\na. mengumpulkan, menyimpan, mendistribusikan\nmetadata dan data penginderaan jauh wilayah\nIndonesia;\nb. menyediakan data penginderaan dengan tutupan\nawan minimal dan bebas awan setiap tahun\nuntuk seluruh wilayah Indonesia;\nc. menyediakan informasi mengenai kualitas data\npenginderaan jauh;\nd. memberikan supervisi terkait pemanfaatan data\npenginderaan jauh;\ne. memberikan masukan kepada pemerintah\nmengenai kebijakan pengadaaan pemanfaatan,\npenguasaan teknologi, dan data penginderaan\njauh Satelit;\nf. menjadi simpul data penginderaan jauh Satelit\ndalam sistem jaringan informasi geospasial\nnasional; dan\ng. menyediakan fasilitas pengolahan data\npenginderaan jauh bagi para Pengguna di luar\nLembaga.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9106b1a1-cb1f-4d8e-b972-e80b46a65a71",
+                            "id": "ee48ebe0-f1ca-4c57-8527-1c1fbc83430b",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Penyimpanan dan Pendistribusian Data Penginderaan\nJauh sebagaimana dimaksud pada ayat (1),\ndilaksanakan melalui Bank Data Penginderaan Jauh\nNasional.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e7ff9f37-8f63-4a1e-ac17-d9c8cf3a47a8",
+                            "id": "cc721eab-0705-4e10-93c2-3e9b1684d27e",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Ketentuan mengenai Penyimpanan dan\nPendistribusian Data Penginderaan Jauh sebagaimana\ndimaksud pada ayat (2), diatur dalam Peraturan\nLembaga.",
                             "explanation": "Tidak ada Penjelasan"
@@ -959,85 +943,85 @@
                     ]
                 },
                 {
-                    "id": "87f379bb-fb23-4c0d-a2b5-8876e8659ce5",
+                    "id": "f7efd790-0e3c-4a55-8b65-958248c14b61",
                     "name": "Article 39",
                     "type": "article",
                     "children": [
                         {
-                            "id": "de4256dd-fe18-4052-a7fc-30f8f4582f8f",
+                            "id": "eeac7d30-7f52-4587-a0e1-46e72dae1239",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Setiap penyelenggara Penginderaan Jauh selain\nLembaga dan Instansi Pemerintah dalam jangka waktu\n6 (enam) bulan setelah menghasilkan/mendapatkan\nmetadata wajib menyerahkan metadata Penginderaan\nJauh kepada Lembaga, kecuali ditentukan lain\nberdasarkan perjanjian lisensi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9443be1b-2b1d-4533-b5d7-6de6579148b2",
+                            "id": "ec9d0e6a-bf40-4adc-8b98-2c5a6d553a44",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " berupa:\na. peringatan tertulis; dan/atau\nb. denda administratif;",
+                            "content": " Dalam hal penyelenggara Penginderaan Jauh selain\nLembaga dan Instansi Pemerintah sebagaimana\ndimaksud pada ayat (1) tidak menyerahkan metadata\nPenginderaan Jauh kepada Lembaga maka dapat\ndikenai sanksi administratif.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6145171a-08e0-4aeb-9d33-9fe430237dca",
+                            "id": "de87db5a-c086-430a-a81c-eb28502d24c8",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Sanksi administratif sebagaimana dimaksud pada ayat",
+                            "content": " Sanksi administratif sebagaimana dimaksud pada ayat\n(2) berupa:\na. peringatan tertulis; dan/atau\nb. denda administratif;",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "9eddcc8a-51b6-443d-89da-0c3f3fbb4790",
+                    "id": "fd53dbbe-6644-4fde-9b0e-2ac7ec58fbf6",
                     "name": "Article 40",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9a4a3446-eec1-4370-a8ed-ee9fda542a10",
+                            "id": "6e6ad48f-9817-4c30-a83d-46253422ccac",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pelaksanaan sanksi administratif sebagaimana dimaksud dalam Pasal 39 dikenakan secara berjenjang dari yang ringan sampai berat.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "529390ef-8405-4977-bc50-efa8ad1df653",
+                            "id": "03662ab5-db42-4c7b-a09c-11c3bccd19b5",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Sanksi peringatan tertulis sebagaimana dimaksud dalam Pasal 39 ayat (3) huruf a diberikan secara tertulis paling banyak 3 (tiga) kali berturut-turut dengan tenggang waktu masing-masing 1 (satu) bulan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2f15e75e-0f29-439c-9a6a-5dd8f76ddf5a",
+                            "id": "c81847ea-3282-4c4d-b056-c595fd3cc788",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Apabila dalam waktu 1 (satu) bulan setelah peringatan ketiga diberikan sebagaimana dimaksud pada ayat (2) setiap orang yang tidak menyerahkan metadata dikenakan sanksi denda administratif.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "928c192c-6623-4beb-be4b-46c1142fc353",
+                            "id": "35150d44-d3aa-481c-a591-165c8c9dbfd5",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Denda administratif sebagaimana dimaksud pada ayat (3) dikenakan sebesar Rp100.000.000,00 (seratus juta rupiah).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f07d0143-ad32-49e4-85cf-46711e008a41",
+                            "id": "a3dc1f7b-636b-43eb-8031-68bf76f386d0",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Apabila denda administratif tidak dibayar maka penyelenggara dikenakan bunga atas denda sebesar 2% (dua persen) per bulan beserta peringatan pelunasan dalam jangka waktu paling lama 2 (dua) bulan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4f8dc695-363c-4209-b842-4381736faef2",
+                            "id": "11494fcb-e4e8-40e4-87e2-b4ed31b9cf29",
                             "name": "Verse 6",
-                            "number": "(6)",
+                            "number": "6",
                             "type": "verse",
                             "content": " Apabila dalam jangka waktu sebagaimana dimaksud pada ayat (4) tidak dipenuhi maka:\na. piutang tersebut dikategorikan sebagai piutang macet yang pengurusannya diserahkan kepada instansi yang berwenang mengurus Piutang Negara untuk diproses lebih lanjut penyelesaiannya; dan\nb. Kepala Lembaga menyampaikan rekomendasi kepada instansi pemerintah yang memberikan izin yang terkait dengan kegiatan penginderaan jauh untuk memberikan sanksi administrasi berupa penghentian sementara sebagian atau seluruh kegiatan, atau mencabut izin sebagaimana dimaksud dalam Pasal 94 ayat (2) huruf b dan huruf e Undang-Undang Nomor 21 Tahun 2013 tentang Keantariksaan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1045,11 +1029,11 @@
                     ]
                 },
                 {
-                    "id": "56c59c54-38b6-4443-b51f-dffd6d6f3d12",
+                    "id": "0285b100-cd29-4b89-a45d-ce5fa049497f",
                     "name": "Article 41",
                     "type": "article",
                     "children": {
-                        "id": "076c0611-d18d-42aa-9ef1-cde56081af03",
+                        "id": "5d90b212-9e8c-4af0-b4f5-8a7bc142dec3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1058,11 +1042,11 @@
                     }
                 },
                 {
-                    "id": "fc9b420f-a4cf-41f5-839a-b58fb93839ab",
+                    "id": "6b58d1b5-5e4c-45fe-9038-8da15b3a6a1a",
                     "name": "Article 42",
                     "type": "article",
                     "children": {
-                        "id": "5e486e6c-7f46-4b9a-ad44-5f9a06146f80",
+                        "id": "ecb2cb52-5479-4030-b4ae-14129dae5fb8",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1071,11 +1055,11 @@
                     }
                 },
                 {
-                    "id": "499a51b8-069f-4446-bcfa-7210de713890",
+                    "id": "eddc35d8-c0b7-452a-b335-62446a364a29",
                     "name": "Article 43",
                     "type": "article",
                     "children": {
-                        "id": "d77943e1-ce81-438b-93c6-719127e76213",
+                        "id": "47455852-7abd-42b0-8242-57071aecb9d0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1084,22 +1068,22 @@
                     }
                 },
                 {
-                    "id": "a6fb2d65-5104-4625-9838-42b2348ef093",
+                    "id": "efe0b4da-7d72-472f-91cf-3f528a09d57d",
                     "name": "Article 44",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f2cfd68a-7819-41aa-92d1-0a7779c15ab9",
+                            "id": "3c802634-f09b-4990-9afd-b2bcab596bb4",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam mendapatkan Data Penginderaan Jauh,\nPengguna berhak menolak jika data penginderaan\njauh yang diterima tidak berkualitas.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "46e8a61c-b727-4ab9-b5d2-1c735694f92d",
+                            "id": "1758d815-90b2-40ca-a284-8ce0c590b49f",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Ketentuan mengenai kualitas data penginderaan jauh\nsebagaimana dimaksud pada ayat (1) mengacu pada\nmetode dan kualitas Pengolahan Data Penginderaan\nJauh yang diatur dalam Peraturan Lembaga\nsebagaimana dimaksud dalam Pasal 34 ayat (3).",
                             "explanation": "Tidak ada Penjelasan"
@@ -1107,38 +1091,38 @@
                     ]
                 },
                 {
-                    "id": "63f2f989-cdd3-4810-939a-020ad5c35d0a",
+                    "id": "37d59569-de81-42d7-b48c-99879b31a077",
                     "name": "Article 45",
                     "type": "article",
                     "children": [
                         {
-                            "id": "22925d30-db6c-40bf-85d6-12d3f9262759",
+                            "id": "6c251fb5-ca88-436e-8a6a-2f59e2d18cc9",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam rangka melestarikan Data Penginderaan Jauh,\nInstansi Pemerintah dan/atau Pemerintah Daerah\nyang memiliki arsip Data Penginderaan Jauh resolusi\nrendah, menengah dan tinggi wajib menyimpan data\ntersebut.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "187ff9a1-e748-4da4-9ec4-4a126e1e6e85",
+                            "id": "8f0273cb-a99d-4136-9ff7-b4d20b2c4f05",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dalam hal Instansi Pemerintah dan/atau Pemerintah\nDaerah sebagaimana dimaksud pada ayat (1) tidak\ndapat melakukan penyimpanan dan/atau tidak\nmemiliki fasilitas untuk melaksanakannya,\npenyimpanan data wajib diserahkan kepada Lembaga\nkecuali ditentukan lain berdasarkan perjanjian lisensi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d84ff6fb-fd73-4825-b997-73f3a95b4304",
+                            "id": "c14cb777-742f-4ad9-8e22-4a32ad2a0166",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dalam hal pelaksanaan ketentuan sebagaimana\ndimaksud pada ayat (1), Instansi Pemerintah dan/atau\nPemerintah Daerah wajib menyerahkan kepada\nLembaga berupa:\na. metadata Penginderaan Jauh; dan\nb. duplikat data Penginderaan Jauh,\nkecuali ditentukan lain berdasarkan perjanjian lisensi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "16ca37ed-b912-4168-bc0e-971124f58670",
+                            "id": "d9349d8a-a0de-4929-b170-6c870792cba7",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Dalam hal Instansi Pemerintah dan/atau Pemerintah\nDaerah tidak dapat menyerahkan metadata dan\nduplikat data dikarenakan adanya perjanjian lisensi\nsebagaimana dimaksud pada ayat (3), maka wajib\nmenyerahkan cuplikan citra satelit secara menyeluruh\ndisertai informasi yang meliputi:\na. nama satelit dan sensor;\nb. tanggal dan waktu perolehan data; dan\nC. koordinat cakupan wilayah.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1146,11 +1130,11 @@
                     ]
                 },
                 {
-                    "id": "33a1e252-4e8b-475e-9ef6-b7fb853d415f",
+                    "id": "efb99c7e-5d75-4ec7-95d3-42dffb1404ee",
                     "name": "Article 46",
                     "type": "article",
                     "children": {
-                        "id": "10723bda-9d6d-4532-9eb2-e654d6d4f323",
+                        "id": "3bf13140-1e78-4044-8d34-7c6ce72ebeb2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1161,28 +1145,28 @@
             ]
         },
         {
-            "id": "cb5bcca6-24ff-44f5-9fcf-108a0a0eab89",
+            "id": "889f1c63-51fd-4d4f-962a-bc585965c356",
             "name": "Chapter V",
             "title": "\nPEMANFAATAN DATA DAN DISEMINASI INFORMASI",
             "type": "chapter",
             "children": [
                 {
-                    "id": "650576fa-fcfd-497e-97bf-5acf6f327f52",
+                    "id": "83c6c9f1-2e02-4a18-9f33-d261bb83ec49",
                     "name": "Article 47",
                     "type": "article",
                     "children": [
                         {
-                            "id": "870be8bf-e52e-49c5-b774-707e00976850",
+                            "id": "6e0bfb1f-d40e-4327-b4d8-1b3ec6131303",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pemanfaatan Data Penginderaan Jauh yang\nmerupakan hasil analisis informasi digunakan untuk\nberbagai kepentingan dalam mendukung\npembangunan nasional.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "170baf1a-67bf-47cb-b5d3-0a5bd9487cf2",
+                            "id": "68ca91d8-6037-4ea0-820d-d9a2a8bb5770",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Diseminasi informasi Penginderaan Jauh\ndilaksanakan untuk menyebarluaskan informasi\npenginderaan jauh kepada pengguna.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1190,113 +1174,105 @@
                     ]
                 },
                 {
-                    "id": "de97e616-0f5d-425f-b699-bfe371622627",
+                    "id": "ffd6b551-ebd9-4445-be8f-65a1171aff3a",
                     "name": "Article 48",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8740d84f-743e-4ba7-a268-83e2e9aa953d",
+                            "id": "3cd35038-61f5-457d-97ae-2ffb06e76ab2",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " wajib mengacu pada pedoman yang ditetapkan oleh\nLembaga.",
+                            "content": " Pemanfaatan Data dan Diseminasi Informasi Penginderaan Jauh dapat dilaksanakan oleh Lembaga, Instansi Pemerintah, Pemerintah Daerah, dan/atau Masyarakat.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "47fb57a8-7688-4481-8a6e-01063d324d1e",
+                            "id": "5ca42215-6a25-43c2-87f7-0e9d16cc9515",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Pemanfaatan Data dan Diseminasi Informasi\nPenginderaan Jauh oleh Instansi Pemerintah dan/atau\nPemerintah Daerah, sebagaimana dimaksud pada ayat",
+                            "content": " Pemanfaatan Data dan Diseminasi Informasi Penginderaan Jauh oleh Instansi Pemerintah dan/atau Pemerintah Daerah, sebagaimana dimaksud pada ayat (1) wajib mengacu pada pedoman yang ditetapkan oleh Lembaga.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "81fba105-f04e-4197-a457-df54cbcceaa1",
+                    "id": "1d40e325-7904-4c87-bbdb-87137d6e7a7b",
                     "name": "Article 49",
                     "type": "article",
                     "children": {
-                        "id": "67ab8837-ad7a-486f-84d7-1b059920f6d6",
+                        "id": "96582b83-30ec-4db1-bd43-4efbcaece48a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam hal Pemanfaatan Data dan Diseminasi Informasi\nPenginderaan Jauh, Lembaga melakukan pembimbingan,\npembinaan, dan pelayanan kepada Instansi Pemerintah,\nPemerintah Daerah, dan/atau Masyarakat.",
+                        "content": "\nDalam hal Pemanfaatan Data dan Diseminasi Informasi Penginderaan Jauh, Lembaga melakukan pembimbingan, pembinaan, dan pelayanan kepada Instansi Pemerintah, Pemerintah Daerah, dan/atau Masyarakat.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "0015a68f-e241-46e6-818f-3e39fe603804",
+                    "id": "125a454a-f03f-4a49-9c74-c2e534584df7",
                     "name": "Article 50",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3d47b721-4bff-4314-b1c9-d90e2b20cfd3",
+                            "id": "48212dad-d5cc-4dbc-9c79-39de47b9eb34",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Pemanfaatan data Penginderaan Jauh dapat\ndikelompokkan guna kepentingan informasi mengenai:\na. wilayah darat;\nb. wilayah laut;\nC. wilayah pesisir dan pulau-pulau kecil;\nd. lingkungan dan mitigasi bencana; dan\ne. atmosfer.",
+                            "content": " Pemanfaatan data Penginderaan Jauh dapat dikelompokkan guna kepentingan informasi mengenai:\na. wilayah darat;\nb. wilayah laut;\nc. wilayah pesisir dan pulau-pulau kecil;\nd. lingkungan dan mitigasi bencana; dan\ne. atmosfer.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d0ee99e9-4a86-4f42-a3b3-c67bb7545d6c",
+                            "id": "34453431-81ed-429c-a925-83dc1f37a9f8",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Pemanfaatan Data Penginderaan Jauh guna\nkepentingan informasi sebagaimana dimaksud pada\nayat (1) huruf a, huruf b, dan huruf c, meliputi\npemanfaatan data penginderaan jauh untuk\nidentifikasi sumber daya alam.",
+                            "content": " Pemanfaatan Data Penginderaan Jauh guna kepentingan informasi sebagaimana dimaksud pada ayat (1) huruf a, huruf b, dan huruf c, meliputi pemanfaatan data penginderaan jauh untuk identifikasi sumber daya alam.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "055cb4d9-932d-4713-96a8-e6daeb595b3d",
+                            "id": "16a177e7-d4ca-41c7-a9d7-a98ce079204f",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Pemanfaatan Data Penginderaan Jauh guna\nkepentingan informasi sebagaimana dimaksud pada\nayat (1) huruf d, meliputi pemanfaatan data\npenginderaan jauh untuk:\na. identifikasi permasalahan lingkungan; dan\nb. analisis mitigasi bencana.\n2018, No.56",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "e9dca7c5-4d69-4de9-a04b-7c72a5dc1dbc",
-                            "name": "Verse 4",
-                            "number": "(4)",
-                            "type": "verse",
-                            "content": " Pemanfaatan Data Penginderaan Jauh guna kepentingan informasi sebagaimana dimaksud pada ayat (1) huruf e meliputi pemanfaatan data penginderaan jauh untuk analisis:\na. dinamika atmosfer;\nb. fisika atmosfer; dan\nc. kimia atmosfer.",
+                            "content": " Pemanfaatan Data Penginderaan Jauh guna kepentingan informasi sebagaimana dimaksud pada ayat (1) huruf d, meliputi pemanfaatan data penginderaan jauh untuk:\na. identifikasi permasalahan lingkungan; dan\nb. analisis mitigasi bencana.\n2018, No.56\n(4) Pemanfaatan Data Penginderaan Jauh guna kepentingan informasi sebagaimana dimaksud pada ayat (1) huruf e meliputi pemanfaatan data penginderaan jauh untuk analisis:\na. dinamika atmosfer;\nb. fisika atmosfer; dan\nc. kimia atmosfer.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "21e077c8-2d3f-41b8-a5b5-18d5c0102e86",
+                    "id": "334297b5-3f1c-4510-b7d8-e4b7c39a2faa",
                     "name": "Article 51",
                     "type": "article",
                     "children": [
                         {
-                            "id": "eb0c4058-b1e0-4f19-822c-9c64ce97821b",
+                            "id": "2143442d-dc5e-4710-bf69-778fd11e325d",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam rangka Diseminasi Informasi Penginderaan Jauh, Lembaga melaksanakan pengelolaan sistem diseminasi informasi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "dd9682be-8f77-45e3-b8c6-f1b7c97ab7fc",
+                            "id": "cd1391c0-1865-4b13-b286-7f48eed737f6",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pengelolaan sistem Diseminasi Informasi sebagaimana dimaksud pada ayat (1) dilakukan melalui Sistem Pemantauan Bumi Nasional.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "0a73cb0b-cf82-452c-8ca2-d53c4c18e68b",
+                            "id": "3a0d281d-aa50-42ab-b363-572cc644c6e4",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dalam pengelolaan Sistem Pemantauan Bumi Nasional sebagaimana dimaksud pada ayat (2), Lembaga dapat melakukan kerja sama dengan Instansi Pemerintah dan/atau Pemerintah Daerah.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "b6f173ad-78ea-4ee7-a058-14aa011b0749",
+                            "id": "00332f58-61f0-4f27-9e51-dba27c498417",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Ketentuan lebih lanjut mengenai kerja sama antara Lembaga dengan Instansi Pemerintah dan/atau Pemerintah Daerah sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Lembaga.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1304,22 +1280,22 @@
                     ]
                 },
                 {
-                    "id": "f0583831-9490-4041-9554-992aa3e4f0d6",
+                    "id": "ce190722-0d62-4f4d-981e-08d113aa9da4",
                     "name": "Article 52",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8a8c8f02-e5de-4ab9-8584-c2213c44a056",
+                            "id": "c3a6cc3c-7068-4305-a83b-f6adecbe5316",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam hal Diseminasi Informasi Penginderaan Jauh, Lembaga menetapkan kriteria informasi Penginderaan Jauh yang bersifat rahasia.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "31d4f3a4-1c2a-4533-8390-d7147bb329c5",
+                            "id": "d3969374-f7a9-4484-92c5-35ce674e781c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Penetapan informasi Penginderaan Jauh yang bersifat rahasia sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan Peraturan Perundang-undangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1327,11 +1303,11 @@
                     ]
                 },
                 {
-                    "id": "da894e5b-e8b5-4d97-af09-ef3af1f1b299",
+                    "id": "182f4a6a-0f74-42e4-9811-812df5958aa8",
                     "name": "Article 53",
                     "type": "article",
                     "children": {
-                        "id": "e05764ae-14af-407e-9467-24edb446cd2a",
+                        "id": "f01244c6-2e47-4cf2-9829-a2508652dd70",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1342,17 +1318,17 @@
             ]
         },
         {
-            "id": "5baa9c86-ff8c-4501-b1fb-bcb66fe32be2",
+            "id": "96fc4d84-5d5a-47a3-a006-f41da27f6d24",
             "name": "Chapter VI",
             "title": "\nPENDANAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "b01305d5-2ec7-4c9b-b473-523209deaba8",
+                    "id": "8612576a-a968-4e7e-b825-fecd46fc178d",
                     "name": "Article 54",
                     "type": "article",
                     "children": {
-                        "id": "52466249-5921-4301-a31e-70b647e421f5",
+                        "id": "bb3d93f0-02c5-4841-965d-ab53f8a61210",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1363,46 +1339,46 @@
             ]
         },
         {
-            "id": "38808fcf-3829-4845-8aed-1da36a462f98",
+            "id": "dbb6bd74-00f7-4519-a30d-a5c6ed1cd530",
             "name": "Chapter VII",
             "title": "\nPERAN SERTA MASYARAKAT",
             "type": "chapter",
             "children": [
                 {
-                    "id": "34e966af-d85c-4567-93d6-b6189997d382",
+                    "id": "8bbec1c0-5007-4d9f-bebf-4423ac784967",
                     "name": "Article 55",
                     "type": "article",
                     "children": [
                         {
-                            "id": "eef88abd-6147-4bb8-ad82-a7d382e4b5a6",
+                            "id": "b3548ec2-6a6d-4c74-9b55-57bbbc99f7ab",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Dalam rangka meningkatkan Penyelenggaraan\nKeantariksaan secara optimal, masyarakat memiliki\nkesempatan yang sama dan seluas-luasnya untuk\nberperan serta dalam kegiatan Penginderaan Jauh.",
+                            "content": " Dalam\nrangka meningkatkan\nPenyelenggaraan\nKeantariksaan secara optimal, masyarakat memiliki\nkesempatan yang sama dan seluas-luasnya untuk\nberperan serta dalam kegiatan Penginderaan Jauh.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "03cf8063-c125-45f2-b760-481cc3c64cb8",
+                            "id": "8578fdbb-4c0e-4e54-a79b-c8b648f1c03e",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Peran serta masyarakat sebagaimana dimaksud pada\nayat (1) adalah:\na. memantau dan menjaga ketertiban\nPenyelenggaraan Penginderaan Jauh;\nb. memberikan masukan kepada Pemerintah dalam\npenyempurnaan peraturan, pedoman, dan\nstandar teknis di bidang Penginderaan Jauh;\nc. memberikan masukan kepada Pemerintah dan\nPemerintah Daerah dalam rangka pembinaan,\npenyelenggaraan, dan pengawasan kegiatan\nPenginderaan Jauh;\nd. menyampaikan pendapat dan pertimbangan\nkepada pejabat yang berwenang terhadap\ne. kegiatan Penginderaan Jauh yang mengakibatkan dampak penting terhadap lingkungan;\nmelaporkan apabila mengetahui terjadinya ketidaksesuaian prosedur Penginderaan Jauh atau ketidakberfungsian peralatan dan fasilitas Penginderaan Jauh;\nf. mengutamakan dan mempromosikan budaya Keselamatan Penginderaan Jauh; dan/atau\ng. melaksanakan gugatan perwakilan terhadap kegiatan Penginderaan Jauh yang mengganggu, merugikan, dan/atau membahayakan kepentingan umum.",
+                            "content": " Peran serta masyarakat sebagaimana dimaksud pada\nayat (1) adalah:\na.\nmemantau\ndan menjaga ketertiban\nPenyelenggaraan Penginderaan Jauh;\nb. memberikan masukan kepada Pemerintah dalam\ndan\npenyempurnaan peraturan, pedoman,\nstandar teknis di bidang Penginderaan Jauh;\nc. memberikan masukan kepada Pemerintah dan\nPemerintah Daerah dalam rangka pembinaan,\npenyelenggaraan, dan pengawasan kegiatan\nPenginderaan Jauh;\nd. menyampaikan pendapat dan pertimbangan\nkepada pejabat yang berwenang terhadap\ne. kegiatan Penginderaan Jauh yang mengakibatkan\ndampak penting terhadap lingkungan;\nmelaporkan apabila mengetahui terjadinya\nketidaksesuaian prosedur Penginderaan Jauh\natau ketidakberfungsian peralatan dan fasilitas\nPenginderaan Jauh;\nf. mengutamakan dan mempromosikan budaya\nKeselamatan Penginderaan Jauh; dan/atau\ng. melaksanakan gugatan perwakilan terhadap\nkegiatan Penginderaan Jauh yang mengganggu,\nmerugikan, dan/atau membahayakan\nkepentingan umum.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "126b01a2-7525-4716-95c5-ae95c7d0d5bd",
+                            "id": "4028c6c7-c47f-461a-8601-8635c232bd09",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Pemerintah, Pemerintah Daerah, dan Penyelenggara Penginderaan Jauh menindaklanjuti masukan, pendapat, dan laporan yang disampaikan oleh masyarakat sebagaimana dimaksud pada ayat (2) huruf b, huruf c, huruf d, dan huruf e.",
+                            "content": " Pemerintah, Pemerintah Daerah, dan Penyelenggara\nPenginderaan Jauh menindaklanjuti masukan,\npendapat, dan laporan yang disampaikan oleh\nmasyarakat sebagaimana dimaksud pada ayat (2)\nhuruf b, huruf c, huruf d, dan huruf e.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "04ba77a4-1bf9-49c5-b63b-16e32c47074f",
+                            "id": "98154d1d-12af-44d9-a808-c30ccd6f9bd1",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Dalam melaksanakan peran serta sebagaimana dimaksud pada ayat (2), masyarakat ikut bertanggung\njawab menjaga ketertiban serta Keselamatan dan Keamanan kegiatan Penginderaan Jauh.",
+                            "content": " Dalam melaksanakan peran serta sebagaimana\ndimaksud pada ayat (2), masyarakat ikut bertanggung\njawab menjaga ketertiban serta Keselamatan dan\nKeamanan kegiatan Penginderaan Jauh.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -1410,17 +1386,17 @@
             ]
         },
         {
-            "id": "b5454f34-b8c3-4a24-8f05-b1757746d966",
+            "id": "6536f72d-392e-42d4-864c-7921c50dc03d",
             "name": "Chapter VIII",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "5bd2aac8-a52a-4bc5-a565-71dbca88e405",
+                    "id": "f5b2f216-8c50-46c7-96ee-013e6249ab53",
                     "name": "Article 56",
                     "type": "article",
                     "children": {
-                        "id": "3eacd4be-4ee2-4980-af75-ecdcdc2287fb",
+                        "id": "7b01ba1d-8561-4506-9029-25aa6d192977",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1431,28 +1407,28 @@
             ]
         },
         {
-            "id": "8af9c6c5-49ce-4bcf-9858-8d182cecfa95",
+            "id": "0fb62d4c-13d9-4a77-b6ba-57f73c84ab4b",
             "name": "Chapter IX",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e2691e08-440c-45d5-8b20-6e90f24edd9c",
+                    "id": "a4ca7a04-7df3-4d0c-a3bc-76ed17acafba",
                     "name": "Article 57",
                     "type": "article",
                     "children": [
                         {
-                            "id": "c63c4758-3313-48f2-a0e3-ab6590b51007",
+                            "id": "fd707198-9371-4747-9461-b741539c50fc",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pada saat Peraturan Pemerintah ini berlaku, Instansi\nPemerintah yang telah mengoperasikan Stasiun Bumi,\nwajib melaporkan dan menyerahkan duplikat data\nkepada Lembaga paling lambat 1 (satu) tahun sejak\nPeraturan Pemerintah ini berlaku.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "52a92f53-f19f-400a-89e0-b5feb3ffca21",
+                            "id": "07ced7f6-2b97-4f95-8115-7f8e251d18b4",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Lembaga wajib melakukan pendataan terhadap\nStasiun Bumi Penginderaan Jauh yang telah\nberoperasi di wilayah Indonesia.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1460,11 +1436,11 @@
                     ]
                 },
                 {
-                    "id": "5b48d8bf-57e5-4cf8-a0a1-b149a3ba3873",
+                    "id": "fc9ddd71-3381-4bd7-9961-2261e4458f31",
                     "name": "Article 58",
                     "type": "article",
                     "children": {
-                        "id": "9a1342ba-2b46-4fae-ae78-65c3edaf5647",
+                        "id": "d38cce8c-d671-423c-b859-c3e9fbbc51df",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1480,14 +1456,14 @@
         "Tahun": "2018",
         "Tentang": "TATA CARA PENYELENGGARAAN KEGIATAN PENGINDERAAN JAUH",
         "Menimbang": {
-            "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 23 Undang-\nUndang Nomor 21 Tahun 2013 tentang Keantariksaan,\nperlu menetapkan Peraturan Pemerintah tentang Tata Cara\nPenyelenggaraan Kegiatan Penginderaan Jauh;"
+            "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 23 Undang-Undang Nomor 21 Tahun 2013 tentang Keantariksaan, perlu menetapkan Peraturan Pemerintah tentang Tata Cara Penyelenggaraan Kegiatan Penginderaan Jauh;"
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
-            "2": " Undang-Undang Nomor 21 Tahun 2013 tentang\nKeantariksaan (Lembaran Negara Republik Indonesia\nTahun 2013, Nomor 133, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5435);"
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 21 Tahun 2013 tentang Keantariksaan (Lembaran Negara Republik Indonesia Tahun 2013, Nomor 133, Tambahan Lembaran Negara Republik Indonesia Nomor 5435);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG TATA CARA\nPENYELENGGARAAN KEGIATAN PENGINDERAAN JAUH.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG TATA CARA PENYELENGGARAAN KEGIATAN PENGINDERAAN JAUH.",
         "tanggal sah": "10 April 2018"
     }
 }

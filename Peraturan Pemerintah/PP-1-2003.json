@@ -1,55 +1,128 @@
 {
     "results": [
         {
-            "id": "63c816e1-eba9-4667-b68b-afb3c67829ab",
+            "id": "82057eee-ef22-405b-ab33-6285c97d77ee",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "13e6b5cd-733a-460e-a4ee-d1b1dfa6a2b2",
+                    "id": "6217cdf8-1aa5-4c56-987c-9ac564c75dff",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "3704ac1d-6cd3-4286-b490-9dd9e8b959a2",
+                        "id": "422946f2-a6a8-438d-8ccb-206a0fcb1a9c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Anggota Kepolisian Negara Republik Indonesia adalah pegawai negeri\npada Kepolisian Negara Republik Indonesia.\n\n2. Pemberhentian dari dinas Kepolisian adalah pemberhentian anggota\nKepolisian dari dinas Kepolisian Negara Republik Indonesia untuk\nmemberikan kepastian hukum bahwa yang bersangkutan tidak lagi\nberstatus sebagai anggota.\n3. Dinas Kepolisian adalah segala aktivitas kedinasan yang dilakukan\nanggota dalam lembaga Kepolisian Negara Republik Indonesia.\n4. Pemberhentian dengan hormat adalah pengakhiran masa dinas Kepolisian\noleh pejabat yang berwenang terhadap anggota Kepolisian Negara\nRepublik Indonesia sesuai dengan peraturan perundang-undangan yang\nberlaku.\n5. Pemberhentian tidak dengan hormat adalah pengakhiran masa dinas\nKepolisian oleh pejabat yang berwenang terhadap seorang anggota\nKepolisian Negara Republik Indonesia karena sebab-sebab tertentu.\n6. Hilang dalam tugas adalah suatu keadaan bahwa anggota Kepolisian\nNegara Republik Indonesia tidak diketahui keberadaannya dan tidak\ndiketahui apakah masih hidup atau telah meninggal dunia.\n7. Usia pensiun adalah batas berakhirnya masa dinas seseorang sebagai\nanggota Kepolisian Negara Republik Indonesia.\n8. Dipertahankan dalam dinas aktif adalah mempertahankan seseorang\nanggota untuk tetap dinas aktif, walaupun orang tersebut telah mencapai\nusia pensiun maksimum 58 (lima puluh delapan) tahun.\n9. Gugur adalah meninggal dunia dalam operasi kepolisian atau sebagai\nakibat tindakan langsung pelaku tindak pidana kriminal atau yang\nmenentang negara/pemerintah yang sah.\n10. Tewas adalah meninggal dunia dalam menjalankan tugas atau meninggal\ndunia dalam keadaan lain yang ada hubungannya dengan dinas.\n11. Meninggal dunia biasa adalah meninggal dunia karena sebab tertentu dan\nbukan karena menjalankan tugas atau karena hubungannya dengan\npelaksanaan dinas.\n12. Pelanggaran adalah perbuatan yang dilakukan oleh anggota Kepolisian\nNegara Republik Indonesia karena melanggar sumpah/janji anggota,\nsumpah/janji jabatan, peraturan disiplin dan/atau Kode Etik Profesi\nKepolisian Negara Republik Indonesia.\n\n13. Keahlian khusus adalah keahlian di bidang tertentu yang ditandai oleh adanya Ijasah/sertifikat atau mempunyai pengalaman kerja dibidangnya minimal 5 (lima) tahun.",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Anggota Kepolisian Negara Republik Indonesia adalah pegawai negeri\npada Kepolisian Negara Republik Indonesia.\n\n2. Pemberhentian dari dinas Kepolisian adalah pemberhentian anggota\nKepolisian dari dinas Kepolisian Negara Republik Indonesia untuk\nmemberikan kepastian hukum bahwa yang bersangkutan tidak lagi\nberstatus sebagai anggota.\n3. Dinas Kepolisian adalah segala aktivitas kedinasan yang dilakukan\nanggota dalam lembaga Kepolisian Negara Republik Indonesia.\n4. Pemberhentian dengan hormat adalah pengakhiran masa dinas Kepolisian\noleh pejabat yang berwenang terhadap anggota Kepolisian Negara\nRepublik Indonesia sesuai dengan peraturan perundang-undangan yang\nberlaku.\n5. Pemberhentian tidak dengan hormat adalah pengakhiran masa dinas\nKepolisian oleh pejabat yang berwenang terhadap seorang anggota\nKepolisian Negara Republik Indonesia karena sebab-sebab tertentu.\n6. Hilang dalam tugas adalah suatu keadaan bahwa anggota Kepolisian\nNegara Republik Indonesia tidak diketahui keberadaannya dan tidak\ndiketahui apakah masih hidup atau telah meninggal dunia.\n7. Usia pensiun adalah batas berakhirnya masa dinas seseorang sebagai\nanggota Kepolisian Negara Republik Indonesia.\n8. Dipertahankan dalam dinas aktif adalah mempertahankan seseorang\nanggota untuk tetap dinas aktif, walaupun orang tersebut telah mencapai\nusia pensiun maksimum 58 (lima puluh delapan) tahun.\n9. Gugur adalah meninggal dunia dalam operasi kepolisian atau sebagai\nakibat tindakan langsung pelaku tindak pidana kriminal atau yang\nmenentang negara/pemerintah yang sah.\n10. Tewas adalah meninggal dunia dalam menjalankan tugas atau meninggal\ndunia dalam keadaan lain yang ada hubungannya dengan dinas.\n11. Meninggal dunia biasa adalah meninggal dunia karena sebab tertentu dan\nbukan karena menjalankan tugas atau karena hubungannya dengan\npelaksanaan dinas.\n12. Pelanggaran adalah perbuatan yang dilakukan oleh anggota Kepolisian\nNegara Republik Indonesia karena melanggar sumpah/janji anggota,\nsumpah/janji jabatan, peraturan disiplin dan/atau Kode Etik Profesi\nKepolisian Negara Republik Indonesia.\n\n13. Keahlian khusus adalah keahlian di bidang tertentu yang ditandai oleh\nadanya Ijasah/sertifikat atau mempunyai pengalaman kerja dibidangnya\nminimal 5 (lima) tahun.",
                         "explanation": "\nCukup jelas"
                     }
                 }
             ]
         },
         {
-            "id": "9984b817-cd4f-4747-b8f8-9c839eff94a6",
+            "id": "955e0cc3-10df-494d-a326-2da432fb2b0b",
             "name": "Chapter II",
-            "title": "\nPEMBERHENTIAN DENGAN HORMAT\nPasal 2\nAnggota Kepolisian Negara Republik Indonesia dapat diberhentikan dengan hormat apabila:\na. mencapai batas usia pensiun;\nb. pertimbangan khusus untuk kepentingan dinas;\nc. tidak memenuhi syarat jasmani dan/atau rohani;\nd. gugur, tewas, meninggal dunia atau hilang dalam tugas.\nBagian Pertama\nMencapai Batas Usia Pensiun\nPasal 3\n1) Anggota Kepolisian Negara Republik Indonesia yang telah mencapai batas usia pensiun diberhentikan dengan hormat dari dinas Kepolisian Negara Republik Indonesia.\n2) Batas usia pensiun sebagaimana dimaksud dalam ayat (1) maksimum 58 (lima puluh delapan) tahun.\n3) Batas usia pensiun maksimum 58 (lima puluh delapan) tahun berlaku untuk semua golongan kepangkatan.\n4) Untuk kepentingan pembinaan organisasi Kepolisian Negara Republik Indonesia, pada tahap awal penerapan ketentuan mengenai batas Usia Pensiun sebagaimana dimaksud dalam ayat (3) dilaksanakan secara bertahap.\n5) Pengaturan lebih lanjut mengenai penerapan ketentuan batas usia pensiun secara bertahap sebagaimana yang dimaksud dalam ayat (4) ditetapkan dengan Keputusan Kepala Kepolisian Negara Republik Indonesia.\n\nPasal 4\n(1) Batas usia pensiun, sebagaimana dimaksud dalam Pasal 3, dapat\ndipertahankan sampai 60 (enam puluh) tahun bagi anggota Kepolisian\nNegara Republik Indonesia yang mempunyai keahlian khusus dan sangat\ndibutuhkan dalam tugas Kepolisian.\n(2) Keahlian khusus dan yang sangat dibutuhkan sebagaimana dimaksud\ndalam ayat (1) meliputi bidang:\na. Identifikasi;\nb. Laboratorium Forensik;\nc. Komunikasi Elektronika;\nd. Sandi;\ne. Penjinak Bahan Peledak;\nf. Kedokteran Kehakiman;\ng. Pawang Hewan;\nh. Penyidikan Kejahatan tertentu;\ni. Navigasi laut/penerbangan.\n(3) Anggota yang dipertahankan dalam dinas aktif sebagaimana dimaksud\ndalam ayat (1) hanya yang bertugas pada satuan fungsi sesuai keahliannya\ntersebut, yang pelaksanaannya dilakukan secara selektif dan bertahap\nsetiap 1 (satu) tahun.\n(4) Tata cara pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (3)\nditetapkan dengan Keputusan Kepala Kepolisian Negara Republik\nIndonesia.\nPasal 5\nAnggota Kepolisian Negara Republik Indonesia yang akan memasuki usia\npensiun maksimum sebagaimana dimaksud dalam Pasal 3 ayat (2), diberi\nkesempatan menjalani masa persiapan pensiun paling lama 1 (satu) tahun.\n",
+            "title": "\nPEMBERHENTIAN DENGAN HORMAT\nPasal 2\nAnggota Kepolisian Negara Republik Indonesia dapat diberhentikan dengan\nhormat apabila:\na. mencapai batas usia pensiun;\nb. pertimbangan khusus untuk kepentingan dinas;\nс. tidak memenuhi syarat jasmani dan/atau rohani;\nd. gugur, tewas, meninggal dunia atau hilang dalam tugas.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8510aa0f-de8f-47ea-8de3-73b2c8be23a5",
+                    "id": "43900103-7b26-4128-929c-448e7c6cd382",
+                    "name": "Section First",
+                    "title": "\nMencapai Batas Usia Pensiun",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "d95386d2-85c7-4e2c-a3b7-4892019dc055",
+                            "name": "Article 3",
+                            "type": "article",
+                            "children": {
+                                "id": "9065a19f-f50d-48ab-872c-61885b39e31f",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\n1) Anggota Kepolisian Negara Republik Indonesia yang telah mencapai batas\nusia pensiun diberhentikan dengan hormat dari dinas Kepolisian Negara\nRepublik Indonesia.\n2) Batas usia pensiun sebagaimana dimaksud dalam ayat (1) maksimum 58\n(lima puluh delapan) tahun.\n3) Batas usia pensiun maksimum 58 (lima puluh delapan) tahun berlaku\nuntuk semua golongan kepangkatan.\n4) Untuk kepentingan pembinaan organisasi Kepolisian Negara Republik\nIndonesia, pada tahap awal penerapan ketentuan mengenai batas Usia\nPensiun sebagaimana dimaksud dalam ayat (3) dilaksanakan secara\nbertahap.\n5) Pengaturan lebih lanjut mengenai penerapan ketentuan batas usia pensiun\nsecara bertahap sebagaimana yang dimaksud dalam ayat (4) ditetapkan.\ndengan Keputusan Kepala Kepolisian Negara Republik Indonesia.",
+                                "explanation": "\nCukup jelas"
+                            }
+                        },
+                        {
+                            "id": "c2250d98-bc82-4696-8fd3-2640aa6eb807",
+                            "name": "Article 4",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "bded0dfa-d130-4913-8f49-10b612fab0c1",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Batas usia pensiun, sebagaimana dimaksud dalam Pasal 3, dapat\ndipertahankan sampai 60 (enam puluh) tahun bagi anggota Kepolisian\nNegara Republik Indonesia yang mempunyai keahlian khusus dan sangat\ndibutuhkan dalam tugas Kepolisian.",
+                                    "explanation": "\nYang dimaksud dengan \"sangat dibutuhkan\" karena anggota Kepolisian Negara\nRepublik Indonesia yang memiliki keahlian tersebut jumlahnya sangat terbatas."
+                                },
+                                {
+                                    "id": "6e7072d2-d294-4279-aa8d-0705ca015614",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Keahlian khusus dan yang sangat dibutuhkan sebagaimana dimaksud\ndalam ayat (1) meliputi bidang:\na. Identifikasi;\nb. Laboratorium Forensik;\nc. Komunikasi Elektronika;\nd. Sandi;\ne. Penjinak Bahan Peledak;\nf. Kedokteran Kehakiman;\ng. Pawang Hewan;\nh. Penyidikan Kejahatan tertentu;\ni. Navigasi laut/penerbangan.",
+                                    "explanation": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nCukup Jelas\nHuruf h\nYang dimaksud dengan kejahatan tertentu adalah kejahatan sebagaimana diatur\ndalam undang-undang, misalnya *cyber crime*, pencucian uang (*money\nlaundering*), anti monopoli, kejahatan korporasi (*coorporate crime*), hak\nkekayaan intelektual, lingkungan hidup, perbankan, pasar modal.\nHuruf i\nCukup jelas"
+                                },
+                                {
+                                    "id": "f3abf970-af23-46de-90b2-6a622e66d953",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Anggota yang dipertahankan dalam dinas aktif sebagaimana dimaksud\ndalam ayat (1) hanya yang bertugas pada satuan fungsi sesuai keahliannya\ntersebut, yang pelaksanaannya dilakukan secara selektif dan bertahap\nsetiap 1 (satu) tahun.",
+                                    "explanation": "\nKetentuan ini menegaskan bahwa yang dapat dipertahankan hanya yang dibutuhkan\ndalam melaksanakan fungsi tersebut.\nDengan demikian maka anggota Kepolisian Negara Republik Indonesia yang\ndipertahankan tersebut tidak boleh dialihfungsikan.\nSedangkan \"perpanjangan secara bertahap setiap 1 (satu) tahun\" dimaksudkan agar\ndapat disesuaikan dengan kebutuhan dan kesehatan."
+                                },
+                                {
+                                    "id": "22d05290-b67a-47be-860d-8213088e1d34",
+                                    "name": "Verse 4",
+                                    "number": "4",
+                                    "type": "verse",
+                                    "content": " Tata cara pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (3)\nditetapkan dengan Keputusan Kepala Kepolisian Negara Republik\nIndonesia.",
+                                    "explanation": "\nCukup jelas"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "343c6d40-2caa-4e37-a1b3-c29b2059aff6",
+                            "name": "Article 5",
+                            "type": "article",
+                            "children": {
+                                "id": "e7371f66-b9b8-447a-bde6-eb6ee5343a44",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nAnggota Kepolisian Negara Republik Indonesia yang akan memasuki usia\npensiun maksimum sebagaimana dimaksud dalam Pasal 3 ayat (2), diberi\nkesempatan menjalani masa persiapan pensiun paling lama 1 (satu) tahun.\n",
+                                "explanation": "\nCukup jelas"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "e54914ac-6ad8-420b-8210-616df560c73c",
                     "name": "Section Second",
                     "title": "\nPertimbangan Khusus untuk Kepentingan Dinas",
                     "type": "section",
                     "children": [
                         {
-                            "id": "a6143e4f-193a-4d47-bd78-9666f11d4f89",
+                            "id": "49cd276d-ce13-4265-b880-68390adf82af",
                             "name": "Article 6",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "a0728bb1-1fb5-4935-a0e7-ad4e0e4115ca",
+                                    "id": "cecc920f-c331-49eb-9f62-1f7c498a42f5",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Anggota Kepolisian Negara Republik Indonesia yang mengajukan\npermohonan berhenti atas permintaan sendiri sebelum mencapai batas usia\npensiun maksimum, dapat diberhentikan dengan hormat dari dinas\nKepolisian Negara Republik Indonesia.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "1db02bee-a55c-441e-bd4e-d7f13ab7049d",
+                                    "id": "602be2b4-44c3-4448-972f-bf7f99af967f",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Permohonan berhenti sebagaimana dimaksud dalam ayat (1), dapat ditolak\nkarena:\na. masih terikat dalam ikatan dinas berdasarkan ketentuan yang berlaku,\nb. kepentingan dinas yang mendesak.",
                                     "explanation": "\nCukup jelas"
@@ -57,11 +130,11 @@
                             ]
                         },
                         {
-                            "id": "54ed0852-6102-4e00-830e-8eb47b7c8a97",
+                            "id": "eb138d03-572e-4a33-8602-ee4464e898ac",
                             "name": "Article 7",
                             "type": "article",
                             "children": {
-                                "id": "64bdd496-6961-408b-8d78-f505caaa08e9",
+                                "id": "752a2f7e-1bc5-4d59-965c-ba43fbc1df3c",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -72,17 +145,17 @@
                     ]
                 },
                 {
-                    "id": "e48bba68-0604-48ab-9b8f-a349fb530aba",
+                    "id": "261baabc-259f-416d-9358-a95b06a1f2c9",
                     "name": "Section Third",
                     "title": "\nTidak Memenuhi Syarat Jasmani dan/atau Rohani",
                     "type": "section",
                     "children": [
                         {
-                            "id": "2a4e873b-3cbc-44ba-94ae-22e9060b77b0",
+                            "id": "713973f4-1eec-482f-9d9e-cc68a064aed6",
                             "name": "Article 8",
                             "type": "article",
                             "children": {
-                                "id": "a96fe335-23b3-4e31-8676-09f8a07bd20b",
+                                "id": "bca5fc47-f90f-47ca-8814-38c7af917440",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -93,17 +166,17 @@
                     ]
                 },
                 {
-                    "id": "f7e3cece-5bbd-46a0-8e06-60153e13c193",
+                    "id": "7a20b4fb-75c3-4102-8ce7-d317e040fc61",
                     "name": "Section Fourth",
                     "title": "\nGugur, Tewas, Meninggal Dunia, atau Hilang Dalam Tugas",
                     "type": "section",
                     "children": [
                         {
-                            "id": "5ebbe65c-6cec-4bbd-b922-88c4644d2c68",
+                            "id": "b60f3790-87ae-43fb-b9f5-8df8bc8e0155",
                             "name": "Article 9",
                             "type": "article",
                             "children": {
-                                "id": "23b27b9f-13c4-4ad9-98f0-acf04fbbb2df",
+                                "id": "70e25cc2-cf35-4a3f-875d-9c6ee44677e8",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -112,30 +185,30 @@
                             }
                         },
                         {
-                            "id": "73a859f8-0260-48de-8575-82532a690cb9",
+                            "id": "1c9751e8-7f4c-4aac-ad24-1d5b8a7f9ff5",
                             "name": "Article 10",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "1355b6a5-3445-4a81-bc5b-7bc466bd0f25",
+                                    "id": "834132ad-d60f-4cbf-873b-c9acb56b826c",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Anggota Kepolisian Negara Republik Indonesia yang hilang dalam tugas\ndan tidak ada kepastian hukum atas dirinya setelah 1 (satu) tahun sejak\ndinyatakan hilang dalam tugas, diberhentikan dengan hormat.",
                                     "explanation": "\nAnggota Kepolisian Negara Republik Indonesia yang diberhentikan karena hilang\ndalam tugas, diberhentikan dengan hormat terhitung mulai tanggal sejak atau\nsetelah 1 (satu) tahun yang bersangkutan dinyatakan hilang.\nAnggota Kepolisian Negara Republik Indonesia yang hilang selama satu tahun\ntersebut dianggap masih tetap bekerja, oleh sebab itu gaji dan penghasilan lainnya\nberhak diterimakan kepada keluarganya."
                                 },
                                 {
-                                    "id": "abba1061-636b-4900-9959-fa817bde0065",
+                                    "id": "ba39cd65-64eb-4b6b-be7e-473c7540b36a",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Pernyataan hilang sebagaimana dimaksud dalam ayat (1) dibuat oleh\npejabat yang berwenang berdasarkan surat keterangan atau berita acara\ndari pejabat yang berwajib.",
-                                    "explanation": "\nPejabat yang berwenang menyatakan bahwa anggota Kepolisian Negara Republik\nIndonesia hilang dalam melaksanakan tugas ialah Kepala Kepolisian Negara\nRepublik Indonesia atau pejabat yang ditunjuk.\nPemberhentian dengan hormat merupakan tindakan administratif yang perlu diambil\nberdasarkan keputusan Kepala Kepolisian Negara Republik Indonesia atau pejabat\nyang ditunjuk untuk menetapkan anggota Kepolisian Negara Republik Indonesia\nyang bersangkutan dinyatakan hilang.\nYang dimaksud \"surat keterangan\" adalah surat yang dibuat oleh atasan langsung\nanggota Kepolisian pada saat anggota Kepolisian Negara Republik Indonesia tersebut\nbertugas atau ditugaskan.\nYang dimaksud \"berita acara dari pejabat yang berwajib\" adalah berita acara yang\ndibuat oleh penyidik atau petugas provos untuk memeriksa para saksi yang\nmengetahui hilangnya anggota Kepolisian Negara Republik Indonesia yang\nbersangkutan."
+                                    "explanation": "\nPejabat yang berwenang menyatakan bahwa anggota Kepolisian Negara Republik\nIndonesia hilang dalam melaksanakan tugas ialah Kepala Kepolisian Negara\nRepublik Indonesia atau pejabat yang ditunjuk.\nPemberhentian dengan hormat merupakan tindakan administratif yang perlu diambil berdasarkan keputusan Kepala Kepolisian Negara Republik Indonesia atau pejabat yang ditunjuk untuk menetapkan anggota Kepolisian Negara Republik Indonesia yang bersangkutan dinyatakan hilang.\nYang dimaksud \"surat keterangan\" adalah surat yang dibuat oleh atasan langsung anggota Kepolisian pada saat anggota Kepolisian Negara Republik Indonesia tersebut bertugas atau ditugaskan.\nYang dimaksud \"berita acara dari pejabat yang berwajib\" adalah berita acara yang dibuat oleh penyidik atau petugas provos untuk memeriksa para saksi yang mengetahui hilangnya anggota Kepolisian Negara Republik Indonesia yang bersangkutan."
                                 },
                                 {
-                                    "id": "4dc646e7-5d8c-43c2-a75b-f81ea86ba2cd",
+                                    "id": "d9d3854e-7dd9-4c2b-93b5-b37f8e694b9c",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Terhadap anggota Kepolisian Negara Republik Indonesia, sebagaimana\ndimaksud dalam ayat (1), yang kemudian ditemukan kembali dan ternyata\nmasih hidup, diadakan penelitian personel untuk diproses lebih lanjut\ndalam upaya rehabilitasi atau diberhentikan tidak dengan hormat.",
                                     "explanation": "\nCukup jelas"
@@ -147,36 +220,59 @@
             ]
         },
         {
-            "id": "2e12eff0-4411-45f9-ab40-2e153fde72bb",
+            "id": "0e60276c-3e8f-4b0c-bedb-0a929bdb54ea",
             "name": "Chapter III",
-            "title": "\nPEMBERHENTIAN TIDAK DENGAN HORMAT\nPasal 11\nAnggota Kepolisian Negara Republik Indonesia yang diberhentikan tidak\ndengan hormat apabila:\na. melakukan tindak pidana;\n\nb. melakukan pelanggaran;\nc. meninggalkan tugas atau hal lain.\nBagian Pertama\nMelakukan Tindak Pidana\nPasal 12\n(1) Anggota Kepolisian Negara Republik Indonesia diberhentikan tidak dengan hormat dari dinas Kepolisian Negara Republik Indonesia apabila:\na. dipidana penjara berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap dan menurut pertimbangan pejabat yang berwenang tidak dapat dipertahankan untuk tetap berada dalam dinas Kepolisian Negara Republik Indonesia;\nb. diketahui kemudian memberikan keterangan palsu dan/atau tidak benar pada saat mendaftarkan diri sebagai calon anggota Kepolisian Negara Republik Indonesia;\nc. melakukan usaha atau kegiatan yang nyata-nyata bertujuan mengubah Pancasila, terlibat dalam gerakan, atau melakukan kegiatan yang menentang negara dan/atau Pemerintah Republik Indonesia secara tidak sah.\n(2) Pemberhentian sebagaimana dimaksud dalam ayat (1) dilakukan setelah melalui sidang Komisi Kode Etik Profesi Kepolisian Negara Republik Indonesia.",
+            "title": "\nPEMBERHENTIAN TIDAK DENGAN HORMAT\nPasal 11\nAnggota Kepolisian Negara Republik Indonesia yang diberhentikan tidak\ndengan hormat apabila:\na. melakukan tindak pidana;\n\nb. melakukan pelanggaran;\nc. meninggalkan tugas atau hal lain.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "32290782-3d71-49e7-bf34-14207d9f08f7",
+                    "id": "8c00d617-6980-4658-82c7-820149f6310f",
+                    "name": "Section First",
+                    "title": "\nMelakukan Tindak Pidana",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "c7aee2de-1e47-4e39-a46d-843b082e6e1a",
+                            "name": "Article 12",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "41b7dd11-b027-4c02-8cfe-6e575c39b8d4",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Anggota Kepolisian Negara Republik Indonesia diberhentikan tidak dengan hormat dari dinas Kepolisian Negara Republik Indonesia apabila:\na. dipidana penjara berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap dan menurut pertimbangan pejabat yang berwenang tidak dapat dipertahankan untuk tetap berada dalam dinas Kepolisian Negara Republik Indonesia;\nb. diketahui kemudian memberikan keterangan palsu dan/atau tidak benar pada saat mendaftarkan diri sebagai calon anggota Kepolisian Negara Republik Indonesia;\nc. melakukan usaha atau kegiatan yang nyata-nyata bertujuan mengubah Pancasila, terlibat dalam gerakan, atau melakukan kegiatan yang menentang negara dan/atau Pemerintah Republik Indonesia secara tidak sah.",
+                                    "explanation": "\nCukup jelas"
+                                },
+                                {
+                                    "id": "3039d527-8244-4074-a17c-4bb6f3f76764",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Pemberhentian sebagaimana dimaksud dalam ayat (1) dilakukan setelah melalui sidang Komisi Kode Etik Profesi Kepolisian Negara Republik Indonesia.",
+                                    "explanation": "\nDengan ketentuan ini Komisi Kode Etik Profesi Kepolisian Negara Republik Indonesia sebagaimana dimaksud dalam Pasal 35 Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia berfungsi juga untuk memberikan pertimbangan dalam hal pemberhentian tidak dengan hormat."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "281226eb-e291-4e4f-8375-a3a4e1d4c125",
                     "name": "Section Second",
                     "title": "\nMelakukan Pelanggaran",
                     "type": "section",
                     "children": [
                         {
-                            "id": "e7bdb8e4-e55f-4656-ac97-86c3d28492d6",
+                            "id": "c4471fe2-4e06-4175-927c-073a1b35c59a",
                             "name": "Article 13",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "98625a07-ac89-4517-bc3e-5d358a5e46c0",
+                                    "id": "a1ef68ac-fda2-4a18-a551-922639d3f57a",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Anggota Kepolisian Negara Republik Indonesia dapat diberhentikan tidak dengan hormat dari dinas Kepolisian Negara Republik Indonesia karena melanggar sumpah/janji anggota Kepolisian Negara Republik Indonesia, sumpah/janji jabatan, dan/atau Kode Etik Profesi Kepolisian Negara Republik Indonesia.\n",
-                                    "explanation": "\nCukup jelas"
-                                },
-                                {
-                                    "id": "95c2754a-f371-4bd6-972c-18760a70b502",
-                                    "name": "Verse 2",
-                                    "number": "(2)",
-                                    "type": "verse",
-                                    "content": " Pemberhentian sebagaimana dimaksud dalam ayat (1) dilakukan setelah\nmelalui sidang Komisi Kode Etik Profesi Kepolisian Negara Republik\nIndonesia.",
+                                    "content": " Anggota Kepolisian Negara Republik Indonesia dapat diberhentikan tidak dengan hormat dari dinas Kepolisian Negara Republik Indonesia karena melanggar sumpah/janji anggota Kepolisian Negara Republik Indonesia, sumpah/janji jabatan, dan/atau Kode Etik Profesi Kepolisian Negara Republik Indonesia.\n\n(2) Pemberhentian sebagaimana dimaksud dalam ayat (1) dilakukan setelah\nmelalui sidang Komisi Kode Etik Profesi Kepolisian Negara Republik\nIndonesia.",
                                     "explanation": "\nCukup jelas"
                                 }
                             ]
@@ -184,28 +280,28 @@
                     ]
                 },
                 {
-                    "id": "cc1967e6-8e03-4329-be3b-0653a42e24ec",
+                    "id": "5eb5ac61-c5dd-4fd3-baeb-a82b38827658",
                     "name": "Section Third",
                     "title": "\nMeninggalkan Tugas atau Hal Lain",
                     "type": "section",
                     "children": [
                         {
-                            "id": "c6130933-fd91-4bd5-b580-a07a64443d4e",
+                            "id": "ce8587ca-7968-4edb-9324-7fd59ef55f2a",
                             "name": "Article 14",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "2b06298d-2099-4831-9081-00d70e0fa7d7",
+                                    "id": "69028259-ddf1-40e2-b05f-e26ce958f598",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Anggota Kepolisian Negara Republik Indonesia diberhentikan tidak\ndengan hormat dari dinas Kepolisian Negara Republik Indonesia apabila:\na. meninggalkan tugasnya secara tidak sah dalam waktu lebih dari 30\n(tiga puluh) hari kerja secara berturut-turut;\nb. melakukan perbuatan dan berperilaku yang dapat merugikan dinas\nKepolisian;\nc. melakukan bunuh diri dengan maksud menghindari penyidikan\ndan/atau tuntutan hukum atau meninggal dunia sebagai akibat tindak\npidana yang dilakukannya; atau\nd. menjadi anggota dan/atau pengurus partai politik.",
                                     "explanation": "\nHuruf a\nCukup jelas\nHuruf b\nBerperilaku merugikan antara lain berupa:\n(1) Kelalaian dalam melaksanakan tugas dan kewajiban, dengan sengaja dan\nberulang-ulang dan tidak menaati perintah atasan, penganiayaan terhadap\nsesama anggota Kepolisian Negara Republik Indonesia, penggunaan\nkekuasaan di luar batas, sewenang-wenang, atau secara salah, sehingga dinas\natau perseorangan menderita kerugian.\n(2) Perbuatan yang berulang-ulang dan bertentangan dengan kesusilaan yang\ndilakukan di dalam atau di luar dinas.\n(3) Kelakuan atau perkataan di muka khalayak ramai atau berupa tulisan yang\nmelanggar disiplin.\nHuruf c\nCukup jelas\nHuruf d\nAnggota Kepolisian Negara Republik Indonesia yang diketahui kemudian telah\nmenduduki jabatan atau menjadi anggota partai politik dan setelah\ndiperingatkan/ditegur masih tetap mempertahankan statusnya itu."
                                 },
                                 {
-                                    "id": "31ad3b08-6326-4109-9d5d-3953e8d7b594",
+                                    "id": "3d0e003b-5e5b-4121-a8d7-a43f47b9294a",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Pemberhentian sebagaimana dimaksud dalam ayat (1) dilakukan setelah\nmelalui sidang Komisi Kode Etik Profesi Kepolisian Negara Republik\nIndonesia.",
                                     "explanation": "\nCukup jelas"
@@ -217,17 +313,17 @@
             ]
         },
         {
-            "id": "a0d63921-85c4-4efc-813c-3181845e9696",
+            "id": "215d9f91-975f-4f72-aa78-b4ca8ccc2023",
             "name": "Chapter IV",
             "title": "\nKEWENANGAN MEMBERHENTIKAN\nDAN MEMPERTAHANKAN DALAM DINAS AKTIF",
             "type": "chapter",
             "children": [
                 {
-                    "id": "9c205861-caec-4b87-9d96-ba6f3c8e8df8",
+                    "id": "6675a009-9d50-400a-97a1-0d86418fbed2",
                     "name": "Article 15",
                     "type": "article",
                     "children": {
-                        "id": "e71d56ee-e424-4374-9b65-140e9dfc363a",
+                        "id": "ae1f0629-952e-4871-8c1b-e4e6e0e34f4e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -236,55 +332,55 @@
                     }
                 },
                 {
-                    "id": "6f064f52-8197-4556-9b0a-63f2152213e0",
+                    "id": "66d5b100-18a6-4a2b-b2ec-f5ecb3052008",
                     "name": "Article 16",
                     "type": "article",
                     "children": {
-                        "id": "f18ce0d1-94ea-41ad-ae55-f8b712ab3aec",
+                        "id": "d10c213d-4626-4081-b128-aba050699fea",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMempertahankan anggota Kepolisian Negara Republik Indonesia dalam dinas\naktif sebagaimana dimaksud dalam Pasal 4 ditetapkan oleh:\na. Presiden Republik Indonesia untuk pangkat Komisaris Besar Polisi\n(Kombes Pol) atau yang lebih tinggi;\nb. Kepala Kepolisian Negara Republik Indonesia untuk pangkat Ajun\nKomisaris Besar Polisi (AKBP) atau yang lebih rendah.",
+                        "content": "\nMempertahankan anggota Kepolisian Negara Republik Indonesia dalam dinas\naktif sebagaimana dimaksud dalam Pasal 4 ditetapkan oleh:\na. Presiden Republik Indonesia untuk pangkat Komisaris Besar Polisi\n  (Kombes Pol) atau yang lebih tinggi;\nb. Kepala Kepolisian Negara Republik Indonesia untuk pangkat Ajun\n  Komisaris Besar Polisi (AKBP) atau yang lebih rendah.",
                         "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "d7ed9b17-07ed-4c04-8fbf-b8a1f8c82a44",
+                    "id": "8222d1b1-00b0-45fe-9383-c436c783d141",
                     "name": "Article 17",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ea6a72ae-c526-4ffc-b1aa-4e0cd9ff9183",
+                            "id": "bd807e5d-7335-49af-a32e-95f457c05a37",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Anggota Kepolisian Negara Republik Indonesia yang diberhentikan dari\ndinas Kepolisian Negara Republik Indo-nesia berkewajiban:\na. memegang semua rahasia dinas yang menurut sifatnya harus\ndirahasiakan: dan\nb. tidak menyalahgunakan perlengkapan perorangan dan fasilitas dinas\nsesuai ketentuan yang berlaku.",
-                            "explanation": "\nHuruf a\nMantan anggota Kepolisian Negara Republik Indonesia wajib memegang rahasia\nnegara.\nHuruf b\nTidak menyalahgunakan perlengkapan perseorangan berupa seragam dinas berikut atributnya, dan berkewajiban mengembalikan fasilitas/barang dinas berupa rumah dinas, kendaraan dinas dan senjata api dinas serta fasilitas/barang lainnya pada saat diberhentikan."
+                            "content": " Anggota Kepolisian Negara Republik Indonesia yang diberhentikan dari\ndinas Kepolisian Negara Republik Indo-nesia berkewajiban:\n  a. memegang semua rahasia dinas yang menurut sifatnya harus\n     dirahasiakan: dan\n  b. tidak menyalahgunakan perlengkapan perorangan dan fasilitas dinas\n     sesuai ketentuan yang berlaku.",
+                            "explanation": "\nHuruf a\nMantan anggota Kepolisian Negara Republik Indonesia wajib memegang rahasia\nnegara.\nHuruf b\nTidak menyalahgunakan perlengkapan perseorangan berupa seragam dinas\nberikut atributnya, dan berkewajiban mengembalikan fasilitas/barang dinas\nberupa rumah dinas, kendaraan dinas dan senjata api dinas serta fasilitas/barang\nlainnya pada saat diberhentikan."
                         },
                         {
-                            "id": "6c6f08d8-2545-462b-a5b8-1c7c46de83f8",
+                            "id": "22cbe085-9ee2-46b5-a58c-35ce68b2f840",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Anggota Kepolisian Negara Republik Indonesia, yang diberhentikan\ndengan hormat dari dinas Kepolisian, pada kesempatan tertentu\ndiperkenankan menggunakan pakaian seragam dinas dengan pangkat\nterakhir.",
-                            "explanation": "\nPemberian kesempatan pada saat tertentu misalnya pada hari ulang tahun Kepolisian Negara Repubik Indonesia, yang dimaksudkan antara lain untuk tetap dapat terbinanya jiwa korsa dan tradisi Polri."
+                            "explanation": "\nPemberian kesempatan pada saat tertentu misalnya pada hari ulang tahun Kepolisian\nNegara Repubik Indonesia, yang dimaksudkan antara lain untuk tetap dapat\nterbinanya jiwa korsa dan tradisi Polri."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "b5b9ea40-2b5f-45e3-9262-5211aca405d2",
+            "id": "f015670d-b54f-487c-b3bf-bcb371fa0f05",
             "name": "Chapter V",
             "title": "\nKETENTUAN LAIN-LAIN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "9c73b730-44a4-4feb-b7f9-61e1d9528c65",
+                    "id": "cec87c18-d8c1-45bd-9e3f-3f5dcca0c6fe",
                     "name": "Article 18",
                     "type": "article",
                     "children": {
-                        "id": "e4808290-365d-480c-bf27-8c0d20e15e3e",
+                        "id": "dfd3d747-1d3b-40ae-90ff-f44eed9c33b3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -295,17 +391,17 @@
             ]
         },
         {
-            "id": "9a6f5ba9-5bee-4f36-a915-43632a542e79",
+            "id": "d2e8fa09-6f37-4536-acba-90b8a4654ec2",
             "name": "Chapter VI",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "20395ffa-e895-4f34-964a-c3b476cf0f80",
+                    "id": "f10b3405-978d-49ef-bc9d-2f6b04b403c9",
                     "name": "Article 19",
                     "type": "article",
                     "children": {
-                        "id": "0ebc9f5e-b38e-4c44-8d40-50ff5391d84d",
+                        "id": "64eac6fc-c903-4fa1-99c2-4a410f8151b5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -316,17 +412,17 @@
             ]
         },
         {
-            "id": "a64ce4da-2cc7-4644-b761-c5907ccdf9c7",
+            "id": "a8123174-0a13-4973-b758-74c9a2faa801",
             "name": "Chapter VII",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "a77beb9b-18a9-44e1-be36-10c14983ea90",
+                    "id": "332778c5-5452-4e95-aadc-20a4e4d6618e",
                     "name": "Article 20",
                     "type": "article",
                     "children": {
-                        "id": "04c45e5d-2250-4b68-b535-1bb76134cd72",
+                        "id": "fcd98aa4-4ae3-43bf-bb53-78299725aada",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -347,7 +443,7 @@
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun\n1945",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun\n1945;",
             "2": " Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian Negara\nRepublik Indonesia (Lembaran Negara Tahun 2002 Nomor 2, Tambahan\nLembaran Negara Nomor 4168);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PEMBERHENTIAN ANGGOTA\nKEPOLISIAN NEGARA REPUBLIK INDONESIA.",

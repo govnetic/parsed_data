@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "167c029a-5cb3-43e2-8594-be9bba15f38d",
+            "id": "8de7c37d-a29a-45c2-98be-4030a7e43cb4",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "1c7b6aab-a861-4fa8-b88a-7931e700270c",
+                "id": "a3f6fc74-9e6b-40ba-afb8-9bef95790d65",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "3e43c949-333b-446a-87e3-e71e78781046",
+            "id": "ae1b7a90-1061-4496-aba3-5207da85411e",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "ad8e34db-1a41-4948-b5f4-d94630911278",
+                "id": "969a5697-f88b-4db4-b180-945b955f7b49",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "0919302e-970b-4db3-acfe-636911d49805",
+            "id": "dc8c9018-642c-4c95-ab2c-01ef3af543a5",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "275bf005-554b-4c0e-8890-1a737fff9fdd",
+                "id": "3844acaa-3929-458d-bb71-e2589cfd10e8",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,54 +40,54 @@
             }
         },
         {
-            "id": "f6f61b86-d76d-4e37-a2d9-2899fbf63dee",
+            "id": "6a440207-1919-41a4-9d25-011d7c749474",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "ed0530f0-32ab-4c4c-80a5-26260afc6c0f",
+                "id": "170b5c0f-d0b2-4346-af34-5da2703669e1",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Hak atas tunjangan kehormatan hapus apabila :\na. penerima tunjangan kehormatan tidak seizin Pemerintah menjadi pegawai atau\nanggota tentara negara asing atau menjadi warganegara asing;\nb. penerima tunjangan kehormatan menurut keputusan pejabat/badan yang\nberwenang dinyatakan salah melakukan usaha atau kegiatan yang bertujuan\nmengubah Pancasila dan atau Undang-Undang Dasar 1945 atau terlibat dalam\ngerakan atau melakukan kegiatan yang menentang Negara dan atau Pemerintah.",
+                "content": "Hak atas tunjangan kehormatan hapus apabila :\na. penerima tunjangan kehormatan tidak seizin Pemerintah menjadi pegawai atau anggota tentara negara asing atau menjadi warganegara asing;\nb. penerima tunjangan kehormatan menurut keputusan pejabat/badan yang berwenang dinyatakan salah melakukan usaha atau kegiatan yang bertujuan mengubah Pancasila dan atau Undang-Undang Dasar 1945 atau terlibat dalam gerakan atau melakukan kegiatan yang menentang Negara dan atau Pemerintah.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "8a706a62-ffec-444f-b459-a1d22b32b027",
+            "id": "fe3579cd-e6ec-4b99-8bd6-03c01615098a",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "88672246-f625-4dc6-86f8-7453a93de797",
+                "id": "6ac6cb3d-042c-468e-b871-3a673b09c1b7",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Tunjangan kehormatan sebagaimana dimaksud dalam Pasal 1 dan Pasal 3 diberikan\ndengan keputusan Kepala Badan Administrasi Kepegawaian Negara.",
+                "content": "Tunjangan kehormatan sebagaimana dimaksud dalam Pasal 1 dan Pasal 3 diberikan dengan keputusan Kepala Badan Administrasi Kepegawaian Negara.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "f811a8ec-a734-4396-9650-9c1ced84254b",
+            "id": "5bef93a8-11ec-4c8d-9089-23f4e83bc01d",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "4d9c2822-8f0c-46b9-b8e3-ba48162b09e8",
+                "id": "fc6f8066-dceb-42a8-97d6-ee9bb7f73eb2",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Ketentuan-ketentuan teknis pelaksanaan Peraturan Pemerintah ini, ditetapkan lebih\nlanjut oleh Menteri Keuangan dan Kepala Badan Administrasi Kepegawaian Negara baik\nsecara bersama-sama atau secara sendiri-sendiri menurut bidang tugasnya masing-\nmasing.",
+                "content": "Ketentuan-ketentuan teknis pelaksanaan Peraturan Pemerintah ini, ditetapkan lebih lanjut oleh Menteri Keuangan dan Kepala Badan Administrasi Kepegawaian Negara baik secara bersama-sama atau secara sendiri-sendiri menurut bidang tugasnya masing-masing.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "a46a6b06-0ef6-4569-8f3a-6ab954b6b7e8",
+            "id": "d5db7e73-3476-40ce-b352-1ba6dfc59057",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "bce72533-8eb1-49b1-85fb-2e2ab45c59f5",
+                "id": "f73e1527-ea36-4312-a3be-2f13fac85c30",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1980.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1980.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

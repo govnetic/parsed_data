@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "78a5bfc6-57d6-465e-b902-2e2090f81d73",
+            "id": "731e5606-a99b-4ada-81c1-7c6ed1fc2f3c",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "be8b4060-33da-45fd-845a-e434c00c5fcd",
+                    "id": "93484f2b-ea57-419f-b781-473e507b3376",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "f728e452-5b3a-4956-9a71-4a396d55e9c4",
+                        "id": "c95ae0e6-d83d-4e9c-9e44-5c3e06d4d142",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,22 +20,22 @@
                     }
                 },
                 {
-                    "id": "a0a43cae-e460-418e-9222-c40d365a68fa",
+                    "id": "617a15fc-579d-4f86-b18b-df9b5e5402ff",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "430a4211-cfa9-412b-9089-f66c4bf67dcb",
+                            "id": "d1c09343-c72b-474d-9b54-607b1bbbfe8c",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penambahan penyertaan modal Negara Republik Indonesia sebagaimana dimaksud dalam\nPasal 1 berasal dari pemisahan sebagian kekayaan Negara yang saat ini berada di bawah\npengelolaan Departemen Perindustrian berupa tanah bekas Proyek Pemintalan Kapas\n(PROTAL) yang 10 terletak di Madiun.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2b42d738-b0e3-4198-80ab-fe71bfc62c87",
+                            "id": "c76b1c91-70b6-464f-8fdf-84bb749a7e3b",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Besarnya nila penambahan penyertaan Modal Negara Republik Indonesia ke dalam modal\nsaham Perusahaan Perseroan (PERSERO) PT. LEPPIN ditetapkan oleh Menteri Keuangan\nberdasarkan perhitungan yang dilakukan bersama oleh Departemen Perindustrian dan\nDepartemen Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -45,17 +45,17 @@
             ]
         },
         {
-            "id": "2fee71dd-88e4-4654-868f-e76f1291a90d",
+            "id": "9a6a9420-0d41-4870-9c9d-f2aeb4053bf7",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "db5f4fb3-36b7-453e-bf2f-5c54e8fad7ea",
+                    "id": "51d3047c-b677-4369-b5e9-48e432c61435",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "cd66ff5a-66ba-4e3d-a315-8b3b9b5683f6",
+                        "id": "b22f0dfc-741e-4247-b455-d12f9e6071ce",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -66,17 +66,17 @@
             ]
         },
         {
-            "id": "1e43efcc-2870-4cfc-9ccf-3f1bc6e8883a",
+            "id": "be8a5e15-0a64-4674-b356-08e8dcc6cf97",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ce067637-e7bf-4e42-ad8f-fc06faf79517",
+                    "id": "8a3f89df-e703-4f66-aa59-f1831a61a95a",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "3665f989-9660-4b05-9deb-dba174608e9c",
+                        "id": "acb4cbcc-79a5-44ca-8529-3c4eceff312e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -85,15 +85,15 @@
                     }
                 },
                 {
-                    "id": "8f745875-89cb-40c2-8c28-7da466213d30",
+                    "id": "804e319d-bb0a-420e-9dfe-2d1c8188acb0",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "a19a46a7-b907-4d01-be53-3b7c15867542",
+                        "id": "cf3cf6c9-b9c2-4473-94d4-b188358dbd98",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini\ndengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
@@ -103,7 +103,7 @@
     "metadata": {
         "Nomor": "1",
         "Tahun": "1986",
-        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM\nMODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT. LEPPIN",
+        "Tentang": "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM\nMODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT. LEPPIN\nPRESIDEN REPUBLIK INDONESIA,",
         "Menimbang": {
             "Introduction": "",
             "a": "bahwa untuk lebih meningkatkan dan mengembangkan kegiatan, usaha\nPerusahaan Perseroan (PERSERO) PT. LEPPIN, maka dipandang perlu\nuntuk menambah penyertaan modal Negara Republik Indonesia ke dalam\nmodal saham Perusahaan Perseroan (PERSERO) PT. LEPPIN;",

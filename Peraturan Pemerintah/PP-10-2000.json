@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "fe144a6d-091b-4f92-80d5-ff2035cd972c",
+            "id": "057a93ad-df1b-4235-ae0a-05ee00426e91",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ba09aef4-d3c1-41dc-9545-d3acd39e4d7a",
+                    "id": "5328e7ec-0445-462d-b441-604471080454",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "e14c5b23-2bc7-41db-b682-a505d6c4b7fd",
+                        "id": "188736d0-32d4-43ec-964e-920d6cd5027b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -22,17 +22,17 @@
             ]
         },
         {
-            "id": "db2b86ff-4152-48a0-b653-8e3b6c3d863c",
+            "id": "eca96abb-08ae-4be4-8d6e-d69dbe8d91a9",
             "name": "Chapter II",
             "title": "\nRUANG LINGKUP DAN TUJUAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "da7f551c-c9d5-4983-add4-39cc245ae033",
+                    "id": "f9d5fd11-bb90-4115-bebc-ca37d10ce113",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "57223450-e804-4119-9c85-b9d31b059624",
+                        "id": "b03ca568-0e34-43c2-8217-c8726edbc6d5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -41,11 +41,11 @@
                     }
                 },
                 {
-                    "id": "a5988f57-4b1e-49aa-80aa-143fff2453a4",
+                    "id": "5f96df65-9b66-41a9-ac08-279b0e2b94f6",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "1b86abf2-afcd-4310-b6d3-efef05c1b1c3",
+                        "id": "5ebe5021-2cff-40d9-a553-25d5710e58b4",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -56,34 +56,86 @@
             ]
         },
         {
-            "id": "0dc87cc7-13b5-48a8-81cb-d228f7eff899",
+            "id": "091716b4-a07a-4404-ac68-0fad78ad23b3",
             "name": "Chapter III",
-            "title": "\nJENIS PETA DAN TINGKAT KETELITIAN\nPETA RENCANA TATA RUANG WILAYAH\nBagian Pertama\nUmum\nPasal 4\n(1) Jenis peta, meliputi:\n   a. peta dasar;\n   b. peta wilayah; dan\n   c. peta tematik wilayah.\n(2) Jenis peta harus memiliki karakteristik ketelitian peta yang pasti.\n(3) Karakteristik ketelitian peta menjadi dasar ketelitian bagi pembuatan\npeta rencana tata ruang wilayah.\nPasal 5\nTingkat ketelitian peta untuk penataan ruang wilayah ditentukan berdasarkan\npada skala minimal yang diperlukan untuk merekonstruksi informasi pada\npeta dimuka bumi.",
+            "title": "\nJENIS PETA DAN TINGKAT KETELITIAN\nPETA RENCANA TATA RUANG WILAYAH",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6c23eee0-1106-4ce0-b4af-d0152715c2bd",
+                    "id": "7cc6dd9d-3b18-4e5b-ad7a-9f6a41fd805f",
+                    "name": "Section First",
+                    "title": "\nUmum",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "57ecb3f8-14b8-4bf7-9e59-854f9114c671",
+                            "name": "Article 4",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "98ff99ec-193c-44e7-9fae-aefc5483ed0f",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Jenis peta, meliputi:\n   a. peta dasar;\n   b. peta wilayah; dan\n   c. peta tematik wilayah.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "422acaaf-f483-4bd1-b36f-a4ade84dcd6d",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Jenis peta harus memiliki karakteristik ketelitian peta yang pasti.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "08df83d2-cc95-4fc8-83c1-054dcb7fc2ee",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Karakteristik ketelitian peta menjadi dasar ketelitian bagi pembuatan peta rencana tata ruang wilayah.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "92ab9832-82f1-4b78-a9b0-c0dd4aa66c19",
+                            "name": "Article 5",
+                            "type": "article",
+                            "children": {
+                                "id": "3cb8af7a-9ca6-44e8-afe7-b2c2d670d02a",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nTingkat ketelitian peta untuk penataan ruang wilayah ditentukan berdasarkan pada skala minimal yang diperlukan untuk merekonstruksi informasi pada peta dimuka bumi.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "12ad234b-4f8f-49ab-b565-af0333953746",
                     "name": "Section Second",
                     "title": "\nJenis Peta",
                     "type": "section",
                     "children": [
                         {
-                            "id": "92e758a2-e65b-4463-9908-a83cff3341de",
+                            "id": "3a2340c4-fc50-44db-b3e8-45ad4782e94f",
                             "name": "Article 6",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "620ded9f-1f94-4aed-a13a-1f780583815e",
+                                    "id": "70af9ecc-9bf6-4502-89b3-490f0ec37792",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Peta dasar sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a,\nmenggunakan sistem referensi menurut ketentuan Datum Geodesi\nNasional 1995, sistem proyeksi Transverse Mercator (TM) dengan sistem\ngrid Universal Transverse Mercator (UTM) dan sistem penomoran\nlembar peta secara nasional.",
+                                    "content": " Peta dasar sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a, menggunakan sistem referensi menurut ketentuan Datum Geodesi Nasional 1995, sistem proyeksi Transverse Mercator (TM) dengan sistem grid Universal Transverse Mercator (UTM) dan sistem penomoran lembar peta secara nasional.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "d52f383d-eac4-49c4-b5fc-30ddd1dff173",
+                                    "id": "6b7575a9-85ad-4b81-8575-73e18b726600",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Peta dasar digunakan sebagai dasar bagi pembuatan peta wilayah.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -91,37 +143,37 @@
                             ]
                         },
                         {
-                            "id": "71d9d081-b604-4e6f-8e5f-fa7d52ba670e",
+                            "id": "d7929702-b5a2-4da8-a773-d2b757489092",
                             "name": "Article 7",
                             "type": "article",
                             "children": {
-                                "id": "fbe02a7b-4c7c-4d02-81bf-24139dc3765d",
+                                "id": "0d7e7c70-779f-45a1-9af5-37fb1052c0a5",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nPeta wilayah digunakan sebagai dasar bagi pembuatan peta tematik wilayah\ndan peta rencana tata ruang wilayah.",
+                                "content": "\nPeta wilayah digunakan sebagai dasar bagi pembuatan peta tematik wilayah dan peta rencana tata ruang wilayah.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "2893d3ee-29e1-4632-9885-b4b0382f9d75",
+                            "id": "780a834e-2a29-4673-9a34-ac555885b8ff",
                             "name": "Article 8",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "2e7a3dcc-58d9-4e98-9e22-090b5ff50fdf",
+                                    "id": "abde7653-230f-4591-a689-e4089262fc1d",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Peta tematik wilayah digambarkan berdasarkan pada kriteria, klasifikasi\ndan spesifikasi unsur-unsur tematik yang ditetapkan oleh instansi yang\nmengadakan peta tematik wilayah.",
+                                    "content": " Peta tematik wilayah digambarkan berdasarkan pada kriteria, klasifikasi dan spesifikasi unsur-unsur tematik yang ditetapkan oleh instansi yang mengadakan peta tematik wilayah.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "1be9fefd-b725-4a88-ba93-b4fe9206a4d1",
+                                    "id": "4db88664-f602-4e82-8e7b-456ecd7f50f8",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Peta rencana tata ruang wilayah digambarkan dengan unsur-unsur peta\nwilayah dan unsur-unsur peta rencana tata ruang wilayah.",
+                                    "content": " Peta rencana tata ruang wilayah digambarkan dengan unsur-unsur peta wilayah dan unsur-unsur peta rencana tata ruang wilayah.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
@@ -129,34 +181,34 @@
                     ]
                 },
                 {
-                    "id": "c2c7e6c5-e29a-4275-88c9-307b615e6ebc",
+                    "id": "c3e1f69b-a91d-4f17-99fc-a536880c7124",
                     "name": "Section Third",
                     "title": "\nTingkat Ketelitian Peta Rencana Tata Ruang Wilayah",
                     "type": "section",
                     "children": [
                         {
-                            "id": "adcbee8c-18d2-4995-bd27-f5da2d0421fa",
+                            "id": "f3d20336-7e33-4bc5-9549-756e06924b94",
                             "name": "Paragraph 1",
                             "title": "\nUmum",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "76662061-18e5-4155-b55f-45db1df5866f",
+                                    "id": "1b647d0b-381b-48b6-945b-3891916a7428",
                                     "name": "Article 9",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "0d445aac-4281-487a-a911-e86ff126130d",
+                                            "id": "a4b5855d-60c2-4fed-8e8c-677557194c70",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Peta rencana tata ruang wilayah meliputi tingkat ketelitian peta untuk:\na. peta rencana tata ruang wilayah nasional;\nb. peta rencana tata ruang wilayah daerah propinsi;\nc. peta rencana tata ruang wilayah daerah kabupaten; dan\nd. peta rencana tata ruang wilayah daerah kota.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "9f7c4022-48e4-4652-a207-cf0234991d90",
+                                            "id": "d9e42ab2-c951-4b80-98d5-c67c0a07c6e7",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Tingkat ketelitian peta sebagaimana dimaksud pada ayat (1), diwujudkan",
                                             "explanation": "Tidak ada Penjelasan"
@@ -166,17 +218,17 @@
                             ]
                         },
                         {
-                            "id": "25ef04d9-9288-4dfb-b20c-ed879bbf9c1e",
+                            "id": "753a4aad-fe15-4f51-b5a8-e929f1ca59d1",
                             "name": "Paragraph 2",
                             "title": "\nTingkat Ketelitian Peta Rencana\nTata Ruang Wilayah Nasional",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "53dd24be-d655-4571-bba7-dc08769b9524",
+                                    "id": "6b19bcca-d932-44be-bd4e-3462e282123f",
                                     "name": "Article 10",
                                     "type": "article",
                                     "children": {
-                                        "id": "e1c957f6-5cad-4f5c-8728-250163e2d3c1",
+                                        "id": "7a28c9ff-f5e6-4121-bdae-2a3ed845c2bb",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -185,34 +237,34 @@
                                     }
                                 },
                                 {
-                                    "id": "23177377-5043-43c1-bc27-580e20c325f4",
+                                    "id": "e38c9b6e-130a-4a32-87f7-062fe7b6207a",
                                     "name": "Article 11",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "911586f8-6e11-4dd9-933f-ef6da75f7af5",
+                                            "id": "706e9d46-bf27-404e-aa0f-61cf20ce69ce",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Peta wilayh negara Indonesia sebagaimana dimaksud dalam Pasal 10,\nberpedoman pada tingkat ketelitian minimal berskala 1:1.000.000.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "9894045d-1e22-425a-9f51-8100b0cfceda",
+                                            "id": "22230abf-9c08-45fe-a57d-f45444220cfc",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Peta wilayah negara Indonesia dengan skala 1:1.000.000 meliputi\nunsur-unsur:\na. garis pantai;\nb. hidrologi, berupa laut beserta unsur-unsur di perairan pantainya,\nsungai, danau, waduk atau bendungan yang digambarkan dengan\nskala untuk lebar minimal 125 meter;\nc. permukiman, berupa kota;\nd. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor,\njalan kereta api, jalan lain, bandar udara, pelabuhan;\ne. batas administrasi, berupa batas negara, batas propinsi, batas\nkabupaten, batas kota; dan\nf. nama-nama unsur geografis.",
+                                            "content": " Peta wilayah negara Indonesia dengan skala 1:1.000.000 meliputi\nunsur-unsur:\nA. garis pantai;\nB. hidrologi, berupa laut beserta unsur-unsur di perairan pantainya,\nsungai, danau, waduk atau bendungan yang digambarkan dengan\nskala untuk lebar minimal 125 meter;\nC. permukiman, berupa kota;\nD. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor,\njalan kereta api, jalan lain, bandar udara, pelabuhan;\nE. batas administrasi, berupa batas negara, batas propinsi, batas\nkabupaten, batas kota; dan\nF. nama-nama unsur geografis.",
                                             "explanation": "Tidak ada Penjelasan"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "8e560551-032e-4a27-b381-e67e0dee3e1f",
+                                    "id": "e40f3205-f253-4585-87b5-bede99eb2e34",
                                     "name": "Article 12",
                                     "type": "article",
                                     "children": {
-                                        "id": "55f28d89-4ad5-4843-ac42-88dcc584a3e9",
+                                        "id": "ff815829-f582-41b3-a593-0179a482b72b",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -221,22 +273,22 @@
                                     }
                                 },
                                 {
-                                    "id": "c75068b8-dee8-4f3f-8dfe-091232ec7ffb",
+                                    "id": "307f3be4-d12f-4e3e-9661-00dca0a143d2",
                                     "name": "Article 13",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "c392d49e-e5af-4118-83df-4e4c6a614dae",
+                                            "id": "cc8142f2-0a23-4259-9226-3470fc7d99ff",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Peta rencana tata ruang wilayah nasional digambarkan dalam peta\nwilayah negara Indonesia.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "dcdb5241-fe6d-48b8-a537-b6008fe4d68a",
+                                            "id": "33f737d1-2f6a-4740-86a6-97e61936296c",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Unsur-unsur peta rencana tata ruang wilayah nasional, meliputi\nkawasan lindung, kawasan budidaya, kawasan tertentu, sistem\npermukiman, jaringan transportasi, jaringan kelistrikan dan energi,\njaringan telekomunikasi, sarana dan prasarana air baku dan sistem\njaringan utilitas.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -244,11 +296,11 @@
                                     ]
                                 },
                                 {
-                                    "id": "8c30fdcc-008e-40dd-ba89-16048b6f7efb",
+                                    "id": "3f413d47-ea7f-442d-b050-1faaeca4a883",
                                     "name": "Article 14",
                                     "type": "article",
                                     "children": {
-                                        "id": "1165d04a-b5eb-4202-838b-c436cda84cfc",
+                                        "id": "34edb9d2-7bf5-4e8b-a056-30ff3a63e03a",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -259,17 +311,17 @@
                             ]
                         },
                         {
-                            "id": "c0580b09-79fe-4b2a-a298-2e2cf175f46f",
+                            "id": "74b3e5c3-7dd6-4981-b6d5-abb678c0b4cf",
                             "name": "Paragraph 3",
                             "title": "\nTingkat Ketelitian Peta Rencana Tata\nRuang Wilayah Daerah Propinsi",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "75fa0804-415d-4975-83f9-5c7b78d30764",
+                                    "id": "86ed3902-1cf8-4c54-9c54-f0b1408169aa",
                                     "name": "Article 15",
                                     "type": "article",
                                     "children": {
-                                        "id": "6025997d-da3f-4f1b-ae97-caf90285fdd1",
+                                        "id": "812897a2-c8b9-445e-bada-d572f6087a6c",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -278,22 +330,22 @@
                                     }
                                 },
                                 {
-                                    "id": "457fcf0b-8ee8-45b8-9e6f-473f9d1c7c8b",
+                                    "id": "edfc9e78-5342-4d63-80a1-0701b7261ac1",
                                     "name": "Article 16",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "125afb0a-54af-47ef-9f67-affc3fd595f4",
+                                            "id": "912bba05-5d1b-48c8-8bf9-87ac757039d8",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Peta wilayah daerah propinsi sebagaimana dimaksud dalam Pasal 15,\nberpedoman pada tingkat ketelitian minimal berskala 1:250.000.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "1c068e0a-8483-4d0d-9830-34a93a6ba708",
+                                            "id": "3d7517e6-2c96-41de-b1e7-875c50a6fb8f",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Peta wilayah daerah propinsi dengan skala 1:250.000 meliputi\nunsur-unsur:\na. garis pantai;\nb. hidrologi, berupa laut beserta unsur-unsur di perairan pantainya,\nsungai, danau, waduk atau bendungan yang digambarkan dengan\nskala untuk lebar minimal 35 meter;\nc. permukiman;\nd. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor,\njalan kereta api, jalan lain, bandar udara, pelabuhan;\ne. batas administrasi, berupa batas negara, batas propinsi, batas\nkabupaten, batas kota;\nf. garis kontur, dengan selang kontur yang mempunyai kelipatan 125\nmeter;\ng. titik tinggi; dan\nh. nama-nama unsur geografis.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -301,11 +353,11 @@
                                     ]
                                 },
                                 {
-                                    "id": "1098f057-d427-4578-b748-ef37f8b5473c",
+                                    "id": "6d30659c-ff7d-47e1-8983-7045f58a1d3d",
                                     "name": "Article 17",
                                     "type": "article",
                                     "children": {
-                                        "id": "091d17e5-562d-42d5-af25-d51ae4c1cc3e",
+                                        "id": "b8ac4491-3792-4437-ad4a-4a192f18c3c0",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -314,22 +366,22 @@
                                     }
                                 },
                                 {
-                                    "id": "e7c467bb-e112-4931-919e-9c8cbc523201",
+                                    "id": "8cabc736-4b4f-4f34-b69d-73c54da1e2f6",
                                     "name": "Article 18",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "06ff7542-b793-4d69-bded-05eae5da90bd",
+                                            "id": "b5c48d7e-8dc6-413e-ae3b-d49648280718",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Peta rencana tata ruang wilayah daerah propinsi digambarkan dalam\npeta wilayah daerah propinsi.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "2a3b50de-9685-4630-9d8c-3d6f0c5cc8d9",
+                                            "id": "8e690eea-1816-47c0-9166-1e03e9bfa174",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Unsur-unsur peta rencana tata ruang wilayah daerah propinsi, meliputi\nkawasan lindung, kawasan budidaya, kawasan tertentu, sistem\npermukiman, jaringan transportasi, jaringan kelistrikan dan energi,\njaringan telekomunikasi, sarana dan prasarana air baku dan sistem",
                                             "explanation": "Tidak ada Penjelasan"
@@ -337,43 +389,43 @@
                                     ]
                                 },
                                 {
-                                    "id": "8f8152d1-2111-4393-8601-353462c508cd",
+                                    "id": "f5ec8b76-317d-4323-9809-3f38e57f9cb3",
                                     "name": "Article 19",
                                     "type": "article",
                                     "children": {
-                                        "id": "d1dfc230-ffd1-4bb7-945a-347376ff5484",
+                                        "id": "8df2add7-5505-43c9-9702-2477de3357ca",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
-                                        "content": "\nUnsur-unsur peta rencana tata ruang wilayah daerah propinsi sebagaimana\ndimaksud dalam Pasal 18 ayat (2), digambarkan dengan simbol dan atau\nnotasi pada Lampiran VIII Peraturan Pemerintah ini.",
+                                        "content": "\nPasal 19\nUnsur-unsur peta rencana tata ruang wilayah daerah propinsi sebagaimana\ndimaksud dalam Pasal 18 ayat (2), digambarkan dengan simbol dan atau\nnotasi pada Lampiran VIII Peraturan Pemerintah ini.",
                                         "explanation": "Tidak ada Penjelasan"
                                     }
                                 },
                                 {
-                                    "id": "dc5d9054-4ce6-4832-9e08-4be838c7c09f",
+                                    "id": "12bf8023-6e47-44b2-9346-db5c14ac3adb",
                                     "name": "Article 20",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "c13b7d76-f983-4b4e-a843-be9184a567dd",
+                                            "id": "069869df-50dd-4ba4-99e2-0325315c2f5c",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Dalam hal wilayah daerah propinsi yang bentangan wilayahnya sempit\ndapat digunakan peta wilayah dengan skala 1:100.000 atau skala\n1:50.000.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "ce051d10-4076-476f-a8c2-1b21643a1633",
+                                            "id": "5d45c09b-bb3a-46bb-b73a-7200ead90669",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Peta wilayah daerah propinsi yang menggunakan skala 1:100.000, untuk\nunsur-unsur dan penggambarannya berlaku ketentuan sebagaimana\ndimaksud dalam Pasal 23 ayat (2) dan Pasal 24.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "b4017264-0eb2-4f11-8370-269f529c00f4",
+                                            "id": "520b4d0f-4ae6-4765-91b5-e234ed5c01c9",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
                                             "content": " Peta wilayah daerah propinsi yang menggunakan skala 1:50.000, untuk\nunsur-unsur dan penggambarannya berlaku ketentuan sebagaimana\ndimaksud dalam Pasal 30 ayat (2) dan Pasal 31.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -381,22 +433,22 @@
                                     ]
                                 },
                                 {
-                                    "id": "070d7992-16d1-4f14-93f6-86e3c60b55f6",
+                                    "id": "b9f5d106-a798-4716-858a-f7050eb61480",
                                     "name": "Article 21",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "09407e53-8dce-4312-aa68-92f2a0082f9a",
+                                            "id": "f9cfa1a0-808c-4d57-9c83-90c97227c54d",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Dalam hal peta rencana tata ruang wilayah daerah propinsi digambarkan\ndalam peta wilayah daerah propinsi yang menggunakan skala 1:100.000\nsebagaimana dimaksud dalam Pasal 20 ayat (2), untuk unsur-unsur dan\npenggambarannya berlaku ketentuan sebagaimana dimaksud dalam\nPasal 25 ayat (2) dan Pasal 26.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "e4b3eaf3-e33f-4726-91cb-114c5eef4cbb",
+                                            "id": "274b9aac-da56-4291-bf0f-dae8ecb40efb",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Dalam hal peta rencana tata ruang wilayah daerah propinsi digambarkan\ndalam peta wilayah daerah propinsi yang menggunakan skala 1:50.000\nsebagaimana dimaksud dalam Pasal 20 ayat (3), untuk unsur-unsur dan\npenggambarannya berlaku ketentuan sebagaimana dimaksud dalam\nPasal 32 ayat (2) dan Pasal 33.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -406,17 +458,17 @@
                             ]
                         },
                         {
-                            "id": "39213a40-55a5-4e15-83da-ffa8f81be0ac",
+                            "id": "713c0374-b8ad-4a93-83de-5c98b4620237",
                             "name": "Paragraph 4",
                             "title": "\nTingkat Ketelitian Peta Rencana Tata\nRuang Wilayah Daerah Kabupaten",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "37f7b29b-b3cf-4ab4-ad2c-630361a37eb7",
+                                    "id": "c7ed5473-625b-4acd-9592-d3b371552b55",
                                     "name": "Article 22",
                                     "type": "article",
                                     "children": {
-                                        "id": "ce27d286-a856-4f2f-90e1-1ba664afb0fa",
+                                        "id": "8bab7fc0-a512-4a8b-a56e-f227e99b53b8",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -425,145 +477,142 @@
                                     }
                                 },
                                 {
-                                    "id": "4a019efc-c6e7-4ff7-9385-3463cf4c5528",
+                                    "id": "cc73d639-aeb4-4557-be94-0e83ac6cf4a7",
                                     "name": "Article 23",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "92653239-f39a-4667-a85d-2fccbf97d8f3",
+                                            "id": "2c428a6d-7eb6-46b6-8c98-745f265a5503",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Peta wilayah daerah kabupaten sebagaimana dimaksud dalam Pasal 22\nberpedoman pada tingkat ketelitian minimal berskala 1:100.000.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "266ea386-631b-4603-a45f-217a2d009342",
+                                            "id": "6c10ec3e-576a-4c48-8dbc-5b832c3af215",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Peta wilayah daerah kabupaten dengan skala 1:100.000 unsur-unsurnya\nmeliputi:\na. garis pantai;\nb. hidrologi, berupa laut beserta unsur-unsur di perairan pantainya,\nsungai, danau, waduk atau bendungan yang digambarkan dengan\nskala untuk lebar minimal 35 meter:\nc. permukiman;\nd. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor, jalan\nkereta api, bandar udara digambarkan sesuai dengan skala;\ne. batas administrasi, berupa batas negara, batas propinsi, batas\nkabupaten, batas wilayah daerah kota, batas kecamatan;\nf. garis kontur, dengan selang kontur yang mempunyai kelipatan 50\nmeter;\ng. titik tinggi; dan\nh. nama-nama unsur geografis.",
+                                            "content": " Peta wilayah daerah kabupaten dengan skala 1:100.000 unsur-unsurnya meliputi:\na. garis pantai;\nb. hidrologi, berupa laut beserta unsur-unsur di perairan pantainya, sungai, danau, waduk atau bendungan yang digambarkan dengan skala untuk lebar minimal 35 meter;\nc. permukiman;\nd. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor, jalan kereta api, bandar udara digambarkan sesuai dengan skala;\ne. batas administrasi, berupa batas negara, batas propinsi, batas kabupaten, batas wilayah daerah kota, batas kecamatan;\nf. garis kontur, dengan selang kontur yang mempunyai kelipatan 50 meter;\ng. titik tinggi; dan\nh. nama-nama unsur geografis.",
                                             "explanation": "Tidak ada Penjelasan"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "e55dcd0c-a252-45c4-9b9c-ae3a954916c6",
+                                    "id": "4c45ee89-ef03-4c23-846b-def2fd8e968c",
                                     "name": "Article 24",
                                     "type": "article",
                                     "children": {
-                                        "id": "8f209c14-f33c-4315-83d8-67437b159ee5",
+                                        "id": "ca388d33-a0a2-418a-9772-721d68910c46",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
-                                        "content": "\nUnsur-unsur sebagaimana dimaksud dalam Pasal 23 ayat (2) digambarkan\ndengan simbol dan atau notasi pada Lampiran III Peraturan Pemerintah ini.",
+                                        "content": "\nUnsur-unsur sebagaimana dimaksud dalam Pasal 23 ayat (2) digambarkan dengan simbol dan atau notasi pada Lampiran III Peraturan Pemerintah ini.",
                                         "explanation": "Tidak ada Penjelasan"
                                     }
                                 },
                                 {
-                                    "id": "b72994a4-983a-40ec-8893-d3b4e5402c56",
+                                    "id": "fd7a9ed2-280c-41af-8d54-81222a29477f",
                                     "name": "Article 25",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "013b20b9-114c-4e8a-8a8c-1273e775fbc4",
+                                            "id": "5d0572fe-a1fa-40f1-b969-612358f8aeac",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Peta rencana tata ruang wilayah daerah kabupaten digambarkan dalam\npeta wilayah daerah kabupaten.",
+                                            "content": " Peta rencana tata ruang wilayah daerah kabupaten digambarkan dalam peta wilayah daerah kabupaten.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "c1e6e4c7-4bac-4fd7-9433-483e3834abb3",
+                                            "id": "516cfa33-64b5-4ccd-9a02-c5006b8bbddb",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Unsur-unsur peta rencana tata ruang wilayah daerah kabupaten\nmeliputi kawasan lindung, kawasan budidaya. Sistem permukiman,\njaringan transportasi, jaringan kelistrikan dan energi, jaringan\ntelekomunikasi, sarana dan prasarana air baku dan sistem jaringan\nutilitas.",
+                                            "content": " Unsur-unsur peta rencana tata ruang wilayah daerah kabupaten meliputi kawasan lindung, kawasan budidaya. Sistem permukiman, jaringan transportasi, jaringan kelistrikan dan energi, jaringan telekomunikasi, sarana dan prasarana air baku dan sistem jaringan utilitas.",
                                             "explanation": "Tidak ada Penjelasan"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "05e64fc9-2097-4261-beae-cb48c4fc2d80",
+                                    "id": "c193e5ac-36ba-46ee-9da9-e0872b2ac537",
                                     "name": "Article 26",
                                     "type": "article",
                                     "children": {
-                                        "id": "fcb57377-d0ab-437b-bcad-72435c8aa87f",
+                                        "id": "f1d37bc5-24f9-433b-bfc0-182af5d73c02",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
-                                        "content": "\nUnsur-unsur peta rencana tata ruang wilayah daerah kabupaten sebagaimana\ndimaksud dalam Pasal 25 ayat (2), digambarkan dengan simbol dan atau\nnotasi pada Lampiran IX Peraturan Pemerintah ini.",
+                                        "content": "\nUnsur-unsur peta rencana tata ruang wilayah daerah kabupaten sebagaimana dimaksud dalam Pasal 25 ayat (2), digambarkan dengan simbol dan atau notasi pada Lampiran IX Peraturan Pemerintah ini.",
                                         "explanation": "Tidak ada Penjelasan"
                                     }
                                 },
                                 {
-                                    "id": "118d9a34-4092-4c5b-94da-04f69619ec07",
+                                    "id": "6a6c417d-d984-479b-b091-46a7ebac0104",
                                     "name": "Article 27",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "faacaecc-13d5-4d4d-bf70-68a68da82fbc",
+                                            "id": "cb5c966d-448d-4f4c-b135-3543594f2d78",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Dalam hal wilayah daerah kabupaten yang bentangan wilayahnya sempit\ndapat digunakan peta wilayah dengan wilayah skala 1:50.000 atau skala\n1:25.000.",
+                                            "content": " Dalam hal wilayah daerah kabupaten yang bentangan wilayahnya sempit dapat digunakan peta wilayah dengan wilayah skala 1:50.000 atau skala\n(2) Peta wilayah daerah kabupaten yang menggunakan skala 1:50.000,\nuntuk unsur-unsur dan penggambarannya berlaku ketentuan\nsebagaimana dimaksud dalam Pasal 30 ayat (2) dan Pasal 31.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "dcd5051f-6a09-432b-bef6-2bfb3ed47e31",
-                                            "name": "Verse 2",
-                                            "number": "(2)",
-                                            "type": "verse",
-                                            "content": " Peta wilayah daerah kabupaten yang menggunakan skala 1:50.000,\n     untuk unsur-unsur dan penggambarannya berlaku ketentuan\n     sebagaimana dimaksud dalam Pasal 30 ayat (2) dan Pasal 31.",
-                                            "explanation": "Tidak ada Penjelasan"
-                                        },
-                                        {
-                                            "id": "def31c31-b9a3-46a9-a06f-39cddcf4db08",
+                                            "id": "986b64b5-cb4d-4727-a9e8-2f24d65ff55e",
                                             "name": "Verse 3",
-                                            "number": "(3)",
+                                            "number": "3",
                                             "type": "verse",
-                                            "content": " Peta wilayah daerah kabupaten yang menggunakan skala 1:25.000,\n     untuk unsur-unsur dan penggambarannya berlaku ketentuan\n     sebagaimana dimaksud dalam Pasal 32 ayat (2) dan Pasal 33.\n",
+                                            "content": " Peta wilayah daerah kabupaten yang menggunakan skala 1:25.000,\nuntuk unsur-unsur dan penggambarannya berlaku ketentuan\nsebagaimana dimaksud dalam Pasal 32 ayat (2) dan Pasal 33.",
                                             "explanation": "Tidak ada Penjelasan"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "8a2f429f-a6d6-4fa9-9d50-69d580a67c31",
+                                    "id": "2c288a99-4f03-42ff-b8c2-25953f1f0557",
                                     "name": "Article 28",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "5f1cf3a6-670f-474a-863e-3e07ee20ee5a",
+                                            "id": "5a6e1a65-24fa-4886-9263-afa6f12d8b14",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Dalam hal peta rencana tata ruang wilayah daerah kabupaten\n     digambarkan dalam peta yang menggunakan skala 1:50.000\n     sebagaimana dimaksud dalam Pasal 27 ayat (2), untuk unsur-unsur dan\n     penggambarannya berlaku ketentuan sebagaimana dimaksud dalam\n     Pasal 33.",
-                                            "explanation": "Tidak ada Penjelasan"
-                                        },
-                                        {
-                                            "id": "12d88d65-5a90-46ed-864a-0f2936df94bd",
-                                            "name": "Verse 2",
-                                            "number": "(2)",
-                                            "type": "verse",
-                                            "content": " Dalam hal peta rencana tata ruang wilayah daerah kabupaten\n     digambarkan dalam peta wilayah daerah kabupaten yang menggunakan\n     skala 1:25.000 sebagaimana dimaksud dalam Pasal 27 ayat (3), untuk\n     unsur-unsur dan penggambarannya berlaku ketentuan sebagaimana\n     dimaksud dalam Pasal 35.",
+                                            "content": " Dalam hal peta rencana tata ruang wilayah daerah kabupaten\ndigambarkan dalam peta yang menggunakan skala 1:50.000\nsebagaimana dimaksud dalam Pasal 27 ayat (2), untuk unsur-unsur dan\npenggambarannya berlaku ketentuan sebagaimana dimaksud dalam",
                                             "explanation": "Tidak ada Penjelasan"
                                         }
                                     ]
+                                },
+                                {
+                                    "id": "525b9cab-2f01-4af2-8838-379c25de4905",
+                                    "name": "Article 33",
+                                    "type": "article",
+                                    "children": {
+                                        "id": "d455e45e-4818-4ba5-9fac-b8830c1f398c",
+                                        "name": "Verse 1",
+                                        "number": "(1)",
+                                        "type": "verse",
+                                        "content": "\n(2) Dalam hal peta rencana tata ruang wilayah daerah kabupaten\ndigambarkan dalam peta wilayah daerah kabupaten yang menggunakan\nskala 1:25.000 sebagaimana dimaksud dalam Pasal 27 ayat (3), untuk\nunsur-unsur dan penggambarannya berlaku ketentuan sebagaimana\ndimaksud dalam Pasal 35.",
+                                        "explanation": "Tidak ada Penjelasan"
+                                    }
                                 }
                             ]
                         },
                         {
-                            "id": "4c17e24d-9329-42ec-8443-8684c859c756",
+                            "id": "35e5f0f3-d6d4-46f2-b59a-0c5dfa5c959e",
                             "name": "Paragraph 5",
                             "title": "\nTingkat Ketelitian Peta Rencana Tata\nRuang Wilayah Daerah Kota",
                             "type": "paragraph",
                             "children": [
                                 {
-                                    "id": "f2cb2078-eefc-4b2e-8ae4-4b796a9f3ca9",
+                                    "id": "6e6e5d26-b9b0-4f69-9856-c1b49d52a52f",
                                     "name": "Article 29",
                                     "type": "article",
                                     "children": {
-                                        "id": "7d969172-4df1-4c46-8278-343683aa75e4",
+                                        "id": "36b1a94d-a903-4d00-a4d0-f4bd8bff2665",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -572,34 +621,34 @@
                                     }
                                 },
                                 {
-                                    "id": "81ccb897-a8cf-487d-87f5-f7d001a849a0",
+                                    "id": "9d6d2516-b85a-4097-88b6-327d7393ae7a",
                                     "name": "Article 30",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "d9c9f705-cf01-4a93-8cb7-a187ae3bb2ac",
+                                            "id": "de900eba-26e4-4cf2-b3ef-c5aab74d7e56",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
-                                            "content": " Peta wilayah daerah kota sebagaimana dimaksud dalam Pasal 29,\n     berpedoman pada tingkat ketelitian minimal berskala 1:50.000.",
+                                            "content": " Peta wilayah daerah kota sebagaimana dimaksud dalam Pasal 29,\nberpedoman pada tingkat ketelitian minimal berskala 1:50.000.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "d83269ed-021b-4fc9-a5e9-192e2e5649b6",
+                                            "id": "29eda6d7-c11e-4ed3-b6d4-72f58f745d6b",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Peta wilayah daerah kota dengan skala 1:50.000 unsur-unsurnya\n     meliputi:\n     a. garis pantai;\n     b. hidrologi, berupa laut beserta unsur-unsur di perairan pantainya,\n         sungai, danau, waduk atau bendungan yang digambarkan dengan\n         skala untuk lebar minimal 7 meter;\n     c. permukiman;\n     d. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor,\n         jalan kereta api, jalan setapak, bandar udara dan pelabuhan, bandar\n         udara digambarkan sesuai dengan skala;\n     e. batas administrasi, berupa batas negara, batas propinsi, batas\n         kabupaten, batas kota, batas kecamatan;\n     f. garis kontur, dengan selang kontur yang mempunyai kelipatan 25",
+                                            "content": " Peta wilayah daerah kota dengan skala 1:50.000 unsur-unsurnya\nmeliputi:\na. garis pantai;\nb. hidrologi, berupa laut beserta unsur-unsur di perairan pantainya,\nsungai, danau, waduk atau bendungan yang digambarkan dengan\nskala untuk lebar minimal 7 meter;\nc. permukiman;\nd. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor,\njalan kereta api, jalan setapak, bandar udara dan pelabuhan, bandar\nudara digambarkan sesuai dengan skala;\ne. batas administrasi, berupa batas negara, batas propinsi, batas\nkabupaten, batas kota, batas kecamatan;\nf. garis kontur, dengan selang kontur yang mempunyai kelipatan 25",
                                             "explanation": "Tidak ada Penjelasan"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "2de436c7-8fd3-4fe2-901c-0ee035d22dc4",
+                                    "id": "22c609a0-90b4-4862-82fd-bdcf4d02511c",
                                     "name": "Article 31",
                                     "type": "article",
                                     "children": {
-                                        "id": "73103380-e6d2-4f45-96e1-47676c1c4e18",
+                                        "id": "07ebddbd-75a5-4307-9e7b-f4fdb1b36e85",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -608,22 +657,22 @@
                                     }
                                 },
                                 {
-                                    "id": "b4b0fca8-ea62-4ae9-b344-99dbb6896a26",
+                                    "id": "5844585c-8ad3-40a9-a785-a7615a0e2c41",
                                     "name": "Article 32",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "07f65f5f-eb8b-4ad1-a90d-f21dedb115fd",
+                                            "id": "2599f8fd-31b1-4e51-91db-f18c4087b500",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Peta rencana tata ruang wilayah daerah kota digambarkan dalam peta\nwilayah daerah kota.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "6fd86a2f-ee4f-4c7a-afbf-1aca8b336dde",
+                                            "id": "38d57d5f-f03f-4f97-92aa-b705132b8d68",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
                                             "content": " Unsur-unsur peta rencana tata ruang wilayah daerah kota meliputi\nkawasan lindung, kawasan budidaya, sistem permukiman, jaringan\ntransportasi, jaringan kelistrikan dan energi, jaringan telekomunikasi,\nsarana dan prasarana air baku dan sistem jaringan utilitas.",
                                             "explanation": "Tidak ada Penjelasan"
@@ -631,11 +680,11 @@
                                     ]
                                 },
                                 {
-                                    "id": "93d5b6ac-47aa-4f9f-9117-5a3a4d7fa956",
+                                    "id": "526c3d2e-87d1-432d-9908-5f5b84c3cf7c",
                                     "name": "Article 33",
                                     "type": "article",
                                     "children": {
-                                        "id": "31dff9f5-1d51-4c69-bad7-e8ddb3bda571",
+                                        "id": "0db3d6d9-18ae-4e93-af1b-f4b615b63ea0",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -644,34 +693,34 @@
                                     }
                                 },
                                 {
-                                    "id": "0d12ed09-1a19-4c33-8458-f6302ac89e11",
+                                    "id": "cba945b6-d5de-4857-a3f5-17a13a66353c",
                                     "name": "Article 34",
                                     "type": "article",
                                     "children": [
                                         {
-                                            "id": "aca1ee5d-ccf3-4a47-9697-cf8da14dafc3",
+                                            "id": "a16ed32d-ada5-42ac-9849-9cb6cefb795c",
                                             "name": "Verse 1",
-                                            "number": "(1)",
+                                            "number": "1",
                                             "type": "verse",
                                             "content": " Dalam hal wilayah daerah kota yang bentangan wilayahnya sempit,\ndapat digunakan peta wilayah dengan skala 1:25.000 atau skala\n1:10.000.",
                                             "explanation": "Tidak ada Penjelasan"
                                         },
                                         {
-                                            "id": "14fe85d7-2c2a-42c3-8b99-3b0da60a2369",
+                                            "id": "b399bab2-3d6d-4930-8f66-bee5f6614a92",
                                             "name": "Verse 2",
-                                            "number": "(2)",
+                                            "number": "2",
                                             "type": "verse",
-                                            "content": " Peta wilayah daerah kota yang menggunakan peta wilayah dengan skala\n1:25.000 sebagaimana dimaksud pada ayat (1), unsur-unsurnya\nmeliputi:\na. garis pantai;\nb. hidrografi, berupa laut beserta unsur-unsur di perairan pantainya,\nsungai, terusan, saluran air, danau, waduk atau bendungan yang\ndigambarkan dengan skala untuk lebar minimal 5 meter;\nc. permukiman;\nd. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor,\njalan lokal, jalan lain, jalan setapak, jalan kereta api, bandar udara\ndan pelabuhan;\ne. batas administrasi, berupa batas negara, batas propinsi, batas\nkabupaten, batas kota, batas kecamatan, batas kelurahan;",
+                                            "content": " Peta wilayah daerah kota yang menggunakan peta wilayah dengan skala\n1:25.000 sebagaimana dimaksud pada ayat (1), unsur-unsurnya\nmeliputi:\nA. garis pantai;\nB. hidrografi, berupa laut beserta unsur-unsur di perairan pantainya,\nsungai, terusan, saluran air, danau, waduk atau bendungan yang\ndigambarkan dengan skala untuk lebar minimal 5 meter;\nC. permukiman;\nD. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor,\njalan lokal, jalan lain, jalan setapak, jalan kereta api, bandar udara\ndan pelabuhan;\nE. batas administrasi, berupa batas negara, batas propinsi, batas\nkabupaten, batas kota, batas kecamatan, batas kelurahan;",
                                             "explanation": "Tidak ada Penjelasan"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "77436454-2e97-4ef7-93a4-e36ef1a6b802",
+                                    "id": "965ccffe-06d5-4d33-9697-67fd6e64b5a0",
                                     "name": "Article 35",
                                     "type": "article",
                                     "children": {
-                                        "id": "483d1718-9ddd-402b-b13a-8fd337f47e83",
+                                        "id": "652d4b03-a868-451a-a76e-df7a23916285",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -680,11 +729,11 @@
                                     }
                                 },
                                 {
-                                    "id": "cfc45984-65ff-4a9b-af3f-166235bbd58f",
+                                    "id": "1e533cc7-7e8a-4c80-a054-94d648023009",
                                     "name": "Article 36",
                                     "type": "article",
                                     "children": {
-                                        "id": "9587b142-194d-4bdc-9fea-3808b2cca9ab",
+                                        "id": "36079203-42a7-4b30-b2a4-52fa540ab37a",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -693,11 +742,11 @@
                                     }
                                 },
                                 {
-                                    "id": "f6756844-fc75-4dce-8134-396a6179591b",
+                                    "id": "3e83ea29-dca2-4063-a295-350e3dd777d3",
                                     "name": "Article 37",
                                     "type": "article",
                                     "children": {
-                                        "id": "299ef8a6-2ec5-4b25-8952-3027d6300d39",
+                                        "id": "4d9e0a88-2431-4f1d-86b0-4f31f1e232fa",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -706,11 +755,11 @@
                                     }
                                 },
                                 {
-                                    "id": "684bbc8c-3e06-4a9a-ab4d-74b8e14c8a9d",
+                                    "id": "97fada66-ecbc-4d52-9caf-f3fc491d4534",
                                     "name": "Article 38",
                                     "type": "article",
                                     "children": {
-                                        "id": "211637e9-a522-4e00-8ba9-4fc7cfc18846",
+                                        "id": "31260c7f-3eb9-47c1-998f-e710410809da",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -719,11 +768,11 @@
                                     }
                                 },
                                 {
-                                    "id": "0d1ad373-675d-4c63-a13a-c65684d0e7ae",
+                                    "id": "f42dbee1-5f58-40b4-9699-1b1ed4012dce",
                                     "name": "Article 39",
                                     "type": "article",
                                     "children": {
-                                        "id": "5ea9f3c5-ae06-4c88-9e25-42976d68e098",
+                                        "id": "f0a34c35-fe4e-4e2b-a791-a33852c4e021",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -732,11 +781,11 @@
                                     }
                                 },
                                 {
-                                    "id": "6260f6de-a56a-4645-a5e1-6b1d1540d00c",
+                                    "id": "4ac256c1-6be8-4a2d-8233-78407ec0b27b",
                                     "name": "Article 40",
                                     "type": "article",
                                     "children": {
-                                        "id": "98e5e221-8d0f-460d-a241-290eb63f44e0",
+                                        "id": "09fa0ab4-8b8f-4d3d-a190-24a8b9ec2305",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -745,11 +794,11 @@
                                     }
                                 },
                                 {
-                                    "id": "c2919158-e94c-458f-8ea5-948f4c13c7b9",
+                                    "id": "8f1d50f7-e288-443b-a8b7-42a24fb89464",
                                     "name": "Article 41",
                                     "type": "article",
                                     "children": {
-                                        "id": "e0f45037-286c-4f66-adf0-8071d779a4a6",
+                                        "id": "d5b36200-6a8a-42db-a8a2-bcb1cee6e80e",
                                         "name": "Verse 1",
                                         "number": "(1)",
                                         "type": "verse",
@@ -764,36 +813,36 @@
             ]
         },
         {
-            "id": "fad6b44f-f332-425a-befb-a300f0d669bb",
+            "id": "509e4b08-6e23-4fa0-9337-8819ff534ade",
             "name": "Chapter IV",
             "title": "\nPENGADAAN DAN PEMBINAAN TEKNIS",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2819b2da-5c43-4dd0-888a-d797a1efcf03",
+                    "id": "bf414057-ef7a-4bf2-8a65-9a510c8c483f",
                     "name": "Article 42",
                     "type": "article",
                     "children": [
                         {
-                            "id": "abc2857f-1f68-43cc-acfa-c0bf12b03e07",
+                            "id": "952cf563-cbe1-4193-ba3e-3cf8eb3bb76d",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pengadaan peta wilayah negara Indonesia, peta wilayah daerah propinsi,\npeta wilayah daerah kabupaten dan peta wilayah daerah kota\ndiselenggarakan oleh instansi yang bertanggung jawab.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8a521b4b-121d-437f-ba0e-15b591feb4ac",
+                            "id": "8a514374-3f01-492a-a78a-c19380694a56",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pengadaan Peta wilayah daerah propinsi, peta wilayah daerah kabupaten\ndan peta wilayah daerah kota dapat diselenggarakan oleh instansi terkait\ndi daerah dengan mengikuti ketentuan dalam Peraturan Pemerintah ini.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "3bc94b01-dacd-4b9a-ba23-8f59ae60b5e0",
+                            "id": "cabc6fc2-a985-49d8-a8bc-1304b741bee8",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Pengadaan peta tematik wilayah diselenggarakan oleh instansi yang\nmengadakan peta tematik wilayah.",
                             "explanation": "Tidak ada Penjelasan"
@@ -801,22 +850,22 @@
                     ]
                 },
                 {
-                    "id": "49d4d039-c353-4d4d-b8dc-06a4d6dfff74",
+                    "id": "59187678-6724-4b70-9155-d38cc8204227",
                     "name": "Article 43",
                     "type": "article",
                     "children": [
                         {
-                            "id": "338f8702-ecf7-4c0b-98ba-c5bb10f475e6",
+                            "id": "09e156e8-c1f2-45c2-b449-c243a825edad",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pembinaan teknis untuk memelihara kualitas peta wilayah dan peta\nrencana tata ruang wilayah diselenggarakan oleh instansi yang\nbertanggung jawab.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "052260dd-69c1-4a52-bab6-9dabbca16711",
+                            "id": "1e409f12-cbce-47e9-a437-eacc516dcb13",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pembinaan teknis untuk memelihara kualitas peta tematik wilayah\ndiselenggarakan oleh instansi yang mengadakan peta tematik wilayah.",
                             "explanation": "Tidak ada Penjelasan"
@@ -824,11 +873,11 @@
                     ]
                 },
                 {
-                    "id": "e1409688-e918-4c16-8407-856a1fa81d52",
+                    "id": "8b96c388-f7e7-4f23-b387-ee7e390c24ae",
                     "name": "Article 44",
                     "type": "article",
                     "children": {
-                        "id": "ced3c218-7b17-41b0-ae90-0dd599d6d506",
+                        "id": "a2a412c1-a435-4b72-85dc-6ad0b97c860f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -839,28 +888,28 @@
             ]
         },
         {
-            "id": "38aa546b-3129-4f8e-b91c-4d535d4f903f",
+            "id": "abe6cb08-ec3d-4b68-8032-34d03c75a33e",
             "name": "Chapter V",
             "title": "\nPERAN SERTA MASYARAKAT",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f6b61728-4b83-4948-a621-0c207edadb33",
+                    "id": "a5275950-6c1b-455b-a0f4-b9e8298c55b5",
                     "name": "Article 45",
                     "type": "article",
                     "children": [
                         {
-                            "id": "aba6fc4b-1432-43f4-a529-ac1fe80e4ec2",
+                            "id": "b99aa467-5d5d-4b37-962a-e30547212f99",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Masyarakat berhak mengetahui peta wilayah melalui katalog peta\nwilayah yang disusun oleh instansi yang bertanggung jawab.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "4011902a-6e53-433f-a299-b0fd0aa46352",
+                            "id": "ed29ac21-eb7c-4ca3-9272-29fdc6babe6a",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Masyarakat berhak mengetahui peta tematik wilayah melalui katalog\npeta tematik wilayah yang disusun oleh instansi yang mengadakan peta\ntematik wilayah.",
                             "explanation": "Tidak ada Penjelasan"
@@ -868,11 +917,11 @@
                     ]
                 },
                 {
-                    "id": "e157b0bf-8bbc-441f-9866-3f8629a2453c",
+                    "id": "f0e876c1-712d-4ef6-8452-ae410d6f4650",
                     "name": "Article 46",
                     "type": "article",
                     "children": {
-                        "id": "af9611d4-6563-4c93-8f66-7a96cb97af18",
+                        "id": "cae40846-f6ac-40c2-93ee-00266c08392b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -883,17 +932,17 @@
             ]
         },
         {
-            "id": "eee8f6fc-d183-4b3b-9d7b-0744347358e5",
+            "id": "074ba901-a0e3-4aff-8c9d-ed314bf2bc50",
             "name": "Chapter VI",
             "title": "\nKETENTUAN LAIN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "9b6dca32-feb5-43ae-84f5-b603126a72f3",
+                    "id": "538ca428-9906-4c84-a46b-8d97b1ff0a67",
                     "name": "Article 47",
                     "type": "article",
                     "children": {
-                        "id": "07105147-35c0-49db-b3af-a7f62c27ef67",
+                        "id": "7638fdc7-3a6c-4245-8acb-176356e0ecfc",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -902,11 +951,11 @@
                     }
                 },
                 {
-                    "id": "63d5e32f-e59d-4e09-af1a-1aa13f14cfdc",
+                    "id": "86128334-4208-4415-8e56-39b281033630",
                     "name": "Article 48",
                     "type": "article",
                     "children": {
-                        "id": "d0e03575-a38f-4598-9903-9a5ffd635ca1",
+                        "id": "118f3bc1-e5c0-433b-9155-f357b752c2df",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -917,28 +966,28 @@
             ]
         },
         {
-            "id": "062f226f-bdd9-4bc0-82ae-0d0561ae1177",
+            "id": "9225a275-7ff0-4fbd-9e1c-bf2e04c313dd",
             "name": "Chapter VII",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "83a75e47-6b02-45bc-9809-8f430a343ddf",
+                    "id": "31784cae-0fec-4ecc-a1a1-4addd386e192",
                     "name": "Article 49",
                     "type": "article",
                     "children": [
                         {
-                            "id": "059bd924-89de-4228-b734-16af9a4398ca",
+                            "id": "cbfce6ba-76f7-4034-aab7-f09927b38dca",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pada saat mulai berlakunya Peraturan Pemerintah ini, maka semua peta\nwilayah dan rencana tata ruang wilayah yang telah ada harus\ndisesuaikan dengan ketentuan Peraturan Pemerintah ini.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "434185ee-51d5-4fa7-be84-fc84e88112eb",
+                            "id": "83992ac8-5120-456f-aaf4-0188fbe81638",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Penyesuaian sebagaimana dimaksud pada ayat (1) harus diselesaikan\nselambat-lambatnya dalam tiga tahun setelah berlakunya Peraturan\nPemerintah ini.",
                             "explanation": "Tidak ada Penjelasan"
@@ -948,17 +997,17 @@
             ]
         },
         {
-            "id": "ffe13f9b-b1e9-4107-91d7-71b10b3e2cb8",
+            "id": "9a4b0b69-f212-4b82-907e-56dfa312a375",
             "name": "Chapter VIII",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "d25dea4c-d9de-4cac-a6e3-52e18aa8ad83",
+                    "id": "161c4253-9d38-4415-9534-e9db0fa807d6",
                     "name": "Article 50",
                     "type": "article",
                     "children": {
-                        "id": "e6cb6dc3-064d-4a37-afe9-b11b00e9dc0a",
+                        "id": "3a597e35-fe7b-4cf5-bdea-32dd301abd51",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",

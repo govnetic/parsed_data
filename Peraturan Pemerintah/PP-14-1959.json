@@ -1,0 +1,168 @@
+{
+    "results": [
+        {
+            "id": "b1e5ddc4-fa1a-4d94-ae43-6a15bb9a9dec",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "80ca6f25-b94f-47bd-8473-ca72f455bb98",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Bagian dari penerimaan pajak pendapatan (\"Ordonansi pajak peralihan 1944\", Staatsblad 1944 No. 17 jo. Undang-undang No. 21 tahun 1957, Lembaran-Negara 1957 No. 41) seperti: dimaksud dalam pasal 4 ayat (1) huruf a \"Undang-undang Perimbangan Keuangan 1957\", sepanjang mengenai ketetapan besar, ditetapkan sebesar:\na. 60% (enam puluh persen) bagi daerah-daerah tingkat I, kecuali Daerah tingkat I Jakarta Raya,\nb. 10% (sepuluh persen) bagi Daerah tingkat I Jakarta Raya,\nc. 30% (tiga puluh persen) bagi daerah-daerah tingkat II, kecuali daerah-daerah tingkat II (Kotapraja) Surabaya, Kediri, Malang, Semarang, Bogor, Bandung, Palembang, Tanjungkarang/Teluk Betung, Pangkalpinang, Medan, Padang, Pontianak dan Daerah-daerah tingkat II (Kabupaten lama) Bondowoso, Panarukan, Jember, Banyuwangi, Musi/Banyuasin, Deli/Serdang, Simelungun, dan bagian itu diserahkan kepada masing-masing daerah, dalam wilayah mana pajak tersebut dipungut.\n(2) Kepada daerah-daerah tingkat II dimaksud di bawah ini diserahkan persentasi, sebagai tertera di belakang nama daerah-daerah tingkat II tersebut, dari pajak pendapatan dimaksud dalam ayat (1), dalam wilayah mana pajak tersebut dipungut.\nDaerah tingkat II.\na. (Kotapraja):\n1. Surabaya 3% (tiga persen)\n2. Kediri 15% (lima belas persen)\n3. Malang 3% (tiga persen)\n4. Semarang 3% (tiga persen)\n5. Bogor 3% (tiga persen)\n6. Bandung 3% (tiga persen)\n7. Palembang 3% (tiga persen)\n8. Tanjung Karang/Teluk Betung 3% (tiga persen)\n9. Pangkalpinang 8% (delapan Persen)\n10. Padang 3% (tiga persen)\n11. Medan 3% (tiga persen)\n12. Pontianak 6% (enam persen).\nDaerah tingkat II:\nb. (Kabupaten lama):\n1. Bondowoso 8% (delapan persen)\n2. Panarukan 3% (tiga persen)\n3. Jember 3% (tiga persen)\n4. Banyuwangi 3% (tiga persen)\n5. Musi/Banyuasin 3% (tiga persen)\n6. Deli/Serdang 3% (tiga persen)\n7. Simelungun 20% (dua puluh persen).\n(3) Bagian dari penerimaan pajak pendapatan seperti dimaksud dalam pasal 4 ayat (1) huruf a, \"Undang-undang Perimbangan Keuangan 1957\", sepanjang mengenai ketetapan kecil, ditetapkan bagi daerah-daerah tingkat II sebesar 90% (sembilan puluh persen) dan bagian itu diserahkan kepada masing-masing daerah, dalam wilayah mana pajak tersebut dipungut.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "12466e40-b9fc-4e03-8c6e-38fec4e91e3f",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "b7997913-7d03-404e-b496-da1d685fc538",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Bagian dari penerimaan pajak upah (\"Ordonansi pajak upah 1934\", Staatsblad No. 611) seperti dimaksud dalam pasal 4 ayat (1) huruf b \"Undang-undang Perimbangan Keuangan 1957\", ditetapkan sebesar:\na. 90% (sembilan puluh persen) bagi daerah-daerah tingkat II, kecuali Daerah-daerah tingkat II (Kotapraja) Surabaya, Semarang, Bogor, Bandung, Palembang, Tanjungkarang/Teluk Betung, Padang, Medan dan Daerah-daerah tingkat II (Kabupaten lama) Panarukan, Jember, Banyuwangi, Deli/Serdang, dan bagian itu diserahkan kepada masing-masing daerah, dalam wilayah mana pajak tersebut dipungut.\nb. 10%(sepuluh persen) bagi Daerah tingkat I Jakarta Raya.\n(2) Kepada daerah-daerah tingkat II dimaksud di bawah ini diserahkan persentasi, sebagai tertera di belakang nama daerah-daerah tingkat II tersebut, dari pajak upah dimaksud dalam ayat (1), dalam wilayah mana pajak tersebut dipungut.\nDaerah tingkat II:\na. (Kotapraja):\n1. Surabaya 30% (tiga-puluh persen)\n2. Semarang 75% (tujuh puluh lima Persen)\n3. Bogor 65% (enam puluh lima persen)\n4. Bandung 70% (tujuh puluh persen)\n5. Palembang 60% (enam puluh persen)\n6. Tanjungkarang/Teluk Betung 55% (lima puluh lima persen)\n7. Padang 70% (tujuh puluh persen)\n8. Medan 6% (enam persen).\nB (Kabupaten lama):\n1. Panarukan 80% (delapan puluh persen)\n2. Jember 5% (lima persen)\n3. Banyuwangi 75% (tujuh puluh lima persen)\n4. Deli/Serdang 60% (enam puluh persen).",
+                "explanation": "\nPada dasarnya penerimaan pajak upah (Ordonanasi pajak upah 1934, Staatsblad 1934 No. 611) hanya diberikan sebagian kepada Daerah-daerah tingkat II, akan tetapi oleh karena dalam Kotapraja Jakarta Raya tidak terdapat Daerah-daerah tingkat II, maka dianggap perlu dan sudah pada tempatnya, bahwa sebagian dari pajak upah dimaksud diberikan pula kepada Daerah tingkat I Jakarta Raya."
+            }
+        },
+        {
+            "id": "687e2928-198e-4c87-aaf6-85822073bda6",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "b2d7ca96-b541-45a9-9354-f48e337f770d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Bagian dari penerimaan pajak meterai (\"Peraturan bea meterai 1921 \", Staatsblad 1921 No. 498) seperti dimaksud dalam pasal 4 ayat (1) huruf c \"Undang-undang Pertimbangan Keuangan 1957\", ditetapkan sebesar 90% (sembilan puluh persen) bagi daerah-daerah tingkat I, kecuali Daerah tingkat I Jakarta Raya, dan bagian itu diserahkan kepada masing-masing daerah dalam wilayah mana pajak tersebut dipungut.\n(2) Kepada Daerah tingkat I Jakarta Raya diserahkan 2% (sepuluh persen) dari penerimaan pajak meterai dalam wilayah mana pajak tersebut dipungut.",
+                "explanation": "\nBagian dari penerimaan pajak meterai (Peraturan bea meterai 1921. Staatsblad 1921 No. 498) ditetapkan hanya untuk Daerah tingkat I, karena sukar diketahui dimana tempat kediaman sebenarnya dari pemakai meterai itu."
+            }
+        },
+        {
+            "id": "5cac8379-c5e2-42ab-83af-f37c8f66abab",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "ee808bc5-9ed9-4dbf-8575-d5068c0082e0",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Bagian dari penerimaan:\na. pajak kekayaan (“Ordonansi pajak kekayaan 1932\", Staatsblad 1932 No. 405).\nb. pajak perseroan (“Ordonansi pajak perseroan 1925\" Staatsblad 1925 No. 319) seperti dimaksud dalam pasal 4 ayat (2) \"Undang-undang Perimbangan Keuangan 1957\" ditetapkan sebesar 75% (tujuh puluh lima persen) dan bagian itu diserahkan kepada masing-masing daerah tingkat I, kecuali Daerah tingkat I Jakarta Raya, dalam wilayah mana pajak tersebut dipungut.\n(2) Kepada Daerah tingkat I Jakarta Raya diserahkan 10% (sepuluh persen) dari pajak kekayaan dan 0,25% (dua puluh lima per seratus persen), dari pajak perseroan dalam wilayah mana pajak-pajak tersebut dipungut.",
+                "explanation": "\nBerhubung dengan kenyataan, bahwa pajak kekayaan (Ordonansi pajak kekayaan 1932, Staatsblad 1932 No. 405) dan pajak perseroan. (Ordonansi pajak perseroan 1925, Staatsblad 1925 No. 319) selalu ditetapkan berdasarkan alasan-alasan yang senantiasa terdapat dalam lingkungan Daerah tingkat I. maka karena itulah sebagian dari penerimaan kedua pajak tersebut diserahkan kepada Daerah-daerah tingkat I."
+            }
+        },
+        {
+            "id": "55f9fac8-0415-4231-aab7-958002090516",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "a0f1f6ba-e9be-4efd-b477-76f46e9b5ba7",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Bagian dari penerimaan:\na. bea masuk.\nb. bea keluar, seperti dimaksud dalam pasal 5 ayat (1) \"Undang-undang Perimbangan Keuangan 1957\" ditetapkan sebesar 50% (lima puluh persen) dan bagian itu diserahkan kepada masing-masing daerah tingkat I, kecuali Daerah tingkat I Jakarta Raya, dalam wilayah mana bea-bea tersebut dipungut.\n(2) Kepada Daerah tingkat I Jakarta Raya diserahkan 0,5% (lima\npersepuluh persen) dari penerimaan bea masuk dan bea keluar\ndalam wilayah mana bea-bea tersebut dipungut.",
+                "explanation": "\nPada dasarnya penetapan bagian dari penerimaan bea keluar\nmasuk diperuntukkan bagi Daerah-daerah tingkat I, karena\npenerimaan terebut merupakan hasil dari pada pemakaian serta\npengeluaran barangbarang dari seluruh Daerah tingkat I yang\nbersangkutan. Didalam hal ini Daerah tingkat I Jakarta Raya,\ndengan adanya pelabuhan ekspor dan impor yang terpenting\ndiwilayahnya dan yang dipergunakan untuk kepentingan seluruh\nIndonesia, memperoleh pula sebagian dari penerimaan bea\nkeluar/masuk tersebut."
+            }
+        },
+        {
+            "id": "768553a8-f035-4dcc-bf11-b67b02db36c0",
+            "name": "Article 6",
+            "type": "article",
+            "children": {
+                "id": "abe4226c-f69c-48d6-81f3-e3e5612b655b",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Bagian dari penerimaan cukai seperti dimaksud dalam pasal 5\nayat (1) \"Undang-undang Perimbangan Keuangan 1957\" ditetapkan\nsebesar 10% (sepuluh persen) dan bagian itu diserahkan kepada\nmasing-masing daerah tingkat I, kecuali Daerah tingkat I\nJakarta Raya, dalam wilayah mana cukai tersebut dipungut.\n(2) Kepada Daerah tingkat I Jakarta Raya diserahkan 2% (dua\npersen) dari penerimaan cukai, dalam wilayah mana cukai\ntersebut dipungut.\n(3) Mengenai cukai minyak tanah pemberian bagian kepada masing-\nmasing daerah tingkat I didasarkan atas pemakaian minyak\ntanah di daerah itu.",
+                "explanation": "\nKetentuan dalam pasal 6 ini merupakan pelaksanaan lanjutan\ndari pada perimbangan keuangan antara Pusat dan daerah untuk\ndapat memberikan jaminan terhadap sumber-sumber keuangan\ndaerah seperti yang dimaksudkan dalam \"Undang-undang\nPerimbangan Keuangan 1957\". Seperti halnya tercantum dalam\npenjelasan dari pada pasal 5, maka bagian dari cukai ini\nditetapkan untuk Daerahdaerah tingkat I, dalam wilayah mana\ncukai itu dipungut.\nDalam ayat 3 diadakan ketentuan, bahwa mengenai cukai minyak\ntanah pemberian bagian didasarkan tas pemakaian. Hal ini\ndisebabkan, karena pembayaran cukai minyak tanah itu\ndilakukan seluruhnya oleh Kantor Besar perusahaan-perusahaan\nminyak dan tidak oleh perusahaanperusahaan minyak setempat."
+            }
+        },
+        {
+            "id": "8ef5d18a-db23-4bcb-a138-6902c1050dd5",
+            "name": "Article 7",
+            "type": "article",
+            "children": {
+                "id": "b6a985c5-4de1-40cd-9ae0-e059753d0172",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Penyerahan tersebut pasal 1 sampai dengan 4 dilaksanakan oleh\nKantor Pusat Perbendaharaan Negara atas permintaan dari\nKantor Inspeksi Keuangan yang bersangkutan.\n(2) Penyerahan tersebut pasal 5 dan 6 dilaksanakan oleh Kantor\npusat Perbendaharaan Negara atas permintaan dari Kantor\nDaerah Bea-Cukai yang bersangkutan.\n(3) Penyerahan tersebut pasal 5 dan 6, yang tidak dipungut\nmelalui sesuatu Kantor Bea-Cukai, diatur oleh Kantor Besar\nJawatan Bea-Cukai.\n(4) Penyerahan-penyerahan tersebut ayat (1), (2) dan (3)\ndilakukan tiap-tiap bulan.\n(5) Pengeluaran-pengeluaran tersebut ayat (1), (2) dan (3)\ndibebankan atas mata-anggaran 4.1.7.36 dari anggaran belanja\ntahun 1959 dari Kementerian Keuangan.",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "e1863473-9f00-45d2-823b-8e645d5e68b0",
+            "name": "Article 8",
+            "type": "article",
+            "children": {
+                "id": "6a7dec8a-bba5-47bf-8658-9cb9259a8dc6",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Menteri Dalam Negeri dapat memberikan ganjaran, subsidi dan\nsumbangan dalam arti pasal 7, 8 dan 9 \"Undang-undang\nPerimbangan Keuangan 1957\" kepada daerah-daerah.\n(2) Pengeluaran tersebut ayat (1) dibebankan\natas anggaran\nbelanja tahun 1959 dari Kementerian Dalam Negeri.",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "815a09e7-3d3f-40f7-9c2c-edf45918b027",
+            "name": "Article 9",
+            "type": "article",
+            "children": {
+                "id": "bf3563a0-1489-40d1-98b3-1f77494140aa",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Pelaksanaan selanjutnya serta penyelesaian persoalan yang timbul\ndalam pelaksanaan Peraturan Pemerintah ini diatur dalam instruksi\nbersama Menteri Dalam Negeri dan Menteri Keuangan.",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "1586670d-da29-4110-b7fb-925b4ee1d658",
+            "name": "Article 10",
+            "type": "article",
+            "children": {
+                "id": "a0bba999-6649-4425-9bb6-a01020371f59",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan ini berlaku untuk tahun anggaran 1959.",
+                "explanation": "\nCukup jelas.\nDiketahui:\nMenteri Kehakiman,\nttd.\nG. A. MAENGKOM.\nLEMBARAN NEGARA TAHUN 1959 NOMOR 26 DAN "
+            }
+        },
+        {
+            "id": "81b56127-596a-48ff-8792-77f9bc7e89f2",
+            "name": "Article 11",
+            "type": "article",
+            "children": {
+                "id": "7cbedfb6-fbe8-4a92-9cd6-fcdf8fe39341",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan dan\nberlaku surut sampai 1 Januari 1959.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran-Negara.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "14",
+        "Tahun": "1959",
+        "Tentang": "PENETAPAN PRESENTASI DARI BEBERAPA PENERIMAAN\nNEGARA UNTUK DAERAH\nBerkehendak:\nMelaksanakan lebih lanjut ketentuan dalam \"Undang-undang\nPertimbangan Keuangan 1957\", khususnya untuk menetapkan bagian\ndaerah dari hasil yang diperoleh berdasarkan pasal 4 ayat (1) dan\n(2) dan pasal 5 ayat (1);\nMemperhatikan:\nKeputusan Panitia II (Ekonomi, Keuangan dan Pembangunan)\nMusyawarah Nasional pada tanggal 15 September 1957, yang antara\nlain menyarankan agar supaya:\na. dalam peraturan pelaksanaan perimbangan keuangan, bagian-\nbagian yang diperoleh masing-masing daerah dari pajak yang\ndipungut (dikenakan di dalam wilayahnya, ditetapkan secara\nmutlak, menurut sifat pajak dan keadaan daerah masing-\nmasing);\nb. daerah-daerah sejauh mungkin dan secara langsung , dapat\nmemperoleh bagiannya masing-masing;",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa Peraturan Pemerintah No. 12 tahun 1958 (Lembaran-\nNegara 1958 No. 23) hanya berlaku untuk tahun anggaran 1958;",
+            "b": " bahwa perimbangan keuangan berdasarkan \"Undang-undang\nPerimbangan Keuangan 1957\" sesuai dengan kebijaksanaan\nkeuangan Pemerintah sebagai yang telah ditentukan dalam\nanggaran Negara 1959 perlu mendapat penyelenggaraan lebih\nlanjut dalam tahun 1959;",
+            "c": " bahwa berhubung dengan itu dan sejalan dengan saran\nMusyawarah Nasional dimaksud di atas, sebagai tindakan\nsementara pasal 4 ayat (1) dan (2) dan pasal 5 ayat (1)\n\"Undang-undang Perimbangan Keuangan 1957\" dilaksanakan\ndemikian sehingga masing-masing daerah secara langsung dapat\nmemperoleh bagiannya;",
+            "d": " bahwa dengan mengetahui secara langsung dan kongkrit sumber-\nsumber penghasilan daerah dan jumlah penghasilan dari sumber-\nsumber itu, daerah-daerah dapat segera menuju kearah\npenyusunan anggaran keuangan yang normal;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Panitia Negara Perimbangan Keuangan;",
+            "2": " Dewan Menteri dalam sidangnya pada tanggal 25 Maret 1959;",
+            "3": " Undang-undang tentang Penetapan Anggaran Negara Bagian III dan IV tahun 1959;",
+            "4": " pasal 98 Undang-undang Dasar Sementara Republik Indonesia;\nMendengar"
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang penetapan persentasi dari beberapa penerimaan Negara untuk Daerah.",
+        "tanggal sah": "1 Januari 1959"
+    }
+}

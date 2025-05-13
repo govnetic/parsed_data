@@ -1,209 +1,251 @@
 {
     "results": [
         {
-            "id": "55a3e3ce-63e4-4dc7-8e20-25872708a9df",
+            "id": "16254b95-c28c-4e9f-9943-0ef5e66b0a62",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "16278370-aa96-4787-8eec-293d051830ae",
+                    "id": "4db7db57-2d02-42f7-9ddb-3501502a9c0e",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "f1e019d9-16f4-4bd8-9b85-34fe06ff5a1a",
+                        "id": "b0f96193-e54e-46bd-8bdd-8be1a9a5c84f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan Ketenagalistrikan, Tenaga Listrik, Penyediaan Tenaga Listrik, Pemanfaatan Tenaga Listrik, Kuasa Usaha Ketenagalistrikan, Izin Usaha Ketenagalistrikan, dan Menteri adalah sebagaimana dimaksud dalam Undang-undang Nomor 15 Tahun 1985.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan\nKetenagalistrikan, Tenaga Listrik, Penyediaan Tenaga Listrik,\nPemanfaatan Tenaga Listrik, Kuasa Usaha Ketenagalistrikan, Izin\nUsaha Ketenagalistrikan, dan Menteri adalah sebagaimana dimaksud\ndalam Undang-undang Nomor 15 Tahun 1985.",
+                        "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "08658edd-46ab-4f64-b213-ac00e2d75285",
+                    "id": "0e2166a3-86bb-41a6-b1f7-893334ab5f5e",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b4cd9852-d55b-45b9-952d-239b7948c5b9",
+                            "id": "407a792c-6cee-449e-ae37-df83fe43887c",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Penyediaan dan pemanfaatan tenaga listrik dilaksanakan berdasarkan Rencana Umum Ketenagalistrikan Nasional.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Penyediaan dan pemanfaatan tenaga listrik dilaksanakan\nberdasarkan Rencana Umum Ketenagalistrikan Nasional.",
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "a94cfcb2-f538-4f67-8661-771197563c77",
+                            "id": "2ef215da-8f62-4138-8aef-8008274f0f54",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Presiden menetapkan Rencana Umum Ketenagalistrikan Nasional sebagai bagian dari Rencana Pembangunan Lima Tahun di bidang ketenagalistrikan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Presiden menetapkan Rencana Umum Ketenagalistrikan Nasional\nsebagai bagian dari Rencana Pembangunan Lima Tahun di bidang\nketenagalistrikan.",
+                            "explanation": "\nCukup jelas"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "46b9a6e9-f264-4b61-bc44-370d3ba4c3e1",
+            "id": "5a4dfd27-685e-458c-96ec-b9c0f9675e29",
             "name": "Chapter II",
-            "title": "\nUSAHA PENYEDIAAN TENAGA LISTRIK\nBagian Pertama\nKuasa Usaha\nPasal 3\n(1) Usaha penyediaan tenaga listrik pada dasarnya dilakukan oleh Negara.\n(2) Dengan Peraturan Pemerintah ditetapkan badan usaha milik negara sebagai Pemegang Kuasa Usaha Ketenagalistrikan untuk melaksanakan usaha penyediaan tenaga listrik untuk kepentingan\numum, dan apabila dipandang perlu Menteri dapat memberi\ntugas untuk melakukan pekerjaan usaha penunjang tenaga listrik.\nPasal 4\nDalam hal tertentu, Menteri dapat menetapkan usaha distribusi tenaga\nlistrik di suatu daerah usaha Pemegang Kuasa Usaha Ketenagalistrikan\nuntuk diusahakan oleh Koperasi sebagai Pemegang Izin Usaha\nKetenagalistrikan.",
+            "title": "\nUSAHA PENYEDIAAN TENAGA LISTRIK",
             "type": "chapter",
             "children": [
                 {
-                    "id": "aacee2da-ccd4-4eea-8e64-e42d6fb0453f",
+                    "id": "3c92e9cd-cda5-4959-98ee-a4dfe02be4b1",
+                    "name": "Section First",
+                    "title": "\nKuasa Usaha",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "81b1a0fb-7aa2-4f7d-919d-9203f101ab97",
+                            "name": "Article 3",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "c395e8dd-1066-46d0-b24a-4a24fc06945d",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Usaha penyediaan tenaga listrik pada dasarnya dilakukan oleh\nNegara.",
+                                    "explanation": "\nCukup jelas"
+                                },
+                                {
+                                    "id": "6aaad991-9799-4d91-8622-a5ad610a7046",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Dengan Peraturan Pemerintah ditetapkan badan usaha milik\nnegara sebagai Pemegang Kuasa Usaha Ketenagalistrikan untuk\nmelaksanakan usaha penyediaan tenaga listrik untuk kepentingan\numum, dan apabila dipandang perlu Menteri dapat memberi\ntugas untuk melakukan pekerjaan usaha penunjang tenaga listrik.",
+                                    "explanation": "\nBadan usaha milik negara dalam ketentuan ini adalah\nsebagaimana yang diatur dalam Undang-undang Nomor 9 Tahun\n1969 tentang Penetapan Peraturan Pemerintah Pengganti\nUndang-undang Nomor 1 Tahun 1969 (Lembaran Negara Tahun\n1969 Nomor 16, Tambahan Lembaran Negara Nomor 2890)\ntentang Bentuk-bentuk Usaha Negara menjadi Undang-undang\n(Lembaran Negara Tahun 1969 Nomor 40, Tambahan Lembaran\nNegara Nomor 2904) yang tata cara pembinaan dan\npengawasannya diatur dalam Peraturan Pemerintah Nomor 3\nTahun 1983 sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 28 Tahun 1983. Usaha penunjang tenaga\nlistrik dalam ketentuan ini adalah sebagaimana diatur dalam\nPasal 6 Undang-undang Nomor 15 Tahun 1985 tentang\nKetenagalistrikan."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "253aafa3-424d-406b-8d5b-6e38654e363c",
+                            "name": "Article 4",
+                            "type": "article",
+                            "children": {
+                                "id": "7057fddc-3257-41ca-9b4b-89faa0d10553",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nDalam hal tertentu, Menteri dapat menetapkan usaha distribusi tenaga\nlistrik di suatu daerah usaha Pemegang Kuasa Usaha Ketenagalistrikan\nuntuk diusahakan oleh Koperasi sebagai Pemegang Izin Usaha\nKetenagalistrikan.",
+                                "explanation": "\nPenetapan usaha distribusi oleh Menteri tersebut dalam rangka\nmeningkatkan peran serta koperasi di bidang ketenagalistrikan\nkhususnya distribusi tenaga listrik."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "5768ec1a-50a0-4717-8476-adfaa42fef7d",
                     "name": "Section Second",
                     "title": "\nRencana Usaha",
                     "type": "section",
                     "children": [
                         {
-                            "id": "d475e17f-a119-4afd-adbe-df73e982b551",
+                            "id": "62c7a976-7d14-4000-be4e-1a3f1520bbd0",
                             "name": "Article 5",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "4edcad09-6c1e-4dfe-9a77-37fcf35432e0",
+                                    "id": "afabdae8-3c63-4809-bb4d-506ef6415528",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Rencana Usaha Penyediaan tenaga listrik disusun berdasarkan\nRencana Umum Ketenagalistrikan Nasional.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nRencana Usaha Penyediaan tenaga listrik memuat rencana,\nkerja perusahaan."
                                 },
                                 {
-                                    "id": "b64a3c6c-7dbb-46e0-8129-58b3be878b9b",
+                                    "id": "748ace76-225f-41a4-88fa-d24f4dd56d9d",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Rencana Usaha Penyediaan tenaga listrik sebagaimana dimaksud\ndalam ayat (1) digunakan sebagai pedoman pelaksanaan\npenyediaan tenaga listrik bagi Pemegang Kuasa Usaha\nKetenagalistrikan dan Pemegang Izin Usaha Ketenagalistrikan.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nYang dimaksud dengan Izin Usaha Ketenagalistrikan di dalam\nayat ini adalah Izin Usaha untuk penyediaan tenaga listrik."
                                 },
                                 {
-                                    "id": "b52da8c3-7110-4fe6-b1c2-3e9c88eb58fa",
+                                    "id": "824e2e62-1b19-4a3e-a6c3-48fe3e360c1c",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Pemegang Kuasa Usaha Ketenagalistrikan wajib membuat\nrencana usaha penyediaan tenaga listrik untuk disahkan oleh\nMenteri.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "04804568-a6a3-447e-bcde-f032e6261595",
+                                    "id": "0c7bb183-007e-41c7-b6d3-7202f6615902",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Pemegang Izin Usaha Ketenagalistrikan wajib membuat rencana\npenyediaan tenaga listrik untuk dijadikan bahan pertimbangan\nbagi pemberian Izin Usaha Ketenagalistrikan serta digunakan\nsebagai sarana pengawasan berkala atas pelaksanaan kegiatan\nPemegang Izin Usaha Ketenagalistrikan yang bersangkutan.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nBagi Pemegang Izin Usaha Ketenagalistrikan, rencana usaha penyediaan tenaga listrik tersebut selain berfungsi sebagai bahan penilaian dan pertimbangan untuk memberikan izin usaha ketenagalistrikan, juga digunakan sebagai bahan dalam rangka penyelenggaraan pengawasan berkala atas kegiatan Pemegang Izin Usaha Ketenagalistrikan yang bersangkutan.\nPemberian Izin Usaha Ketenagalistrikan dengan begitu sekaligus merupakan pengesahan atas rencana penyediaan tenaga listrik dari Pemegang Izin Usaha Ketenagalistrikan yang bersangkutan.\nBagi Pemegang Izin Usaha Ketenagalistrikan, perubahan rencana penyediaan tenaga listrik setelah pemberian Izin Usaha Ketenagalistrikan wajib mendapatkan persetujuan kembali oleh Menteri."
                                 }
                             ]
                         }
                     ]
                 },
                 {
-                    "id": "ab1d5069-11d3-4da4-9d6b-0e9bbfe727d9",
+                    "id": "e4ac91c5-940f-42c5-a104-ad64b1e1117d",
                     "name": "Section Third",
                     "title": "\nIzin Usaha",
                     "type": "section",
                     "children": [
                         {
-                            "id": "932931bd-d618-4d9d-81c6-8de47cee6e2a",
+                            "id": "510b1f2f-d71e-4303-b980-fb31557aa84b",
                             "name": "Article 6",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "96ba5f64-2a78-4a90-8634-aaf242af5d8c",
+                                    "id": "3b28f66a-121b-48ec-8ad2-8338fa504512",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " huruf b hanya dapat diberikan di suatu daerah usaha\nPemegang Kuasa Usaha Ketenagalistrikan atau daerah usaha\nPemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan\nUmum, bila Pemegang Kuasa Usaha Ketenagalistrikan atau\nPemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum\ntersebut nyata-nyata belum dapat menyediakan tenaga listrik\ndengan mutu dan keandalan yang baik, atau belum dapat\nmenjangkau seluruh daerah usahanya.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Menteri mengatur pemberian Izin Usaha Ketenagalistrikan kepada\n:\na.Koperasi atau swasta untuk melakukan usaha penyediaan\ntenaga listrik untuk kepentingan umum;\nb.Koperasi, swasta, dan badan usaha milik negara atau\nlembaga negara lainnya untuk melakukan usaha penyediaan\ntenaga listrik untuk kepentingan sendiri.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "3feb2bb2-ea8c-4794-acd9-51f85b8dd198",
+                                    "id": "91d48ebe-84f6-4e17-a8dc-93a60dd13150",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Izin Usaha Ketenagalistrikan sebagaimana dimaksud dalam ayat",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Izin Usaha Ketenagalistrikan sebagaimana dimaksud dalam ayat\n(1) huruf b hanya dapat diberikan di suatu daerah usaha\nPemegang Kuasa Usaha Ketenagalistrikan atau daerah usaha\nPemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan\nUmum, bila Pemegang Kuasa Usaha Ketenagalistrikan atau\nPemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum\ntersebut nyata-nyata belum dapat menyediakan tenaga listrik\ndengan mutu dan keandalan yang baik, atau belum dapat\nmenjangkau seluruh daerah usahanya.",
+                                    "explanation": "\nYang dimaksud belum dapat menjangkau daerah usahanya adalah :\na. belum mempunyai/memiliki kapasitas tenaga listrik yang dibutuhkan di daerah usahanya;\nb. belum tersedianya sarana penyediaan tenaga listrik."
                                 },
                                 {
-                                    "id": "1495a748-ef61-4c0e-ba38-4ed1230b09f4",
+                                    "id": "c3fedb41-1626-41ca-afa7-9514b69ae5ed",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Izin Usaha Ketenagalistrikan dari badan-badan sebagaimana\ndimaksud dalam ayat (1) hanya dapat dialihkan kepada pihak lain\nsesudah mendapat persetujuan tertulis dari Menteri.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "945c1c2c-9b6f-4a3b-b8c1-5d0bf2b20400",
+                            "id": "5e03f9b2-9ca0-4efa-8a2a-6b7e369c6164",
                             "name": "Article 7",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "76690018-4635-4272-8fd7-2d087ababb35",
+                                    "id": "c5980bb9-0c2d-42e9-bdca-33f338e37efa",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " dapat ditinjau oleh Menteri sesuai dengan perkembangan\nkeadaan dan tingkat kebutuhan.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Usaha penyediaan tenaga listrik untuk kepentingan sendiri pada\nkegiatan pembangkitan tenaga listrik dapat dilakukan tanpa izin,\nbila jumlah kapasitas tenaga listrik yang dibangkitkan tidak\nmelebihi 200 kVA.",
+                                    "explanation": "\nJumlah tenaga listrik yang dibangkitkan sampai dengan 200 KVA\ntidak memerlukan izin dan usaha penyediaan tenaga listrik\ntersebut hanya terbatas pada kegiatan pembangkitan."
                                 },
                                 {
-                                    "id": "cf87c360-54ee-4d70-bfbc-7fc08341c681",
+                                    "id": "61f5d483-df47-4092-bea0-a82aa322d7fd",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Batas kapasitas tenaga listrik sebagaimana dimaksud dalam ayat",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Batas kapasitas tenaga listrik sebagaimana dimaksud dalam ayat\n(1) dapat ditinjau oleh Menteri sesuai dengan perkembangan\nkeadaan dan tingkat kebutuhan.",
+                                    "explanation": "\nKewenangan Menteri meliputi peninjauan ulang atas batas\nkapasitas 200 KVA. Batas tersebut dapat dinaikkan atau\nditurunkan dengan memperhatikan perkembangan keadaan\ndaerah yang bersangkutan ataupun tingkat kebutuhan pemakai\nyang bersangkutan."
                                 }
                             ]
                         },
                         {
-                            "id": "a569a9c6-c773-4142-a038-8697d2a7ed24",
+                            "id": "303c1f39-41cb-4538-b2e4-0ea1de85158b",
                             "name": "Article 8",
                             "type": "article",
-                            "children": [
-                                {
-                                    "id": "dc4236d6-4a90-4b74-a1e1-3e80a66c7ecf",
-                                    "name": "Verse 1",
-                                    "number": "(1)",
-                                    "type": "verse",
-                                    "content": " dapat meliputi jenis usaha :\na. pembangkitan tenaga listrik;\nb. transmisi tenaga listrik;\nc. distribusi tenaga listrik.",
-                                    "explanation": "Tidak ada Penjelasan"
-                                }
-                            ]
+                            "children": {
+                                "id": "2371cef3-b45c-45e3-8a27-97a0f096691c",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nIzin Usaha Ketenagalistrikan sebagaimana dimaksud dalam Pasal 6 ayat\n(1) dapat meliputi jenis usaha :\na. pembangkitan tenaga listrik;\nb. transmisi tenaga listrik;\nc. distribusi tenaga listrik.",
+                                "explanation": "\nIzin Usaha Ketenagalistrikan sebagaimana dimaksud dalam pasal\nini dapat diberikan untuk salah satu atau gabungan dari\npembangkitan, transmisi, dan/atau distribusi."
+                            }
                         },
                         {
-                            "id": "2db5a02d-2af8-4484-a23f-dbd89fe53d45",
+                            "id": "1486de18-e4e3-4d43-9a00-857a8e1178ae",
                             "name": "Article 9",
                             "type": "article",
                             "children": {
-                                "id": "685c9fa7-fd9e-4d62-b2bb-73df2f8242a1",
+                                "id": "48eb27b2-c071-4148-8114-1503e1adebcf",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nIzin Usaha Ketenagalistrikan untuk melakukan kegiatan penyediaan\ntenaga listrik untuk kepentingan sendiri diberikan menurut sifat\npenggunaannya :\na. penggunaan utama;\nb. penggunaan cadangan;\nc. penggunaan darurat;\nd. penggunaan sementara.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nMeskipun sifat penggunaannya lebih dari satu jenis, tetapi izin\nyang diberikan hanya satu, yaitu Izin Usaha Ketenagalistrikan\nuntuk melakukan penyediaan tenaga listrik untuk kepentingan\nsendiri."
                             }
                         },
                         {
-                            "id": "2bec2515-db71-4b87-b843-a60102738bd3",
+                            "id": "75f41c1a-1e39-4bd2-9fcb-6d6830f06b9b",
                             "name": "Article 10",
                             "type": "article",
                             "children": {
-                                "id": "0396dd6f-b9e8-45d3-9727-dfa425a03032",
+                                "id": "454ea649-478e-4cd3-9c34-13ce185a02f7",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nMenteri menetapkan daerah usaha Pemegang Izin Usaha\nKetenagalistrikan bagi usaha penyediaan tenaga listrik untuk\nkepentingan umum sebagaimana dimaksud dalam Pasal 8.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nDaerah Usaha sebagaimana dimaksud dalam ketentuan ini\nditetapkan sesuai dengan wilayah administrasi yang diatur\ndalam Undang-undang Nomor 5 Tahun 1974 tentang\nPokok-pokok Pemerintahan di Daerah. Pasal 11 Kerjasama\nsebagaimana dimaksud dalam pasal ini dapat meliputi antara\nlain usaha bersama di bidang teknik atau permodalan."
                             }
                         },
                         {
-                            "id": "87d54ead-eda8-41e5-8a2d-c222ce8e1a19",
+                            "id": "6b919014-5341-40cd-b585-e0a28f64f66e",
                             "name": "Article 11",
                             "type": "article",
                             "children": {
-                                "id": "276adc34-9c79-4a0f-a664-5c4023366bde",
+                                "id": "bb48eda4-0123-4ff9-8a5f-892031f649bc",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -212,139 +254,137 @@
                             }
                         },
                         {
-                            "id": "1f3b63d3-74d3-41d8-896f-1cf8433bb501",
+                            "id": "fb88981f-f6a3-4405-b9e4-fde4f5e1017c",
                             "name": "Article 12",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "e3204682-117d-4112-9eaf-8386b967505e",
+                                    "id": "a1819e7d-5ba9-40a0-8c90-64e949425a12",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Swasta yang melakukan usaha penyediaan tenaga listrik untuk\nkepentingan umum harus berbentuk badan hukum Indonesia.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "c2ad9cd4-0a30-45c9-b6ef-40c8cb82517d",
+                                    "id": "bf0228da-29cd-4e4f-9fca-ad4c4d76da6f",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Ketentuan sebagaimana dimaksud dalam ayat (1) tidak\ndiberlakukan bagi usaha penyediaan tenaga listrik yang\ndiselenggarakan berdasarkan swadaya masyarakat yang berdiam\natau bertempat tinggal di daerah terpencil.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nPengecualian ini diberikan untuk mengurangi kesulitan bagi\nswadaya masyarakat untuk menyelenggarakan dan memenuhi\nkebutuhan tenaga listrik bagi mereka sendiri. Yang dimaksud\ndengan daerah terpencil adalah daerah yang belum dapat\ndijangkau oleh pelayanan Pemegang Kuasa Usaha\nKetenagalistrikan, dan letaknya belum banyak dihubungkan oleh\nsarana transportasi umum. Hal ini perlu karena prosedur\npembuatan akta pendirian badan hukum lazimnya harus\ndilakukan di hadapan pejabat yang berwenang."
                                 },
                                 {
-                                    "id": "e38e9ccf-317a-46bd-98e3-0bc41a860a3c",
+                                    "id": "472eedf2-3420-401a-b9d4-6807a74e961d",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Ketentuan lebih lanjut mengenai pengecualian sebagaimana\ndimaksud dalam ayat (2) diatur oleh Menteri.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nKetentuan ini dimaksudkan untuk memberi kelonggaran bagi\nMenteri dalam menetapkan ketentuan dan syarat-syarat yang\ndapat selalu disesuaikan dengan perkembangan keadaan daerah\nyang bersangkutan."
                                 }
                             ]
                         },
                         {
-                            "id": "8cea12e7-97b0-418e-a7f5-fcf83ebf8f80",
+                            "id": "468f9a64-96e3-4f54-8c4e-78cb352a5b4e",
                             "name": "Article 13",
                             "type": "article",
-                            "children": [
-                                {
-                                    "id": "37f8d73a-d913-4303-b497-0ffb0d674560",
-                                    "name": "Verse 1",
-                                    "number": "(1)",
-                                    "type": "verse",
-                                    "content": " huruf b mempunyai kelebihan tenaga listrik, badan-badan tersebut\ndapat menjual kelebihan tenaga listriknya hanya kepada Pemegang\nKuasa Usaha Ketenagalistrikan.",
-                                    "explanation": "Tidak ada Penjelasan"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "13640f06-d60d-4336-bc99-0ee250ef47a6",
-                    "name": "Section Fourth",
-                    "title": "\nSyarat-syarat Penyediaan",
-                    "type": "section",
-                    "children": [
-                        {
-                            "id": "9edbd295-ee6b-4d93-9379-6a013a071097",
-                            "name": "Article 14",
-                            "type": "article",
                             "children": {
-                                "id": "38fbebd7-cead-45e1-84ca-b9aa5e7af39c",
+                                "id": "59e24ec8-863d-4df4-b8d9-a3eafe1e279b",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nPenyediaan tenaga listrik harus dilakukan dengan memperhatikan :\na. keseimbangan sumber daya alam dan kelestarian lingkungan hidup\nserta pengaruh lingkungan.\nb. persyaratan bagi keamanan instalasi dan kemampuan\npelaksanaannya.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "content": "\nDalam hal koperasi, swasta, dan badan usaha milik negara atau\nlembaga negara lainnya selaku Pemegang Izin Usaha Ketenagalistrikan\nUntuk Kepentingan Sendiri sebagaimana dimaksud dalam Pasal 6 ayat\n(1) huruf b mempunyai kelebihan tenaga listrik, badan-badan tersebut\ndapat menjual kelebihan tenaga listriknya hanya kepada Pemegang\nKuasa Usaha Ketenagalistrikan.",
+                                "explanation": "\nYang dimaksud dengan hanya kepada Pemegang Kuasa Usaha\nKetenagalistrikan dalam ketentuan ini adalah sepanjang daerah\ntersebut sudah dijangkau oleh Pemegang Kuasa Usaha\nKetenagalistrikan dan bilamana belum dijangkau, Pemegang\nIzin Usaha Ketenagalistrikan Untuk Kepentingan Sendiri tersebut\ndapat menjual kelebihan tenaga listriknya kepada Pemegang\nIzin Usaha Ketenagalistrikan Untuk Kepentingan Umum atau\nmasyarakat setelah mendapat Izin Usaha Ketenagalistrikan\nUntuk Kepentingan Umum."
                             }
                         }
                     ]
                 },
                 {
-                    "id": "6ba4cb8e-a443-4193-82f3-8a6da2496081",
+                    "id": "f2875bf2-517b-4fba-9ea0-0560a632b83b",
+                    "name": "Section Fourth",
+                    "title": "\nSyarat-syarat Penyediaan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "07549e83-ece3-4c50-b8d2-657c6d2b1e3d",
+                            "name": "Article 14",
+                            "type": "article",
+                            "children": {
+                                "id": "c1739108-0780-4604-a595-a71eb46953ad",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nPenyediaan tenaga listrik harus dilakukan dengan memperhatikan :\na. keseimbangan sumber daya alam dan kelestarian lingkungan hidup\nserta pengaruh lingkungan.\nb. persyaratan bagi keamanan instalasi dan kemampuan\npelaksanaannya.",
+                                "explanation": "\nCukup jelas"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "aa33a0c3-a375-4a65-81e0-d89a3bef202d",
                     "name": "Section Fifth",
                     "title": "\nSyarat-syarat Pengusahaan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "ec2f24d0-9ed9-47c6-b34f-ccab182d3b0a",
+                            "id": "5d615aba-c0b1-4bc9-badc-bce90e303808",
                             "name": "Article 15",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "bad1bab2-0b22-4b9a-90f1-4e35432ade38",
+                                    "id": "be450586-1ab5-43ad-a74d-81bbc47d55d8",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Tenaga listrik yang disediakan untuk kepentingan umum, wajib\ndiberikan dengan standar mutu dan keandalan yang baik.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nYang dimaksud dengan standar mutu dan keandalan yang baik,\npada dasarnya adalah dilihat baik dari jumlah dan besarnya\nperubahan naik turunnya (variasi) frekuensi sistem, atau jumlah\nbesarnya perubahan naik turunnya (variasi) tegangan pada titik\npemakaian, ataupun jumlah\ndan lama terhentinya\npenyediaan tenaga listrik (gangguan)."
                                 },
                                 {
-                                    "id": "ef6da5be-2a95-4457-ad74-860a10b7a1ca",
+                                    "id": "c628e997-41a4-4821-8ab1-9bd5b9b96b78",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Ketentuan tentang standar mutu dan keandalan sebagaimana\ndimaksud dalam ayat (1) ditetapkan oleh Menteri, berdasarkan\npersetujuan Dewan Standardisasi Nasional.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "ad0c14ee-ef25-4218-bd31-710ba474cec0",
+                            "id": "f9207f7b-2d70-485d-ab68-a22e8e0237f7",
                             "name": "Article 16",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "1e71a053-0743-48a3-b5f3-f859ec342708",
+                                    "id": "8fb59205-6164-4780-af2f-c0c3e7219d58",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Tenaga listrik sebagaimana dimaksud dalam Pasal 15 wajib\ndisediakan secara terus menerus.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nYang dimaksud dengan secara terus menerus dalam ketentuan\nini adalah tenaga listrik harus selalu disediakan sesuai dengan\nwaktu yang diperjanjikan dengan pelanggannya."
                                 },
                                 {
-                                    "id": "63950f9f-6581-4df2-a102-ec9ee69b510f",
+                                    "id": "46357256-4a8c-484b-bbb6-3b1f100ac483",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Penyediaan tenaga listrik hanya dapat dihentikan untuk\nsementara jika memenuhi salah satu atau lebih ketentuan\ndibawah ini:\na.diperlukan untuk melaksanakan suatu pekerjaan\npemeliharaan, perluasan atau rehabilitasi instalasi\nketenagalistrikan;\nb.terjadi gangguan pada instalasi ketenagalistrikan;\nc.terjadi keadaan yang dianggap membahayakan keselamatan\numum;\nd.atas perintah yang berwajib dan/atau pengadilan.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nMembahayakan keselamatan umum misalnya ada kebakaran\natau banjir.\nAtas perintah yang berwajib yaitu pihak yang berwenang dalam\nkeadaan darurat atau kegentingan yang memaksa misalnya\nantara lain adanya bahaya serangan udara sewaktu ada perang.\nAtas perintah pengadilan misalnya dalam rangka eksekusi\nputusan Pengadilan."
                                 },
                                 {
-                                    "id": "eff4b37a-88ad-4d89-80d9-7ebdd2e93882",
+                                    "id": "12240871-2952-47ca-aa18-b39d3e714ac7",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Pelaksanaan ketentuan ayat (2) huruf a terlebih dahulu\ndiberitahukan kepada masyarakat selambat-lambatnya 24 (dua\npuluh empat) jam sebelum penghentian penyediaan tenaga\nlistrik.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "bcfd8831-be48-478a-a60c-413f474494c0",
+                                    "id": "9c0199b9-f39b-4371-b6ae-fa581e4ca5f6",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Penghentian penyediaan tenaga listrik untuk sementara\nsebagaimana dimaksud dalam ayat (2) tidak memberikan hak\nuntuk penuntutan ganti rugi.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         }
@@ -353,77 +393,77 @@
             ]
         },
         {
-            "id": "4c6ffe85-c558-42da-9669-9b50a06a49f3",
+            "id": "7be6f986-b89b-4851-9224-1e73e46c5370",
             "name": "Chapter III",
             "title": "\nPEMANFAATAN TENAGA LISTRIK",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8701b069-fde5-4cef-a1b5-840eb196c54f",
+                    "id": "362b0ef8-e332-4ee3-a721-de7d679fc93e",
                     "name": "Article 17",
                     "type": "article",
                     "children": {
-                        "id": "ee1d943d-7a57-4dff-95f6-af3337b16ff5",
+                        "id": "3d2774a7-bc8f-4855-b3ca-a9b152b4aa3b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nTenaga listrik dimanfaatkan untuk meningkatkan kesejahteraan dan\nkemakmuran rakyat serta untuk mendorong peningkatan kegiatan\nekonomi.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "ae6d28f2-ede6-4b3c-b5ef-086430a6649e",
+                    "id": "2776c860-9546-458d-a524-9a370f165328",
                     "name": "Article 18",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e3836c97-14e4-44ba-b919-bee925a7de02",
+                            "id": "9d271cdf-88ff-4ac7-a545-f2ffdd44edae",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Menteri menetapkan prioritas pemanfaatan tenaga listrik.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "cabab297-44e2-4a95-ab3c-23892f454a3c",
+                            "id": "841c1e53-a275-41f9-abad-42e70ddc5222",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Prioritas sebagaimana dimaksud dalam ayat (1) ditinjau secara\nberkala sesuai dengan kebutuhan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas"
                         }
                     ]
                 },
                 {
-                    "id": "7ba4cf36-0bfb-4e81-82b1-222910c81739",
+                    "id": "b7e55635-851f-47c2-9ed5-003ecd594fc9",
                     "name": "Article 19",
                     "type": "article",
                     "children": {
-                        "id": "d7ddcd64-45fc-403c-8e26-520e86c5675d",
+                        "id": "785bb5db-33b8-4ace-bffb-e0a86a29ab7d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nPemanfaatan tenaga listrik yang menyimpang dari prioritas sebagaimana dimaksud dalam Pasal 18 harus mendapat persetujuan Menteri.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nYang dimaksud dalam ketentuan ini misalnya tenaga listrik\nuntuk rumah tangga tidak boleh dimanfaatkan untuk keperluan\nusaha."
                     }
                 },
                 {
-                    "id": "eeba568d-0e38-4e3e-ab01-44d836e2a9b2",
+                    "id": "c028b54f-9859-4ad2-8d52-825df7232210",
                     "name": "Article 20",
                     "type": "article",
                     "children": [
                         {
-                            "id": "72e6d9d9-4539-4b81-9024-7511f50dc123",
+                            "id": "1c9a196a-4456-496c-abed-72b76093abfc",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pemanfaatan tenaga listrik hanya dilakukan sesuai dengan peruntukannya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "28398f0c-3b9f-461c-b2f5-3766559d5d3e",
+                            "id": "c6a2bb58-c487-4494-ad83-8b6dca5e4de2",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pemanfaatan tenaga listrik yang tidak sesuai dengan peruntukannya dan ternyata menimbulkan kerugian pada pihak lain sepenuhnya menjadi tanggung jawab pihak yang menimbulkan kerugian itu.",
                             "explanation": "Tidak ada Penjelasan"
@@ -433,37 +473,102 @@
             ]
         },
         {
-            "id": "9f827a3b-d012-40d1-9cfd-8a8c5e14c71c",
+            "id": "99e40449-8836-4c56-8afd-676219f5161f",
             "name": "Chapter IV",
-            "title": "\nINSTALASI DAN STANDARDISASI KETENAGALISTRIKAN\nBagian Pertama\nInstalasi Ketenagalistrikan\nPasal 21\n(1) Pekerjaan instalasi ketenagalistrikan untuk penyediaan dan pemanfaatan tenaga listrik harus dikerjakan oleh badan usaha penunjang tenaga listrik.\n(2) Pengecualian terhadap ketentuan ayat (1) dapat diberikan dalam hal di suatu daerah belum terdapat badan usaha penunjang tenaga listrik.\n(3) Pelaksanaan lebih lanjut atas ketentuan ayat (2) diatur oleh Menteri.\nPasal 22\nInstalasi ketenagalistrikan sebagaimana dimaksud dalam Pasal 21 ayat\n(1) harus sesuai dengan Standar Ketenagalistrikan Indonesia.\nPasal 23\nPerencanaan, pemasangan, pengamanan, pemeriksaan, dan pengujian\ninstalasi ketenagalistrikan diatur lebih lanjut oleh Menteri.",
+            "title": "\nINSTALASI DAN STANDARDISASI KETENAGALISTRIKAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "7154bc69-b3a4-43e2-8c1b-16e292c74c7f",
+                    "id": "b76922ae-6888-4b59-9aa8-d7beb4e4f72f",
+                    "name": "Section First",
+                    "title": "\nInstalasi Ketenagalistrikan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "605e999b-fd8f-41ab-ba33-51e31f67fdf6",
+                            "name": "Article 21",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "c9eeeaed-6ced-41ad-8bdc-7a7f31877dd3",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Pekerjaan instalasi ketenagalistrikan untuk penyediaan dan pemanfaatan tenaga listrik harus dikerjakan oleh badan usaha penunjang tenaga listrik.",
+                                    "explanation": "\nYang dimaksud dengan badan usaha penunjang adalah badan\nusaha yang diberi izin untuk melakukan pekerjaan\ninstalasi ketenagalistrikan. Pekerjaan instalasi ini antara lain\npenyambungan kabel dan pemasangan peralatan listrik lainnya\ndalam rangka penyaluran tenaga listrik kepada pemakai."
+                                },
+                                {
+                                    "id": "82e498dc-732a-4d6c-913d-509185c86fc6",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Pengecualian terhadap ketentuan ayat (1) dapat diberikan dalam hal di suatu daerah belum terdapat badan usaha penunjang tenaga listrik.",
+                                    "explanation": "\nCukup jelas"
+                                },
+                                {
+                                    "id": "e6a7f6d5-3a0d-4617-8ccc-3725dde44908",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Pelaksanaan lebih lanjut atas ketentuan ayat (2) diatur oleh Menteri.",
+                                    "explanation": "\nCukup jelas"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "b458aa87-4847-4736-a984-4d9fb9051cfc",
+                            "name": "Article 22",
+                            "type": "article",
+                            "children": {
+                                "id": "c97e900b-5563-4558-a314-681f86380175",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nInstalasi ketenagalistrikan sebagaimana dimaksud dalam Pasal 21 ayat\n(1) harus sesuai dengan Standar Ketenagalistrikan Indonesia.",
+                                "explanation": "\nCukup jelas"
+                            }
+                        },
+                        {
+                            "id": "ffaaf0cd-71db-49cc-ac78-97d268d230c6",
+                            "name": "Article 23",
+                            "type": "article",
+                            "children": {
+                                "id": "68de5556-48af-4d46-b156-9bee811607d5",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nPerencanaan, pemasangan, pengamanan, pemeriksaan, dan pengujian\ninstalasi ketenagalistrikan diatur lebih lanjut oleh Menteri.",
+                                "explanation": "\nCukup jelas"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "9e10cc9b-ae66-439b-aa57-5402075dec39",
                     "name": "Section Second",
                     "title": "\nStandardisasi Ketenagalistrikan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "2ca90d3e-247f-47ae-b830-8f2074671749",
+                            "id": "67a307cf-c6d9-4c6b-8002-34f67b5b5059",
                             "name": "Article 24",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "876de464-92cb-413d-b44d-9ded56d8b1d8",
+                                    "id": "e7f59ce1-f71b-43d9-8767-1ca92a4dab7d",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Menteri menetapkan Standar Ketenagalistrikan Indonesia\nberdasarkan persetujuan Dewan Standardisasi Nasional.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nStandar Ketenagalistrikan Indonesia diusulkan oleh Menteri\nuntuk dibahas terlebih dahulu di dalam Dewan Standardisasi\nNasional sebelum ditetapkan menjadi Standar Ketenagalistrikan\nIndonesia yang berlaku secara nasional.\nStandar Ketenagalistrikan Indonesia adalah suatu dokumen yang\nmemuat persyaratan teknis ketenagalistrikan dan dipakai secara\nbaku untuk jenis kegiatan dan bahan-bahan yang digunakan di\nbidang ketenagalistrikan."
                                 },
                                 {
-                                    "id": "7a16df91-078a-4ac4-9056-7f674bc9dbfa",
+                                    "id": "4252cff2-76bc-40ba-b219-c79a7d66f00f",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Standar Ketenagalistrikan Indonesia sebagaimana dimaksud\ndalam ayat (1) berlaku secara nasional dan dapat diberlakukan\nsebagai standar wajib.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         }
@@ -472,147 +577,186 @@
             ]
         },
         {
-            "id": "98a88153-03a9-4626-9411-9808e044a3b4",
+            "id": "cae6f55f-ed39-4697-99dd-bf472faf62a6",
             "name": "Chapter V",
-            "title": "\nHUBUNGAN PEMEGANG KUASA USAHA\nKETENAGALISTRIKAN\nDAN PEMEGANG IZIN USAHA KETENAGALISTRIKAN\nUNTUK\nKEPENTINGAN UMUM DENGAN MASYARAKAT\nBagian Pertama\nHak dan Kewajiban Pemegang Kuasa Usaha Ketenagalistrikan\ndan Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum\nDalam Penyediaan Tenaga Listrik\nPasal 25\n(1) Pemegang Kuasa Usaha Ketenagalistrikan dan Pemegang Izin\nUsaha Ketenagalistrikan Untuk Kepentingan Umum dalam\nmenyediakan tenaga listrik diberi hak untuk :\na. memeriksa instalasi ketenagalistrikan yang diperlukan oleh\nmasyarakat, baik sebelum maupun sesudah mendapat\nsambungan tenaga listrik;\nb. mengambil tindakan atas pelanggaran perjanjian\npenyambungan listrik oleh pemakai;\nc. mengambil tindakan penertiban atas pemakaian tenaga listrik\nsecara tidak sah.\n(2) Pemegang Kuasa Usaha Ketenagalistrikan dan Pemegang Izin\nUsaha Ketenagalistrikan Untuk Kepentingan Umum tidak\nbertanggung jawab atas bahaya terhadap kesehatan, nyawa, dan\nbarang yang timbul karena penggunaan tenaga listrik yang tidak\nsesuai dengan peruntukannya atau salah dalam pemanfaatannya.\n(3) Pemegang Kuasa Usaha Ketenagalistrikan dan Pemegang Izin\nUsaha Ketenagalistrikan Untuk Kepentingan Umum dalam\nmenyediakan tenaga listrik wajib :\na. memberikan pelayanan yang baik;\nb. menyediakan tenaga listrik secara terus menerus dengan mutu\ndan keandalan yang baik;\nc. memberikan perbaikan, apabila ada gangguan tenaga listrik;\nd. bertanggung jawab atas segala kerugian atau bahaya terhadap\nnyawa, kesehatan, dan barang yang timbul karena\nkelalaiannya.",
+            "title": "\nHUBUNGAN PEMEGANG KUASA USAHA\nKETENAGALISTRIKAN\nDAN PEMEGANG IZIN USAHA KETENAGALISTRIKAN\nUNTUK\nKEPENTINGAN UMUM DENGAN MASYARAKAT",
             "type": "chapter",
             "children": [
                 {
-                    "id": "11866ce1-7f4d-4496-a3ed-574391b2e5d2",
+                    "id": "15d94759-a711-44e3-a46f-03df3c785ba4",
+                    "name": "Section First",
+                    "title": "\nHak dan Kewajiban Pemegang Kuasa Usaha Ketenagalistrikan\ndan Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum\nDalam Penyediaan Tenaga Listrik",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "b6ab1e70-9015-40c2-98fa-e95eb1ce262a",
+                            "name": "Article 25",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "e8205722-838c-486a-a27a-50ac9cbe2049",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Pemegang Kuasa Usaha Ketenagalistrikan dan Pemegang Izin\nUsaha Ketenagalistrikan Untuk Kepentingan Umum dalam\nmenyediakan tenaga listrik diberi hak untuk :\na. memeriksa instalasi ketenagalistrikan yang diperlukan oleh\nmasyarakat, baik sebelum maupun sesudah mendapat\nsambungan tenaga listrik;\nb. mengambil tindakan atas pelanggaran perjanjian\npenyambungan listrik oleh pemakai;\nc. mengambil tindakan penertiban atas pemakaian tenaga listrik\nsecara tidak sah.",
+                                    "explanation": "\nHuruf a\nCukup jelas\nHuruf b\nYang dimaksud dengan tindakan dalam ketentuan ini adalah\nantara lain pemutusan sementara aliran tenaga listrik dengan\ntagihan susulan.\nHuruf c\nTindakan penertiban yang dimaksud misalnya pencabutan\nkabel-kabel yang dipasang untuk mendapatkan tenaga listrik\nsecara tidak sah, terutama oleh bukan pelanggan\n(pencantolan). Terhadap pemakaian yang tidak sah itu sendiri\npada dasarnya dapat dilaporkan kepada pihak yang berwajib\nsebagai pencurian."
+                                },
+                                {
+                                    "id": "0d0052cd-adb9-447a-a9b8-a48c0002cea5",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Pemegang Kuasa Usaha Ketenagalistrikan dan Pemegang Izin\nUsaha Ketenagalistrikan Untuk Kepentingan Umum tidak\nbertanggung jawab atas bahaya terhadap kesehatan, nyawa, dan\nbarang yang timbul karena penggunaan tenaga listrik yang tidak\nsesuai dengan peruntukannya atau salah dalam pemanfaatannya.",
+                                    "explanation": "\nYang dimaksud dengan bahaya terhadap kesehatan atau\nterhadap nyawa dalam ketentuan ini adalah karena akibat\nsengatan, terbakar, terluka lainnya oleh tenaga listrik"
+                                },
+                                {
+                                    "id": "ea76aebe-ebd6-42ad-a969-fddcfad16b9e",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Pemegang Kuasa Usaha Ketenagalistrikan dan Pemegang Izin\nUsaha Ketenagalistrikan Untuk Kepentingan Umum dalam\nmenyediakan tenaga listrik wajib :\na. memberikan pelayanan yang baik;\nb. menyediakan tenaga listrik secara terus menerus dengan mutu\ndan keandalan yang baik;\nc. memberikan perbaikan, apabila ada gangguan tenaga listrik;\nd. bertanggung jawab atas segala kerugian atau bahaya terhadap\nnyawa, kesehatan, dan barang yang timbul karena\nkelalaiannya.",
+                                    "explanation": "\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nKelalaian ini dapat terjadi baik dalam arti sewaktu\npelaksanaan pekerjaan atau tidak segera dilakukan tindakan\npengamanan perbaikan, sementara laporan atau informasi\nmengenai hal tersebut telah diberikan, ataupun karena\ntindakan-tindakan lain yang dapat menimbulkan kerugian\nselama pemberian pelayanan tenaga listrik."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "aa33edd5-2b24-4daa-a23c-82e79b25a22e",
                     "name": "Section Second",
                     "title": "\nHak dan Kewajiban Masyarakat\nDalam Pemanfaatan Tenaga Listrik",
                     "type": "section",
                     "children": [
                         {
-                            "id": "21c11c37-99b4-44da-9541-afd1107bc5cb",
+                            "id": "864662c1-de09-49ff-867e-9c35d422f6c8",
                             "name": "Article 26",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "df3229dc-8459-411f-825f-1b55c95e591a",
+                                    "id": "bdf2f653-29ea-4023-93b2-db5898f89cc5",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Masyarakat di daerah usaha Pemegang Kuasa Usaha\nKetenagalistrikan atau Pemegang Izin Usaha Ketenagalistrikan\nUntuk Kepentingan Umum berhak mendapat tenaga listrik yang\ndisediakan oleh Pemegang Kuasa Usaha Ketenagalistrikan atau\nPemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum\nyang bersangkutan.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "04d162f2-2ce5-44d4-88fb-465ad4fc2e9b",
+                                    "id": "f180d77e-3f89-4a1f-8af1-dab622af3c46",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Masyarakat yang telah mendapat tenaga listrik mempunyai hak\nuntuk:\na.mendapat pelayanan yang baik;\nb.mendapat tenaga listrik secara terus menerus dengan mutu\ndan keandalan yang baik;\nc.mendapat pelayanan untuk perbaikan apabila ada gangguan\ntenaga listrik.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Masyarakat yang telah mendapat tenaga listrik mempunyai hak\nuntuk :\na.mendapat pelayanan yang baik;\nb.mendapat tenaga listrik secara terus menerus dengan mutu\ndan keandalan yang baik;\nc.mendapat pelayanan untuk perbaikan apabila ada gangguan\ntenaga listrik.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "45a97d89-ae35-42e2-a080-c2cfe2c75144",
+                                    "id": "541f4edf-7a7c-47b3-b52d-867d101823b9",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Masyarakat yang telah mendapat tenaga listrik mempunyai\nkewajiban :\na. melaksanakan pengamanan terhadap bahaya yang mungkin\ntimbul akibat pemanfaatan tenaga listrik;\nb. menjaga dan memelihara keamanan instalasi\nketenagalistrikan;\nc. menggunakan tenaga listrik sesuai dengan peruntukannya.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "b65d065a-f34a-41e7-82b2-858139deab83",
+                                    "id": "8bc492a0-842f-43b2-86e3-495810e8c32c",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Masyarakat yang telah mendapat tenaga listrik bertanggungjawab\nkarena kesalahannya mengakibatkan kerugian bagi Pemegang\nKuasa Usaha Ketenagalistrikan atau Pemegang Izin Usaha\nKetenagalistrikan Untuk Kepentingan Umum.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "f5ed72ab-c8c6-4869-9eb7-98834714071a",
+                            "id": "fd2b7475-7904-4a20-9571-f28a60e02a55",
                             "name": "Article 27",
                             "type": "article",
                             "children": {
-                                "id": "a70d9a56-6a32-426e-b50e-d54b683e92d1",
+                                "id": "57bbd9c3-587c-43d3-937b-81e2b323f17f",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nPelaksanaan ketentuan sebagaimana dimaksud dalam Pasal 25 dan\nPasal 26 diatur lebih lanjut oleh Menteri dan digunakan sebagai\npedoman untuk membuat perjanjian tertulis antara masyarakat\ndengan Pemegang Kuasa Usaha Ketenagalistrikan atau Pemegang Izin\nUsaha Ketenagalistrikan Untuk Kepentingan Umum.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "9ef7e287-ce2a-40d5-8f10-995db51f46e9",
+                            "id": "ff435d95-9390-4974-918c-7762ce5e35c2",
                             "name": "Article 28",
                             "type": "article",
                             "children": {
-                                "id": "b0e500f7-5bae-4c25-a34b-a399b2cb513f",
+                                "id": "f13485d4-0689-4052-b9fa-7142a67edfaa",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nMasyarakat yang memanfaatkan tenaga listrik wajib mentaati\npersyaratan teknis di bidang ketenagalistrikan yang ditetapkan oleh\nMenteri.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         }
                     ]
                 },
                 {
-                    "id": "d32d3632-e450-424c-a6e4-9f8a92e81f29",
+                    "id": "9bb3ae22-ed15-4d10-8689-11bc9ac4bb44",
                     "name": "Section Third",
                     "title": "\nPersyaratan Penyambungan Tenaga Listrik",
                     "type": "section",
                     "children": [
                         {
-                            "id": "78d6bc21-ecaf-43f6-80f3-04f69f91e10f",
+                            "id": "8699e76a-4542-4d49-b8cd-2909c7f38e49",
                             "name": "Article 29",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "4c9e3a27-4f96-4f75-adcc-b8c1560b364c",
+                                    "id": "363fc02d-0112-4ca6-9219-471a0de9b5a0",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Pemegang Kuasa Usaha Ketenagalistrikan atau Pemegang Izin\nUsaha Ketenagalistrikan Untuk Kepentingan Umum wajib\nmemberikan sambungan tenaga listrik kepada masyarakat di\ndaerah usahanya setelah dipenuhinya persyaratan penyambungan\ntenaga listrik.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Pemegang Kuasa Usaha Ketenagalistrikan atau Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum wajib memberikan sambungan tenaga listrik kepada masyarakat di daerah usahanya setelah dipenuhinya persyaratan penyambungan tenaga listrik.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "c2f5b9d0-23b5-4173-9ba0-a063bbb65af0",
+                                    "id": "b04efc75-e4fa-4f4f-b7e2-586226e5c560",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Persyaratan penyambungan tenaga listrik sebagaimana dimaksud\ndalam ayat (1) diatur lebih lanjut oleh Menteri dengan\nmemperhatikan ketentuan mengenai instalasi ketenagalistrikan.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Persyaratan penyambungan tenaga listrik sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut oleh Menteri dengan memperhatikan ketentuan mengenai instalasi ketenagalistrikan.",
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "cfad6b23-912d-48ae-9e50-bb5fdf77c047",
+                            "id": "4a5411d4-ab14-4c18-b0cc-4ef5e9f937b8",
                             "name": "Article 30",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "3709848f-6724-40e3-b51e-9d98a3b60899",
+                                    "id": "d54d7978-fda2-4767-ab6b-f05a1803ca6c",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Biaya penyambungan tenaga listrik sebagaimana dimaksud dalam\nPasal 29 ayat (1) dibebankan kepada masyarakat yang\nmemerlukan tenaga listrik.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Biaya penyambungan tenaga listrik sebagaimana dimaksud dalam Pasal 29 ayat (1) dibebankan kepada masyarakat yang memerlukan tenaga listrik.",
+                                    "explanation": "\nYang dimaksud dengan biaya penyambungan tenaga listrik ialah\nbiaya yang dibebankan untuk penyambungan tenaga listrik dari\ntitik akhir penyediaan hingga titik awal pemanfaatan."
                                 },
                                 {
-                                    "id": "23aa0756-bcb0-42b0-ad90-7a283dc5fbe1",
+                                    "id": "c1a21ff3-5f64-460b-8e4c-11b370846f8e",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Ketentuan mengenai biaya penyambungan tenaga listrik\nsebagaimana dimaksud dalam ayat (1) ditetapkan oleh Menteri.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Ketentuan mengenai biaya penyambungan tenaga listrik sebagaimana dimaksud dalam ayat (1) ditetapkan oleh Menteri.",
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "7fecea45-573f-4b06-a43d-7c3a6a04e1c5",
+                            "id": "62308460-bfa5-47e6-b509-8bd1ab82800f",
                             "name": "Article 31",
                             "type": "article",
                             "children": {
-                                "id": "c3758c76-ace6-4988-a788-cf0f32687dab",
+                                "id": "3ead9b6e-b77c-4e65-955e-b1b2ef2e1576",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nPemepng Kuasa Usaha Ketenagalistrikan atau Pemegang Izin Usaha\nKetenagalistrikan Untuk Kepentingan Umum diberi hak mengambil\ntindakan termasuk memutuskan sambungan tenaga listrik tanpa ganti\nrugi:\na. dalam hal terjadi bencana alam atau keadaan tertentu lainnya,\nsehingga pemanfaatan tenaga listrik akan membahayakan\nkeselamatan umum;",
-                                "explanation": "Tidak ada Penjelasan"
+                                "content": "\nPemepng Kuasa Usaha Ketenagalistrikan atau Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum diberi hak mengambil tindakan termasuk memutuskan sambungan tenaga listrik tanpa ganti rugi:\na. dalam hal terjadi bencana alam atau keadaan tertentu lainnya, sehingga pemanfaatan tenaga listrik akan membahayakan keselamatan umum;\nb. apabila instalasi tidak aman dan dapat menimbulkan bahaya\ndan/atau mengganggu pemanfaatan tenaga listrik.",
+                                "explanation": "\nCukup jelas"
                             }
                         }
                     ]
@@ -620,95 +764,139 @@
             ]
         },
         {
-            "id": "a407ce82-dbd3-4456-b6d0-2251826f062b",
+            "id": "e0c0de59-5e0d-4bfa-be96-ec74a52c7267",
             "name": "Chapter VI",
             "title": "\nHARGA JUAL TENAGA LISTRIK",
             "type": "chapter",
             "children": [
                 {
-                    "id": "c98520a7-8cd0-4689-81db-06e4befc1a45",
+                    "id": "0cba0237-382e-49b1-94cb-18462df3ff0c",
                     "name": "Article 32",
                     "type": "article",
                     "children": [
                         {
-                            "id": "775d5639-42f9-45a4-96d6-c92b9107761b",
+                            "id": "f316573c-6104-4318-90b8-05193d8324d8",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Harga jual tenaga listrik ditetapkan oleh Presiden berdasarkan usul Menteri.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Harga jual tenaga listrik ditetapkan oleh Presiden berdasarkan\nusul Menteri.",
+                            "explanation": "\nYang dimaksud dengan harga jual adalah harga yang dibayar\npelanggan atas penggunaan tenaga listrik yang terdiri dari biaya\nbeban (Rp/KVA) dan/atau biaya pemakaian (Rp/kwh), atau\ndibayar berdasarkan harga langganan (Rp/bulan) sesuai dengan\nbatasan daya yang dipakai.\nHarga jual tersebut berlaku pula dalam penjualan tenaga listrik\nantara:\na. Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan\nSendiri dan Pemegang Kuasa Usaha Ketenagalistrikan;\nb. Pemegang Kuasa Usaha Ketenagalistrikan dan Pemegang Izin\nUsaha Ketenagalistrikan Untuk Kepentingan Umum;\nc. Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan\nSendiri dan Pemegang Izin Usaha Ketenagalistrikan Untuk\nKepentingan Umum;\nd. Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan\nUmum dan Pemegang Izin Usaha Ketenagalistrikan Untuk\nKepentingan Umum."
                         },
                         {
-                            "id": "1e1709a8-fa4a-4914-8a7c-4e35b2dccb11",
+                            "id": "6a945d2e-3a21-46e0-bf1f-81958c066f8c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Dalam mengusulkan harga jual tenaga listrik sebagaimana dimaksud dalam ayat (1), Menteri memperhatikan hal-hal sebagai berikut :\na. kepentingan rakyat dan kemampuan dari masyarakat;\nb. kaidah-kaidah industri dan niaga yang sehat;\nc. biaya produksi;\nd. efisiensi pengusahaan;\ne. kelangkaan sumber energi primer yang digunakan;\nf. skala pengusahaan dan interkoneksi sistem yang dipakai;\ng. tersedianya sumber dana untuk investasi.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Dalam mengusulkan harga jual tenaga listrik sebagaimana\ndimaksud dalam ayat (1), Menteri memperhatikan hal-hal sebagai\nberikut :\na. kepentingan rakyat dan kemampuan dari masyarakat;\nb. kaidah-kaidah industri dan niaga yang sehat;\nc. biaya produksi;\nd. efisiensi pengusahaan;\ne. kelangkaan sumber energi primer yang digunakan;\nf. skala pengusahaan dan interkoneksi sistem yang dipakai;\ng. tersedianya sumber dana untuk investasi.",
+                            "explanation": "\nCukup jelas"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "10193918-b550-4331-8c9a-8b5e447b7732",
+            "id": "6b3ebd60-9813-46c6-9aa3-17998e1b805f",
             "name": "Chapter VII",
-            "title": "\nPEMBINAAN DAN PENGAWASAN\nBagian Pertama\nPembinaan\nPasal 33\nMenteri melakukan pembinaan terhadap usaha penyediaan tenaga\nlistrik.\nPasal 34\n(1) Dalam melakukan pembinaan sebagaimana dimaksud dalam Pasal\n33, Menteri menetapkan :\na. pedoman pelaksanaan yang meliputi keselamatan kerja dan\nkeselamatan umum;\nb. pedoman pelaksanaan yang berkaitan dengan penyediaan,\npelayanan, dan pengembangan usaha.\n(2) Penetapan pedoman pelaksanaan yang meliputi keselamatan\nkerja dilakukan dengan memperhatikan pertimbangan Menteri\nyang bertanggung jawab di bidang ketenagakerjaan.",
+            "title": "\nPEMBINAAN DAN PENGAWASAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "7ab96935-0812-4c0a-ae35-f0e02096d73e",
+                    "id": "4de7fbee-2c1f-4dca-979c-09a4122e35d3",
+                    "name": "Section First",
+                    "title": "\nPembinaan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "e5dc7d54-43de-453d-8eee-80a9d498b336",
+                            "name": "Article 33",
+                            "type": "article",
+                            "children": {
+                                "id": "b489cc9d-7578-490b-a2c2-f79979ff6442",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nMenteri melakukan pembinaan terhadap usaha penyediaan tenaga\nlistrik.",
+                                "explanation": "\nCukup jelas"
+                            }
+                        },
+                        {
+                            "id": "1e84333c-37ff-49c6-a455-f0c3ab802ba2",
+                            "name": "Article 34",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "67c151f1-b0fc-4c53-a272-aaeea97cdcd5",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Dalam melakukan pembinaan sebagaimana dimaksud dalam Pasal\n33, Menteri menetapkan :\na. pedoman pelaksanaan yang meliputi keselamatan kerja dan\nkeselamatan umum;\nb. pedoman pelaksanaan yang berkaitan dengan penyediaan,\npelayanan, dan pengembangan usaha.",
+                                    "explanation": "\nPedoman dalam ketentuan ini meliputi syarat-syarat teknik\nketenagalistrikan yang mencakup perencanaan instalasi\nketenagalistrikan dan pengusahaannya yang harus dipenuhi oleh\nPemegang Kuasa Usaha Ketenagalistrikan dan Pemegang Izin\nUsaha Ketenagalistrikan dalam usaha penyediaan tenaga listrik.\nSedangkan yang menyangkut keselamatan para tenaga kerja\nyang dipekerjakan oleh Pemegang Kuasa Usaha\nKetenagalistrikan dan Pemegang Izin Usaha Ketenagalistrikan\nmenjadi kewenangan dan tanggung jawab Menteri yang\nbertanggung jawab di bidang ketenagakerjaan. Pedoman itu\nberisi antara lain standar penyediaan, pelayanan, dan\npengembangan usaha."
+                                },
+                                {
+                                    "id": "fbd9e060-d833-4e42-8d93-217ec0be1f5d",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Penetapan pedoman pelaksanaan yang meliputi keselamatan\nkerja dilakukan dengan memperhatikan pertimbangan Menteri\nyang bertanggung jawab di bidang ketenagakerjaan.",
+                                    "explanation": "\nCukup jelas"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3287896e-1881-42c5-b130-20b2c1074e6a",
                     "name": "Section Second",
                     "title": "\nPengawasan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "6dcdb3cb-7aef-467a-b65b-90119f9b303c",
+                            "id": "5962312b-5cca-4ad4-a2dd-e37a7df82760",
                             "name": "Article 35",
                             "type": "article",
                             "children": {
-                                "id": "dbb12236-b0a9-427c-978e-4270fc650bcd",
+                                "id": "b810483b-9c4b-44ec-984e-7ab0818a568c",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
                                 "content": "\nMenteri melakukan pengawasan umum terhadap usaha penyediaan dan\npemanfaatan tenaga listrik.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "explanation": "\nCukup jelas"
                             }
                         },
                         {
-                            "id": "751a88ea-26c7-4fec-b77d-7fbd767f05ec",
+                            "id": "38963a6a-8c1b-4f60-acbc-b7933aff3fd7",
                             "name": "Article 36",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "82c0e3e7-44e2-4602-9727-dae8f7193cc9",
+                                    "id": "0a5613f3-311c-4991-83e1-880f9853d5ac",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Dalam melakukan pengawasan umum, Menteri melakukan\npemeriksaan atas dipenuhinya syarat-syarat keselamatan kerja\ndan keselamatan umum baik oleh Pemegang Kuasa Usaha\nKetenagalistrikan dan Pemegang Izin Usaha Ketenagalistrikan\nmaupun pemanfaat tenaga listrik.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Dalam melakukan pengawasan umum, Menteri melakukan pemeriksaan atas dipenuhinya syarat-syarat keselamatan kerja dan keselamatan umum baik oleh Pemegang Kuasa Usaha Ketenagalistrikan dan Pemegang Izin Usaha Ketenagalistrikan maupun pemanfaat tenaga listrik.",
+                                    "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "efd45506-ab61-4989-ab18-b5023d32861e",
+                                    "id": "27bcf81c-a038-4489-8348-824b1d8bf307",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Sejauh mengenai pemeriksaan atas dipenuhinya syarat-syarat\nkeselamatan kerja, Menteri memperhatikan pertimbangan\nMenteri yang bertanggung jawab di bidang ketenagakerjaan.",
-                                    "explanation": "Tidak ada Penjelasan"
+                                    "content": " Sejauh mengenai pemeriksaan atas dipenuhinya syarat-syarat keselamatan kerja, Menteri memperhatikan pertimbangan Menteri yang bertanggung jawab di bidang ketenagakerjaan.",
+                                    "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "f6daf4e4-7f2c-4793-bcf9-8d664855bf67",
+                            "id": "c565e9ef-c1f0-4eb2-b93a-207622572bd2",
                             "name": "Article 37",
                             "type": "article",
                             "children": {
-                                "id": "5bd0bfbf-8781-47ab-badf-13c01bbfd19c",
+                                "id": "a8ccc3d0-8ff3-4bea-bb44-429460f9b9c0",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nDalam melaksanakan pengawasan sebagaimana dimaksud dalam Pasal\n35 Menteri mengadakan koordinasi dengan Menteri lain yang bidang\ntugasnya berkaitan dengan usaha penyediaan tenaga listrik.",
-                                "explanation": "Tidak ada Penjelasan"
+                                "content": "\nDalam melaksanakan pengawasan sebagaimana dimaksud dalam Pasal 35 Menteri mengadakan koordinasi dengan Menteri lain yang bidang tugasnya berkaitan dengan usaha penyediaan tenaga listrik.",
+                                "explanation": "\nCukup jelas"
                             }
                         }
                     ]
@@ -716,530 +904,63 @@
             ]
         },
         {
-            "id": "c5f44994-67a1-4aee-8c72-1705b29b5335",
+            "id": "806f5c12-8ff2-418a-b14f-b2697cc132f2",
             "name": "Chapter VIII",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f2cf3343-55d6-4865-9639-4baecfbd8486",
+                    "id": "321201a6-fbe9-4f20-b2db-b92d6960ee27",
                     "name": "Article 38",
                     "type": "article",
                     "children": {
-                        "id": "b676022b-878a-4fd9-947f-7fb1bd2e7f24",
+                        "id": "ceeed040-c64c-4dd6-b255-a71a9ff04071",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDengan berlakunya Peraturan Pemerintah ini, peraturan pelaksanaan\ndibidang ketenagalistrikan yang telah dikeluarkan berdasarkan\nPeraturan Pemerintah Nomor 36 Tahun 1979 tentang Pengusahaan\nKelistrikan, tetap berlaku sepanjang tidak bertentangan dengan\nPeraturan Pemerintah ini atau belum diganti atau diubah berdasarkan\nPeraturan Pemerintah ini.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nDengan berlakunya Peraturan Pemerintah ini, peraturan pelaksanaan dibidang ketenagalistrikan yang telah dikeluarkan berdasarkan Peraturan Pemerintah Nomor 36 Tahun 1979 tentang Pengusahaan Kelistrikan, tetap berlaku sepanjang tidak bertentangan dengan Peraturan Pemerintah ini atau belum diganti atau diubah berdasarkan Peraturan Pemerintah ini.",
+                        "explanation": "\nCukup jelas"
                     }
                 }
             ]
         },
         {
-            "id": "03c00c48-1faf-4d45-b143-a2be7410ef2e",
+            "id": "40bdd7f2-b4c9-4ca9-bcaf-7b62af7fbf73",
             "name": "Chapter IX",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "0cabc625-7f4d-4ba2-a2ed-5d93a722be9f",
+                    "id": "b21f8754-b010-425f-b619-3ce63134d998",
                     "name": "Article 39",
                     "type": "article",
                     "children": {
-                        "id": "92aa5b12-948d-4948-ab0d-3afb0fca70c9",
+                        "id": "94d12555-89b9-4738-a524-4b0bff6b01c8",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nPada saat mulai berlakunya Peraturan Pemerintah ini, Peraturan Pemerintah Nomor 36 Tahun 1979 tentang Pengusahaan Kelistrikan dinyatakan tidak berlaku.",
+                        "explanation": "\nCukup jelas"
                     }
                 },
                 {
-                    "id": "8de8b2c1-fb7a-4d30-9c4a-3d59488ff6a8",
+                    "id": "e24ff6fa-55fa-4030-b585-7c8ebc7ab381",
                     "name": "Article 40",
                     "type": "article",
                     "children": {
-                        "id": "289dd687-9899-476c-8bfe-107b79f0bcfb",
+                        "id": "8b510c90-69cf-4915-a4ec-141ff5638041",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "7a72ea6d-df11-4e60-8530-f202a123f4fd",
-                    "name": "Article 1",
-                    "type": "article",
-                    "children": {
-                        "id": "718bcc01-eb48-4a9d-9d5f-a80e165272c9",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "9465bf8f-45a0-463f-8bc4-af1b4615e547",
-                    "name": "Article 2",
-                    "type": "article",
-                    "children": {
-                        "id": "e9de337d-351e-4fe6-b1ed-728d0371803e",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "8a373e12-b1e8-4dca-ad10-2c026862d56d",
-                    "name": "Article 3",
-                    "type": "article",
-                    "children": {
-                        "id": "503897f3-1f9d-4dab-b5aa-dbf6334269a2",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nBadan usaha milik negara dalam ketentuan ini adalah\nsebagaimana yang diatur dalam Undang-undang Nomor 9 Tahun\n1969 tentang Penetapan Peraturan Pemerintah Pengganti\nUndang-undang Nomor 1 Tahun 1969 (Lembaran Negara Tahun\n1969 Nomor 16, Tambahan Lembaran Negara Nomor 2890)\ntentang Bentuk-bentuk Usaha Negara menjadi Undang-undang\n(Lembaran Negara Tahun 1969 Nomor 40, Tambahan Lembaran\nNegara Nomor 2904) yang tata cara pembinaan dan\npengawasannya diatur dalam Peraturan Pemerintah Nomor 3\nTahun 1983 sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 28 Tahun 1983. Usaha penunjang tenaga\nlistrik dalam ketentuan ini adalah sebagaimana diatur dalam\nPasal 6 Undang-undang Nomor 15 Tahun 1985 tentang\nKetenagalistrikan.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "f849cdbe-1605-48b4-829c-ebf0dc013c4f",
-                    "name": "Article 4",
-                    "type": "article",
-                    "children": {
-                        "id": "ced75122-d886-4e2a-ac41-4d7f54a57f4d",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nPenetapan usaha distribusi oleh Menteri tersebut dalam rangka\nmeningkatkan peran serta koperasi di bidang ketenagalistrikan\nkhususnya distribusi tenaga listrik.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "d849e901-b6fc-40d3-ac43-ab04fadfdb68",
-                    "name": "Article 5",
-                    "type": "article",
-                    "children": {
-                        "id": "ccf0936a-4b8a-4c88-a746-c3bd7ff08ff0",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nRencana Usaha Penyediaan tenaga listrik memuat rencana,\nkerja perusahaan.\nAyat (2)\nYang dimaksud dengan Izin Usaha Ketenagalistrikan di dalam\nayat ini adalah Izin Usaha untuk penyediaan tenaga listrik.\nAyat (3)\nCukup jelas\nAyat (4)\nBagi Pemegang Izin Usaha Ketenagalistrikan, rencana usaha\npenyediaan tenaga listrik tersebut selain berfungsi sebagai\nbahan penilaian dan pertimbangan untuk memberikan izin\nusaha ketenagalistrikan, juga digunakan sebagai bahan dalam\nrangka penyelenggaraan pengawasan berkala atas kegiatan\nPemegang Izin Usaha Ketenagalistrikan yang bersangkutan.\nPemberian Izin Usaha Ketenagalistrikan dengan begitu sekaligus\nmerupakan pengesahan atas rencana penyediaan tenaga listrik\ndari Pemegang Izin Usaha Ketenagalistrikan yang bersangkutan.\nBagi Pemegang Izin Usaha Ketenagalistrikan, perubahan rencana\npenyediaan tenaga listrik setelah pemberian Izin Usaha\nKetenagalistrikan wajib mendapatkan persetujuan kembali oleh\nMenteri.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "d3730349-0820-4de5-9df3-bc849a5e33c6",
-                    "name": "Article 6",
-                    "type": "article",
-                    "children": {
-                        "id": "96d51419-e92d-45bd-bde6-bf6fdf9e97c5",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud belum dapat menjangkau daerah usahanya\nadalah :\na. belum mempunyai/memiliki kapasitas tenaga listrik yang\ndibutuhkan di daerah usahanya;\nb. belum tersedianya sarana penyediaan tenaga listrik.\nAyat (3)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "ace9a12a-90af-476f-bcac-7880d29b570e",
-                    "name": "Article 7",
-                    "type": "article",
-                    "children": {
-                        "id": "ea518a07-ab5e-4610-8013-deeae5fcc5db",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nJumlah tenaga listrik yang dibangkitkan sampai dengan 200 KVA\ntidak memerlukan izin dan usaha penyediaan tenaga listrik\ntersebut hanya terbatas pada kegiatan pembangkitan.\nAyat (2)\nKewenangan Menteri meliputi peninjauan ulang atas batas\nkapasitas 200 KVA. Batas tersebut dapat dinaikkan atau\nditurunkan dengan memperhatikan perkembangan keadaan\ndaerah yang bersangkutan ataupun tingkat kebutuhan pemakai\nyang bersangkutan.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "f138cd9b-f5d8-4842-8421-abbead6b207d",
-                    "name": "Article 8",
-                    "type": "article",
-                    "children": {
-                        "id": "81afb339-fdeb-464d-9108-c6a5433bbefa",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nIzin Usaha Ketenagalistrikan sebagaimana dimaksud dalam pasal\nini dapat diberikan untuk salah satu atau gabungan dari\npembangkitan, transmisi, dan/atau distribusi.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "3e945e74-bc46-4572-a5ab-d70c64ce9b83",
-                    "name": "Article 9",
-                    "type": "article",
-                    "children": {
-                        "id": "5b24b04b-2c1d-4ae4-8de3-ed8361de5eb6",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nMeskipun sifat penggunaannya lebih dari satu jenis, tetapi izin\nyang diberikan hanya satu, yaitu Izin Usaha Ketenagalistrikan\nuntuk melakukan penyediaan tenaga listrik untuk kepentingan\nsendiri.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "f768185e-da18-4c3a-8836-f9f5a1718544",
-                    "name": "Article 10",
-                    "type": "article",
-                    "children": {
-                        "id": "229b22d3-90a4-4fad-8a71-f553eb785b64",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nDaerah Usaha sebagaimana dimaksud dalam ketentuan ini\nditetapkan sesuai dengan wilayah administrasi yang diatur\ndalam Undang-undang Nomor 5 Tahun 1974 tentang\nPokok-pokok Pemerintahan di Daerah. Pasal 11 Kerjasama\nsebagaimana dimaksud dalam pasal ini dapat meliputi antara\nlain usaha bersama di bidang teknik atau permodalan.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "aae0d9cb-e628-4731-9eed-b7e0e7bf88e0",
-                    "name": "Article 12",
-                    "type": "article",
-                    "children": {
-                        "id": "3e951459-88ca-48d4-87c0-40f702dde138",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nPengecualian ini diberikan untuk mengurangi kesulitan bagi\nswadaya masyarakat untuk menyelenggarakan dan memenuhi\nkebutuhan tenaga listrik bagi mereka sendiri. Yang dimaksud\ndengan daerah terpencil adalah daerah yang belum dapat\ndijangkau oleh pelayanan Pemegang Kuasa Usaha\nKetenagalistrikan, dan letaknya belum banyak dihubungkan oleh\nsarana transportasi umum. Hal ini perlu karena prosedur\npembuatan akta pendirian badan hukum lazimnya harus\ndilakukan di hadapan pejabat yang berwenang.\nAyat (3)\nKetentuan ini dimaksudkan untuk memberi kelonggaran bagi\nMenteri dalam menetapkan ketentuan dan syarat-syarat yang\ndapat selalu disesuaikan dengan perkembangan keadaan daerah\nyang bersangkutan.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "d8e61933-f7d0-42cc-a30c-07246a1b961b",
-                    "name": "Article 13",
-                    "type": "article",
-                    "children": {
-                        "id": "4e006c71-9903-4637-a9dc-124103d2acec",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nYang dimaksud dengan hanya kepada Pemegang Kuasa Usaha\nKetenagalistrikan dalam ketentuan ini adalah sepanjang daerah\ntersebut sudah dijangkau oleh Pemegang Kuasa Usaha\nKetenagalistrikan dan bilamana belum dijangkau, Pemegang\nIzin Usaha Ketenagalistrikan Untuk Kepentingan Sendiri tersebut\ndapat menjual kelebihan tenaga listriknya kepada Pemegang\nIzin Usaha Ketenagalistrikan Untuk Kepentingan Umum atau\nmasyarakat setelah mendapat Izin Usaha Ketenagalistrikan\nUntuk Kepentingan Umum.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "d3f757fa-6985-4636-9d3f-3828bd56f197",
-                    "name": "Article 14",
-                    "type": "article",
-                    "children": {
-                        "id": "ac302ce2-6d60-400c-b4d3-67775c7dd920",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "298e9bf8-40eb-4da2-b8ff-500c63634729",
-                    "name": "Article 15",
-                    "type": "article",
-                    "children": {
-                        "id": "9fd32c75-0d2b-406e-aa29-1397dfbcc69f",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nYang dimaksud dengan standar mutu dan keandalan yang baik,\npada dasarnya adalah dilihat baik dari jumlah dan besarnya\nperubahan naik turunnya (variasi) frekuensi sistem, atau jumlah\nbesarnya perubahan naik turunnya (variasi) tegangan pada titik\npemakaian, ataupun jumlah\ndan lama terhentinya\npenyediaan tenaga listrik (gangguan).\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "69ac95b0-db69-4c18-a08d-f6227985d766",
-                    "name": "Article 16",
-                    "type": "article",
-                    "children": {
-                        "id": "cb242baa-01ea-491a-98ca-699f51092b86",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nYang dimaksud dengan secara terus menerus dalam ketentuan\nini adalah tenaga listrik harus selalu disediakan sesuai dengan\nwaktu yang diperjanjikan dengan pelanggannya.\nAyat (2)\nMembahayakan keselamatan umum misalnya ada kebakaran\natau banjir.\nAtas perintah yang berwajib yaitu pihak yang berwenang dalam\nkeadaan darurat atau kegentingan yang memaksa misalnya\nantara lain adanya bahaya serangan udara sewaktu ada perang.\nAtas perintah pengadilan misalnya dalam rangka eksekusi\nputusan Pengadilan.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "ceac47c3-d94d-49e4-9829-f053780774dd",
-                    "name": "Article 17",
-                    "type": "article",
-                    "children": {
-                        "id": "eac2d80b-d7ae-417a-b315-0fde105cde9e",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "b7e93b87-7ba4-49c5-b86a-5cfaa0ecb956",
-                    "name": "Article 18",
-                    "type": "article",
-                    "children": {
-                        "id": "efa83243-ee4c-4374-b386-f30e3e0116d5",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "79840a0f-9485-457d-a878-2a020434cb92",
-                    "name": "Article 19",
-                    "type": "article",
-                    "children": {
-                        "id": "285d0ae0-6e71-4563-abad-ba4278ca7329",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nPenyimpangan terhadap prioritas tersebut misalnya\npemanfaatan tenaga listrik untuk kepentingan pemukiman di\nsuatu tempat yang sebenarnya prioritas telah diberikan untuk\nkepentingan umum.\nPasar 20\nAyat (1)\nYang dimaksud dalam ketentuan ini misalnya tenaga listrik\nuntuk rumah tangga tidak boleh dimanfaatkan untuk keperluan\nusaha.\nAyat (2)\nKetentuan ini dimaksudkan selain untuk melindungi kepentingan\nsebagai Pemegang Kuasa Usaha Ketenagalistrikan dan Pemegang\nIzin Usaha Ketenagalistrikan Untuk Kepentingan Umum juga\nmelindungi keamanan pemakai (pelanggan), misalnya dalam hal\nterjadi kebakaran sebagai akibat pemanfaatan tenaga listrik\nyang tidak sesuai dengan peruntukannya maka yang harus\nbertanggung jawab adalah yang mengakibatkan kerugian\n(kebakaran) itu.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "231c7719-9243-4e87-9494-9d18847d1bf8",
-                    "name": "Article 21",
-                    "type": "article",
-                    "children": {
-                        "id": "1b9e1f35-09f8-438e-832e-2de6ff62567b",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nYang dimaksud dengan badan usaha penunjang adalah badan\nusaha yang diberi izin untuk melakukan pekerjaan\ninstalasi ketenagalistrikan. Pekerjaan instalasi ini antara lain\npenyambungan kabel dan pemasangan peralatan listrik lainnya\ndalam rangka penyaluran tenaga listrik kepada pemakai.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "c03fb6b0-3275-43f0-83b2-24507a8d795c",
-                    "name": "Article 22",
-                    "type": "article",
-                    "children": {
-                        "id": "dd16a5bf-d9e2-4201-a8fe-0d8502f65238",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "58002b92-aeac-4212-8032-b82da9206f47",
-                    "name": "Article 23",
-                    "type": "article",
-                    "children": {
-                        "id": "06415ead-e63e-4c21-ad2e-7eef4f392dd5",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "dfef0901-cfa9-48c0-b6b9-c4f593e2fb41",
-                    "name": "Article 24",
-                    "type": "article",
-                    "children": {
-                        "id": "ef923192-37da-498b-ac71-1d0992d5278f",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nStandar Ketenagalistrikan Indonesia diusulkan oleh Menteri\nuntuk dibahas terlebih dahulu di dalam Dewan Standardisasi\nNasional sebelum ditetapkan menjadi Standar Ketenagalistrikan\nIndonesia yang berlaku secara nasional.\nStandar Ketenagalistrikan Indonesia adalah suatu dokumen yang\nmemuat persyaratan teknis ketenagalistrikan dan dipakai secara\nbaku untuk jenis kegiatan dan bahan-bahan yang digunakan di\nbidang ketenagalistrikan.\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "3be71651-a6d2-48be-a4cb-abed86d8ac94",
-                    "name": "Article 25",
-                    "type": "article",
-                    "children": {
-                        "id": "b1bf2ada-502d-410b-bc8c-0f04ca6cc34b",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nYang dimaksud dengan tindakan dalam ketentuan ini adalah\nantara lain pemutusan sementara aliran tenaga listrik dengan\ntagihan susulan.\nHuruf c\nTindakan penertiban yang dimaksud misalnya pencabutan\nkabel-kabel yang dipasang untuk mendapatkan tenaga listrik\nsecara tidak sah, terutama oleh bukan pelanggan\n(pencantolan). Terhadap pemakaian yang tidak sah itu sendiri\npada dasarnya dapat dilaporkan kepada pihak yang berwajib\nsebagai pencurian.\nAyat (2)\nYang dimaksud dengan bahaya terhadap kesehatan atau\nterhadap nyawa dalam ketentuan ini adalah karena akibat\nsengatan, terbakar, terluka lainnya oleh tenaga listrik\nAyat (3)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nKelalaian ini dapat terjadi baik dalam arti sewaktu\npelaksanaan pekerjaan atau tidak segera dilakukan tindakan\npengamanan perbaikan, sementara laporan atau informasi\nmengenai hal tersebut telah diberikan, ataupun karena\ntindakan-tindakan lain yang dapat menimbulkan kerugian\nselama pemberian pelayanan tenaga listrik.",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "df154a4d-d2d6-4245-9d48-21721a760e1d",
-                    "name": "Article 26",
-                    "type": "article",
-                    "children": {
-                        "id": "4f162bae-e052-42f0-be3e-cc2f3c17815b",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "e9a071c6-9b8c-4ffe-83c6-60df37b3cad4",
-                    "name": "Article 27",
-                    "type": "article",
-                    "children": {
-                        "id": "857cf92d-c132-4230-b5d9-f8f9ddf558f5",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "bfdfe0b0-863c-4b99-9eed-440e652272be",
-                    "name": "Article 28",
-                    "type": "article",
-                    "children": {
-                        "id": "5cfa8711-2ec4-4d9d-8b9d-d8e355311ebb",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "88df846c-ecb0-4536-b6d1-c5da71b9a346",
-                    "name": "Article 29",
-                    "type": "article",
-                    "children": {
-                        "id": "6f619c11-2290-4518-8fc7-41683fd33bd9",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "4abad46a-96cb-4079-b762-01dac37a7229",
-                    "name": "Article 30",
-                    "type": "article",
-                    "children": {
-                        "id": "e16938c0-b622-45f2-a507-69022e266a2f",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nYang dimaksud dengan biaya penyambungan tenaga listrik ialah\nbiaya yang dibebankan untuk penyambungan tenaga listrik dari\ntitik akhir penyediaan hingga titik awal pemanfaatan.\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "11fb044c-c1ca-4a49-99d2-01ca2c3c4a55",
-                    "name": "Article 31",
-                    "type": "article",
-                    "children": {
-                        "id": "1ebed3ac-c0c0-4499-9532-1e576e6ae450",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "a9abcd98-db63-4ca3-bb70-6c7c49162276",
-                    "name": "Article 32",
-                    "type": "article",
-                    "children": {
-                        "id": "6f765c8b-c0e2-407d-ba31-525cde2feb35",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nYang dimaksud dengan harga jual adalah harga yang dibayar pelanggan atas penggunaan tenaga listrik yang terdiri dari biaya beban (Rp/KVA) dan/atau biaya pemakaian (Rp/kwh), atau dibayar berdasarkan harga langganan (Rp/bulan) sesuai dengan batasan daya yang dipakai.\nHarga jual tersebut berlaku pula dalam penjualan tenaga listrik antara:\na. Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Sendiri dan Pemegang Kuasa Usaha Ketenagalistrikan;\nb. Pemegang Kuasa Usaha Ketenagalistrikan dan Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum;\nc. Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Sendiri dan Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum;\nd. Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum dan Pemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum.\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "b1f07e3e-8c33-44a4-bcf7-0e90968aa911",
-                    "name": "Article 33",
-                    "type": "article",
-                    "children": {
-                        "id": "d3a18cc8-acf3-40ed-b45b-63d7373362ac",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "72ba0632-49ac-486c-87ad-e5a7f83320ee",
-                    "name": "Article 34",
-                    "type": "article",
-                    "children": {
-                        "id": "1fef93e2-f830-4b6b-9d2d-7b2643559f31",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nPedoman dalam ketentuan ini meliputi syarat-syarat teknik\nketenagalistrikan yang mencakup perencanaan instalasi\nketenagalistrikan dan pengusahaannya yang harus dipenuhi oleh\nPemegang Kuasa Usaha Ketenagalistrikan dan Pemegang Izin\nUsaha Ketenagalistrikan dalam usaha penyediaan tenaga listrik.\nSedangkan yang menyangkut keselamatan para tenaga kerja\nyang dipekerjakan oleh Pemegang Kuasa Usaha\nKetenagalistrikan dan Pemegang Izin Usaha Ketenagalistrikan\nmenjadi kewenangan dan tanggung jawab Menteri yang\nbertanggung jawab di bidang ketenagakerjaan. Pedoman itu\nberisi antara lain standar penyediaan, pelayanan, dan\npengembangan usaha.\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "c71d00b0-550e-4ca4-a622-8a29b77f58dc",
-                    "name": "Article 35",
-                    "type": "article",
-                    "children": {
-                        "id": "c6c54a57-929b-4839-b875-95561e384dd3",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "65238a44-74ce-46c0-8e83-855c6b00eab6",
-                    "name": "Article 36",
-                    "type": "article",
-                    "children": {
-                        "id": "6d70fd46-7d68-426a-983b-330592e26e72",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "da0fb341-c886-4725-8b48-e5b2e359668a",
-                    "name": "Article 37",
-                    "type": "article",
-                    "children": {
-                        "id": "587ea897-cf93-4e4e-b791-f91643a7a2d3",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
-                    }
-                },
-                {
-                    "id": "e738e782-8335-43f6-8932-ae598a0af587",
-                    "name": "Article 38",
-                    "type": "article",
-                    "children": {
-                        "id": "cada2940-7e56-4fa5-8c84-84ed6d0d07b6",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nCukup jelas",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "explanation": "\nCukup jelas"
                     }
                 }
             ]
         }
     ],
     "metadata": {
+        "Umum": "\nPenyediaan dan pemanfaatan energi untuk tenaga listrik dimuat dalam\nKebijaksanaan Energi Nasional sebagaimana tercantum dalam\nGaris-garis Besar Haluan Negara.\nPenyediaan dan pemanfaatan tenaga listrik dilaksanakan berdasarkan\nRencana Umum Ketenagalistrikan Nasional, yang merupakan bagian\ndari Rencana Pembangunan Lima Tahun di bidang ketenagalistrikan.\nRencana Umum Ketenagalistrikan Nasional merupakan dasar untuk\npenyusunan rencana usaha penyediaan tenaga listrik yang wajib dibuat\noleh Pemegang Kuasa Usaha Ketenagalistrikan dan Pemegang Izin\nUsaha Ketenagalistrikan Untuk Kepentingan Umum yang disahkan oleh\nMenteri dan digunakan sebagai pedoman pelaksanaan penyediaan\ntenaga listrik. Usaha penyediaan tenaga listrik pada dasarnya\ndilakukan oleh Negara yang penyelenggaraannya dilakukan oleh badan\nusaha milik negara sebagai Pemegang Kuasa Usaha Ketenagalistrikan\nyang ditugasi untuk melaksanakan usaha penyediaan tenaga listrik\nuntuk kepentingan umum dan melaksanakan pekerjaan usaha\npenunjang tenaga listrik. Namun, dalam upaya memenuhi kebutuhan\ntenaga listrik secara lebih merata dan untuk lebih meningkatkan\nkemampuan negara dalam hal penyediaan tenaga listrik serta dalam\nrangka keikutsertaan masyarakat dalam pembangunan\nketenagalistrikan, kepada koperasi atau swasta diberi kesempatan\nuntuk melakukan usaha penyediaan tenaga listrik untuk kepentingan\numum sebagai Pemegang Izin Usaha Ketenagalistrikan Untuk\nKepentingan Umum.\nTenaga listrik yang disediakan baik oleh Pemegang Kuasa Usaha\nKetenagalistrikan maupun oleh Pemegang Izin Usaha Ketenagalistrikan\nUntuk Kepentingan Umum harus cukup, merata, aman, dan dengan\nmutu serta keandalan yang baik dalam rangka memberikan\nperlindungan dan pelayanan yang baik kepada masyarakat terutama\npelanggan. Sehubungan dengan hal tersebut di atas maka masyarakat\nharus memanfaatkan sesuai dengan peruntukannya. Izin Usaha\nKetenagalistrikan untuk melakukan penyediaan tenaga listrik untuk\nkepentingan sendiri diberikan berdasarkan sifat penggunaannya, yaitu\npenggunaan utama, penggunaan cadangan, penggunaan darurat, atau\npenggunaan sementara. Setiap perubahan sifat penggunaan misalnya\ndari penggunaan utama berubah menjadi penggunaan cadangan atau\npenggunaan darurat berubah menjadi penggunaan sementara demikian\nsebaliknya harus dilaporkan kepada Menteri. Pelaporan tersebut\ndiperlukan dalam rangka peningkatan efisiensi penyediaan tenaga\nlistrik.\nDalam rangka penyediaan dan pemanfaatan tenaga listrik diatur :\nA. hak dan kewajiban Pemegang Kuasa Usaha Ketenagalistrikan dan\nPemegang Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum\ndalam penyediaan tenaga listrik.\nB. hak dan kewajiban masyarakat dalam pemanfaatan tenaga listrik.\nC. syarat-syarat penyambungan tenaga listrik.\nTenaga listrik yang disediakan untuk kepentingan umum, baik oleh\nPemegang Kuasa Usaha Ketenagalistrikan maupun oleh Pemegang\nIzin Usaha Ketenagalistrikan Untuk Kepentingan Umum harus\ndiberikan dengan standar mutu dan keandalan yang baik, yang\nditetapkan oleh Menteri Pertambangan dan Energi berdasarkan\npersetujuan Dewan Standardisasi Nasional.\nDi samping itu dalam rangka memberi perlindungan kepada pelanggan,\nmaka instalasi ketenagalistrikan harus sesuai dengan Standar\nKetenagalistrikan Indonesia, karena tenaga listrik mempunyai resiko\nbahaya yang cukup tinggi.\nUntuk dapat terselenggaranya penyediaan dan pemanfaatan tenaga\nlistrik secara efektif dan efisien, Menteri melakukan pembinaan dan\npengawasan yang meliputi antara lain pelaksanaan keselamatan kerja\ndan keselamatan umum, pemeriksaan atas perencanaan kerja,\ninstalasi ketenagalistrikan, dan pengusahaannya.\nDengan berlakunya Peraturan Pemerintah ini, Peraturan Pemerintah\nNomor 36 Tahun 1979 tentang Pengusahaan Kelistrikan dinyatakan\ntidak berlaku karena tidak sesuai dengan Undang-undang Nomor 15\nTahun 1985 tentang Ketenagalistrikan.\nNamun demikian, ketentuan peraturan pelaksanaan di bidang\nketenagalistrikan yang dikeluarkan berdasarkan Peraturan Pemerintah\nNomor 36 Tahun 1979 tetap berlaku, sepanjang tidak bertentangan\natau belum diubah atau diganti dengan ketentuan peraturan\npelaksanaan yang baru berdasarkan Peraturan Pemerintah ini.",
         "Nomor": "10",
         "Tahun": "1989",
         "Tentang": "PENYEDIAAN DAN PEMANFAATAN TENAGA LISTRIK\nPRESIDEN REPUBLIK INDONESIA,",
@@ -1251,10 +972,9 @@
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Undang-undang Nomor 15 Tahun 1985 tentang Ketenagalistrikan\n(Lembaran Negara Tahun 1985 Nomor 74, Tambahan Lembaran\nNegara Nomor 3317);"
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;\n  2. Undang-undang Nomor 15 Tahun 1985 tentang Ketenagalistrikan\n(Lembaran Negara Tahun 1985 Nomor 74, Tambahan Lembaran\nNegara Nomor 3317);"
         },
         "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG PENYEDIAAN\nDAN PEMANFAATAN TENAGA LISTRIK.",
-        "tanggal sah": ""
+        "tanggal sah": "25 Juli 1989"
     }
 }

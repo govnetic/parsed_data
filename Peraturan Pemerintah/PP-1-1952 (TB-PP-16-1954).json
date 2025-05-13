@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "0ee32cbd-f049-45ac-a167-00dc3b840732",
+            "id": "8c4e5c4f-f37b-43ad-8fa7-aa2a8a6dbc20",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "10238304-e2ad-4538-a5f2-d66689073d22",
+                "id": "4fbc0c08-0ecc-4093-87c9-55d1da51c92b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "a35fbe7f-3253-4959-9350-0f3998a76e78",
+            "id": "f0663765-8ecf-42e7-88c3-6ced7f8bfa57",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "ef9818e8-2f2e-40d3-adba-b857d83651be",
+                "id": "9a95e205-b0c9-46a6-8c7f-63a22b2c71a6",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,63 +27,63 @@
             }
         },
         {
-            "id": "c6c48848-9ce6-44e2-aaab-9201ce053d29",
+            "id": "67ab9688-9554-4c97-9475-3490993312d5",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "99e3ee68-7644-4e4e-8bb1-06137619e6f7",
+                "id": "0dffe67b-eb3c-41c6-bb8e-3fa3b9ee7720",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Tugas Dewan Rekonstruksi Nasional adalah:\na. membuat rencana-rencana usaha rekonstruksi nasional;\nb. mengatur dan mengawasi pekerjaan Biro Rekonstruksi Nasional.\n(2) Dewan Rekonstruksi Nasional bertanggung-jawab kepada Dewan Menteri.",
+                "content": "(1) Tugas Dewan Rekonstruksi Nasional adalah:\na. membuat rencana-rencana usaha rekonstruksi nasional;\nb. mengatur dan mengawasi pekerjaan Biro Rekonstruksi\nNasional.\n(2) Dewan Rekonstruksi Nasional bertanggung-jawab kepada Dewan\nMenteri.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "93dc3efe-c49c-4f75-b77e-3ed70a4a300c",
+            "id": "0448cdf9-70fa-4fd6-8bc3-b3b5ab5c961b",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "cdf4d89f-07bf-4ec3-baf5-0152c0241d7e",
+                "id": "c4900222-31bc-4649-a9d2-ca76cd91c3db",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Tugas Biro Rekonstruksi Nasional adalah:\na. melaksanakan rencana-rencana putusan Dewan Rekonstruksi Nasional;\nb. memajukan usul-usul kepada Dewan Rekonstruksi Nasional dalam lapangan rekonstruksi nasional.\n(2) Biro Rekonstruksi Nasional bertanggung-jawab kepada Dewan Rekonstruksi Nasional.",
+                "content": "(1) Tugas Biro Rekonstruksi Nasional adalah:\na. melaksanakan rencana-rencana putusan Dewan Rekonstruksi\nNasional;\nb. memajukan usul-usul kepada Dewan Rekonstruksi Nasional\ndalam lapangan rekonstruksi nasional.\n(2) Biro Rekonstruksi Nasional bertanggung-jawab kepada Dewan\nRekonstruksi Nasional.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "b9497050-86f5-40d2-bd3d-b13e6a18613d",
+            "id": "a01f8327-38a6-4c52-bded-897712676a00",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "cfec9bfd-633c-47d9-99b7-b3e77908e7f7",
+                "id": "03358df2-32a1-4980-a822-1de52b07f07e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Tugas Badan Penyelenggara Urusan Rekonstruksi adalah:\na. memajukan usul-usul kepada Direktur Biro Rekonstruksi Nasional dalam lapangan rekonstruksi nasional;\nb. mengatur dan mengawasi pekerjaan Cabang atau Anak Cabang Biro Rekonstruksi Nasional didaerahnya masing-masing, dengan tidak mengurangi kewajiban Biro Rekonstruksi Nasional tersebut dalam pasal 1;\nc. menyelenggarakan semua keputusan dan rencana-rencana Dewan Rekonstruksi Nasional yang disampaikan kepada Badan Penyelenggara Urusan Rekonstruksi oleh Biro Rekonstruksi Nasional.",
+                "content": "Tugas Badan Penyelenggara Urusan Rekonstruksi adalah:\na. memajukan usul-usul kepada Direktur Biro Rekonstruksi\nNasional dalam lapangan rekonstruksi nasional;\nb. mengatur dan mengawasi pekerjaan Cabang atau Anak Cabang Biro\nRekonstruksi Nasional didaerahnya masing-masing, dengan tidak\nmengurangi kewajiban Biro Rekonstruksi Nasional tersebut\ndalam pasal 1;\nc. menyelenggarakan semua keputusan dan rencana-rencana Dewan\nRekonstruksi Nasional yang disampaikan kepada Badan\nPenyelenggara Urusan Rekonstruksi oleh Biro Rekonstruksi\nNasional.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "dd984364-7141-4f23-96d9-f959fea9a9aa",
+            "id": "4e0f8c3b-dea7-40bd-a881-e59b877f547f",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "4a39f350-e510-4b63-a4fa-85cb70bc0fbe",
+                "id": "473731f0-9b59-4e25-a701-7abd658c384a",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Rekonstruksi nasional yang dimaksudkan dalam Peraturan Pemerintah ini adalah pelaksanaan maksud Pemerintah untuk membuka jalan bagi mereka yang tersebut dalam ayat (2) pasal ini, untuk hidup dalam masyarakat dengan mata pencaharian yang layak.\n(2) Maksud Pemerintah tersebut dalam ayat (1) pasal ini\ndilaksanakan oleh Dewan dan Biro Rekonstruksi Nasional,\ndibantu oleh Badan Penyelenggara Urusan Rekonstruksi yang\nbersangkutan, dengan menciptakan pekerjaan-pekerjaan dalam\nlapangan pertahanan dan pembangunan yang dapat dilakukan oleh\n:\na. para anggauta Angkatan Perang di luar susunan organiek\ndan bekas anggauta Angkatan Perang yang belum mendapat\nlapangan pekerjaan di dalam masyarakat;\nb. para tenaga bekas anggauta badan-badan perjuangan\nbersenjata yang didalam pemeliharaan Pemerintah,\nsebagai akibat pelaksanaan Maklumat Pemerintah tanggal\n14 Nopember 1950;\nc. para tenaga bekas anggauta badan-badan perjuangan\nbersenjata selain yang termaksud sub b diatas, yang\nbelum mendapat lapangan pekerjaan dalam masyarakat.",
+                "content": "(1) Rekonstruksi nasional yang dimaksudkan dalam Peraturan\nPemerintah ini adalah pelaksanaan maksud Pemerintah untuk\nmembuka jalan bagi mereka yang tersebut dalam ayat (2) pasal\nini, untuk hidup dalam masyarakat dengan mata pencaharian\nyang layak.\n(2) Maksud Pemerintah tersebut dalam ayat (1) pasal ini\ndilaksanakan oleh Dewan dan Biro Rekonstruksi Nasional,\ndibantu oleh Badan Penyelenggara Urusan Rekonstruksi yang\nbersangkutan, dengan menciptakan pekerjaan-pekerjaan dalam\nlapangan pertahanan dan pembangunan yang dapat dilakukan oleh\n:\na. para anggauta Angkatan Perang di luar susunan organiek\ndan bekas anggauta Angkatan Perang yang belum mendapat\nlapangan pekerjaan di dalam masyarakat;\nb. para tenaga bekas anggauta badan-badan perjuangan\nbersenjata yang didalam pemeliharaan Pemerintah,\nsebagai akibat pelaksanaan Maklumat Pemerintah tanggal\n14 Nopember 1950;\nc. para tenaga bekas anggauta badan-badan perjuangan\nbersenjata selain yang termaksud sub b diatas, yang\nbelum mendapat lapangan pekerjaan dalam masyarakat.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "0fd6fecc-83c1-4bb8-be2e-4afa92684035",
+            "id": "0e700a36-427d-40b7-ba3a-21a5670fa9ad",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "3899a9e2-8b38-4c76-a975-7d39150827fe",
+                "id": "35ef01f9-046e-499f-9b56-1d790acd130c",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -92,11 +92,11 @@
             }
         },
         {
-            "id": "65e69885-82f4-4055-a691-5086e3199321",
+            "id": "8618c6b5-b954-4b01-b90f-5e6d026098d2",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "76e24f5d-fb16-452c-8eba-99e8056c9231",
+                "id": "8e8711cb-5d08-4aca-8123-2954f3c70423",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -105,11 +105,11 @@
             }
         },
         {
-            "id": "f81fbd79-e9f2-44b9-ac6d-7220b84caf37",
+            "id": "b0bdc892-b242-41d3-8bf9-eb2b89eb1392",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "19912c6a-95ef-4ba0-8742-8caa199e4862",
+                "id": "4c81f267-2614-426e-a68f-1883a8ff5756",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -128,9 +128,9 @@
             "b": " untuk itu perlu dibuat peraturan baru yang memakai dasar\nPeraturan Pemerintah Nr 12 tahun 1951 yang kemudian sudah\ndiubah dengan dibubuh tambahan dan perubahan seperlunya;"
         },
         "Mengingat": {
-            "Introduction": "\nPeraturan-peraturan Pemerintah Nr 15 tahun 1950 (Lembaran-Negara\n1950, Nr 44), Nr 12 tahun 1951 dan Nr 20 tahun 1951 (Lembaran-\nNegara 1951 Nr 22 dan Nr 32);\nMendengar\nDewan Menteri dalam rapatnya yang ke-56 pada tanggal 17 Desember\n1951;\nMenetapkan"
+            "Introduction": "\nPeraturan-peraturan Pemerintah Nr 15 tahun 1950 (Lembaran-Negara\n1950, Nr 44), Nr 12 tahun 1951 dan Nr 20 tahun 1951 (Lembaran-\nNegara 1951 Nr 22 dan Nr 32);\nMendengar\nDewan Menteri dalam rapatnya yang ke-56 pada tanggal 17 Desember\n1951;"
         },
-        "Menetapkan": "\nMemutuskan\nPERATURAN TENTANG SUSUNAN DAN TUGAS DEWAN SERTA BIRO REKONSTRUKSI\nNASIONAL.",
+        "Menetapkan": "\nPERATURAN TENTANG SUSUNAN DAN TUGAS DEWAN SERTA BIRO REKONSTRUKSI\nNASIONAL.",
         "tanggal sah": "1 Januari 1952"
     }
 }

@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "7bb80396-182e-44a4-92c4-5a6c4cf169eb",
+            "id": "8feffdac-95e3-4e1b-a69f-f91246ca3370",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "b2fb68b1-41cc-4656-911c-5824a29086b2",
+                    "id": "d658a1a0-5fc8-40ea-81e4-20b9e6846b08",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "6c6189fb-f680-4744-a793-13ebcb1b60a8",
+                        "id": "e117eb38-f0ef-4b70-8027-0bef438923b0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,11 +20,11 @@
                     }
                 },
                 {
-                    "id": "69ed386e-e902-42cf-970b-d5d0b43cf9ff",
+                    "id": "b3452c11-fcfe-4dd2-b1a1-97188efde1d5",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "fbad9026-44e2-4744-902a-9b6ee96818a9",
+                        "id": "66e99d7b-36d9-4361-9711-1c1622b9d38f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -33,22 +33,22 @@
                     }
                 },
                 {
-                    "id": "00ede7b0-c528-41e9-8e6d-1c572f4b6acf",
+                    "id": "7d45a2bf-0ee1-4986-814c-f4d5c9b8282a",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "c27af567-1962-4f46-b224-9a2ada3f6553",
+                            "id": "ca3ca5e5-f235-41f2-b079-a361c7ee37ee",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pemerintah wajib menyediakan Pelayanan Meteorologi,\nKlimatologi, dan Geofisika.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "327375f7-0f78-42a1-ba63-10ea47e6e7f5",
+                            "id": "ce37cc81-117e-42cb-aa2e-64214ffa6f9b",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pelayanan Meteorologi, Klimatologi, dan Geofisika\nsebagaimana dimaksud pada ayat (1) terdiri atas:\na. informasi; dan\nb. jasa.",
                             "explanation": "Tidak ada Penjelasan"
@@ -58,23 +58,23 @@
             ]
         },
         {
-            "id": "258d2911-cd6e-41b5-8efe-b4e2ec024efd",
+            "id": "80c65828-7222-48bb-8b83-434f0376e688",
             "name": "Chapter II",
             "title": "\nPELAYANAN INFORMASI METEOROLOGI, KLIMATOLOGI,\nDAN GEOFISIKA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ec78d3f1-2dd3-4793-8a5a-7e9db1f018f4",
+                    "id": "e27c7a9b-b6f4-4ca4-9e6c-53acbfb6460e",
                     "name": "Section First",
                     "title": "\nUmum",
                     "type": "section",
                     "children": [
                         {
-                            "id": "23de8377-13c8-4b69-bdff-a8b03ccc0db9",
+                            "id": "fcd1c3fe-9f9d-441c-b960-10dab2bc271f",
                             "name": "Article 4",
                             "type": "article",
                             "children": {
-                                "id": "91c93d15-eb25-4b3b-b7e9-58e35c42d9ad",
+                                "id": "cfd4081f-a0ef-43cd-aadc-807b0a30094a",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -83,11 +83,11 @@
                             }
                         },
                         {
-                            "id": "cc671446-6ada-4b95-90ca-6bc3cfde80fb",
+                            "id": "33e1a1fa-22c9-4e10-a06e-446e96bdb9d6",
                             "name": "Article 5",
                             "type": "article",
                             "children": {
-                                "id": "15e4758a-2e72-4a11-8e03-f931af92a52e",
+                                "id": "61bb4475-ffe6-42de-9d8e-8d9e28def872",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -98,17 +98,17 @@
                     ]
                 },
                 {
-                    "id": "3739ca6e-6f2b-4e74-b53f-1c0908ae9f13",
+                    "id": "b3a84a55-6714-445b-8449-22df06b120c3",
                     "name": "Section Second",
                     "title": "\nInformasi Publik",
                     "type": "section",
                     "children": [
                         {
-                            "id": "0ecbd783-1e2a-4a21-805e-6f146b2fbb8f",
+                            "id": "e7493325-d273-4000-958d-9a2d991e8229",
                             "name": "Article 6",
                             "type": "article",
                             "children": {
-                                "id": "e371a682-9436-4c75-b6c0-0f51d58ef775",
+                                "id": "3deccc8e-2431-46f5-908b-42911f16d3b1",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -117,50 +117,50 @@
                             }
                         },
                         {
-                            "id": "2ad1a030-aa54-415e-a04d-d3a233e63108",
+                            "id": "695927d6-41bc-4a6f-a547-c307f0f16b3a",
                             "name": "Article 7",
                             "type": "article",
                             "children": {
-                                "id": "a8e947c8-f721-4409-92e7-da6a69d7c1b7",
+                                "id": "1d397730-e7d7-45ae-ae36-1eb54d2f9834",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nInformasi rutin sebagaimana dimaksud dalam Pasal 6 huruf a meliputi:\na. prakiraan cuaca;\nb. prakiraan musim;\nc. prakiraan tinggi gelombang laut;\nd. prakiraan potensi kebakaran hutan atau lahan;\ne. informasi kualitas udara;\nf. informasi gempa tektonik;\ng. informasi magnet bumi;\nh. informasi tanda waktu; dan\ni. informasi kelistrikan udara.",
+                                "content": "\nInformasi rutin sebagaimana dimaksud dalam Pasal 6 huruf a\nmeliputi:\na. prakiraan cuaca;\nb. prakiraan musim;\nc. prakiraan tinggi gelombang laut;\nd. prakiraan potensi kebakaran hutan atau lahan;\ne. informasi kualitas udara;\nf. informasi gempa tektonik;\ng. informasi magnet bumi;\nh. informasi tanda waktu; dan\ni. informasi kelistrikan udara.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "55281c28-d0f8-4110-8840-a526b7132e8d",
+                            "id": "93acaa7a-14b7-4a2c-be91-6d0d17a90510",
                             "name": "Article 8",
                             "type": "article",
                             "children": {
-                                "id": "fdfb3af2-43c6-4ac0-b932-9079f7f90f25",
+                                "id": "9e0353d4-cb82-4680-b65a-577ed0c958ca",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nPeringatan dini sebagaimana dimaksud dalam Pasal 6 huruf b dapat meliputi:\na. cuaca ekstrim;\nb. iklim ekstrim;\nc. gelombang laut berbahaya; dan\nd. tsunami.",
+                                "content": "\nPeringatan dini sebagaimana dimaksud dalam Pasal 6 huruf b\ndapat meliputi:\na. cuaca ekstrim;\nb. iklim ekstrim;\nc. gelombang laut berbahaya; dan\nd. tsunami.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "6627ce52-1fc8-4043-923c-bab28b52ab49",
+                            "id": "0ab7c7ed-c385-4815-8a1c-e7e764474d0f",
                             "name": "Article 9",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "dcc31417-dd2f-4668-b224-ce7080e6ec4e",
+                                    "id": "127d3d0f-3ee7-4a93-bb0c-5954a9294393",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Badan wajib menyampaikan informasi publik sebagaimana dimaksud dalam Pasal 6 untuk kepentingan masyarakat umum, diminta atau tidak diminta.",
+                                    "content": " Badan wajib menyampaikan informasi publik\nsebagaimana dimaksud dalam Pasal 6 untuk kepentingan\nmasyarakat umum, diminta atau tidak diminta.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "496d206b-2ea6-4155-8222-9a32a550fddf",
+                                    "id": "46bb6584-17f9-4961-94f4-42c0e7dbee88",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Informasi publik sebagaimana dimaksud pada ayat (1) tidak dikenakan biaya.",
+                                    "content": " Informasi publik sebagaimana dimaksud pada ayat (1)\ntidak dikenakan biaya.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
@@ -168,28 +168,28 @@
                     ]
                 },
                 {
-                    "id": "ad72aa16-9eef-40d7-842c-31262761676e",
+                    "id": "aff2e8e2-521f-4b2f-b35a-2bdfb355f496",
                     "name": "Section Third",
                     "title": "\nInformasi Khusus",
                     "type": "section",
                     "children": [
                         {
-                            "id": "47e86e8c-b1ff-47e8-85dd-e5e34e239c8f",
+                            "id": "02b365cb-0e33-4682-b601-7f5c36a86f23",
                             "name": "Article 10",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "c9459ab5-7aec-418c-ae64-ea909604e354",
+                                    "id": "e7d9b9d4-c6c8-4bbd-bd4e-7ed380aeb268",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Informasi khusus sebagaimana dimaksud dalam Pasal 5 huruf b dapat meliputi:\na. informasi cuaca untuk penerbangan;\nb. informasi cuaca untuk pelayaran;\nc. informasi cuaca untuk pengeboran lepas pantai;\nd. informasi iklim untuk agro industri;\ne. informasi iklim untuk diversifikasi energi;\nf. informasi kualitas udara untuk industri;\ng. informasi peta kegempaan untuk perencanaan konstruksi; dan\nh. informasi Meteorologi, Klimatologi, dan Geofisika untuk keperluan klaim asuransi.",
+                                    "content": " Informasi khusus sebagaimana dimaksud dalam Pasal 5\nhuruf b dapat meliputi:\na. informasi cuaca untuk penerbangan;\nb. informasi cuaca untuk pelayaran;\nc. informasi cuaca untuk pengeboran lepas pantai;\nd. informasi iklim untuk agro industri;\ne. informasi iklim untuk diversifikasi energi;\nf. informasi kualitas udara untuk industri;\ng. informasi peta kegempaan untuk perencanaan konstruksi; dan\nh. informasi Meteorologi, Klimatologi, dan Geofisika untuk keperluan klaim asuransi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "393a8af3-4a4a-42fd-8e16-4ab0da109843",
+                                    "id": "aaabae07-a4a0-42c7-847c-e5e783eda1cb",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Selain informasi khusus sebagaimana dimaksud pada ayat (1), Badan dapat memberikan Pelayanan informasi Meteorologi, Klimatologi, dan Geofisika khusus lainnya sesuai dengan permintaan Pengguna.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -197,22 +197,22 @@
                             ]
                         },
                         {
-                            "id": "1aca6539-31ac-471a-9de1-6b43add308eb",
+                            "id": "72f4ff01-8e15-4722-a1eb-249be5564b3d",
                             "name": "Article 11",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "decb98a4-32e7-493f-ad5f-66441c613c76",
+                                    "id": "980120f3-9574-474c-ac22-43151daffbf8",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Badan wajib menyampaikan informasi khusus sebagaimana dimaksud dalam Pasal 10 kepada Pengguna berdasarkan permintaan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "621341f1-605d-40f6-b753-be6ae57c9c6c",
+                                    "id": "23f008d0-f557-4ebc-bb41-7228e0cf3c2f",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Informasi khusus sebagaimana dimaksud pada ayat (1) dikenakan biaya.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -222,36 +222,36 @@
                     ]
                 },
                 {
-                    "id": "1ac43ab5-9b27-4b71-8e4d-f8a03d446aa0",
+                    "id": "82017dcd-23e5-439d-9be9-6e973b541752",
                     "name": "Section Fourth",
                     "title": "\nTata Cara Pelayanan Informasi Meteorologi, Klimatologi, dan Geofisika",
                     "type": "section",
                     "children": [
                         {
-                            "id": "5f8ffd6b-45e7-4cf3-9086-7fe07d486525",
+                            "id": "0a0a4f49-f896-4ee1-bd3d-553d5f162247",
                             "name": "Article 12",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "b213a571-45de-4ca2-a761-0a9f3597903e",
+                                    "id": "339874db-5b96-4221-8ebf-c6efc24fd4d1",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pelayanan informasi publik sebagaimana dimaksud dalam Pasal 6 dilakukan dengan cara:\na. penyediaan dan penyebaran informasi melalui media komunikasi dan informasi; dan/atau\nb. penyediaan dan penyebaran informasi secara langsung sesuai kebutuhan Pengguna.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "97405ef5-ff05-4e97-8532-26939e7df303",
+                                    "id": "6981dbd6-c1bc-4d70-93a3-fe411b3683f8",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Penyediaan dan penyebaran informasi melalui media komunikasi dan informasi sebagaimana dimaksud pada ayat (1) huruf a dilakukan melalui media elektonik dan/atau media non elektonik.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "38209a3c-d1e1-46de-871e-12d14370e57e",
+                                    "id": "a698a781-16fd-4654-8036-df48dc08d8ec",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Penyediaan dan penyebaran informasi secara langsung",
                                     "explanation": "Tidak ada Penjelasan"
@@ -259,30 +259,30 @@
                             ]
                         },
                         {
-                            "id": "635e7795-00e7-4426-9071-e935ff1646a5",
+                            "id": "1ca0e004-b2e7-4cb1-8924-ecd31767e7d7",
                             "name": "Article 13",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "37a99d07-3d9e-4e28-9636-c7e695b720fb",
+                                    "id": "69ad70e6-7c03-496e-91fa-8b4fd65ca940",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Penyediaan dan penyebaran informasi publik sebagaimana dimaksud dalam Pasal 12 dilakukan dengan mempertimbangkan:\na. waktu; dan\nb. durasi.",
+                                    "content": " Penyediaan dan penyebaran informasi publik sebagaimana dimaksud dalam Pasal 12 dilakukan dengan mempertimbangkan:\n a. waktu; dan\n b. durasi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "bbf00263-e5f6-414e-b2ce-6f52fbf412d7",
+                                    "id": "7f909ee8-2f89-4ff8-a374-68cb3d4ea841",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Waktu dan durasi sebagaimana dimaksud pada ayat (1) disesuaikan dengan jenis informasi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "a9832755-3a9d-4314-a50a-f534343c8fd8",
+                                    "id": "8480de32-9931-4663-901f-8c6aef7c18ab",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Ketentuan lebih lanjut mengenai waktu dan durasi penyediaan dan penyebaran informasi sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Kepala Badan.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -290,61 +290,61 @@
                             ]
                         },
                         {
-                            "id": "7b3c1ede-6520-4106-a2ea-f31e686c951f",
+                            "id": "7652bccd-856d-4027-ab4c-ea363fa9e8ad",
                             "name": "Article 14",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "0585f377-afc8-4bde-9069-6d19a82ad917",
+                                    "id": "20b0198d-abdb-4d4a-bdd3-4c784fd995fa",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Pelayanan informasi khusus sebagaimana dimaksud dalam Pasal 10 dilakukan dengan cara:\na. penyediaan dan penyampaian informasi melalui media komunikasi; dan/atau\nb. penyediaan dan penyampaian informasi secara langsung sesuai kebutuhan Pengguna.",
+                                    "content": " Pelayanan informasi khusus sebagaimana dimaksud dalam Pasal 10 dilakukan dengan cara:\n a. penyediaan dan penyampaian informasi melalui media komunikasi; dan/atau\n b. penyediaan dan penyampaian informasi secara langsung sesuai kebutuhan Pengguna.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "7867a9b9-7ecc-4a5f-ad06-a5ca0f0f2e5e",
+                                    "id": "19f18499-6fa3-460b-83fc-f1dad7c4c4a3",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Penyediaan dan penyampaian informasi melalui media komunikasi sebagaimana dimaksud pada ayat (1) huruf a dilakukan melalui media elektronik dan/atau media non elektronik.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "c367310b-ba58-41bf-9c9e-d3f832e5bc5e",
+                                    "id": "6b5ce40d-ce24-423d-b43f-763b3f734f48",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Penyediaan dan penyampaian informasi secara langsung sesuai dengan kebutuhan pengguna sebagaimana dimaksud pada ayat (1) huruf b dapat dilakukan melalui tatap muka dengan petugas Pelayanan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "81110bd2-4fe4-468b-88af-5ae525a2aa07",
+                                    "id": "a35e1d01-c30e-46e2-8886-656a8adaab5f",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
-                                    "content": " Penyediaan dan penyampaian informasi secara langsung sesuai kebutuhan Pengguna sebagaimana dimaksud pada ayat (3) dilakukan berdasarkan:\na. jadwal yang telah ditentukan; dan/atau\nb. jadwal sesuai kesepakatan.",
+                                    "content": " Penyediaan dan penyampaian informasi secara langsung sesuai kebutuhan Pengguna sebagaimana dimaksud pada ayat (3) dilakukan berdasarkan:\n a. jadwal yang telah ditentukan; dan/atau\n b. jadwal sesuai kesepakatan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "92098867-d691-4e2c-8a52-9e149edbf076",
+                            "id": "0376af87-2e83-4b42-b405-7e88bcf72ff6",
                             "name": "Article 15",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "5e1b9d8f-0c7e-41b9-81e2-01449f24406b",
+                                    "id": "db1f9ac5-67f0-4224-b5a2-b37e7e4fdb27",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Informasi Meteorologi, Klimatologi, dan Geofisika\ndisajikan dalam format:\na. gambar;\nb. teks; dan/atau\nc. tabel.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "08c72801-fa20-49f5-86b5-2f85d18a52ae",
+                                    "id": "a082a4c8-606f-4938-9bfa-c9fd42fc2b28",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Ketentuan lebih lanjut mengenai format gambar, teks,\ndan tabel sebagaimana dimaksud pada ayat (1) diatur\ndengan Peraturan Kepala Badan.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -352,15 +352,15 @@
                             ]
                         },
                         {
-                            "id": "c62af5db-a3cb-4601-afe2-5bc34ae659b5",
+                            "id": "d633f390-8105-4886-9c2e-15562b6541fc",
                             "name": "Article 16",
                             "type": "article",
                             "children": {
-                                "id": "44359193-2816-4203-8546-7e7d95d92bc6",
+                                "id": "3e8b3dfb-f0be-46a1-80d0-08dc8decc0ca",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nFormat informasi Meteorologi, Klimatologi, dan Geofisika\nsebagaimana dimaksud dalam Pasal 15 ayat (1) diberikan\ndalam bentuk:\na. *softcopy*; dan/atau\nb. *hardcopy*.",
+                                "content": "\nFormat informasi Meteorologi, Klimatologi, dan Geofisika\nsebagaimana dimaksud dalam Pasal 15 ayat (1) diberikan\ndalam bentuk:\na. softcopy; dan/atau\nb. hardcopy.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         }
@@ -369,23 +369,23 @@
             ]
         },
         {
-            "id": "5bb3f503-efc4-44ee-ab85-5691deece952",
+            "id": "fba8eab3-a81d-4bd3-a4f0-fe9c02775b83",
             "name": "Chapter III",
             "title": "\nPELAYANAN JASA METEOROLOGI, KLIMATOLOGI,\nDAN GEOFISIKA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "a90f2619-b619-4a0a-9ac3-78b2182054c9",
+                    "id": "0240576e-1985-4caf-a4b9-f83548aa5ebd",
                     "name": "Section First",
                     "title": "\nUmum",
                     "type": "section",
                     "children": [
                         {
-                            "id": "d122c43d-9bfd-458e-86a0-3e2f100a032d",
+                            "id": "f6c280a5-3c31-498b-8bf8-97cb79f45332",
                             "name": "Article 17",
                             "type": "article",
                             "children": {
-                                "id": "833ff6ac-c403-41e3-91d2-f11bf6a85732",
+                                "id": "fd097f67-479e-4ce3-a961-7f6445d669bb",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -394,11 +394,11 @@
                             }
                         },
                         {
-                            "id": "6b20bf2c-a48b-4ee4-bf79-ec074becb44a",
+                            "id": "85a9cea8-19e7-474f-a42a-4eafd8293843",
                             "name": "Article 18",
                             "type": "article",
                             "children": {
-                                "id": "6bfa123d-e02e-4a7c-9845-87c9a0067279",
+                                "id": "a4503800-556b-47e6-be6a-03c07a885514",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -407,11 +407,11 @@
                             }
                         },
                         {
-                            "id": "954588fd-7eff-41d3-a81a-9dfe15ccecbc",
+                            "id": "50940d43-5db4-40ed-a12a-3c27a7a2448d",
                             "name": "Article 19",
                             "type": "article",
                             "children": {
-                                "id": "4b1bf3f9-fa54-46d4-b63a-71292d7ba8b5",
+                                "id": "ee087dc1-0960-4d11-840c-82dee22c62bd",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -420,11 +420,11 @@
                             }
                         },
                         {
-                            "id": "595ed768-46b7-47a7-9137-3232d4664f4f",
+                            "id": "0737852e-38e0-453e-8fe1-1c61e308e6df",
                             "name": "Article 20",
                             "type": "article",
                             "children": {
-                                "id": "9f0fd949-00a8-4ebf-82c2-a869d61eace9",
+                                "id": "d88744ff-0758-456c-ae63-e2d0fb6755a1",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -433,11 +433,11 @@
                             }
                         },
                         {
-                            "id": "34b1c47e-e231-4347-846e-b0dd2274b96a",
+                            "id": "d79b348d-1a0f-4dee-b91a-e9e2d39d71e5",
                             "name": "Article 21",
                             "type": "article",
                             "children": {
-                                "id": "95d21a09-aaff-4717-8892-2a9bf8dbc23f",
+                                "id": "58c391da-a868-410f-b864-ce3fa3126bbb",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -446,38 +446,38 @@
                             }
                         },
                         {
-                            "id": "876fec26-d3b6-4bb8-a6ac-2e905ccf1c83",
+                            "id": "792ce70c-a9f9-4ede-935e-1d72e4a45005",
                             "name": "Article 22",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "4315f05f-ab68-40d6-ab1b-927ca4ea20bc",
+                                    "id": "470f4fcb-dbc9-416a-8bc0-e4a1cebc5fed",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pelayanan jasa konsultasi Meteorologi, Klimatologi, dan\nGeofisika dilakukan oleh petugas yang berwenang.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "e4721377-acbb-4a34-902e-74b0ba14e815",
+                                    "id": "6908bc95-0ed2-46f2-be7b-4a23e8f92959",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " diberikan sesuai dengan ketentuan peraturan\nperundang-undangan.",
+                                    "content": " Petugas sebagaimana dimaksud pada ayat (1) harus\nmemiliki sertifikat kompetensi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "62b306fb-0074-4ef4-9f34-b242fc045f71",
+                                    "id": "f36397a7-c5a5-46be-a256-b15db08de637",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Sertifikat kompetensi sebagaimana dimaksud pada ayat",
+                                    "content": " Sertifikat kompetensi sebagaimana dimaksud pada ayat\n(2) diberikan sesuai dengan ketentuan peraturan\nperundang-undangan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "9370d4d1-2985-48d7-85c0-4acb8babb1d6",
+                                    "id": "15c4b1c9-e1c2-4ae2-9a64-fb46122d8b3c",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Ketentuan mengenai petugas yang berwenang melakukan\nPelayanan jasa konsultasi Meteorologi, Klimatologi, dan\nGeofisika diatur dengan Peraturan Kepala Badan.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -485,86 +485,86 @@
                             ]
                         },
                         {
-                            "id": "4fd19607-de85-4d19-846d-6005b72ea76a",
+                            "id": "37740200-e250-43f4-907d-ef5286f29107",
                             "name": "Article 23",
                             "type": "article",
                             "children": {
-                                "id": "ac2dd90d-fe83-4598-a3bd-353dfb112e49",
+                                "id": "31a7a72f-5793-4dd6-8ae3-bbcaa5abbbc0",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nPetugas dalam memberikan pelayanan jasa konsultasi\nMeteorologi, Klimatologi, dan Geofisika harus memperhatikan:\na. independensi;\nb. kepentingan publik;\nc. integritas;\nd. objektivitas;\ne. kompetensi; dan\nf. perilaku profesional.",
+                                "content": "\nPetugas dalam memberikan pelayanan jasa konsultasi Meteorologi, Klimatologi, dan Geofisika harus memperhatikan:\na. independensi;\nb. kepentingan publik;\nc. integritas;\nd. objektivitas;\ne. kompetensi; dan\nf. perilaku profesional.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "07e441b1-ec50-4644-a9a7-1622eb0336d7",
+                            "id": "bd7f05dc-ee5a-4979-92ef-bf607acce5fe",
                             "name": "Article 24",
                             "type": "article",
                             "children": {
-                                "id": "868f8dca-f03e-4964-99ae-7741f400355f",
+                                "id": "23475df9-a8dc-4e41-925e-8cec882dfed3",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nPelayanan jasa kalibrasi Meteorologi, Klimatologi, dan\nGeofisika sebagaimana dimaksud dalam Pasal 17 huruf b\nmerupakan layanan peneraan sarana pengamatan\nMeteorologi, Klimatologi, dan Geofisika.",
+                                "content": "\nPelayanan jasa kalibrasi Meteorologi, Klimatologi, dan Geofisika sebagaimana dimaksud dalam Pasal 17 huruf b\nmerupakan layanan peneraan sarana pengamatan Meteorologi, Klimatologi, dan Geofisika.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "d7703e03-c5f7-4954-9e6e-f316471bcd52",
+                            "id": "7fa9244d-72b6-4598-8d6f-7be5c97529c3",
                             "name": "Article 25",
                             "type": "article",
                             "children": {
-                                "id": "edc4ca9c-2860-4cff-8818-dc81d9527473",
+                                "id": "9bbcd7fc-51fb-45c3-9d91-035726c1b7e0",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nHasil jasa konsultasi sebagaimana dimaksud dalam Pasal 20\nberupa rekomendasi yang termuat dalam dokumen\nkonsultasi.",
+                                "content": "\nHasil jasa konsultasi sebagaimana dimaksud dalam Pasal 20 berupa rekomendasi yang termuat dalam dokumen konsultasi.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "f42b8c81-04eb-447a-b22b-a606ab03a4f6",
+                            "id": "969c980a-d723-4998-bfd1-98227f195949",
                             "name": "Article 26",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "9d7cc0a8-2fa7-4766-8afe-b32167305173",
+                                    "id": "4319a671-319c-4dec-a582-7e20cb8891be",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Pelayanan jasa kalibrasi Meteorologi, Klimatologi, dan\nGeofisika sebagaimana dimaksud dalam Pasal 17 huruf b\nbertujuan menghasilkan peralatan pengamatan\nMeteorologi, Klimatologi, dan Geofisika yang laik operasi\nsesuai dengan spesifikasi yang ditentukan.",
+                                    "content": " Pelayanan jasa kalibrasi Meteorologi, Klimatologi, dan Geofisika sebagaimana dimaksud dalam Pasal 17 huruf b bertujuan menghasilkan peralatan pengamatan Meteorologi, Klimatologi, dan Geofisika yang laik operasi sesuai dengan spesifikasi yang ditentukan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "f278cf43-16f8-4972-a880-c2ec2e2b50f6",
+                                    "id": "d2b53aed-ef35-4482-96ab-b5c25babeea5",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Laik operasi sebagaimana dimaksud pada ayat (1) untuk\nmenjamin keberlangsungan fungsi dan akurasi peralatan\npengamatan termasuk penyediaan peralatan pengamatan\ncadangan.",
+                                    "content": " Laik operasi sebagaimana dimaksud pada ayat (1) untuk menjamin keberlangsungan fungsi dan akurasi peralatan pengamatan termasuk penyediaan peralatan pengamatan cadangan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "f9aef217-ed5c-4503-b084-c01570d84ad7",
+                            "id": "5f0a07bd-d61a-4104-8115-0464c1bfb154",
                             "name": "Article 27",
                             "type": "article",
                             "children": {
-                                "id": "3a6b05ac-ebd6-461d-a870-1d8ca73655e4",
+                                "id": "ea627b46-1159-4829-b509-fd88acc0244e",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nPelayanan jasa kalibrasi Meteorologi, Klimatologi, dan\nGeofisika sebagaimana dimaksud dalam Pasal 17 huruf b\nharus memenuhi persyaratan:\na. menggunakan alat standar kalibrasi;\nb. acuan ketertelusuran; dan\nc. manajemen peralatan.",
+                                "content": "\nPelayanan jasa kalibrasi Meteorologi, Klimatologi, dan Geofisika sebagaimana dimaksud dalam Pasal 17 huruf b harus memenuhi persyaratan:\na. menggunakan alat standar kalibrasi;\nb. acuan ketertelusuran; dan\nc. manajemen peralatan.",
                                 "explanation": "Tidak ada Penjelasan"
                             }
                         },
                         {
-                            "id": "cea22697-6d82-4357-9d2d-d3fe75f926ea",
+                            "id": "73b378f8-2947-4040-a984-f348207524a4",
                             "name": "Article 28",
                             "type": "article",
                             "children": {
-                                "id": "732737e3-515a-4120-a96c-5d519c5f6aff",
+                                "id": "ca947bf4-a279-45f0-8c2a-9b5a61680b18",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -573,61 +573,61 @@
                             }
                         },
                         {
-                            "id": "b3732f6d-710e-4aa1-ba2f-8211730a8c30",
+                            "id": "832c5674-070f-468d-b9e0-b661f671f5a4",
                             "name": "Article 29",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "da758660-7fde-4294-a146-5fea4d31e91c",
+                                    "id": "bbb7a7c4-2235-4853-bcb9-90b5aa5c6de5",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " diberikan sesuai dengan ketentuan peraturan\nperundang-undangan.",
+                                    "content": " Laboratorium sebagaimana dimaksud dalam Pasal 28\nhuruf a wajib memiliki sertifikat laboratorium kalibrasi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "713d30f4-6c65-443f-9d76-73b2984dd9b1",
+                                    "id": "d3643cdf-aedb-4144-803d-44c59349a365",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Sertifikat laboratorium sebagaimana dimaksud pada ayat",
+                                    "content": " Sertifikat laboratorium sebagaimana dimaksud pada ayat\n(1) diberikan sesuai dengan ketentuan peraturan\nperundang-undangan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "c3d57e88-141f-4f90-8587-04a994c7fac8",
+                            "id": "7a34e691-6514-4e9e-91d8-cc14a3562d12",
                             "name": "Article 30",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "90decf52-668f-4ff7-aa67-e7088f5a571e",
+                                    "id": "63256142-c9f0-4aa5-a41c-0d5a6c58f365",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pelayanan jasa kalibrasi Meteorologi, Klimatologi, dan\nGeofisika dilakukan oleh petugas yang berwenang.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "cbd819c9-a214-43f8-abb6-a7b3013c9795",
+                                    "id": "65816109-158e-401e-a558-fd5aed3c788b",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " diberikan sesuai dengan ketentuan peraturan\nperundang-undangan.",
+                                    "content": " Petugas sebagaimana dimaksud pada ayat (1) harus\nmemiliki sertifikat kompetensi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "c9d7dfd3-3721-4554-b869-477b635cbca3",
+                                    "id": "2eaa7920-15ee-4748-bdfe-bc1b312bd608",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Sertifikat kompetensi sebagaimana dimaksud pada ayat",
+                                    "content": " Sertifikat kompetensi sebagaimana dimaksud pada ayat\n(2) diberikan sesuai dengan ketentuan peraturan\nperundang-undangan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "82a3c3b9-10d9-405f-9253-d40697d9a87e",
+                                    "id": "2e775c32-1664-4142-b398-7c4c8076e63d",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Ketentuan mengenai petugas yang berwenang melakukan\nPelayanan jasa kalibrasi Meteorologi, Klimatologi, dan\nGeofisika diatur dengan Peraturan Kepala Badan.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -635,11 +635,11 @@
                             ]
                         },
                         {
-                            "id": "aa92016d-24bf-4e5c-9f19-16a903e93f2c",
+                            "id": "5a5d672d-dc39-483f-8b4e-6671fa90e08b",
                             "name": "Article 31",
                             "type": "article",
                             "children": {
-                                "id": "25067f52-b65d-4a6c-b264-c3bbac05f468",
+                                "id": "c008150a-dbce-4ba1-9bd0-8f9207b3e70d",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -648,30 +648,30 @@
                             }
                         },
                         {
-                            "id": "c45d9cc2-591c-4066-b5a6-346206875a83",
+                            "id": "18ab56cb-ba2d-4cb5-8c19-c6d7f992ef34",
                             "name": "Article 32",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "7610574e-78ef-4450-b686-3a716c5d35f5",
+                                    "id": "76dfa4fc-9fac-4d9e-beb3-70b006a252ac",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pelayanan jasa konsultasi Meteorologi, Klimatologi, dan\nGeofisika yang dilakukan Instansi pemerintah lainnya,\nharus mempunyai sumber daya manusia yang memiliki\nsertifikat kompetensi sebagaimana dimaksud dalam Pasal\n22.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "e251821e-1c2e-48e1-bd99-7c18220a971b",
+                                    "id": "a1b21771-350e-4bc5-b7c4-366e2723e3c4",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Pelayanan jasa kalibrasi Meteorologi, Klimatologi, dan\nGeofisika yang dilakukan oleh intansi pemerintah lainnya\nharus:\na. mempunyai sumber daya manusia yang memiliki\nsertifikat kompetensi sebagaimana dimaksud dalam\nPasal 30;\nb. memiliki sertifikat laboratorium kalibrasi\nsebagaimana dimaksud dalam Pasal 29; dan\nc. memiliki peralatan yang terkalibrasi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "10a0340b-0d2d-46e0-b36d-0041335ced29",
+                                    "id": "2cc2cc72-390e-404a-8cc5-72f90bb2fd2d",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Dalam melaksanakan Pelayanan Jasa Meteorologi,\nKlimatologi, dan Geofisika, instansi pemerintah lainnya\ndapat berkoordinasi dengan Badan.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -679,54 +679,54 @@
                             ]
                         },
                         {
-                            "id": "40db474d-949c-43cc-9542-ee36eeac9494",
+                            "id": "c7e2b702-e0f1-468b-9279-54fc40855fa5",
                             "name": "Article 33",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "5bcd31dd-e504-45cf-890d-bc73d4517dfe",
+                                    "id": "92666744-e45d-433e-99b2-01cce25da547",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pelayanan jasa konsultasi Meteorologi, Klimatologi, dan\nGeofisika yang dilakukan oleh badan hukum Indonesia\nharus merupakan badan hukum Indonesia yang bergerak\ndi bidang Meteorologi, Klimatologi, dan Geofisika dan\nterakreditasi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "83f55f06-56d6-4bdd-98fd-c5b048b96974",
+                                    "id": "683b78dd-2c3f-4cc5-858e-3ceb8c07b36d",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Akreditasi sebagaimana dimaksud pada ayat (1)\ndilakukan oleh Badan atau lembaga independen yang\nditetapkan oleh Badan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "07e00682-ce45-4046-8478-77b7b9ea6e18",
+                                    "id": "9d990c8d-9769-48c4-8f7c-8ea411a6da24",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Persyaratan untuk mendapatkan akreditasi sebagaimana\ndimaksud pada ayat (1) meliputi persyaratan administrasi\ndan persyaratan teknis.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "57bf61de-9088-4e7c-b843-586c13167753",
+                                    "id": "3b88a8e8-f012-462a-b7d3-7a8368b78276",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Persyaratan administrasi sebagaimana dimaksud pada\nayat (3) paling sedikit meliputi:\na. memiliki akta pendirian badan hukum;\nb. memiliki surat izin usaha;\nc. memiliki Nomor Pokok Wajib Pajak; dan\nd. memenuhi kewajiban perpajakan sesuai dengan ketentuan peraturan perundang-undangan.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "1cc1cf5f-6622-4b11-8922-275b539438ef",
+                                    "id": "fb104eeb-c1f0-4a84-86eb-55a5850f0375",
                                     "name": "Verse 5",
-                                    "number": "(5)",
+                                    "number": "5",
                                     "type": "verse",
                                     "content": " Persyaratan teknis sebagaimana dimaksud pada ayat (3) meliputi:\na. persyaratan teknis untuk badan hukum Indonesia yang melakukan pelayanan jasa konsultasi paling sedikit mempunyai sumber daya manusia yang memiliki sertifikat kompetensi sebagaimana dimaksud dalam Pasal 22;\nb. persyaratan teknis untuk badan hukum Indonesia yang melakukan pelayanan jasa kalibrasi paling sedikit terdiri atas:\n1) mempunyai sumber daya manusia yang memiliki sertifikat kompetensi sebagaimana dimaksud dalam Pasal 22; dan/atau\n2) memiliki sertifikat labolatorium kalibrasi sebagaimana dimaksud dalam Pasal 29; dan\n3) memiliki peralatan yang terkalibrasi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "7757e839-bbfb-443c-85d0-0ea8d57029b6",
+                                    "id": "a80faad1-e608-4022-bdb9-50359a1c9405",
                                     "name": "Verse 6",
-                                    "number": "(6)",
+                                    "number": "6",
                                     "type": "verse",
                                     "content": " Ketentuan lebih lanjut mengenai tata cara akreditasi untuk Badan Hukum Indonesia diatur dengan Peraturan Kepala Badan.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -736,17 +736,17 @@
                     ]
                 },
                 {
-                    "id": "5d6feba3-7911-4261-b28b-827837e32e5a",
+                    "id": "5d9f6965-eda9-4c21-af4b-c8707f9ce14d",
                     "name": "Section Fourth",
                     "title": "\nTata Cara Pelayanan Jasa Meteorologi, Klimatologi, dan Geofisika",
                     "type": "section",
                     "children": [
                         {
-                            "id": "90ee7507-6099-4a70-b78d-cc82eb3aae48",
+                            "id": "9c3b3ba8-fa75-4cc8-b677-4cb68d38daae",
                             "name": "Article 34",
                             "type": "article",
                             "children": {
-                                "id": "0d767f39-4163-4d59-90fc-dc1a32ab3c7d",
+                                "id": "9e78953a-b4cd-40ed-8025-e871f1c3ac31",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -755,11 +755,11 @@
                             }
                         },
                         {
-                            "id": "4e6aab72-b6bc-4ad8-8af7-727ee305140b",
+                            "id": "61089eab-93e3-4bf6-8ad0-483e14f3442c",
                             "name": "Article 35",
                             "type": "article",
                             "children": {
-                                "id": "bb89a925-8ea6-492a-b752-27ea19e3cfa4",
+                                "id": "a73cb197-bc25-4d1f-bc39-703690714067",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -768,22 +768,22 @@
                             }
                         },
                         {
-                            "id": "8eefb494-b33b-4091-b67f-4e9df6ead89f",
+                            "id": "871a4e7c-17da-4cc6-a4a4-37edbfaa1b15",
                             "name": "Article 36",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "ca697832-4d49-4dc4-be78-2e4364a22e90",
+                                    "id": "6d73137a-1b24-4af3-931b-261c7779bf06",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pelayanan jasa kalibrasi Meteorologi, Klimatologi, dan\nGeofisika sebagaimana dimaksud dalam Pasal 17 huruf b\ndilakukan dengan cara:\na. mengidentifikasi peralatan yang akan dikalibrasi;\ndan\nb. melaksanaan kalibrasi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "19ca3dc8-184e-4f7f-a100-0fd193b0b8d9",
+                                    "id": "0ac451fc-9bf7-4e78-b7f9-cffe47b91119",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Dalam hal peralatan yang akan dikalibrasi sebagaimana\ndimaksud pada ayat (1) huruf a rusak, petugas yang\nberwenang menolak Pelayanan jasa kalibrasi Meteorologi,\nKlimatologi, dan Geofisika.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -791,22 +791,22 @@
                             ]
                         },
                         {
-                            "id": "8dd23db6-ecb8-4cff-9a88-0a52005080b5",
+                            "id": "22b2cea0-1312-46c1-bd76-ba6765e94d3d",
                             "name": "Article 37",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "56c0e3de-f085-497e-911f-666297c800d0",
+                                    "id": "79e1440c-7b7a-498f-98ab-ed3b00484154",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Peralatan sebagaimana dimaksud dalam Pasal 38 yang\ntelah lulus kalibrasi diberi sertifikat kalibrasi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "e4ef094c-b9da-4011-bb39-fe3340685dcd",
+                                    "id": "180c153a-c5a9-40f2-8451-c87329f9756a",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Sertifikat kalibrasi sebagaimana dimaksud pada ayat (1)\ndiberikan sesuai dengan ketentuan peraturan\nperundang-undangan.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -818,44 +818,44 @@
             ]
         },
         {
-            "id": "62fae022-7b05-4720-9d1c-0a2c78f37ab2",
+            "id": "226d2142-ed57-40d4-8da2-01f8dbbe7b54",
             "name": "Chapter IV",
             "title": "\nSTANDAR PELAYANAN METEOROLOGI, KLIMATOLOGI,\nDAN GEOFISIKA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "011fa119-1c3d-495e-8738-62f0e041a02e",
+                    "id": "50f434b5-46c4-42f6-aea0-9ce68a15a273",
                     "name": "Article 38",
                     "type": "article",
                     "children": [
                         {
-                            "id": "55af2589-9775-4fa9-88bb-b71d20a53683",
+                            "id": "3b83d340-38ce-4377-93c0-845786e4690e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pelayanan Meteorologi, Klimatologi, dan Geofisika\ndilakukan sesuai dengan standar Pelayanan Meteorologi,\nKlimatologi, dan Geofisika.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8257f6c7-731d-438c-a991-f9b524d17ce2",
+                            "id": "d8f31305-6077-467f-a754-7af63d5e9098",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Standar Pelayanan Meteorologi, Klimatologi, dan\nGeofisika sebagaimana dimaksud pada ayat (1)\nmerupakan tolok ukur yang dipergunakan sebagai\npedoman penyelenggara Pelayanan Meteorologi,\nKlimatologi, dan Geofisika dan acuan penilaian kualitas\nPelayanan Meteorologi, Klimatologi, dan Geofisika.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "63dfa8fd-df7d-4d82-ba67-e3fe5efcbb08",
+                            "id": "958149d3-5e12-4bfb-b2d6-b5be37e2e03b",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Ketentuan mengenai standar Pelayanan Meteorologi,\nKlimatologi, dan Geofisika sebagaimana dimaksud pada\n2016, No.87\nayat (1) diatur dengan Peraturan Kepala Badan.",
+                            "content": " Ketentuan mengenai standar Pelayanan Meteorologi,\nKlimatologi, dan Geofisika sebagaimana dimaksud pada\n2016, No.87\n-14-\nayat (1) diatur dengan Peraturan Kepala Badan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "3d507263-02dd-4ab5-83e1-15933836d261",
+                            "id": "d80cc14c-b8a7-40ee-bc08-d201565740a1",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Dalam penyusunan standar Pelayanan Meteorologi,\nKlimatologi, dan Geofisika sebagaimana dimaksud pada\nayat (3), Kepala Badan berpedoman pada ketentuan\nperaturan perundang-undangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -865,28 +865,28 @@
             ]
         },
         {
-            "id": "3c7f4e82-f91f-48f6-a4f0-8cafed41f374",
+            "id": "dd7e5609-4c2f-4937-a347-74b12e78c365",
             "name": "Chapter V",
             "title": "\nSARANA PELAYANAN METEOROLOGI, KLIMATOLOGI,\nDAN GEOFISIKA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f0a85cf0-d56c-4d92-81fb-090af578454e",
+                    "id": "9faf4318-dcea-447d-8793-19c37f54cfa2",
                     "name": "Article 39",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bc81ed2d-3ebe-47cb-a4b6-c7f9d33bee0e",
+                            "id": "1b392a1e-b5ff-4db8-88ff-96d7af3005c0",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Badan wajib memenuhi kebutuhan sarana Pelayanan\nMeteorologi, Klimatologi, dan Geofisika.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "65a6bfab-b41f-4fff-8d8c-8cd29deaea8a",
+                            "id": "4b7ce4c3-3a16-4d63-8f20-08ecf5ad0b3a",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Instansi pemerintah atau badan hukum Indonesia yang\nmemenuhi persyaratan wajib memenuhi sarana\nPelayanan Meteorologi, Klimatologi, dan Geofisika.",
                             "explanation": "Tidak ada Penjelasan"
@@ -894,11 +894,11 @@
                     ]
                 },
                 {
-                    "id": "b158ae9e-1fb5-4802-91e2-c457347babe3",
+                    "id": "e13c0ea7-09da-484f-a363-11fa2bf58120",
                     "name": "Article 40",
                     "type": "article",
                     "children": {
-                        "id": "4132be5b-f26f-479a-bef9-1ee2f6039108",
+                        "id": "5c4327f0-dded-4dc8-beb4-1515b4841d0d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -907,30 +907,30 @@
                     }
                 },
                 {
-                    "id": "b6cf3e18-6fff-4c30-b532-fad52a9d9a47",
+                    "id": "520a1ef9-4c2a-4ebd-aaff-9c73aa5268a6",
                     "name": "Article 41",
                     "type": "article",
                     "children": [
                         {
-                            "id": "234f4b06-3054-4ff8-8b5b-bbf057e3e248",
+                            "id": "58ad5a3c-ec8a-46fd-aec5-75db508e0f62",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Badan wajib memelihara sarana Pelayanan Meteorologi,\nKlimatologi, dan Geofisika.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1b8efc5e-3fd1-4609-8dc8-51f7dd2e8a63",
+                            "id": "d88be835-4e33-484d-beeb-ea953202c6e6",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Instansi pemerintah atau badan hukum Indonesia yang\nmemenuhi persyaratan wajib memelihara sarana\nPelayanan Meteorologi, Klimatologi, dan Geofisika.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "9a100b2d-6cbf-4d28-98b6-aeedbc3f09cf",
+                            "id": "e60ebe60-b118-4037-93a5-09df65350262",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Pemeliharaan sarana Pelayanan Meteorologi, Klimatologi,\ndan Geofisika sebagaimana dimaksud pada ayat (1)\nbertujuan menjamin kelangsungan penyelenggaraan\nPelayanan Meteorologi, Klimatologi, dan Geofisika.",
                             "explanation": "Tidak ada Penjelasan"
@@ -938,11 +938,11 @@
                     ]
                 },
                 {
-                    "id": "64a3b0fe-e108-46af-9a4f-6abc85e663d7",
+                    "id": "ca7f49c7-32ac-4300-a108-af2273b32078",
                     "name": "Article 42",
                     "type": "article",
                     "children": {
-                        "id": "6bd40e88-6678-4e3c-b87d-1cf77e1e9c71",
+                        "id": "cb30dd32-20a7-4cfe-bee9-7b5a876b6420",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -951,22 +951,22 @@
                     }
                 },
                 {
-                    "id": "55f19a94-6051-4993-bf41-4cad98cd3e07",
+                    "id": "029d26ab-9420-4fdf-b86d-ef1bb5f7dcde",
                     "name": "Article 43",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b4d8e33c-a6cc-48f4-8c47-b5bcbc98ec39",
+                            "id": "40697e71-d41d-49e1-84c2-97c2245e8c9f",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Standar teknis pemeliharaan sarana Pelayanan\nMeteorologi, Klimatologi, dan Geofisika sebagaimana\ndimaksud dalam Pasal 42 meliputi:\na. penggantian komponen peralatan secara berkala\nsesuai dengan umur teknis dan spesifikasi teknis;\nb. pemeriksaan kinerja peralatan secara berkala;\nc. perbaikan peralatan pada saat terjadi kerusakan;\nd. modifikasi, rekondisi, dan rehabilitasi peralatan;\ne. penyediaan peralatan cadangan; dan\nf. penyediaan suku cadang peralatan.",
+                            "content": " Standar teknis  pemeliharaan sarana Pelayanan\nMeteorologi, Klimatologi, dan Geofisika sebagaimana\ndimaksud dalam Pasal 42 meliputi:\na. penggantian komponen peralatan secara berkala\nsesuai dengan umur teknis dan spesifikasi teknis;\nb. pemeriksaan kinerja peralatan secara berkala;\nc. perbaikan peralatan pada saat terjadi kerusakan;\nd. modifikasi, rekondisi, dan rehabilitasi peralatan;\ne. penyediaan peralatan cadangan; dan\nf.  penyediaan suku cadang peralatan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "205330b8-1e33-4e09-a560-593d84ec0306",
+                            "id": "29270e01-f0f6-4cc8-b7b1-294a93d67509",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Standar operasional pemeliharaan sarana Pelayanan\nMeteorologi, Klimatologi, dan Geofisika meliputi:\na. kebersihan;\nb. keamanan;\nc. persyaratan lingkungan; dan\nd. waktu pelaksanaan pemeliharaan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -974,22 +974,22 @@
                     ]
                 },
                 {
-                    "id": "3856ad3a-be02-4798-aaa8-21b1676b36ce",
+                    "id": "721fd451-ac0d-4509-b257-1fb241dbc12d",
                     "name": "Article 44",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3279f734-fc6d-46f7-baf1-a6e3b52bb0ae",
+                            "id": "161ed024-d03f-4b3d-a713-952c2a0964c9",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pemeliharaan sebagaimana dimaksud dalam Pasal 42\ndapat dilakukan oleh pihak lain yang mempunyai\nkeahlian di bidang pemeliharaan peralatan berdasarkan\nperjanjian kerja sama.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5aada196-134c-4dc8-b19e-124d975f8337",
+                            "id": "71dd67f5-18fc-48cd-9f9e-56aec5d49cb3",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pemilik sarana Pelayanan Meteorologi, Klimatologi, dan\nGeofisika wajib melakukan perbaikan sarana Pelayanan\nMeteorologi, Klimatologi, dan Geofisika sesuai standar\nteknis dan/atau operasional.",
                             "explanation": "Tidak ada Penjelasan"
@@ -999,59 +999,59 @@
             ]
         },
         {
-            "id": "5888f810-fc59-4790-a838-1164f268373a",
+            "id": "dac2dfda-5134-461c-a455-ae97acfbe06d",
             "name": "Chapter VI",
             "title": "\nKEWAJIBAN PENGGUNAAN INFORMASI",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f65531fd-1fc0-44bd-839a-b70692d18ef4",
+                    "id": "26487028-f82e-441e-ac7f-1f86b59551d2",
                     "name": "Article 45",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9328b20b-cf2e-47c3-a37d-8ed4290b102b",
+                            "id": "4787c03c-38df-4e87-9ecb-1a031fa59921",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pemerintah, pemerintah daerah, dan pemangku kepentingan lain wajib menggunakan informasi meteorologi, klimatologi, dan geofisika dalam penetapan kebijakan di sektor terkait.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "d0f0fcfe-faf1-4b74-8598-ea9568045372",
+                            "id": "a1d5d8e4-f88a-4daf-98d4-2833c88c4bec",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Sektor terkait sebagaimana dimaksud pada ayat (1) dapat meliputi:\n    a. transportasi;\n    b. pertanian dan kehutanan;\n    c. pariwisata;\n    d. pertahanan dan keamanan;\n    e. konstruksi;\n    f. tata ruang;\n    g. kesehatan;\n    h. sumber daya air;\n    i. energi dan pertambangan;\n    j. industri;\n    k. kelautan dan perikanan;\n    l. komunikasi;\n    m. geospasial; dan\n    n. penanggulangan bencana.",
+                            "content": " Sektor terkait sebagaimana dimaksud pada ayat (1) dapat meliputi:\na. transportasi;\nb. pertanian dan kehutanan;\nc. pariwisata;\nd. pertahanan dan keamanan;\ne. konstruksi;\nf. tata ruang;\ng. kesehatan;\nh. sumber daya air;\ni. energi dan pertambangan;\nj. industri;\nk. kelautan dan perikanan;\nl. komunikasi;\nm. geospasial; dan\nn. penanggulangan bencana.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "92396e2d-f3f0-4713-af4a-67f767e3ad66",
+                    "id": "498787ef-3c6c-48f3-a6ef-52d7ee719d0e",
                     "name": "Article 46",
                     "type": "article",
                     "children": [
                         {
-                            "id": "11356d9f-9870-40e6-ba47-dffa35ffef2e",
+                            "id": "058e7f5f-4640-4da5-9198-d95c3e862de1",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Informasi sebagaimana dimaksud dalam Pasal 45 harus merupakan informasi yang termutakhirkan dari Badan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "890bf48d-b44c-4d8e-802d-dfd5aa49df4e",
+                            "id": "6d8541b0-2d4d-4f3f-9dcc-bf4346c8923f",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Informasi sebagaimana dimaksud pada ayat (1) dapat digunakan untuk perumusan kebijakan, pengambilan keputusan, dan/atau pelaksanaan kegiatan yang sesuai dengan kebutuhan Pengguna informasi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "6c1efd54-1d12-4f62-8c73-dcf2e4b852f5",
+                            "id": "7abb9486-893e-4893-ad5f-f049e644950e",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Penggunaan informasi sebagaimana dimaksud pada ayat (2) dikoordinasikan kepada Badan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1059,11 +1059,11 @@
                     ]
                 },
                 {
-                    "id": "58212eff-bcd5-49ce-9c54-687e353e932e",
+                    "id": "b713d971-4513-4f77-b306-bbb93901bacf",
                     "name": "Article 47",
                     "type": "article",
                     "children": {
-                        "id": "03146c82-66dc-4f24-8f07-29cba95f7800",
+                        "id": "8a87eb9e-8cdf-49b5-b227-ecfc18259461",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1074,34 +1074,34 @@
             ]
         },
         {
-            "id": "baeb6f92-f1d9-4b6a-a952-1365d9a070a5",
+            "id": "3f3eae6e-ae8d-4119-a4ba-ebe8eb8435d4",
             "name": "Chapter VII",
             "title": "\nPERAN SERTA MASYARAKAT",
             "type": "chapter",
             "children": [
                 {
-                    "id": "9d988afe-7ae3-4185-968b-cf86d751ff78",
+                    "id": "779d99c2-f640-4d57-95b9-0867f55a9892",
                     "name": "Section First",
                     "title": "\nUmum",
                     "type": "section",
                     "children": [
                         {
-                            "id": "695592b1-5e74-4731-9caa-d4130f519735",
+                            "id": "74b88ee2-255d-465e-a4cc-7ea0bbc41d30",
                             "name": "Article 48",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "6cb1d383-b318-4ac0-ac44-b8d1ac629909",
+                                    "id": "a0e58900-bd45-4e2c-a0b6-dca1e0432386",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Badan dalam melakukan kegiatan Pelayanan Meteorologi, Klimatologi, dan Geofisika, dapat melibatkan masyarakat.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "653aa04f-3755-4a3a-9e75-5cf1dfa61603",
+                                    "id": "a4978687-318e-49e4-acd3-745d1670c74f",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Masyarakat berhak memperoleh informasi publik yang berkaitan dengan Pelayanan Meteorologi, Klimatologi, dan Geofisika.",
                                     "explanation": "Tidak ada Penjelasan"
@@ -1111,17 +1111,17 @@
                     ]
                 },
                 {
-                    "id": "1e87193e-0e07-4191-836a-74564c0eb977",
+                    "id": "fda0cb9a-c0c9-42e9-9ed4-7c77444418b6",
                     "name": "Section Second",
                     "title": "\nPeran Serta Masyarakat",
                     "type": "section",
                     "children": [
                         {
-                            "id": "867e8db2-9130-4b25-a686-e678af7a5fcc",
+                            "id": "af883654-cfa4-4f7f-98b1-2790616cb231",
                             "name": "Article 49",
                             "type": "article",
                             "children": {
-                                "id": "281a1e60-2fe4-4c89-9764-9053d032823d",
+                                "id": "91c3fc89-3716-4019-9011-8bfcfcd06c07",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -1130,11 +1130,11 @@
                             }
                         },
                         {
-                            "id": "01019148-4258-4419-881e-0f0aa8954389",
+                            "id": "bd0633cb-7866-478e-8212-dfa4567e2417",
                             "name": "Article 50",
                             "type": "article",
                             "children": {
-                                "id": "f1f286bc-502f-47f2-9599-44b47e904aff",
+                                "id": "d04d77fd-fe77-43c0-9303-a51c64021c2b",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -1147,17 +1147,17 @@
             ]
         },
         {
-            "id": "a8aeab6b-41e2-4b6b-8a65-1a0b603b6af1",
+            "id": "9816dcdd-b40d-4ba6-b8b3-8af2e95b1efa",
             "name": "Chapter VIII",
             "title": "\nPEMBINAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "5f9f7e8e-fa53-48da-8e53-15fe5a14d669",
+                    "id": "2a053660-5085-4df7-8a98-af2b9db40bcf",
                     "name": "Article 51",
                     "type": "article",
                     "children": {
-                        "id": "ce5c5918-f493-4762-869e-e30bdf746dbe",
+                        "id": "2aae362a-b0c8-4d73-b606-b0edaf3a9d9f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1166,11 +1166,11 @@
                     }
                 },
                 {
-                    "id": "aeb847ac-4735-4ad9-bc38-fc52c063294f",
+                    "id": "025db10d-2bad-4fa2-95dd-36982ef3a7f5",
                     "name": "Article 52",
                     "type": "article",
                     "children": {
-                        "id": "8d1b2deb-8c38-402b-ba85-e5942176b54a",
+                        "id": "d99167cd-cbb9-487f-9817-4b3f68fd2f2c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1179,11 +1179,11 @@
                     }
                 },
                 {
-                    "id": "d525de5d-5a5b-46a4-bd86-d700a87561a5",
+                    "id": "e3798e06-ffb2-4496-aa90-da12d79c6de9",
                     "name": "Article 53",
                     "type": "article",
                     "children": {
-                        "id": "89f6a6c2-a1e2-443a-bbf1-f3e88122e334",
+                        "id": "15d009ed-b81e-4573-861e-455956d9cdb1",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1192,30 +1192,30 @@
                     }
                 },
                 {
-                    "id": "29475b47-dfb5-46bb-b02d-1dd0ef040e15",
+                    "id": "8f30d096-7d0a-4e83-a680-781fa63320a3",
                     "name": "Article 54",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8af6b8d6-a85d-48c9-82e7-07a71ca6b010",
+                            "id": "6709d7eb-33d2-442b-a637-1f5cbcbad98a",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pengaturan sebagaimana dimaksud dalam Pasal 53 huruf\na meliputi penetapan kebijakan umum dan teknis,\npenentuan norma, standar, pedoman, kriteria,\nperencanaan, persyaratan, dan prosedur perizinan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "58778964-b1e5-4855-aa35-075a4f93b40e",
+                            "id": "bc5b5690-9a22-4c07-8e50-681e52b30452",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pengendalian sebagaimana dimaksud dalam Pasal 53\nhuruf b meliputi arahan, bimbingan, pelatihan, perizinan,\nsertifikasi, dan bantuan teknis.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "efeaa6d2-427b-4340-b460-8bccee2ca982",
+                            "id": "57ae24bb-bb81-4dd7-b7d1-ee6314406d2a",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Pengawasan sebagaimana dimaksud dalam Pasal 53\nhuruf c meliputi kegiatan pemantauan, evaluasi, audit,\ndan tindakan korektif.",
                             "explanation": "Tidak ada Penjelasan"
@@ -1225,17 +1225,17 @@
             ]
         },
         {
-            "id": "746c4878-8415-4368-9d01-157376c0c7e3",
+            "id": "6ad6fb85-0766-4442-aa14-3c8aa61f82d9",
             "name": "Chapter IX",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "a380eca7-5aa0-40be-b8f2-0c55128e36d1",
+                    "id": "84e5e115-94ad-4a7d-8856-cba4303cb43a",
                     "name": "Article 55",
                     "type": "article",
                     "children": {
-                        "id": "5c076eec-fb6f-45a6-8b77-3240ab22c41a",
+                        "id": "d228a083-782c-4deb-a98f-38cf13f6b01d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1246,17 +1246,17 @@
             ]
         },
         {
-            "id": "ed3ff461-6a6e-47ce-9c04-42b479b5a2f6",
+            "id": "b5ba0070-066d-4f42-a4c8-5d9223871ba9",
             "name": "Chapter X",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "bbbc7324-a3ab-4467-a08e-0cb6b3eded64",
+                    "id": "a22d7a20-fe3b-4a01-bd0f-a3764eda300b",
                     "name": "Article 56",
                     "type": "article",
                     "children": {
-                        "id": "8bbcecf0-db5f-4412-a97a-f8b313267507",
+                        "id": "ee8cfa22-81ec-44d7-935a-1af983092d10",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -1265,15 +1265,15 @@
                     }
                 },
                 {
-                    "id": "af67c6c8-1738-46c7-9ed4-86d4dbd16246",
+                    "id": "8522389a-139a-4117-b7a8-b90c9da6adfa",
                     "name": "Article 57",
                     "type": "article",
                     "children": {
-                        "id": "0ba66174-8961-46d8-b841-12b52aca5d81",
+                        "id": "d2c2eab0-7318-4a72-a6a8-7b6adfa530f0",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
@@ -1292,7 +1292,7 @@
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
             "2": " Undang-Undang Nomor 31 Tahun 2009 tentang\nMeteorologi, Klimatologi, dan Geofisika (Lembaran Negara\nRepublik Indonesia Tahun 2009 Nomor 139, Tambahan\nLembaran Negara Republik Indonesia Nomor 5058);"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang Pelayanan\nMeteorologi, Klimatologi, dan Geofisika;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 31 Tahun 2009 tentang\nMeteorologi, Klimatologi, dan Geofisika (Lembaran Negara\nRepublik Indonesia Tahun 2009 Nomor 139, Tambahan\nLembaran Negara Republik Indonesia Nomor 5058);\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG PELAYANAN\nMETEOROLOGI, KLIMATOLOGI, DAN GEOFISIKA.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang Pelayanan\nMeteorologi, Klimatologi, dan Geofisika;\nMengingat \n1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 31 Tahun 2009 tentang\nMeteorologi, Klimatologi, dan Geofisika (Lembaran Negara\nRepublik Indonesia Tahun 2009 Nomor 139, Tambahan\nLembaran Negara Republik Indonesia Nomor 5058);\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG PELAYANAN\nMETEOROLOGI, KLIMATOLOGI, DAN GEOFISIKA.",
         "tanggal sah": "4 Mei 2016"
     }
 }

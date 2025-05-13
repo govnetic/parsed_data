@@ -1,0 +1,899 @@
+{
+    "results": [
+        {
+            "id": "60ad2d64-53b0-455b-96bd-521afd4655de",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "69d40452-1f24-40df-a779-02814345c003",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "3556aec1-5992-4329-848e-72352aa3a191",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "eaf4396e-0197-45f8-a96a-e315acf713e3",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f784f27e-5e1b-4903-9481-8b37396e6372",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Hasil perencanaan dan perancangan Rumah\nharus memenuhi standar."
+                        },
+                        {
+                            "id": "fe2a41ac-2200-427f-9ac5-935b8aed1c7a",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Standar sebagaimana dimaksud pada ayat (1)\nmerupakan standar Rumah meliputi:\na. ketentuan umum; dan\nb. standar teknis."
+                        },
+                        {
+                            "id": "4c72fdef-e07d-4454-a46e-6ce21fd14cf1",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Ketentuan umum sebagaimana dimaksud pada\nayat (2) huruf a paling sedikit memenuhi:\na. aspek keselamatan bangunan;\nb. kebutuhan minimum ruang; dan\nc. aspek kesehatan bangunan."
+                        },
+                        {
+                            "id": "6cc19aff-dc95-41a0-9636-5fc4c06369a8",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Standar teknis sebagaimana dimaksud pada\nayat (2) huruf b terdiri atas:\na. pemilihan lokasi Rumah;\nb. ketentuan luas dan dimensi kaveling; dan\nc. perancangan Rumah."
+                        },
+                        {
+                            "id": "4fa09ef2-a987-4611-84c8-97c3b654f2a2",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Perancangan Rumah sebagaimana dimaksud\npada ayat (4) huruf c dilaksanakan sesuai dengan\nketentuan pelaksanaan arsitektur, struktur,\nmekanikal, dan elektrikal, beserta perpipaan\n(plumbing) bangunan Rumah."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "c5ba06f7-5a42-4fc2-a517-7272074ac4bd",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "39f2e889-afca-4ed6-b04e-c065c545214c",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Perencanaan dan perancangan Rumah sebagaimana dimaksud dalam Pasal 12 dilaksanakan melalui penyusunan dokumen rencana teknis."
+                        },
+                        {
+                            "id": "15d89664-3feb-450e-8ae2-39f48cb56a2c",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Penyusunan dokumen rencana teknis sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang- undangan."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "747f73ce-571b-44c2-b514-76f51f6d2351",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "3249082f-e054-4d2b-8149-0b478a4b82dc",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Perencanaan Prasarana, Sarana, dan Utilitas Umum Perumahan sebagaimana dimaksud dalam Pasal 11 ayat (1) huruf b harus memenuhi standar."
+                        },
+                        {
+                            "id": "0ea11dbb-eb4c-48f2-a703-9bdaa41dc848",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Standar sebagaimana dimaksud pada ayat (1) meliputi:\na. ketentuan umum; dan\nb. standar teknis."
+                        },
+                        {
+                            "id": "afdfa608-e26e-41d3-a3be-bde5c0e72af0",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Ketentuan umum sebagaimana dimaksud pada ayat (2) huruf a paling sedikit memenuhi:\na. kebutuhan daya tampung Perumahan;\nb. kemudahan pengelolaan dan penggunaan sumber daya setempat;\nc. mitigasi tingkat risiko bencana dan keselamatan; dan\nd. terhubung dengan jaringan perkotaan existing."
+                        },
+                        {
+                            "id": "21516f82-3a2c-431f-bd44-1b312b696605",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Standar teknis sebagaimana dimaksud pada ayat (2) huruf b meliputi:\na. standar Prasarana;\nb. standar Sarana; dan\nc. standar Utilitas Umum."
+                        },
+                        {
+                            "id": "ec048a23-3493-4bba-b909-573e987d299b",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Standar Prasarana sebagaimana dimaksud pada\nayat (4) huruf a paling sedikit meliputi:\na. jaringan jalan;\nb. saluran pembuangan air hujan atau\ndrainase;\nc. penyediaan air minum;\nd. saluran pembuangan air limbah atau\nsanitasi; dan\ne. tempat pembuangan sampah."
+                        },
+                        {
+                            "id": "e4d9313e-1453-45f1-bd6b-66fd3312abea",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Standar Sarana sebagaimana dimaksud pada\nayat (4) huruf b paling sedikit meliputi:\na. ruang terbuka hijau; dan\nb. Sarana umum."
+                        },
+                        {
+                            "id": "183cda1a-939a-4fc9-93a6-375478c82c05",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 7",
+                            "type": "verse",
+                            "content": " Standar Utilitas Umum sebagaimana dimaksud\npada ayat (4) huruf c paling sedikit tersedianya\njaringan listrik."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "e60471f8-629c-42ce-937f-ce8845cf5f00",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "959b39fe-11a8-4e7c-8b60-20ce33f5ab42",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPemerintah Daerah wajib melaksanakan pengawasan\nstandar Prasarana, Sarana, dan Utilitas Umum sesuai\nkewenangannya."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "15605ae0-0535-4ef9-b7ee-01ac273f0258",
+                    "name": "Article 21",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "d4ba9056-e64f-4c5f-9b6c-7f899ae5cf4c",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Badan Hukum yang melakukan pembangunan\nPerumahan wajib mewujudkan Perumahan\ndengan Hunian Berimbang."
+                        },
+                        {
+                            "id": "2d2411b8-27c7-4ad6-b253-17b9b56d568b",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Kewajiban sebagaimana dimaksud pada ayat (1)\ndikecualikan untuk Badan Hukum yang\nmembangun Perumahan yang seluruhnya"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "ef1cf768-a88b-4b2e-bd3c-d0e96dbe63f8",
+                    "name": "Article 21A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "8f030fd5-f954-40a3-8524-98ebf74dd089",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pembangunan Perumahan dengan Hunian Berimbang sebagaimana dimaksud dalam Pasal 21 ayat (1) dilakukan oleh Badan Hukum yang sama."
+                        },
+                        {
+                            "id": "b3a172ff-46ec-4ab6-a544-e3280cfdff8f",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Badan percepatan penyelenggaraan perumahan sebagaimana dimaksud pada ayat (1) bertugas:\na. melakukan upaya percepatan pembangunan\nPerumahan;\nb. melaksanakan pengelolaan Dana Konversi\ndan pembangunan Rumah sederhana serta\nRumah susun umum;\nmelakukan koordinasi dalam proses\nperizinan dan pemastian kelayakan hunian;\nd. melaksanakan penyediaan tanah bagi\nPerumahan;\nC.\ne.\nmelaksanakan pengelolaan Rumah susun\numum dan Rumah susun khusus serta\nmemfasilitasi penghunian, pengalihan, dan\npemanfaatan;\nf.\ng.\nmelaksanakan pengalihan kepemilikan\nRumah umum dengan kemudahan yang\ndiberikan oleh pemerintah;\nmenyelenggarakan koordinasi operasional\nlintas sektor, termasuk dalam penyediaan\nPrasarana, Sarana, dan Utilitas Umum; dan\nh. melakukan pengembangan hubungan kerja\nsama di bidang Rumah susun dengan\nberbagai instansi di dalam dan di luar negeri."
+                        },
+                        {
+                            "id": "6ee75e5e-832c-432a-94ce-9a23ef945f7c",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Tugas sebagaimana dimaksud pada ayat (2)\ndilaksanakan secara bertahap."
+                        },
+                        {
+                            "id": "687cd949-e9ee-4cad-ac99-57e77983751d",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Pengelolaan Dana Konversi sebagaimana\ndimaksud pada ayat (1) digunakan untuk\npembangunan Rumah umum."
+                        },
+                        {
+                            "id": "2888525b-8bbc-4317-8c2d-cf5aa9a4c48f",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Pembangunan Rumah umum sebagaimana\ndimaksud pada ayat (4) dilaksanakan dengan\nmemperhatikan:\na.\nb.\nkebutuhan MBR; dan/atau\nprogram penyediaan Perumahan yang\ndilaksanakan Pemerintah Pusat dan/atau\nPemerintah Daerah."
+                        },
+                        {
+                            "id": "19b97b76-c9a1-4c79-a614-9d351f002873",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Dalam hal mendukung percepatan pembangunan\nPerumahan sebagaimana dimaksud pada ayat (2)\nhuruf a, Pemerintah Pusat memberikan\n2021, No.22\npenjaminan kredit pemilikan Rumah dan jaminan\nketerbangunan terhadap Rumah umum dan\nRumah susun umum yang diselenggarakan oleh\nbadan percepatan penyelenggaraan perumahan."
+                        },
+                        {
+                            "id": "9b515a3e-6c5f-4f62-8317-bc62d74b0ce2",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 7",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai:\na. mekanisme penyerahaan dana hasil konversi\nkepada badan percepatan penyelenggaraan\nperumahan sebagaimana dimaksud dalam\nPasal 21H ayat (2);\nb. pelaksanaan pengelolaan dana sebagaimana\ndimaksud pada ayat (1); dan\nc. tahapan pelaksanaan tugas sebagaimana\ndimaksud pada ayat (3),\ndiatur dalam Peraturan Presiden. Pasal 21J Dalam melaksanakan tugas sebagaimana dimaksud\ndalam Pasal 211 ayat (2) huruf c, badan percepatan\npenyelenggaraan perumahan dapat berkoordinasi\ndengan unit organisasi yang menyelenggarakan sistem\ninformasi manajemen bangunan gedung untuk\nmendapatkan notifikasi pada saat Badan Hukum\nmengajukan permohonan kewajiban Hunian\nBerimbang."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "452d60f0-ea30-4915-90f1-5b8610cbbd74",
+                    "name": "Article 22",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "540d7695-cbea-475a-b7cb-4a9600d56e44",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pembangunan Rumah meliputi pembangunan\nRumah tunggal, Rumah deret, dan/atau Rumah\nsusun."
+                        },
+                        {
+                            "id": "13d14a6f-7f9d-445b-bd2b-8f149be234f7",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pembangunan Rumah harus dilakukan sesuai\ndengan rencana tata ruang wilayah."
+                        },
+                        {
+                            "id": "c91db35a-0703-4a77-ab7d-6d1ce447c3be",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Rumah tunggal, Rumah deret, dan/atau Rumah\nsusun yang masih dalam tahap pembangunan\ndapat dilakukan Pemasaran oleh pelaku\npembangunan melalui Sistem PPJB."
+                        },
+                        {
+                            "id": "ed88010d-dbcd-4312-a73f-4da696d09f9b",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Sistem PPJB sebagaimana dimaksud pada ayat\n(3) berlaku untuk Rumah umum milik dan\nRumah komersial milik yang berbentuk Rumah\ntunggal, Rumah deret, dan Rumah susun."
+                        },
+                        {
+                            "id": "d01d32b5-3ef0-423c-b3c1-a3105baf9c1c",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " PPJB sebagaimana dimaksud pada ayat (3)\ndilakukan setelah memenuhi persyaratan\nkepastian atas:\na. status kepemilikan tanah;\nb. hal yang diperjanjikan;\nC. PBG;\nd. ketersediaan Prasarana, Sarana, dan Utilitas\nUmum; dan\ne. keterbangunan paling sedikit 20% (dua\npuluh persen)."
+                        },
+                        {
+                            "id": "044e93e3-ada9-4c7f-877e-3c7a1cc278d4",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Pelaku pembangunan sebagaimana dimaksud\npada ayat (3) terdiri atas orang perseorangan\ndan/atau Badan Hukum."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "58768c28-879c-424a-8175-d91138f687b0",
+                    "name": "Article 22A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "5c84ad54-1978-4af9-9a84-96a5a49bdcc9",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Persyaratan pelaku pembangunan sebagaimana\ndimaksud pada ayat (1) sesuai dengan kriteria"
+                        },
+                        {
+                            "id": "a182db8b-98d5-4a65-adad-9a4ecf998632",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Dalam hal pembayaran telah dilakukan pembeli\npaling banyak 10% (sepuluh persen) dari harga\ntransaksi, terjadi pembatalan pembelian Rumah\nsetelah penandatanganan PPJB akibat kelalaian\npembeli, keseluruhan pembayaran menjadi hak\npelaku pembangunan."
+                        },
+                        {
+                            "id": "cf295d14-ec62-4460-8a45-4782382778e5",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Dalam hal pembayaran telah dilakukan pembeli\nlebih dari 10% (sepuluh persen) dari harga\ntransaksi, terjadi pembatalan pembelian Rumah\nsetelah penandatanganan PPJB akibat kelalaian\npembeli, pelaku pembangunan berhak memotong\n10% (sepuluh persen) dari harga transaksi. Pasal 22M (1) Rumah umum atau satuan Rumah susun umum\nyang mendapatkan subsidi pembangunan\nPerumahan dari Pemerintah Pusat dapat\ndilakukan proses PPJB oleh pelaku pembangunan\nyang memenuhi persyaratan."
+                        },
+                        {
+                            "id": "7caf91f2-8dc3-4f06-8c08-852fa380e99f",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 6",
+                            "type": "verse",
+                            "content": " Ketersediaan Prasarana, Sarana, dan Utilitas\nUmum sebagaimana dimaksud pada ayat (1)\nhuruf d, untuk Rumah susun dibuktikan dengan\nsurat pernyataan dari pelaku pembangunan\nmengenai ketersediaan tanah siap bangun di luar\ntanah bersama yang akan diserahkan kepada\nPemerintah Daerah kabupaten/kota atau\nPemerintah Daerah provinsi khusus untuk\nProvinsi Daerah Khusus Ibu Kota Jakarta."
+                        },
+                        {
+                            "id": "1206994d-9f40-46b8-9357-929019f00c88",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 7",
+                            "type": "verse",
+                            "content": " Keterbangunan Perumahan paling sedikit 20%\n(dua puluh persen) sebagaimana dimaksud pada\nayat (1) huruf e dibuktikan dengan:\na. untuk Rumah tunggal atau Rumah deret\nketerbangunan paling sedikit 20% (dua\npuluh persen) dari seluruh jumlah unit\nRumah serta ketersediaan Prasarana,\nSarana, dan Utilitas Umum dalam suatu\nPerumahan yang direncanakan; atau\nb. untuk Rumah susun keterbangunan paling\nsedikit 20% (dua puluh persen) dari volume\nkonstruksi bangunan Rumah susun yang\nsedang dipasarkan."
+                        },
+                        {
+                            "id": "c5d6d6ee-e62f-4141-865d-5495a56daaae",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 8",
+                            "type": "verse",
+                            "content": " Keterbangunan 20% (dua puluh persen)\nsebagaimana dimaksud pada ayat (7) sesuai\ndengan hasil laporan dari konsultan pengawas\npembangunan atau konsultan manajemen\nkonstruksi. Pasal 22J PPJB sebagaimana dimaksud dalam Pasal 22A huruf b\npaling sedikit memuat:\na. identitas para pihak;\nb. uraian objek PPJB;\nc. harga Rumah dan tata cara pembayaran;\nd. jaminan pelaku pembangunan;\ne. hak dan kewajiban para pihak;\nf. waktu serah terima bangunan;\ng. pemeliharaan bangunan;\nh. penggunaan bangunan;\ni. pengalihan hak;\nj. pembatalan dan berakhirnya PPJB; dan\nk. penyelesaian sengketa. Pasal 22K (1) Calon pembeli berhak mempelajari PPJB sebelum\nditandatanganinya PPJB."
+                        },
+                        {
+                            "id": "bcfe9130-1ca4-454a-bed2-1d8151e5cffa",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 5",
+                            "type": "verse",
+                            "content": " Ketersediaan Prasarana, Sarana, dan Utilitas\nUmum sebagaimana dimaksud pada ayat (1)\nhuruf d untuk Perumahan dibuktikan dengan:\na. terbangunnya Prasarana paling sedikit jalan\ndan saluran pembuangan air\nhujan/drainase;\nb. lokasi pembangunan Sarana sesuai\nperuntukan; dan\nc. surat pernyataan pelaku pembangunan\nmengenai tersedianya Utilitas Umum berupa\nsumber listrik dan sumber air."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "2797e298-9bd2-4e1b-9b95-d0931d629cb3",
+                    "name": "Article 22N",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "35d97163-b6cb-4aac-8550-6e83465b4cf7",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pemerintah Pusat dan/atau Pemerintah Daerah\nbertanggung jawab dalam pembangunan:\na. Rumah umum;\nb. Rumah khusus; dan\nC. Rumah negara."
+                        },
+                        {
+                            "id": "d6c28f6f-6db8-4b72-bcbc-fa8f3bb1c9bc",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Lembaga atau badan sebagaimana dimaksud\npada ayat (1) bertanggung jawab:\na. menyediakan tanah bagi Perumahan; dan\nb. melakukan koordinasi dalam proses\nperizinan dan pemastian kelayakan hunian. Pasal 22P Dalam melaksanakan tanggung jawab pembangunan\nRumah umum sebagaimana dimaksud dalam\nPasal 22N ayat (1) huruf a:\na. Pemerintah Pusat dapat menugasi badan\npercepatan penyelenggaraan perumahan; dan\nb. Pemerintah Daerah dapat membentuk badan."
+                        },
+                        {
+                            "id": "f3bbbf75-e3eb-4c1a-9fc2-edc1d348e782",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Pembangunan Rumah khusus sebagaimana\ndimaksud pada ayat (1) huruf b dan Rumah\nnegara sebagaimana dimaksud pada ayat (1)\nhuruf c dibiayai melalui anggaran pendapatan\ndan belanja negara dan/atau anggaran\npendapatan dan belanja daerah."
+                        },
+                        {
+                            "id": "52e2a5fd-f534-41ac-9914-4029999291e2",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Rumah khusus dan Rumah negara sebagaimana\ndimaksud pada ayat (3) menjadi barang milik\nnegara/daerah dikelola sesuai dengan ketentuan\nperaturan perundang-undangan. Pasal 220 (1) Dalam melaksanakan tanggung jawab\nsebagaimana dimaksud dalam Pasal 22N ayat (1),\nPemerintah Pusat dan/atau Pemerintah Daerah\nmenugasi dan/atau membentuk lembaga atau\nbadan yang menangani pembangunan\nPerumahan dan Permukiman sesuai dengan\nketentuan peraturan perundang-undangan."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE",
+                        "ADD"
+                    ],
+                    "id": "4acf6e87-96a8-4c57-8bbd-e12606941b36",
+                    "name": "Article 31",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "d992fceb-290f-4239-a31d-f993278d6fd4",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pengendalian Perumahan mulai dilakukan pada\ntahap:\na. perencanaan;\nb. pembangunan; dan\nc. pemanfaatan."
+                        },
+                        {
+                            "id": "3620cc15-c47e-41b5-82a5-e933b4e830c6",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pengendalian Perumahan sebagaimana dimaksud\npada ayat (1) dilaksanakan oleh Pemerintah Pusat\ndan/atau Pemerintah Daerah sesuai norma,\nstandar, prosedur, dan kriteria yang ditetapkan\noleh Pemerintah Pusat dalam bentuk:\na. perizinan;\nb. penertiban; dan/atau\nc. penataan."
+                        },
+                        {
+                            "id": "38447b25-3b0d-4b73-9079-12bc59b3dbc8",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Penyusunan norma, standar, prosedur, dan\nkriteria pengendalian Perumahan sebagaimana\ndimaksud pada ayat (2) dilaksanakan oleh\nMenteri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "DELETE"
+                    ],
+                    "id": "6f4f6ffb-3b78-46b2-806d-2f409f9aa10a",
+                    "name": "Article 32",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f2cac5df-01c6-4e82-9df7-2d7def1b01e7",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "1b870f7a-3232-4358-ac55-5ddbbaf2d0b1",
+                    "name": "Article 127A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "65bb8fab-0f7f-4be2-b66f-2fd9327447db",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPengaturan lebih rinci mengenai:\na. standar perencanaan dan perancangan Rumah\nsebagaimana dimaksud dalam Pasal 14 ayat (1);\nb. standar perencanaan Prasarana, Sarana, dan\nUtilitas Umum Perumahan sebagaimana\ndimaksud dalam Pasal 17 ayat (1); dan\nc. petunjuk materi muatan PPJB sebagaimana\ndimaksud dalam Pasal 22J,\ntercantum dalam Lampiran yang merupakan\nbagian tidak terpisahkan dari Peraturan\nPemerintah ini."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "b0484707-8ab2-44b3-8a3a-bb3ee2e78f96",
+                    "name": "Article 128",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "0c36a425-f9f7-401a-9a84-5f47376f9fc9",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Setiap orang perseorangan atau badan hukum\nyang melakukan perencanaan dan perancangan\nRumah tidak memiliki sertifikat keahlian di\nbidang perencanaan dan perancangan Rumah\nsebagaimana dimaksud dalam Pasal 13 ayat (2)\ndikenai sanksi administratif berupa:\na. peringatan tertulis;\nb. pembatasan kegiatan usaha;\nc. pembekuan Perizinan Berusaha; dan\nd. denda administratif."
+                        },
+                        {
+                            "id": "33a1da9b-ea7a-4e06-a9d5-01f35e28ed27",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi\nadministratif sebagaimana dimaksud pada\nayat (1) huruf d dilakukan sebagai berikut:\na. bagi orang perseorangan dikenai sanksi\nadministratif berupa denda administratif\npaling sedikit Rp50.000.000,00 (lima puluh\njuta rupiah) dan paling banyak\nRp200.000.000,00 (dua ratus juta rupiah);\ndan\nb. bagi Badan Hukum dikenai sanksi\nadministratif berupa denda administratif\npaling sedikit Rp100.000.000,00 (seratus\njuta rupiah) dan paling banyak\nRp1.000.000.000,00 (satu miliar rupiah)."
+                        },
+                        {
+                            "id": "a66bfe66-bdc0-43ee-ba27-1e5d11888065",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Tata cara pengenaan sanksi administratif\nsebagaimana dimaksud pada ayat (1) dilakukan\nsebagai berikut:\na. Badan Hukum atau orang perseorangan\nsebagai pelaku pembangunan yang\nmengabaikan peringatan tertulis paling\nbanyak 2 (dua) kali dengan jangka waktu\npaling lama 5 (lima) hari kerja dikenakan\nsanksi administratif berupa pembekuan\nPerizinan Berusaha paling lama 6 (enam)\nbulan;\nb. Badan Hukum atau orang perseorangan\nsebagai pelaku pembangunan yang\nmengabaikan pembekuan Perizinan Berusaha\nsebagaimana dimaksud dalam huruf a dikenai\nsanksi administratif berupa pembatasan\nkegiatan usaha paling lama 1 (satu) tahun;\nc. Badan Hukum atau orang perseorangan\nsebagai pelaku pembangunan yang\nmengabaikan pembatasan kegiatan usaha\nsebagaimana dimaksud dalam huruf b dikenai\nsanksi administratif berupa pembekuan\nPerizinan Berusaha paling lama 2 (dua) tahun;\ndan\nd. Badan Hukum sebagai pelaku pembangunan\nyang mengabaikan pembekuan Perizinan\nBerusaha sebagaimana dimaksud dalam\nhuruf c dikenai sanksi administratif berupa\ndenda administratif paling sedikit\nRp100.000.000,00 (seratus juta rupiah) dan\npaling banyak Rp500.000.000,00 (lima ratus\njuta rupiah)."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "19291b4f-1b55-477d-ad4e-5ff41bd2e10e",
+                    "name": "Article 129",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "b173b967-9928-4c9a-8a66-0fe69dde2f3d",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Setiap orang perseorangan atau Badan Hukum\nyang melakukan perencanaan dan perancangan\nRumah yang hasilnya tidak memenuhi standar\nsebagaimana dimaksud dalam Pasal 14 ayat (1)\ndikenai sanksi administratif berupa:\na. peringatan tertulis;\nb. pembatasan kegiatan usaha;\nc. pembekuan Perizinan Berusaha; dan\nd. denda administratif."
+                        },
+                        {
+                            "id": "e141a865-f066-4c14-b6b0-42990fbdf13d",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi\nadministratif yang dikenai pada orang\nperseorangan sebagaimana dimaksud pada\nayat (1) dilakukan sebagai berikut:\na. peringatan tertulis diberikan paling banyak\n2 (dua) kali dengan jangka waktu setiap\nperingatan tertulis paling lama 5 (lima) hari\nkerja; dan\nb. orang perseorangan yang mengabaikan\nperingatan tertulis sebagaimana dimaksud\ndalam huruf a dikenai sanksi administratif\nberupa denda administratif paling sedikit\nRp10.000.000,00 (sepuluh juta rupiah) dan\npaling banyak Rp50.000.000,00 (lima puluh\njuta rupiah)."
+                        },
+                        {
+                            "id": "8b003802-2fd6-4d2e-bb70-b3669f6b9bf7",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Dalam hal perencanaan dan perancangan Rumah\ndilakukan oleh Badan Hukum sebagaimana\ndimaksud pada ayat (1), tata cara pengenaan\nsanksi administratif dilakukan sebagai berikut:\na. Badan Hukum sebagai pelaku pembangunan\nyang mengabaikan peringatan tertulis paling\nbanyak 2 (dua) kali dengan jangka waktu\npaling lama 5 (lima) hari kerja dikenai sanksi\nadministratif berupa pembatasan kegiatan\nberusaha;\nb. Badan Hukum sebagai pelaku pembangunan\nyang mengabaikan pembatasan kegiatan\nberusaha sebagaimana dimaksud dalam\nhuruf a dikenai sanksi administratif berupa\npembekuan Perizinan Berusaha paling lama\n6 (enam) bulan; dan\nC. Badan Hukum sebagai pelaku pembangunan\nyang mengabaikan pembekuan Perizinan\nBerusaha sebagaimana dimaksud dalam\nhuruf b dikenai sanksi administratif berupa\ndenda administratif paling sedikit\nRp100.000.000,00 (seratus juta rupiah) dan\npaling banyak Rp500.000.000,00 (lima ratus\njuta rupiah)."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "e2877728-3b5c-443f-b050-163ec50b2c18",
+                    "name": "Article 130",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "7fd2cf91-1442-41eb-b3b5-83ff7e446ace",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Setiap orang perseorangan atau Badan Hukum\nyang melakukan perencanaan Prasarana, Sarana,\ndan Utilitas Umum Perumahan yang tidak\nmemenuhi standar sebagaimana dimaksud dalam\nPasal 17 ayat (1) dikenai sanksi administratif\nberupa:\na. peringatan tertulis;\nb. pembatasan kegiatan usaha;\nc. pembekuan Perizinan Berusaha; dan\nd. denda administratif."
+                        },
+                        {
+                            "id": "1a4de218-5a9a-419c-a902-237830199c86",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi administratif yang dikenai pada orang perseorangan sebagaimana dimaksud pada ayat (1) dilakukan sebagai berikut:\na. peringatan tertulis diberikan paling banyak 2 (dua) kali dengan jangka waktu setiap peringatan tertulis paling lama 5 (lima) hari kerja; dan\nb. orang perseorangan yang mengabaikan peringatan tertulis sebagaimana dimaksud dalam huruf a dikenai sanksi administratif berupa denda administratif paling sedikit Rp10.000.000,00 (sepuluh juta rupiah) dan paling banyak Rp50.000.000,00 (lima puluh juta rupiah)."
+                        },
+                        {
+                            "id": "4216740a-3e5e-4e50-ac49-db680e14cb0f",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Dalam hal perencanaan Prasarana, Sarana, dan Utilitas Umum Perumahan dilakukan oleh Badan Hukum sebagaimana dimaksud pada ayat (1), tata cara pengenaan sanksi administratif dilakukan sebagai berikut:\na. Badan Hukum yang mengabaikan peringatan tertulis paling banyak 2 (dua) kali dengan jangka waktu paling lama 5 (lima) hari kerja dikenai sanksi administratif berupa pembatasan kegiatan berusaha;\nb. Badan Hukum yang mengabaikan peringatan tertulis sebagaimana dimaksud dalam huruf a dikenai sanksi administratif berupa pembatasan kegiatan usaha paling lama 1 (satu) tahun;\nc. Badan Hukum yang mengabaikan pembatasan kegiatan usaha sebagaimana dimaksud dalam huruf b dikenakan sanksi\n2021, No.22\nadministratif berupa pembekuan Perizinan\nBerusaha paling lama 2 (dua) tahun; dan\nd. Badan Hukum yang mengabaikan\npembekuan Perizinan Berusaha sebagaimana\ndimaksud dalam huruf c dikenai sanksi\nadministratif berupa denda administratif\npaling sedikit Rp100.000.000,00 (seratus\njuta rupiah) dan paling banyak\nRp500.000.000,00 (lima ratus juta rupiah)."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "21e735d4-3d4a-4dc3-847c-87f5e52c78e0",
+                    "name": "Article 131",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "bb53889f-a6a9-45e4-8a10-5f25de188960",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Setiap orang perseorangan atau badan hukum\nyang melakukan perencanaan Prasarana, Sarana,\ndan Utilitas Umum tidak memiliki sertifikat\nkeahlian di bidang perencanaan Prasarana,\nSarana, dan Utilitas Umum sebagaimana\ndimaksud dalam Pasal 19 ayat (2) dikenai sanksi\nadministratif berupa:\na. peringatan tertulis;\nb. pembatasan kegiatan usaha;\nc. pembekuan Perizinan Berusaha; dan\nd. denda administratif."
+                        },
+                        {
+                            "id": "d128894e-b696-43d2-a171-021d112b3803",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan denda\nadministratif sebagaimana dimaksud pada ayat\n(1) huruf d dilakukan sebagai berikut:\na. bagi orang perseorangan dikenai sanksi\nadministratif berupa denda administratif\npaling sedikit Rp50.000.000,00 (lima puluh\njuta rupiah) dan paling banyak\nRp200.000.000,00 (dua ratus juta rupiah);\natau\nb. bagi Badan Hukum dikenai sanksi\nadministratif berupa denda administratif\npaling sedikit Rp100.000.000,00 (seratus\njuta rupiah) dan paling banyak\nRp1.000.000.000,00 (satu miliar rupiah)."
+                        },
+                        {
+                            "id": "0a5697ab-c01d-4488-b45e-9380a6dbe7f8",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Tata cara pengenaan sanksi administratif\nsebagaimana dimaksud pada ayat (1) dilakukan\nsebagai berikut:\na. orang perseorangan atau Badan Hukum\nsebagai pelaku pembangunan yang\nmengabaikan peringatan tertulis paling\nbanyak 2 (dua) kali dengan jangka waktu\npaling lama 5 (lima) hari kerja dikenai sanksi\nadministratif berupa pembatasan kegiatan\nberusaha;\nb. Badan Hukum yang mengabaikan\npembatasan kegiatan usaha sebagaimana\ndimaksud dalam huruf a dikenai sanksi\nadministratif berupa pembekuan Perizinan\nBerusaha paling lama 2 (dua) tahun; dan\nc. Badan Hukum yang mengabaikan\npembekuan Perizinan Berusaha sebagaimana\ndimaksud dalam huruf b dikenai sanksi\nadministratif berupa denda administratif\npaling sedikit Rp100.000.000,00 (seratus\njuta rupiah) dan paling banyak\nRp1.000.000.000,00 (satu miliar rupiah)."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "cc8c338f-10a7-426e-a9f4-cd78b0ea66d3",
+                    "name": "Article 132",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "77c1c402-feae-4094-953c-7f8f7f231534",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Badan Hukum yang melakukan pembangunan\nPerumahan yang tidak mewujudkan Perumahan\ndengan Hunian Berimbang sebagaimana\ndimaksud dalam Pasal 21 ayat (1) atau Badan\nHukum yang melakukan pembangunan\nPerumahan skala besar tidak mewujudkan\nHunian Berimbang dalam 1 (satu) hamparan\nsebagaimana dimaksud dalam Pasal 21D ayat (2)\nhuruf a dikenai sanksi administratif berupa:\na. peringatan tertulis;\nb. pembatasan kegiatan pembangunan;\nc. pembekuan PBG;\nd. pembekuan Perizinan Berusaha; dan\ne. pencabutan Perizinan Berusaha."
+                        },
+                        {
+                            "id": "cc076988-71b6-4f6f-90f7-af39211453c8",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) dilaksanakan sebagai berikut:\na. peringatan tertulis sebagaimana dimaksud pada ayat (1) huruf a diberikan paling banyak 2 (dua) kali dengan jangka waktu setiap peringatan tertulis paling lama 5 (lima) hari kerja;\nb. Badan Hukum yang mengabaikan peringatan tertulis sebagaimana dimaksud dalam huruf a dalam jangka waktu 5 (lima) hari kerja dikenai sanksi administratif berupa pembatasan kegiatan pembangunan;\nc. Badan Hukum yang mengabaikan pembatasan kegiatan pembangunan sebagaimana dimaksud dalam huruf b dikenai sanksi administratif berupa pembekuan PBG oleh Pemerintah Daerah dengan cara disegel paling lama 30 (tiga puluh) hari kerja;\nd. Badan Hukum yang mengabaikan pembekuan PBG sebagaimana dimaksud dalam huruf c dikenai sanksi administratif berupa pencabutan PBG;\ne. Badan Hukum yang mengabaikan pencabutan PBG sebagaimana dimaksud dalam huruf d dikenai sanksi administratif berupa pembekuan Perizinan Berusaha paling lama 2 (dua) tahun; dan\nf. Badan Hukum yang mengabaikan pembekuan Perizinan Berusaha sebagaimana"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "c7deefe2-634d-4b88-9d44-f7a7a65dd1f4",
+                    "name": "Article 133",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e070d9b8-702c-4b69-8900-5bdaf8c4c292",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Badan Hukum yang melakukan pembangunan\nPerumahan dengan Hunian Berimbang tidak\ndalam 1 (satu) hamparan, pembangunan Rumah\numum tidak dilaksanakan dalam 1 (satu) daerah\nkabupaten/kota sebagaimana dimaksud dalam\nPasal 21 ayat (3) atau tidak menyediakan akses\ndari Rumah umum yang dibangun menuju pusat\npelayanan atau tempat kerja sebagaimana\ndimaksud dalam Pasal 21D ayat (3) dikenai\nsanksi administratif berupa:\na. peringatan tertulis;\nb. pembatasan kegiatan pembangunan;\nc. pembekuan PBG;\nd. pencabutan PBG;\ne. pembekuan Perizinan Berusaha; dan\nf. pencabutan Perizinan Berusaha."
+                        },
+                        {
+                            "id": "775c0263-9f70-42e8-b1e6-a83c52fc1c4a",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi\nadministratif sebagaimana dimaksud pada\nayat (1) dilaksanakan sebagai berikut:\na. peringatan tertulis sebagaimana dimaksud\npada ayat (1) huruf a diberikan paling\nbanyak 2 (dua) kali dengan jangka waktu\nsetiap peringatan tertulis paling lama 5 (lima)\nhari kerja;\nb. Badan Hukum yang mengabaikan peringatan tertulis sebagaimana dimaksud dalam huruf a dalam jangka waktu 5 (lima) hari kerja dikenai sanksi administratif berupa pembatasan kegiatan pembangunan;\nc. Badan Hukum yang mengabaikan pembatasan kegiatan pembangunan sebagaimana dimaksud dalam huruf b dikenai sanksi administratif berupa pembekuan PBG oleh Pemerintah Daerah dengan cara disegel paling lama 30 (tiga puluh) hari kerja;\nd. Badan Hukum yang mengabaikan pembekuan PBG sebagaimana dimaksud dalam huruf c dikenai sanksi administratif berupa pencabutan PBG;\ne. Badan Hukum yang mengabaikan pencabutan PBG sebagaimana dimaksud dalam huruf d dikenai sanksi administratif berupa pembekuan Perizinan Berusaha paling lama 2 (dua) tahun; dan\nf. Badan Hukum yang mengabaikan pembekuan Perizinan Berusaha sebagaimana dimaksud dalam huruf e dikenai sanksi administratif berupa pencabutan Perizinan Berusaha dan denda administratif paling sedikit Rp1.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah)."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "961e0c0d-b1e5-4d35-af50-0bbe615fe130",
+                    "name": "Article 134",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "82cc0b5c-e678-4e67-9159-e23d49d93590",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Setiap orang atau badan hukum yang melakukan pembangunan Rumah dan Perumahan tidak\nsesuai dengan rencana tata ruang wilayah\nsebagaimana dimaksud dalam Pasal 22 ayat (2)\ndikenai sanksi administratif berupa:\na. peringatan tertulis;\nb. pembekuan PBG;\nc. pencabutan PBG; dan\nd. pembongkaran bangunan."
+                        },
+                        {
+                            "id": "0a911eac-21c0-48a8-94f4-5e90b542cdbb",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi\nadministratif sebagaimana dimaksud pada ayat\n(1) yang dikenai pada orang perseorangan\ndilaksanakan sebagai berikut:\na. peringatan tertulis sebagaimana dimaksud\npada ayat (1) huruf a diberikan paling\nbanyak 2 (dua) kali dengan jangka waktu\nsetiap peringatan tertulis paling lama 5 (lima)\nhari kerja;\nb. orang perseorangan yang mengabaikan\nperingatan tertulis sebagaimana dimaksud\ndalam huruf a dikenai sanksi administratif\nberupa pembekuan PBG oleh Pemerintah\nDaerah dengan cara disegel paling lama 30\n(tiga puluh) hari kerja;\nc. orang perseorangan yang mengabaikan\npembekuan PBG sebagaimana dimaksud\ndalam huruf b dikenai sanksi administratif\nberupa pencabutan PBG; dan\nd. orang perseorangan yang mengabaikan\npencabutan PBG sebagaimana dimaksud\ndalam huruf c dikenai sanksi administratif\nberupa pembongkaran bangunan paling\nlambat 3 (tiga) bulan sejak perintah\npembongkaran diberikan."
+                        },
+                        {
+                            "id": "8a041ccc-fcb1-4567-b476-0b5ed25786a6",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Sanksi administratif sebagaimana dimaksud pada\nayat (1) yang dikenai terhadap Badan Hukum\nberupa:\na. peringatan tertulis sebagaimana dimaksud\npada ayat (1) huruf a diberikan paling\nbanyak 2 (dua) kali dengan jangka waktu\nsetiap peringatan tertulis paling lama 5 (lima)\nhari kerja;\nb. Badan Hukum yang mengabaikan peringatan\ntertulis sebagaimana dimaksud dalam huruf\na\ndikenai sanksi administratif berupa\npembekuan PBG oleh Pemerintah Daerah\ndengan cara disegel paling lama 30 (tiga\npuluh) hari kerja;\nC.\nBadan Hukum yang mengabaikan\npembekuan PBG sebagaimana dimaksud\ndalam huruf b dikenai sanksi administratif\nberupa pencabutan PBG; dan\nd. Badan Hukum yang mengabaikan\npencabutan PBG sebagaimana dimaksud\ndalam huruf c dikenai sanksi administratif\nberupa pembongkaran bangunan paling\nlambat 3 (tiga) bulan sejak perintah\npembongkaran diberikan kepada Badan\nHukum."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "f85510b2-5daf-4153-b4f8-a0e46ab3fae3",
+                    "name": "Article 134A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ee3aef1e-75f3-4cc0-80aa-bb89b1c159bc",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Badan Hukum yang tidak melaksanakan\npenghitungan konversi sebagaimana dimaksud\ndalam Pasal 21H ayat (1) dan tidak melaksanakan\npenyerahan dana hasil konversi sebagaimana\ndimaksud dalam Pasal 21H ayat (2) dikenai\nsanksi administratif berupa:\na.\nperingatan tertulis;\nb. pembatasan kegiatan pembangunan;\nC. pembekuan PBG; dan\nd.\npencabutan Perizinan Berusaha."
+                        },
+                        {
+                            "id": "be7dfc7f-0bdc-4464-b784-957683eae22d",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi\nadministratif sebagaimana dimaksud pada\nayat (1) dilaksanakan sebagai berikut:\na. peringatan tertulis sebagaimana dimaksud\npada ayat (1) huruf a diberikan paling\nbanyak 2 (dua) kali dengan jangka waktu\nsetiap peringatan tertulis paling lama 5 (lima)\nhari kerja;\nb. Badan Hukum yang mengabaikan peringatan\ntertulis sebagaimana dimaksud dalam huruf\na dalam jangka waktu 5 (lima) hari kerja\ndikenai sanksi administratif berupa\npembatasan kegiatan pembangunan;\nc. Badan Hukum yang mengabaikan\npembatasan kegiatan pembangunan\nsebagaimana dimaksud dalam huruf b\ndikenai sanksi administratif berupa\npembekuan PBG oleh Pemerintah Daerah\ndengan cara disegel paling lama 30 (tiga\npuluh) hari kerja; dan\nd. Badan Hukum yang mengabaikan\npembekuan PBG sebagaimana dimaksud\ndalam huruf c dikenai sanksi administratif\nberupa pencabutan Perizinan Berusaha dan\ndenda sejumlah 1,5 (satu koma lima) kali\ndari jumlah kewajiban Dana Konversi."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "4ebac899-9148-44d3-b6fa-ec2d0ab835a0",
+                    "name": "Article 135",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "b74016c8-49f3-48b4-a77d-bef3e2b64319",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Badan Hukum yang melakukan pembangunan\nRumah tunggal dan/atau Rumah deret yang\nmelakukan serah terima dan/atau menarik dana\nlebih dari 80% (delapan puluh persen) dari\npembeli sebelum memenuhi persyaratan\nsebagaimana dimaksud dalam Pasal 22L ayat (1)\n2021, No.22\ndikenai sanksi administratif berupa:\na. peringatan tertulis;\nb. pembekuan Perizinan Berusaha;\nC. pencabutan insentif; dan\nd. denda administratif."
+                        },
+                        {
+                            "id": "87b7099c-8873-4614-9ead-19c439ed5564",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara pengenaan sanksi administratif\nsebagaimana dimaksud pada ayat (1) dilakukan\nsebagai berikut:\na. peringatan tertulis sebagaimana dimaksud\npada ayat (1) huruf a diberikan paling\nbanyak 2 (dua) kali dengan jangka waktu\nsetiap peringatan tertulis paling lama 5 (lima)\nhari kerja;\nb. Badan Hukum sebagai pelaku pembangunan\nyang mengabaikan peringatan tertulis\nsebagaimana dimaksud dalam huruf a\ndikenai sanksi administratif berupa\npembekuan Perizinan Berusaha paling lama\n1 (satu) tahun;\nC. Badan Hukum sebagai pelaku pembangunan\nyang mengabaikan pembekuan Perizinan\nBerusaha sebagaimana dimaksud dalam\nhuruf b dikenai sanksi administratif berupa\npencabutan insentif; dan\nd. Badan Hukum sebagai pelaku pembangunan\nyang mengabaikan pencabutan insentif\nsebagaimana dimaksud dalam huruf c\ndikenai sanksi administratif berupa denda\nadministratif\npaling\nsedikit\nRp100.000.000,00 (seratus juta rupiah) dan\npaling banyak Rp1.000.000.000,00 (satu\nmiliar rupiah)."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "f7a64db7-7016-4029-848b-c83fe3eb5f78",
+                    "name": "Article 136",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "4f927bc6-6cf9-46cf-b592-a650e47f21b0",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Setiap orang perseorangan atau badan hukum\nyang melakukan pembangunan Prasarana,\nSarana, dan Utilitas Umum Perumahan tidak\nsesuai dengan rencana, rancangan, dan perizinan\nsebagaimana dimaksud dalam Pasal 23 ayat (1)\natau tidak memenuhi persyaratan sebagaimana\ndimaksud dalam Pasal 23 ayat (2) atau tidak\nmenyerahkan Prasarana, Sarana, dan Utilitas\nUmum yang telah selesai dibangun kepada\npemerintah kabupaten/kota sebagaimana\ndimaksud dalam Pasal 23 ayat (3) dikenai sanksi\nadministratif berupa:\na. peringatan tertulis;\nb. penghentian sementara pelaksanaan\npembangunan;\nc. pencabutan insentif; dan\nd. perintah pembongkaran."
+                        },
+                        {
+                            "id": "08eae6b9-b877-4189-9a24-143c08452329",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi\nadministratif yang dikenai pada orang\nperseorangan sebagaimana dimaksud pada ayat\n(1) dilakukan sebagai berikut:\na. peringatan tertulis sebagaimana dimaksud\npada ayat (1) huruf a diberikan paling\nbanyak 2 (dua) kali dengan jangka waktu\nsetiap peringatan tertulis paling lama 5 (lima)\nhari kerja;\nb. orang perseorangan yang mengabaikan\nperingatan tertulis sebagaimana dimaksud\ndalam huruf a dikenai sanksi administratif\nberupa penghentian sementara pelaksanaan\npembangunan;\nc. orang perseorangan yang mengabaikan\npenghentian sementara pelaksanaan\n2021, No.22\nd. pembangunan sebagaimana dimaksud dalam\nhuruf b dikenai sanksi administratif berupa\npencabutan insentif; dan\norang perseorangan yang mengabaikan\npencabutan insentif sebagaimana dimaksud\ndalam huruf c dikenai sanksi administratif\nberupa pembongkaran bangunan paling\nlambat 3 (tiga) bulan sejak perintah\npembongkaran diberikan."
+                        },
+                        {
+                            "id": "fc297dfe-2a5e-49f3-a104-c9fc1ab585bc",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Dalam hal pembangunan Prasarana, Sarana, dan\nUtilitas Umum Perumahan dilakukan olah Badan\nHukum, tata cara pengenaan sanksi administratif\ndilakukan sebagai berikut:\na. Badan Hukum yang mengabaikan peringatan\ntertulis sebagaimana dimaksud pada ayat (1)\nhuruf a paling banyak 2 (dua) kali dengan\njangka waktu paling lama 5 (lima) hari kerja\ndikenai sanksi administratif berupa\npenghentian sementara pelaksanaan\npembangunan paling lama 1 (satu) tahun;\nb. Badan Hukum yang mengabaikan\npenghentian sementara pelaksanaan\npembangunan sebagaimana dimaksud dalam\nhuruf a dikenai sanksi administratif berupa\npencabutan insentif;\nc. Badan Hukum yang mengabaikan\npencabutan insentif sebagaimana dimaksud\ndalam huruf b dikenai sanksi administratif\nberupa denda administratif paling sedikit\nRp100.000.000,00 (seratus juta rupiah) dan\npaling banyak Rp500.000.000,00 (lima ratus\njuta rupiah); dan\nd. Badan Hukum yang mengabaikan\npencabutan insentif sebagaimana dimaksud\ndalam huruf c dikenai sanksi administratif\nberupa pembongkaran bangunan paling\nlambat 3 (tiga) bulan sejak perintah\nwww.peraturan.go.id"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "b2ab5997-ffc4-4f35-90bd-4857f3d1e303",
+                    "name": "Article 137",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "71b1287d-ce98-4d5c-9361-3bab04e1f4ff",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Setiap orang perseorangan atau Badan Hukum\nyang melakukan pemanfaatan Rumah selain\ndigunakan untuk fungsi hunian yang tidak\nmemastikan terpeliharanya Perumahan dan\nLingkungan Hunian sebagaimana dimaksud\ndalam Pasal 26 ayat (2) dikenai sanksi\nadministratif berupa:\na. peringatan tertulis;\nb. pembekuan surat bukti kepemilikan Rumah;\nc. denda administratif; dan\nd. pencabutan surat bukti kepemilikan Rumah."
+                        },
+                        {
+                            "id": "ebb87709-1e0e-40ce-9a03-bbe121ac59d7",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi\nadministratif yang dikenakan pada orang\nperseorangan sebagaimana dimaksud pada ayat\n(1) dilakukan sebagai berikut:\na. peringatan tertulis sebagaimana dimaksud\npada ayat (1) huruf a diberikan paling\nbanyak 2 (dua) kali dengan jangka waktu\nsetiap peringatan tertulis paling lama 5 (lima)\nhari kerja;\nb. orang perorangan yang mengabaikan\nperingatan tertulis sebagaimana dimaksud\ndalam huruf a dikenai sanksi administratif\nberupa pembekuan surat bukti kepemilikan\nRumah paling lama 1 (satu) tahun;\nc. orang perseorangan yang mengabaikan\nperingatan tertulis sebagaimana dimaksud\ndalam huruf a dikenai sanksi administratif\nberupa denda administratif paling sedikit\nRp10.000.000,00 (sepuluh juta rupiah) dan\npaling banyak Rp50.000.000,00 (lima puluh\njuta rupiah); dan\nd. orang perseorangan yang mengabaikan\ndenda administratif sebagaimana dimaksud\ndalam huruf c dalam jangka waktu paling\nlama 5 (lima) hari kerja dikenai sanksi\nadministratif berupa pencabutan surat bukti\nkepemilikan Rumah."
+                        },
+                        {
+                            "id": "6db76323-5c50-40e0-8eb0-8d3b4e6137bf",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi\nadministratif sebagaimana dimaksud pada\nayat (1) yang dikenakan pada Badan Hukum\ndilakukan sebagai berikut:\na. peringatan tertulis sebagaimana dimaksud\npada ayat (1) huruf a diberikan paling\nbanyak 2 (dua) kali dengan jangka waktu\nsetiap peringatan tertulis paling lama 5 (lima)\nhari kerja;\nb. Badan Hukum yang mengabaikan peringatan\ntertulis sebagaimana dimaksud dalam huruf\na dikenai sanksi administratif berupa\npembekuan surat bukti kepemilikan Rumah\npaling lama 1 (satu) tahun;\nC. Badan Hukum yang mengabaikan\npembekuan surat bukti kepemilikan Rumah\nsebagaimana dimaksud dalam huruf b\ndikenai sanksi administratif berupa denda\nadministratif paling sedikit Rp10.000.000,00\n(sepuluh juta rupiah) dan paling banyak\nRp100.000.000,00 (seratus juta rupiah); dan\nd. Badan Hukum yang mengabaikan denda\nadministratif sebagaimana dimaksud dalam\nhuruf c dalam jangka waktu paling lama 5\n(lima) hari kerja dikenai sanksi administratif\nberupa pencabutan surat bukti kepemilikan\nRumah.\n2021, No.22"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "060c2e00-38ff-4b86-a4bd-b6de329547cb",
+                    "name": "Article 138",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "2c1144eb-da7f-4748-a3e8-93be10c73cd4",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Badan Hukum yang melakukan penyelenggaraan\nKawasan Permukiman yang tidak melalui\ntahapan sebagaimana dimaksud dalam Pasal 56\nayat (1) dikenai sanksi administratif berupa:\na. peringatan tertulis;\nb. pembekuan Perizinan Berusaha;\nc. pencabutan insentif; dan\nd. denda administratif."
+                        },
+                        {
+                            "id": "5486fe3c-43c8-464f-8293-6abe71e5e3e4",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi\nadministratif sebagaimana dimaksud pada\nayat (1) dilakukan sebagai berikut:\na. peringatan tertulis sebagaimana dimaksud\npada ayat (1) huruf a diberikan paling\nbanyak 2 (dua) kali dengan jangka waktu\nsetiap peringatan tertulis paling lama 5 (lima)\nhari kerja;\nb. Badan Hukum yang mengabaikan peringatan\ntertulis sebagaimana dimaksud dalam huruf\na dikenai sanksi administratif berupa\npembekuan Perizinan Berusaha paling lama\n1 (satu) tahun;\nc. Badan Hukum yang mengabaikan\npembekuan Perizinan Berusaha sebagaimana\ndimaksud dalam huruf b dikenai sanksi\nadministratif berupa pencabutan insentif;\ndan\nd. Badan Hukum sebagai pelaku pembangunan\nyang mengabaikan pencabutan insentif\nsebagaimana dimaksud dalam huruf\nc\ndikenai sanksi administratif berupa denda\npaling sedikit Rp100.000.000,00 (seratus\njuta rupiah) dan paling banyak\nRp1.000.000.000,00 (satu miliar rupiah)."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "57779111-3d8b-4407-912d-c9f27d33a3f3",
+                    "name": "Article 138A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "eb28b625-a4b6-425e-bea1-55a05d1ad674",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Badan Hukum yang melakukan penyelenggaraan\nLingkungan Hunian atau Kasiba yang tidak\nmemisahkan Lingkungan Hunian atau Kasiba\nmenjadi satuan lingkungan Perumahan atau\nLisiba dikenai sanksi administratif berupa:\na. peringatan tertulis;\nb. pembekuan Perizinan Berusaha;\nc. pencabutan insentif; dan\nd. denda administratif."
+                        },
+                        {
+                            "id": "857b39fe-0d37-4dbe-9332-43dff53e4836",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi\nadministratif sebagaimana dimaksud pada\nayat (1) dilakukan sebagai berikut:\na. peringatan tertulis sebagaimana dimaksud\npada ayat (1) huruf a diberikan paling\nbanyak 2 (dua) kali dengan jangka waktu\nsetiap peringatan tertulis paling lama 5 (lima)\nhari kerja;\nb. Badan Hukum yang mengabaikan peringatan\ntertulis sebagaimana dimaksud dalam huruf\na dikenai sanksi administratif berupa\npembekuan Perizinan Berusaha paling lama\n1 (satu) tahun;\nc. Badan Hukum yang mengabaikan\npembekuan Perizinan Berusaha sebagaimana\ndimaksud dalam huruf b dikenai sanksi\nadministratif berupa pencabutan insentif;\ndan\nd. Badan Hukum yang mengabaikan\npencabutan insentif sebagaimana dimaksud\ndalam huruf c dikenai sanksi administratif\nberupa denda administratif paling sedikit\nRp100.000.000,00 (seratus juta rupiah) dan"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "c0fcc1e9-067b-4409-bda5-5f2461ac8291",
+                    "name": "Article 139",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f17f3585-1955-4ec0-a611-e2f268b230a2",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Badan Hukum yang melakukan pembangunan\nKawasan Permukiman tidak mematuhi rencana\ndan izin pembangunan Lingkungan Hunian dan\nkegiatan pendukung sebagaimana dimaksud\ndalam Pasal 74 ayat (2) dikenai sanksi\nadministratif berupa:\na. peringatan tertulis;\nb. pembekuan Perizinan Berusaha;\nc. pencabutan insentif; dan\nd. denda administratif."
+                        },
+                        {
+                            "id": "9dc2ed73-7cc7-4caa-b956-1b865385e720",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tata cara dan mekanisme pengenaan sanksi\nadministratif sebagaimana dimaksud pada ayat\n(1) dilaksanakan sebagai berikut:\na. peringatan tertulis sebagaimana dimaksud\npada ayat (1) huruf a diberikan paling\nbanyak 2 (dua) kali dengan jangka waktu\nsetiap peringatan tertulis paling lama 5 (lima)\nhari kerja;\nb. Badan Hukum yang mengabaikan peringatan\ntertulis sebagaimana dimaksud dalam huruf\na dikenai sanksi administratif berupa\npembekuan Perizinan Berusaha paling lama\n1 (satu) tahun;\nc. Badan Hukum yang mengabaikan\npembekuan Perizinan Berusaha sebagaimana\ndimaksud dalam huruf b dikenai sanksi\nadministratif berupa pencabutan insentif;\ndan\nd. Badan Hukum yang mengabaikan\npencabutan insentif sebagaimana dimaksud\ndalam huruf c dikenai sanksi administratif\nberupa denda administratif paling sedikit\nRp100.000.000,00 (seratus juta rupiah) dan\npaling banyak Rp1.000.000.000,00 (satu\nmiliar rupiah)."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "97f129a9-f326-4934-ab41-d39682af0034",
+                    "name": "Article 142A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "42cea3b9-c8ee-4ecd-91fc-43dd5dbf9a0b",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPada saat Peraturan Pemerintah ini mulai berlaku,\nPeraturan Menteri Pekerjaan Umum dan Perumahan\nRakyat Nomor 11/PRT/M/2019 tentang Sistem\nPerjanjian Pendahuluan Jual Beli Rumah (Berita\nNegara Republik Indonesia Tahun 2019 Nomor 777),\ndicabut dan dinyatakan tidak berlaku."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "b5e89fd7-b976-4c57-be10-618b78c75cbf",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "79dae863-ee97-439f-987a-7833d13d6627",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "12",
+        "Tahun": "2021",
+        "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 14 TAHUN 2016\nTENTANG PENYELENGGARAAN PERUMAHAN DAN KAWASAN\nPERMUKIMAN",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 50 dan\nPasal 185 huruf b Undang-Undang Nomor 11\nTahun 2020 tentang Cipta Kerja, perlu menetapkan\nPeraturan Pemerintah tentang Perubahan atas Peraturan\nPemerintah Nomor 14 Tahun 2016 tentang\nPenyelenggaraan Perumahan dan Kawasan Permukiman;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 1 Tahun 2011 tentang\nPerumahan dan Kawasan Permukiman (Lembaran\nNegara Republik Indonesia Tahun 2011 Nomor 7,\nTambahan Lembaran Negara Republik Indonesia\nNomor 5188);",
+            "3": " Undang-Undang Nomor 20 Tahun 2011 tentang\nRumah Susun (Lembaran Negara Republik Indonesia\nTahun 2011 Nomor 108, Tambahan Lembaran Negara",
+            "4": " Republik Indonesia Nomor 5252);\n   Undang-Undang Nomor 11 Tahun 2020 tentang Cipta\n   Kerja (Lembaran Negara Republik Indonesia\n   Tahun 2020 Nomor 245, Tambahan Lembaran Negara\n   Republik Indonesia Nomor 6573);",
+            "5": " Peraturan Pemerintah Nomor 14 Tahun 2016 tentang\n   Penyelenggaraan Perumahan dan Kawasan\n   Permukiman (Lembaran Negara Republik Indonesia\n   Tahun 2016 Nomor 101, Tambahan Lembaran Negara\n   Republik Indonesia Nomor 5883);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\n         PERATURAN PEMERINTAH NOMOR 14 TAHUN 2016\n         TENTANG PENYELENGGARAAN PERUMAHAN DAN\n         KAWASAN PERMUKIMAN.",
+        "tanggal sah": "2 Februari 2021"
+    }
+}

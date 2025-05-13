@@ -1,0 +1,922 @@
+{
+    "results": [
+        {
+            "id": "2b275b27-95c7-4e6c-919c-9e2c7061de22",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "350087c9-01a3-4cb2-8230-e522d1faa128",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "0d82f8e9-3efb-4bb8-a890-1a8edb215252",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Laporan Penyelenggaraan Pemerintahan Daerah yang\nselanjutnya disingkat LPPD adalah laporan yang\ndisampaikan oleh Pemerintah Daerah kepada\nPemerintah Pusat yang memuat capaian kinerja\npenyelenggaraan pemerintahan daerah dan\npelaksanaan tugas pembantuan selama 1 (satu) tahun\nanggaran.\n2. Laporan Keterangan Pertanggungjawaban yang\nselanjutnya disingkat LKPJ adalah laporan yang\ndisampaikan oleh Pemerintah Daerah kepada Dewan\nPerwakilan Rakyat Daerah yang memuat hasil\npenyelenggaraan urusan pemerintahan yang\nmenyangkut pertanggungjawaban kinerja yang\ndilaksanakan oleh Pemerintah Daerah selama 1 (satu)\ntahun anggaran.\n3. Ringkasan Laporan Penyelenggaraan Pemerintahan\nDaerah yang selanjutnya disingkat RLPPD adalah\ninformasi yang disampaikan oleh Pemerintah Daerah\nkepada masyarakat yang memuat capaian kinerja\npenyelenggaraan pemerintahan daerah selama 1 (satu)\ntahun anggaran.\n4. Evaluasi Penyelenggaraan Pemerintahan Daerah yang\nselanjutnya disingkat EPPD adalah evaluasi yang\ndilakukan oleh Pemerintah Pusat kepada Pemerintah\nDaerah provinsi dan Pemerintah Daerah kabupaten/\nkota dalam rangka penilaian kinerja penyelenggaraan\npemerintahan daerah.\n5. Kinerja Penyelenggaraan Pemerintahan Daerah adalah\nhasil kerja dari suatu keluaran yang dapat diukur\ndalam penyelenggaraan urusan pemerintahan sesuai\ndengan tanggung jawab kewenangan dalam waktu\nyang telah ditentukan.\n6. Menteri adalah menteri yang menyelenggarakan\nurusan pemerintahan dalam negeri.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "69738ea4-3ed5-4ba9-a1a9-38f0c0db92eb",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": {
+                        "id": "39f9378d-b540-4d81-aaf0-89f0f05bdea5",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nLaporan dan evaluasi penyelenggaraan pemerintahan\ndaerah meliputi:\na. LPPD;\nb. LKPJ;\nc. RLPPD; dan\nd. EPPD.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "0df79005-6c6e-476d-95f4-c2d1e77b9f22",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "39eea24d-8ef6-4018-8bb1-e97c083392ea",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nLPPD, LKPJ, RLPPD, dan EPPD disusun berdasarkan\nprinsip:\na. transparansi;\nb. akuntabilitas;\nc. akurasi; dan\nd. objektif.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "840837fb-b809-4863-9ebd-cb29f7768b5b",
+            "name": "Chapter II",
+            "title": "\nLAPORAN PENYELENGGARAAN PEMERINTAHAN DAERAH",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "7512daed-a5ed-4a36-aec3-2bc25983b564",
+                    "name": "Section First",
+                    "title": "\nRuang Lingkup",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "3dda3cae-e6df-499d-b672-6fe3d49027a7",
+                            "name": "Article 4",
+                            "type": "article",
+                            "children": {
+                                "id": "d71cd24a-e553-4a8f-b206-fc3f0d4a4f4c",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nLPPD memuat satu kesatuan hasil pengukuran kinerja\nPemerintah Daerah yang terdiri atas:\na. capaian Kinerja Penyelenggaraan Pemerintahan\nDaerah; dan\nb. capaian kinerja pelaksanaan tugas pembantuan.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        },
+                        {
+                            "id": "ee8ad15d-68f2-41a3-a9b9-dbeae7633012",
+                            "name": "Article 5",
+                            "type": "article",
+                            "children": {
+                                "id": "948cd04f-3e53-4faf-ac95-e6ca86decf45",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nCapaian Kinerja Penyelenggaraan Pemerintahan Daerah\nsebagaimana dimaksud dalam Pasal 4 huruf a terdiri atas:\na. capaian kinerja makro;\nb. capaian kinerja penyelenggaraan urusan\npemerintahan daerah; dan\nc. capaian akuntabilitas kinerja Pemerintah Daerah.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        },
+                        {
+                            "id": "9524898e-7111-4979-ad9d-0dd7fdd8e61c",
+                            "name": "Article 6",
+                            "type": "article",
+                            "children": {
+                                "id": "f24dc266-a02d-4c08-9165-0d8c6f52f224",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nCapaian kinerja makro sebagaimana dimaksud dalam\nPasal 5 huruf a meliputi indeks pembangunan manusia,\nangka kemiskinan, angka pengangguran, pertumbuhan\nekonomi, pendapatan per kapita, dan ketimpangan\npendapatan.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        },
+                        {
+                            "id": "1eb3d16d-8f1b-46dc-a1c8-ed8bc060b6e6",
+                            "name": "Article 7",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "03087bb1-7108-4833-9854-2579389ff03d",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Capaian kinerja penyelenggaraan urusan\npemerintahan daerah sebagaimana dimaksud dalam\nPasal 5 huruf b diukur berdasarkan indikator kinerja\npada masing-masing urusan pemerintahan yang\nmenjadi kewenangan daerah.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "a4b88a1b-8d23-47bb-9b89-b68e57a84b60",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Indikator kinerja sebagaimana dimaksud pada ayat (1)\nditetapkan oleh Menteri setelah berkoordinasi dengan\nmenteri teknis dan pimpinan lembaga pemerintah\nnonkementerian terkait.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "8ddfa05c-595a-41a5-afa8-02ae270a720a",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Indikator kinerja sebagaimana dimaksud pada ayat (2)\ndapat diukur secara objektif dan dapat\ndiperbandingkan antardaerah.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "0496c95c-2103-49ae-89e2-2127afae99ca",
+                            "name": "Article 8",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "dda6c82b-c319-4aa9-93a1-3bf741e5975f",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Capaian akuntabilitas kinerja Pemerintah Daerah\nsebagaimana dimaksud dalam Pasal 5 huruf c\nmerupakan pertanggungjawaban Pemerintah Daerah\ndalam pelaksanaan program dan kegiatan untuk\nmencapai visi dan misi Pemerintah Daerah secara\nterukur dengan sasaran dan target kinerja yang telah\nditetapkan melalui sistem pertanggungjawaban yang\ndisusun secara periodik.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "d94665c8-29d4-461a-a849-8aa967609bc7",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Capaian akuntabilitas kinerja Pemerintah Daerah\nsebagaimana dimaksud pada ayat (1) dihasilkan dari\nsistem manajemen kinerja sesuai dengan ketentuan\nperaturan perundang-undangan mengenai sistem\nakuntabilitas kinerja instansi pemerintah.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "07b7045b-9b4f-4f3a-b83b-43e39a90c8f3",
+                            "name": "Article 9",
+                            "type": "article",
+                            "children": {
+                                "id": "c1782bd0-3678-4685-8f1a-dd54637cd06d",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nCapaian kinerja pelaksanaan tugas pembantuan\nsebagaimana dimaksud dalam Pasal 4 huruf b terdiri atas:\na. capaian kinerja pelaksanaan tugas pembantuan yang\nditerima oleh daerah provinsi dari Pemerintah Pusat;\ndan\nb. capaian kinerja pelaksanaan tugas pembantuan yang\nditerima oleh daerah kabupaten/kota dari Pemerintah\nPusat dan/atau Pemerintah Daerah provinsi.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "894bdf71-2c48-4eac-95a8-9bcd57966a14",
+                    "name": "Section Second",
+                    "title": "\nPenyusunan dan Penyampaian Laporan Penyelenggaraan\nPemerintahan Daerah",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "970decca-37d2-46d1-bb28-cb014dcf75b7",
+                            "name": "Article 10",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "110458bd-e658-452e-aac2-d0a66d97ab07",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Kepala daerah menyusun LPPD berdasarkan format\nyang ditetapkan oleh Menteri.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "6fc016dd-c01c-40c7-a224-ff250f6919e5",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Dalam menyusun LPPD, kepala daerah wajib\nmenyelenggarakan pengumpulan dan pengolahan data\nyang diperlukan sesuai dengan indikator kinerja\ndalam LPPD.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "6e816307-254d-4cdc-a3a2-a684a694f2a1",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Data yang dituangkan dalam LPPD wajib diverifikasi\natau divalidasi oleh inspektorat daerah yang\nbersangkutan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "762d2edc-967b-4201-8f09-cc19c706b6d8",
+                            "name": "Article 11",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "eb102f7d-c634-4b97-a51f-eec1ad4027d5",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Gubernur menyampaikan LPPD provinsi kepada\nPresiden melalui Menteri yang dilakukan 1 (satu) kali\ndalam 1 (satu) tahun.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "97e05437-61f4-4327-a409-57ee279b9cda",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Bupati/wali kota menyampaikan LPPD kabupaten/\nkota kepada Menteri melalui gubernur sebagai wakil\npemerintah pusat yang dilakukan 1 (satu) kali dalam\n1 (satu) tahun.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "e0bcca28-f630-464c-817f-cbb6cdc5d8c0",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " LPPD sebagaimana dimaksud pada ayat (1) dan\nayat (2) disampaikan paling lambat 3 (tiga) bulan\nsetelah tahun anggaran berakhir.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "712a4ad7-34dc-4bad-9478-bae1897c1fc7",
+                                    "name": "Verse 4",
+                                    "number": "4",
+                                    "type": "verse",
+                                    "content": " Penyampaian LPPD sebagaimana dimaksud pada\nayat (3) dilaksanakan melalui sistem informasi\nelektronik secara daring.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5c8d8ead-6b9c-4244-8b97-75197af71d6c",
+                            "name": "Article 12",
+                            "type": "article",
+                            "children": {
+                                "id": "312f6da5-4a3f-4d5b-ab07-1ad310205de8",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nLPPD digunakan sebagai dasar:\na. EPPD; dan\nb. penilaian, perumusan kebijakan, dan pembinaan yang\ndilakukan oleh kementerian/lembaga pemerintah\nnonkementerian.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        },
+                        {
+                            "id": "a6e124a9-fde6-47ae-9148-7a03bf39ef2d",
+                            "name": "Article 13",
+                            "type": "article",
+                            "children": {
+                                "id": "f964685a-5dec-46cd-ad5d-fa134527a512",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nHasil EPPD dan penilaian, perumusan kebijakan, dan\npembinaan yang dilakukan oleh kementerian/lembaga\npemerintah nonkementerian sebagaimana dimaksud dalam\nPasal 12 disampaikan kembali kepada Pemerintah Daerah\nmelalui sistem informasi elektronik secara daring.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        },
+                        {
+                            "id": "89b27446-e589-490a-87e5-05dbe63b3140",
+                            "name": "Article 14",
+                            "type": "article",
+                            "children": {
+                                "id": "7e0b5c8d-2304-4b38-8a6b-b5320acd4367",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nKetentuan lebih lanjut mengenai penyusunan dan\npenyampaian LPPD diatur dalam Peraturan Menteri setelah\nberkoordinasi dengan menteri yang menyelenggarakan\nurusan pemerintahan di bidang pendayagunaan aparatur\nnegara dan reformasi birokrasi.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4938cc96-3f52-435a-9667-fe181189d8ea",
+            "name": "Chapter III",
+            "title": "\nLAPORAN KETERANGAN PERTANGGUNGJAWABAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "0f23e469-f590-4697-9c10-a8589c234475",
+                    "name": "Section First",
+                    "title": "\nRuang Lingkup",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "e71c734a-da12-4f5e-99dc-a65a8800e468",
+                            "name": "Article 15",
+                            "type": "article",
+                            "children": {
+                                "id": "7c4ca6be-1563-443d-a801-3400718f3eb5",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nRuang lingkup LKPJ meliputi:\na. hasil penyelenggaraan urusan pemerintahan yang\nmenjadi kewenangan daerah yang dilaksanakan oleh\nPemerintah Daerah; dan\nb. hasil pelaksanaan tugas pembantuan dan penugasan.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        },
+                        {
+                            "id": "61864ef4-5614-4888-bf29-d7eccb2bd6ce",
+                            "name": "Article 16",
+                            "type": "article",
+                            "children": {
+                                "id": "35329698-03c1-4be8-8d19-b7df73c7fe89",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nHasil penyelenggaraan urusan pemerintahan sebagaimana\ndimaksud dalam Pasal 15 huruf a meliputi:\na. capaian pelaksanaan program dan kegiatan serta\npermasalahan dan upaya penyelesaian setiap urusan\npemerintahan;\nb. kebijakan strategis yang ditetapkan oleh kepala daerah\ndan pelaksanaannya; dan\nC. tindak lanjut rekomendasi Dewan Perwakilan Rakyat\nDaerah tahun anggaran sebelumnya.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        },
+                        {
+                            "id": "55a7d214-1a40-49b7-8ed6-b0b733c92d5d",
+                            "name": "Article 17",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "d4dbbdc7-11a9-41d6-9d0f-51fda6919d11",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Hasil pelaksanaan tugas pembantuan sebagaimana\ndimaksud dalam Pasal 15 huruf b berupa:\na. Pemerintah Daerah provinsi terdiri atas capaian\nkinerja:\n1. tugas pembantuan yang diterima dari\nPemerintah Pusat; dan\n2. tugas pembantuan yang diberikan kepada\nPemerintah Daerah kabupaten/kota.\nb. Pemerintah Daerah kabupaten/kota terdiri atas\ncapaian kinerja:\n1. tugas pembantuan yang diterima dari\nPemerintah Pusat; dan\n2. tugas pembantuan yang diterima dari\n(2) Hasil pelaksanaan penugasan Pemerintah Daerah sebagaimana dimaksud dalam Pasal 15 huruf b berupa penugasan Pemerintah Daerah provinsi dan/atau Pemerintah Daerah kabupaten/kota kepada pemerintah desa.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "2cd99fed-8a65-449e-9b34-52816ecb414d",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Hasil pelaksanaan tugas pembantuan dan penugasan sebagaimana dimaksud pada ayat (1) dan ayat (2) juga memuat permasalahan dan upaya penyelesaian setiap tugas pembantuan atau penugasan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "0a18de70-475c-4059-972a-72cb7c13999a",
+                    "name": "Section Second",
+                    "title": "\nPenyusunan dan Penyampaian Laporan Keterangan Pertanggungjawaban",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "aeddce5b-f8cf-4cde-bc5a-1032a3a65271",
+                            "name": "Article 18",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "c19925a4-0486-4ff2-ae46-57be2ad944b7",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Kepala daerah menyusun LKPJ berdasarkan format yang ditetapkan oleh Menteri.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "3f547d74-7698-4dde-9b8a-bd00785df087",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " LKPJ disusun berdasarkan pelaksanaan program dan kegiatan yang ditetapkan dalam dokumen perencanaan dan anggaran tahunan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "9378cbfe-e8bd-437c-b41d-9e5cc60e5f65",
+                            "name": "Article 19",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "e3bd43b8-6d31-48ad-b919-76aa092f8f84",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Kepala daerah menyampaikan LKPJ kepada Dewan Perwakilan Rakyat Daerah dalam rapat paripurna yang dilakukan 1 (satu) kali dalam 1 (satu) tahun paling lambat 3 (tiga) bulan setelah tahun anggaran berakhir.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "9b1a0ee9-d160-4c20-b515-fcf1f9a75737",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Dalam hal kepala daerah berhalangan tetap atau berhalangan sementara, LKPJ disampaikan oleh wakil kepala daerah selaku pelaksana tugas kepala daerah kepada Dewan Perwakilan Rakyat Daerah dalam rapat paripurna.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "8faca895-effe-4f1e-b16e-7527bd383892",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Dalam hal kepala daerah dan wakil kepala daerah secara bersamaan berhalangan tetap atau berhalangan sementara, LKPJ disampaikan oleh pejabat pengganti kepala daerah kepada Dewan",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "d46ee559-1070-4779-8e90-e5762093c39f",
+                            "name": "Article 20",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "f20135d4-0236-4032-a67c-fca80fec215a",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Paling lambat 30 (tiga puluh) hari setelah LKPJ\nditerima, Dewan Perwakilan Rakyat Daerah harus\nmelakukan\npembahasan\nmemperhatikan:\nLKPJ dengan\na. capaian kinerja program dan kegiatan; dan\nb.\npelaksanaan\nPeraturan\nPeraturan Kepala Daerah\nmenyelenggarakan urusan pemerintahan daerah.\nDaerah dan/atau\ndalam\n(2) Berdasarkan hasil pembahasan LKPJ sebagaimana\ndimaksud pada ayat (1), Dewan Perwakilan Rakyat\nDaerah memberikan rekomendasi sebagai bahan\ndalam:\na.\nb.\nC.\npenyusunan perencanaan pada tahun berjalan\ndan tahun berikutnya;\npenyusunan anggaran pada tahun berjalan dan\ntahun berikutnya; dan\npenyusunan Peraturan Daerah, Peraturan Kepala\nDaerah, dan/atau kebijakan strategis kepala\ndaerah.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "d1977644-9b15-4133-9da7-b91beed8ffec",
+                            "name": "Article 21",
+                            "type": "article",
+                            "children": {
+                                "id": "74c424e6-cd4f-4a9b-a0aa-f84cf53c7364",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nKetentuan lebih lanjut mengenai penyusunan dan\npenyampaian LKPJ diatur dalam Peraturan Menteri.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5a05b4b4-7456-491c-9328-b7c97f122c2d",
+            "name": "Chapter IV",
+            "title": "\nRINGKASAN LAPORAN PENYELENGGARAAN\nPEMERINTAHAN DAERAH",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "ddca13df-8d97-4c73-a4f4-7876bf109f82",
+                    "name": "Article 22",
+                    "type": "article",
+                    "children": {
+                        "id": "a1640fea-7473-442a-acb4-ad66082d18b4",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nRLPPD memuat:\na. capaian kinerja makro;\nb. ringkasan capaian kinerja urusan pelayanan dasar;\nc.\nhasil EPPD dan opini atas laporan keuangan\nPemerintah Daerah tahun sebelumnya;\n2019, No.52\nd. ringkasan realisasi penerimaan dan pengeluaran\nanggaran daerah; dan\ne. inovasi daerah.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "ac7c6df3-d15c-4db4-b60c-51f965c3b08a",
+                    "name": "Article 23",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "909595d3-cb2a-4ba7-abe5-c131eecdf3c6",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Kepala daerah menyampaikan RLPPD kepada\nmasyarakat bersamaan dengan penyampaian LPPD\nkepada Pemerintah Pusat.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "d15b8603-9a2d-4b76-9550-6ca5ff273fc1",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Kepala daerah wajib memublikasikan RLPPD kepada\nmasyarakat melalui media cetak dan/atau media\nelektronik.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "4a712e67-ca04-4346-8bd6-ed9d83692c0b",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Masyarakat dapat memberikan tanggapan atas RLPPD\nkepada kepala daerah sebagai bahan masukan\nperbaikan penyelenggaraan pemerintahan daerah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "1e8321ad-0008-4315-b3ef-35054cdf9366",
+                    "name": "Article 24",
+                    "type": "article",
+                    "children": {
+                        "id": "960f7010-e088-40d2-8f85-1a37dba408c4",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKetentuan lebih lanjut mengenai penyusunan dan\npenyampaian RLPPD diatur dalam Peraturan Menteri.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a5135e96-ac70-48da-8d35-33f6514d70cc",
+            "name": "Chapter V",
+            "title": "\nEVALUASI PENYELENGGARAAN PEMERINTAHAN DAERAH",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "44183a92-2743-4f5c-9b3b-d6719f0025a2",
+                    "name": "Article 25",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "0b9e7c1c-3624-4186-9370-b9fc38a76ed7",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Menteri melakukan EPPD berdasarkan LPPD provinsi\ndengan melibatkan kementerian teknis dan/atau\nlembaga pemerintahan nonkementerian terkait untuk\nmenilai Kinerja Penyelenggaraan Pemerintahan Daerah\nprovinsi.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "090b331a-3bc6-48da-bff2-7028909624da",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Gubernur sebagai wakil pemerintah pusat melakukan\nEPPD berdasarkan LPPD kabupaten/kota dengan\nmelibatkan perangkat daerah dan instansi vertikal\nterkait untuk menilai Kinerja Penyelenggaraan\nPemerintahan Daerah kabupaten/kota.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "5efc9b2a-87de-48f5-8557-1130773e796e",
+                    "name": "Article 26",
+                    "type": "article",
+                    "children": {
+                        "id": "e63ab1a3-9728-4915-8f73-1a041a045695",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nEPPD terdiri atas:\na. evaluasi kinerja makro; dan\nb. evaluasi kinerja penyelenggaraan urusan\npemerintahan daerah.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "c481f571-651b-4266-a66e-96f9219aa00d",
+                    "name": "Article 27",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "94a081b5-8dd9-4461-958a-1582d118faba",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Evaluasi kinerja makro sebagaimana dimaksud dalam\nPasal 26 huruf a dilakukan dengan menilai:\na. capaian kinerja masing-masing indikator kinerja\nmakro LPPD; dan\nb. perubahan capaian kinerja masing-masing\nindikator kinerja makro LPPD.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "cad4a3b7-cf08-4a8d-aebe-6463293f7730",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penilaian sebagaimana dimaksud pada ayat (1)\ndilakukan berdasarkan bobot nilai yang ditetapkan\noleh Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "4c18f05d-d8fb-4b3d-ad76-8e03ea903977",
+                    "name": "Article 28",
+                    "type": "article",
+                    "children": {
+                        "id": "b98d6bae-52ee-4f9c-bce9-99be13080b5b",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nMenteri yang menyelenggarakan urusan pemerintahan di\nbidang pendayagunaan aparatur negara dan reformasi\nbirokrasi melakukan evaluasi akuntabilitas kinerja\nPemerintah Daerah berdasarkan pada informasi\nakuntabilitas kinerja pada LPPD provinsi dan\nkabupaten/kota.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "e8b0cc37-fe31-4fb4-a2ed-63993fc61a9e",
+                    "name": "Article 29",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6dd4b126-ade0-4a8a-a0cb-5264ac1a9d9a",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Evaluasi kinerja penyelenggaraan urusan\npemerintahan daerah sebagaimana dimaksud dalam\nPasal 26 huruf b dilakukan dengan menilai capaian\nindikator kinerja sebagaimana dimaksud dalam\nPasal 7 ayat (1).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "5c54fa18-5249-46f5-8442-79201cb69859",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penilaian capaian indikator kinerja sebagaimana\ndimaksud pada ayat (1) berdasarkan:\na. bobot nilai per bidang urusan pemerintahan; dan\nb. bobot capaian kinerja indikator per bidang\nurusan pemerintahan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "fa11f97b-0bf2-4feb-b82b-cd4119a7fa1a",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Bobot nilai per bidang urusan pemerintahan sebagaimana dimaksud pada ayat (2) huruf a ditetapkan oleh Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "712e1a6e-f10a-4807-9c4f-4e002df6e91f",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Bobot nilai capaian kinerja indikator per bidang urusan pemerintahan sebagaimana dimaksud pada ayat (2) huruf b ditetapkan oleh Menteri setelah berkoordinasi dengan menteri teknis dan kepala lembaga pemerintah nonkementerian yang membidangi masing-masing urusan pemerintahan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "5cbd3722-7fc7-448d-9e96-3d1ac5bf4237",
+                    "name": "Article 30",
+                    "type": "article",
+                    "children": {
+                        "id": "f71defd1-b88c-4a4c-b469-34b2a7384ce5",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nEPPD dilaksanakan setiap tahun anggaran dan hasilnya diselesaikan paling lambat 6 (enam) bulan sejak batas akhir penyampaian LPPD sebagaimana dimaksud dalam Pasal 11 ayat (3).",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "e20c16b0-aed4-445a-b5a3-560c9e4a9e29",
+                    "name": "Article 31",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "dce6010f-0570-4441-a935-f2b2e5c9eb6a",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Berdasarkan hasil EPPD, Menteri menetapkan peringkat Kinerja Penyelenggaraan Pemerintahan Daerah secara nasional yang terdiri atas:\na. peringkat kinerja provinsi;\nb. peringkat kinerja kabupaten; dan\nc. peringkat kinerja kota.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "5f308d4f-3040-474b-996d-80745dd1f5b1",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Peringkat kinerja sebagaimana dimaksud pada ayat (1) ditetapkan setelah berkoordinasi dengan menteri teknis dan pimpinan lembaga pemerintah nonkementerian terkait.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "40ff4adc-ef2b-4422-9cd9-cb0e7eeec8aa",
+                    "name": "Article 32",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "fd3c9f59-1efc-4b08-afb8-bf6d9d7b1d6b",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Gubernur sebagai wakil pemerintah pusat menyampaikan hasil EPPD kabupaten/kota kepada Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "f1de8400-1c59-4e32-a672-c4f9c28be378",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Menteri menyampaikan hasil EPPD kabupaten/kota dan provinsi kepada Presiden.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "b30879b3-4955-43e3-9e08-2a63f5685af7",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Hasil EPPD digunakan oleh Pemerintah Pusat sebagai bahan:\na. pertimbangan pemberian penghargaan;\nb. sinkronisasi perencanaan dan penetapan target\npembangunan pusat dan daerah; dan\nc. pembinaan terhadap peningkatan kemampuan\npemerintahan daerah dalam menyelenggarakan\notonomi daerah sehingga menghasilkan kinerja\nyang tinggi.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "d1d7184e-256f-491a-be3f-589e9aa4a67c",
+                    "name": "Article 33",
+                    "type": "article",
+                    "children": {
+                        "id": "05e628d5-0fde-45fe-bc5e-b13657d1f654",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKetentuan lebih lanjut mengenai tata cara pelaksanaan\nEPPD diatur dalam Peraturan Menteri.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "e22a5aab-cd42-4b13-9583-5c82cefd42c1",
+                    "name": "Article 34",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "b449ec39-ae09-4cbd-ac65-ec3b0b08e992",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Presiden memberikan penghargaan kepada Pemerintah\nDaerah provinsi, kabupaten, dan kota yang termasuk\nperingkat kategori berprestasi Kinerja Penyelenggaraan\nPemerintahan Daerah tertinggi atas usulan Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "604257bf-cd0c-4da1-9817-e74fb109ad10",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penghargaan sebagaimana dimaksud pada\nayat (1) diumumkan dan diberikan pada hari otonomi\ndaerah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "5ab3e014-1e6e-49a0-a36e-0d0bbcd2139c",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai jenis penghargaan\ndiatur dalam Peraturan Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f8c1f49-fc50-4dbc-8059-dc14b5873562",
+                    "name": "Article 35",
+                    "type": "article",
+                    "children": {
+                        "id": "ffa222b7-e204-4cc9-8646-f513ba8332aa",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPenghargaan kepada Pemerintah Daerah sebagaimana\ndimaksud dalam ketentuan Pasal 34 dapat digunakan\nsebagai bahan pertimbangan oleh menteri yang\nmenyelenggarakan urusan pemerintahan di bidang\nkeuangan dalam pemberian insentif sesuai dengan\nketentuan peraturan perundang-undangan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "86c7ebd8-2f6f-4492-bb24-d7942df16373",
+                    "name": "Article 36",
+                    "type": "article",
+                    "children": {
+                        "id": "4b6f0e98-6c87-4bc6-96ee-c6b729caa971",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nHasil EPPD digunakan sebagai bahan sinkronisasi\nperencanaan dan penetapan target pembangunan pusat\ndan daerah yang dilaksanakan sesuai dengan ketentuan\nperaturan perundang-undangan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "f9e23787-d1bf-4d41-b92e-67da0804a852",
+                    "name": "Article 37",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "c4a7bfbb-1901-4dd7-95d9-370740070e28",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Berdasarkan hasil EPPD, Menteri, menteri teknis, dan kepala lembaga pemerintah nonkementerian melakukan pembinaan terhadap peningkatan kemampuan pemerintahan daerah dalam menyelenggarakan otonomi daerah sehingga menghasilkan kinerja yang tinggi.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "c8543f26-211f-4f1e-bfde-a5755a8f33c2",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pembinaan sebagaimana dimaksud pada ayat (1) dilaksanakan melalui fasilitasi khusus dan pengembangan kapasitas daerah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "4f530576-2f0e-41d1-9311-0a2d53ba43cc",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Fasilitasi khusus sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "f09050ed-24a3-4ede-9d91-5209ff08db61",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Pengembangan kapasitas daerah sebagaimana dimaksud pada ayat (2) meliputi pengembangan kapasitas kebijakan, kelembagaan, dan sumber daya manusia.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "aaf29a83-502d-4e16-ac93-604c7e4c556f",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": " Pelaksanaan pengembangan kapasitas daerah sebagaimana dimaksud pada ayat (4) dikoordinasikan oleh Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "69de1494-cc48-48c2-b94e-38fed3b4e674",
+                            "name": "Verse 6",
+                            "number": "6",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai pengembangan kapasitas daerah sebagaimana dimaksud pada ayat (4) diatur dalam Peraturan Presiden.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "14ec92df-e248-48ca-bdf4-8fb25a152d0c",
+            "name": "Chapter VI",
+            "title": "\nSISTEM INFORMASI ELEKTRONIK LAPORAN DAN EVALUASI PENYELENGGARAAN PEMERINTAHAN DAERAH",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "b70a07a5-15f3-4ac1-a4fa-0a6c2a19ee7b",
+                    "name": "Article 38",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "d6581042-0c0f-4544-a06b-d8cd70ae06a4",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Menteri menyediakan sistem informasi elektronik LPPD dan EPPD terintegrasi secara daring.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "bfa7b4fb-b7f9-49cd-abe6-34190ba31cb5",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Kementerian/lembaga dapat memanfaatkan data dan informasi dari sistem informasi elektronik sebagaimana dimaksud pada ayat (1).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "600dbfc4-8e36-4303-a1a0-8b5a4b61b19c",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Sistem informasi elektronik LPPD dan EPPD sebagaimana dimaksud pada ayat (1) dan ayat (2) dilaksanakan sesuai dengan ketentuan peraturan\n2019, No.52\nperundang-undangan mengenai sistem pemerintahan\nberbasis elektronik.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "f705ee30-ded9-49e5-93b8-5a095fd16232",
+            "name": "Chapter VII",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "b502f698-dca9-4602-b3c1-32ab8a463128",
+                    "name": "Article 39",
+                    "type": "article",
+                    "children": {
+                        "id": "23d0bf18-9900-4661-91d2-994748ad38de",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPada saat Peraturan Pemerintah ini mulai berlaku, semua\nperaturan perundang-undangan yang mengatur mengenai\nlaporan dan evaluasi penyelenggaraan pemerintahan\ndaerah dinyatakan masih tetap berlaku sepanjang belum\ndiganti dan tidak bertentangan dengan ketentuan dalam\nPeraturan Pemerintah ini.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "edc5483b-2754-46ea-bc15-07dfd6cea760",
+                    "name": "Article 40",
+                    "type": "article",
+                    "children": {
+                        "id": "11e68331-a2ad-4b53-80b3-1f4202fe570d",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPada saat Peraturan Pemerintah ini mulai berlaku:\na. Peraturan Pemerintah Nomor 3 Tahun 2007 tentang\nLaporan Penyelenggaraan Pemerintahan Daerah\nKepada Pemerintah, Laporan Keterangan\nPertanggungjawaban Kepala Daerah Kepada Dewan\nPerwakilan Rakyat Daerah, dan Informasi Laporan\nPenyelenggaraan Pemerintahan Daerah Kepada\nMasyarakat (Lembaran Negara Republik Indonesia\nTahun 2007 Nomor 19, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4693); dan\nb. Peraturan Pemerintah Nomor 6 Tahun 2008 tentang\nPedoman Evaluasi Penyelenggaraan Pemerintahan\nDaerah (Lembaran Negara Republik Indonesia\nTahun 2008 Nomor 19, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4815),\ndicabut dan dinyatakan tidak berlaku.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "e014a042-3cba-43ea-909c-209cf935d9bb",
+                    "name": "Article 41",
+                    "type": "article",
+                    "children": {
+                        "id": "44c871ed-fb6f-40c2-92ca-63f6c10e1aa3",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "13",
+        "Tahun": "2019",
+        "Tentang": "LAPORAN DAN EVALUASI PENYELENGGARAAN PEMERINTAHAN DAERAH",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 74 Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, perlu menetapkan Peraturan Pemerintah tentang Laporan dan Evaluasi Penyelenggaraan Pemerintahan Daerah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);\n2019, No.52"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG LAPORAN DAN\nEVALUASI PENYELENGGARAAN PEMERINTAHAN\nDAERAH.",
+        "tanggal sah": "13 Maret 2019"
+    }
+}

@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "56d330c2-bcb1-4209-b3a3-77475d4ddf6b",
+            "id": "234152a1-3fea-49df-b33a-cf1181cdc5d7",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "fc02a8bb-f8b8-42ca-8c51-6b7ff32915e6",
+                "id": "7cf21e9f-9257-4388-8a7c-a9f7ef9bfdaa",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "563177ab-a44c-4dd1-b4cf-1b239c102f4c",
+            "id": "7a95b034-2bc5-4a66-b050-0b070a6345b7",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "d451c7c2-f12e-4bed-a748-0d50189984c8",
+                "id": "3a6d313b-89b2-4984-885e-ec689ac3bb8d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,24 +27,24 @@
             }
         },
         {
-            "id": "977647e6-5645-4025-aa10-c1242777362a",
+            "id": "b4729a0d-c678-4e74-a6e7-c7494db8e4ae",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "f2b4a5b0-818e-4f9e-a649-59b59821d033",
+                "id": "e2201680-45fb-4d1d-bc9c-81a37e7c25c4",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Cukup jelas.\nPasal 4..\nCukup jelas.",
-                "explanation": "Tidak ada Penjelasan"
+                "content": "Perobahan mengenai besarnya tunjangan Irian Jaya diatur oleh\nMenter Keuangan setelah mendengar Menteri Negara Urusan\nPenyempurnaan dan Pembersihan Aparatur Negara.",
+                "explanation": "\nCukup jelas.\nPasal 4. .\nCukup jelas."
             }
         },
         {
-            "id": "b6617c12-4672-416b-9f02-98f32df78243",
+            "id": "a89ba5fe-66c0-4b85-9bcd-f1620e6c0eec",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "66c3ec90-f54d-49bd-89c0-65e02c558e16",
+                "id": "885f20ff-bdc1-46cc-a2b8-420cf759c404",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "48b222a4-f778-4d14-b410-6c2d64c0af2e",
+            "id": "959c49db-04b2-4c08-9a01-a21b99f76183",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "156387e5-0729-4a7e-ae71-631a3d541d17",
+                "id": "6f05f24e-07a4-4b00-a679-68d0b9cc2baf",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,67 +66,15 @@
             }
         },
         {
-            "id": "28634e46-4cb2-4623-aeae-1d3320b19842",
+            "id": "c82285a8-b32d-41c7-9410-dea60619a66e",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "8754d415-4082-402a-9679-fabbc318700a",
+                "id": "ea4d25fa-5ac8-49d7-a20e-6d9e1ae1f0c7",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1973.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan, Pemerintah ini dengan penempatannya\ndalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 24 Maret 1973.\nPRESIDEN REPUBLIK INDONESIA,\nSOEHARTO\nJENDERAL TNI\nDiundangkan di Jakarta\npada tanggal 24 Maret 1973\nSEKRETARIS NEGARA REPUBLIK INDONESIA,\nSUDHARMONO\nMAYOR JENDERAL TNI.\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 11 TAHUN 1973\nTENTANG\nBERLAKUNYA PGPS 1968 DI PROPINSI IRIAN JAYA\nUMUM.\nDewasa ini ketentuan penggajian yang berlaku bagi Pegawai Negeri yang\ndipekerjakan/bertempat kedudukan di Propinsi Irian Jaya adalah P.G.P.N. 1961\n(sebagaimana diatur dalam Peraturan Pemerintah Nomor 200 Tahun 1961 (Lembaran\nNegara Tahun 1961 Nomor 239) jo Peraturan Pemerintah Nomor 16 Tahun 1969\n(Lembaran Negara Tahun 1969 Nomor 27).\nDalam rangka penyeragaman peraturan perundangan dibidang kepegawaian diseluruh\nWilayah Republik Indonesia, maka dipandang perlu memperlakukan P.G.P.S. 1968,\nsebagaimana diatur dalam Peraturan Pemerintah Nomor 12 Tahun 1967 (Lembaran\nNegara Tahun 1967 Nomor 24) di Propinsi Irian Jaya.\nDengan ditetapkannya Peraturan Pemerintah ini, maka Peraturan Pemerintah Nomor\n16 Tahun 1969 (Lembaran Negara Tahun 1969 Nomor 27) dinyatakan tidak berlaku\nlagi.\nDengan berlakunya P.G.P.S. 1968 di Propinsi Irian Jaya, harus dijamin bahwa\npenghasilan baru dari pegawai yang dipekerjakan/bertempat kedudukan di Propinsi\nIrian Jaya tidak boleh kurang dibandingkan dengan penghasilan lama.\nTunjangan Irian Jaya besarnya ditetapkan sebagaimana tersebut dalam lampiran\nPeraturan Pemerintah ini.\n\nApabila penghasilan baru seorang pegawai setelah ditambah dengan Tunjangan Irian\nJaya masih lebih kecil dibandingkan dengan penghasilan lama, maka kepadanya\ndiberikan Tunjangan Peralihan sebesar selisih antara penghasilan lama dan penghasilan\nbaru.\nPASAL DEMI PASAL.",
-                "explanation": "Tidak ada Penjelasan"
-            }
-        },
-        {
-            "id": "a01fe8f0-6edb-49af-9b79-ee43e1d220aa",
-            "name": "Article 1",
-            "type": "article",
-            "children": {
-                "id": "9db1b6d8-1b7d-4a30-a292-cf7618fc0ffa",
-                "name": "Verse 1",
-                "number": "(1)",
-                "type": "verse",
-                "content": "Cukup jelas.",
-                "explanation": "Tidak ada Penjelasan"
-            }
-        },
-        {
-            "id": "c0a609e0-cddd-4b34-b7e0-48605ca6b97b",
-            "name": "Article 2",
-            "type": "article",
-            "children": {
-                "id": "f9fe61da-bba7-4c24-8ab6-9969368bb502",
-                "name": "Verse 1",
-                "number": "(1)",
-                "type": "verse",
-                "content": "(1) Besarnya Tunjangan Irian Jaya ditetapkan dengan mengkalikan gaji pokok\nmenurut golongan/ruang P.G.P.S. 1968 setelah disesuaikan (Inpassing).\n(2) Cukup jelas.\n(3)\nCukup jelas.\n(4) Cukup jelas.",
-                "explanation": "Tidak ada Penjelasan"
-            }
-        },
-        {
-            "id": "16c04c5a-fada-4c6b-ab65-5f19784e9b54",
-            "name": "Article 5",
-            "type": "article",
-            "children": {
-                "id": "da7dcaca-9504-4952-9483-603795d14e31",
-                "name": "Verse 1",
-                "number": "(1)",
-                "type": "verse",
-                "content": "Cukup jelas.",
-                "explanation": "Tidak ada Penjelasan"
-            }
-        },
-        {
-            "id": "0679979e-f784-4940-9cc0-5165f6657d6a",
-            "name": "Article 6",
-            "type": "article",
-            "children": {
-                "id": "ffc33a17-806e-4a18-a563-73a3eeb3b422",
-                "name": "Verse 1",
-                "number": "(1)",
-                "type": "verse",
-                "content": "Cukup jelas.\nCATATAN\nDi dalam dokumen ini terdapat lampiran dalam format gambar.\nKutipan: LEMBARAN NEGARA DAN ",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1973.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan, Pemerintah ini dengan penempatannya\ndalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -147,6 +95,6 @@
             "3": " Peraturan Pemerintah Nomor 5 Tahun 1973 (Lembaran\nNegara Tahun 1973 Nomor 9)."
         },
         "Menetapkan": "\nNot Available",
-        "tanggal sah": ""
+        "tanggal sah": "1 April 1973"
     }
 }

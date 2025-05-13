@@ -1,37 +1,37 @@
 {
     "results": [
         {
-            "id": "53e272f3-df68-44fe-b727-362bbe1dd73b",
+            "id": "a3448d15-6232-442c-b941-24294757a77c",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "d9987d55-6c06-4ec3-93ad-6f22b23165cc",
+                "id": "69ee13a2-9e9d-44fd-b9f9-942aeb145752",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Jenis Penerimaan Negara Bukan Pajak yang berlaku pada\nBadan Kepegawaian Negara berasal dari jasa:\na. pendidikan dan pelatihan fungsional Analis\nKepegawaian, dan pendidikan dan pelatihan teknis\nmanajemen Pegawai Negeri Sipil;\nb. bimbingan teknis manajemen Pegawai Negeri Sipil;\ndan\nc. penilaian kompetensi Pegawai Negeri Sipil.\n(2) Jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak\nsebagaimana dimaksud pada ayat (1) ditetapkan dalam\nLampiran Peraturan Pemerintah ini.",
+                "content": "(1) Jenis Penerimaan Negara Bukan Pajak yang berlaku pada Badan Kepegawaian Negara berasal dari jasa:\na. pendidikan dan pelatihan fungsional Analis Kepegawaian, dan pendidikan dan pelatihan teknis manajemen Pegawai Negeri Sipil;\nb. bimbingan teknis manajemen Pegawai Negeri Sipil; dan\nc. penilaian kompetensi Pegawai Negeri Sipil.\n(2) Jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak sebagaimana dimaksud pada ayat (1) ditetapkan dalam Lampiran Peraturan Pemerintah ini.",
                 "explanation": "\nHuruf a\nPendidikan dan pelatihan diselenggarakan oleh Pusat\nPendidikan dan Pelatihan Kepegawaian Badan Kepegawaian\nNegara.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas."
             }
         },
         {
-            "id": "3b66cee3-4baf-44c5-adc4-27440f1f6629",
+            "id": "6420b90b-709e-423c-abce-1ce70be99241",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "78b09efb-8237-475e-a6db-e2bcc47a23c6",
+                "id": "ce0fdd5b-80a7-4406-ac83-af4779f887a3",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Selain jenis Penerimaan Negara Bukan Pajak\nsebagaimana dimaksud dalam Pasal 1 ayat (1), Badan\nKepegawaian Negara dapat menyelenggarakan pendidikan\ndan pelatihan kepemimpinan tingkat III dan pendidikan\ndan pelatihan kepemimpinan tingkat IV bagi Pegawai\nNegeri Sipil dan pendidikan dan pelatihan prajabatan bagi\nCalon Pegawai Negeri Sipil di luar Badan Kepegawaian\nNegara berdasarkan ketentuan peraturan perundang-\nundangan.\n\n(2) Dalam hal Badan Kepegawaian Negara menyelenggarakan\npendidikan dan pelatihan sebagaimana dimaksud pada\nayat (1), besaran tarifnya mengacu pada Peraturan\nPemerintah mengenai Jenis dan Tarif Atas Jenis\nPenerimaan Negara Bukan Pajak yang Berlaku pada\nLembaga Administrasi Negara.",
+                "content": "(1) Selain jenis Penerimaan Negara Bukan Pajak sebagaimana dimaksud dalam Pasal 1 ayat (1), Badan Kepegawaian Negara dapat menyelenggarakan pendidikan dan pelatihan kepemimpinan tingkat III dan pendidikan dan pelatihan kepemimpinan tingkat IV bagi Pegawai Negeri Sipil dan pendidikan dan pelatihan prajabatan bagi Calon Pegawai Negeri Sipil di luar Badan Kepegawaian Negara berdasarkan ketentuan peraturan perundang-undangan.\n\n(2) Dalam hal Badan Kepegawaian Negara menyelenggarakan\npendidikan dan pelatihan sebagaimana dimaksud pada\nayat (1), besaran tarifnya mengacu pada Peraturan\nPemerintah mengenai Jenis dan Tarif Atas Jenis\nPenerimaan Negara Bukan Pajak yang Berlaku pada\nLembaga Administrasi Negara.",
                 "explanation": "\nPendidikan dan pelatihan diselenggarakan oleh Pusat Pendidikan\ndan Pelatihan Kepegawaian Badan Kepegawaian Negara."
             }
         },
         {
-            "id": "376b8dc9-aa00-43c9-bf6d-89b093da76e8",
+            "id": "4b1470d5-20e3-4e74-8e9b-20da38cfaf95",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "4731c398-6044-47a7-8e05-e8d014fdc115",
+                "id": "7ec1339b-aef5-4457-a775-2d9fefb99fad",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "9b2a1e7d-5265-46b8-97ed-84bbf04b433a",
+            "id": "25807818-0c2a-4fe0-8308-aa7cde302a05",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "826138cf-a921-4e0f-828d-f4379aadca6f",
+                "id": "57fd3709-a458-44ba-95fa-09b0cc36b5fb",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,15 +53,15 @@
             }
         },
         {
-            "id": "c7d97ce0-d0c2-4353-afa1-ac536547a6b9",
+            "id": "d810d0d7-ddbd-4d3c-88fc-17b871a83b00",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "6aca726f-3ab1-490c-b57f-c28c3046d7b0",
+                "id": "7a0d4d13-20ca-4f6b-a5e2-f1d8e5fc5e58",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "\nCukup jelas.\n"
             }
         }
@@ -79,7 +79,7 @@
             "2": " Undang-Undang Nomor 20 Tahun 1997 tentang\nPenerimaan Negara Bukan Pajak (Lembaran Negara\nRepublik Indonesia Tahun 1997 Nomor 43, Tambahan\nLembaran Negara Republik Indonesia Nomor 3687);",
             "3": " Peraturan Pemerintah Nomor 22 Tahun 1997 tentang Jenis\ndan Penyetoran Penerimaan Negara Bukan Pajak\n(Lembaran Negara Republik Indonesia Tahun 1997 Nomor\n57, Tambahan Lembaran Negara Republik Indonesia\nNomor 3694) sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 52 Tahun 1998 tentang Perubahan atas\nPeraturan Pemerintah Nomor 22 Tahun 1997 tentang Jenis\ndan Penyetoran Penerimaan Negara Bukan Pajak\n(Lembaran Negara Republik Indonesia Tahun 1998 Nomor\n85, Tambahan Lembaran Negara Republik Indonesia\nNomor 3760);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG JENIS DAN TARIF\nATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG\nBERLAKU PADA BADAN KEPEGAWAIAN NEGARA.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA BADAN KEPEGAWAIAN NEGARA.",
         "tanggal sah": "9 JANUARI 2012"
     }
 }

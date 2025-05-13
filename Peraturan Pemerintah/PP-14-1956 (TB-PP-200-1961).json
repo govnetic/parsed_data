@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "87e1fd66-8a73-4f11-9e30-b6494ab2378b",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "edbd1edd-9312-492e-b460-e42f0e04f7b1",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Daftar Lampiran A dari Peraturan Gaji Pegawai Negeri Sipil\nRepublik Indonesia (Peraturan Pemerintah No. 23 tahun 1955,\nLembaran-Negara tahun 1955 No. 48 Jo Peraturan Pemerintah No. 32\ntahun 1955, Lembaran-Negara tahun 1955 No. 75) ditambah dengan\npangkat-pangkat dan aturan-aturan khusus baru seperti termuat\ndalam daftar-daftar terlampir.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "c960f993-c569-4fc6-a78e-a70af49969fc",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "31d912ce-d6dc-42fc-b8b4-b0a6632ee882",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan\nserta berlaku surut sampai tanggal 1 Oktober 1955.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "14",
+        "Tahun": "1956",
+        "Tentang": "MENGUBAH DAN MENAMBAH DAFTAR LAMPIRAN A PERATURAN GAJI\nPEGAWAI NEGERI SIPIL (P.G.P.N.) 1955",
+        "Menimbang": {
+            "Introduction": "\nbahwa karena dalam daftar Lampiran A dari P.G.P.N. 1955 Peraturan\nPemerintah No.23 tahun 1955 (Lembaran-Negara tahun 1955 No. 48)\nbelum termuat pangkat-pangkat organik yang diperlukan oleh\nKementerian Agraria dan Bank Tabungan Pos (Kementerian\nPerhubungan) dianggap perlu - untuk mengadakan tambahan\npangkat-pangkat baru dalam Daftar Lampiran A tersebut;"
+        },
+        "Mengingat": {
+            "Introduction": "\npasal 119 ayat (1) Undang-undang Dasar Sementara Republik\nIndonesia dan Peraturan Pemerintah No. 23 tahun 1955\n(Lembaran-Negara tahun 1955 No. 48) jo Peraturan Pemerintah No. 32\ntahun 1955 (Lembaran-Negara tahun 1955 No. 75);\nMendengar\nDewan Menteri dalam rapatnya yang ke-54 pada tanggal 28 Pebruari\n1956;"
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang mengubah/menambah Daftar Lampiran A\ndari Peraturan Gaji Pegawai Negeri Sipil Republik Indonesia.",
+        "tanggal sah": "1 Oktober 1955"
+    }
+}

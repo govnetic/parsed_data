@@ -1,37 +1,37 @@
 {
     "results": [
         {
-            "id": "c5d94c57-7add-44dd-86c1-3e8fbb8db8bb",
+            "id": "22e55896-f04c-4e9f-b6ca-e709a63ac069",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "05adaa9d-2d4b-4816-af13-8035b4566d50",
+                "id": "297b7ce0-745d-4307-a898-89a5f06e894e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Gubernur, Bupati, dan Walikota dibantu oleh Wakil Gubernur, Wakil Bupati, dan Wakil Walikota.\n(2) Wakil Gubernur, Wakil Bupati, dan Wakil Walikota menjalankan tugas membantu Gubernur, Bupati, dan Walikota sesuai dengan ketentuan peraturan perundang-undangan mengenai pemerintahan daerah.",
+                "content": "(1) Gubernur, Bupati, dan Walikota dibantu oleh Wakil Gubernur, Wakil\nBupati, dan Wakil Walikota.\n(2) Wakil Gubernur, Wakil Bupati, dan Wakil Walikota menjalankan tugas\nmembantu Gubernur, Bupati, dan Walikota sesuai dengan ketentuan\nperaturan perundang-undangan mengenai pemerintahan daerah.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "be63abde-6141-46d0-a015-4de4fb9d7bcc",
+            "id": "f3b89242-7408-4242-8281-6f502f8a7abf",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "8358b7ca-822f-44a9-b96e-457394ea3bd7",
+                "id": "0fbe6be1-4ba2-49ae-b796-a51956bc42bc",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Penentuan jumlah Wakil Gubernur berlaku ketentuan sebagai berikut:\na. Provinsi dengan jumlah penduduk sampai dengan 1.000.000 (satu juta) jiwa tidak memiliki Wakil Gubernur;\nb. Provinsi dengan jumlah penduduk di atas 1.000.000 (satu juta) jiwa sampai dengan 3.000.000 (tiga juta) jiwa memiliki 1 (satu) Wakil Gubernur;\nc. Provinsi dengan jumlah penduduk di atas 3.000.000 (tiga juta) sampai dengan 10.000.000 (sepuluh juta) jiwa dapat memiliki 2 (dua) Wakil Gubernur;\nd. Provinsi dengan jumlah penduduk di atas 10.000.000 (sepuluh juta) dapat memiliki 3 (tiga) Wakil Gubernur.\n(2) Penentuan jumlah Wakil Bupati/Wakil Walikota berlaku ketentuan sebagai berikut:\na. Kabupaten/Kota dengan jumlah penduduk sampai dengan 100.000 (seratus ribu) jiwa tidak memiliki Wakil Bupati/Wakil Walikota;\nb. Kabupaten/Kota dengan jumlah penduduk di atas 100.000 (seratus ribu) jiwa sampai dengan 250.000 (dua ratus lima puluh ribu) jiwa memiliki 1 (satu) Wakil Bupati/Wakil Walikota;\n2014, No.367\nc. Kabupaten/Kota dengan jumlah penduduk di atas 250.000 (dua ratus lima puluh ribu) jiwa dapat memiliki 2 (dua) Wakil Bupati/Wakil Walikota.",
+                "content": "(1) Penentuan jumlah Wakil Gubernur berlaku ketentuan sebagai berikut:\na. Provinsi dengan jumlah penduduk sampai dengan 1.000.000\n(satu juta) jiwa tidak memiliki Wakil Gubernur;\nb. Provinsi dengan jumlah penduduk di atas 1.000.000 (satu juta)\njiwa sampai dengan 3.000.000 (tiga juta) jiwa memiliki 1 (satu)\nWakil Gubernur;\nC. Provinsi dengan jumlah penduduk di atas 3.000.000 (tiga juta)\nsampai dengan 10.000.000 (sepuluh juta) jiwa dapat memiliki 2\n(dua) Wakil Gubernur;\nd. Provinsi dengan jumlah penduduk di atas 10.000.000 (sepuluh\njuta) dapat memiliki 3 (tiga) Wakil Gubernur.\n(2) Penentuan jumlah Wakil Bupati/Wakil Walikota berlaku ketentuan\nsebagai berikut:\na. Kabupaten/Kota dengan jumlah penduduk sampai dengan\n100.000 (seratus ribu) jiwa tidak memiliki Wakil Bupati/Wakil\nWalikota;\nb. Kabupaten/Kota dengan jumlah penduduk di atas 100.000\n(seratus ribu) jiwa sampai dengan 250.000 (dua ratus lima puluh\nribu) jiwa memiliki 1 (satu) Wakil Bupati/Wakil Walikota;\n2014, No.367\nc. Kabupaten/Kota dengan jumlah penduduk di atas 250.000 (dua ratus lima puluh ribu) jiwa dapat memiliki 2 (dua) Wakil Bupati/Wakil Walikota.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "8d89935d-4835-4ef6-8b8e-b85b7069c953",
+            "id": "15b10a35-7034-49f5-b0d4-66d06b4d6a3e",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "3896fd9e-87e4-4f74-990f-536b1507fe72",
+                "id": "449a5280-6846-443e-b06f-ab6788709e00",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,24 +40,24 @@
             }
         },
         {
-            "id": "53420681-d3db-490a-9585-02d44991ced3",
+            "id": "6ef505b5-2274-4b0f-a5e5-93488b86c43c",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "c2a7cd84-832a-478f-a644-05caf0e9b8f7",
+                "id": "9bf8b6ac-e156-426f-b8a4-791e8133e664",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Persyaratan calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota adalah sebagai berikut:\na. bertakwa kepada Tuhan Yang Maha Esa;\nb. setia kepada Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, cita-cita Proklamasi Kemerdekaan 17 Agustus 1945, Negara Kesatuan Republik Indonesia;\nc. berpendidikan paling rendah sekolah lanjutan tingkat atas atau sederajat;\nd. mempunyai kecakapan dan pengalaman pekerjaan yang cukup di bidang pelayanan publik;\ne. calon yang berasal dari Pegawai Negeri Sipil dengan golongan kepangkatan paling rendah IV/c untuk calon Wakil Gubernur, dan golongan kepangkatan paling rendah IV/b untuk calon Wakil Bupati/calon Wakil Walikota dan pernah atau sedang menduduki jabatan eselon IIa untuk calon Wakil Gubernur dan eselon IIb untuk calon Wakil Bupati dan calon Wakil Walikota;\nf. berusia paling rendah 30 (tiga puluh) tahun untuk calon Wakil Gubernur dan 25 (dua puluh lima) tahun untuk calon Wakil Bupati/calon Wakil Walikota;\ng. mampu secara jasmani dan rohani berdasarkan hasil pemeriksaan kesehatan menyeluruh dari tim dokter daerah;\nh. tidak pernah dijatuhi pidana penjara berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap karena melakukan tindak pidana yang diancam dengan pidana penjara 5 (lima) tahun atau lebih;\n2014, No.367\ni. tidak sedang dicabut hak pilihnya berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap;\nj. menyerahkan daftar kekayaan pribadi dan bersedia untuk diumumkan;\nk. tidak sedang memiliki tanggungan utang secara perseorangan dan/atau secara badan hukum yang menjadi tanggung jawabnya yang merugikan keuangan negara;\nl. tidak sedang dinyatakan pailit berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap;\nm. memiliki Nomor Pokok Wajib Pajak dan laporan pajak pribadi;\nn. tidak memiliki konflik kepentingan dengan Gubernur, Bupati, dan Walikota;\no. tidak pernah dijatuhi hukuman disiplin berat sesuai dengan ketentuan peraturan perundang-undangan mengenai Aparatur Sipil Negara dalam hal calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota berasal dari Pegawai Negeri Sipil;\np. menyerahkan surat kesediaan mengundurkan diri bagi Pegawai Negeri Sipil sejak diangkat menjadi Wakil Gubernur, Wakil Bupati, dan Wakil Walikota; dan\nq. menyerahkan daftar riwayat hidup.\n(2) Dokumen persyaratan sebagaimana dimaksud pada ayat (1) meliputi:\na. surat pernyataan yang dibuat dan ditandatangani oleh calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota, sebagai bukti pemenuhan syarat sebagaimana dimaksud pada ayat (1) huruf a, huruf b, dan huruf p;\nb. fotokopi ijazah yang telah dilegalisir oleh pihak yang berwenang;\nc. fotokopi dokumen yang menunjukan pengalaman pekerjaan di bidang pelayanan publik;\nd. fotokopi surat keputusan kepangkatan kepegawaian dan fotokopi surat keputusan menduduki jabatan;\ne. fotokopi kartu tanda penduduk elektronik dengan nomor induk kependudukan;\nf. surat keterangan hasil pemeriksaan kesehatan secara rohani dan jasmani dari tim dokter daerah;\ng. surat keterangan tidak pernah dijatuhi pidana penjara berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap karena melakukan tindak pidana yang diancam dengan pidana penjara 5 (lima) tahun atau lebih dari Pengadilan Negeri yang wilayah hukumnya meliputi tempat\nh. surat keterangan tidak sedang dicabut hak pilihnya berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap dari Pengadilan Negeri yang wilayah hukumnya meliputi tempat tinggal calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota;\ni. surat tanda terima laporan kekayaan calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota dari instansi yang berwenang memeriksa laporan kekayaan penyelenggara negara;\nj. surat keterangan tidak sedang memiliki tanggungan utang secara perseorangan dan/atau secara badan hukum yang menjadi tanggung jawabnya yang merugikan keuangan negara dari Pengadilan Negeri yang wilayah hukumnya meliputi tempat tinggal calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota;\nk. surat keterangan tidak dinyatakan pailit dari Pengadilan Negeri yang wilayah hukumnya meliputi tempat tinggal calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota;\nl. fotokopi kartu Nomor Pokok Wajib Pajak atas nama calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota, tanda terima penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi atas nama calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota, untuk masa 5 (lima) tahun terakhir, dan tanda bukti tidak mempunyai tunggakan pajak dari Kantor Pelayanan Pajak tempat calon yang bersangkutan terdaftar;\nm. surat keterangan dari lembaga yang berwenang di bidang kepegawaian tidak pernah dijatuhi hukuman disiplin berat dengan ketentuan peraturan perundang-undangan mengenai Aparatur Sipil Negara dalam hal calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota berasal dari Pegawai Negeri Sipil;\nn. daftar riwayat hidup yang dibuat dan ditandatangani oleh calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota;\no. pasfoto terbaru calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota; dan\np. dokumen lainnya sesuai dengan ketentuan peraturan perundang- undangan.",
+                "content": "(1) Persyaratan calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota adalah sebagai berikut:\na. bertakwa kepada Tuhan Yang Maha Esa;\nb. setia kepada Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, cita-cita Proklamasi Kemerdekaan 17 Agustus 1945, Negara Kesatuan Republik Indonesia;\nc. berpendidikan paling rendah sekolah lanjutan tingkat atas atau sederajat;\nd. mempunyai kecakapan dan pengalaman pekerjaan yang cukup di bidang pelayanan publik;\ne. calon yang berasal dari Pegawai Negeri Sipil dengan golongan kepangkatan paling rendah IV/c untuk calon Wakil Gubernur, dan golongan kepangkatan paling rendah IV/b untuk calon Wakil Bupati/calon Wakil Walikota dan pernah atau sedang menduduki jabatan eselon IIa untuk calon Wakil Gubernur dan eselon IIb untuk calon Wakil Bupati dan calon Wakil Walikota;\nf. berusia paling rendah 30 (tiga puluh) tahun untuk calon Wakil Gubernur dan 25 (dua puluh lima) tahun untuk calon Wakil Bupati/calon Wakil Walikota;\ng. mampu secara jasmani dan rohani berdasarkan hasil pemeriksaan kesehatan menyeluruh dari tim dokter daerah;\nh. tidak pernah dijatuhi pidana penjara berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap karena melakukan tindak pidana yang diancam dengan pidana penjara 5 (lima) tahun atau lebih;\n2014, No.367\ni. tidak sedang dicabut hak pilihnya berdasarkan putusan\npengadilan yang telah mempunyai kekuatan hukum tetap;\nj. menyerahkan daftar kekayaan pribadi dan bersedia untuk\ndiumumkan;\nk. tidak sedang memiliki tanggungan utang secara perseorangan\ndan/atau secara badan hukum yang menjadi tanggung jawabnya\nyang merugikan keuangan negara;\nl. tidak sedang dinyatakan pailit berdasarkan putusan pengadilan\nyang telah memperoleh kekuatan hukum tetap;\nm. memiliki Nomor Pokok Wajib Pajak dan laporan pajak pribadi;\nn. tidak memiliki konflik kepentingan dengan Gubernur, Bupati, dan\nWalikota;\no. tidak pernah dijatuhi hukuman disiplin berat sesuai dengan\nketentuan peraturan perundang-undangan mengenai Aparatur\nSipil Negara dalam hal calon Wakil Gubernur, calon Wakil Bupati,\ndan calon Wakil Walikota berasal dari Pegawai Negeri Sipil;\np. menyerahkan surat kesediaan mengundurkan diri bagi Pegawai\nNegeri Sipil sejak diangkat menjadi Wakil Gubernur, Wakil\nBupati, dan Wakil Walikota; dan\nq. menyerahkan daftar riwayat hidup.\n(2) Dokumen persyaratan sebagaimana dimaksud pada ayat (1) meliputi:\na. surat pernyataan yang dibuat dan ditandatangani oleh calon\nWakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota,\nsebagai bukti pemenuhan syarat sebagaimana dimaksud pada\nayat (1) huruf a, huruf b, dan huruf p;\nb. fotokopi ijazah yang telah dilegalisir oleh pihak yang berwenang;\nc. fotokopi dokumen yang menunjukan pengalaman pekerjaan di\nbidang pelayanan publik;\nd. fotokopi surat keputusan kepangkatan kepegawaian dan fotokopi\nsurat keputusan menduduki jabatan;\ne. fotokopi kartu tanda penduduk elektronik dengan nomor induk\nkependudukan;\nf. surat keterangan hasil pemeriksaan kesehatan secara rohani dan\njasmani dari tim dokter daerah;\ng. surat keterangan tidak pernah dijatuhi pidana penjara\nberdasarkan putusan pengadilan yang telah memperoleh\nkekuatan hukum tetap karena melakukan tindak pidana yang\ndiancam dengan pidana penjara 5 (lima) tahun atau lebih dari\nPengadilan Negeri yang wilayah hukumnya meliputi tempat\nh. surat keterangan tidak sedang dicabut hak pilihnya berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap dari Pengadilan Negeri yang wilayah hukumnya meliputi tempat tinggal calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota;\ni. surat tanda terima laporan kekayaan calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota dari instansi yang berwenang memeriksa laporan kekayaan penyelenggara negara;\nj. surat keterangan tidak sedang memiliki tanggungan utang secara perseorangan dan/atau secara badan hukum yang menjadi tanggung jawabnya yang merugikan keuangan negara dari Pengadilan Negeri yang wilayah hukumnya meliputi tempat tinggal calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota;\nk. surat keterangan tidak dinyatakan pailit dari Pengadilan Negeri yang wilayah hukumnya meliputi tempat tinggal calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota;\n1. fotokopi kartu Nomor Pokok Wajib Pajak atas nama calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota, tanda terima penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi atas nama calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota, untuk masa 5 (lima) tahun terakhir, dan tanda bukti tidak mempunyai tunggakan pajak dari Kantor Pelayanan Pajak tempat calon yang bersangkutan terdaftar;\nm. surat keterangan dari lembaga yang berwenang di bidang kepegawaian tidak pernah dijatuhi hukuman disiplin berat dengan ketentuan peraturan perundang-undangan mengenai Aparatur Sipil Negara dalam hal calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota berasal dari Pegawai Negeri Sipil;\nn. daftar riwayat hidup yang dibuat dan ditandatangani oleh calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota;\no. pasfoto terbaru calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota; dan\np. dokumen lainnya sesuai dengan ketentuan peraturan perundang-undangan.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "9c3db0bc-c62c-4c84-8f8f-7a9ed65f4fc2",
+            "id": "d011c87c-7ae7-43a1-8f4e-69197249b9ce",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "a2ff12ba-47f0-464a-8a0e-7b326d70422d",
+                "id": "1324aea0-e826-4c8b-8aba-e81d8e7c5b8b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "11de0074-41d3-4502-b6c3-39fc738f4f9c",
+            "id": "e8325741-11fc-48e4-8f43-332397246eae",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "286d6b6b-c909-421c-afb6-526a744cfc0d",
+                "id": "42b6c985-f9cc-4ff4-bab0-8b96b7b7389b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -79,93 +79,93 @@
             }
         },
         {
-            "id": "2fdc9372-9fa3-4133-a844-491b661e94de",
+            "id": "ea2dc461-2da8-4137-b002-9ebe4eec6b22",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "b7acc58a-46ff-4b60-8b04-918e2f6d2b5f",
+                "id": "875c3373-1fed-4789-a799-84a92e4b142c",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Menteri Dalam Negeri melakukan verifikasi kelengkapan persyaratan calon Wakil Gubernur paling lama 4 (empat) hari kerja sebelum disampaikan kepada Presiden.\n(2) Gubernur melakukan verifikasi kelengkapan persyaratan calon Wakil Bupati dan calon Wakil Walikota paling lama 4 (empat) hari kerja sebelum disampaikan kepada Menteri Dalam Negeri.\n(3) Dalam hal hasil verifikasi kelengkapan persyaratan calon Wakil Gubernur, calon Wakil Bupati, dan calon Wakil Walikota tidak memenuhi persyaratan sebagaimana dimaksud dalam Pasal 4, Gubernur, Bupati, dan Walikota wajib mengusulkan kembali calon pengganti paling lama 2 (dua) hari kerja sejak diterimanya berkas pengembalian.",
+                "content": "(1) Menteri Dalam Negeri melakukan verifikasi kelengkapan persyaratan\ncalon Wakil Gubernur paling lama 4 (empat) hari kerja sebelum\ndisampaikan kepada Presiden.\n(2) Gubernur melakukan verifikasi kelengkapan persyaratan calon Wakil\nBupati dan calon Wakil Walikota paling lama 4 (empat) hari kerja\nsebelum disampaikan kepada Menteri Dalam Negeri.\n(3) Dalam hal hasil verifikasi kelengkapan persyaratan calon Wakil\nGubernur, calon Wakil Bupati, dan calon Wakil Walikota tidak\nmemenuhi persyaratan sebagaimana dimaksud dalam Pasal 4,\nGubernur, Bupati, dan Walikota wajib mengusulkan kembali calon\npengganti paling lama 2 (dua) hari kerja sejak diterimanya berkas\npengembalian.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "c8531e3f-1838-4308-8955-ca299d81d598",
+            "id": "b2c65240-1cae-4b65-9e68-90fe63651ed8",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "32310020-940e-4718-82bb-0c078d0cd9b1",
+                "id": "15136755-5b5d-4ea4-8a8d-39ea1b406dcc",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Menteri Dalam Negeri menyampaikan usul pengesahan pengangkatan Wakil Gubernur yang memenuhi persyaratan kepada Presiden.\n(2) Gubernur menyampaikan usul pengesahan pengangkatan Wakil Bupati dan Wakil Walikota yang memenuhi persyaratan kepada Menteri Dalam Negeri.",
+                "content": "(1) Menteri Dalam Negeri menyampaikan usul pengesahan pengangkatan\nWakil Gubernur yang memenuhi persyaratan kepada Presiden.\n(2) Gubernur menyampaikan usul pengesahan pengangkatan Wakil\nBupati dan Wakil Walikota yang memenuhi persyaratan kepada\nMenteri Dalam Negeri.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "2e458c52-d5a6-42d8-bf13-9026d289c711",
+            "id": "6a79947b-94f2-4ab6-a107-c0e687e0ddf5",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "67ff0d8e-7b85-4e3a-86a2-49a0f5e4ab47",
+                "id": "8786c805-6000-4df8-a41b-f9b630fa559e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Pengangkatan Wakil Gubernur ditetapkan dengan Keputusan Presiden.\n(2) Pengangkatan Wakil Bupati dan Wakil Walikota ditetapkan dengan Keputusan Menteri Dalam Negeri.",
+                "content": "(1) Pengangkatan Wakil Gubernur ditetapkan dengan Keputusan\nPresiden.\n(2) Pengangkatan Wakil Bupati dan Wakil Walikota ditetapkan dengan\nKeputusan Menteri Dalam Negeri.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "09daecb5-bd57-452d-9c31-2dd7a95536bf",
+            "id": "cd69cdec-54e2-44f1-a7f6-e87d3a8ab9c5",
             "name": "Article 10",
             "type": "article",
             "children": {
-                "id": "f7318423-9614-4bbd-96cd-226efc2344cb",
+                "id": "8efac07a-9035-430c-b092-a6222fb03e6d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Wakil Gubernur dilantik oleh Gubernur paling lama 2 (dua) hari kerja setelah diterimanya Keputusan Presiden.\n(2) Dalam hal Wakil Gubernur tidak dilantik sebagaimana dimaksud pada ayat (1), Wakil Gubernur dilantik oleh Menteri Dalam Negeri.\n(3) Wakil Bupati dilantik oleh Bupati dan Wakil Walikota dilantik oleh Walikota paling lama 2 (dua) hari kerja setelah diterimanya Keputusan Menteri Dalam Negeri.\n(4) Dalam hal Wakil Bupati dan Wakil Walikota tidak dilantik sebagaimana dimaksud pada ayat (3), Wakil Bupati dan Wakil Walikota dilantik oleh Gubernur.\n(5) Dalam hal Wakil Bupati dan Wakil Walikota tidak dilantik sebagaimana dimaksud pada ayat (4), Wakil Bupati dan Wakil Walikota dilantik oleh Menteri Dalam Negeri.\n(6) Ketentuan lebih lanjut mengenai tata cara pelantikan Wakil Gubernur, Wakil Bupati, dan Wakil Walikota diatur dengan Peraturan Menteri Dalam Negeri.",
+                "content": "(1) Wakil Gubernur dilantik oleh Gubernur paling lama 2 (dua) hari kerja\nsetelah diterimanya Keputusan Presiden.\n(2) Dalam hal Wakil Gubernur tidak dilantik sebagaimana dimaksud pada\nayat (1), Wakil Gubernur dilantik oleh Menteri Dalam Negeri.\n(3) Wakil Bupati dilantik oleh Bupati dan Wakil Walikota dilantik oleh\nWalikota paling lama 2 (dua) hari kerja setelah diterimanya Keputusan\nMenteri Dalam Negeri.\n(4) Dalam hal Wakil Bupati dan Wakil Walikota tidak dilantik\nsebagaimana dimaksud pada ayat (3), Wakil Bupati dan Wakil\nWalikota dilantik oleh Gubernur.\n(5) Dalam hal Wakil Bupati dan Wakil Walikota tidak dilantik\nsebagaimana dimaksud pada ayat (4), Wakil Bupati dan Wakil\nWalikota dilantik oleh Menteri Dalam Negeri.\n(6) Ketentuan lebih lanjut mengenai tata cara pelantikan Wakil Gubernur,\nWakil Bupati, dan Wakil Walikota diatur dengan Peraturan Menteri\nDalam Negeri.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "8fcb05cd-20b1-4164-b1fc-14918257b67f",
+            "id": "143183e7-81ca-4315-a6d6-981020c84ebd",
             "name": "Article 11",
             "type": "article",
             "children": {
-                "id": "a40e2fa2-a248-46ba-919d-3acb1defc5ef",
+                "id": "9f938ea0-a01a-4d7d-9826-1dc067bcae74",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Gubernur, Bupati, dan Walikota yang pengesahan pengangkatannya berdasarkan Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah yang tidak memiliki Wakil Gubernur, Wakil Bupati, dan Wakil Walikota, mengusulkan Wakil Gubernur, Wakil Bupati, dan Wakil Walikota paling lama 15 (lima belas) hari kerja setelah Peraturan Pemerintah ini berlaku.",
+                "content": "Gubernur, Bupati, dan Walikota yang pengesahan pengangkatannya\nberdasarkan Undang-Undang Nomor 32 Tahun 2004 tentang\nPemerintahan Daerah yang tidak memiliki Wakil Gubernur, Wakil Bupati,\ndan Wakil Walikota, mengusulkan Wakil Gubernur, Wakil Bupati, dan\nWakil Walikota paling lama 15 (lima belas) hari kerja setelah Peraturan\nPemerintah ini berlaku.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "49f876e6-0eac-458f-83d9-8a47c3e26cc3",
+            "id": "320b8c48-816d-45a1-9803-8cac129c1d91",
             "name": "Article 12",
             "type": "article",
             "children": {
-                "id": "98c25ace-d040-41c2-8ff6-50bfda537023",
+                "id": "412b6435-3656-4490-be06-4c0b2be1cc11",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Ketentuan Peraturan Pemerintah ini berlaku juga bagi pelaksanaan tata cara pengusulan dan pengangkatan Wakil Gubernur, Wakil Bupati, dan Wakil Walikota di Provinsi Aceh, Provinsi Daerah Khusus Ibukota Jakarta, Daerah Istimewa Yogyakarta, Provinsi Papua, dan Provinsi Papua Barat, sepanjang tidak diatur lain dalam Undang-Undang tersendiri.",
+                "content": "Ketentuan Peraturan Pemerintah ini berlaku juga bagi pelaksanaan tata\ncara pengusulan dan pengangkatan Wakil Gubernur, Wakil Bupati, dan\nWakil Walikota di Provinsi Aceh, Provinsi Daerah Khusus Ibukota Jakarta,\nDaerah Istimewa Yogyakarta, Provinsi Papua, dan Provinsi Papua Barat,\nsepanjang tidak diatur lain dalam Undang-Undang tersendiri.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "37b311bd-d457-4ad1-af92-e64139b58bcd",
+            "id": "9109071b-2f0a-481c-81d5-3c03d1ff55d7",
             "name": "Article 13",
             "type": "article",
             "children": {
-                "id": "da1202bf-06ea-4fdb-832d-2d60e0760161",
+                "id": "a3a4094c-d00a-4301-aa7b-68ad2a8d3189",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -180,10 +180,10 @@
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
-            "2": " Undang-Undang Nomor 23 Tahun 2014 tentang\nPemerintahan Daerah (Lembaran Negara Republik\nIndonesia Tahun 2014 Nomor 244, Tambahan\nLembaran Negara Republik Indonesia Nomor 5587)\nsebagaimana telah diubah dengan Peraturan\nPemerintah Pengganti Undang-Undang Nomor 2 Tahun\n2014 tentang Perubahan atas Undang-Undang Nomor\n23 Tahun 2014 tentang Pemerintahan Daerah\n(Lembaran Negara Republik Indonesia Tahun 2014\nNomor 246, Tambahan Lembaran Negara Republik Indonesia Nomor 5589);",
-            "3": "  Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan Walikota (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 5588);"
+            "2": " Undang-Undang Nomor 23 Tahun 2014 tentang\nPemerintahan Daerah (Lembaran Negara Republik\nIndonesia Tahun 2014 Nomor 244, Tambahan\nLembaran Negara Republik Indonesia Nomor 5587)\nsebagaimana telah diubah dengan Peraturan\nPemerintah Pengganti Undang-Undang Nomor 2 Tahun\n2014 tentang Perubahan atas Undang-Undang Nomor\n23 Tahun 2014 tentang Pemerintahan Daerah\n(Lembaran Negara Republik Indonesia Tahun 2014\nNomor 246, Tambahan Lembaran Negara Republik\nIndonesia Nomor 5589);",
+            "3": " Peraturan Pemerintah Pengganti Undang-Undang\nNomor 1 Tahun 2014 tentang Pemilihan Gubernur,\nBupati, dan Walikota (Lembaran Negara Republik\nIndonesia Tahun 2014 Nomor 245, Tambahan\nLembaran Negara Republik Indonesia Nomor 5588);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG TATA CARA PENGUSULAN DAN PENGANGKATAN WAKIL GUBERNUR, WAKIL BUPATI, DAN WAKIL WALIKOTA.",
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG TATA CARA\nPENGUSULAN DAN PENGANGKATAN WAKIL GUBERNUR,\nWAKIL BUPATI, DAN WAKIL WALIKΟΤΑ.",
         "tanggal sah": "1 Desember 2014"
     }
 }

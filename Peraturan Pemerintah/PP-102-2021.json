@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "737e92c8-ec78-4b98-b21e-2d01c51c8212",
+            "id": "75d36cc2-3f65-429c-9ae9-38b564f1153e",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "c7897450-584f-4125-bf63-8211ea129969",
+                "id": "f0c696c7-9265-4ff5-9f16-152e43438fdb",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "2b3c73b0-b800-4286-81ef-f3c1021abf72",
+            "id": "bd7f9e34-eca7-4ab8-a60d-55756237ac95",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "eb8f1f97-b983-4df8-8194-bbb7596bab00",
+                "id": "9c014e2a-b1e5-49d7-ab93-8c869d036366",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "c08b7aef-a731-4cb4-b4a6-3eef4c63ec6a",
+            "id": "94f2c890-e72f-4220-bc1f-4f8bd03df3a1",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "63169fae-5a9e-4075-b063-2c36c01c4bf5",
+                "id": "bc4d3975-3f01-4f99-8147-7e334de5ea1e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -51,14 +51,14 @@
         },
         "Mengingat": {
             "Introduction": "",
-            "1": "\nsebagaimana telah diubah dengan Undang-Undang\nNomor 11 Tahun 2020 tentang Cipta Kerja, perlu\nmenetapkan Peraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nIndonesia ke Dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Bahana Pembinaan Usaha\nIndonesia;\nPasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
-            "2": "  Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 70, Tambahan\nLembaran Negara Republik Indonesia Nomor 4297)\nsebagaimana telah diubah dengan Undang-Undang\nNomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran\nNegara Republik Indonesia Tahun 2020 Nomor 245,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6573);",
-            "3": "  Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);",
-            "4": "  Undang-Undang Nomor 40 Tahun 2014 tentang\nPerasuransian (Lembaran Negara Republik Indonesia\nTahun 2014 Nomor 337, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5618);",
-            "5": "  Undang-Undang Nomor 9 Tahun 2020 tentang\nAnggaran Pendapatan dan Belanja Negara Tahun\nAnggaran 2021 (Lembaran Negara Republik Indonesia\nTahun 2020 Nomor 239, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 6570);",
-            "6": "  Peraturan Pemerintah Nomor 44 Tahun 2005 tentang\nTata Cara Penyertaan dan Penatausahaan Modal\nNegara pada Badan Usaha Milik Negara dan Perseroan\nTerbatas (Lembaran Negara Republik Indonesia Tahun\n2005 Nomor 116, Tambahan Lembaran Negara"
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 70, Tambahan\nLembaran Negara Republik Indonesia Nomor 4297)\nsebagaimana telah diubah dengan Undang-Undang\nNomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran\nNegara Republik Indonesia Tahun 2020 Nomor 245,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6573);",
+            "3": " Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);",
+            "4": " Undang-Undang Nomor 40 Tahun 2014 tentang\nPerasuransian (Lembaran Negara Republik Indonesia\nTahun 2014 Nomor 337, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5618);",
+            "5": " Undang-Undang Nomor 9 Tahun 2020 tentang\nAnggaran Pendapatan dan Belanja Negara Tahun\nAnggaran 2021 (Lembaran Negara Republik Indonesia\nTahun 2020 Nomor 239, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 6570);",
+            "6": " Peraturan Pemerintah Nomor 44 Tahun 2005 tentang\nTata Cara Penyertaan dan Penatausahaan Modal\nNegara pada Badan Usaha Milik Negara dan Perseroan\nTerbatas (Lembaran Negara Republik Indonesia Tahun\n2005 Nomor 116, Tambahan Lembaran Negara\nsebagaimana telah diubah dengan Undang-Undang\nNomor 11 Tahun 2020 tentang Cipta Kerja, perlu\nmenetapkan Peraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nIndonesia ke Dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Bahana Pembinaan Usaha\nIndonesia;"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nIndonesia ke Dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Bahana Pembinaan Usaha\nIndonesia;\nPasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2.  Undang-Undang Nomor 19 Tahun 2003 tentang Badan\nUsaha Milik Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 70, Tambahan\nLembaran Negara Republik Indonesia Nomor 4297)\nsebagaimana telah diubah dengan Undang-Undang\nNomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran\nNegara Republik Indonesia Tahun 2020 Nomor 245,\nTambahan Lembaran Negara Republik Indonesia\nNomor 6573);\n3.  Undang-Undang Nomor 1 Tahun 2004 tentang\nPerbendaharaan Negara (Lembaran Negara Republik\nIndonesia Tahun 2004 Nomor 5, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4355);\n4.  Undang-Undang Nomor 40 Tahun 2014 tentang\nPerasuransian (Lembaran Negara Republik Indonesia\nTahun 2014 Nomor 337, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5618);\n5.  Undang-Undang Nomor 9 Tahun 2020 tentang\nAnggaran Pendapatan dan Belanja Negara Tahun\nAnggaran 2021 (Lembaran Negara Republik Indonesia\nTahun 2020 Nomor 239, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 6570);\n6.  Peraturan Pemerintah Nomor 44 Tahun 2005 tentang\nTata Cara Penyertaan dan Penatausahaan Modal\nNegara pada Badan Usaha Milik Negara dan Perseroan\nTerbatas (Lembaran Negara Republik Indonesia Tahun\n2005 Nomor 116, Tambahan Lembaran Negara\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT BAHANA PEMBINAAN USAHA INDONESIA.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang\nPenambahan Penyertaan Modal Negara Republik\nIndonesia ke Dalam Modal Saham Perusahaan\nPerseroan (Persero) PT Bahana Pembinaan Usaha\nIndonesia;\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG PENAMBAHAN\nPENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE\nDALAM MODAL SAHAM PERUSAHAAN PERSEROAN\n(PERSERO) PT BAHANA PEMBINAAN USAHA INDONESIA.",
         "tanggal sah": "6 Oktober 2021"
     }
 }

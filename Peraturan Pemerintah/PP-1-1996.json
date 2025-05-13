@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "16ab675f-9b02-470a-b812-a7a6ac3ab40e",
+            "id": "cf8002ff-8a83-4d7f-ae7c-482eebcc1635",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "2c319699-de93-4cc6-be4f-9d01cce459c5",
+                "id": "87a3e765-53bd-4875-b25f-62428b70a74f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,24 +14,24 @@
             }
         },
         {
-            "id": "9eb816bb-52ba-4ca2-9797-b51782bd0b0d",
+            "id": "6ee93897-c1c7-4bbe-afbe-7ad9b56bfcef",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "961aede2-c6de-4117-968d-3df6cb28b761",
+                "id": "14f90fd8-d907-48b5-962d-ffcc924c7243",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Membentuk Kecamatan Torgamba di wilayah Kabupaten Daerah\nTingkat II Labuhan Batu, yang meliputi wilayah :\na.  Desa Aek Batu;\nb. Desa Teluk Rambah;\nc. Desa Bangai;\nd. Desa Rasau;\ne. Desa Bunut;\nf. Desa Pangarungan.\n(2) Wilayah Kecamatan Torgamba sebagaimana dimaksud dalam ayat\n(1) semula merupakan bagian dari wilayah Kecamatan Kota Pinang.",
+                "content": "(1) Membentuk Kecamatan Torgamba di wilayah Kabupaten Daerah\nTingkat II Labuhan Batu, yang meliputi wilayah :\na. Desa Aek Batu;\nb. Desa Teluk Rambah;\nc. Desa Bangai;\nd. Desa Rasau;\ne. Desa Bunut;\nf. Desa Pangarungan.\n(2) Wilayah Kecamatan Torgamba sebagaimana dimaksud dalam ayat\n(1) semula merupakan bagian dari wilayah Kecamatan Kota Pinang.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "22c8ba02-d97e-439e-9ef2-aee0b48de739",
+            "id": "01a57d63-3910-400d-937f-c9e6149078dc",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "fc9c4abf-83ca-4be6-bc5a-5c4f5018ed6e",
+                "id": "577cfe49-832c-4798-8110-422cb7f8003b",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "2614d650-f3de-4d27-b450-86b74619581a",
+            "id": "a6cfff55-fe95-4209-a774-75ed9ecbeed1",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "46337a12-7940-4f1d-b91f-407400dfd089",
+                "id": "df201f51-30a9-4342-bfd6-38a8c3b8207d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,76 +53,76 @@
             }
         },
         {
-            "id": "357b3348-b288-433f-8968-35cbcd6e4f0d",
+            "id": "2d63e19c-cd95-4a6a-a6be-65dda3bb0f07",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "ff373b04-e989-48ca-b73b-c361c6d058a1",
+                "id": "57c3e655-78f9-4f59-a495-17f8889fbd22",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Membentuk Kecamatan Bilah Barat di wilayah Kabupaten Daerah\nTingkat II Labuhan Batu, yang meliputi wilayah :\na. Desa Janji;\nb. Desa Tanjung Medan;\nc. Desa Sibargot;\nd. Desa Bandar Kumpul;\ne. Desa Afdeling I;\nf. Desa Afdeling II;\ng. Desa Aek Buru Selatan;\nh. Desa Tebing Linggahara;\n(2) Wilayah Kecamatan Bilah Barat sebagaimana dimaksud dalam ayat\n(1), semula merupakan bagian dari wilayah Kecamatan Bilah Hulu.\n(3) Dengan dibentuknya Kecamatan Bilah Barat, maka wilayah\nKecamatan Bilah Barat, maka wilayah Kecamatan Bilah Hulu\ndikurangi dengan wilayah Kecamatan Wilayah Bilah Barat\nsebagaimana dimaksud dalam ayat (1).\n",
+                "content": "(1) Membentuk Kecamatan Bilah Barat di wilayah Kabupaten Daerah\nTingkat II Labuhan Batu, yang meliputi wilayah :\na.Desa Janji;\nb.Desa Tanjung Medan;\nc.Desa Sibargot;\nd.Desa Bandar Kumpul;\ne.Desa Afdeling I;\nf.Desa Afdeling II;\ng.Desa Aek Buru Selatan;\nh.Desa Tebing Linggahara;\n(2) Wilayah Kecamatan Bilah Barat sebagaimana dimaksud dalam ayat\n(1), semula merupakan bagian dari wilayah Kecamatan Bilah Hulu.\n(3)Dengan dibentuknya Kecamatan Bilah Barat, maka wilayah\nKecamatan Bilah Barat, maka wilayah Kecamatan Bilah Hulu\ndikurangi dengan wilayah Kecamatan Wilayah Bilah Barat\nsebagaimana dimaksud dalam ayat (1).\n",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "ebae965c-7274-4a69-b2f0-a08d5a0831a6",
+            "id": "2e5bb870-feab-473b-af13-6c814262e97b",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "13dacd83-ba11-4ed1-b977-8abb1741bb79",
+                "id": "92fa4cc1-21b1-40b5-a851-ab16db7c0131",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Membentuk Kecamatan Halongonan di wilayah Kabupaten Daerah\nTingkat II Tapanuli Selatan, yang meliputi wilayah :\na. Desa Huta Imbaru I;\nb. Desa Hutanopan;\nc. Desa Hambulo;\nd. Desa Sipenggeng;\ne. Desa Paolan;\nf. Desa Balimbing;\ng. Desa Sitabola:\nh. Desa Japinulik;\ni. Desa Rondaman Sidoruregar;\nj. Desa Pangirkiran;\nk. Desa Sitonun;\n1. Desa Tapus Jae;\nm. Desa Saba;\nn. Desa Paran Honas:\n0. Desa Hasahatan;\np. Desa Purba Tua;\nq. Desa Sandean Julu:\nг. Desa Sandean Tonga;\nS. Desa Sandean Jae:\nt. Desa Siboru Angin;\nu. Desa Pagar Gunung;\nV. Desa Pangarambang;\nW. Desa Hite Urat;\nΧ. Desa Silantoyung;\ny. Desa Napa Lancat;\nZ. Desa Halongonan;\n\naa. Desa Siringki Jae;\nbb. Desa Sipaho;\ncc. Desa Pasir Bara;\ndd. Desa Bargot Topong Julu;\nee. Desa Gunung Intan;\nff. Desa Gunung Manaon III;\ngg. Desa Siring Julu;\nhh. Desa Bargot Topong Jae;\nii. Desa Ujung Padang;\njj. Desa Sigalagala;\nkk. Desa Rondaman:\n11. Desa Mompang I;\nmm. Desa Siancimun;\nnn. Desa Sihopuk Baru;\noo. Desa Sihopuk Lama;\npp. Desa Hutabaru Nangka;\nqq. Desa Situmbaga;\nгг. Desa Bolatan.\n(2) Wilayah Kecamatan Halongonan sebagaimana dimaksud dalam ayat\n(1), semula merupakan bagian dari wilayah Kecamatan Padang\nBolak.\n(3) Dengan dibentuknya Kecamatan Halongonan, maka wilayah\nKecamatan Padang Bolak dikurangi dengan wilayah Kecamatan\nHalongonan sebagaimana dimaksud dalam ayat (1).\n",
+                "content": "(1) Membentuk Kecamatan Halongonan di wilayah Kabupaten Daerah\nTingkat II Tapanuli Selatan, yang meliputi wilayah :\na. Desa Huta Imbaru I;\nb. Desa Hutanopan;\nc. Desa Hambulo;\nd. Desa Sipenggeng;\ne. Desa Paolan;\nf. Desa Balimbing;\ng. Desa Sitabola:\nh. Desa Japinulik;\ni. Desa Rondaman Sidoruregar;\nj. Desa Pangirkiran;\nk. Desa Sitonun;\nl. Desa Tapus Jae;\nm. Desa Saba;\nn. Desa Paran Honas:\no. Desa Hasahatan;\np. Desa Purba Tua;\nq. Desa Sandean Julu:\nr. Desa Sandean Tonga;\ns. Desa Sandean Jae:\nt. Desa Siboru Angin;\nu. Desa Pagar Gunung;\nv. Desa Pangarambang;\nw. Desa Hite Urat;\nx. Desa Silantoyung;\ny. Desa Napa Lancat;\nz. Desa Halongonan;\n\naa. Desa Siringki Jae;\nbb. Desa Sipaho;\ncc. Desa Pasir Bara;\ndd. Desa Bargot Topong Julu;\nee. Desa Gunung Intan;\nff. Desa Gunung Manaon III;\ngg. Desa Siring Julu;\nhh. Desa Bargot Topong Jae;\nii. Desa Ujung Padang;\njj. Desa Sigalagala;\nkk. Desa Rondaman:\nll. Desa Mompang I;\nmm. Desa Siancimun;\nnn. Desa Sihopuk Baru;\noo. Desa Sihopuk Lama;\npp. Desa Hutabaru Nangka;\nqq. Desa Situmbaga;\nгг. Desa Bolatan.\n(2) Wilayah Kecamatan Halongonan sebagaimana dimaksud dalam ayat (1), semula merupakan bagian dari wilayah Kecamatan Padang Bolak.\n(3) Dengan dibentuknya Kecamatan Halongonan, maka wilayah Kecamatan Padang Bolak dikurangi dengan wilayah Kecamatan Halongonan sebagaimana dimaksud dalam ayat (1).\n",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "350e1d8d-e7b5-41b0-942e-ba02323cfdeb",
+            "id": "a3ee243a-c19e-4914-a9fe-bd73f71ededd",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "c4457e80-d6eb-484e-9d82-aea6a762e66c",
+                "id": "1e531825-3f5a-40b3-b247-22d366bccecc",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Membentuk Kecamatan Amandraya di wilayah Kabupaten Daerah Tingkat II Nias, yang meliputi wilayah :\na. Desa Tuindrao;\nb. Desa Lolomoyo;\nc. Desa Hilifadolo;\nd. Desa Ramba-ramba;\ne. Desa Sisobahili;\nf. Desa Fondrake Raya;\ng. Desa Orahili Eho;\nh. Desa Sisarahili Susua;\ni. Desa Hiliorudua;\nj. Desa Hilitotao;\nk. Desa Hilifalawu;\nl. Desa Hiliamozula;\nm. Desa Sisobambowo:\nn. Desa Hilimbulawa;\no. Desa Sifaoroasi;\np. Desa Hilihoru;\nq. Desa Hilimbowo;\nr. Desa Lolozaria.\n(2) Wilayah Kecamatan Amandraya sebagaimana dimaksud dalam ayat (1), semula merupakan bagian dari wilayah Kecamatan Teluk Dalam.\n\n(3) Dengan dibentuknya Kecamatan Amandraya, maka wilayah Kecamatan Teluk Dalam dikurangi dengan wilayah Kecamatan Amandraya sebagaimana dimaksud dalam ayat (1).",
+                "content": "(1) Membentuk Kecamatan Amandraya di wilayah Kabupaten Daerah\nTingkat II Nias, yang meliputi wilayah :\na. Desa Tuindrao;\nb. Desa Lolomoyo;\nc. Desa Hilifadolo;\nd. Desa Ramba-ramba;\ne. Desa Sisobahili;\nf. Desa Fondrake Raya;\ng. Desa Orahili Eho;\nh. Desa Sisarahili Susua;\ni. Desa Hiliorudua;\nj. Desa Hilitotao;\nk. Desa Hilifalawu;\n1. Desa Hiliamozula;\nm. Desa Sisobambowo:\nn. Desa Hilimbulawa;\no. Desa Sifaoroasi;\np. Desa Hilihoru;\nq. Desa Hilimbowo;\nг. Desa Lolozaria.\n(2) Wilayah Kecamatan Amandraya sebagaimana dimaksud dalam ayat\n(1), semula merupakan bagian dari wilayah Kecamatan Teluk\nDalam.\n\n(3) Dengan dibentuknya Kecamatan Amandraya, maka wilayah\nKecamatan Teluk Dalam dikurangi dengan wilayah Kecamatan\nAmandraya sebagaimana dimaksud dalam ayat (1).",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "aebae8ee-c7b5-40ff-9ffe-178b7772a72f",
+            "id": "72095de3-a2ae-4bd4-8085-2c285fedabf8",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "9181d392-1bb6-4eb0-af0b-3d81500f9756",
+                "id": "7716fdd6-8ac1-4d5f-9736-93d352419252",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Membentuk Kecamatan Lolomatua di wilayah Kabupaten Daerah Tingkat II Nias, yang meliputi wilayah:\na. Desa Hiliotalua;\nb. Desa lawa-lawaluo;\nc. Desa Hilisangawola;\nd. Desa Tesikhori;\ne. Desa Sifaoro'asi;\nf. Desa Lalimanawa;\ng. Desa Tundrumbaho;\nh. Desa Sisarahili Huruna:\ni. Desa Sifalago;\nj. Desa Hili'uso;\nk. Desa Koendrafo:\nl. Desa Marao;\nm. Desa Tuhemberua;\nn. Desa Orahili Ulunoyo;\no. Desa Sambulu;\np. Desa Hiliwaebu;\nq. Desa Amorosa;\nr. Desa Loloana'a.\n(2) Wilayah Kecamatan Lolomatua sebagaimana dimaksud dalam ayat (1), semula merupakan bagian dari wilayah Kecamatan Lolowau.\n\n(3) Dengan dibentuknya Kecamatan Lolomatua, maka wilayah Kecamatan Lolowau dikurangi dengan wilayah Kecamatan Lolomatua sebagaimana dimaksud dalam ayat (1).",
+                "content": "(1) Membentuk Kecamatan Lolomatua di wilayah Kabupaten Daerah\nTingkat II Nias, yang meliputi wilayah :\na. Desa Hiliotalua;\nb. Desa lawa-lawaluo;\nc. Desa Hilisangawola;\nd. Desa Tesikhori;\ne. Desa Sifaoro'asi;\nf. Desa Lalimanawa;\ng. Desa Tundrumbaho;\nh. Desa Sisarahili Huruna:\ni. Desa Sifalago;\nj. Desa Hili'uso;\nk. Desa Koendrafo:\n1. Desa Marao;\nm. Desa Tuhemberua;\nn. Desa Orahili Ulunoyo;\no. Desa Sambulu;\np. Desa Hiliwaebu;\nq. Desa Amorosa;\nг. Desa Loloana'a.\n(2) Wilayah Kecamatan Lolomatua sebagaimana dimaksud dalam ayat\n(1), semula merupakan bagian dari wilayah Kecamatan Lolowau.\n\n(3) Dengan dibentuknya Kecamatan Lolomatua, maka wilayah\nKecamatan Lolowau dikurangi dengan wilayah Kecamatan\nLolomatua sebagaimana dimaksud dalam ayat (1).",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "39b7d808-7a9f-496c-97d7-cc975e27d874",
+            "id": "775213d5-9c30-4a66-b6c8-e40cf2e142cf",
             "name": "Article 9",
             "type": "article",
             "children": {
-                "id": "1493bb7d-a567-4b96-bc7c-b4fce1398d91",
+                "id": "a5199d15-f420-4623-9d2e-b9e29b742f61",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Membentuk Kecamatan Tapian Nauli di wilayah Kabupaten Daerah Tingkat II Tapanuli Tengah, yang meliputi wilayah :\na. Desa Tapian Nauli I;\nb. Desa Tapian Nauli II;\nc. Desa Tapian Nauli III;\nd. Desa Tapian Nauli IV;\ne. Desa Aloban Bair;\nf. Desa Mela Dolok;\ng. Desa Nauli;\nh. Desa Rampa;\ni. Desa Bonan Dolok;\nj. Desa Mela.\n(2) Wilayah Kecamatan Tapian Nauli sebagaimana dimaksud dalam ayat (1), semula merupakan bagian dari wilayah Kecamatan Sibolga.\n(3) Dengan dibentuknya Kecamatan Tapian Nauli, maka wilayah Kecamatan Sibolga dikurangi dengan wilayah Kecamatan Tapian Nauli sebagaimana dimaksud dalam ayat (1).",
+                "content": "(1) Membentuk Kecamatan Tapian Nauli di wilayah Kabupaten Daerah\nTingkat II Tapanuli Tengah, yang meliputi wilayah :\na. Desa Tapian Nauli I;\nb. Desa Tapian Nauli II;\nc. Desa Tapian Nauli III;\nd. Desa Tapian Nauli IV;\ne. Desa Aloban Bair;\nf. Desa Mela Dolok;\ng. Desa Nauli;\nh. Desa Rampa;\ni. Desa Bonan Dolok;\nj. Desa Mela.\n(2) Wilayah Kecamatan Tapian Nauli sebagaimana dimaksud dalam\nayat (1), semula merupakan bagian dari wilayah Kecamatan\nSibolga.\n(3) Dengan dibentuknya Kecamatan Tapian Nauli, maka wilayah\nKecamatan Sibolga dikurangi dengan wilayah Kecamatan Tapian\nNauli sebagaimana dimaksud dalam ayat (1).",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "7e621432-42a1-46e4-8f9e-d9fceb0cd569",
+            "id": "dbc29947-c498-47c8-bdc8-73d1dbcd171f",
             "name": "Article 10",
             "type": "article",
             "children": {
-                "id": "bfa7e5c6-a622-4c80-bf90-323c8650db2b",
+                "id": "b5b64306-4413-4342-8568-079ffefd8916",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -131,11 +131,11 @@
             }
         },
         {
-            "id": "45d6c9f1-0cc7-4af0-b8b1-9e447955a5ca",
+            "id": "7e433d50-7603-4061-bc3f-e9e3894016c7",
             "name": "Article 11",
             "type": "article",
             "children": {
-                "id": "26bbe526-e24c-43b0-90f0-d099ceb79dfc",
+                "id": "b8861de1-dced-4269-8d98-775228bce057",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -144,11 +144,11 @@
             }
         },
         {
-            "id": "ca1f37a6-3fa6-4983-9813-c8bf67ad62de",
+            "id": "968e7a50-2f17-49d9-bef7-2b454576977d",
             "name": "Article 12",
             "type": "article",
             "children": {
-                "id": "3244dde1-0c96-491f-b51e-83f770a9f4c9",
+                "id": "6ab21215-9342-4097-86d4-926d9cec6c37",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -157,54 +157,54 @@
             }
         },
         {
-            "id": "8d7eccc9-039b-4de4-adc2-0e6045dfdedb",
+            "id": "b8c65b70-975b-4f45-b6e6-543518dfbfd5",
             "name": "Article 13",
             "type": "article",
             "children": {
-                "id": "1e5a2756-5d0d-46ef-addc-0c50908f3b3d",
+                "id": "29ed7f1c-bbb1-4ba0-9506-509af9173ede",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Pemecahan, penyatuan, penghapusan, serta perubahan nama dan\nbatas/Desa Kelurahan dalam Kecamatan-kecamatan yang ditetapkan\ndalam Peraturan Pemerintah ini sepanjang tidak mengakibatkan\nperubahan batas wilayah Kecamatan, diatur dengan Peraturan Daerah\nsesuai pedoman yang ditetapkan oleh Menteri Dalam Negeri.",
+                "content": "Pemecahan, penyatuan, penghapusan, serta perubahan nama dan batas/Desa Kelurahan dalam Kecamatan-kecamatan yang ditetapkan dalam Peraturan Pemerintah ini sepanjang tidak mengakibatkan perubahan batas wilayah Kecamatan, diatur dengan Peraturan Daerah sesuai pedoman yang ditetapkan oleh Menteri Dalam Negeri.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "a00d14bf-693f-44da-b1d3-84ab70b56c76",
+            "id": "c952044a-7fe8-41e3-b2e4-24de60b85c3c",
             "name": "Article 14",
             "type": "article",
             "children": {
-                "id": "e007cd0d-8620-4884-a952-c26ed7dec06a",
+                "id": "f3e75cb6-dfaa-443f-b635-5bad91a5b089",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Ketentuan pelaksanaan Peraturan Pemerintah ini diatur oleh\nMenteri Dalam Negeri berdasarkan peraturan perundang-undangan\nyang berlaku.\n(2) Segala sesuatu yang berkenaan dengan dan sebagai akibat dari\npembentukan 9 (sembilan) Kecamatan sebagaimana dimaksud\ndalam Peraturan Pemerintah ini diatur oleh Gubernur Kepala\nDaerah Tingkat I Sumatera Utara sesuai dengan Peraturan\nperundang-undangan dan dengan memperhitungkan kemampuan\nkeuangan Pemerintah Pusat dan/atau Pemerintah Daerah Tingkat I\nSumatera Utara.",
+                "content": "(1) Ketentuan pelaksanaan Peraturan Pemerintah ini diatur oleh Menteri Dalam Negeri berdasarkan peraturan perundang-undangan yang berlaku.\n(2) Segala sesuatu yang berkenaan dengan dan sebagai akibat dari pembentukan 9 (sembilan) Kecamatan sebagaimana dimaksud dalam Peraturan Pemerintah ini diatur oleh Gubernur Kepala Daerah Tingkat I Sumatera Utara sesuai dengan Peraturan perundang-undangan dan dengan memperhitungkan kemampuan keuangan Pemerintah Pusat dan/atau Pemerintah Daerah Tingkat I Sumatera Utara.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "95b7b7d3-ba5b-44b6-9cd7-c122737dff3e",
+            "id": "d4d73a00-df84-4c38-8512-9f9c7d22427f",
             "name": "Article 15",
             "type": "article",
             "children": {
-                "id": "f4a48d59-16ec-4100-9807-1511d3d50442",
+                "id": "a9a9ff99-3da8-4c25-adc7-83ae94043d21",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Segala ketentuan dalam Peraturan Perundang-undangan yang mengatur\ntentang pembentukan dan perubahan batas Kecamatan dalam wilayah\nDaerah Tingkat I Sumatera Utara yang tidak sesuai dengan ketentuan\ndalam Peraturan Pemerintah ini dinyatakan tidak berlaku.\n",
+                "content": "Segala ketentuan dalam Peraturan Perundang-undangan yang mengatur tentang pembentukan dan perubahan batas Kecamatan dalam wilayah Daerah Tingkat I Sumatera Utara yang tidak sesuai dengan ketentuan dalam Peraturan Pemerintah ini dinyatakan tidak berlaku.\n",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "d4216672-e473-4a1b-a191-51c9f23ef139",
+            "id": "0cddcf41-8dbd-47f8-b4a9-65977335d27e",
             "name": "Article 16",
             "type": "article",
             "children": {
-                "id": "3b24f560-69c9-499b-a496-7f954576fad7",
+                "id": "a6fd25f1-eb5d-45fa-b477-d4d82a4007de",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }
@@ -221,11 +221,9 @@
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Undang-undang Darurat Nomor 7 Tahun 1956 tentang Pembentukan\nDaerah Otonom Kabupaten-kabupaten Dalam Lingkungan Daerah\nPropinsi Sumatera Utara (Lembaran Negara Tahun 1956 Nomor 58);",
-            "3": " Undang-undang Nomor 24 Tahun 1956 tentang Pembentukan Daerah\nOtonom Propinsi Aceh dan Perubahan Peraturan Pembentukan\nPropinsi Sumatera Utara (Lembaran Negara Tahun 1956 Nomor 64);",
-            "4": " Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok\nPemerintahan Di Daerah (Lembaran Negara Tahun 1974 Nomor 38,\nTambahan Lembaran Negara Nomor 3037);"
+            "2": " Undang-undang Darurat Nomor 7 Tahun 1956 tentang Pembentukan\nDaerah Otonom Kabupaten-kabupaten Dalam Lingkungan Daerah\nPropinsi Sumatera Utara (Lembaran Negara Tahun 1956 Nomor 58);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PEMBENTUKAN 9\n(SEMBILAN) KECAMATAN DI WILAYAH KABUPATEN DAERAH\nTINGKAT II LABUHAN BATU, TAPANULI SELATAN, NIAS DAN\nTAPANULI TENGAH DALAM WILAYAH PROPINSI DAERAH\nTINGKAT I SUMATERA UTARA.",
+        "Menetapkan": "\n3. Undang-undang Nomor 24 Tahun 1956 tentang Pembentukan Daerah\nOtonom Propinsi Aceh dan Perubahan Peraturan Pembentukan\nPropinsi Sumatera Utara (Lembaran Negara Tahun 1956 Nomor 64);\n4. Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok\nPemerintahan Di Daerah (Lembaran Negara Tahun 1974 Nomor 38,\nTambahan Lembaran Negara Nomor 3037);\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG PEMBENTUKAN 9\n(SEMBILAN) KECAMATAN DI WILAYAH KABUPATEN DAERAH\nTINGKAT II LABUHAN BATU, TAPANULI SELATAN, NIAS DAN\nTAPANULI TENGAH DALAM WILAYAH PROPINSI DAERAH\nTINGKAT I SUMATERA UTARA.",
         "tanggal sah": "3 Januari 1996"
     }
 }

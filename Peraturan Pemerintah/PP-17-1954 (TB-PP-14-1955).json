@@ -1,0 +1,121 @@
+{
+    "results": [
+        {
+            "id": "3725cf47-d46d-4cf4-8525-bf433c712b0d",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "3a89b51c-9faf-4915-be4d-ab74d3d344ba",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Penyempurnaan yang dimaksud di sini berupa mempereratkan kerjasama\npara Menteri yang berkepentingan dalam pengembalian keamanan\nNegara. Selanjutnya cukup jelas sesuatu yang diuraikan dalam\nPenjelasan Umum.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "5f8db127-93c0-4bb6-865e-00ed98b3ea49",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "a4788beb-a77a-42f7-8d53-07dfdee450c5",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "bf53257f-4b57-4dfe-956f-b4e720c5d0c0",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "db71f346-072e-4931-9ee6-80cec1af7bf6",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas. Lihat Penjelasan Umum.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "b9843006-357f-47a3-9e62-cf4b380083b8",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "9ee3a9e1-3387-487e-9ed0-c5a787494ed5",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Bahwasanya tugas KKD adalah terbatas, lihat Penjelasan Umum.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "49bd7a18-a64d-4a4a-ab50-5504022902de",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "3f7b717b-4091-4ebc-8c19-c345cdbddcfb",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Tidak membutuhkan penjelasan lebih lanjut, di samping Penjelasan\nUmum.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "c83d78cc-e470-4a9a-9d67-1db32c9a6bdd",
+            "name": "Article 6",
+            "type": "article",
+            "children": {
+                "id": "9d19b24a-45ac-4a00-bf6c-44bb4298a302",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "ff7c6f31-a681-4944-a895-f2d72ecf6cdc",
+            "name": "Article 7",
+            "type": "article",
+            "children": {
+                "id": "7a47cda6-0772-4fcb-9b4f-05a77ad0bb4c",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Cukup jelas.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "42820a65-9344-4ca5-a868-9fa6d76b7f04",
+            "name": "Article 8",
+            "type": "article",
+            "children": {
+                "id": "f27cdcfc-134f-4b8d-96b8-a9b38cd7f62c",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Lihat Penjelasan Umum.\n",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "17",
+        "Tahun": "1954",
+        "Tentang": "DEWAN KEAMANAN NASIONAL",
+        "Menimbang": {
+            "Introduction": "\nNot Available"
+        },
+        "Mengingat": {
+            "Introduction": "\nNot Available"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG DEWAN KEAMANAN NASIONAL.",
+        "tanggal sah": ""
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "results": [
+        {
+            "id": "38e14067-049c-4009-b43f-47f0f4183e70",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "5048f8b4-fd7e-4abe-bb2c-fbdc2023e9fd",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "059dabd3-69bd-4023-bbdb-508c02578907",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "5974735d-b7cc-49c3-9cb1-8ef4e393be56",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "fd2649bd-e797-4b37-82d0-a81c04f01668",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "24b16583-0647-4039-b69f-c93d19de668f",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "1e1609f4-2f3f-4820-a6d1-39990e1dd813",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "12",
+        "Tahun": "2009",
+        "Tentang": "PERUBAHAN KELIMA ATAS\nPERATURAN PEMERINTAH NOMOR 34 TAHUN 1985\nTENTANG PEMBERIAN TUNJANGAN VETERAN\nKEPADA VETERAN REPUBLIK INDONESIA",
+        "Menimbang": {
+            "Introduction": "\nbahwa besaran Tunjangan Veteran dalam Peraturan\nPemerintah Nomor 34 Tahun 1985 sebagaimana telah\nempat kali diubah terakhir dengan Peraturan Pemerintah\nNomor 34 Tahun 2008, tidak sesuai lagi dengan\nperkembangan keadaan, sehingga perlu mengubah\nbesaran Tunjangan Veteran dengan Peraturan\nPemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 7 Tahun 1967 tentang\nVeteran Republik Indonesia (Lembaran Negara\nRepublik Indonesia Tahun 1967 Nomor 17,\nTambahan Lembaran Negara Republik Indonesia\nNomor 2826);",
+            "3": " Peraturan Pemerintah Nomor 38 Tahun 1958 tentang\nPendaftaran Penyaringan dan Pengakuan Veteran\nPejuang Kemerdekaan Republik Indonesia (Lembaran\nNegara Republik Indonesia Tahun 1958 Nomor 65,\nTambahan Lembaran Negara Republik Indonesia\nNomor 1609);",
+            "4": " Peraturan Pemerintah Nomor 34 Tahun 1985 tentang\nPemberian Tunjangan Veteran Kepada Veteran\nRepublik Indonesia (Lembaran Negara Republik\nIndonesia Tahun 1985 Nomor 49) sebagaimana telah\nempat kali diubah terakhir dengan Peraturan\nPemerintah Nomor 34 Tahun 2008 (Lembaran Negara\nRepublik Indonesia Tahun 2008 Nomor 67);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN\nKELIMA ATAS PERATURAN PEMERINTAH NOMOR 34\nTAHUN 1985 TENTANG PEMBERIAN TUNJANGAN\nVETERAN KEPADA VETERAN REPUBLIK INDONESIA.",
+        "tanggal sah": "16 Januari 2009"
+    }
+}

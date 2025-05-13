@@ -1,0 +1,56 @@
+{
+    "results": [
+        {
+            "id": "696880b4-0b27-4886-8e99-b06f4e062a74",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "dfdfc1a0-bddc-4e98-9ed9-6da0d9b133a1",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "2804de3f-5db1-4113-9e0f-6dc9e68113d7",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "d0ffa1be-9bcc-4c29-a9e1-61d8f78d6dd7",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "6ac221e6-fa2c-4044-8d42-3131b5cef045",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan dan\nmempunyai daya laku surut sejak tanggal 1 Januari 1993.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "18",
+        "Tahun": "1993",
+        "Tentang": "PERUBAHAN PERATURAN PEMERINTAH NOMOR 50 TAHUN 1980\nTENTANG HAK KEUANGAN/ADMINISTRATIF MENTERI NEGARA\nDAN BEKAS MENTERI NEGARA SERTA JANDA/DUDANYA\nSEBAGAIMANA TELAH DUA KALI DIUBAH, TERAKHIR DENGAN\nPERATURAN PEMERINTAH NOMOR 54 TAHUN 1992",
+        "Menimbang": {
+            "Introduction": "\nbahwa gaji pokok Menteri Negara sebagaimana ditetapkan dalam\nPeraturan Pemerintah Nomor 54 Tahun 1992, dipandang tidak sesuai lagi\ndengan perkembangan keadaan, sehingga perlu diperbaiki;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 8 Tahun 1974 tentang Pokok-pokok\nKepegawaian (Lembaran Negara Tahun 1974 Nomor 55, Tambahan\nLembaran Negara Nomor 3041);",
+            "3": " Peraturan Pemerintah Nomor 50 Tahun 1980 tentang Hak\nKeuangan/Administratif Menteri Negara dan Bekas Menteri Negara\nSerta Janda/Dudanya (Lembaran Negara Tahun 1980 Nomor 78,\nTambahan Lembaran Negara Nomor 3184);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG\nPERUBAHAN PERATURAN PEMERINTAH NOMOR 50 TAHUN\n1980 TENTANG HAK KEUANGAN/ADMINISTRATIF MENTERI\nNEGARA DAN BEKAS MENTERI NEGARA SERTA\nJANDA/DUDANYA SEBAGAIMANA TELAH BEBERAPA KALI\nDIUBAH, TERAKHIR DENGAN PERATURAN PEMERINTAH\nNOMOR 54 TAHUN 1992.",
+        "tanggal sah": "1 Januari 1993"
+    }
+}

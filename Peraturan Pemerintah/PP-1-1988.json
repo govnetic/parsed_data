@@ -1,168 +1,189 @@
 {
     "results": [
         {
-            "id": "9200f523-5f90-49c0-a292-b398c248aba8",
+            "id": "3d167e50-9039-4585-a0a1-0b8cfe82d108",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "09675bb3-e064-43db-8e70-2d408f9a5ce7",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "0d15e592-829d-498b-a5a3-b46da01939fe",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Dokter dan dokter gigi adalah dokter umum dan dokter gigi termasuk dokter spesialis dan\ndokter gigi spesialis;\n2. Surat Izin Praktek (SIP) adalah izin yang diberikan kepada dokter dan dokter gigi yang\nmenjalankan praktek setelah memenuhi persyaratan;",
+                        "explanation": "\nCukup jelas"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "dca69732-4225-406e-99dd-730eefd62575",
             "name": "Chapter II",
             "title": "\nPELAPORAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6f94b3e2-8177-463d-bf65-de9fd25e36d5",
+                    "id": "d78becf5-d181-441e-8f4c-c26d9bcd3e8f",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5f6e6bf3-b816-4de0-8b80-24b3436ec259",
+                            "id": "a726ae32-85fd-48b3-93a1-00e5964f1ca4",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Pimpinan Perguruan Tinggi wajib menyampaikan laporan secara tertulis kepada Menteri Kesehatan yang berisikan daftar dokter dan dokter gigi yang baru lulus, selambat-lambatnya dalam waktu 1 (satu) bulan sesudah diberikannya ijazah asli.",
+                            "content": " Pimpinan Perguruan Tinggi wajib menyampaikan laporan secara tertulis kepada Menteri\nKesehatan yang berisikan daftar dokter dan dokter gigi yang baru lulus, selambat-\nlambatnya dalam waktu 1 (satu) bulan sesudah diberikannya ijazah asli.",
                             "explanation": "\nLaporan ini sangat diperlukan untuk mengetahui jumlah dokter dan dokter gigi\nsetiap periode tertentu, dalam rangka perencanaan pendayagunaan dan\npenyebaran dokter dan dokter gigi di wilayah Republik Indonesia dalam\npelaksanaan wajib masa bakti. Pembatasan jangka waktu 1 (satu) bulan,\ndimaksudkan agar jumlah lulusan dokter dan dokter gigi dapat segera diketahui\nbagi keperluan penyusunan rencana tersebut di atas. Dalam laporan tersebut\ndicantumkan antara lain nama, jenis kelamin, alamat lengkap, status, bulan dan\ntahun lulus dokter dan dokter gigi. Pencantuman data tersebut dimaksudkan\nuntuk memudahkan menghubungi dokter dan dokter gigi yang. bersangkutan\nataupun bagi perencanaan dalam rangka penugasan pelaksanaan kewajiban\nmasa bakti. Laporan tersebut tembusannya disampaikan pula kepada masing-\nmasing dokter dan dokter gigi yang bersangkutan untuk diketahui. Yang\ndimaksud dengan Perguruan Tinggi dalam Peraturan.Pemerintah ini adalah\nlembaga pendidikan tinggi, apapun namanya, yang menyelenggarakan\npendidikan kedokteran."
                         },
                         {
-                            "id": "c8cbb8c4-bf71-4a05-a867-20dd075f05aa",
+                            "id": "fba4ddb2-de50-4f81-b338-df2f604091db",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Berdasarkan laporan sebagaimana dimaksud dalam ayat (1) Menteri atau pejabat yang ditunjuk meminta kepada dokter dan dokter gigi yang bersangkutan untuk melengkapi persyaratan dalam rangka penugasan masa bakti.",
+                            "content": " Berdasarkan laporan sebagaimana dimaksud dalam ayat (1) Menteri atau pejabat yang\nditunjuk meminta kepada dokter dan dokter gigi yang bersangkutan untuk melengkapi\npersyaratan dalam rangka penugasan masa bakti.",
                             "explanation": "\nKelengkapan persyaratan yang dimaksud misalnya ijazah, surat keterangan\nsehat dari dokter yang berwenang, dan lain-lain yang diperlukan bagi penugasan\ntersebut."
                         },
                         {
-                            "id": "3e78f00a-f816-4690-8d51-464f5e0190a7",
+                            "id": "52f5787c-2ff2-4e55-a0c6-d29ee7c77b5d",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Dokter dan dokter gigi lulusan perguruan tinggi luar negeri wajib melaporkan diri kepada Departemen Kesehatan selambat-lambatnya 6 (enam) bulan sesudah tiba di Indonesia.",
+                            "content": " Dokter dan dokter gigi lulusan perguruan tinggi luar negeri wajib melaporkan diri kepada\nDepartemen Kesehatan selambat-lambatnya 6 (enam) bulan sesudah tiba di Indonesia.",
                             "explanation": "\nMelaporkan diri dimaksudkan untuk mendapatkan pengarahan dari Departemen\nKesehatan yang berkaitan dengan penyesuaian ilmu pengetahuan yang\ndiperoleh dari luar negeri dengan ilmu pengetahuan yang sesuai untuk\nmelakukan pekerjaan dokter atau dokter gigi di Indonesia. Setelah dinyatakan\nselesai melakukan penyesuaian ilmu pengetahuan tersebut, yang bersangkutan\nwajib melengkapi persyaratan dalam rangka penugasan wajib masa bakti dalam\nbatas waktu selambat-lambatnya 6 (enam) bulan."
                         },
                         {
-                            "id": "a75ef317-529f-461b-b8db-9baa135c0f8f",
+                            "id": "4a8c3dbb-0160-42dc-a9d1-d2d07f6f46f1",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Ketentuan mengenai pelaporan sebagaimana dimaksud dalam ayat (1) dan ayat (3) diatur oleh Menteri.",
+                            "content": " Ketentuan mengenai pelaporan sebagaimana dimaksud dalam ayat (1) dan ayat (3) diatur\noleh Menteri.",
                             "explanation": ""
                         }
                     ]
                 },
                 {
-                    "id": "c9501e11-e56b-43d7-9b86-560c1156f32f",
+                    "id": "48a4e0d9-9364-4ec4-ad1a-31470a41d4f6",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "76e3d3fb-5e17-4d54-9842-36e0130b920a",
+                            "id": "4755e3b3-37b9-4a89-ac5b-924f8fe302b2",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Dokter dan dokter gigi yang telah melengkapi persyaratan sebagaimana dimaksud dalam Pasal 2 ayat (2) diberikan surat penugasan.",
+                            "content": " Dokter dan dokter gigi yang telah melengkapi persyaratan sebagaimana dimaksud dalam\nPasal 2 ayat (2) diberikan surat penugasan.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "ac56b25a-fc66-43fe-b55d-2fce23b2f6f0",
+                            "id": "ee38a115-a1cd-4d0f-b2bf-9d3987572ab3",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Surat penugasan sebagaimana dimaksud dalam ayat (1) memberikan kewenangan kepada dokter dan dokter gigi untuk dapat melakukan pekerjaan sebagai dokter atau dokter gigi dalam rangka pelaksanaan mass bakti dan sekaligus merupakan dasar bagi pengajuan permintaan izin praktek.",
-                            "explanation": "\nYang dimaksudkan pemberian kewenangan disini adalah pemberian\nkewenangan untuk melakukan pekerjaan dokter atau dokter gigi. Dengan Surat\nPenugasan ini sekaligus berarti pemberian pengakuan dan kewenangan untuk\nmelakukan pekerjaan dokter atau dokter gigi di sarana kesehatan milik\nPemerintah, atau sarana kesehatan milik swasta yang ditunjuk Pemerintah, atau\ndi perguruan tinggi sebagai pengajar, atau di lingkungan Angkatan Bersenjata\nRepublik Indonesia. Di samping itu, Surat Penugasan tersebut juga merupakan\ndasar untuk mengajukan permintaan Surat Izin Praktek bagi dokter dan dokter\ngigi yang bersangkutan."
+                            "content": " Surat penugasan sebagaimana dimaksud dalam ayat (1) memberikan kewenangan kepada\ndokter dan dokter gigi untuk dapat melakukan pekerjaan sebagai dokter atau dokter gigi\ndalam rangka pelaksanaan mass bakti dan sekaligus merupakan dasar bagi pengajuan\npermintaan izin praktek.",
+                            "explanation": "\nYang dimaksudkan pemberian kewenangan disini adalah pemberian kewenangan untuk melakukan pekerjaan dokter atau dokter gigi. Dengan Surat Penugasan ini sekaligus berarti pemberian pengakuan dan kewenangan untuk melakukan pekerjaan dokter atau dokter gigi di sarana kesehatan milik Pemerintah, atau sarana kesehatan milik swasta yang ditunjuk Pemerintah, atau di perguruan tinggi sebagai pengajar, atau di lingkungan Angkatan Bersenjata Republik Indonesia. Di samping itu, Surat Penugasan tersebut juga merupakan dasar untuk mengajukan permintaan Surat Izin Praktek bagi dokter dan dokter gigi yang bersangkutan."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "650f316f-19d8-495c-abcc-a95f39792b8e",
+            "id": "ccc59fa4-4546-4f04-b590-1af757a344ea",
             "name": "Chapter III",
             "title": "\nMASA BAKTI",
             "type": "chapter",
             "children": [
                 {
-                    "id": "97f9402b-6d9f-41d7-9433-e2f7cd8ee909",
+                    "id": "940acc75-3d37-4600-9874-c987a8172b7b",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b16fd66a-0c06-4458-be2f-b6f15c7d335c",
+                            "id": "f115f824-4c5f-4a37-bdf5-a1556a0348fc",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Dokter dan dokter gigi wajib melaksanakan masa bakti sekurang-kurangnya dalam waktu sebagaimana yang diatur dalam peraturan perundang-undangan dan selama-lamanya 5 (lima) tahun.",
-                            "explanation": "\nMasa bakti merupakan kewajiban dokter dan dokter gigi untuk mengabdikan diri\npada sarana kesehatan milik Pemerintah, atau sarana kesehatan milik swasta\nyang ditunjuk Pemerintah, di Perguruan Tinggi, atau di lingkungan Angkatan\nBersenjata Republik Indonesia, sekurang-kurangnya dalam waktu yang telah\nditetapkan dalam peraturan perundang-undangan dan selama-lamanya 5 (lima)\ntahun. Untuk pelayanan kesehatan masyarakat tersebut Pemerintah mengatur\npenyebaran dokter dan dokter gigi yang akan menjalankan masa baktinya secara\nmerata diseluruh wilayah Indonesia. Pelaksanaan masa bakti yang berkenaan\ndengan lamanya waktu dan tempat disesuaikan dengan situasi dan kondisi\ndaerah masing-masing ditetapkan oleh Menteri."
+                            "content": " Dokter dan dokter gigi wajib melaksanakan masa bakti sekurang-kurangnya dalam waktu\nsebagaimana yang diatur dalam peraturan perundang-undangan dan selama-lamanya 5\n(lima) tahun.",
+                            "explanation": "\nMasa bakti merupakan kewajiban dokter dan dokter gigi untuk mengabdikan diri pada sarana kesehatan milik Pemerintah, atau sarana kesehatan milik swasta yang ditunjuk Pemerintah, di Perguruan Tinggi, atau di lingkungan Angkatan Bersenjata Republik Indonesia, sekurang-kurangnya dalam waktu yang telah ditetapkan dalam peraturan perundang-undangan dan selama-lamanya 5 (lima) tahun. Untuk pelayanan kesehatan masyarakat tersebut Pemerintah mengatur penyebaran dokter dan dokter gigi yang akan menjalankan masa baktinya secara merata diseluruh wilayah Indonesia. Pelaksanaan masa bakti yang berkenaan dengan lamanya waktu dan tempat disesuaikan dengan situasi dan kondisi daerah masing-masing ditetapkan oleh Menteri."
                         },
                         {
-                            "id": "6f0beab1-b282-493c-afb9-8635e7347d1b",
+                            "id": "017e46ba-8239-4f6a-bd7c-a9239ce8a128",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Ketentuan sebagaimana dimaksud dalam ayat (1) dikecualikan untuk daerah tertentu, yang tempat dan masa baktinya ditetapkan oleh Menteri.",
-                            "explanation": "\nPengecualian ini terutama menyangkut lamanya pelaksanaan masa bakti\nsebagaimana diatur dalam ayat (1). Bagi daerah tertentu, seperti daerah yang\nletaknya terpencil dan terisolasi dalam arti masih sangat sulit dijangkau oleh\nsarana transportasi atau komunikasi, atau yang berdasar pertimbangan lain\nseperti misalnya rawan dari segi keamanan, lamanya masa bakti dapat lebih\ndipersingkat. Penentuan daerah seperti itu dan lamanya masa bakti, ditetapkan\noleh Menteri."
+                            "content": " Ketentuan sebagaimana dimaksud dalam ayat (1) dikecualikan untuk daerah tertentu, yang\ntempat dan masa baktinya ditetapkan oleh Menteri.",
+                            "explanation": "\nPengecualian ini terutama menyangkut lamanya pelaksanaan masa bakti sebagaimana diatur dalam ayat (1). Bagi daerah tertentu, seperti daerah yang letaknya terpencil dan terisolasi dalam arti masih sangat sulit dijangkau oleh sarana transportasi atau komunikasi, atau yang berdasar pertimbangan lain seperti misalnya rawan dari segi keamanan, lamanya masa bakti dapat lebih dipersingkat. Penentuan daerah seperti itu dan lamanya masa bakti, ditetapkan oleh Menteri."
                         },
                         {
-                            "id": "b44fc47c-7610-4bc4-a048-634dcbdea2e8",
+                            "id": "b50b2f2f-842d-405d-b8a5-6c4047d6d3d8",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Masa bakti sebagaimana dimaksud dalam ayat (1) dan ayat (2) dilaksanakan di sarana kesehatan milik Pemerintah, di sarana kesehatan milik swasta yang ditunjuk oleh Pemerintah, di perguruan tinggi sebagai staf pengajar, dan di lingkungan Angkatan Bersenjata Republik Indonesia.",
+                            "content": " Masa bakti sebagaimana dimaksud dalam ayat (1) dan ayat (2) dilaksanakan di sarana\nkesehatan milik Pemerintah, di sarana kesehatan milik swasta yang ditunjuk oleh\nPemerintah, di perguruan tinggi sebagai staf pengajar, dan di lingkungan Angkatan\nBersenjata Republik Indonesia.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "f9c034fd-1926-4f3b-aaa5-359dc331bee1",
+                            "id": "2588687d-ee01-439f-a790-7a6d42262e9c",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Ketentuan mengenai masa bakti sebagaimana dimaksud dalam ayat (1) diatur oleh Menteri, dan masa bakti di lingkungan perguruan tinggi sebagai staf pengajar diatur oleh Menteri setelah mendengar pertimbangan Menteri Pendidikan dan Kebudayaan, sedangkan di lingkungan Angkatan Bersenjata Republik Indonesia diatur oleh Menteri setelah mendengar pertimbangan Menteri Pertahanan Keamanan dan Panglima Angkatan Bersenjata Republik Indonesia.",
+                            "content": " Ketentuan mengenai masa bakti sebagaimana dimaksud dalam ayat (1) diatur oleh Menteri,\ndan masa bakti di lingkungan perguruan tinggi sebagai staf pengajar diatur oleh Menteri\nsetelah mendengar pertimbangan Menteri Pendidikan dan Kebudayaan, sedangkan di\nlingkungan Angkatan Bersenjata Republik Indonesia diatur oleh Menteri setelah mendengar\npertimbangan Menteri Pertahanan Keamanan dan Panglima Angkatan Bersenjata Republik\nIndonesia.",
                             "explanation": "\nCukup jelas"
                         }
                     ]
                 },
                 {
-                    "id": "25323af9-9c65-4263-8184-592a74dd45fa",
+                    "id": "52c1935a-9399-4fe1-8d62-6e43f60e5449",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b7b68658-2d7f-40b9-9ebf-10c2a0b4b5b9",
+                            "id": "34a49c5f-f55a-4791-8a6b-cbf3e3674536",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dokter dan dokter gigi yang telah selesai menjalankan masa bakti dapat mengikuti pendidikan spesialisasi.",
-                            "explanation": "\nPendidikan spesialisasi bertujuan untuk meningkatkan ilmu pengetahuan dan\nkarier dokter dan dokter gigi, serta bertujuan pula untuk meningkatkan mutu\npelayanan kesehatan pada masyarakat."
+                            "explanation": "\nPendidikan spesialisasi bertujuan untuk meningkatkan ilmu pengetahuan dan karier dokter dan dokter gigi, serta bertujuan pula untuk meningkatkan mutu pelayanan kesehatan pada masyarakat."
                         },
                         {
-                            "id": "8a326ae8-c7d3-481e-996a-001fa9d5b292",
+                            "id": "57057c45-f515-4843-adae-b9ce000f8967",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Ketentuan mengenai tata cara, dan syarat-syarat administrasi mengikuti pendidikan spesialisasi sebagaimana dimaksud dalam ayat (1) diatur oleh Menteri.",
-                            "explanation": "\nYang dimaksudkan dengan syarat-syarat administrasi disini antara lain bukti telah\nmenyelesaikan masa bakti, dan permohonan mengikuti pendidikan spesialisasi\ndari yang bersangkutan."
+                            "explanation": "\nYang dimaksudkan dengan syarat-syarat administrasi disini antara lain bukti telah menyelesaikan masa bakti, dan permohonan mengikuti pendidikan spesialisasi dari yang bersangkutan."
                         }
                     ]
                 },
                 {
-                    "id": "8e1bd702-5600-4b5d-8f77-1e6b7163df61",
+                    "id": "427f9e58-eb54-4f6b-be1f-b70674d42664",
                     "name": "Article 6",
                     "type": "article",
                     "children": [
                         {
-                            "id": "05101957-150f-46de-9bd6-0d3a0cb8f140",
+                            "id": "302de12e-d013-485e-b37d-595b3a3dd4f8",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dokter dan dokter gigi yang telah menyelesaikan pendidikan spesialisasi wajib melaksanakan masa bakti spesialis sekurang-kurangnya dalam waktu sebagaimana diatur dalam peraturan perundang-undangan dan untuk selama-lamanya 5 (lima) tahun.",
                             "explanation": "\nPenetapan masa bakti bagi dokter spesialis dan dokter gigi spesialis\ndimaksudkan untuk menyebarluaskan dokter spesialis dan dokter gigi spesialis\npada rumah sakit milik Pemerintah ataupun swasta dalam rangka meningkatkan\nsistem pelayanan rujukan."
                         },
                         {
-                            "id": "ca9cfc05-0a3a-4c48-bcd9-abf441c082a5",
+                            "id": "bd97e83f-ff2d-45ab-ac20-e277a19e4552",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dalam melaksanakan ketentuan sebagaimana dimaksud dalam ayat (1), berlaku pola pengecualian sebagaimana diatur dalam Pasal 4 ayat (2).",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "da2a5471-085b-4915-99b9-64cdbb5648ee",
+                            "id": "f986421c-0fef-4e4f-96bc-e6732cf0f354",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Ketentuan mengenai masa bakti spesialis sebagaimana dimaksud dalam ayat (1) diatur oleh Menteri.",
                             "explanation": "\nCukup jelas."
@@ -172,44 +193,44 @@
             ]
         },
         {
-            "id": "203ce4df-80c8-4ecb-8f9f-6ecdc23ae5ea",
+            "id": "70f85c5b-d84a-4471-b0c1-0455ca0562f9",
             "name": "Chapter IV",
             "title": "\nIZIN PRAKTEK",
             "type": "chapter",
             "children": [
                 {
-                    "id": "1b993320-6c93-49b1-8f7c-9a204275518e",
+                    "id": "8ba04b39-a25f-43c9-92ab-0ddba5433842",
                     "name": "Article 7",
                     "type": "article",
                     "children": [
                         {
-                            "id": "d9998c20-56ed-4376-aaa4-29cd7e6f0cff",
+                            "id": "ec155e09-cc01-4bb7-9e52-e9cfe04d8159",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dokter dan dokter gigi yang menjalankan praktek wajib memiliki Surat Izin Praktek.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "22c35ff7-ba5b-477a-9d7d-073f43a36af8",
+                            "id": "5a87b4b5-76d9-4587-b4eb-f28981f3de3f",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Untuk memperoleh Surat Izin Praktek sebagaimana dimaksud dalam ayat (1), dokter dan dokter gigi mengajukan permohonan kepada Menteri atau pejabat yang ditunjuk.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "f1f9a280-c574-45ea-91ee-f9426bb99a21",
+                            "id": "ea9fe92b-2ac4-46d5-8c8b-7c21d2a12368",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Surat Izin Praktek diberikan oleh Menteri atau pejabat yang ditunjuk setelah memenuhi persyaratan :\na. memiliki surat penugasan sebagaimana dimaksud dalam Pasal 3;\nb. memiliki kemampuan jasmani dan rohani untuk menjalankan pekerjaan dokter atau dokter gigi;\nc. memiliki Surat Keputusan penempatan yang dikeluarkan oleh Departemen Kesehatan atau Departemen Pendidikan dan Kebudayaan atau Departemen Pertahanan Keamanan atau Markas Besar Angkatan Bersenjata Republik Indonesia dalam rangka pelaksanaan masa bakti.",
+                            "content": " Surat Izin Praktek diberikan oleh Menteri atau pejabat yang ditunjuk setelah memenuhi persyaratan :\na.  memiliki surat penugasan sebagaimana dimaksud dalam Pasal 3;\nb.  memiliki kemampuan jasmani dan rohani untuk menjalankan pekerjaan dokter atau dokter gigi;\nc.  memiliki Surat Keputusan penempatan yang dikeluarkan oleh Departemen Kesehatan atau Departemen Pendidikan dan Kebudayaan atau Departemen Pertahanan Keamanan atau Markas Besar Angkatan Bersenjata Republik Indonesia dalam rangka pelaksanaan masa bakti.",
                             "explanation": "\nPersyaratan-persyaratan dalam ayat ini merupakan syarat yang harus dipenuhi\ndokter dan dokter gigi untuk memperoleh Surat Izin Praktek.\nMemiliki kemampuan jasmani dan rohani sebagaimana dimaksud dalam huruf b\nharus dibuktikan dengan surat keterangan sehat dari dokter yang telah memiliki\nSurat Izin Praktek atau dokter pada sarana kesehatan."
                         },
                         {
-                            "id": "43697cab-3a0b-454d-be08-71b4348fdff7",
+                            "id": "a5581495-1170-4288-bbaa-204295eb1d7a",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Surat Izin Praktek (SIP) diberikan dengan memperhatikan asas pemerataan pelayanan kesehatan, penyebaran dokter dan dokter gigi serta pelaksanaan masa bakti.",
                             "explanation": "\nPemberian Surat Izin Praktek dalam ayat ini diberikan dalam rangka pemerataan\npelayanan kesehatan bagi masyarakat. Izin diterbitkan berdasarkan wilayah\nadministrasi kecamatan dengan mempertimbangkan perbandingan jumlah dokter\ndan dokter gigi dengan jumlah penduduk Kecamatan di suatu Kabupaten."
@@ -217,22 +238,22 @@
                     ]
                 },
                 {
-                    "id": "1e0cb254-bc31-4185-aff4-462281bcb358",
+                    "id": "65d54095-3b29-4088-b745-04a19661a6c5",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "182e5759-0cde-4461-b6d8-6622bfd360b6",
+                            "id": "e77c4976-edc7-4c2c-96bf-c63315b0daf0",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Permohonan izin praktek ditolak, apabila:\na. daerah atau tempat praktek telah tertutup untuk praktek dokter dan dokter gigi;\nb. dokter dan dokter gigi menjalani pidana penjara;\nc. tidak memenuhi persyaratan sebagaimana dimaksud dalam Pasal 7 ayat (3).",
+                            "content": " Permohonan izin praktek ditolak, apabila:\na.  daerah atau tempat praktek telah tertutup untuk praktek dokter dan dokter gigi;\nb.  dokter dan dokter gigi menjalani pidana penjara;\nc.  tidak memenuhi persyaratan sebagaimana dimaksud dalam Pasal 7 ayat (3).",
                             "explanation": "\nHuruf a\nApabila di suatu daerah jumlah dokter dan dokter gigi yang diijinkan\npraktek telah sebanding dengan jumlah penduduk yang perlu\nmendapatkan pelayanan kesehatan, maka daerah tersebut dinyatakan\nsebagai daerah tertutup untuk praktek bagi dokter dan dokter gigi.\nHuruf b\nTermasuk dalam pengertian pidana penjara adalah pidana penjara\nbersyarat.\nHuruf c\nCukup jelas"
                         },
                         {
-                            "id": "858964b3-7e36-46ee-b84b-908458293331",
+                            "id": "e5b752f8-0770-4edd-a741-bdb8c4409950",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Daerah atau tempat tertutup untuk praktek dokter dan dokter gigi sebagaimana\ndimaksud dalam ayat (1) huruf a ditetapkan oleh Menteri.",
                             "explanation": "\nDalam pengaturan tersebut ditentukan antara lain hal-hal yang berkaitan dengan\ntata cara penetapan perimbangan antara jumlah penduduk dengan tenaga dokter\nyang dibutuhkan."
@@ -240,11 +261,11 @@
                     ]
                 },
                 {
-                    "id": "edf55444-cb4d-4293-bcc0-f9a267f9aca5",
+                    "id": "5091b079-e737-4f63-8bb9-bb33c37e5056",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "7b29f66c-233d-4939-9e5b-16517b5c91e7",
+                        "id": "dd904766-6e7c-49d8-84ce-71e82d5cc7a5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -253,22 +274,22 @@
                     }
                 },
                 {
-                    "id": "589de531-c01d-435e-bbea-2c88b379ce99",
+                    "id": "e46684d6-7410-4c16-b04f-529b2c51e262",
                     "name": "Article 10",
                     "type": "article",
                     "children": [
                         {
-                            "id": "91966413-4691-4c24-91ce-a82c2dc2599c",
+                            "id": "ff8bb987-292a-48f1-a5ea-b3b60767bed0",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Surat Izin Praktek (SIP) berlaku selama memenuhi persyaratan yaitu\na. dilaksanakan di daerah yang ditunjuk dalam Surat Izin Praktek,,\nb. dokter dan dokter gigi yang bersangkutan tidak cacat jasmani dan/atau rohani yang\ntidak memungkinkan untuk menjalankan pekerjaan dokter atau dokter gigi;\nc. tidak sedang menjalankan pidana penjara atau hukuman administratif.",
                             "explanation": "\nSurat Izin Praktek berlaku selama memenuhi syarat. Prinsipnya, Surat Izin\nPraktek hanya diberikan 1 (satu) kali dan berlaku selamanya, kecuali bila yang\nbersangkutan sudah tidak memenuhi persyaratan, misalnya pindah alamat\npraktek dari wilayah yang diizinkan, usia lanjut, cacat fisik atau mental yang tidak\nmemungkinkan untuk menjalankan pekerjaan dokter atau dokter gigi atau\ndikenakan pidana penjara atau hukuman administratif. Termasuk dalam\npengertian pidana penjara adalah pidana penjara bersyarat. Pernyataan tidak\nberlakunya suatu Surat Izin Praktek diberikan oleh Menteri atau Pejabat yang\nditunjuk dengan surat keputusan berdasarkan atas penelitian terhadap syarat-\nsyarat itu sendiri. Surat Izin. Praktek tersebut dinyatakan berlaku kembali apabila\nsyarat-syarat yang menjadi sebab tidak berlakunya Surat Izin Praktek itu,\ndipenuhi kembali. Pernyataan berlakunya kembali Surat Izin Praktek oleh Menteri\natau Pejabat yang ditunjuk dituangkan dalam bentuk surat Keputusan Menteri\natau Pejabat yang ditunjuk pula."
                         },
                         {
-                            "id": "e12d1e1f-9543-4953-9b5d-7587d140c6d9",
+                            "id": "0a689d34-0f12-4c8f-8c35-12b28626bb9e",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Surat Izin Praktek (SIP) yang tidak memenuhi persyaratan sebagaimana dimaksud dalam\nayat (1) dinyatakan tidak berlaku oleh Menteri atau pejabat yang ditunjuk.",
                             "explanation": "\nCukup jelas"
@@ -278,36 +299,28 @@
             ]
         },
         {
-            "id": "1329ccf5-7ea3-4d26-be97-d653ea4c9b07",
+            "id": "97f70fe9-725f-43f5-877f-20725ec8fc92",
             "name": "Chapter V",
             "title": "\nPEMBINAAN DAN PENGAWASAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "b335cb7b-7e14-4a59-8f91-d1da1935de5f",
+                    "id": "3c179086-7039-4b45-a036-9d6dddc14434",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "ac3253ae-3e74-401e-99b2-a420a06c0fbe",
+                            "id": "a776b4c0-2944-4c8e-b7ce-be8d356d8c1d",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Menteri atau pejabat yang ditunjuk, membina dan mengawasi dokter dan dokter gigi dalam\nmenjalankan profesinya,",
+                            "content": " Menteri atau pejabat yang ditunjuk, membina dan mengawasi dokter dan dokter gigi dalam\nmenjalankan profesinya,\n(2) Pembinaan dan pengawasan sebagaimana dimaksud dalam ayat (1) dilakukan oleh Menteri\ndengan mengikutsertakan organisasi profesi yang terkait.",
                             "explanation": "\nPembinaan terhadap dokter dan dokter gigi diarahkan untuk meningkatkan\nkemampuan profesi dan disiplin yang menunjang pelayanan kesehatan\nmasyarakat. Adapun pengawasan dimaksudkan agar dokter dan dokter gigi tidak\nmelakukan perbuatan-perbuatan yang bertentangan dengan peraturan\nperundang-undangan yang berlaku ataupun dengan profesi dokter atau dokter\ngigi."
                         },
                         {
-                            "id": "c87c1918-ddcb-4a19-aa9d-7112f63419af",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": " Pembinaan dan pengawasan sebagaimana dimaksud dalam ayat (1) dilakukan oleh Menteri\ndengan mengikutsertakan organisasi profesi yang terkait.",
-                            "explanation": "\nUntuk melaksanakan pembinaan dan pengawasan yang lebih efektif terhadap\ndokter dan dokter gigi dalam melaksanakan tugasnya, peranan organisasi profesi\nseperti Ikatan Dokter Indonesia dan Persatuan Dokter Gigi Indonesia sangat\npenting. Oleh karena itu organisasi profesi tersebut perlu diikutsertakan dalam\npembinaan dan pengawasan dokter dan dokter gigi."
-                        },
-                        {
-                            "id": "418d4f33-041b-4d18-8c41-f3c86f4bf649",
+                            "id": "45f8efdb-fa7c-400c-85c9-304a97e90b13",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dokter dan dokter gigi selama menjalankan tugas profesinya, wajib menaati semua\nperaturan perundang-undangan dan kebijaksanaan yang ditetapkan oleh Pemerintah.",
                             "explanation": "\nDokter dan dokter gigi dalam menjalankan profesinya diwajibkan menaati\nperaturan perundang-undangan yang berlaku dan kebijaksanaan lainnya\ntermasuk ketentuan-ketentuan dari Pemerintah, seperti harus mengumpulkan\nangka kredit sejumlah tertentu, sehingga dokter dan dokter gigi yang\nbersangkutan akan selalu dapat mengikuti perkembangan ilmu pengetahuan dan\nteknologi."
@@ -315,24 +328,24 @@
                     ]
                 },
                 {
-                    "id": "2dc66c9c-f2c0-48bb-9a7b-6dad5f47b33a",
+                    "id": "0b331a6c-f04a-4ed5-988b-aa2b52760c7a",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bcabc3ab-403a-40b6-ac83-85cd971d4c46",
+                            "id": "aacb92d4-0765-498d-a6fd-f5ab54338d14",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " huruf b.",
+                            "content": " Dokter dan dokter gigi yang telah mendapatkan Surat Izin Praktek dilarang :\na. menjalankan praktek di luar ketentuan yang tercantum dalam Surat Izin Praktek;\nb. memberikan atau meracik obat, kecuali suntikan:\nc. melakukan perbuatan yang bertentangan dengan profesi dokter dan dokter gigi.",
                             "explanation": "\nHuruf a\nCukup jelas.\nHuruf b\nPada dasarnya dokter dan dokter gigi dilarang untuk memberikan dan\nmeracik obat. Namun dalam keadaan darurat, dokter dan dokter gigi\ndapat meracik dan memberikan obat untuk persediaan paling lama 24\n(dua puluh empat) jam. Dikecualikan dari larangan tersebut adalah\npemberian obat yang berupa suntikan. Yang dimaksud dengan darurat di\nsini adalah darurat baik penyakitnya ataupun keadaannya yang\nmemerlukan pengobatan dengan segera.\nHuruf c\nCukup jelas."
                         },
                         {
-                            "id": "12b47d02-dff7-420c-ab91-36484a40c3f9",
+                            "id": "b3453251-27eb-4f04-9052-a4185989bebb",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Bagi dokter dan dokter gigi yang menolong orang sakit dalam keadaan darurat atau yang\nmenjalankan tugas di Puskesmas atau di daerah terpencil yang tidak ada apotik,\ndikecualikan dari larangan memberi atau meracik obat sebagaimana dimaksud dalam ayat",
+                            "content": " Bagi dokter dan dokter gigi yang menolong orang sakit dalam keadaan darurat atau yang\nmenjalankan tugas di Puskesmas atau di daerah terpencil yang tidak ada apotik,\ndikecualikan dari larangan memberi atau meracik obat sebagaimana dimaksud dalam ayat\n(1) huruf b.",
                             "explanation": "\nCukup jelas"
                         }
                     ]
@@ -340,17 +353,17 @@
             ]
         },
         {
-            "id": "7c638071-c1ff-45a4-abe4-4f732f144576",
+            "id": "dd99d764-d866-45f9-96c5-9c63ebe02033",
             "name": "Chapter VI",
             "title": "\nSANKSI",
             "type": "chapter",
             "children": [
                 {
-                    "id": "9dc2eceb-badf-4f07-b7e5-a130ff9cbb9b",
+                    "id": "e7641bac-9616-4c39-ba95-1bc9ab97c762",
                     "name": "Article 13",
                     "type": "article",
                     "children": {
-                        "id": "042e4beb-50f1-40c4-a771-ad9c9df9e516",
+                        "id": "d679b960-73c3-48a7-baac-980be82bc478",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -359,30 +372,30 @@
                     }
                 },
                 {
-                    "id": "ba153258-897b-41cd-a642-e4f36895dda7",
+                    "id": "8c8d4b86-7a82-4874-9014-30f7618adcb4",
                     "name": "Article 14",
                     "type": "article",
                     "children": [
                         {
-                            "id": "21b3a972-4cb5-42c4-b737-49a9f2c863c7",
+                            "id": "edc48148-1df1-4bff-9daa-23992a316c84",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Tanpa mengurangi ketentuan yang berlaku dalam Kitab Undang-Undang Hukum Pidana,\ndokter dan dokter gigi yang dengan sengaja atau kelalaiannya melanggar ketentuan\nsebagaimana diatur dalam Pasal 11 ayat (3) dan Pasal 12 ayat (1) dikenakan sanksi\nadministratif sebagaimana dimaksud dalam Pasal 11 Undang-undang Nomor 6 Tahun 1963\ntentang Tenaga Kesehatan.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "25199651-0724-46de-915d-f206b671849a",
+                            "id": "890e1cfa-b3b1-4d5d-8ddd-8ef69926b08b",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Sanksi administratif sebagaimana dimaksud dalam ayat (1) dapat berupa pencabutan Surat\nIzin Praktek untuk jangka waktu selama-lamanya 1 (satu) tahun, kecuali dalam hal-hal\ntertentu dapat dimungkinkan pencabutan lebih dari 1 (satu) tahun.",
                             "explanation": "\nDalam rangka pembinaan dokter dan dokter gigi yang melakukan pelanggaran,\nsebelum sanksi administratif dijatuhkan berdasarkan ketentuan Pasal 11 dan\nPasal 12 Undang-undang Nomor 6 Tahun 1963 tentang Tenaga Kesehatan,\nwajib didengar lebih dahulu pertimbangan dari Majelis Pertimbangan yang\ndibentuk oleh Menteri. Pencabutan Surat Izin Praktek selama 1 (satu) tahun\ntersebut didasarkan pada pertimbangan bahwa dalam masa 1 (satu) tahun\ndiharapkan dokter dan dokter gigi sudah dapat memperbaiki diri atas kesalahan\nyang dilakukan. Selain itu, penetapan jangka waktu itupun didasarkan pada\npertimbangan bahwa tenaga dokter dan dokter gigi masih dibutuhkan dalam\nupaya pelayanan kesehatan masyarakat. Namun begitu, tidak tertutup pula\nkemungkinan untuk pencabutan Izin Praktek lebih dari 1 (satu) tahun, misalnya\ndalam hal dokter atau dokter gigi yang bersangkutan sedang menjalani pidana\npenjara lebih dari 1 (satu) tahun atau mengulangi kembali perbuatan yang sama\nyang pernah dijatuhi pidana. Dalam hal dokter dan dokter gigi dicabut Surat Izin\nPrakteknya, untuk mendapatkan Surat Izin Praktek yang baru wajib mengajukan\npermohonan kembali sesuai dengan ketentuan yang diatur dalam Peraturan\nPemerintah ini."
                         },
                         {
-                            "id": "b41bb4a8-f39d-4a25-8088-4c208d06f40f",
+                            "id": "a0c133fa-ac08-494c-b5cc-a1725904ae7b",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Sanksi administratif sebagaimana dimaksud dalam ayat (2) diberikan oleh Menteri atau\npejabat yang ditunjuk.",
                             "explanation": "\nCukup jelas"
@@ -392,28 +405,28 @@
             ]
         },
         {
-            "id": "e2dbead5-52f7-4d2c-a0ff-4e178333d6ab",
+            "id": "456e491a-8f11-492f-b597-8539331a60dd",
             "name": "Chapter VII",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "dc2a7dd3-0265-4427-a3e8-5d18aa9bdde6",
+                    "id": "69354451-d4fb-46cb-a6b0-a2a471d3643c",
                     "name": "Article 15",
                     "type": "article",
                     "children": [
                         {
-                            "id": "1bdaf7b5-4899-4879-b0af-f71568591393",
+                            "id": "41e3e21b-13e5-4650-bcc9-757ef7b49746",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dengan berlakunya Peraturan Pemerintah ini, semua ketentuan pelaksanaan Peraturan\nPemerintah Nomor 36 Tahun 1964 tentang Pendaftaran Ijazah dan Pemberian Izin\nMenjalankan Pekerjaan Dokter/Dokter Gigi/Apoteker dinyatakan tetap berlaku sepanjang\ntidak bertentangan dengan Peraturan Pemerintah ini dan/atau belum diganti dengan\nperaturan yang baru berdasarkan ketentuan Peraturan Pemerintah ini.",
                             "explanation": "\nCukup jelas"
                         },
                         {
-                            "id": "7c29b2af-6037-435c-baa2-cd92347f964d",
+                            "id": "20b0f7f6-879d-4643-87a3-94f2babc8100",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dengan berlakunya Peraturan Pemerintah ini, Surat Izin Praktek Perorangan dan Surat Izin\nPraktek Perorangan Semata-mata yang telah diberikan berdasarkan Peraturan Pemerintah\nNomor 36 Tahun 1964 masih tetap berlaku sampai habis masa waktu berlakunya.",
                             "explanation": "\nCukup jelas"
@@ -423,17 +436,17 @@
             ]
         },
         {
-            "id": "329e8c66-940b-4b9d-a24b-d2f58b1a6c53",
+            "id": "5a36e745-8bce-4cbb-bba6-5078fae34adb",
             "name": "Chapter VIII",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "b58717c2-eda7-4ffc-89f4-5d79bdb6578b",
+                    "id": "3e0c74c4-fb46-4be5-817b-bf15002f3880",
                     "name": "Article 16",
                     "type": "article",
                     "children": {
-                        "id": "999a121a-744c-4992-8f8e-4c91f8126e08",
+                        "id": "68fa97d1-ec69-4c6c-8724-a050ba1b2984",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -442,15 +455,15 @@
                     }
                 },
                 {
-                    "id": "86f451fc-9d13-42c6-94cf-bab09bdbdcfd",
+                    "id": "87615250-5dda-4a3b-a540-7107e03997fb",
                     "name": "Article 17",
                     "type": "article",
                     "children": {
-                        "id": "0ed903dd-bb5f-454f-bd4f-af54e8790216",
+                        "id": "73a72268-e073-49be-9a0f-d59369208565",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal 1 Juni 1988.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal 1 Juni 1988.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini\ndengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "\nCukup jelas\n"
                     }
                 }
@@ -464,18 +477,18 @@
         "Tentang": "MASA BAKTI DAN PRAKTEK DOKTER DAN DOKTER GIGI",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa dalam usaha mewujudkan derajat kesehatan yang optimal bagi seluruh lapisan masyarakat Indonesia, diperlukan langkah-langkah bagi pemerataan pelayanan kesehatan, pendayagunaan dan penyebaran tenaga dokter dan dokter gigi secara rasional;",
-            "b": " bahwa untuk mencapai tujuan tersebut diperlukan adanya pengaturan masa bakti, penyederhanaan pemberian izin praktek dan pembinaan terhadap dokter dan dokter gigi;",
-            "c": " bahwa sehubungan hal di atas dan tidak sesuainya lagi pengaturan tentang pendaftaran ijazah dan pemberian izin menjalankan praktek bagi dokter dan dokter gigi dalam Peraturan Pemerintah Nomor 36 Tahun 1964 tentang Pendaftaran Ijazah Dan Pemberian Izin Melaksanakan Pekerjaan Dokter/Dokter Gigi/Apoteker, dipandang perlu untuk menyempurnakan dan mengatur kembali masalah tersebut dengan Peraturan Pemerintah;"
+            "a": " bahwa dalam usaha mewujudkan derajat kesehatan yang optimal bagi\nseluruh lapisan masyarakat Indonesia, diperlukan langkah-langkah bagi\npemerataan pelayanan kesehatan, pendayagunaan dan penyebaran tenaga\ndokter dan dokter gigi secara rasional;",
+            "b": " bahwa untuk mencapai tujuan tersebut diperlukan adanya pengaturan masa\nbakti, penyederhanaan pemberian izin praktek dan pembinaan terhadap\ndokter dan dokter gigi;",
+            "c": " bahwa sehubungan hal di atas dan tidak sesuainya lagi pengaturan tentang\npendaftaran ijazah dan pemberian izin menjalankan praktek bagi dokter dan\ndokter gigi dalam Peraturan Pemerintah Nomor 36 Tahun 1964 tentang\nPendaftaran Ijazah Dan Pemberian Izin Melaksanakan Pekerjaan\nDokter/Dokter Gigi/Apoteker, dipandang perlu untuk menyempurnakan dan\nmengatur kembali masalah tersebut dengan Peraturan Pemerintah;"
         },
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Undang-undang Nomor 9 Tahun 1960 tentang Pokok-pokok Kesehatan (Lembaran Negara Tahun 1960 Nomor 131, Tambahan Lembaran Negara Nomor 2068)",
-            "3": " Undang-undang Nomor 8 Tahun 1961 tentang Wajib Kerja Sarjana (Lembaran Negara Tahun 1961 Nomor 207, Tambahan Lembaran Negara Nomor 2270);",
-            "4": " Undang-undang Nomor 6 Tahun 1963 tentang Tenaga Kesehatan (Lembaran Negara Tahun 1963 Nomor 79, Tambahan Lembaran Negara Nomor 2576);"
+            "2": " Undang-undang Nomor 9 Tahun 1960 tentang Pokok-pokok Kesehatan\n(Lembaran Negara Tahun 1960 Nomor 131, Tambahan Lembaran Negara\nNomor 2068)",
+            "3": " Undang-undang Nomor 8 Tahun 1961 tentang Wajib Kerja Sarjana\n(Lembaran Negara Tahun 1961 Nomor 207, Tambahan Lembaran Negara\nNomor 2270);",
+            "4": " Undang-undang Nomor 6 Tahun 1963 tentang Tenaga Kesehatan\n(Lembaran Negara Tahun 1963 Nomor 79, Tambahan Lembaran Negara\nNomor 2576);"
         },
-        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG MASA BAKTI DAN PRAKTEK DOKTER DAN DOKTER GIGI.\nBABI\nKETENTUAN UMUM",
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG MASA\nBAKTI DAN PRAKTEK DOKTER DAN DOKTER GIGI.",
         "tanggal sah": "1 Juni 1988"
     }
 }

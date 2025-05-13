@@ -1,783 +1,775 @@
 {
     "results": [
         {
-            "id": "29606fe1-77d9-47c1-9726-93deee31f7b6",
+            "id": "939d1506-1511-43f1-ad29-05c29b7bda4c",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "f8d7dfd5-a015-438f-a319-dd205985bc1d",
+                    "id": "f372f8eb-8a69-48f1-941e-beed5f8f1466",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "b5590f1d-8d5d-4cb0-a38d-35730c1efa33",
+                        "id": "b4ac759e-e1ae-4f60-ad8d-f67e5efd5616",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1.  Undang-Undang Pajak Pertambahan Nilai adalah Undang-\n    Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan\n    Nilai Barang dan Jasa dan Pajak Penjualan atas Barang\n    Mewah sebagaimana telah beberapa kali diubah terakhir\n    dengan Undang-Undang Nomor 42 Tahun 2009 tentang\n    Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun\n    1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan\n    Pajak Penjualan atas Barang Mewah.\n2.  Pengusaha adalah orang pribadi atau badan dalam bentuk\n    apa pun yang dalam kegiatan usaha atau pekerjaannya\n    menghasilkan barang, mengimpor barang, mengekspor\n    barang, melakukan usaha perdagangan, memanfaatkan\n    barang tidak berwujud dari luar Daerah Pabean, melakukan\n    usaha jasa termasuk mengekspor jasa, atau memanfaatkan\n    jasa dari luar Daerah Pabean.\n3.  Pengusaha Kena Pajak adalah Pengusaha yang melakukan\n    penyerahan Barang Kena Pajak dan/atau penyerahan Jasa\n    Kena Pajak yang dikenai pajak berdasarkan Undang-\n    Undang Pajak Pertambahan Nilai.\n4.  Harga Jual adalah nilai berupa uang, termasuk semua\n    biaya yang diminta atau seharusnya diminta oleh penjual\n    karena penyerahan Barang Kena Pajak, tidak termasuk\n    Pajak Pertambahan Nilai yang dipungut menurut Undang-\n    Undang Pajak Pertambahan Nilai dan potongan harga yang\n    dicantumkan dalam Faktur Pajak.\n5.  Penggantian adalah nilai berupa uang, termasuk semua\n    biaya yang diminta atau seharusnya diminta oleh\n    Pengusaha karena penyerahan Jasa Kena Pajak, ekspor\n    Jasa Kena Pajak, atau ekspor Barang Kena Pajak Tidak\n    Berwujud, tetapi tidak termasuk Pajak Pertambahan Nilai\n    yang dipungut menurut Undang-Undang Pajak\n    Pertambahan Nilai dan potongan harga yang dicantumkan\n    dalam Faktur Pajak atau nilai berupa uang yang dibayar\n    atau seharusnya dibayar oleh Penerima Jasa karena\n    pemanfaatan Jasa Kena Pajak dan/atau oleh penerima\n    manfaat Barang Kena Pajak Tidak Berwujud karena\n    pemanfaatan Barang Kena Pajak Tidak Berwujud dari luar\n    Daerah Pabean di dalam Daerah Pabean.\n6.  Faktur\n6. Faktur Pajak adalah bukti pungutan pajak yang dibuat oleh\nPengusaha Kena Pajak yang melakukan penyerahan Barang\nKena Pajak atau penyerahan Jasa Kena Pajak.\n7. Pajak Masukan adalah Pajak Pertambahan Nilai yang\nseharusnya sudah dibayar oleh Pengusaha Kena Pajak\nkarena perolehan Barang Kena Pajak dan/atau perolehan\nJasa Kena Pajak dan/atau pemanfaatan Barang Kena Pajak\nTidak Berwujud dari luar Daerah Pabean dan/atau\npemanfaatan Jasa Kena Pajak dari luar Daerah Pabean\ndan/atau impor Barang Kena Pajak.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1.  Undang-Undang Pajak Pertambahan Nilai adalah Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 42 Tahun 2009 tentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.\n2.  Pengusaha adalah orang pribadi atau badan dalam bentuk apa pun yang dalam kegiatan usaha atau pekerjaannya menghasilkan barang, mengimpor barang, mengekspor barang, melakukan usaha perdagangan, memanfaatkan barang tidak berwujud dari luar Daerah Pabean, melakukan usaha jasa termasuk mengekspor jasa, atau memanfaatkan jasa dari luar Daerah Pabean.\n3.  Pengusaha Kena Pajak adalah Pengusaha yang melakukan penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak yang dikenai pajak berdasarkan Undang-Undang Pajak Pertambahan Nilai.\n4.  Harga Jual adalah nilai berupa uang, termasuk semua biaya yang diminta atau seharusnya diminta oleh penjual karena penyerahan Barang Kena Pajak, tidak termasuk Pajak Pertambahan Nilai yang dipungut menurut Undang-Undang Pajak Pertambahan Nilai dan potongan harga yang dicantumkan dalam Faktur Pajak.\n5.  Penggantian adalah nilai berupa uang, termasuk semua biaya yang diminta atau seharusnya diminta oleh Pengusaha karena penyerahan Jasa Kena Pajak, ekspor Jasa Kena Pajak, atau ekspor Barang Kena Pajak Tidak Berwujud, tetapi tidak termasuk Pajak Pertambahan Nilai yang dipungut menurut Undang-Undang Pajak Pertambahan Nilai dan potongan harga yang dicantumkan dalam Faktur Pajak atau nilai berupa uang yang dibayar atau seharusnya dibayar oleh Penerima Jasa karena pemanfaatan Jasa Kena Pajak dan/atau oleh penerima manfaat Barang Kena Pajak Tidak Berwujud karena pemanfaatan Barang Kena Pajak Tidak Berwujud dari luar Daerah Pabean di dalam Daerah Pabean.\n6.  Faktur\n6. Faktur Pajak adalah bukti pungutan pajak yang dibuat oleh\nPengusaha Kena Pajak yang melakukan penyerahan Barang\nKena Pajak atau penyerahan Jasa Kena Pajak.\n7. Pajak Masukan adalah Pajak Pertambahan Nilai yang\nseharusnya sudah dibayar oleh Pengusaha Kena Pajak\nkarena perolehan Barang Kena Pajak dan/atau perolehan\nJasa Kena Pajak dan/atau pemanfaatan Barang Kena Pajak\nTidak Berwujud dari luar Daerah Pabean dan/atau\npemanfaatan Jasa Kena Pajak dari luar Daerah Pabean\ndan/atau impor Barang Kena Pajak.",
+                        "explanation": "\nCukup jelas."
                     }
                 }
             ]
         },
         {
-            "id": "890b59e5-518c-44bd-a71f-9927f481422d",
+            "id": "b489c934-827f-4e9a-b08f-2adcfc35c962",
             "name": "Chapter II",
             "title": "\nPENGUKUHAN PENGUSAHA KENA PAJAK",
             "type": "chapter",
             "children": [
                 {
-                    "id": "0b0cdd22-5548-42a3-9891-fd9b33b641c0",
+                    "id": "015d8f19-a3ec-4556-9ad0-2c02d6d585bf",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "081424d2-5d4b-4d4a-ac93-caabcf86bfef",
+                            "id": "212d52b8-ef39-4581-8333-ae782f342852",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pengusaha yang melakukan penyerahan sebagaimana\ndimaksud dalam Pasal 4 ayat (1) huruf a, huruf c, huruf f,\nhuruf g, dan/atau huruf h Undang-Undang Pajak\nPertambahan Nilai, kecuali pengusaha kecil yang\nbatasannya ditetapkan oleh Menteri Keuangan, wajib\nmelaporkan usahanya untuk dikukuhkan sebagai\nPengusaha Kena Pajak.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "9e5a4e25-fe5e-4f83-ba8e-9de7c9163a9a",
+                            "id": "fde4a47f-605b-4fcc-bda3-7485ff0ab7c6",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " wajib memungut, menyetor, dan melaporkan Pajak\nPertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak\nPenjualan atas Barang Mewah yang terutang.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pengusaha yang sejak semula bermaksud melakukan\npenyerahan sebagaimana dimaksud dalam Pasal 4 ayat (1)\nhuruf a, huruf c, huruf f, huruf g, dan/atau huruf h\nUndang-Undang Pajak Pertambahan Nilai dapat\nmelaporkan usahanya untuk dikukuhkan sebagai\nPengusaha Kena Pajak.",
+                            "explanation": "\nPengukuhan sebagai Pengusaha Kena Pajak mempunyai akibat\nhukum yang luas antara lain berkaitan dengan pembuatan Faktur\nPajak, penerapan tarif 0% (nol persen), pengkreditan Pajak\nMasukan, dan pengembalian kelebihan pembayaran Pajak\nPertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak\nPenjualan atas Barang Mewah. Agar pemungutan Pajak\nPertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak\nPenjualan atas Barang Mewah terlaksana secara efektif dan lancar,\nsudah sewajarnya apabila pengusaha yang sejak semula\nbermaksud melakukan penyerahan Barang Kena Pajak,\npenyerahan Jasa Kena Pajak, ekspor Barang Kena Pajak\nBerwujud, ekspor Barang Kena Pajak Tidak Berwujud, dan/atau\nekspor Jasa Kena Pajak dapat melaporkan usahanya untuk\ndikukuhkan sebagai Pengusaha Kena Pajak."
                         },
                         {
-                            "id": "c5664295-1812-41f9-9309-3fba5b4c7fa3",
+                            "id": "81d34d8e-a00e-4f07-adb3-9ff3713750d0",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Pengusaha yang sudah dikukuhkan sebagai Pengusaha\nKena Pajak sebagaimana dimaksud pada ayat (1) dan ayat",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pengusaha yang sudah dikukuhkan sebagai Pengusaha\nKena Pajak sebagaimana dimaksud pada ayat (1) dan ayat\n(2) wajib memungut, menyetor, dan melaporkan Pajak\nPertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak\nPenjualan atas Barang Mewah yang terutang.",
+                            "explanation": "\nCukup jelas."
                         }
                     ]
                 },
                 {
-                    "id": "b08db564-7b8f-4ecc-9fc0-9be0c6fc4681",
+                    "id": "5491ce6f-5f68-430c-8ac0-67305c403a9e",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "fbbb1d02-8a82-48db-9212-e1cafd1bd552",
+                            "id": "6af71ce6-1eb3-49e8-9158-0e0ab2f0788b",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Bentuk kerja sama operasi merupakan bagian dari bentuk\nbadan lainnya sebagaimana dimaksud dalam pengertian\nBadan dalam Pasal 1 angka 13 Undang-Undang Pajak\nPertambahan Nilai.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "9da483d8-58c2-4e28-b83c-fb6e0d069792",
+                            "id": "0d4545e3-1554-4092-9638-fe5f85fbcb53",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Bentuk kerja sama operasi sebagaimana dimaksud pada\nayat (1) wajib melaporkan usahanya untuk dikukuhkan\nsebagai Pengusaha Kena Pajak dalam hal melakukan\npenyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak\natas nama bentuk kerja sama operasi.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Bentuk\n(2) Bentuk kerja sama operasi sebagaimana dimaksud pada\nayat (1) wajib melaporkan usahanya untuk dikukuhkan\nsebagai Pengusaha Kena Pajak dalam hal melakukan\npenyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak\natas nama bentuk kerja sama operasi.",
+                            "explanation": "\nContoh bentuk kerja sama operasi (joint operation) yang wajib\nuntuk dikukuhkan sebagai Pengusaha Kena Pajak:\nPT ABC dan PT DEF membuat perjanjian kerja dengan pelanggan\n(pemilik proyek). Untuk melaksanakan proyek tersebut, PT ABC\ndan PT DEF membentuk joint operation.\nDalam perjanjian kerja dengan pelanggan (pemilik proyek) diatur\nbahwa semua transaksi penyerahan Barang Kena Pajak dan/atau\nJasa Kena Pajak kepada pelanggan (pemilik proyek) dilakukan atas\nnama joint operation.\nBerdasarkan hal di atas:\na. joint operation wajib dikukuhkan sebagai Pengusaha Kena\nPajak;\nb. atas penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak\nkepada pelanggan (pemilik proyek), joint operation wajib\nmenerbitkan Faktur Pajak;\nc. apabila . . .\nc. apabila dalam rangka joint operation tersebut, PT ABC atau PT\nDEF atas nama joint operation melakukan penyerahan langsung\nkepada pelanggan (pemilik proyek), maka penyerahan tersebut\ndianggap sebagai penyerahan dari PT ABC atau PT DEF kepada\njoint operation, sehingga PT ABC atau PT DEF harus membuat\nFaktur Pajak kepada joint operation dan joint operation\nmembuat Faktur Pajak kepada pelanggan (pemilik proyek).\nContoh bentuk kerja sama operasi (joint operation) yang tidak wajib\nuntuk dikukuhkan sebagai Pengusaha Kena Pajak:\nPT X dan PT Y membuat perjanjian kerja sama dengan pelanggan\n(pemilik proyek). Untuk melaksanakan proyek tersebut, PT X dan\nPT Y membentuk joint operation.\nNamun demikian, dalam pelaksanaannya semua transaksi dan\ndokumentasi terkait dengan perjanjian kerja sama dengan\npelanggan (pemilik proyek) tersebut secara nyata hanya dilakukan\natas nama PT X.\nKarena joint operation secara nyata tidak melakukan penyerahan\nBarang Kena Pajak dan/atau Jasa Kena Pajak kepada pihak lain,\nmaka dalam hal ini joint operation tidak wajib dikukuhkan sebagai\nPengusaha Kena Pajak."
                         }
                     ]
                 },
                 {
-                    "id": "e7c333a1-723e-4618-8eaa-027d58a329e2",
+                    "id": "57b5faba-56ef-421c-83ea-8873be261d71",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "cea253f3-d47b-46d1-aa91-582d2bee6c03",
+                            "id": "13b40d76-abbb-4d50-98f1-3ad92dbec83e",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " ditagih melalui penerbitan Surat Ketetapan Pajak\nKurang Bayar sesuai dengan ketentuan peraturan\nperundang-undangan di bidang perpajakan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pembeli Barang Kena Pajak atau penerima Jasa Kena Pajak\nbertanggung jawab secara renteng atas pembayaran Pajak\nPertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak\nPenjualan atas Barang Mewah.",
+                            "explanation": "\nTanggung renteng melekat pada pembeli Barang Kena Pajak atau\npenerima Jasa Kena Pajak atas transaksi pembelian Barang Kena\nPajak dan/atau Jasa Kena Pajak di dalam Daerah Pabean."
                         },
                         {
-                            "id": "a4f6a0fe-931f-47eb-8e65-8bf2a69f51fc",
+                            "id": "e7087937-14aa-4e39-a25e-cf2268d1f84c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Ketentuan sebagaimana dimaksud pada ayat (1) tidak\ndiberlakukan dalam hal:\na. pajak yang terutang tersebut dapat ditagih kepada\npenjual barang atau pemberi jasa; atau\nb. pembeli Barang Kena Pajak atau penerima Jasa Kena\nPajak dapat menunjukkan bukti telah melakukan\npembayaran pajak kepada penjual barang atau pemberi\njasa.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "defe9def-7a8d-4be2-80d1-98c2ca96f57e",
+                            "id": "568474f6-b400-4e06-b2dd-5293b2e3227b",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Tanggung jawab renteng sebagaimana dimaksud pada ayat",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Tanggung jawab renteng sebagaimana dimaksud pada ayat\n(1) ditagih melalui penerbitan Surat Ketetapan Pajak\nKurang Bayar sesuai dengan ketentuan peraturan\nperundang-undangan di bidang perpajakan.",
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "ae035156-db4e-4996-930b-a793a786d902",
+                            "id": "b19448e2-8653-40f1-a1fe-2b4ab363afaf",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Ketentuan lebih lanjut mengenai tata cara dan mekanisme\npelaksanaan tanggung jawab secara renteng atas\npembayaran Pajak Pertambahan Nilai atau Pajak\nPertambahan Nilai dan Pajak Penjualan atas Barang\nMewah diatur dengan Peraturan Menteri Keuangan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "891c589a-7b5c-40f2-864f-fd2384352eea",
+            "id": "f16935e8-9109-48e3-a07f-c8dc41b6f95b",
             "name": "Chapter III",
             "title": "\nBARANG KENA PAJAK DAN JASA KENA PAJAK",
             "type": "chapter",
             "children": [
                 {
-                    "id": "e98de287-5abf-4601-a731-47d6ed30de18",
+                    "id": "afecd995-6842-4d20-902d-d179fc0e9c59",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "c6531050-4ec7-4033-b396-0a6b5a2fd56a",
+                            "id": "08ca6d03-367f-4e99-a283-ab32b6f7e8e2",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pemakaian sendiri Barang Kena Pajak dan/atau Jasa Kena\nPajak merupakan penyerahan Barang Kena Pajak\ndan/atau Jasa Kena Pajak yang terutang Pajak\nPertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak\nPenjualan atas Barang Mewah.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nYang dimaksud dengan \"Pemakaian sendiri Barang Kena Pajak\"\nadalah pemakaian Barang Kena Pajak untuk kepentingan\npengusaha sendiri, pengurus, atau karyawannya, baik barang\nproduksi sendiri maupun bukan produksi sendiri.\nYang . . .\nYang dimaksud dengan \"Pemakaian sendiri Jasa Kena Pajak\"\nadalah pemakaian Jasa Kena Pajak untuk kepentingan pengusaha\nsendiri, pengurus, atau karyawannya."
                         },
                         {
-                            "id": "ec81e271-d16c-40ce-881b-a3ec4cddf8c8",
+                            "id": "41684661-9afa-4be3-b057-0875f744569d",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pemakaian sendiri Barang Kena Pajak dan/atau Jasa Kena\nPajak sebagaimana dimaksud pada ayat (1) meliputi\npemakaian sendiri untuk:\na. tujuan produktif; atau\nb. tujuan konsumtif.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nYang dimaksud dengan \"Pemakaian sendiri Barang Kena Pajak\ndan/atau Jasa Kena Pajak untuk tujuan produktif\" adalah\npemakaian Barang Kena Pajak dan/atau Jasa Kena Pajak yang\nnyata-nyata digunakan untuk kegiatan produksi selanjutnya atau\nuntuk kegiatan yang mempunyai hubungan langsung dengan\nkegiatan usaha Pengusaha yang bersangkutan, yang meliputi\nkegiatan produksi, distribusi, pemasaran, dan manajemen.\nYang dimaksud dengan \"Pemakaian sendiri Barang Kena Pajak\ndan/atau Jasa Kena Pajak untuk tujuan konsumtif\" adalah\npemakaian Barang Kena Pajak dan/atau Jasa Kena Pajak yang\ntidak ada kaitan dengan kegiatan produksi selanjutnya atau untuk\nkegiatan yang tidak mempunyai hubungan langsung dengan\nkegiatan usaha Pengusaha yang bersangkutan, yang meliputi\nkegiatan produksi, distribusi, pemasaran, dan manajemen.\nContoh pemakaian sendiri Barang Kena Pajak dan/atau Jasa Kena\nPajak:\nA. Pemakaian sendiri Barang Kena Pajak dan/atau Jasa Kena\nPajak untuk tujuan konsumtif:\n1) Pabrikan minuman ringan menggunakan hasil produksinya\nuntuk konsumsi karyawan atau para tamu.\n2) Pabrikan sepatu dalam rangka promosi membeli topi dengan\nlogo merek sepatu pabrik tersebut dan sebagian dibagikan\nkepada karyawannya.\n3) Perusahaan telekomunikasi selular memberikan fasilitas\nbebas biaya telepon selular kepada para direksinya.\nB. Pemakaian Barang Kena Pajak dan/atau Jasa Kena Pajak\nuntuk tujuan produktif yang nyata-nyata digunakan untuk\nkegiatan yang mempunyai hubungan langsung dengan kegiatan\nusaha Pengusaha yang bersangkutan:\n1) Pabrikan truk mempergunakan sendiri truk yang\ndiproduksinya untuk kegiatan usaha mengangkut suku\ncadang.\n2) Pabrikan minyak kelapa sawit menggunakan limbahnya\nberupa kulit dari inti sawit sebagai pengeras jalan di\nlingkungan pabrik.\n3) Perusahaan\n3) Perusahaan telekomunikasi menggunakan saluran\nteleponnya untuk kegiatan operasional perusahaan dalam\nberkomunikasi dengan mitra bisnisnya.\nc. Pemakaian Barang Kena Pajak dan/atau Jasa Kena Pajak\nuntuk tujuan produktif yang nyata-nyata digunakan untuk\nkegiatan produksi selanjutnya:\n1) Pabrikan minyak kelapa sawit menggunakan limbahnya\nberupa kulit dari inti sawit sebagai bahan pembakaran boiler\ndalam proses pabrikasi.\n2) Pabrikan kayu lapis (plywood) menggunakan hasil\nproduksinya berupa kayu lapis (plywood) untuk\nmembungkus kayu lapis (plywood) yang akan dipasarkan\nagar tidak rusak.\n3) Perusahaan telekomunikasi menggunakan sambungan\nsaluran teleponnya untuk melakukan penyerahan jasa\nprovider internet kepada konsumennya."
                         },
                         {
-                            "id": "dea2c9f2-8d7c-49a6-a8c5-556a290df799",
+                            "id": "25b55959-4001-4e9f-b44c-4f41b2f509d0",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Pemakaian sendiri Barang Kena Pajak dan/atau Jasa Kena\nPajak untuk tujuan produktif tidak dilakukan pemungutan\nPajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan\nPajak Penjualan atas Barang Mewah, kecuali pemakaian\nsendiri yang digunakan untuk melakukan penyerahan\nyang:\na. tidak terutang Pajak Pertambahan Nilai; atau\nb. mendapat fasilitas dibebaskan dari pengenaan Pajak\nPertambahan Nilai.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nTransaksi pemakaian sendiri untuk tujuan produktif terutang\nPajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak\nPenjualan atas Barang Mewah. Dalam rangka memberikan\nkemudahan administrasi kepada Pengusaha Kena Pajak,\npemakaian sendiri untuk tujuan produktif tidak dilakukan\npemungutan Pajak Pertambahan Nilai atau Pajak Pertambahan\nNilai dan Pajak Penjualan atas Barang Mewah. Kemudahan\nadministrasi tersebut diberikan karena Pajak Pertambahan Nilai\nyang dipungut oleh Pengusaha Kena Pajak atas pemakaian sendiri\nuntuk tujuan produktif merupakan Pajak Masukan yang dapat\ndikreditkan.\nKetentuan ini tidak berlaku dalam hal pemakaian sendiri\ndigunakan untuk kegiatan yang atas penyerahannya tidak\nterutang Pajak Pertambahan Nilai atau mendapat fasilitas\ndibebaskan dari pengenaan Pajak Pertambahan Nilai. Perlakuan\nini diberikan karena Pajak Pertambahan Nilai yang dipungut oleh\nPengusaha Kena Pajak atas pemakaian sendiri merupakan Pajak\nMasukan yang tidak dapat dikreditkan.\nContoh pemakaian sendiri untuk tujuan produktif:\nPabrikan ban menggunakan produksi ban sendiri untuk:\na. truk yang digunakan untuk pengangkutan ban produksinya;\ndan\nb. kendaraan angkutan umumnya.\n\nAtas pemakaian sendiri untuk tujuan produktif sebagaimana\ndimaksud pada contoh huruf a tidak dilakukan pemungutan Pajak\nPertambahan Nilai.\nNamun demikian, atas pemakaian sendiri untuk tujuan produktif\nsebagaimana dimaksud pada contoh huruf b tetap dipungut Pajak\nPertambahan Nilai, karena digunakan untuk penyerahan jasa\nangkutan umum yang merupakan penyerahan yang tidak terutang\nPajak Pertambahan Nilai."
                         },
                         {
-                            "id": "065113fe-5533-43bc-b50b-f4989e125252",
+                            "id": "755b51cb-fb22-47d7-9661-f7cd6328967d",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Pajak Pertambahan Nilai yang dibayar atas perolehan\nBarang Kena Pajak dan/atau Jasa Kena Pajak dalam\nrangka pemakaian sendiri Barang Kena Pajak dan/atau\nJasa Kena Pajak dapat dikreditkan sesuai dengan\nketentuan peraturan perundang-undangan di bidang\nperpajakan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nDalam hal Barang Kena Pajak dan/atau Jasa Kena Pajak yang\ndipakai sendiri tidak termasuk dalam kategori Barang Kena Pajak\ndan/atau Jasa Kena Pajak yang dibebaskan, Pajak Pertambahan\nNilai yang dibayar atas perolehan Barang Kena Pajak dan/atau\nJasa Kena Pajak tersebut merupakan Pajak Masukan yang dapat\ndikreditkan sepanjang memenuhi ketentuan sebagai Pajak\nMasukan yang dapat dikreditkan.\nDengan demikian apabila yang dipakai sendiri adalah Barang Kena\nPajak dan/atau Jasa Kena Pajak yang mendapat fasilitas\ndibebaskan dari pengenaan Pajak Pertambahan Nilai, Pajak\nPertambahan Nilai yang dibayar atas perolehan Barang Kena Pajak\ndan/atau Jasa Kena Pajak merupakan Pajak Masukan yang tidak\ndapat dikreditkan.\nDemikian juga apabila barang dan/atau jasa yang dipakai sendiri\ntermasuk dalam jenis bukan Barang Kena Pajak dan/atau bukan\nJasa Kena Pajak, Pajak Pertambahan Nilai yang dibayar atas\nperolehan barang dan/atau jasa tersebut merupakan Pajak\nMasukan yang tidak dapat dikreditkan."
                         }
                     ]
                 },
                 {
-                    "id": "2b4dbac8-c03f-40a3-9b31-e8f315660f9e",
+                    "id": "11f1eebe-239d-4506-bcfd-9843674c9157",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "e593179a-a112-448a-afc7-561574701dd6",
+                        "id": "8e7e94bb-15ff-4bad-9edb-c1c2f6292abd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nPajak Pertambahan Nilai dikenakan atas penyerahan Jasa Kena\nPajak di dalam Daerah Pabean yang dilakukan oleh Pengusaha\nyang dimanfaatkan di dalam atau di luar Daerah Pabean.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nSesuai dengan Penjelasan Pasal 4 ayat (1) huruf c Undang-Undang Pajak\nPertambahan Nilai yang menyatakan bahwa penyerahan jasa yang\nterutang pajak harus memenuhi syarat sebagai berikut:\n1) jasa yang diserahkan merupakan Jasa Kena Pajak;\n2) penyerahan dilakukan di dalam Daerah Pabean; dan\n3) penyerahan dilakukan dalam kegiatan usaha atau pekerjaannya,\nmaka terutangnya Pajak Pertambahan Nilai tidak mensyaratkan apakah\njasa harus dikonsumsi atau dimanfaatkan di dalam Daerah Pabean atau\ntidak.\nContoh 1:\nA Corp. yang berdomisili di Jepang mengirimkan lagu kepada PT B di\nIndonesia untuk dibuatkan penulisan not balok atas lagu tersebut.\nPenulisan not balok yang telah selesai dikirim kembali ke Jepang. Atas\njasa penulisan not balok yang dilakukan oleh PT B tersebut terutang\nPajak Pertambahan Nilai.\nContoh 2:\nZ Corp. yang berdomisili di Korea Selatan berencana memasarkan\nproduknya di Indonesia. Oleh karena itu, Z Corp. menyewa PT DEF di\nIndonesia untuk melakukan survei pasar di Indonesia. Jasa survei yang\ndilakukan oleh PT DEF tersebut terutang Pajak Pertambahan Nilai."
                     }
                 },
                 {
-                    "id": "80f27549-1e4a-4a98-8708-268afbb24a45",
+                    "id": "2a1d500e-670c-4599-9748-58872d801c65",
                     "name": "Article 7",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0dc1502b-efb5-4472-87f2-57b5dd75d144",
+                            "id": "947ad0d4-5de8-4770-8870-057925e35a14",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Jenis barang dan jenis jasa yang tidak dikenai Pajak\nPertambahan Nilai adalah sebagaimana diatur dalam Pasal\n4A Undang-Undang Pajak Pertambahan Nilai.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "cfd11aa2-7fba-4668-a8bd-1f01b80df912",
+                            "id": "02c03271-f64f-4575-8840-b521e1f3655b",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Ketentuan mengenai kriteria dan/atau rincian barang dan\njasa yang termasuk dalam jenis barang dan jenis jasa yang\ntidak dikenai Pajak Pertambahan Nilai sebagaimana\ndimaksud pada ayat (1) diatur dengan Peraturan Menteri\nKeuangan.\n",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         }
                     ]
                 },
                 {
-                    "id": "673d770b-d771-4666-bed5-0db48f9ef0d4",
+                    "id": "aca24cf4-c254-40fb-8f97-7656defe1d78",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "436bbcba-1e78-4c6b-a3dd-9c1f20558fda",
+                            "id": "6af90df7-b421-4b0a-a75d-a3cd03275efe",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penyerahan Barang Kena Pajak melalui juru lelang\nmerupakan penyerahan Barang Kena Pajak yang dikenai\nPajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan\nPajak Penjualan atas Barang Mewah.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "47c69336-582e-427f-b9dc-1dbc53b9044f",
+                            "id": "aff9fa07-8531-4491-ab2d-683184c600da",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pemungutan Pajak Pertambahan Nilai atau Pajak\nPertambahan Nilai dan Pajak Penjualan atas Barang\nMewah atas penyerahan Barang Kena Pajak melalui juru\nlelang dilakukan dengan penerbitan Faktur Pajak oleh\npemilik barang sesuai dengan ketentuan peraturan\nperundang-undangan di bidang perpajakan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "40af93e1-8029-4175-bc90-e40ddba62593",
+                            "id": "f2ea7361-d9f1-4523-8930-b7f98d4215be",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dalam hal pemilik barang sebagaimana dimaksud pada\nayat (2) tidak menerbitkan Faktur Pajak, pemungutan\nPajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan\nPajak Penjualan atas Barang Mewah atas penyerahan\nBarang Kena Pajak melalui juru lelang dilakukan sendiri\noleh pemenang lelang melalui Surat Setoran Pajak.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "6a8ea471-92f5-4c2e-b6bc-9c50732e14be",
+                            "id": "61aba371-cb17-4f31-8765-ecbea1dfcead",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Ketentuan lebih lanjut mengenai tata cara pemungutan\nPajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan\nPajak Penjualan atas Barang Mewah atas penyerahan\nBarang Kena Pajak melalui juru lelang diatur dengan\nPeraturan Menteri Keuangan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "46f003eb-bb21-44d4-9c16-20e62ca81eb7",
+            "id": "b4299687-c289-4be3-bed1-7cfe34df21d2",
             "name": "Chapter IV",
             "title": "\nDASAR PENGENAAN PAJAK",
             "type": "chapter",
             "children": [
                 {
-                    "id": "4f8ba63f-afd9-413b-a441-2f286fe23a21",
+                    "id": "344e3b10-6263-4190-8436-6b1a89025d5a",
                     "name": "Article 9",
                     "type": "article",
                     "children": [
                         {
-                            "id": "f94b9d9d-1b0a-4b3d-ab8c-c1b35d02e014",
+                            "id": "ec853ff6-bb00-4b1d-9c83-41b89b37df37",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dasar Pengenaan Pajak meliputi jumlah:\na. Harga Jual;\nb. Penggantian;\nc. nilai impor;\nd. nilai ekspor; atau\ne. nilai lain,\nyang\nyang dipakai sebagai dasar untuk menghitung Pajak\nPertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak\nPenjualan atas Barang Mewah yang terutang.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "61307f4b-4836-4e4d-8178-285be7247be4",
+                            "id": "033ee573-3223-4488-a4b8-0e1930bd2777",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dalam hal:\na. Pengusaha Kena Pajak yang menghasilkan Barang\nKena Pajak yang tergolong mewah menggunakan\nBarang Kena Pajak yang tergolong mewah lainnya\nsebagai bagian dari Barang Kena Pajak yang tergolong\nmewah yang dihasilkannya; dan\nb. atas perolehan Barang Kena Pajak yang tergolong\nmewah lainnya tersebut telah dibayar Pajak Penjualan\natas Barang Mewah,\nDasar Pengenaan Pajak berupa Harga Jual sebagaimana\ndimaksud pada ayat (1) huruf a termasuk Pajak Penjualan\natas Barang Mewah yang telah dibayar atas perolehan\nBarang Kena Pajak yang tergolong mewah lainnya tersebut.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nDalam hal Pengusaha Kena Pajak yang menghasilkan Barang Kena\nPajak yang tergolong mewah menggunakan Barang Kena Pajak\nyang tergolong mewah lainnya sebagai bagian dari Barang Kena\nPajak yang tergolong mewah yang dihasilkannya, dan atas\nperolehannya telah dibayar Pajak Penjualan atas Barang Mewah\nmaka Pajak Penjualan atas Barang Mewah yang telah dibayar\ntersebut merupakan bagian dari biaya produksi Barang Kena Pajak\nyang tergolong mewah yang dihasilkannya.\nDengan demikian, Pajak Penjualan atas Barang Mewah atas\nperolehan Barang Kena Pajak yang tergolong mewah yang menjadi\nbagian atau digunakan untuk menghasilkan Barang Kena Pajak\nyang tergolong mewah termasuk dalam Dasar Pengenaan Pajak.\nContoh:\nPT A merupakan produsen mobil. Dalam menghasilkan mobil, PT A\njuga membeli AC yang akan dipasang pada mobil yang\ndihasilkannya. Atas perolehan AC tersebut PT A telah membayar\nPajak Penjualan atas Barang Mewah sebesar Rp350.000,00.\nApabila\nApabila harga produksi mobil sebesar Rp110.000.000,00 dan\nkeuntungan yang diinginkan PT A sebesar Rp40.000.000,00 maka\nHarga Jual mobil tersebut sebesar Rp150.350.000,00. Dengan\ndemikian Dasar Pengenaan Pajak atas mobil tersebut adalah\nsebesar Rp150.350.000,00. Pajak yang terutang atas penyerahan\nBarang Kena Pajak yang tergolong mewah tersebut:\na. Pajak Pertambahan Nilai\n= 10% X Rp150.350.000,00 Rp15.035.000,00\nb. Pajak Penjualan atas Barang Mewah (tarif 20%)\n20% X Rp150.350.000,00 Rp30.070.000,00"
                         },
                         {
-                            "id": "c2e6aff4-73fa-45f1-be1f-ed1b689d9900",
+                            "id": "5fba5312-096b-4744-8ad0-4087daccc158",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dasar Pengenaan Pajak atas penyerahan Barang Kena\nPajak yang tergolong mewah yang dilakukan oleh\nPengusaha Kena Pajak yang menghasilkan Barang Kena\nPajak yang tergolong mewah atau atas impor Barang Kena\nPajak yang tergolong mewah, adalah tidak termasuk Pajak\nPertambahan Nilai dan Pajak Penjualan atas Barang\nMewah yang dikenakan atas penyerahan atau atas impor\nBarang Kena Pajak yang tergolong mewah tersebut.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nContoh 1:\nPT X yang menghasilkan Barang Kena Pajak yang tergolong mewah\nmenjual Barang Kena Pajak tersebut kepada PT A dengan Harga\nJual sebesar Rp100.000.000,00. Atas penjualan tersebut dikenai\nPajak Pertambahan Nilai sebesar 10% dan Pajak Penjualan atas\nBarang Mewah sebesar 20%. Dasar Pengenaan Pajak atas\npenyerahan Barang Kena Pajak yang tergolong mewah tersebut\nadalah sebesar Rp100.000.000,00, tidak termasuk Pajak\nPertambahan Nilai (sebesar 10%) dan Pajak Penjualan atas Barang\nMewah (sebesar 20%) yang dikenakan atas penyerahan Barang\nKena Pajak tersebut. Dengan demikian jumlah yang dibayar oleh\nPT A adalah sebagai berikut:\nDasar Pengenaan Pajak (Harga Jual)\nPajak Pertambahan Nilai\nRp100.000.000,00\nRp 10.000.000,00\nPajak Penjualan atas Barang Mewah\nRp 20.000.000,00\n= Rp130.000.000,00\nJumlah yang dibayar oleh PT A\nContoh 2:\nPT C mengimpor Barang Kena Pajak yang tergolong mewah dengan\nNilai Impor sebesar Rp200.000.000,00. Atas impor tersebut\ndikenai Pajak Pertambahan Nilai sebesar 10% dan Pajak Penjualan\natas Barang Mewah sebesar 30%. Dasar Pengenaan Pajak atas\nimpor Barang Kena Pajak yang tergolong mewah tersebut adalah\nsebesar Rp200.000.000,00, tidak termasuk Pajak Pertambahan\nNilai (sebesar 10%) dan Pajak Penjualan atas Barang Mewah\n(sebesar 30%) yang dikenakan atas impor Barang Kena Pajak\ntersebut. Dengan demikian jumlah yang dibayar oleh PT C adalah\nsebagai berikut:\nDasar Pengenaan Pajak (Nilai Impor)\nPajak Pertambahan Nilai\n= Rp200.000.000,00\n= Rp 20.000.000,00\nPajak\nPajak Penjualan atas Barang Mewah = Rp 60.000.000,00\nJumlah yang dibayar oleh PT C = Rp280.000.000,00"
                         },
                         {
-                            "id": "b417f476-456a-48d3-906a-0cd049b34d93",
+                            "id": "1115b72f-60f6-477c-b223-3e9e0495f3c4",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Dasar Pengenaan Pajak atas penyerahan Barang Kena\nPajak yang tergolong mewah yang dilakukan oleh\nPengusaha Kena Pajak selain:\na. Pengusaha Kena Pajak yang menghasilkan Barang Kena\nPajak yang tergolong mewah; atau\nb. Pengusaha Kena Pajak yang melakukan impor Barang\nKena Pajak yang tergolong mewah,\nadalah termasuk Pajak Penjualan atas Barang Mewah yang\ndikenakan atas perolehan atau atas impor Barang Kena\nPajak yang tergolong mewah tersebut.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nContoh 1:\nKelanjutan dari contoh 1 sebagaimana dimaksud pada Penjelasan\nayat (3), PT A menjual Barang Kena Pajak tersebut kepada PT B\ndengan keuntungan yang diharapkan sebesar Rp15.000.000,00.\nDasar Pengenaan Pajak atas penjualan tersebut termasuk Pajak\nPenjualan atas Barang Mewah yang dibayar atas perolehan Barang\nKena Pajak tersebut. Dengan demikian, jumlah yang dibayar oleh\nPT B adalah sebagai berikut:\nHarga beli PT A = Rp100.000.000,00\nPajak Penjualan atas Barang Mewah\nyang telah dibayar = Rp 20.000.000,00\nKeuntungan yang diharapkan = Rp 15.000.000,00 +\nDasar Pengenaan Pajak = Rp135.000.000,00\nPajak Pertambahan Nilai\n10% x Rp135.000.000,00 = Rp 13.500.000,00 +\nJumlah yang dibayar oleh PT B = Rp148.500.000,00\nContoh 2:\nKelanjutan dari contoh 2 sebagaimana dimaksud pada Penjelasan\nayat (3), PT C menjual Barang Kena Pajak tersebut kepada PT D\ndengan keuntungan yang diharapkan sebesar Rp40.000.000,00.\nDasar Pengenaan Pajak atas penjualan tersebut termasuk Pajak\nPenjualan atas Barang Mewah yang dibayar atas impor Barang\nKena Pajak tersebut. Dengan demikian, jumlah yang dibayar oleh\nPT D adalah sebagai berikut:\nNilai Impor PT C = Rp200.000.000,00\nPajak Penjualan atas Barang Mewah\nyang telah dibayar = Rp 60.000.000,00\nKeuntungan yang diharapkan = Rp 40.000.000,00 +\nDasar Pengenaan Pajak = Rp300.000.000,00\nPajak Pertambahan Nilai\n10% x Rp300.000.000,00 = Rp 30.000.000,00 +\nJumlah yang dibayar oleh PT D = Rp330.000.000,00\nPasal 10 . . ."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "a4183bdf-5a0b-4e84-8ddc-db57b3c4f298",
+            "id": "da097deb-be9f-4f9a-ab86-63c666783041",
             "name": "Chapter V",
             "title": "\nPENGHITUNGAN PAJAK PERTAMBAHAN NILAI\nATAU PAJAK PERTAMBAHAN NILAI\nDAN PAJAK PENJUALAN ATAS BARANG MEWAH",
             "type": "chapter",
             "children": [
                 {
-                    "id": "6c30f4e5-e3fb-4295-84ae-b2eb082ab82e",
+                    "id": "1c95934a-934f-4de6-99ee-c5b59f7f3ea6",
                     "name": "Article 10",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e9596fb4-1a31-4026-9102-82c64fb19b98",
+                            "id": "291c705c-ca19-427a-b9e2-c24d4d5d2560",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Kontrak atau perjanjian tertulis mengenai penyerahan\nBarang Kena Pajak dan/atau Jasa Kena Pajak paling\nsedikit memuat:\na. nilai kontrak;\nb. Dasar Pengenaan Pajak; dan\nc. besarnya Pajak Pertambahan Nilai atau Pajak\nPertambahan Nilai dan Pajak Penjualan atas Barang\nMewah yang terutang.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "26a1b900-dfa3-4f4a-81ff-613b9db1d97d",
+                            "id": "3d5f2347-5631-413e-8e2f-598af7330cf4",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dalam hal nilai kontrak atau perjanjian tertulis sudah\ntermasuk Pajak Pertambahan Nilai atau Pajak\nPertambahan Nilai dan Pajak Penjualan atas Barang\nMewah, dalam kontrak atau perjanjian tertulis wajib\ndisebutkan nilai kontrak atau perjanjian tertulis tersebut\ntermasuk Pajak Pertambahan Nilai atau Pajak\nPertambahan Nilai dan Pajak Penjualan atas Barang\nMewah.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nContoh:\nApabila dalam pembuatan kontrak atau perjanjian tertulis bahwa\ndalam nilai kontrak sebesar Rp130.000.000,00 secara tegas\ndinyatakan sudah termasuk Pajak Pertambahan Nilai (sebesar\n10%) dan Pajak Penjualan atas Barang Mewah (sebesar 20%),\npenghitungan Pajak Pertambahan Nilai dan Pajak Penjualan atas\nBarang Mewah menurut ayat ini adalah sebagai berikut:\nPajak Pertambahan Nilai yang terutang =\n10\n110+20\nx Rp130.000.000,00 = Rp10.000.000,00\nPajak Penjualan atas Barang Mewah yang terutang =\n20\n110+20\nx Rp130.000.000,00 = Rp20.000.000,00"
                         },
                         {
-                            "id": "2e9ea9fd-8f5a-4ceb-a2b9-83de0e92fc46",
+                            "id": "b795d45a-412c-4d31-a985-c5560454d2f7",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dalam hal kontrak atau perjanjian tertulis tidak\nmenyebutkan nilai kontrak atau perjanjian tertulis tersebut\ntermasuk Pajak Pertambahan Nilai atau Pajak\nPertambahan Nilai dan Pajak Penjualan atas Barang\nMewah, nilai kontrak yang tercantum dalam kontrak atau\nperjanjian tertulis tersebut dianggap sebagai Dasar\nPengenaan Pajak.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nSebagaimana contoh pada penjelasan ayat (2), apabila dalam\nkontrak atau perjanjian tertulis tidak dinyatakan dengan tegas\nbahwa Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang\nMewah termasuk dalam nilai kontrak, besarnya Dasar Pengenaan\nPajak untuk menghitung Pajak Pertambahan Nilai adalah sebesar\nRp130.000.000,00.  Sehingga penghitungan Pajak Pertambahan\nNilai dan Pajak Penjualan atas Barang Mewah adalah sebagai\nberikut:\nDasar Pengenaan Pajak = Rp130.000.000,00\nPajak Pertambahan Nilai\ndengan tarif 10%\n(10% x Rp130.000.000,00) = Rp13.000.000,00\nPajak Penjualan atas Barang Mewah\ndengan tarif 20%\n(20% x Rp130.000.000,00) = Rp26.000.000,00\n"
                         }
                     ]
                 },
                 {
-                    "id": "779c6792-0c1d-409a-b21b-a190a922fe4d",
+                    "id": "bb1626b2-50c2-4bd5-8012-fc22e8c6670d",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9cf41a5a-9e35-4366-b03f-65eef6385f11",
+                            "id": "76f220aa-b78d-40be-bdf6-ce5188647c2b",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam hal Pajak Pertambahan Nilai menjadi bagian dari\nharga atau pembayaran atas penyerahan Barang Kena\nPajak dan/atau penyerahan Jasa Kena Pajak, Pajak\nPertambahan Nilai yang terutang adalah 10/110 (sepuluh\nper seratus sepuluh) dari harga atau pembayaran atas\npenyerahan Barang Kena Pajak dan/atau penyerahan Jasa\nKena Pajak.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "62625094-8854-4ea4-ad47-7b9d08b3b297",
+                            "id": "450680e1-9239-4786-bb14-0d9a6f34c865",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Dalam hal penyerahan Barang Kena Pajak sebagaimana dimaksud pada ayat (1) juga terutang Pajak Penjualan atas Barang Mewah dan telah menjadi bagian dari harga atau pembayaran atas penyerahan Barang Kena Pajak, penghitungan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah menggunakan rumus sebagai berikut:\na. Pajak Pertambahan Nilai =\n10\nX harga atau pembayaran atas\n110 + t penyerahan Barang Kena Pajak\nb. Pajak Penjualan atas Barang Mewah =\nt\nX harga atau pembayaran atas\n110 + t penyerahan Barang Kena Pajak",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Dalam hal penyerahan Barang Kena Pajak sebagaimana dimaksud pada ayat (1) juga terutang Pajak Penjualan atas Barang Mewah dan telah menjadi bagian dari harga atau pembayaran atas penyerahan Barang Kena Pajak, penghitungan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah menggunakan rumus sebagai berikut:\na. Pajak Pertambahan Nilai =\n10\nX harga atau pembayaran atas\n110 + t penyerahan Barang Kena Pajak\nb. Pajak Penjualan atas Barang Mewah =\nt\nX harga atau pembayaran atas\n110 + t penyerahan Barang Kena Pajak\n(3) Dalam hal berdasarkan hasil pemeriksaan Pengusaha Kena Pajak tidak melaksanakan sebagian atau seluruh kewajiban pemungutan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Dasar Pengenaan Pajak ditetapkan sebesar Harga Jual, Penggantian, atau nilai lain sesuai hasil pemeriksaan.",
+                            "explanation": "\nYang dimaksud dengan \"t\" adalah besarnya tarif Pajak Penjualan atas Barang Mewah."
                         },
                         {
-                            "id": "b43908b6-f532-4f42-82f9-27c851ba09dd",
-                            "name": "Verse 3",
-                            "number": "(3)",
-                            "type": "verse",
-                            "content": " Dalam hal berdasarkan hasil pemeriksaan Pengusaha Kena Pajak tidak melaksanakan sebagian atau seluruh kewajiban pemungutan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Dasar Pengenaan Pajak ditetapkan sebesar Harga Jual, Penggantian, atau nilai lain sesuai hasil pemeriksaan.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "0e120e8d-8a73-44b5-9557-c52b2181628b",
+                            "id": "d0fe91b9-aec4-4d83-a934-0cce3350e0ae",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Besarnya Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah yang terutang sebagaimana dimaksud pada ayat (3) dihitung berdasarkan tarif dikalikan Dasar Pengenaan Pajak menurut hasil pemeriksaan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "67a76db0-78f7-4c14-aabd-c97dded78949",
+                            "id": "0c7ca398-3db7-422d-aafa-111f83c3e6d6",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
                             "content": " Dalam hal Pengusaha yang wajib melaporkan usahanya untuk dikukuhkan sebagai Pengusaha Kena Pajak tidak melaksanakan kewajibannya, besarnya Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah yang terutang dihitung sesuai ketentuan sebagaimana dimaksud pada ayat (3) dan ayat (4).",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         }
                     ]
                 },
                 {
-                    "id": "9bfdaa3a-88d0-4532-aaf6-d3f5205f25ad",
+                    "id": "cb7d9183-5c49-484e-8eb9-577e0881cc27",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e4ddd1e9-d14d-4067-9252-680aa72153b5",
+                            "id": "f0788168-f64b-439f-b491-29e94e83b7a4",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Penghapusan piutang tidak mengakibatkan dilakukan penyesuaian Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah yang telah:\na. dilaporkan oleh Pengusaha Kena Pajak penjual atau Pengusaha Kena Pajak pemberi jasa; dan\nb. dikreditkan . . .\nb. dikreditkan atau yang telah dibebankan sebagai biaya oleh Pengusaha Kena Pajak pembeli atau Pengusaha Kena Pajak penerima jasa.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Penghapusan piutang tidak mengakibatkan dilakukan penyesuaian Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah yang telah:\na. dilaporkan oleh Pengusaha Kena Pajak penjual atau Pengusaha Kena Pajak pemberi jasa; dan\n\nb. dikreditkan atau yang telah dibebankan sebagai biaya\noleh Pengusaha Kena Pajak pembeli atau Pengusaha\nKena Pajak penerima jasa.",
+                            "explanation": "\nYang dimaksud dengan \"piutang\" adalah piutang dagang yang timbul karena penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak.\nPajak Pertambahan Nilai dikenakan atas konsumsi Barang Kena Pajak dan/atau Jasa Kena Pajak. Dalam hal piutang yang timbul karena penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak tersebut dihapuskan, penghapusan tersebut tidak mempunyai akibat terhadap konsumsi Barang Kena Pajak dan/atau Jasa Kena Pajak tersebut.\nOleh karena itu, bagi Pengusaha Kena Pajak penjual yang menghapuskan piutangnya tidak perlu melakukan penyesuaian atas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah yang telah dilaporkan.\nSementara bagi Pengusaha Kena Pajak pembeli yang menikmati penghapusan piutangnya tidak perlu melakukan penyesuaian Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan . . .\nPenjualan atas Barang Mewah yang telah dikreditkan atau yang\ntelah dibebankan sebagai biaya."
                         },
                         {
-                            "id": "22e90582-8f93-4cb8-ae24-bebe4f85b19c",
+                            "id": "0a4436e0-9e03-420f-a0d6-270add969010",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Atas Barang Kena Pajak yang musnah atau rusak sehingga\ntidak dapat digunakan lagi baik karena di luar kekuasaan\nPengusaha Kena Pajak atau keadaan kahar, tidak\nmengakibatkan dilakukan penyesuaian Pajak Pertambahan\nNilai atau Pajak Pertambahan Nilai dan Pajak Penjualan\natas Barang Mewah yang telah dikreditkan atau yang telah\ndibebankan sebagai biaya untuk perolehan Barang Kena\nPajak yang musnah atau rusak tersebut.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nYang dimaksud dengan \"keadaan kahar\" atau *force majeure* adalah\nsuatu kejadian yang terjadi di luar kemampuan *manusia* dan tidak\ndapat dihindarkan sehingga suatu kegiatan tidak dapat\ndilaksanakan atau tidak dapat dilaksanakan sebagaimana\nmestinya.\nYang termasuk kategori keadaan kahar atau *force majeure* adalah\npeperangan, kerusuhan, revolusi, bencana alam, pemogokan,\nkebakaran, dan bencana lainnya yang harus dinyatakan oleh\npejabat/instansi yang berwenang."
                         }
                     ]
                 },
                 {
-                    "id": "dafe58bd-c9a0-4a2a-9ab2-82a676398147",
+                    "id": "fb99638c-a43a-4a6f-b062-7a16fbaf8c5b",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "3266803a-531a-4d36-84c4-09b3f4a0c446",
+                            "id": "13af4c43-74b7-4cd4-933d-70163cbf537b",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam hal:\na. terjadi kesalahan pemungutan yang mengakibatkan\nPajak Pertambahan Nilai atau Pajak Pertambahan Nilai\ndan Pajak Penjualan atas Barang Mewah yang\ndipungut lebih besar dari yang seharusnya atau tidak\nseharusnya dipungut; dan\nb. Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai\ndan Pajak Penjualan atas Barang Mewah yang salah\ndipungut sebagaimana dimaksud pada huruf a telah\ndisetorkan dan dilaporkan,\natas Pajak Pertambahan Nilai atau Pajak Pertambahan\nNilai dan Pajak Penjualan atas Barang Mewah yang salah\ndipungut hanya dapat dimintakan kembali oleh pihak yang\nterpungut, sepanjang belum dikreditkan, belum\ndibebankan sebagai biaya, atau belum dikapitalisasi dalam\nharga perolehan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "3c13dc12-1d6d-49cd-9aad-b9fb59283586",
+                            "id": "b188ccf1-21d0-4889-b712-ab2f197224c2",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pihak yang terpungut sebagaimana dimaksud pada ayat (1)\nmeliputi:\na. importir;\nb. pembeli barang;\nc. penerima jasa;\nd. pihak yang memanfaatkan barang tidak berwujud dari\nluar Daerah Pabean; atau\ne. pihak yang memanfaatkan jasa dari luar Daerah\nPabean.\n",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nHuruf a\nCukup jelas.\nHuruf b\nTermasuk dalam pengertian pembeli barang dalam\nketentuan ini adalah Pemungut Pajak Pertambahan Nilai\ndalam hal transaksi penyerahan Barang Kena Pajak kepada\nPemungut Pajak Pertambahan Nilai.\nHuruf c\nTermasuk dalam pengertian penerima jasa dalam ketentuan\nini adalah Pemungut Pajak Pertambahan Nilai dalam hal\ntransaksi penyerahan Jasa Kena Pajak kepada Pemungut\nPajak Pertambahan Nilai.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas."
                         }
                     ]
                 },
                 {
-                    "id": "1149f9ce-972a-41c3-b9a7-e821c33151ad",
+                    "id": "c1939ced-4b77-4733-b070-4fe538c84801",
                     "name": "Article 14",
                     "type": "article",
                     "children": {
-                        "id": "17d5a8f7-1567-4e1b-8cdf-364fb6d124ef",
+                        "id": "42da9d73-6182-4fea-b3d7-18ed06d82d89",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam hal transaksi atas:\na. impor Barang Kena Pajak;\nb. penyerahan Barang Kena Pajak;\nc. penyerahan Jasa Kena Pajak;\nd. pemanfaatan Barang Kena Pajak Tidak berwujud dari luar Daerah Pabean; atau\ne. pemanfaatan Jasa Kena Pajak dari luar Daerah Pabean,\ndilakukan dengan mempergunakan mata uang asing, penghitungan besarnya Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah yang terutang, harus dikonversi ke dalam mata uang rupiah dengan mempergunakan kurs yang ditetapkan Menteri Keuangan yang berlaku pada saat pembuatan Faktur Pajak.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nDalam hal transaksi atas:\na. impor Barang Kena Pajak;\nb. penyerahan Barang Kena Pajak;\nc. penyerahan Jasa Kena Pajak;\nd. pemanfaatan Barang Kena Pajak Tidak berwujud dari luar\nDaerah Pabean; atau\ne. pemanfaatan Jasa Kena Pajak dari luar Daerah Pabean,\ndilakukan dengan mempergunakan mata uang asing,\npenghitungan besarnya Pajak Pertambahan Nilai atau Pajak\nPertambahan Nilai dan Pajak Penjualan atas Barang Mewah\nyang terutang, harus dikonversi ke dalam mata uang rupiah\ndengan mempergunakan kurs yang ditetapkan Menteri\nKeuangan yang berlaku pada saat pembuatan Faktur Pajak.",
+                        "explanation": "\nCukup jelas."
                     }
                 }
             ]
         },
         {
-            "id": "3df5cd14-821d-45d7-9372-b0d56aee1e7e",
+            "id": "3f08dd28-c44b-4243-ab00-fd396ff76e1a",
             "name": "Chapter VI",
             "title": "\nPENGKREDITAN PAJAK MASUKAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "4be27717-0011-4d6a-beab-1328d46b6a82",
+                    "id": "896db41f-9a3e-4d20-b0fd-3a4a2ee785d9",
                     "name": "Article 15",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e42e3642-8f0b-4447-aa21-2e15080c29e0",
+                            "id": "41375879-1d0f-4270-8160-386193f497eb",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Pajak Masukan yang dibayar untuk perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak harus dikreditkan dengan Pajak Keluaran di tempat Pengusaha Kena Pajak dikukuhkan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pajak Masukan yang dibayar untuk perolehan Barang Kena\nPajak dan/atau Jasa Kena Pajak harus dikreditkan dengan\nPajak Keluaran di tempat Pengusaha Kena Pajak\ndikukuhkan.",
+                            "explanation": "\nTempat pengkreditan Pajak Masukan adalah di tempat Pengusaha\nKena Pajak dikukuhkan. Faktur Pajak yang menjadi dasar\npengkreditan harus memenuhi ketentuan yang berlaku antara lain\nalamat Pengusaha Kena Pajak yang tercantum dalam Faktur Pajak\nharus sama dengan alamat Pengusaha Kena Pajak yang tercantum\ndalam Surat Keputusan Pengukuhan.\nDalam hal Pengusaha melakukan impor Barang Kena Pajak dan\ntempat melakukan impor berbeda dengan tempat Pengusaha\ndikukuhkan sebagai Pengusaha Kena Pajak, tempat pengkreditan\nPajak Masukan atas impor Barang Kena Pajak adalah di tempat\nPengusaha dikukuhkan sebagai Pengusaha Kena Pajak.\nDengan demikian Pengusaha Kena Pajak yang melakukan impor\nBarang Kena Pajak tersebut tidak perlu dikukuhkan lagi sebagai\nPengusaha Kena Pajak di tempat Barang Kena Pajak tersebut\ndiimpor.\nContoh:\nPT A dikukuhkan sebagai Pengusaha Kena Pajak di Jakarta,\nmelakukan impor di Surabaya. Pajak Masukan atas impor Barang\nKena Pajak dikreditkan di tempat pengusaha dikukuhkan di\nJakarta. Atas impor ini PT A tidak perlu lagi dikukuhkan sebagai\nPengusaha Kena Pajak di Surabaya."
                         },
                         {
-                            "id": "3a181c5c-7537-42fb-bb1d-b2d99abbb33a",
+                            "id": "69147ac2-a359-47d0-adf2-68a1bea0aed0",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Dalam hal impor Barang Kena Pajak, Direktur Jenderal Pajak karena jabatan atau berdasarkan permohonan tertulis dari Pengusaha Kena Pajak dapat menentukan tempat lain selain tempat dilakukannya impor Barang Kena Pajak, sebagai tempat pengkreditan Pajak Masukan sebagaimana dimaksud pada ayat (1).",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Dalam hal impor Barang Kena Pajak, Direktur Jenderal\nPajak karena jabatan atau berdasarkan permohonan\ntertulis dari Pengusaha Kena Pajak dapat menentukan\ntempat lain selain tempat dilakukannya impor Barang Kena\nPajak, sebagai tempat pengkreditan Pajak Masukan\nsebagaimana dimaksud pada ayat (1).",
+                            "explanation": "\nPengusaha yang dikukuhkan sebagai Pengusaha Kena Pajak di\nlebih dari satu tempat kegiatan usaha dapat memilih salah satu\ntempat sebagai tempat pengkreditan atas impor Barang Kena Pajak\ndengan permohonan tertulis kepada Direktur Jenderal Pajak.\nContoh:\nPengusaha Kena Pajak A yang kantor pusatnya di Jakarta dan\ntelah terdaftar di Kantor Pelayanan Pajak Pratama Jakarta Gambir\nSatu memiliki pabrik yang terletak di kota Surakarta dan terdaftar\nsebagai Pengusaha Kena Pajak di Kantor Pelayanan Pajak Pratama\nSurakarta. Pemberitahuan Impor Barang dalam rangka impor\nBarang Kena Pajak menggunakan Nomor Pokok Wajib Pajak kantor\npusat di Jakarta. Dengan persetujuan Direktur Jenderal Pajak,\nPengusaha Kena Pajak di Surakarta dapat mengkreditkan Pajak\nMasukan yang tercantum dalam dokumen impor tersebut.\nDirektur . . .\nDirektur Jenderal Pajak karena jabatan dapat menetapkan tempat\nlain selain tempat dilakukannya impor Barang Kena Pajak, sebagai\ntempat pengkreditan Pajak Masukan. Ketentuan ini diperlukan\nuntuk memberikan kemudahan bagi Pengusaha Kena Pajak yang\nterdaftar di Kantor Pelayanan Pajak tertentu yang pemenuhan\nkewajiban Pajak Pertambahan Nilainya ditetapkan secara terpusat."
                         },
                         {
-                            "id": "7e3162a3-e0f1-4b79-8863-fc10a4b2e1f9",
+                            "id": "f7c04328-361f-4f98-b5b8-49dae8ad036d",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Ketentuan lebih lanjut mengenai tata cara penentuan tempat lain selain tempat dilakukannya impor Barang Kena Pajak sebagai tempat pengkreditan Pajak Masukan sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Menteri Keuangan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Ketentuan lebih lanjut mengenai tata cara penentuan\ntempat lain selain tempat dilakukannya impor Barang Kena\nPajak sebagai tempat pengkreditan Pajak Masukan\nsebagaimana dimaksud pada ayat (2) diatur dengan\nPeraturan Menteri Keuangan.",
+                            "explanation": ""
                         }
                     ]
                 },
                 {
-                    "id": "2c8de5f8-dce5-473e-8d94-338ba220ad47",
+                    "id": "cb6f2959-c0b2-4f2b-8efc-947e243009a6",
                     "name": "Article 16",
                     "type": "article",
                     "children": [
                         {
-                            "id": "689b75ad-05cd-49ff-b539-cea1f3dfe3ba",
+                            "id": "44546cae-b1e9-43a8-9dde-1cdee359bc9f",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Bagi Pengusaha Kena Pajak yang belum berproduksi sehingga belum melakukan penyerahan yang terutang Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Pajak Masukan atas perolehan dan/atau impor barang modal dapat dikreditkan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Bagi Pengusaha Kena Pajak yang belum berproduksi\nsehingga belum melakukan penyerahan yang terutang\nPajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan\nPajak Penjualan atas Barang Mewah, Pajak Masukan atas\nperolehan dan/atau impor barang modal dapat\ndikreditkan.",
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "f91b0d06-e287-4d87-8f18-f99a5aeb8e43",
+                            "id": "0bd2367b-2f21-4e08-9b7e-100a0219864b",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Barang modal sebagaimana dimaksud pada ayat (1) adalah harta berwujud yang memiliki masa manfaat lebih dari 1 (satu) tahun yang menurut tujuan semula tidak untuk diperjualbelikan, termasuk pengeluaran berkaitan dengan perolehan barang modal yang dikapitalisasi ke dalam harga perolehan barang modal tersebut.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Barang modal sebagaimana dimaksud pada ayat (1) adalah\nharta berwujud yang memiliki masa manfaat lebih dari 1\n(satu) tahun yang menurut tujuan semula tidak untuk\ndiperjualbelikan, termasuk pengeluaran berkaitan dengan\nperolehan barang modal yang dikapitalisasi ke dalam harga\nperolehan barang modal tersebut.",
+                            "explanation": "\nKetentuan mengenai masa manfaat lebih dari 1 (satu) tahun untuk\nbarang modal mengacu pada ketentuan peraturan perundang-\nundangan di bidang Pajak Penghasilan yang pembebanannya\nsebagai biaya dalam penghitungan Pajak Penghasilan harus\nmelalui penyusutan. Pajak Masukan atas impor dan/atau\nperolehan barang modal tersebut merupakan Pajak Masukan yang\ndapat dikreditkan.\nContoh:\nPengusaha Kena Pajak membeli barang modal berupa mesin dari\nluar Daerah Pabean. Untuk pemasangannya, Pengusaha Kena\nPajak memanfaatkan jasa pemasangan dari Pengusaha Kena Pajak\nlain di dalam Daerah Pabean. Pembayaran atas jasa pemasangan.\nyang dikapitalisasi ke dalam harga perolehan mesin tersebut\nmerupakan pengeluaran yang Pajak Masukannya dapat\ndikreditkan."
                         },
                         {
-                            "id": "d3a33a15-8523-4042-b070-fa651456db23",
+                            "id": "8d3afbad-7808-4f9d-a77d-39d8ecaf46a2",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Ketentuan mengenai pengkreditan Pajak Masukan atas perolehan dan/atau impor barang modal sebagaimana dimaksud pada ayat (1) dan barang modal sebagaimana dimaksud pada ayat (2), berlaku untuk seluruh kegiatan usaha.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Ketentuan mengenai pengkreditan Pajak Masukan atas\nperolehan dan/atau impor barang modal sebagaimana\ndimaksud pada ayat (1) dan barang modal sebagaimana\ndimaksud pada ayat (2), berlaku untuk seluruh kegiatan\nusaha.",
+                            "explanation": "\nKetentuan mengenai pengkreditan Pajak Masukan atas perolehan\ndan/atau impor barang modal bagi Pengusaha Kena Pajak yang\nbelum berproduksi berlaku untuk seluruh kegiatan usaha yang\nmeliputi kegiatan industri atau manufaktur, kegiatan usaha\nperdagangan, kegiatan usaha jasa, dan kegiatan usaha lainnya."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "4c8b22d5-765f-435e-ad18-09c6337489f9",
+            "id": "80594b35-5590-4508-a58a-b022f688413c",
             "name": "Chapter VII",
-            "title": "\nSAAT DAN TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+            "title": "\nSAAT DAN TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI\nATAU PAJAK PERTAMBAHAN NILAI\nDAN PAJAK PENJUALAN ATAS BARANG MEWAH",
             "type": "chapter",
             "children": [
                 {
-                    "id": "c4371086-20c5-48c4-8e56-6fb62e8b8ec6",
+                    "id": "e95c831b-2b36-4e9e-961a-5d9e18910f67",
                     "name": "Article 17",
                     "type": "article",
                     "children": [
                         {
-                            "id": "7a873d4b-2b3d-4883-a987-00f8a2456484",
+                            "id": "7783d1aa-3ff2-42e0-ab32-4310387afe74",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " huruf h terjadi pada saat Penggantian atas jasa yang\ndiekspor tersebut dicatat atau diakui sebagai piutang atau\npenghasilan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Terutangnya Pajak Pertambahan Nilai atau Pajak\nPertambahan Nilai dan Pajak Penjualan atas Barang\nMewah terjadi pada saat:\na. penyerahan Barang Kena Pajak;\nb. impor Barang Kena Pajak;\nc. penyerahan Jasa Kena Pajak;\nd. pemanfaatan Barang Kena Pajak Tidak Berwujud dari\nluar Daerah Pabean;\ne. pemanfaatan Jasa Kena Pajak dari luar Daerah\nPabean;\nf. ekspor Barang Kena Pajak Berwujud;\ng. ekspor Barang Kena Pajak Tidak Berwujud; atau\nh. ekspor Jasa Kena Pajak.",
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "cd84b04d-bbc0-48f3-ab0f-a4258aaff0f0",
+                            "id": "5b3a77c7-0b22-4047-83e6-38a23ed59003",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dalam hal pembayaran diterima sebelum penyerahan\nBarang Kena Pajak atau sebelum penyerahan Jasa Kena\nPajak atau dalam hal pembayaran dilakukan sebelum\ndimulainya pemanfaatan Barang Kena Pajak Tidak\nBerwujud atau Jasa Kena Pajak dari luar Daerah Pabean,\nsaat terutangnya Pajak Pertambahan Nilai atau Pajak\nPertambahan Nilai dan Pajak Penjualan atas Barang\nMewah adalah pada saat pembayaran.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas.\n"
                         },
                         {
-                            "id": "23fddfc3-b316-4186-9669-945a55ecbd90",
+                            "id": "b4ce46c9-2359-4324-bb1d-58d97f96625e",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Penyerahan Barang Kena Pajak sebagaimana dimaksud\npada ayat (1) huruf a untuk:\na. penyerahan Barang Kena Pajak berwujud yang\nmenurut sifat atau hukumnya berupa barang\nbergerak, terjadi pada saat:\n1. Barang Kena Pajak berwujud tersebut diserahkan\nsecara langsung kepada pembeli atau pihak ketiga\nuntuk dan atas nama pembeli;\n2. Barang Kena Pajak berwujud tersebut diserahkan\nsecara langsung kepada penerima barang untuk\npemberian cuma-cuma, pemakaian sendiri, dan\npenyerahan dari pusat ke cabang atau sebaliknya\ndan/atau penyerahan antar cabang;\n3. Barang Kena Pajak berwujud tersebut diserahkan\nkepada juru kirim atau pengusaha jasa angkutan;\natau\n4. harga atas penyerahan Barang Kena Pajak diakui\nsebagai piutang atau penghasilan, atau pada saat\nditerbitkan faktur penjualan oleh Pengusaha Kena\nPajak, sesuai dengan prinsip akuntansi yang\nberlaku umum dan diterapkan secara konsisten.\nb. penyerahan Barang Kena Pajak berwujud yang\nmenurut sifat atau hukumnya berupa barang tidak\nbergerak, terjadi pada saat penyerahan hak untuk\nmenggunakan atau menguasai Barang Kena Pajak\nberwujud tersebut, secara hukum atau secara nyata,\nkepada pihak pembeli.\nc. penyerahan Barang Kena Pajak tidak berwujud, terjadi\npada saat:\n1. harga atas penyerahan Barang Kena Pajak tidak\nberwujud diakui sebagai piutang atau penghasilan,\natau pada saat diterbitkan faktur penjualan oleh\nPengusaha Kena Pajak, sesuai dengan prinsip\nakuntansi yang berlaku umum dan diterapkan\nsecara konsisten; atau\n2.  kontrak\n2.  kontrak atau perjanjian ditandatangani, atau saat\nmulai tersedianya fasilitas atau kemudahan untuk\ndipakai secara nyata, sebagian atau seluruhnya,\ndalam hal saat sebagaimana dimaksud pada angka\n1 tidak diketahui.\nd. Barang Kena Pajak berupa persediaan dan/atau aktiva\nyang menurut tujuan semula tidak untuk\ndiperjualbelikan, yang masih tersisa pada saat\npembubaran perusahaan terjadi, adalah pada saat\nyang terjadi lebih dahulu di antara saat:\n1.  ditandatanganinya akta pembubaran oleh Notaris;\n2.  berakhirnya jangka waktu berdirinya perusahaan\nyang ditetapkan dalam Anggaran Dasar;\n3.  tanggal penetapan Pengadilan yang menyatakan\nperusahaan dibubarkan; atau\n4.  diketahuinya bahwa perusahaan tersebut nyata-\nnyata sudah tidak melakukan kegiatan usaha\natau sudah dibubarkan, berdasarkan hasil\npemeriksaan atau berdasarkan data atau\ndokumen yang ada.\ne. pengalihan Barang Kena Pajak dalam rangka\npenggabungan, peleburan, pemekaran, pemecahan,\ndan pengambilalihan usaha yang tidak memenuhi\nketentuan Pasal 1A ayat (2) huruf d Undang-Undang\nPajak Pertambahan Nilai atau perubahan bentuk\nusaha, terjadi pada saat:\n1.\n    disepakati atau ditetapkannya penggabungan,\n    peleburan,\n    pemekaran,\n    pemecahan,\n    pengambilalihan usaha, atau perubahan bentuk\n    usaha sesuai hasil Rapat Umum Pemegang\n    Saham yang tertuang dalam perjanjian\n    penggabungan, peleburan, pemekaran,\n    pemecahan, pengambilalihan usaha, atau\n    perubahan bentuk usaha; atau\n2.  ditandatanganinya akta mengenai penggabungan,\npeleburan, pemekaran, pemecahan atau\npengambilalihan usaha, atau perubahan bentuk\nusaha oleh Notaris.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Penyerahan Barang Kena Pajak sebagaimana dimaksud\npada ayat (1) huruf a untuk:\na. penyerahan Barang Kena Pajak berwujud yang\nmenurut sifat atau hukumnya berupa barang\nbergerak, terjadi pada saat:\n1. Barang Kena Pajak berwujud tersebut diserahkan\nsecara langsung kepada pembeli atau pihak ketiga\nuntuk dan atas nama pembeli;\n2. Barang Kena Pajak berwujud tersebut diserahkan\nsecara langsung kepada penerima barang untuk\npemberian cuma-cuma, pemakaian sendiri, dan\npenyerahan dari pusat ke cabang atau sebaliknya\ndan/atau penyerahan antar cabang;\n3. Barang Kena Pajak berwujud tersebut diserahkan\nkepada juru kirim atau pengusaha jasa angkutan;\natau\n4. harga atas penyerahan Barang Kena Pajak diakui\nsebagai piutang atau penghasilan, atau pada saat\nditerbitkan faktur penjualan oleh Pengusaha Kena\nPajak, sesuai dengan prinsip akuntansi yang\nberlaku umum dan diterapkan secara konsisten.\nb. penyerahan Barang Kena Pajak berwujud yang\nmenurut sifat atau hukumnya berupa barang tidak\nbergerak, terjadi pada saat penyerahan hak untuk\nmenggunakan atau menguasai Barang Kena Pajak\nberwujud tersebut, secara hukum atau secara nyata,\nkepada pihak pembeli.\nc. penyerahan Barang Kena Pajak tidak berwujud, terjadi\npada saat:\n1. harga atas penyerahan Barang Kena Pajak tidak\nberwujud diakui sebagai piutang atau penghasilan,\natau pada saat diterbitkan faktur penjualan oleh\nPengusaha Kena Pajak, sesuai dengan prinsip\nakuntansi yang berlaku umum dan diterapkan\nsecara konsisten; atau\n2. kontrak\n2. kontrak atau perjanjian ditandatangani, atau saat\nmulai tersedianya fasilitas atau kemudahan untuk\ndipakai secara nyata, sebagian atau seluruhnya,\ndalam hal saat sebagaimana dimaksud pada angka\n1 tidak diketahui.\nd. Barang Kena Pajak berupa persediaan dan/atau aktiva\nyang menurut tujuan semula tidak untuk\ndiperjualbelikan, yang masih tersisa pada saat\npembubaran perusahaan terjadi, adalah pada saat\nyang terjadi lebih dahulu di antara saat:\n1. ditandatanganinya akta pembubaran oleh Notaris;\n2. berakhirnya jangka waktu berdirinya perusahaan\nyang ditetapkan dalam Anggaran Dasar;\n3. tanggal penetapan Pengadilan yang menyatakan\nperusahaan dibubarkan; atau\n4. diketahuinya bahwa perusahaan tersebut nyata-\nnyata sudah tidak melakukan kegiatan usaha\natau sudah dibubarkan, berdasarkan hasil\npemeriksaan atau berdasarkan data atau\ndokumen yang ada.\ne. pengalihan Barang Kena Pajak dalam rangka\npenggabungan, peleburan, pemekaran, pemecahan,\ndan pengambilalihan usaha yang tidak memenuhi\nketentuan Pasal 1A ayat (2) huruf d Undang-Undang\nPajak Pertambahan Nilai atau perubahan bentuk\nusaha, terjadi pada saat:\n1. disepakati atau ditetapkannya penggabungan,\npeleburan, pemekaran, pemecahan,\npengambilalihan usaha, atau perubahan bentuk\nusaha sesuai hasil Rapat Umum Pemegang\nSaham yang tertuang dalam perjanjian\npenggabungan, peleburan, pemekaran,\npemecahan, pengambilalihan usaha, atau\nperubahan bentuk usaha; atau\n2. ditandatanganinya akta mengenai penggabungan,\npeleburan, pemekaran, pemecahan atau\npengambilalihan usaha, atau perubahan bentuk\nusaha oleh Notaris.",
+                            "explanation": "\nHuruf a\nSaat penyerahan barang bergerak merupakan dasar\npenentuan saat terutangnya Pajak Pertambahan Nilai atau\nPajak Pertambahan Nilai dan Pajak Penjualan atas Barang\nMewah dan sekaligus sebagai dasar pembuatan Faktur Pajak.\nKetentuan ini dimaksudkan untuk mensinkronisasikan saat\nterutangnya Pajak Pertambahan Nilai atau Pajak Pertambahan\nNilai dan Pajak Penjualan atas Barang Mewah dengan praktik\nyang lazim terjadi dalam kegiatan usaha yang tercermin dalam\npraktik pencatatan atau pembukuan berdasarkan prinsip\nakuntansi yang berlaku umum serta diterapkan secara\nkonsisten oleh Pengusaha Kena Pajak.\nDalam praktik kegiatan usaha dan berdasarkan prinsip\nakuntansi yang berlaku umum, maka:\na. penyerahan barang bergerak dapat terjadi pada saat\nbarang tersebut dikeluarkan dari penguasaan Pengusaha\nKena Pajak (penjual) dengan maksud langsung atau tidak\nlangsung untuk diserahkan pada pihak lain. Karena itu\nPajak Pertambahan Nilai atau Pajak Pertambahan Nilai\ndan Pajak Penjualan atas Barang Mewah terutang pada\nsaat hak penguasaan barang telah berpindah kepada\npembeli atau pihak ketiga untuk dan atas nama pembeli.\nb. Perpindahan hak penguasaan atas barang bisa juga\nterjadi pada saat barang diserahkan kepada pihak kedua\natau pembeli atau pada saat barang diserahkan melalui\njuru kirim, pengusaha angkutan, perusahaan angkutan,\natau pihak ketiga lainnya. Oleh karena itu, Pajak\nPertambahan Nilai atau Pajak Pertambahan Nilai dan\nPajak Penjualan atas Barang Mewah terutang pada saat\nbarang diserahkan kepada juru kirim atau perusahaan\nangkutan.\nSaat penyerahan barang sebagaimana dimaksud pada huruf a\ndan huruf b, tercermin dalam prinsip akuntansi yang berlaku\numum dalam bentuk pengakuan sebagai piutang atau\npenghasilan dengan penerbitan faktur penjualan sebagai\nsumber dokumennya.\nDalam kegiatan usaha, saat pengakuan piutang atau\npenghasilan atau saat penerbitan faktur penjualan dapat\nterjadi tidak bersamaan dengan saat penyerahan barang\nsecara fisik sebagaimana dimaksud pada huruf a dan huruf b.\nOleh karena itu, dalam rangka memberikan kemudahan\nadministrasi terkait dengan saat penerbitan Faktur Pajak, saat\npenerbitan\npenerbitan faktur penjualan ditetapkan sebagai saat\npenyerahan barang yang menjadi dasar saat terutangnya Pajak\nPertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak\nPenjualan atas Barang Mewah.\nTermasuk dalam pengertian faktur penjualan adalah dokumen\nlain yang berfungsi sama dengan faktur penjualan.\nHuruf b\nPenyerahan Barang Kena Pajak untuk Barang Kena Pajak\ntidak bergerak terjadi pada saat surat atau akta perjanjian\nyang mengakibatkan perpindahan hak atas barang tersebut\nditandatangani oleh para pihak yang bersangkutan. Saat\ntersebut menjadi dasar penentuan saat terutang Pajak\nPertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak\nPenjualan atas Barang Mewah.\nNamun demikian, dalam hal penyerahan hak atas barang\ntidak bergerak tersebut secara nyata telah terjadi meskipun\nsurat atau akta perjanjian yang mengakibatkan perpindahan\nhak belum ditandatangani, penyerahan Barang Kena Pajak\ndianggap telah terjadi.\nHuruf c\nCukup jelas.\nHuruf d\nYang dimaksud dengan \"persediaan\" adalah persediaan bahan\nbaku, persediaan bahan pembantu, persediaan barang dalam\nproses, persediaan barang setengah jadi, dan/atau persediaan\nbarang jadi.\nHuruf e\nYang dimaksud dengan \"penggabungan usaha,\npengambilalihan usaha, pemecahan usaha, dan peleburan\nusaha\" adalah penggabungan usaha, pengambilalihan usaha,\npemisahan usaha, dan peleburan usaha sebagaimana\ndimaksud dalam Undang-Undang yang mengatur mengenai\nperseroan terbatas.\nYang dimaksud dengan \"pemekaran usaha\" adalah pemisahan\nsatu badan usaha menjadi dua badan usaha atau lebih\ndengan cara mendirikan badan usaha baru dan mengalihkan\nsebagian aktiva dan pasiva kepada badan usaha baru tersebut\nyang dilakukan tanpa melakukan likuidasi badan usaha yang\nlama.\nYang\nYang dimaksud dengan \"perubahan bentuk usaha\" adalah\nberubahnya bentuk usaha yang digunakan oleh Pengusaha\nKena Pajak, misalnya semula bentuk usaha Pengusaha Kena\nPajak adalah Commanditaire Vennotschap kemudian berubah\nmenjadi Perseroan Terbatas."
                         },
                         {
-                            "id": "0fb1481b-aadc-4273-b4c6-d1c67585d8e1",
+                            "id": "fab5b317-b8fb-4198-a92c-bf7000c8b6fa",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Impor Barang Kena Pajak sebagaimana dimaksud pada\nayat (1) huruf b terjadi pada saat Barang Kena Pajak\ntersebut dimasukkan ke dalam Daerah Pabean.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "4604f84d-b253-4bad-840c-adb28854e403",
+                            "id": "b12af58c-c275-421e-8023-ab92c5e4998b",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
-                            "content": " Penyerahan Jasa Kena Pajak sebagaimana dimaksud pada\nayat (1) huruf c terjadi pada saat:\na. harga atas penyerahan Jasa Kena Pajak diakui sebagai\npiutang atau penghasilan, atau pada saat diterbitkan\nfaktur penjualan oleh Pengusaha Kena Pajak, sesuai\ndengan prinsip akuntansi yang berlaku umum dan\nditerapkan secara konsisten;\nb. kontrak atau perjanjian ditandatangani, dalam hal\nsaat sebagaimana dimaksud pada huruf a tidak\ndiketahui; atau\nc. mulai tersedianya fasilitas atau kemudahan untuk\ndipakai secara nyata, baik sebagian atau seluruhnya,\ndalam hal pemberian cuma-cuma atau pemakaian\nsendiri Jasa Kena Pajak.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Penyerahan Jasa Kena Pajak sebagaimana dimaksud pada\nayat (1) huruf c terjadi pada saat:\na. harga atas penyerahan Jasa Kena Pajak diakui sebagai\npiutang atau penghasilan, atau pada saat diterbitkan\nfaktur penjualan oleh Pengusaha Kena Pajak, sesuai\ndengan prinsip akuntansi yang berlaku umum dan\nditerapkan secara konsisten;\nb. kontrak atau perjanjian ditandatangani, dalam hal\nsaat sebagaimana dimaksud pada huruf a tidak\ndiketahui; atau\nc.\nmulai tersedianya fasilitas atau kemudahan untuk\ndipakai secara nyata, baik sebagian atau seluruhnya,\ndalam hal pemberian cuma-cuma atau pemakaian\nsendiri Jasa Kena Pajak.",
+                            "explanation": "\nPenyerahan Jasa Kena Pajak terjadi pada saat mulai tersedianya\nfasilitas atau kemudahan untuk dipakai secara nyata, baik\nsebagian atau seluruhnya. Saat penyerahan Jasa Kena Pajak ini\nmerupakan dasar penentuan saat terutangnya Pajak Pertambahan\nNilai dan sekaligus sebagai dasar pembuatan Faktur Pajak.\nNamun demikian, dalam praktik kegiatan usaha dan berdasarkan\nprinsip akuntansi yang berlaku umum, saat pengakuan piutang\natau penghasilan, atau saat penerbitan faktur penjualan dapat\nterjadi tidak bersamaan dengan saat mulai tersedianya fasilitas\natau kemudahan untuk dipakai secara nyata, baik sebagian atau\nseluruhnya. Dalam rangka memberikan kemudahan administrasi\nterkait dengan saat penerbitan Faktur Pajak, saat penerbitan\nfaktur penjualan dapat ditetapkan sebagai saat penyerahan jasa\nyang menjadi dasar saat terutangnya Pajak Pertambahan Nilai.\nKetentuan ini dimaksudkan untuk mensinkronisasikan saat\nterutangnya Pajak Pertambahan Nilai dengan praktik yang lazim\nterjadi dalam kegiatan usaha yang tercermin dalam praktik\npencatatan atau pembukuan berdasarkan prinsip akuntansi yang\nberlaku umum serta diterapkan secara konsisten oleh Pengusaha\nKena Pajak."
                         },
                         {
-                            "id": "2802ae3d-e5c3-4c84-b031-e7797db36b26",
+                            "id": "b3dbeda3-8ae0-4d54-a815-29582bc8519e",
                             "name": "Verse 6",
-                            "number": "(6)",
+                            "number": "6",
                             "type": "verse",
                             "content": " Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau\nJasa Kena Pajak dari luar Daerah Pabean sebagaimana\ndimaksud pada ayat (1) huruf d dan huruf e terjadi pada\nsaat:\na. harga perolehan Barang Kena Pajak Tidak Berwujud\ndan/atau Jasa Kena Pajak tersebut dinyatakan\nsebagai utang oleh pihak yang memanfaatkannya;\nb. harga jual Barang Kena Pajak Tidak Berwujud\ndan/atau penggantian Jasa Kena Pajak tersebut\nditagih oleh pihak yang menyerahkannya; atau\nc. harga perolehan Barang Kena Pajak Tidak Berwujud\ndan/atau Jasa Kena Pajak tersebut dibayar baik\nsebagian atau seluruhnya oleh pihak yang\nmemanfaatkannya,\nyang terjadi lebih dahulu.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "5d744458-5637-43a1-8be2-8c36bb7b2ab9",
+                            "id": "84798cc8-301f-4199-bfbf-979facb09466",
                             "name": "Verse 7",
-                            "number": "(7)",
+                            "number": "7",
                             "type": "verse",
                             "content": " Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau\nJasa Kena Pajak dari luar Daerah Pabean terjadi pada\ntanggal ditandatanganinya kontrak atau perjanjian, dalam\nhal saat terjadinya Pemanfaatan Barang Kena Pajak Tidak\nBerwujud dan/atau Jasa Kena Pajak dari luar Daerah\nPabean sebagaimana dimaksud pada ayat (6) tidak\ndiketahui.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "cc5e8cd7-6a56-4ce7-ab4a-8b1e78b36c25",
+                            "id": "32a63fa2-c105-4867-9f72-085fd3a98eea",
                             "name": "Verse 8",
-                            "number": "(8)",
+                            "number": "8",
                             "type": "verse",
                             "content": " Ekspor Barang Kena Pajak Berwujud sebagaimana\ndimaksud pada ayat (1) huruf f terjadi pada saat Barang\nKena Pajak dikeluarkan dari Daerah Pabean.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "070b9808-0808-4c17-9f1b-4bc3489c04b8",
+                            "id": "8adea0cf-9a0c-409b-9c19-b578ce5ff614",
                             "name": "Verse 9",
-                            "number": "(9)",
+                            "number": "9",
                             "type": "verse",
-                            "content": " Ekspor Barang Kena Pajak Tidak Berwujud sebagaimana\ndimaksud pada ayat (1) huruf g terjadi pada saat\nPenggantian atas Barang Kena Pajak Tidak Berwujud yang\ndiekspor tersebut dicatat atau diakui sebagai piutang atau\npenghasilan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Ekspor Barang Kena Pajak Tidak Berwujud sebagaimana dimaksud pada ayat (1) huruf g terjadi pada saat Penggantian atas Barang Kena Pajak Tidak Berwujud yang diekspor tersebut dicatat atau diakui sebagai piutang atau penghasilan.",
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "77161719-49b8-4761-9ac3-742c5770970b",
+                            "id": "6d143f31-0f9a-488d-8916-918e669f1ff1",
                             "name": "Verse 10",
-                            "number": "(10)",
+                            "number": "10",
                             "type": "verse",
-                            "content": " Ekspor Jasa Kena Pajak sebagaimana dimaksud pada ayat",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Ekspor Jasa Kena Pajak sebagaimana dimaksud pada ayat (1) huruf h terjadi pada saat Penggantian atas jasa yang diekspor tersebut dicatat atau diakui sebagai piutang atau penghasilan.",
+                            "explanation": "\nCukup jelas.\nPasal 18 . . ."
                         }
                     ]
                 },
                 {
-                    "id": "8056a55d-8151-4f19-ac32-454b9f72b135",
+                    "id": "a6ef3879-7019-46fd-8a52-4893987fbebe",
                     "name": "Article 18",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0c99c83a-5855-4dca-a2fb-3762274379a0",
+                            "id": "d1ad5a5f-9cfa-41b1-83ad-af2d29db1fba",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " wajib menyelenggarakan administrasi penjualan secara\nterpusat pada 1 (satu) atau lebih tempat kegiatan usaha.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pengusaha Kena Pajak yang terutang Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah pada lebih dari 1 (satu) tempat kegiatan usaha, dalam pemenuhan kewajiban perpajakannya dapat menyampaikan pemberitahuan tertulis kepada Direktur Jenderal Pajak untuk memilih satu tempat atau lebih sebagai tempat terutangnya Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah.",
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "c884fd6e-b4bd-4203-a357-da7800cdbd20",
+                            "id": "30561254-048f-459b-82b3-91e0fe1fa2d2",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Pengusaha Kena Pajak sebagaimana dimaksud pada ayat",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pengusaha Kena Pajak sebagaimana dimaksud pada ayat (1) wajib menyelenggarakan administrasi penjualan secara terpusat pada 1 (satu) atau lebih tempat kegiatan usaha.",
+                            "explanation": "\nCukup jelas."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "be48edb3-d9ff-422d-accb-467937113547",
+            "id": "b8a7cd2e-635a-4ce3-8f75-28a618fc83bd",
             "name": "Chapter VIII",
             "title": "\nFAKTUR PAJAK",
             "type": "chapter",
             "children": [
                 {
-                    "id": "7dc38ece-519c-4a09-99c5-19c5eec281dc",
+                    "id": "0c97c7ce-fd31-48bd-b538-001a3c9258c9",
                     "name": "Article 19",
                     "type": "article",
                     "children": [
                         {
-                            "id": "89b5c550-283d-4773-8885-2dfeee981e6e",
+                            "id": "ea8b64a6-c271-4a55-84dd-c610958a92eb",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Faktur Pajak wajib diterbitkan oleh Pengusaha Kena Pajak\npada saat penyerahan atau ekspor Barang Kena Pajak\ndan/atau Jasa Kena Pajak sesuai dengan ketentuan yang\ndiatur dalam Pasal 17 ayat (3), ayat (5), ayat (8), ayat (9),\ndan ayat (10).",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Faktur Pajak wajib diterbitkan oleh Pengusaha Kena Pajak pada saat penyerahan atau ekspor Barang Kena Pajak dan/atau Jasa Kena Pajak sesuai dengan ketentuan yang diatur dalam Pasal 17 ayat (3), ayat (5), ayat (8), ayat (9), dan ayat (10).",
+                            "explanation": "\nSecara prinsip Faktur Pajak harus dibuat pada saat terutangnya\nPajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak\nPenjualan atas Barang Mewah, namun demikian karena suatu hal\ndapat terjadi keterlambatan penerbitan Faktur Pajak. Atas\nketerlambatan penerbitan Faktur Pajak dikenakan sanksi sesuai\nPasal 14 ayat (1) huruf d juncto Pasal 14 ayat (4) Undang-Undang\nmengenai Ketentuan Umum dan Tata Cara Perpajakan tanpa\nadanya ketentuan mengenai batas waktu keterlambatan. Untuk\nmenjamin kepastian terlaksananya pemungutan Pajak\nPertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak\nPenjualan atas Barang Mewah atas penyerahan Barang Kena Pajak\ndan/atau Jasa Kena Pajak, perlu adanya pembatasan jangka\nwaktu penerbitan Faktur Pajak. Di samping itu, ketentuan ini\ndimaksudkan juga untuk menyelaraskan pengakuan penghasilan\ndi dalam menghitung peredaran usaha yang digunakan di dalam\nmenghitung Pajak Penghasilan dengan peredaran usaha yang\ndigunakan untuk menghitung Pajak Pertambahan Nilai. Dengan\ndemikian, saat pembuatan Faktur Pajak ditentukan sesuai dengan\nprinsip bisnis yang sehat dan harus memenuhi prinsip akuntansi\nyang berlaku umum serta diterapkan secara konsisten.\nTermasuk dalam pengertian Faktur Pajak dalam ketentuan ini\nadalah dokumen tertentu yang kedudukannya dipersamakan\ndengan Faktur Pajak yang diterbitkan atas penyerahan Barang\nKena Pajak dan/atau penyerahan Jasa Kena Pajak.\nUntuk kepastian hukum dan untuk memberikan kemudahan\nadministrasi kepada Pengusaha Kena Pajak dalam memenuhi\nkewajiban Pajak Pertambahan Nilai perlu penjelasan atau\npenegasan dalam bentuk ilustrasi kapan saat pembuatan Faktur\nPajak oleh Pengusaha Kena Pajak atas penyerahan Barang Kena\nPajak dan/atau Jasa Kena Pajak dan ekspor Barang Kena Pajak.\nContoh saat pembuatan Faktur Pajak:\n1. Penyerahan Barang Kena Pajak bergerak.\nContoh 1:\nPT Aman menyerahkan Barang Kena Pajak secara langsung\nkepada Tuan Igna pada tanggal 15 Mei 2011. Atas transaksi\npenyerahan Barang Kena Pajak tersebut PT Aman menerbitkan\nFaktur Pajak pada tanggal 15 Mei 2011.\nContoh 2\nContoh 2:\nPT Berkah yang berkedudukan di Jakarta menjual Barang Kena\nPajak kepada PT Ceria di Surabaya dengan syarat pengiriman\n(term of delivery) loco gudang penjual (fob shipping point). Barang\nKena Pajak dikeluarkan dari gudang PT Berkah dan dikirim ke\ngudang PT Ceria pada tanggal 10 Juni 2011 dengan\nmenggunakan perusahaan ekspedisi dengan tanggal DO\n(delivery order) 10 Juni 2011. Barang diterima oleh PT Ceria\npada tanggal 12 Juni 2011. Atas transaksi penyerahan Barang\nKena Pajak tersebut, PT Berkah menerbitkan Faktur Pajak pada\ntanggal 10 Juni 2011.\nDalam hal pada contoh 1 dan contoh 2 di atas, faktur penjualan\n(invoice) diterbitkan tidak pada tanggal penyerahan secara\nlangsung atau pada saat diserahkan kepada juru kirim atau\npengusaha jasa angkutan karena kondisi tertentu, maka Faktur\nPajak wajib dibuat pada saat penerbitan faktur penjualan.\nPenerbitan faktur penjualan tersebut harus dilakukan sesuai\ndengan prinsip akuntansi yang berlaku umum dan dilakukan\nsecara konsisten.\nContoh 3:\nPT Cantik di Jakarta menjual Barang Kena Pajak kepada PT\nSentosa di Semarang dengan syarat pengiriman (term of delivery)\nfranco gudang pembeli (fob destination). Barang dikeluarkan dari\ngudang PT Cantik dan dikirim ke gudang PT Sentosa pada\ntanggal 12 Agustus 2011 dengan menggunakan perusahaan\nekspedisi. Barang diterima oleh PT Sentosa pada tanggal 13\nAgustus 2011. PT Cantik menerbitkan faktur penjualan (invoice)\npada tanggal 16 Agustus 2011. Atas penyerahan Barang Kena\nPajak tersebut, PT Cantik wajib menerbitkan Faktur Pajak pada\ntanggal 13 Agustus 2011 atau paling lama tanggal 16 Agustus\n2011.\n2. Penyerahan Barang Kena Pajak tidak bergerak.\nContoh 1:\nPerjanjian jual beli sebuah rumah ditandatangani tanggal 1 Mei\n2011.\nPerjanjian penyerahan hak untuk menggunakan atau\nmenguasai rumah tersebut dibuat atau ditandatangani tanggal\n1 September 2011.\nFaktur Pajak harus diterbitkan pada tanggal 1 September 2011.\nBila sebelum surat atau akta tersebut dibuat atau ditandatangani barang tidak bergerak telah diserahkan atau berada dalam penguasaan pembeli atau penerimanya, maka Faktur Pajak harus diterbitkan pada saat barang tersebut secara nyata diserahkan atau berada dalam penguasaan pembeli atau penerima barang.\nContoh 2:\nRumah siap pakai dijual dan diserahkan secara nyata tanggal 1 Agustus 2011. Faktur Pajak harus diterbitkan pada tanggal 1 Agustus 2011.\nBila sebelum surat atau akte tersebut dibuat atau ditandatangani, barang tidak bergerak telah diserahkan atau berada dalam penguasaan pembeli atau penerimanya, maka Faktur Pajak harus dibuat pada saat barang tersebut secara nyata diserahkan atau berada dalam penguasaan pembeli atau penerima barang.\nContoh 3:\nRumah siap pakai dijual dan diserahkan secara nyata tanggal 1 Agustus 2011. Perjanjian jual beli ditandatangani tanggal 1 September 2011. Faktur Pajak harus diterbitkan pada tanggal 1 Agustus 2011.\n3. Penyerahan Jasa Kena Pajak.\nContoh 1:\nPT Semangat menyewakan satu unit ruko kepada PT Diatetupa dengan masa kontrak selama 12 (dua belas) tahun. Dalam kontrak disepakati antara lain:\n- PT Diatetupa mulai menggunakan ruko tersebut pada tanggal 1 September 2011.\n- Nilai kontrak sewa selama 12 (dua belas) tahun sebesar Rp120.000.000,00.\n- Pembayaran sewa adalah tahunan dan disepakati dibayar setiap tanggal 29 September dengan pembayaran sebesar Rp10.000.000,00 per tahun.\nPada tanggal . . .\nPada tanggal 29 September 2011 PT Diatetupa melakukan\npembayaran sewa untuk tahun pertama. Atas penyerahan Jasa\nKena Pajak tersebut, PT Semangat wajib menerbitkan Faktur\nPajak pada tanggal 29 September 2011 dengan Dasar\nPengenaan Pajak sebesar Rp10.000.000,00.\nContoh 2:\nPT Toryung mengontrak Firma Cerah Konsultan untuk\nmemberikan jasa konsultasi manajemen dan pelatihan kepada\nstaff marketing PT Toryung selama 6 (enam) bulan dengan nilai\nkontrak sebesar Rp60.000.000,00. Pembayaran jasa konsultasi\nakan dilakukan setiap bulan. Firma Cerah Konsultan mulai\nmemberikan jasa konsultasi sejak tanggal 1 Juli 2011. Pada\ntanggal 10 Agustus 2011, Firma Cerah Konsultan mengajukan\ntagihan untuk pembayaran jasa konsultasi bulan Juli sebesar\nRp10.000.000,00. PT Toryung melakukan pembayaran atas\ntagihan tersebut pada tanggal 20 Agustus 2011. Atas transaksi\ntersebut, Firma Cerah Konsultan wajib menerbitkan Faktur\nPajak pada tanggal 10 Agustus 2011 dengan Dasar Pengenaan\nPajak sebesar Rp10.000.000,00 (sesuai dengan nilai tagihan)\nmeskipun pembayaran baru diterima tanggal 20 Agustus 2011.\nContoh 3:\nPT Setiyakom adalah suatu perusahaan jasa telekomunikasi.\nPT Setiyakom melakukan penagihan kepada pelanggan sesuai\ndengan periode pemakaian selama 1 (satu) bulan.\nPengumpulan data-data pemakaian dari pelanggan memerlukan\nwaktu beberapa hari, sehingga faktur penjualan baru dapat\nditerbitkan beberapa hari setelahnya.\nMisalnya untuk pemakaian oleh pelanggan pada tanggal 1-30\nJuni 2011, PT Setiyakom menerbitkan faktur penjualan\n(melakukan penagihan) pada tanggal 5 Juli 2011.\nUntuk kasus ini, Faktur Pajak diterbitkan pada saat\npenyerahan jasa tersebut dinyatakan/dicatat sebagai\npiutang/penghasilan, yaitu pada akhir periode pemakaian (30\nJuni 2011) atau paling lama pada saat diterbitkannya faktur\npenjualan (5 Juli 2011).\nMatriks saat penerbitan Faktur Pajak untuk beberapa contoh\npenyerahan di bidang jasa telekomunikasi adalah sebagai\nberikut:\nNo Periode\nPeriode\nSaat diakui Penerbitan Faktur Pajak\nPemakaian/\npengakuan\npenghasilan faktur diterbitkan\npenyerahan\npenghasilan\npenjualan paling lama:\nJasa Kena\nPajak\nJuni 2011\n26 Mei - 25 26 Mei - 25 Juni 2011 6 Juli 2011 6 Juli 2011\nJuni 2011\nJuni 2011\n16 Mei - 15 16 Mei - 15 Mei 2011 20 Juni 2011 20 Juni 2011\nJuni 2011\nJuni 2011\n16 Mei - 15 16 Mei - 15 Juni 2011 20 Juni 2011 20 Juni 2011\nJuni 2011\nJuni 2011\n5 16 Mei - 15 16 -31 Mei Mei 2011\nJuni 2011\n2011\n1-15 Juni Juni 2011\n2011\n31 Mei 2011 31 Mei 2011\n15 Juni 2011 15 Juni 2011\n4. Penyerahan sebagian tahap pekerjaan (pembayaran termin)\nAtas penyerahan sebagian tahap pekerjaan, misalnya\npenyerahan jasa pemborong bangunan atau barang tidak\nbergerak lainnya, saat penerbitan Faktur Pajaknya dapat\ndijelaskan sebagai berikut:\nUmumnya pekerjaan jasa pemborongan bangunan dan barang\ntidak bergerak lainnya diselesaikan dalam suatu masa tertentu.\nSebelum jasa pemborong itu selesai dan siap untuk diserahkan,\ntelah diterima pembayaran di muka sebelum pekerjaan\npemborongan dimulai atau pembayaran atas sebagian\npenyelesaian pekerjaan jasa sesuai dengan tahap atau\nkemajuan\nkemajuan penyelesaian pekerjaan. Dalam hal ini sesuai dengan\nketentuan sebagaimana diatur dalam Pasal 11 ayat (2) Undang-\nUndang Pajak Pertambahan Nilai, Pajak Pertambahan Nilai\nterutang pada saat pembayaran tersebut diterima oleh\nPemborong atau Kontraktor.\nSelanjutnya setelah bangunan atau barang tidak bergerak\ntersebut selesai dikerjakan, maka jasa pemborongan\nseluruhnya diserahkan kepada penerima jasa. Dalam hal ini\nsesuai dengan Pasal 11 ayat (1) Undang-Undang Pajak\nPertambahan Nilai, Pajak Pertambahan Nilai terutang pada saat\npenyerahan Jasa Kena Pajak itu dilakukan, meskipun\npembayaran lunas jasa pemborongan tersebut belum diterima\noleh Pemborong atau Kontraktor.\nContoh:\n1. Tanggal 1 April 2011, perjanjian pemborongan\nditandatangani dan diterima uang muka sebesar 20%.\n2. Tanggal 1 Mei 2011, pekerjaan selesai 20%, diterima\npembayaran tahap ke-1.\n3. Tanggal 1 Juni 2011, pekerjaan selesai 50%, diterima\npembayaran tahap ke-2.\n4. Tanggal 20 Juni 2011, pekerjaan selesai 80%, diterima\npembayaran tahap ke-3.\n5. Tanggal 25 Agustus 2011, pekerjaan selesai 100%,\nbangunan atau barang tidak bergerak diserahkan.\n6. Tanggal 1 September 2011, diterima pembayaran tahap\nakhir (ke-4) sebesar 95% dari harga borongan.\n7. Tanggal 1 Maret 2012, diterima pembayaran pelunasan\nseluruh jasa pemborongan.\nPada angka 1 sampai dengan angka 4 Pajak Pertambahan Nilai\nterutang pada tanggal diterimanya pembayaran (tahap), sedang\nangka 5 sampai dengan angka 7 Pajak Pertambahan Nilai\nterutang pada tanggal 25 Agustus 2011 atau saat jasa\npemborongan (bangunan atau barang tidak bergerak) selesai\ndilakukan dan diserahkan kepada pemiliknya. Tanggal\npembayaran yang tersebut pada angka 6 dan angka 7 tidak\nperlu diperhatikan, karena tidak termasuk saat yang\nmenentukan terutangnya Pajak Pertambahan Nilai sesuai\ndengan dasar akrual yang dianut dalam Undang-Undang Pajak\nPertambahan Nilai.\nCara penghitungan sebagaimana tersebut di atas juga berlaku\ndalam hal penjualan Barang Kena Pajak dan/atau Jasa Kena\nPajak dilakukan dengan pembayaran uang muka, sedangkan\npenyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak\ntersebut dilakukan kemudian."
                         },
                         {
-                            "id": "9e70c62a-aa70-471c-86cf-eff61bade824",
+                            "id": "bbff0130-e456-491d-82fc-e8bcb28decf0",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Ketentuan mengenai kewajiban penerbitan Faktur Pajak\nsebagaimana dimaksud pada ayat (1) tidak berlaku untuk\npemakaian sendiri Barang Kena Pajak dan/atau Jasa Kena\nPajak untuk tujuan produktif yang tidak dipungut Pajak\nPertambahan Nilai sebagaimana dimaksud dalam Pasal 5\nayat (3).",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Ketentuan mengenai kewajiban penerbitan Faktur Pajak sebagaimana dimaksud pada ayat (1) tidak berlaku untuk pemakaian sendiri Barang Kena Pajak dan/atau Jasa Kena Pajak untuk tujuan produktif yang tidak dipungut Pajak Pertambahan Nilai sebagaimana dimaksud dalam Pasal 5 ayat (3).",
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "88e179b9-3f2e-49d5-a2cf-ef6269c4314d",
+                            "id": "47a878e5-8b79-42d1-a9b3-102150c4136e",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Faktur . . .",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Faktur Pajak yang diterbitkan oleh Pengusaha Kena Pajak\nsetelah melewati jangka waktu 3 (tiga) bulan sejak saat\nFaktur Pajak seharusnya dibuat tidak diperlakukan\nsebagai Faktur Pajak.",
+                            "explanation": "\nPada dasarnya Faktur Pajak harus dibuat pada saat penyerahan\nBarang Kena Pajak dan/atau penyerahan Jasa Kena Pajak, namun\ndemikian karena suatu hal dapat terjadi keterlambatan penerbitan\nFaktur Pajak. Atas keterlambatan penerbitan Faktur Pajak dikenai\nsanksi sesuai Pasal 14 ayat (1) huruf d juncto Pasal 14 ayat (4)\nUndang-Undang mengenai Ketentuan Umum dan Tata Cara\nPerpajakan tanpa adanya ketentuan mengenai batas waktu\nketerlambatan. Untuk menjamin kepastian terlaksananya\npemungutan Pajak Pertambahan Nilai atas penyerahan Barang\nKena Pajak dan/atau Jasa Kena Pajak yang terutang Pajak\nPertambahan Nilai, perlu adanya pembatasan jangka waktu\npenerbitan Faktur Pajak. Di samping itu, ketentuan ini\ndimaksudkan juga untuk menyelaraskan pengakuan penghasilan\ndi dalam menghitung peredaran usaha yang digunakan di dalam\nmenghitung Pajak Penghasilan dengan peredaran usaha yang\ndigunakan untuk menghitung Pajak Pertambahan Nilai.\nTermasuk dalam pengertian Faktur Pajak dalam ketentuan ini\nadalah dokumen tertentu yang kedudukannya dipersamakan\ndengan Faktur Pajak yang diterbitkan atas penyerahan Barang\nKena Pajak dan/atau penyerahan Jasa Kena Pajak."
+                        },
+                        {
+                            "id": "61aec090-a01c-44f9-8755-a58e4c6ee920",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Pengusaha Kena Pajak yang menerbitkan Faktur Pajak\nsebagaimana dimaksud pada ayat (3) dianggap tidak\nmenerbitkan Faktur Pajak.",
+                            "explanation": "\nFaktur Pajak merupakan bukti pungutan pajak yang dibuat oleh\nPengusaha Kena Pajak yang melakukan penyerahan Barang Kena\nPajak dan/atau penyerahan Jasa Kena Pajak. Dengan demikian,\nFaktur Pajak yang diterbitkan oleh Pengusaha Kena Pajak yang\nmelebihi batas waktu sebagaimana dimaksud pada ayat (3) bukan\nmerupakan bukti pungutan pajak yang sah."
+                        },
+                        {
+                            "id": "17730ed2-d0e6-4bef-8181-013e3f3cbc63",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": " Pajak Pertambahan Nilai yang tercantum dalam Faktur\nPajak sebagaimana dimaksud pada ayat (3) tidak dapat\ndikreditkan sebagai Pajak Masukan.",
+                            "explanation": "\nKetentuan ini dimaksudkan untuk melindungi pembeli Barang\nKena Pajak dan/atau penerima Jasa Kena Pajak dengan\nmenegaskan bahwa Faktur Pajak yang diterbitkan lebih dari 3\n(tiga) bulan sejak saat Faktur Pajak seharusnya dibuat\nsebagaimana dimaksud pada ayat (3) bukan merupakan bukti\npungutan pajak yang sah, sehingga Pajak Pertambahan Nilai yang\ntercantum dalam Faktur Pajak tidak dapat dikreditkan sebagai\nPajak Masukan."
                         }
                     ]
                 },
                 {
-                    "id": "df42f388-aee3-4738-b69f-ccd82b1a005e",
+                    "id": "a48688a1-47ba-4f86-97cf-38c17d6f1362",
                     "name": "Article 20",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bc9c5bf0-8b21-48d4-bd42-5a8a591fb87f",
+                            "id": "75d0f895-c257-44b5-978e-f103e3ee6a4a",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Pedagang eceran yang membuat Faktur Pajak tanpa mencantumkan keterangan mengenai identitas pembeli serta nama dan tanda tangan penjual, tidak diterbitkan Surat Tagihan Pajak sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf e angka 2 Undang-Undang mengenai Ketentuan Umum dan Tata Cara Perpajakan.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pedagang eceran yang membuat Faktur Pajak tanpa\nmencantumkan keterangan mengenai identitas pembeli\nserta nama dan tanda tangan penjual, tidak diterbitkan\nSurat Tagihan Pajak sebagaimana dimaksud dalam Pasal\n14 ayat (1) huruf e angka 2 Undang-Undang mengenai\nKetentuan Umum dan Tata Cara Perpajakan.",
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "a0722e39-faf8-4db4-bda0-3965bd9dfb82",
+                            "id": "5b808067-5d4a-4e27-b8e5-b74c606fef94",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Pedagang eceran sebagaimana dimaksud pada ayat (1) adalah Pengusaha Kena Pajak yang dalam kegiatan usaha atau pekerjaannya melakukan penyerahan Barang Kena Pajak dengan cara sebagai berikut:\na. melalui suatu tempat penjualan eceran atau langsung mendatangi dari satu tempat konsumen akhir ke tempat konsumen akhir lainnya;\nb. dengan cara penjualan eceran yang dilakukan langsung kepada konsumen akhir, tanpa didahului dengan penawaran tertulis, pemesanan tertulis, kontrak, atau lelang; dan\nc. pada umumnya penyerahan Barang Kena Pajak atau transaksi jual beli dilakukan secara tunai dan penjual atau pembeli langsung menyerahkan atau membawa Barang Kena Pajak yang dibelinya.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pedagang eceran sebagaimana dimaksud pada ayat (1)\nadalah Pengusaha Kena Pajak yang dalam kegiatan usaha\natau pekerjaannya melakukan penyerahan Barang Kena\nPajak dengan cara sebagai berikut:\na. melalui suatu tempat penjualan eceran atau langsung\nmendatangi dari satu tempat konsumen akhir ke\ntempat konsumen akhir lainnya;\nb. dengan cara penjualan eceran yang dilakukan langsung\nkepada konsumen akhir, tanpa didahului dengan\npenawaran tertulis, pemesanan tertulis, kontrak, atau\nlelang; dan\nc. pada umumnya penyerahan Barang Kena Pajak atau\ntransaksi jual beli dilakukan secara tunai dan penjual\natau pembeli langsung menyerahkan atau membawa\nBarang Kena Pajak yang dibelinya.",
+                            "explanation": "\nPenyerahan Barang Kena Pajak yang dilakukan dengan cara\nsebagaimana dimaksud dalam ayat ini, yang pada umumnya\ndilakukan kepada/untuk konsumen akhir, pada dasarnya\nmerupakan kegiatan penyerahan secara eceran. Oleh karena itu,\nFaktur Pajak atas penyerahan Barang Kena Pajak secara eceran\nkepada konsumen akhir yang dibuat tanpa mencantumkan\nidentitas pembeli serta nama dan tanda tangan Pengusaha Kena\nPajak penjual tidak akan dikenakan sanksi atau diterbitkan Surat\nTagihan Pajak, karena termasuk dalam pengertian Faktur Pajak\nyang diterbitkan oleh Pengusaha Kena Pajak pedagang eceran\nsebagaimana dimaksud dalam Pasal 14 ayat (1) huruf e angka 2\nUndang-Undang mengenai Ketentuan Umum dan Tata Cara\nPerpajakan.\nContoh tempat penjualan eceran yaitu toko dan kios.\nYang dimaksud dengan \"konsumen akhir\" adalah pembeli yang\nmengkonsumsi secara langsung barang tersebut, dan tidak\ndigunakan atau dimanfaatkan untuk kegiatan produksi atau\nperdagangan.\nNamun demikian Pengusaha Kena Pajak tetap diperkenankan\nuntuk menerbitkan Faktur Pajak secara lengkap meskipun\npenyerahan Barang Kena Pajak dilakukan kepada konsumen\nakhir, misalnya dalam hal pembeli sebagai konsumen akhir adalah\nPemungut Pajak Pertambahan Nilai.\nPengusaha Kena Pajak yang kegiatan usaha atau pekerjaan\nutamanya tidak melakukan usaha perdagangan secara eceran\n(pabrikan atau distributor) tetapi melakukan penyerahan Barang\nKena Pajak secara eceran, maka atas penyerahan Barang Kena\nPajak secara eceran tersebut Pengusaha Kena Pajak dapat\nmenerbitkan Faktur Pajak tanpa mencantumkan keterangan\nmengenai identitas pembeli serta nama dan tanda tangan penjual."
                         },
                         {
-                            "id": "1857f504-189f-48b9-b3a3-5c097e2ad8bb",
+                            "id": "ca76a2da-002b-4d79-acbd-072820ca6d34",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Faktur Pajak yang diterbitkan oleh Pengusaha Kena Pajak setelah melewati jangka waktu 3 (tiga) bulan sejak saat Faktur Pajak seharusnya dibuat tidak diperlakukan sebagai Faktur Pajak.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "0e8082a9-01c0-4564-b32b-134c29a49542",
-                            "name": "Verse 4",
-                            "number": "(4)",
-                            "type": "verse",
-                            "content": " Pengusaha Kena Pajak yang menerbitkan Faktur Pajak sebagaimana dimaksud pada ayat (3) dianggap tidak menerbitkan Faktur Pajak.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "4de49deb-aff4-4598-970b-1e8633e12088",
-                            "name": "Verse 5",
-                            "number": "(5)",
-                            "type": "verse",
-                            "content": " Pajak Pertambahan Nilai yang tercantum dalam Faktur Pajak sebagaimana dimaksud pada ayat (3) tidak dapat dikreditkan sebagai Pajak Masukan.\nb. dilakukan secara langsung kepada konsumen akhir,\ntanpa didahului dengan penawaran tertulis,\npemesanan tertulis, kontrak, atau lelang; dan\nc. pada umumnya pembayaran atas penyerahan Jasa\nKena Pajak dilakukan secara tunai.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Termasuk dalam pengertian Pedagang eceran sebagaimana\ndimaksud pada ayat (1) adalah Pengusaha Kena Pajak yang\ndalam kegiatan usaha atau pekerjaannya melakukan\npenyerahan Jasa Kena Pajak dengan cara sebagai berikut:\na. melalui suatu tempat penyerahan jasa secara langsung\nkepada konsumen akhir atau langsung mendatangi\ndari satu tempat konsumen akhir ke tempat konsumen\nakhir lainnya;\nb. dilakukan . . .\nb. dilakukan secara langsung kepada konsumen akhir,\ntanpa didahului dengan penawaran tertulis,\npemesanan tertulis, kontrak, atau lelang; dan\nc. pada umumnya pembayaran atas penyerahan Jasa\nKena Pajak dilakukan secara tunai.",
+                            "explanation": "\nContoh tempat penyerahan jasa secara langsung kepada\nkonsumen akhir yaitu gerai dan kios."
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "80010937-9933-465d-a50a-97c59c1a3d0e",
+            "id": "9b11c486-1731-478f-9b1e-11c207c718e2",
             "name": "Chapter IX",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "575cf7e7-627d-4c24-bcbc-854c7cf61da9",
+                    "id": "ab42ebe7-9df4-427d-a6aa-b836d1df7595",
                     "name": "Article 21",
                     "type": "article",
                     "children": {
-                        "id": "95518ef7-6b32-4fb9-a6f7-c7f907f29259",
+                        "id": "858525d5-9ff7-4456-b88e-7a2db763ea8b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
                         "content": "\nKetentuan mengenai penerbitan Faktur Pajak yang dilakukan\noleh Pengusaha Kena Pajak atas penyerahan Barang Kena Pajak\ndan/atau Jasa Kena Pajak sebagaimana dimaksud dalam Pasal\n19 ayat (1) dan Pasal 20 berlaku sejak tanggal 1 April 2010.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "explanation": "\nCukup jelas."
                     }
                 }
             ]
         },
         {
-            "id": "e4c3792f-6663-43d0-a48c-83ec6d70ef23",
+            "id": "6deef291-126e-450d-9722-25e88dd7efe0",
             "name": "Chapter X",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "9960e84b-55f6-4f61-b4c3-dead746f1155",
+                    "id": "1791d4c5-39c5-4664-b716-6703ac9082d6",
                     "name": "Article 22",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9c3cbb99-31c1-4c5f-8ecf-b441308a0d35",
+                            "id": "09f0a3e0-2807-4adb-808d-a9f7c15565ab",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Pada saat Peraturan Pemerintah ini mulai berlaku:\na. Semua Peraturan Perundang-undangan yang\nmerupakan peraturan pelaksanaan dari Peraturan\nPemerintah Nomor 143 Tahun 2000 tentang\nPelaksanaan Undang-Undang Nomor 8 Tahun 1983\ntentang Pajak Pertambahan Nilai Barang dan Jasa dan\nPajak Penjualan atas Barang Mewah sebagaimana telah\ndiubah dengan Undang-Undang Nomor 18 Tahun 2000\nsebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 24 Tahun 2002 tentang Perubahan\natas Peraturan Pemerintah Nomor 143 Tahun 2000\ntentang Pelaksanaan Undang-Undang Nomor 8 Tahun\n1983 tentang Pajak Pertambahan Nilai Barang dan Jasa\ndan Pajak Penjualan atas Barang Mewah sebagaimana\ntelah beberapa kali diubah terakhir dengan Undang-\nUndang Nomor 18 Tahun 2000 dinyatakan masih tetap\nberlaku sepanjang tidak bertentangan dengan\nketentuan dalam Peraturan Pemerintah ini atau belum\ndiatur dengan peraturan perundang-undangan\ntersendiri.\nb. Peraturan . . .\nb. Peraturan pelaksanaan dari Peraturan Pemerintah Nomor 144 Tahun 2000 tentang Jenis Barang dan Jasa yang Tidak Dikenakan Pajak Pertambahan Nilai dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan Undang-Undang Pajak Pertambahan Nilai dan/atau belum diatur dengan peraturan pelaksanaan yang baru berdasarkan Peraturan Pemerintah ini.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pada saat Peraturan Pemerintah ini mulai berlaku:\na. Semua Peraturan Perundang-undangan yang\nmerupakan peraturan pelaksanaan dari Peraturan\nPemerintah Nomor 143 Tahun 2000 tentang\nPelaksanaan Undang-Undang Nomor 8 Tahun 1983\ntentang Pajak Pertambahan Nilai Barang dan Jasa dan\nPajak Penjualan atas Barang Mewah sebagaimana telah\ndiubah dengan Undang-Undang Nomor 18 Tahun 2000\nsebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 24 Tahun 2002 tentang Perubahan\natas Peraturan Pemerintah Nomor 143 Tahun 2000\ntentang Pelaksanaan Undang-Undang Nomor 8 Tahun\n1983 tentang Pajak Pertambahan Nilai Barang dan Jasa\ndan Pajak Penjualan atas Barang Mewah sebagaimana\ntelah beberapa kali diubah terakhir dengan Undang-\nUndang Nomor 18 Tahun 2000 dinyatakan masih tetap\nberlaku sepanjang tidak bertentangan dengan\nketentuan dalam Peraturan Pemerintah ini atau belum\ndiatur dengan peraturan perundang-undangan\ntersendiri.\nb. Peraturan . . .\nb. Peraturan pelaksanaan dari Peraturan Pemerintah\nNomor 144 Tahun 2000 tentang Jenis Barang dan Jasa\nyang Tidak Dikenakan Pajak Pertambahan Nilai\ndinyatakan masih tetap berlaku sepanjang tidak\nbertentangan dengan Undang-Undang Pajak\nPertambahan Nilai dan/atau belum diatur dengan\nperaturan pelaksanaan yang baru berdasarkan\nPeraturan Pemerintah ini.",
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "202d7aea-e403-41b7-9d49-326314b3b673",
+                            "id": "1a8c87cc-9cd6-4021-97e3-36cca350375b",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Pada saat Peraturan Pemerintah ini mulai berlaku:\na. Peraturan Pemerintah Nomor 143 Tahun 2000 tentang Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 18 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 259, Tambahan Lembaran Negara Republik Indonesia Nomor 4061) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24 Tahun 2002 tentang Perubahan atas Peraturan Pemerintah Nomor 143 Tahun 2000 tentang Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 18 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 4199); dan\nb. Peraturan Pemerintah Nomor 144 Tahun 2000 tentang Jenis Barang dan Jasa yang Tidak Dikenakan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 260, Tambahan Lembaran Negara Republik Indonesia Nomor 4062), dicabut dan dinyatakan tidak berlaku.",
-                            "explanation": "Tidak ada Penjelasan"
+                            "content": " Pada saat Peraturan Pemerintah ini mulai berlaku:\na. Peraturan Pemerintah Nomor 143 Tahun 2000 tentang\nPelaksanaan Undang-Undang Nomor 8 Tahun 1983\ntentang Pajak Pertambahan Nilai Barang dan Jasa dan\nPajak Penjualan atas Barang Mewah sebagaimana telah\nbeberapa kali diubah terakhir dengan Undang-Undang\nNomor 18 Tahun 2000 (Lembaran Negara Republik\nIndonesia Tahun 2000 Nomor 259, Tambahan\nLembaran Negara Republik Indonesia Nomor 4061)\nsebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 24 Tahun 2002 tentang Perubahan\natas Peraturan Pemerintah Nomor 143 Tahun 2000\ntentang Pelaksanaan Undang-Undang Nomor 8 Tahun\n1983 tentang Pajak Pertambahan Nilai Barang dan\nJasa dan Pajak Penjualan atas Barang Mewah\nsebagaimana telah beberapa kali diubah terakhir\ndengan Undang-Undang Nomor 18 Tahun 2000\n(Lembaran Negara Republik Indonesia Tahun 2002\nNomor 49, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4199); dan\nb. Peraturan Pemerintah Nomor 144 Tahun 2000 tentang\nJenis Barang dan Jasa yang Tidak Dikenakan Pajak\nPertambahan Nilai (Lembaran Negara Republik\nIndonesia Tahun 2000 Nomor 260, Tambahan\nLembaran Negara Republik Indonesia Nomor 4062),\ndicabut dan dinyatakan tidak berlaku.",
+                            "explanation": "\nCukup jelas."
                         }
                     ]
                 },
                 {
-                    "id": "f615e009-f4a5-4917-a671-8de8d3f47ea8",
+                    "id": "b47fad45-7607-4419-866f-1fe38a65b8cb",
                     "name": "Article 23",
                     "type": "article",
                     "children": {
-                        "id": "e4065ca9-af5e-49c2-92de-baabf16dbd00",
+                        "id": "cf43d01d-22b2-4bbc-b01d-ebbf96cf7dee",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
-                        "explanation": "Tidak ada Penjelasan"
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "explanation": "\nCukup jelas.\n"
                     }
                 }
             ]
         }
     ],
     "metadata": {
-        "Umum": "\nDengan diundangkannya Undang-Undang Nomor 42 Tahun 2009\ntentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983\ntentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas\nBarang Mewah terdapat perubahan materi sehingga perlu dilakukan\npenyesuaian terhadap ketentuan sebagaimana diatur dalam Peraturan\nPemerintah Nomor 143 Tahun 2000 tentang Pelaksanaan Undang-Undang\nNomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa\ndan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali\ndiubah terakhir dengan Undang-Undang Nomor 18 Tahun 2000\nsebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24 Tahun\n2002 tentang Perubahan atas Peraturan Pemerintah Nomor 143 Tahun\n2000 tentang Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang\nPajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang\nMewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-\nUndang Nomor 18 Tahun 2000.\nBerdasarkan Pasal 19 Undang-Undang Pajak Pertambahan Nilai,\nPeraturan Pemerintah ini disusun untuk memberikan penegasan dan\npenjelasan lebih lanjut serta untuk mengatur hal-hal yang belum cukup\ndiatur dalam Undang-Undang Pajak Pertambahan Nilai, antara lain\nmengenai tanggung jawab renteng pembayaran Pajak Pertambahan Nilai,\npemakaian sendiri, saat penerbitan Faktur Pajak, rincian barang dan jasa\nyang tidak dikenai Pajak Pertambahan Nilai, pengertian barang modal yang\nterkait dengan pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak\nyang belum berproduksi, dan pengertian Pengusaha Kena Pajak pedagang\neceran.\nSesuai dengan ketentuan Pasal 16F Undang-Undang Pajak\nPertambahan Nilai, pembeli Barang Kena Pajak atau penerima Jasa Kena\nPajak bertanggung jawab secara renteng terhadap pembayaran Pajak\nPertambahan Nilai. Namun demikian, pengaturan tanggung jawab secara\nrenteng belum diatur secara jelas sehingga perlu diatur norma umum dan\npersyaratan mengenai tanggung jawab renteng dalam Peraturan Pemerintah\nini.\nDalam rangka memberikan kemudahan administrasi bagi Pengusaha\nKena Pajak, Peraturan Pemerintah ini mengatur bahwa atas pemakaian\nsendiri Barang Kena Pajak dan/atau Jasa Kena Pajak untuk tujuan\nproduktif yang terutang Pajak Pertambahan Nilai tidak perlu dilakukan\npemungutan Pajak Pertambahan Nilai dan penerbitan Faktur Pajak.\nSebaliknya, untuk pemakaian sendiri Barang Kena Pajak dan/atau Jasa\nKena Pajak untuk tujuan konsumtif, Pengusaha Kena Pajak wajib\nmenerbitkan Faktur Pajak sesuai dengan ketentuan peraturan perundang-\nundangan di bidang perpajakan.\nJenis barang dan jenis jasa yang tidak dikenai Pajak Pertambahan\nNilai sebagaimana diatur dalam Pasal 4A Undang-Undang Pajak\nPertambahan Nilai masih bersifat umum, sehingga perlu diatur lebih lanjut\nmengenai kriteria dan/atau rincian jenis barang dan jasa yang tidak dikenai\nPajak Pertambahan Nilai. Hal ini sangat penting untuk memberikan\nkepastian hukum dalam menentukan jenis barang dan jasa yang bukan\nmerupakan Barang Kena Pajak atau Jasa Kena Pajak.\nPengusaha Kena Pajak yang belum berproduksi hanya dapat\nmengkreditkan Pajak Masukan atas perolehan dan/atau impor barang\nmodal. Dalam rangka memberikan kepastian hukum dan memperhatikan\naspek keadilan, Peraturan Pemerintah ini mengatur bahwa barang modal\nmencakup seluruh harta berwujud yang memiliki masa manfaat lebih dari 1\n(satu) tahun dan berlaku untuk semua jenis kegiatan usaha.\nSaat terutangnya pajak merupakan hal yang penting untuk\nmenentukan waktu bagi Pengusaha Kena Pajak untuk menerbitkan Faktur\nPajak. Saat penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak\nsangat bervariasi sehingga perlu penjelasan dan penegasan untuk\nmenghindari terjadinya multitafsir dan ketidakpastian hukum. Penegasan\ndimaksud dibuat selaras dengan praktik bisnis yang lazim dan sesuai\ndengan prinsip akuntansi yang berlaku umum.\nUntuk memberikan keseimbangan dalam pemenuhan kewajiban\nPajak Pertambahan Nilai bagi Pengusaha Kena Pajak penjual dan\nPengusaha Kena Pajak pembeli, sudah selayaknya Pengusaha Kena Pajak\npembeli tidak diperkenankan untuk mengkreditkan Pajak Masukan yang\nFaktur Pajaknya diterbitkan setelah melebihi jangka waktu 3 (tiga) bulan\nsejak saat terutangnya pajak. Ketentuan ini dimaksudkan agar Pengusaha\nKena Pajak pembeli ikut mengawasi Pengusaha Kena Pajak penjual untuk\nmenerbitkan Faktur Pajak secara tepat waktu.\nPengusaha Kena Pajak yang bukan pedagang eceran tetapi\nmelakukan penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak\nsecara eceran akan mengalami kesulitan dalam menerbitkan Faktur Pajak\napabila diperlakukan sama dengan Pengusaha Kena Pajak pada umumnya\nyang melakukan penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak\ntidak secara eceran. Untuk itu, perlu diberikan penegasan dan penjelasan\nbahwa Pengusaha Kena Pajak yang melakukan penyerahan dengan\nkarakteristik secara eceran termasuk dalam pengertian Pengusaha Kena\nPajak pedagang eceran. Termasuk dalam pengertian Pengusaha Kena Pajak\npedagang eceran adalah Pengusaha Kena Pajak yang melakukan\npenyerahan jasa secara eceran.\nSubstansi pengaturan atas pemberian fasilitas Pajak Pertambahan\nNilai tidak dipungut untuk impor Barang Kena Pajak tertentu yang\ndibebaskan dari bea masuk sudah tidak diatur lagi dalam Peraturan\nPemerintah ini. Selanjutnya fasilitas tersebut akan diatur dalam Peraturan\nPemerintah yang mengatur khusus tentang fasilitas Pajak Pertambahan\nNilai sebagaimana diamanatkan dalam Pasal 16B Undang-Undang Pajak\nPertambahan Nilai. Namun demikian, dalam rangka memberikan kepastian\nhukum, pemberian fasilitas tersebut yang selama ini diatur dalam\nperaturan pelaksanaan dari Peraturan Pemerintah Nomor 143 Tahun 2000\ntentang Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang Pajak\nPertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang\nMewah sebagaimana telah beberapa kali diubah terakhir dengan\nUndang-Undang Nomor 18 Tahun 2000 masih tetap berlaku sampai dengan\nPeraturan Pemerintah yang mengatur tentang pemberian fasilitas dimaksud\nditerbitkan.\nUntuk memberikan kemudahan bagi Pengusaha Kena Pajak dalam\nmenerbitkan Faktur Pajak sesuai dengan Undang-Undang Pajak\nPertambahan Nilai maka ketentuan penerbitan Faktur Pajak sebagaimana\ndiatur dalam Pasal 19 ayat (1) dan Pasal 20 Peraturan Pemerintah ini\nberlaku sejak tanggal 1 April 2010, yaitu sejak berlakunya Undang-Undang\nNomor 42 Tahun 2009 tentang Perubahan Ketiga atas Undang-Undang\nNomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa\ndan Pajak Penjualan atas Barang Mewah.",
+        "Umum": "\nDengan diundangkannya Undang-Undang Nomor 42 Tahun 2009\ntentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983\ntentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas\nBarang Mewah terdapat perubahan materi sehingga perlu dilakukan\npenyesuaian terhadap ketentuan sebagaimana diatur dalam Peraturan\nPemerintah Nomor 143 Tahun 2000 tentang Pelaksanaan Undang-Undang\nNomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa\ndan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali\ndiubah terakhir dengan Undang-Undang Nomor 18 Tahun 2000\nsebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24 Tahun\n2002 tentang Perubahan atas Peraturan Pemerintah Nomor 143 Tahun\n2000 tentang Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang\nPajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang\nMewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-\nUndang Nomor 18 Tahun 2000.\nBerdasarkan Pasal 19 Undang-Undang Pajak Pertambahan Nilai,\nPeraturan Pemerintah ini disusun untuk memberikan penegasan dan\npenjelasan lebih lanjut serta untuk mengatur hal-hal yang belum cukup\ndiatur dalam Undang-Undang Pajak Pertambahan Nilai, antara lain\nmengenai tanggung jawab renteng pembayaran Pajak Pertambahan Nilai,\npemakaian sendiri, saat penerbitan Faktur Pajak, rincian barang dan jasa\nyang tidak dikenai Pajak Pertambahan Nilai, pengertian barang modal yang\nterkait dengan pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak\nyang belum berproduksi, dan pengertian Pengusaha Kena Pajak pedagang\neceran.\nSesuai dengan ketentuan Pasal 16F Undang-Undang Pajak\nPertambahan Nilai, pembeli Barang Kena Pajak atau penerima Jasa Kena\nPajak bertanggung jawab secara renteng terhadap pembayaran Pajak\nPertambahan Nilai. Namun demikian, pengaturan tanggung jawab secara\nrenteng belum diatur secara jelas sehingga perlu diatur norma umum dan\npersyaratan mengenai tanggung jawab renteng dalam Peraturan Pemerintah\nini.\nDalam rangka memberikan kemudahan administrasi bagi Pengusaha\nKena Pajak, Peraturan Pemerintah ini mengatur bahwa atas pemakaian\nsendiri Barang Kena Pajak dan/atau Jasa Kena Pajak untuk tujuan\nproduktif yang terutang Pajak Pertambahan Nilai tidak perlu dilakukan\npemungutan Pajak Pertambahan Nilai dan penerbitan Faktur Pajak.\nSebaliknya, untuk pemakaian sendiri Barang Kena Pajak dan/atau Jasa\nKena Pajak untuk tujuan konsumtif, Pengusaha Kena Pajak wajib\nmenerbitkan Faktur Pajak sesuai dengan ketentuan peraturan perundang-\nundangan di bidang perpajakan.\nJenis barang dan jenis jasa yang tidak dikenai Pajak Pertambahan\nNilai sebagaimana diatur dalam Pasal 4A Undang-Undang Pajak\nPertambahan Nilai masih bersifat umum, sehingga perlu diatur lebih lanjut\nmengenai kriteria dan/atau rincian jenis barang dan jasa yang tidak dikenai\nPajak Pertambahan Nilai. Hal ini sangat penting untuk memberikan\nkepastian hukum dalam menentukan jenis barang dan jasa yang bukan\nmerupakan Barang Kena Pajak atau Jasa Kena Pajak.\nPengusaha Kena Pajak yang belum berproduksi hanya dapat\nmengkreditkan Pajak Masukan atas perolehan dan/atau impor barang\nmodal. Dalam rangka memberikan kepastian hukum dan memperhatikan\naspek keadilan, Peraturan Pemerintah ini mengatur bahwa barang modal\nmencakup seluruh harta berwujud yang memiliki masa manfaat lebih dari 1\n(satu) tahun dan berlaku untuk semua jenis kegiatan usaha.\nSaat terutangnya pajak merupakan hal yang penting untuk\nmenentukan waktu bagi Pengusaha Kena Pajak untuk menerbitkan Faktur\nPajak. Saat penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak\nsangat bervariasi sehingga perlu penjelasan dan penegasan untuk\nmenghindari terjadinya multitafsir dan ketidakpastian hukum. Penegasan\ndimaksud dibuat selaras dengan praktik bisnis yang lazim dan sesuai\ndengan prinsip akuntansi yang berlaku umum.\nUntuk memberikan keseimbangan dalam pemenuhan kewajiban\nPajak Pertambahan Nilai bagi Pengusaha Kena Pajak penjual dan\nPengusaha Kena Pajak pembeli, sudah selayaknya Pengusaha Kena Pajak\npembeli tidak diperkenankan untuk mengkreditkan Pajak Masukan yang\nFaktur Pajaknya diterbitkan setelah melebihi jangka waktu 3 (tiga) bulan\nsejak saat terutangnya pajak. Ketentuan ini dimaksudkan agar Pengusaha\nKena Pajak pembeli ikut mengawasi Pengusaha Kena Pajak penjual untuk\nmenerbitkan Faktur Pajak secara tepat waktu.\nPengusaha.\nPengusaha Kena Pajak yang bukan pedagang eceran tetapi\nmelakukan penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak\nsecara eceran akan mengalami kesulitan dalam menerbitkan Faktur Pajak\napabila diperlakukan sama dengan Pengusaha Kena Pajak pada umumnya\nyang melakukan penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak\ntidak secara eceran. Untuk itu, perlu diberikan penegasan dan penjelasan\nbahwa Pengusaha Kena Pajak yang melakukan penyerahan dengan\nkarakteristik secara eceran termasuk dalam pengertian Pengusaha Kena\nPajak pedagang eceran. Termasuk dalam pengertian Pengusaha Kena Pajak\npedagang eceran adalah Pengusaha Kena Pajak yang melakukan\npenyerahan jasa secara eceran.\nSubstansi pengaturan atas pemberian fasilitas Pajak Pertambahan\nNilai tidak dipungut untuk impor Barang Kena Pajak tertentu yang\ndibebaskan dari bea masuk sudah tidak diatur lagi dalam Peraturan\nPemerintah ini. Selanjutnya fasilitas tersebut akan diatur dalam Peraturan\nPemerintah yang mengatur khusus tentang fasilitas Pajak Pertambahan\nNilai sebagaimana diamanatkan dalam Pasal 16B Undang-Undang Pajak\nPertambahan Nilai. Namun demikian, dalam rangka memberikan kepastian\nhukum, pemberian fasilitas tersebut yang selama ini diatur dalam\nperaturan pelaksanaan dari Peraturan Pemerintah Nomor 143 Tahun 2000\ntentang Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang Pajak\nPertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang\nMewah sebagaimana telah beberapa kali diubah terakhir dengan\nUndang-Undang Nomor 18 Tahun 2000 masih tetap berlaku sampai dengan\nPeraturan Pemerintah yang mengatur tentang pemberian fasilitas dimaksud\nditerbitkan.\nUntuk memberikan kemudahan bagi Pengusaha Kena Pajak dalam\nmenerbitkan Faktur Pajak sesuai dengan Undang-Undang Pajak\nPertambahan Nilai maka ketentuan penerbitan Faktur Pajak sebagaimana\ndiatur dalam Pasal 19 ayat (1) dan Pasal 20 Peraturan Pemerintah ini\nberlaku sejak tanggal 1 April 2010, yaitu sejak berlakunya Undang-Undang\nNomor 42 Tahun 2009 tentang Perubahan Ketiga atas Undang-Undang\nNomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa\ndan Pajak Penjualan atas Barang Mewah.",
         "Nomor": "1",
         "Tahun": "2012",
         "Tentang": "PELAKSANAAN UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK\nPERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS\nBARANG MEWAH SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR",
@@ -791,7 +783,7 @@
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
             "2": " Undang-Undang Nomor 8 Tahun 1983 tentang Pajak\nPertambahan Nilai Barang dan Jasa dan Pajak Penjualan\natas Barang Mewah (Lembaran Negara Republik Indonesia\nTahun 1983 Nomor 51, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 3264) sebagaimana telah\nbeberapa kali diubah terakhir dengan Undang-Undang\nNomor 42 Tahun 2009 tentang Perubahan Ketiga atas\nUndang-Undang Nomor 8 Tahun 1983 tentang Pajak\nPertambahan Nilai Barang dan Jasa dan Pajak Penjualan\natas Barang Mewah (Lembaran Negara Republik Indonesia\nTahun 2009 Nomor 150, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5069);"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang Pelaksanaan\nUndang-Undang Nomor 8 Tahun 1983 tentang Pajak\nPertambahan Nilai Barang dan Jasa dan Pajak Penjualan\natas Barang Mewah sebagaimana telah beberapa kali diubah\nterakhir dengan Undang-Undang Nomor 42 Tahun 2009\ntentang Perubahan Ketiga atas Undang-Undang Nomor 8\nTahun 1983 tentang Pajak Pertambahan Nilai Barang dan\nJasa dan Pajak Penjualan atas Barang Mewah;\nMengingat 1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 8 Tahun 1983 tentang Pajak\nPertambahan Nilai Barang dan Jasa dan Pajak Penjualan\natas Barang Mewah (Lembaran Negara Republik Indonesia\nTahun 1983 Nomor 51, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 3264) sebagaimana telah\nbeberapa kali diubah terakhir dengan Undang-Undang\nNomor 42 Tahun 2009 tentang Perubahan Ketiga atas\nUndang-Undang Nomor 8 Tahun 1983 tentang Pajak\nPertambahan Nilai Barang dan Jasa dan Pajak Penjualan\natas Barang Mewah (Lembaran Negara Republik Indonesia\nTahun 2009 Nomor 150, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5069);\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG PELAKSANAAN\nUNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK\nPERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK\nPENJUALAN ATAS BARANG MEWAH SEBAGAIMANA TELAH\nBEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-\nUNDANG NOMOR 42 TAHUN 2009 TENTANG PERUBAHAN\nKETIGA ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983\nTENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA\nDAN PAJAK PENJUALAN ATAS BARANG MEWAH.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang Pelaksanaan\nUndang-Undang Nomor 8 Tahun 1983 tentang Pajak\nPertambahan Nilai Barang dan Jasa dan Pajak Penjualan\natas Barang Mewah sebagaimana telah beberapa kali diubah\nterakhir dengan Undang-Undang Nomor 42 Tahun 2009\ntentang Perubahan Ketiga atas Undang-Undang Nomor 8\nTahun 1983 tentang Pajak Pertambahan Nilai Barang dan\nJasa dan Pajak Penjualan atas Barang Mewah;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 8 Tahun 1983 tentang Pajak\nPertambahan Nilai Barang dan Jasa dan Pajak Penjualan\natas Barang Mewah (Lembaran Negara Republik Indonesia\nTahun 1983 Nomor 51, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 3264) sebagaimana telah\nbeberapa kali diubah terakhir dengan Undang-Undang\nNomor 42 Tahun 2009 tentang Perubahan Ketiga atas\nUndang-Undang Nomor 8 Tahun 1983 tentang Pajak\nPertambahan Nilai Barang dan Jasa dan Pajak Penjualan\natas Barang Mewah (Lembaran Negara Republik Indonesia\nTahun 2009 Nomor 150, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5069);\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG PELAKSANAAN\nUNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK\nPERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK\nPENJUALAN ATAS BARANG MEWAH SEBAGAIMANA TELAH\nBEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-\nUNDANG NOMOR 42 TAHUN 2009 TENTANG PERUBAHAN\nKETIGA ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983\nTENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA\nDAN PAJAK PENJUALAN ATAS BARANG MEWAH.",
         "tanggal sah": "3 Januari 2012"
     }
 }

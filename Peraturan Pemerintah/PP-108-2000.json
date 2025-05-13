@@ -1,177 +1,252 @@
 {
     "results": [
         {
-            "id": "d0e0c11d-d852-4d17-bef0-334126f09a07",
+            "id": "851816d3-a9f5-486c-aea1-9c5f16901934",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "bbf5b2b7-7e3c-42d4-b422-cbbb3a8d33c1",
+                    "id": "b49ded1f-1631-46a2-bc8e-0ee570cd4951",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "cecbbd43-4a9c-4681-8ce5-ca154b474948",
+                        "id": "289707d8-fea6-4e5e-8613-770764677926",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam Peraturan ini yang dimaksud dengan:\n1. Kepala Daerah adalah Gubernur, Bupati dan Walikota sebagaimana dimaksud dalam Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah.\n2. Dewan Perwakilan Rakyat Daerah yang selanjutnya disebut DPRD adalah Badan Legislatif Daerah sebagaimana dimaksud dalam Undang-undang Nomor 4 Tahun 1999 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat dan Dewan Perwakilan Rakyat Daerah dan Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah.\n3. Anggaran Pendapatan dan Belanja Daerah, yang selanjutnya disingkat APBD adalah suatu rencana keuangan tahunan daerah yang ditetapkan berdasarkan Peraturan Daerah tentang Anggaran Pendapatan dan Belanja Daerah.\n4. Rencana stratejik atau Dokumen Perencanaan Daerah lainnya yang disahkan oleh DPRD dan Kepala Daerah, yang selanjutnya disebut Renstra, adalah rencana lima tahunan yang menggambarkan visi, misi, tujuan, strategi, program dan kegiatan daerah.\n5. Pertanggungjawaban Akhir Tahun Anggaran adalah pertanggung-jawaban Kepala Daerah kepada DPRD atas penyelenggaraan pemerintahan daerah selama satu tahun anggaran yang merupakan pertanggungjawaban pelaksanaan APBD berdasarkan tolok ukur Renstra.\n6. Pertanggungjawaban Akhir Masa Jabatan adalah pertanggung-jawaban Kepala Daerah kepada DPRD atas penyelenggaraan pemerintahan daerah selama masa jabatan Kepala Daerah berdasarkan tolok ukur Renstra.\n7. Pertanggungjawaban untuk hal tertentu adalah pertanggungjawaban atas perbuatan pribadi Kepala Daerah dan atau Wakil Kepala Daerah yang diduga mengandung unsur tindak pidana sewaktu-waktu selama masa jabatan.\n8. Komisi Penyelidik Independen yang selanjutnya disebut Komisi, adalah suatu panitia independen yang dibentuk oleh Menteri Dalam Negeri dan Otonomi Daerah atas nama Presiden atau oleh\n9. Gubernur atas nama Menteri Dalam Negeri dan Otonomi Daerah yang bertugas menyelidiki alasan dan penyebab penolakan pertanggungjawaban Kepala Daerah.\n",
+                        "content": "\nDalam Peraturan ini yang dimaksud dengan:\n1. Kepala Daerah adalah Gubernur, Bupati dan Walikota sebagaimana dimaksud dalam\nUndang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah.\n2. Dewan Perwakilan Rakyat Daerah yang selanjutnya disebut DPRD adalah Badan Legislatif Daerah\nsebagaimana dimaksud dalam Undang-undang Nomor 4 Tahun 1999 tentang Susunan dan\nKedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat dan Dewan Perwakilan\nRakyat Daerah dan Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah.\n3. Anggaran Pendapatan dan Belanja Daerah, yang selanjutnya disingkat APBD adalah suatu\nrencana keuangan tahunan daerah yang ditetapkan berdasarkan Peraturan Daerah tentang\nAnggaran Pendapatan dan Belanja Daerah.\n4. Rencana stratejik atau Dokumen Perencanaan Daerah lainnya yang disahkan oleh DPRD dan\nKepala Daerah, yang selanjutnya disebut Renstra, adalah rencana lima tahunan yang\nmenggambarkan visi, misi, tujuan, strategi, program dan kegiatan daerah.\n5. Pertanggungjawaban Akhir Tahun Anggaran adalah pertanggung-jawaban Kepala Daerah kepada\nDPRD atas penyelenggaraan pemerintahan daerah selama satu tahun anggaran yang merupakan\npertanggungjawaban pelaksanaan APBD berdasarkan tolok ukur Renstra.\n6. Pertanggungjawaban Akhir Masa Jabatan adalah pertanggung-jawaban Kepala Daerah kepada\nDPRD atas penyelenggaraan pemerintahan daerah selama masa jabatan Kepala Daerah\nberdasarkan tolok ukur Renstra.\n7. Pertanggungjawaban untuk hal tertentu adalah pertanggungjawaban atas perbuatan pribadi\nKepala Daerah dan atau Wakil Kepala Daerah yang diduga mengandung unsur tindak pidana\nsewaktu-waktu selama masa jabatan.\n8. Komisi Penyelidik Independen yang selanjutnya disebut Komisi, adalah suatu panitia independen\nyang dibentuk oleh Menteri Dalam Negeri dan Otonomi Daerah atas nama Presiden atau oleh\n9. Gubernur atas nama Menteri Dalam Negeri dan Otonomi Daerah yang bertugas menyelidiki alasan\ndan penyebab penolakan pertanggungjawaban Kepala Daerah.\n",
                         "explanation": "\nCukup jelas"
                     }
                 }
             ]
         },
         {
-            "id": "fd6cb7e9-9a30-43fd-b7b3-01a7d78263c0",
+            "id": "5e9b2ffc-e631-4c79-ae81-1d4a77f6571c",
             "name": "Chapter II",
-            "title": "\nPERTANGGUNGJAWABAN KEPALA DAERAH\nBagian Pertama\nUmum\nPasal 2\n(1) Dalam menjalankan tugas dan kewajiban sebagai Kepala Daerah, Gubernur, Bupati, dan Walikota\nbertanggung jawab kepada DPRD.\n(2) Dalam menjalankan tugasnya sebagai wakil Pemerintah, Gubernur berada di bawah dan\nbertanggung jawab kepada Presiden.\nPasal 3\na. Pertanggungjawaban Kepala Daerah terdiri dari:\nb. pertanggungjawaban akhir tahun anggaran;\nc. pertanggungjawaban akhir masa jabatan;\nd. pertanggungjawaban untuk hal tertentu.\nPasal 4\n(1) Pertanggungjawaban Kepala Daerah dinilai berdasarkan tolok ukur Renstra.\n(2) Setiap daerah wajib menetapkan Renstra dalam jangka waktu 1 (satu) bulan setelah Kepala\nDaerah dilantik.\n(3) Renstra sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Daerah.",
+            "title": "\nPERTANGGUNGJAWABAN KEPALA DAERAH",
             "type": "chapter",
             "children": [
                 {
-                    "id": "7ffae9b8-f405-433f-a027-6a31c15b38f7",
+                    "id": "fc86b7dd-a36c-40b2-bac2-1aa5bc50b3b2",
+                    "name": "Section First",
+                    "title": "\nUmum",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "fd7c45ac-3fc5-4c10-8c6f-4d3420d22f5f",
+                            "name": "Article 2",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "5db01af6-42e1-4844-9028-6a4e527e3e26",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Dalam menjalankan tugas dan kewajiban sebagai Kepala Daerah, Gubernur, Bupati, dan Walikota bertanggung jawab kepada DPRD.",
+                                    "explanation": "\nCukup jelas"
+                                },
+                                {
+                                    "id": "0050d083-0b49-4b43-99ba-15124dd5786e",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Dalam menjalankan tugasnya sebagai wakil Pemerintah, Gubernur berada di bawah dan bertanggung jawab kepada Presiden.",
+                                    "explanation": "\nCukup jelas"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "8fbf197b-ca21-4990-8820-67ae7b1870ec",
+                            "name": "Article 3",
+                            "type": "article",
+                            "children": {
+                                "id": "a48fcbce-2304-4187-bede-8b14fa5fab58",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\na. Pertanggungjawaban Kepala Daerah terdiri dari:\nb. pertanggungjawaban akhir tahun anggaran;\nc. pertanggungjawaban akhir masa jabatan;\nd. pertanggungjawaban untuk hal tertentu.",
+                                "explanation": "\nCukup Jelas"
+                            }
+                        },
+                        {
+                            "id": "b975fa71-c249-4bbc-b6c4-9cb836612e7e",
+                            "name": "Article 4",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "7f9f2dc0-1e67-44cf-935c-cd6eb72cbb90",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Pertanggungjawaban Kepala Daerah dinilai berdasarkan tolok ukur Renstra.",
+                                    "explanation": "\nCukup jelas"
+                                },
+                                {
+                                    "id": "0e00b91a-f0d1-4e79-bdcc-d177baa816db",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Setiap daerah wajib menetapkan Renstra dalam jangka waktu 1 (satu) bulan setelah Kepala Daerah dilantik.",
+                                    "explanation": "\nCukup jelas"
+                                },
+                                {
+                                    "id": "4ac3dacf-5573-40bd-8a23-908898be8d99",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Renstra sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Daerah.",
+                                    "explanation": "\nCukup jelas"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "753621e4-6938-4e37-b98f-a7ff6fabc367",
                     "name": "Section Second",
                     "title": "\nPertanggungjawaban Akhir Tahun Anggaran",
                     "type": "section",
                     "children": [
                         {
-                            "id": "f0c917cc-8368-42bf-b0a2-ce22b6a25ccf",
+                            "id": "1594a297-5235-4ce2-a06c-42283429a86b",
                             "name": "Article 5",
                             "type": "article",
                             "children": {
-                                "id": "66ed9204-964a-4b51-aa99-9546b2e7d82a",
+                                "id": "3f65ee49-13e7-4f90-be80-20d4d4f18771",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
-                                "content": "\nPertanggungjawaban Akhir Tahun Anggaran merupakan pertanggung-jawaban pelaksanaan APBD dalam\nbentuk perhitungan APBD berikut penilaian kinerja berdasarkan tolok ukur Renstra.",
+                                "content": "\nPertanggungjawaban Akhir Tahun Anggaran merupakan pertanggung-jawaban pelaksanaan APBD dalam bentuk perhitungan APBD berikut penilaian kinerja berdasarkan tolok ukur Renstra.",
                                 "explanation": "\nLaporan pertanggungjawaban akhir tahun anggaran Kepala Daerah terdiri atas:\na. Laporan perhitungan APBD;\nb. Nota Perhitungan APBD;\nc. Laporan Aliran Kas;\nd. Neraca Daerah.\nKeempat aspek di atas dilengkapi dengan penilaian kinerja berdasarkan tolok ukur Renstra.\nPenilaian kinerja berdasarkan tolok ukur Renstra didasarkan pada indikator:\n1. Dampak: bagaimana dampaknya terhadap kondisi makro yang ingin dicapai berdasarkan manfaat yang dihasilkan.\n2. Manfaat: bagaimana tingkat kemanfaatan yang dapat dirasakan sebagai nilai tambah bagi masyarakat, maupun Pemerintah.\n3. Hasil: bagaimana tingkat pencapaian kinerja yang diharapkan terwujud berdasarkan keluaran (output) kebijakan atau program yang sudah dilaksanakan.\n4. Keluaran: bagaimana bentuk produk yang dihasilkan langsung oleh kebijakan atau program berdasarkan masukan (input) yang digunakan.\n5. Masukan: bagaimana tingkat atau besaran sumber-sumber yang digunakan, sumber daya manusia, dana, material, waktu, teknologi dan sebagainya."
                             }
                         },
                         {
-                            "id": "3e006d81-ea2b-47c9-8d62-d1256158b07d",
+                            "id": "d6863d4f-2884-45f5-b6b1-a9b113b45837",
                             "name": "Article 6",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "3da4a8eb-80b4-48e9-a9d4-20b25c9eb550",
+                                    "id": "dd8a7ab5-54aa-456d-8c73-0fbd74007309",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Pertanggungjawaban akhir tahun anggaran dibacakan oleh Kepala Daerah di depan Sidang\nParipurna DPRD, paling lambat 3 (tiga) bulan setelah berakhirnya tahun anggaran.",
+                                    "content": " Pertanggungjawaban akhir tahun anggaran dibacakan oleh Kepala Daerah di depan Sidang Paripurna DPRD, paling lambat 3 (tiga) bulan setelah berakhirnya tahun anggaran.",
                                     "explanation": "\nYang dimaksud dengan ditolak dalam ayat ini ditujukan sebagai bagian mekanisme\npengawasan DPRD atas pelaksanaan APBD supaya semakin efisien, efektif dan transparan.\nYang dimaksud dengan perbedaan yang nyata antara rencana dan realisasi APBD dalam\nayat ini adalah penyimpangan-penyimpangan baik dipandang dari sudut ukuran pencapaian target\nmaupun ukuran peraturan perundang-undangan.\nMasing-masing Fraksi menyusun penilaian disertai analisis yang obyektif dan terukur\nberkenaan dengan laporan pertanggungjawaban Kepala Daerah."
                                 },
                                 {
-                                    "id": "7cf7a0fc-9ccb-4d2c-bd34-f44ec2f7467d",
+                                    "id": "fe3e0b3b-1e8d-47b7-8a21-d33d46b04dde",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Dokumen pertanggung-jawaban akhir tahun angggaran yang telah dibacakan oleh Kepala Daerah,\nkemudian diserahkan kepada DPRD, selanjutnya dilakukan penilaian sesuai dengan mekanisme\ndan ketentuan yang berlaku.",
+                                    "content": " Dokumen pertanggung-jawaban akhir tahun angggaran yang telah dibacakan oleh Kepala Daerah, kemudian diserahkan kepada DPRD, selanjutnya dilakukan penilaian sesuai dengan mekanisme dan ketentuan yang berlaku.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "c962fc3c-ff9d-4e23-8646-16fde48f14db",
+                                    "id": "facfa612-2da1-42d5-938c-b2c57cbb4de5",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Penilaian oleh DPRD atas pertanggungjawaban Kepala Daerah paling lambat selesai 1 (satu)\nbulan setelah dokumen pertanggung-jawaban akhir tahun anggaran diserahkan.",
+                                    "content": " Penilaian oleh DPRD atas pertanggungjawaban Kepala Daerah paling lambat selesai 1 (satu) bulan setelah dokumen pertanggung-jawaban akhir tahun anggaran diserahkan.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "c0a2fd05-eda4-453f-9b66-1849919f60b3",
+                                    "id": "63aa7c83-e1ad-44ce-8b3a-e871f4845ae5",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
-                                    "content": " Apabila sampai dengan 1 (satu) bulan sejak penyerahan dokumen, penilaian DPRD belum dapat\ndiselesaikan, pertanggungjawaban akhir tahun anggaran tersebut dianggap diterima.",
+                                    "content": " Apabila sampai dengan 1 (satu) bulan sejak penyerahan dokumen, penilaian DPRD belum dapat diselesaikan, pertanggungjawaban akhir tahun anggaran tersebut dianggap diterima.",
                                     "explanation": "\nPasal 7"
                                 }
                             ]
                         },
                         {
-                            "id": "f41c254c-bdef-4054-86c0-0268910f52b9",
+                            "id": "0182b296-b033-49e8-a46f-4fa4a82b69d4",
                             "name": "Article 7",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "22b37abf-7442-4db1-9094-d000d6b13500",
+                                    "id": "02e2d5f3-4d79-427f-b8ad-bb3ab04a05a3",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Pertanggungjawaban Kepala Daerah dapat ditolak apabila terdapat perbedaan yang nyata antara\nrencana dengan realisasi APBD yang merupakan penyimpangan yang alasannya tidak dapat\ndiper-tanggungjawabkan berdasarkan tolok ukur Renstra.",
+                                    "content": " Pertanggungjawaban Kepala Daerah dapat ditolak apabila terdapat perbedaan yang nyata antara rencana dengan realisasi APBD yang merupakan penyimpangan yang alasannya tidak dapat diper-tanggungjawabkan berdasarkan tolok ukur Renstra.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "7c319370-07ff-4f80-a822-2a54c2b1bb5e",
+                                    "id": "8db660d9-2f2d-497e-9c75-b358a56af605",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Penilaian atas pertanggungjawaban Kepala Daerah dilaksanakan dalam Rapat Paripurna DPRD\nyang dihadiri oleh sekurang-kurangnya 2/3 (dua pertiga) dari jumlah anggota DPRD.",
+                                    "content": " Penilaian atas pertanggungjawaban Kepala Daerah dilaksanakan dalam Rapat Paripurna DPRD yang dihadiri oleh sekurang-kurangnya 2/3 (dua pertiga) dari jumlah anggota DPRD.",
                                     "explanation": "Tidak ada Penjelasan"
                                 },
                                 {
-                                    "id": "260eb276-978d-4930-8f46-6a882efc9dc8",
+                                    "id": "b763be0d-deef-4c40-89f5-05f0ffb43802",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Penolakan DPRD dilakukan dengan persetujuan sekurang-kurangnya 2/3 (dua pertiga) dari jumlah\nanggota DPRD yang hadir dan mencakup seluruh Fraksi.",
+                                    "content": " Penolakan DPRD dilakukan dengan persetujuan sekurang-kurangnya 2/3 (dua pertiga) dari jumlah anggota DPRD yang hadir dan mencakup seluruh Fraksi.",
                                     "explanation": "Tidak ada Penjelasan"
                                 }
                             ]
                         },
                         {
-                            "id": "38f4cdde-3c84-4afe-8acf-5e45f622e7f3",
+                            "id": "7506509b-016a-465e-a54a-191377cbc824",
                             "name": "Article 8",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "5a433b3d-487f-4979-9310-1d3c95c7b59c",
+                                    "id": "f196d36c-5b9a-4687-b93a-6dab4253323a",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Apabila pertanggungjawaban ditolak, Kepala Daerah harus melengkapi dan/atau\nmenyempurnakan dalam waktu paling lambat 30 hari.",
+                                    "content": " Apabila pertanggungjawaban ditolak, Kepala Daerah harus melengkapi dan/atau menyempurnakan dalam waktu paling lambat 30 hari.",
                                     "explanation": "\nCukup Jelas"
                                 },
                                 {
-                                    "id": "f185ce3a-d18c-418f-9633-2f2582eedd7b",
+                                    "id": "5c4f9937-09fa-4b4e-ab39-cf1fb1dbd23d",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Apabila Kepala Daerah tidak melengkapi atau menyempurnakan dokumen pertanggungjawaban\ndalam jangka waktu paling lama 30 hari, DPRD dapat mengusulkan pemberhentian kepada\nPresiden melalui Menteri Dalam Negeri dan Otonomi Daerah bagi Gubernur, kepada Menteri\nDalam Negeri dan Otonomi Daerah melalui Gubernur bagi Bupati/Walikota.",
+                                    "content": " Apabila Kepala Daerah tidak melengkapi atau menyempurnakan dokumen pertanggungjawaban dalam jangka waktu paling lama 30 hari, DPRD dapat mengusulkan pemberhentian kepada Presiden melalui Menteri Dalam Negeri dan Otonomi Daerah bagi Gubernur, kepada Menteri Dalam Negeri dan Otonomi Daerah melalui Gubernur bagi Bupati/Walikota.",
                                     "explanation": "\nCukup Jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "d91fa918-0fec-4230-9cd5-71476b0903f1",
+                            "id": "a0294002-4d78-42af-ba11-852dc05cad42",
                             "name": "Article 9",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "56c77b4c-18d9-42ac-a579-7019cf2ef3c0",
+                                    "id": "91d43ac1-d786-4bab-a5be-fbbe31181c85",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " DPRD melakukan penilaian atas laporan pertanggungjawaban akhir tahun anggaran yang telah\ndisempurnakan paling lambat selesai 1 (satu) bulan setelah laporan tersebut diserahkan.",
                                     "explanation": "\nCukup Jelas"
                                 },
                                 {
-                                    "id": "25cf4d40-7486-40c1-8fd7-60ba8f521e66",
+                                    "id": "ba0c1dca-0fed-4020-a9cc-b544494ffde7",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Pertanggungjawaban Kepala Daerah yang telah disempurnakan dapat ditolak apabila dalam\nlaporan yang telah disempurnakan masih tidak dapat dipertanggungjawabkan berdasarkan tolok\nukur Renstra.",
                                     "explanation": "\nCukup Jelas"
                                 },
                                 {
-                                    "id": "0a900cce-3d0e-4c96-aa31-a60cd20bec4e",
+                                    "id": "d0d689b1-84bc-4071-ab69-fd55dd49e408",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Penilaian DPRD atas pertanggungjawaban yang telah disempurnakan, dilaksanakan dalam rapat\nparipurna DPRD yang dihadiri oleh sekurang-kurangnya 2/3 (dua pertiga) dari jumlah anggota\nDPRD.",
                                     "explanation": "\nCukup Jelas"
                                 },
                                 {
-                                    "id": "9ea05824-23a5-4aa8-b1df-962b9704d755",
+                                    "id": "23de9c9e-1608-425a-bc71-79ac94c47166",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Penolakan DPRD atas laporan yang telah disempurnakan hanya dapat diputuskan atas\npersetujuan sekurang-kurangnya 2/3 (dua pertiga) dari jumlah anggota yang hadir dan mencakup\nseluruh Fraksi.",
                                     "explanation": "\nCukup Jelas"
@@ -179,22 +254,22 @@
                             ]
                         },
                         {
-                            "id": "2f1fe72b-2bfa-4f37-947c-a9f564f46c51",
+                            "id": "211a061c-94dc-450e-b3cf-9c89aac86339",
                             "name": "Article 10",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "194a4930-586c-4cd1-8c03-95a149c8dd92",
+                                    "id": "3be29008-41b4-40d0-9015-3af916e26960",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Apabila laporan pertangungjawaban akhir tahun anggaran Gubernur ditolak untuk keduakalinya,\nDPRD mengusulkan pemberhentian Gubernur dan Wakil Gubernur kepada Presiden melalui\nMenteri Dalam Negeri dan Otonomi Daerah.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "23e8747d-2b98-4901-9df0-9edd1b18eb0a",
+                                    "id": "32ed84a4-debc-4958-b3ad-cda72450a7d4",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Apabila laporan pertanggungjawaban akhir tahun anggaran Bupati/Walikota ditolak untuk\nkeduakalinya, DPRD mengusulkan pemberhentian Bupati dan Wakil Bupati atau Walikota dan\nWakil Walikota kepada Menteri Dalam Negeri dan Otonomi Daerah melalui Gubernur.",
                                     "explanation": "\nCukup jelas"
@@ -202,11 +277,11 @@
                             ]
                         },
                         {
-                            "id": "78d8af2a-6d22-4fc5-a104-35b482300ec5",
+                            "id": "776c3245-2788-489e-bf17-5ed69acb6b35",
                             "name": "Article 11",
                             "type": "article",
                             "children": {
-                                "id": "d6caf0ef-fa6b-4523-80e8-94caa3d775e5",
+                                "id": "71acf709-a5ae-4cc1-a843-a66e70e79e55",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -215,22 +290,22 @@
                             }
                         },
                         {
-                            "id": "8e60f06d-8e9c-4ef2-8832-a1ebb2ce7b50",
+                            "id": "3ecf233f-ce62-4652-aa5b-8ef83d5693b1",
                             "name": "Article 12",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "550afc4c-94f8-4695-895b-f2129053ee38",
+                                    "id": "0176d570-2316-4149-9f92-834df07c9c89",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Anggota Komisi terdiri dari para ahli yang berkompeten, independen, non partisan yang\nkredibilitasnya diakui oleh masyarakat, dan berdomisili di wilayah Indonesia bagi Propinsi atau\nberdomisili di Propinsi setempat bagi Kabupaten/Kota.",
                                     "explanation": "\nCukup jelas\n"
                                 },
                                 {
-                                    "id": "7ad7a480-ea66-43fe-bdb1-a4c694134813",
+                                    "id": "e99188e7-a1b5-4420-9d1f-6ac686a75ddf",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Jumlah anggota Komisi paling banyak 7 (tujuh) orang.",
                                     "explanation": "\nCukup jelas\n"
@@ -238,96 +313,96 @@
                             ]
                         },
                         {
-                            "id": "b028445e-114c-45fb-98d4-e699999ed8bc",
+                            "id": "a3874bc5-c03c-43eb-86fc-a26d2f2cc232",
                             "name": "Article 13",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "052131c8-a3bd-46fc-b680-894f5d1d8c76",
+                                    "id": "97b00524-1617-4457-86df-28076c5c1603",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Komisi sebagaimana dimaksud dalam Pasal 11 bertugas membantu Pemerintah untuk menilai kesesuaian keputusan penolakan DPRD dengan ketentuan yang berlaku.",
+                                    "content": " Komisi sebagaimana dimaksud dalam Pasal 11 bertugas membantu Pemerintah untuk menilai\nkesesuaian keputusan penolakan DPRD dengan ketentuan yang berlaku.",
                                     "explanation": "\nYang dimaksud dengan Pemerintah pada ayat ini adalah Menteri Dalam Negeri dan\nOtonomi Daerah untuk Komisi yang dibentuk oleh Menteri Dalam Negeri dan Otonomi Daerah, dan\nGubernur untuk Komisi yang dibentuk oleh Gubernur."
                                 },
                                 {
-                                    "id": "c46d9921-d196-432f-b2f1-b1f1e99a115e",
+                                    "id": "6d9006c5-6528-4b6f-8a96-7292e6ebe84a",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Hasil penilaian atas keputusan penolakan pertanggungjawaban Gubernur oleh Komisi disampaikan kepada Menteri Dalam Negeri dan Otonomi Daerah dengan tembusan kepada Presiden.",
+                                    "content": " Hasil penilaian atas keputusan penolakan pertanggungjawaban Gubernur oleh Komisi\ndisampaikan kepada Menteri Dalam Negeri dan Otonomi Daerah dengan tembusan kepada\nPresiden.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "6413f718-ba05-4bfd-8267-144daa233537",
+                                    "id": "93e37528-5ec0-40f0-81ce-41f295e7ef9d",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
-                                    "content": " Hasil penilaian atas keputusan penolakan pertanggungjawaban Bupati/Walikota oleh Komisi disampaikan kepada Gubernur dengan tembusan kepada Menteri Dalam Negeri dan Otonomi Daerah.",
+                                    "content": " Hasil penilaian atas keputusan penolakan pertanggungjawaban Bupati/Walikota oleh Komisi\ndisampaikan kepada Gubernur dengan tembusan kepada Menteri Dalam Negeri dan Otonomi\nDaerah.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "7ca38568-c1c9-4f67-9562-464d4b4a46b5",
+                                    "id": "b30f2284-5f6b-4949-93fe-4e770ae41cd8",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
-                                    "content": " Masa tugas Komisi berakhir setelah proses pertanggungjawaban Kepala Daerah dinyatakan selesai.",
+                                    "content": " Masa tugas Komisi berakhir setelah proses pertanggungjawaban Kepala Daerah dinyatakan\nselesai.",
                                     "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "f4f52cb7-c25e-4fc7-bd44-bedcbf4ba6ec",
+                            "id": "dd12ea89-d40f-4e62-bdd6-83b09fdd1cef",
                             "name": "Article 14",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "7d5c6260-ec3b-4694-96b9-11ab64b5453f",
+                                    "id": "1a80da8e-e30b-422a-bb2d-4e3e801a6c98",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Apabila Komisi menilai keputusan DPRD atas penolakan pertanggungjawaban akhir tahun anggaran Gubernur telah sesuai dengan ketentuan yang berlaku, usul pemberhentian sebagaimana dimaksud dalam Pasal 10 ayat (1) diteruskan kepada Presiden untuk disahkan.",
+                                    "content": " Apabila Komisi menilai keputusan DPRD atas penolakan pertanggungjawaban akhir tahun\nanggaran Gubernur telah sesuai dengan ketentuan yang berlaku, usul pemberhentian\nsebagaimana dimaksud dalam Pasal 10 ayat (1) diteruskan kepada Presiden untuk disahkan.",
                                     "explanation": "\nCukup jelas"
                                 },
                                 {
-                                    "id": "588c94d2-ea37-4247-8455-6d40d5a70157",
+                                    "id": "3ae6043e-d8b2-49c4-ac92-2bd78c258405",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Apabila Komisi menilai keputusan DPRD atas penolakan pertanggungjawaban akhir tahun anggaran Bupati/Walikota telah sesuai dengan ketentuan yang berlaku, usul pemberhentian sebagaimana dimaksud dalam Pasal 10 ayat (1) diteruskan kepada Menteri Dalam Negeri dan Otonomi Daerah untuk disahkan.",
+                                    "content": " Apabila Komisi menilai keputusan DPRD atas penolakan pertanggungjawaban akhir tahun\nanggaran Bupati/Walikota telah sesuai dengan ketentuan yang berlaku, usul pemberhentian\nsebagaimana dimaksud dalam Pasal 10 ayat (1) diteruskan kepada Menteri Dalam Negeri dan\nOtonomi Daerah untuk disahkan.",
                                     "explanation": "\nCukup jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "dfb7e725-6648-4329-8ada-d609748f5481",
+                            "id": "c23f401d-f1c3-4d3c-9d28-9b3194e10d4c",
                             "name": "Article 15",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "0dcf0f14-a6e9-475e-8235-01a594ff1a6a",
+                                    "id": "9d43d881-b090-49ab-9b7c-e5a053b0a2f9",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
-                                    "content": " Apabila Komisi menilai keputusan DPRD atas penolakan pertanggungjawaban akhir tahun anggaran Gubernur tidak sesuai dengan ketentuan yang berlaku, Presiden membatalkan keputusan DPRD sebagaimana dimaksud dalam Pasal 10 ayat (1).",
+                                    "content": " Apabila Komisi menilai keputusan DPRD atas penolakan pertanggungjawaban akhir tahun\nanggaran Gubernur tidak sesuai dengan ketentuan yang berlaku, Presiden membatalkan\nkeputusan DPRD sebagaimana dimaksud dalam Pasal 10 ayat (1).",
                                     "explanation": "\nCukup Jelas"
                                 },
                                 {
-                                    "id": "cb1176c5-6e9e-4e29-ae25-0793e036bd7b",
+                                    "id": "5c13db04-7070-4623-a34a-cde339e08fb4",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Apabila Komisi menilai keputusan DPRD atas penolakan pertanggungjawaban akhir tahun anggaran Bupati/Walikota tidak sesuai dengan ketentuan yang berlaku, Menteri Dalam Negeri dan Otonomi Daerah membatalkan keputusan DPRD sebagaimana dimaksud dalam Pasal 10 ayat (2).",
+                                    "content": " Apabila Komisi menilai keputusan DPRD atas penolakan pertanggungjawaban akhir tahun\nanggaran Bupati/Walikota tidak sesuai dengan ketentuan yang berlaku, Menteri Dalam Negeri dan\nOtonomi Daerah membatalkan keputusan DPRD sebagaimana dimaksud dalam Pasal 10 ayat (2).",
                                     "explanation": "\nCukup Jelas"
                                 }
                             ]
                         },
                         {
-                            "id": "a17718a8-2e55-49ac-9b64-b03c77bb7677",
+                            "id": "e4d885d1-4c81-4682-b6f9-840888ca1ef5",
                             "name": "Article 16",
                             "type": "article",
                             "children": {
-                                "id": "dc862a79-af39-4365-9e65-b6a1ba52594b",
+                                "id": "1af47bdf-f974-4ee5-ad26-03de199f4ce2",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -338,17 +413,17 @@
                     ]
                 },
                 {
-                    "id": "7802daa4-683c-4906-a94e-37e8ddee713c",
+                    "id": "f14a90dd-38a1-4eff-9eb9-b80ed79c825b",
                     "name": "Section Third",
                     "title": "\nPertanggungjawaban Akhir Masa Jabatan",
                     "type": "section",
                     "children": [
                         {
-                            "id": "eaa9469e-d618-4231-b596-0704290a55a4",
+                            "id": "6eb45647-b20c-452b-9d78-3be708de2140",
                             "name": "Article 17",
                             "type": "article",
                             "children": {
-                                "id": "83663776-272c-4fc9-98f5-719a3538f3b8",
+                                "id": "0117969b-88a4-4f86-b775-3b4ca437f037",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -357,38 +432,38 @@
                             }
                         },
                         {
-                            "id": "05c4b915-6bf8-48e9-8ec7-4e466b2a72af",
+                            "id": "831728a1-beca-4487-92ae-bbd521d451b4",
                             "name": "Article 18",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "04bac82a-0cb8-48d7-8208-98ede553c9eb",
+                                    "id": "543800f4-7c0b-480e-86c4-257315ac8ced",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pertanggungjawaban akhir masa jabatan dibacakan oleh Kepala Daerah di depan Sidang\nParipurna DPRD, paling lambat 2 (dua) bulan sebelum berakhirnya masa jabatan Kepala Daerah.",
                                     "explanation": "\nCukup Jelas"
                                 },
                                 {
-                                    "id": "e9bf95b8-e8f0-458f-ab0e-1bf8a7a711db",
+                                    "id": "dc224c15-2d1e-4283-928a-d7cbce9d841d",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Setelah dibacakan Kepala Daerah, dokumen pertanggungjawaban akhir masa jabatan diserahkan\nkepada DPRD, untuk selanjutnya dilakukan penilaian sesuai dengan mekanisme dan ketentuan\nyang berlaku.",
                                     "explanation": "\nCukup Jelas"
                                 },
                                 {
-                                    "id": "1b3bc8bd-ceea-41b1-b96f-22404030332b",
+                                    "id": "8427b2a2-7684-4a0d-9786-9c4d28ec90b9",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Penilaian DPRD atas pertanggungjawaban Kepala Daerah disampaikan paling lambat selesai 1\n(satu) bulan setelah dokumen pertanggungjawaban akhir masa jabatan diterima oleh DPRD.",
                                     "explanation": "\nCukup Jelas"
                                 },
                                 {
-                                    "id": "b173689e-c923-441f-8a61-8564384a70f7",
+                                    "id": "54c4b2e2-0d84-410d-b91e-431628a2b612",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Apabila sampai dengan 1 (satu) bulan setelah diterimanya dokumen oleh DPRD sebagaimana\ndimaksud pada ayat (3), DPRD belum dapat memutuskan penilaiannya, pertanggungjawaban akhir\nmasa jabatan tersebut dianggap diterima.",
                                     "explanation": "\nCukup Jelas"
@@ -396,30 +471,30 @@
                             ]
                         },
                         {
-                            "id": "e06369bc-8af1-4776-a2b2-652c573b3d75",
+                            "id": "46cad331-3c17-4335-9df1-7d7dc561edd5",
                             "name": "Article 19",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "76246b1d-89a2-4aeb-aa7e-a54a476e0188",
+                                    "id": "a90043c8-0e43-423c-b194-9b02e48a77ad",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Pertanggungjawaban akhir masa jabatan Kepala Daerah dapat ditolak apabila terdapat perbedaan\nyang nyata antara pelaksanaan penyelenggaraan pemerintahan daerah yang merupakan\npenyimpangan yang alasannya tidak dapat dipertanggungjawabkan berdasarkan tolok ukur\nRenstra.",
                                     "explanation": "\nCukup Jelas"
                                 },
                                 {
-                                    "id": "f9f7f48e-1b5b-4b54-8901-cca1020d621a",
+                                    "id": "702ebbca-bd93-49cd-97a2-0bcd4d7dde11",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Penilaian atas pertanggungjawaban Kepala Daerah dilaksanakan dalam Rapat Paripurna DPRD\nyang dihadiri oleh sekurang-kurangnya 2/3 (dua pertiga) dari jumlah anggota DPRD.",
                                     "explanation": "\nCukup Jelas"
                                 },
                                 {
-                                    "id": "3d668cb2-605c-4b75-9bba-0bf5b153e641",
+                                    "id": "7aa24563-89bb-46f5-a4e0-f49ed25d4fca",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Penolakan DPRD dilakukan dengan persetujuan sekurang-kurangnya 2/3 (dua pertiga) dari jumlah\nanggota DPRD yang hadir, yang terdiri dari seluruh Fraksi.",
                                     "explanation": "\nCukup Jelas"
@@ -427,11 +502,11 @@
                             ]
                         },
                         {
-                            "id": "41eb4a27-a0e0-41bc-80fa-51f27e52bf26",
+                            "id": "141cca46-3d6a-4831-bc97-07203745344b",
                             "name": "Article 20",
                             "type": "article",
                             "children": {
-                                "id": "1b1189df-57fb-4cc8-bb5d-49dccadc66ae",
+                                "id": "8551ac6a-7cbb-4a6c-93a8-20b2bdac20ca",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -442,53 +517,40 @@
                     ]
                 },
                 {
-                    "id": "c057d623-d472-4ad9-8267-3dece3b6e60e",
+                    "id": "92f3c99d-2f28-4cc6-a143-957d9bf852f0",
                     "name": "Section Fourth",
                     "title": "\nPertanggungjawaban Karena Hal Tertentu",
                     "type": "section",
                     "children": [
                         {
-                            "id": "79a9c861-a362-473a-b0e4-2ce85a5d7aa9",
+                            "id": "86b08733-7ee5-42e3-bd6a-aa6137a03d7a",
                             "name": "Article 21",
-                            "type": "article",
-                            "children": {
-                                "id": "56061b6c-4406-4c98-b9af-b0b2ffae22bc",
-                                "name": "Verse 1",
-                                "number": "(1)",
-                                "type": "verse",
-                                "content": "\nPertanggungjawaban karena hal tertentu merupakan keterangan sebagai wujud pertanggungjawaban\nKepala Daerah yang berkaitan dengan dugaan atas perbuatan pidana Kepala Daerah dan atau Wakil\nKepala Daerah yang oleh DPRD dinilai dapat menimbulkan krisis kepercayaan publik yang luas.",
-                                "explanation": "\nYang dimaksud dugaan atas perbuatan pidana tersebut antara lain adalah tindakan kriminal, dan\natau perbuatan korupsi, kolusi dan nepotisme yang dapat dikategorikan sebagai dugaan tindak\npidana yang pada gilirannya dianggap dapat menimbulkan krisis kepercayaan publik yang luas\nsebagaimana dimaksud oleh Pasal 49 huruf g dan Pasal 45 ayat (2) Undang-Undang Nomor 22\nTahun 1999."
-                            }
-                        },
-                        {
-                            "id": "c83cacdc-721a-46d8-8dec-5185b508ddae",
-                            "name": "Article 22",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "1dd10530-f56f-4662-a6a7-3985fde7b286",
+                                    "id": "acdcc211-8a88-40fe-a0b0-b0c729d83908",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Kepala Daerah atau Wakil Kepala Daerah dapat dipanggil oleh DPRD atau dengan inisiatif sendiri\nuntuk memberikan keterangan atas dugaan perbuatan sebagaimana dimaksud dalam Pasal 21.",
-                                    "explanation": "\nCukup Jelas"
+                                    "explanation": "\nYang dimaksud dugaan atas perbuatan pidana tersebut antara lain adalah tindakan kriminal, dan\natau perbuatan korupsi, kolusi dan nepotisme yang dapat dikategorikan sebagai dugaan tindak\npidana yang pada gilirannya dianggap dapat menimbulkan krisis kepercayaan publik yang luas\nsebagaimana dimaksud oleh Pasal 49 huruf g dan Pasal 45 ayat (2) Undang-Undang Nomor 22\nTahun 1999."
                                 },
                                 {
-                                    "id": "f154c20d-281a-4d06-8d63-29f63bdb9b7f",
+                                    "id": "90ab7eba-afe1-4424-ba04-343e66f7fc2c",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Pemanggilan Kepala Daerah sebagaimana dimaksud pada ayat (1) dilakukan atas pemintaan\nsekurang-kurangnya 1/3 (sepertiga) dari seluruh anggota.",
-                                    "explanation": "\nCukup Jelas"
+                                    "explanation": "\nYang dimaksud dugaan atas perbuatan pidana tersebut antara lain adalah tindakan kriminal, dan\natau perbuatan korupsi, kolusi dan nepotisme yang dapat dikategorikan sebagai dugaan tindak\npidana yang pada gilirannya dianggap dapat menimbulkan krisis kepercayaan publik yang luas\nsebagaimana dimaksud oleh Pasal 49 huruf g dan Pasal 45 ayat (2) Undang-Undang Nomor 22\nTahun 1999."
                                 }
                             ]
                         },
                         {
-                            "id": "f74c7300-a202-4643-86e1-7a5a2509a483",
+                            "id": "a27ec08f-8a91-47c3-a0bc-f50797078ccd",
                             "name": "Article 23",
                             "type": "article",
                             "children": {
-                                "id": "364e2386-dc63-462b-9e04-1dda31b3d4e6",
+                                "id": "47b9088f-413f-40d4-92aa-7031c84fa7c7",
                                 "name": "Verse 1",
                                 "number": "(1)",
                                 "type": "verse",
@@ -497,22 +559,22 @@
                             }
                         },
                         {
-                            "id": "12ad02a1-2e90-4b7a-91dc-cd1c29cea7f2",
+                            "id": "937b4efa-63f3-46ab-ba10-533ff5d423e1",
                             "name": "Article 24",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "d5f13fdc-03c0-46b4-ad5b-7c3fb20b0eba",
+                                    "id": "96d96f34-ca46-44d4-81ab-21a2f779020a",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " DPRD dapat membentuk Panitia Khusus untuk menyelidiki kebenaran keterangan yang\ndisampaikan Kepala Daerah dan atau Wakil Kepala Daerah.",
                                     "explanation": "\nCukup Jelas"
                                 },
                                 {
-                                    "id": "604cc37c-487c-45f5-91ab-9f7366e754b6",
+                                    "id": "b6f11d76-970b-449f-89e7-bbaa16212568",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Berdasarkan hasil penyelidikan Panitia Khusus, DPRD dapat mengambil keputusan untuk\nmenerima atau menolak keterangan Kepala Daerah untuk hal tertentu.",
                                     "explanation": "\nCukup Jelas"
@@ -520,38 +582,38 @@
                             ]
                         },
                         {
-                            "id": "172f4ad4-3ce7-4dcf-bfe7-9fc8eb9ceb30",
+                            "id": "c764a3b3-a492-43ad-b45e-9d52e4c37ab5",
                             "name": "Article 25",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "5319a699-c183-4a88-9336-1faef726b869",
+                                    "id": "0c8551ef-480c-4b8d-8f0a-b7fb1cf3b879",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Apabila DPRD menolak pertanggungjawaban sebagaimana dimaksud dalam Pasal 24 ayat (2),\nDPRD menyerahkan penyelesaiannya kepada pihak yang berwenang sesuai dengan peraturan\nperundang-undangan yang berlaku.",
                                     "explanation": "\nPasal ini dimaksudkan untuk menjamin kelancaran proses penyidikan dan proses penyelesaian\nselanjutnya."
                                 },
                                 {
-                                    "id": "536eed09-0339-4bf1-898f-a3755bf73f13",
+                                    "id": "a6093e5a-d5a8-4314-b82c-6fd7d5e7064b",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
                                     "content": " Penyidikan dapat dilaksanakan setelah mendapat izin dari Presiden bagi Gubernur dan Menteri\nDalam Negeri dan Otonomi Daerah bagi Bupati/Walikota.",
                                     "explanation": "\nPasal ini dimaksudkan untuk menjamin kelancaran proses penyidikan dan proses penyelesaian\nselanjutnya."
                                 },
                                 {
-                                    "id": "8f47ecc6-1234-4253-93af-6b2a19fc9fc8",
+                                    "id": "d08e1db8-d298-492d-ac4c-785848c4b44e",
                                     "name": "Verse 3",
-                                    "number": "(3)",
+                                    "number": "3",
                                     "type": "verse",
                                     "content": " Apabila Gubernur dan atau Wakil Gubernur berstatus sebagai terdakwa, Presiden\nmemberhentikan sementara Gubernur dan atau Wakil Gubernur dari jabatannya.",
                                     "explanation": "\nPasal ini dimaksudkan untuk menjamin kelancaran proses penyidikan dan proses penyelesaian\nselanjutnya."
                                 },
                                 {
-                                    "id": "60df99bf-2f51-40ca-8e5d-e1ae670951cc",
+                                    "id": "b73e8d96-7a34-4399-ba6c-0bcfc78beb3a",
                                     "name": "Verse 4",
-                                    "number": "(4)",
+                                    "number": "4",
                                     "type": "verse",
                                     "content": " Apabila Bupati/Walikota dan atau Wakil Bupati/Wakil Walikota berstatus sebagai terdakwa, Menteri\nDalam Negeri dan Otonomi Daerah memberhentikan sementara Bupati/Walikota dan atau Wakil\nBupati/Wakil Walikota dari jabatannya.",
                                     "explanation": "\nPasal ini dimaksudkan untuk menjamin kelancaran proses penyidikan dan proses penyelesaian\nselanjutnya."
@@ -559,32 +621,24 @@
                             ]
                         },
                         {
-                            "id": "19d3c80b-58b2-4940-93b6-e39dd4f5adde",
+                            "id": "b0ece6f8-56fc-44c1-8b53-a359161fd9cd",
                             "name": "Article 26",
                             "type": "article",
                             "children": [
                                 {
-                                    "id": "54c34df2-ea7e-4280-885b-6b9c17f73c79",
+                                    "id": "1721023e-07a8-4139-a65f-c9d14732abc0",
                                     "name": "Verse 1",
-                                    "number": "(1)",
+                                    "number": "1",
                                     "type": "verse",
                                     "content": " Apabila keputusan pengadilan telah mempunyai kekuatan hukum tetap dan menyatakan Kepala\nDaerah dan atau Wakil Kepala Daerah bersalah, DPRD mengusulkan pemberhentian Kepala\nDaerah dan atau Wakil Kepala Daerah kepada Presiden melalui Menteri Dalam Negeri dan\nOtonomi Daerah.",
                                     "explanation": "\nCukup Jelas"
                                 },
                                 {
-                                    "id": "e815daed-bf41-47df-a684-380b9c7c8826",
+                                    "id": "b2638744-eb39-4e2d-8f3e-29660f9de0fc",
                                     "name": "Verse 2",
-                                    "number": "(2)",
+                                    "number": "2",
                                     "type": "verse",
-                                    "content": " Apabila keputusan pengadilan telah mempunyai kekuatan hukum tetap dan menyatakan Gubernur\ndan atau Wakil Gubernur tidak bersalah, Presiden mencabut pemberhentian sementara serta",
-                                    "explanation": "\nCukup Jelas"
-                                },
-                                {
-                                    "id": "dbf776ec-b692-485c-bb97-9a4460465dc1",
-                                    "name": "Verse 3",
-                                    "number": "(3)",
-                                    "type": "verse",
-                                    "content": " merehabilitasi nama baik Gubernur dan Wakil Gubernur.\nApabila keputusan pengadilan telah mempunyai kekuatan hukum tetap dan menyatakan\nBupati/Walikota dan atau Wakil Bupati/Wakil Walikota tidak bersalah, Menteri Dalam Negeri dan\nOtonomi Daerah mencabut pemberhentian sementara serta merehabilitasi nama baik\nBupati/Walikota dan atau Wakil Bupati/Wakil Walikota.",
+                                    "content": " Apabila keputusan pengadilan telah mempunyai kekuatan hukum tetap dan menyatakan Gubernur\ndan atau Wakil Gubernur tidak bersalah, Presiden mencabut pemberhentian sementara serta\n(3) merehabilitasi nama baik Gubernur dan Wakil Gubernur.\nApabila keputusan pengadilan telah mempunyai kekuatan hukum tetap dan menyatakan\nBupati/Walikota dan atau Wakil Bupati/Wakil Walikota tidak bersalah, Menteri Dalam Negeri dan\nOtonomi Daerah mencabut pemberhentian sementara serta merehabilitasi nama baik\nBupati/Walikota dan atau Wakil Bupati/Wakil Walikota.",
                                     "explanation": "\nCukup Jelas"
                                 }
                             ]
@@ -594,41 +648,28 @@
             ]
         },
         {
-            "id": "0d749781-6d74-41dd-a719-269b463a791c",
+            "id": "5db85b7e-c099-4576-84e4-cfb7a1b07a41",
             "name": "Chapter III",
-            "title": "\nKETENTUAN LAIN-LAIN",
+            "title": " ..\nApabila masa jabatan Kepala Daerah berakhir tidak bertepatan dengan waktu akhir tahun anggaran dan\ntidak lebih atau kurang dari 3 (tiga) bulan, pertanggungjawaban akhir masa jabatan mencakup\npertang-gungjawaban akhir tahun.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "00597caa-d254-4619-a225-faf1740b1547",
-                    "name": "Article 27",
-                    "type": "article",
-                    "children": {
-                        "id": "c156b2ca-f425-4b9c-b802-149c5f9921ae",
-                        "name": "Verse 1",
-                        "number": "(1)",
-                        "type": "verse",
-                        "content": "\nApabila masa jabatan Kepala Daerah berakhir tidak bertepatan dengan waktu akhir tahun anggaran dan\ntidak lebih atau kurang dari 3 (tiga) bulan, pertanggungjawaban akhir masa jabatan mencakup\npertang-gungjawaban akhir tahun.",
-                        "explanation": "\nCukup Jelas"
-                    }
-                },
-                {
-                    "id": "dfe5e44b-7c97-494e-90b4-8c25d3b36e62",
+                    "id": "f0cdfc20-2fa6-4ba9-8fb2-f58a184ab10f",
                     "name": "Article 28",
                     "type": "article",
                     "children": [
                         {
-                            "id": "37c0269d-4e63-4b9a-a9c6-b6440313bca0",
+                            "id": "20e56a47-5916-438c-9b58-5d922f4ff61d",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Gubernur sebagai wakil Pemerintah dalam melaksanakan tugasnya bertanggung jawab kepada\nPresiden.",
                             "explanation": "\nMateri pertanggungjawaban dimaksud, disesuaikan dengan peraturan perun-dang-undangan yang\nberlaku."
                         },
                         {
-                            "id": "e1fdbc7d-bbd8-45cd-a7d8-56a482063327",
+                            "id": "8c4f0ac7-b335-45d5-bc43-84920853064d",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Materi yang dipertanggungjawabkan sebagaimana dimaksud pada ayat (1) mencakup\npelaksanaan tugas dekonsentrasi dan tugas pembantuan.",
                             "explanation": "\nMateri pertanggungjawaban dimaksud, disesuaikan dengan peraturan perun-dang-undangan yang\nberlaku."
@@ -636,11 +677,11 @@
                     ]
                 },
                 {
-                    "id": "2cc96820-5f23-4d85-9085-28d3b4660cda",
+                    "id": "1344c23d-11a9-4aee-9a97-f4c4489e850a",
                     "name": "Article 29",
                     "type": "article",
                     "children": {
-                        "id": "99e3305a-1661-4573-95cf-28b354a6fddb",
+                        "id": "16f7348c-66f2-4411-8822-7a04aac011b9",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -651,65 +692,65 @@
             ]
         },
         {
-            "id": "43b1e019-429b-4039-ba0a-c67e8e15246c",
+            "id": "97eb60b8-eadd-4e20-a1a6-d8c66fc9cee5",
             "name": "Chapter IV",
             "title": "\nKETENTUAN PERALIHAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2753f499-b14e-466c-a416-2a44fea8a1c1",
+                    "id": "97195f7b-6e58-48b9-b66d-f96f2db0f686",
                     "name": "Article 30",
                     "type": "article",
                     "children": [
                         {
-                            "id": "a046ee25-92d5-40bb-8dbd-a664699aef39",
+                            "id": "a157f4e4-b386-4ce3-bd04-291d13967718",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Bagi Kepala Daerah yang diangkat sebelum ditetapkannya Peraturan Pemerintah ini, penilaian\npertanggungjawabannya didasarkan kepada:\na. Rencana Pembangunan Lima Tahun Daerah apabila sisa masa jabatannya kurang dari 2\n(dua) tahun;\nb. Renstra apabila sisa masa jabatannya lebih dari 2 (dua) tahun.",
+                            "content": " Bagi Kepala Daerah yang diangkat sebelum ditetapkannya Peraturan Pemerintah ini, penilaian pertanggungjawabannya didasarkan kepada:\na. Rencana Pembangunan Lima Tahun Daerah apabila sisa masa jabatannya kurang dari 2 (dua) tahun;\nb. Renstra apabila sisa masa jabatannya lebih dari 2 (dua) tahun.",
                             "explanation": "\nCukup Jelas"
                         },
                         {
-                            "id": "41733054-03fb-416e-8656-16568f5dc94d",
+                            "id": "b434ac55-bc51-41db-be0e-6f05aaf76216",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Khusus untuk pertanggungjawaban akhir tahun anggaran pertama dari sisa masa jabatan\nsebagaimana dimaksud pada ayat (1) huruf b, yang Renstranya belum ditetapkan didasarkan\nkepada Rencana Pembangunan Lima Tahun Daerah.",
+                            "content": " Khusus untuk pertanggungjawaban akhir tahun anggaran pertama dari sisa masa jabatan sebagaimana dimaksud pada ayat (1) huruf b, yang Renstranya belum ditetapkan didasarkan kepada Rencana Pembangunan Lima Tahun Daerah.",
                             "explanation": "\nCukup Jelas"
                         }
                     ]
                 },
                 {
-                    "id": "5aa47a8b-ce59-4f63-9a32-41cf004ac03e",
+                    "id": "85816b6c-7092-432f-a11b-d79e1544f33c",
                     "name": "Article 31",
                     "type": "article",
                     "children": {
-                        "id": "050163ba-118e-42cb-93ef-1735442364af",
+                        "id": "f4844a7d-28e7-4847-98cb-4c79d859edf3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan tata tertib DPRD tentang pertanggungjawaban Kepala Daerah yang telah ada, disesuaikan\ndengan Peraturan Pemerintah ini.",
+                        "content": "\nPeraturan tata tertib DPRD tentang pertanggungjawaban Kepala Daerah yang telah ada, disesuaikan dengan Peraturan Pemerintah ini.",
                         "explanation": "\nCukup Jelas"
                     }
                 }
             ]
         },
         {
-            "id": "2d57f04b-313f-43c0-bde4-3928fd2f03ea",
+            "id": "38ea667f-054c-425e-8e5e-053305d97ee4",
             "name": "Chapter V",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "c8c991cf-c784-42a6-8c77-51b052297ac3",
+                    "id": "cda70094-0ad9-4b23-9532-db5a1d0ed94f",
                     "name": "Article 32",
                     "type": "article",
                     "children": {
-                        "id": "b76c20f7-f158-498a-90ce-e46df198959f",
+                        "id": "26548de8-abd9-417e-beac-a602255b5504",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "\nCukup Jelas\n"
                     }
                 }

@@ -1,28 +1,28 @@
 {
     "results": [
         {
-            "id": "ebcf3ecb-0290-453e-a8ae-f7a8e9df1ead",
+            "id": "126db8af-2bdf-4ae4-92a5-7a9a65b4f7ce",
             "name": "Chapter I",
             "title": "\nPENYERTAAN MODAL NEGARA.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "806b4285-3ad3-4b60-87ed-df09d5a3900a",
+                    "id": "72a87ac5-cdcf-4a83-a9e4-8ae1cb0c8da5",
                     "name": "Article 1",
                     "type": "article",
                     "children": [
                         {
-                            "id": "cfcddfe3-f293-44bc-aaa2-0b60023efe12",
+                            "id": "32f25ec9-2558-47c2-892d-f74536a5816d",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Negara Republik Indonesia melakukan penyertaan dalam\nmodal saham, Perusahaan Perseroan (PERSERO) sebagaimana dimaksud\ndalam Pasal 2 Peraturan Pemerintah ini.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "c91a8c4e-fa87-48eb-9fd4-e82974c1241c",
+                            "id": "18e148de-c73e-4932-9f4d-e333e5b32c63",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Perusahaan Perseroan (PERSERO) tersebut dalam ayat (1)\nPasal ini adalah Perusahaan Perseroan yang didirikan secara\nbersama-sama oleh Negara Republik Indonesia dan Bank Indonesia.",
                             "explanation": "Tidak ada Penjelasan"
@@ -32,17 +32,17 @@
             ]
         },
         {
-            "id": "2034eb32-66ac-454d-9294-1502cb3c9958",
+            "id": "5711fed7-693e-44db-a867-5c6da61ac17e",
             "name": "Chapter II",
             "title": "\nMAKSUD DAN TUJUAN.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "eedeff92-9eb3-4a91-9704-cace0c8dfd99",
+                    "id": "9bd6c4f1-4a11-4f4f-8c0a-ad92cfefb5af",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "509584d8-d4c0-4e1b-8948-1a0001144a39",
+                        "id": "d210196c-1829-4f34-95ab-7d44655eedc2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -53,44 +53,44 @@
             ]
         },
         {
-            "id": "09240427-59eb-4f4b-af6d-06f9e291fa04",
+            "id": "fb784e59-487a-4634-a307-8637ca307648",
             "name": "Chapter III",
             "title": "\nMODAL PERSERO.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "4264c211-af2f-4ff6-84d9-c4b98ed72ffd",
+                    "id": "62d8cf61-c341-466c-8ad6-81442c2a5320",
                     "name": "Article 3",
                     "type": "article",
                     "children": [
                         {
-                            "id": "25ea634f-ac2b-4bb7-841c-0cc9b3419757",
+                            "id": "049e8648-3e2c-4849-931b-5e96aeee9f80",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Modal dasar perusahaan Perseroan (PERSERO) tersebut\ndalam Pasal 1 Peraturan Pemerintah ini berjumlah Rp.\n5.000.000.000,- (lima milyar Rupiah) yang terbagi atas saham-\nsaham.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "906c92d4-4f91-45fe-8547-ad7c71509f30",
+                            "id": "1e409db0-087a-44c0-ae95-5137bba053af",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Saham Perusahaan Perseroan tersebut dalam ayat (1)\nPasal ini terbagi atas:\n- 1.000 helai saham prioritas, nominal a Rp. 1.000.000,- (satu\njuta Rupiah).\n- 4.000 helai saham biasa, nominal a Rp. 1.000.000,- (satu juta\nRupiah).",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "5881ad73-3ab0-4a0b-96ca-9fdca9479294",
+                            "id": "c2367c04-87c3-46da-9a6e-e190c254b702",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dari jumlah saham tersebut dalam ayat (2) Pasal ini\npada saat pendirian Perusahaan Perseroan (PERSERO) tersebut\ndiambil oleh:\n-Negara Republik Indonesia sejumlah 300 helai saham prioritas.\n-Bank Indonesia sejumlah 300 helai saham prioritas.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "f8e0e657-3000-4aaa-a2bf-06b1049101cc",
+                            "id": "62d36642-18f6-4119-8c84-d20e04cbe426",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Ketentuan-ketentuan lainnya mengenai permodalan\nPerusahaan Perseroan (PERSERO) diatur dalam Anggaran Dasarnya.",
                             "explanation": "Tidak ada Penjelasan"
@@ -100,17 +100,17 @@
             ]
         },
         {
-            "id": "aef14668-9856-4c01-8094-e6a6a51c30d9",
+            "id": "7364b334-ae47-49c3-a3a2-e4ca79c17ce2",
             "name": "Chapter IV",
             "title": "\nPELAKSANAAN PENDIRIAN PERSERO.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "7dd59aa7-8853-4e26-9bf2-5af351049001",
+                    "id": "80216f4d-e8f8-4fbc-b4fe-e8aad8a0b7f7",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "043b5381-604f-4543-a027-af60ed3551cd",
+                        "id": "b0276f6a-a55b-4a84-9055-67fb0048c64d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -119,22 +119,22 @@
                     }
                 },
                 {
-                    "id": "fc5732af-88a8-4908-a094-ed4506e935ac",
+                    "id": "5d75f4af-1d54-4495-bafb-4be37cde19cb",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8726320c-f4c6-49d1-813d-5511877398af",
+                            "id": "36e88b35-38f6-4f49-acb3-062d9122dbbf",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pelaksanaan pendirian PERSERO sebagaimana yang\ndimaksudkan dalam Pasal 4 Peraturan Pemerintah ini dikuasakan\nkepada Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "23ea15cb-440d-4c22-8f4f-f6514a989732",
+                            "id": "256868a6-401b-40c4-8bbf-e80c820cdb22",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Menteri Keuangan dapat menyerahkan kekuasaan tersebut\npada ayat (1) Pasal ini dengan hak substitusi kepada seorang\nMenteri atau penjabat Negara lainnya, dengan ketentuan bahwa\nRancangan Anggaran Dasar Perusahaan Perseroan (PERSERO) tersebut\nharus mendapat persetujuan terlebih dahulu dari Menteri Keuangan.",
                             "explanation": "Tidak ada Penjelasan"
@@ -144,34 +144,34 @@
             ]
         },
         {
-            "id": "9222691d-0d97-40f8-b91d-96ac83adf8dc",
+            "id": "de33d252-c5d1-450f-b574-7f099e32509b",
             "name": "Chapter V",
             "title": "\nKETENTUAN PENUTUP.",
             "type": "chapter",
             "children": [
                 {
-                    "id": "764ada5c-8b58-4d10-8500-ac08c1e02bd5",
+                    "id": "fde1aded-fb9e-45a2-a670-c5fc9ee46ed8",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "8ab65382-aa10-4021-95a8-b1d43e2d374c",
+                        "id": "7590d2f9-c12c-4485-88d0-0a6124f0f277",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nHal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini\nakan diatur tersendiri.",
+                        "content": "\nHal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini akan diatur tersendiri.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "13741cb9-6857-47d0-b236-0330fd529279",
+                    "id": "6e751d2c-a0d3-4497-befa-5233631fd202",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "90483b7b-e885-4daa-abbd-5329f01c94f9",
+                        "id": "1e85b60b-baf3-4402-91b9-7c101091b79e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada hari tanggal\ndiundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya dalam\nLembaran Negara Republik Indonesia.",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada hari tanggal diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
@@ -184,14 +184,14 @@
         "Tentang": "PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN\nPERUSAHAAN PERSEROAN DALAM BIDANG PERASURANSIAN KREDIT",
         "Menimbang": {
             "Introduction": "",
-            "a": " bahwa dalam rangka usaha untuk mengarahkan dan mengamankan\nkebijaksanaan Pemerintah dalam bidang perkreditan dirasa\nperlu adanya suatu Lembaga Asuransi Kredit yang bergerak di\nsektor usaha perasuransian dengan bentuk Perusahaan Perseroan\nTerbatas;",
-            "b": " bahwa sebagian dari modal dasar Perusahaan Perseroan Terbatas\ntermaksud pada sub a diatas berasal dari kekayaan Negara\nRepublik Indonesia yang dipisahkan;",
-            "c": " bahwa sesuai dengan ketentuan termaksud pada pasal 2 ayat (1)\nPeraturan Pemerintah No. 12 tahun 1969, penyertaan modal\nNegara dalam Perusahaan Perseroan Terbatas tersebut harus\ndiatur dengan Peraturan Pemerintah."
+            "a": " bahwa dalam rangka usaha untuk mengarahkan dan mengamankan\n   kebijaksanaan Pemerintah dalam bidang perkreditan dirasa\n   perlu adanya suatu Lembaga Asuransi Kredit yang bergerak di\n   sektor usaha perasuransian dengan bentuk Perusahaan Perseroan\n   Terbatas;",
+            "b": " bahwa sebagian dari modal dasar Perusahaan Perseroan Terbatas\n   termaksud pada sub a diatas berasal dari kekayaan Negara\n   Republik Indonesia yang dipisahkan;",
+            "c": " bahwa sesuai dengan ketentuan termaksud pada pasal 2 ayat (1)\n   Peraturan Pemerintah No. 12 tahun 1969, penyertaan modal\n   Negara dalam Perusahaan Perseroan Terbatas tersebut harus\n   diatur dengan Peraturan Pemerintah."
         },
         "Mengingat": {
             "Introduction": "",
             "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
-            "2": " Kitab Undang-undang Hukum Dagang Stbl. 1847 23 sebagaimana\nyang telah beberapa kali diubah dan ditambah;",
+            "2": " Kitab Undang-undang Hukum Dagang Stbl. 1847 23 sebagaimana\n   yang telah beberapa kali diubah dan ditambah;",
             "3": " Undang-undang No. 14 tahun 1967;",
             "4": " Undang-undang No. 13 tahun 1968;",
             "5": " Undang-undang No. 5 tahun 1969;",

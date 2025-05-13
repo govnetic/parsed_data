@@ -1,0 +1,545 @@
+{
+    "results": [
+        {
+            "id": "d2ff85da-cfb7-4a59-b641-54e1a3fd115d",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "3aeefb47-e76d-48d7-8a3c-90759b0677d1",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "cbc249dd-beb0-4fd0-940d-9ad86d692924",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Penanggung Pajak adalah orang pribadi atau badan yang bertanggung jawab atas pembayaran\npajak, termasuk wakil yang menjalankan hak dan memenuhi kewajiban Wajib Pajak menurut\nketentuan peraturan perundang-undangan perpajakan.\n2. Pejabat adalah pejabat yang berwenang mengangkat dan memberhentikan Jurusita Pajak, menerbitkan Surat Perintah Penagihan Seketika dan Sekaligus, Surat Paksa, Surat Perintah Melaksanakan Penyitaan, Surat Pencabutan Sita, Pengumuman Lelang, Surat Penentuan Harga Limit, Pembatalan Lelang, Surat Perintah Penyanderaan dan surat lain yang diperlukan untuk penagihan pajak sehubungan dengan Penanggung Pajak tidak melunasi sebagian atau seluruh utang pajak menurut undang-undang dan peraturan daerah.\n3. Jurusita Pajak adalah pelaksana tindakan penagihan pajak yang meliputi penagihan seketika dan sekaligus, pemberitahuan Surat Paksa, penyitaan dan penyanderaan.\n4. Penagihan Pajak adalah serangkaian tindakan agar Penanggung Pajak melunasi utang pajak dan biaya penagihan pajak dengan menegur atau memperingatkan, melaksanakan penagihan seketika dan sekaligus, memberitahukan Surat Paksa, mengusulkan pencegahan, melaksanakan penyitaan, melaksanakan penyanderaan, menjual barang yang telah disita.\n5. Utang Pajak adalah pajak yang masih harus dibayar termasuk sanksi administrasi berupa bunga, denda atau kenaikan yang tercantum dalam surat ketetapan pajak atau surat sejenisnya berdasarkan ketentuan peraturan perundang-undangan perpajakan.\n6. Biaya Penagihan Pajak adalah biaya pelaksanaan Surat Paksa, Surat Perintah Melaksanakan Penyitaan, Pengumuman Lelang, Pembatalan Lelang, Jasa Penilai dan biaya lainnya sehubungan dengan penagihan pajak.\n7. Surat Paksa adalah surat perintah membayar utang pajak dan Biaya Penagihan Pajak.\n8. Surat Perintah Melaksanakan Penyitaan adalah surat perintah yang diterbitkan oleh Pejabat untuk melaksanakan penyitaan.\n9. Objek Sita adalah barang Penanggung Pajak yang dapat dijadikan jaminan utang pajak.\n10. Barang adalah tiap benda atau hak yang dapat dijadikan objek sita.\n11. Pemblokiran adalah tindakan pengamanan harta kekayaan milik Penanggung Pajak yang tersimpan pada bank dengan tujuan agar terhadap harta kekayaan dimaksud tidak terdapat perubahan apapun, selain penambahan jumlah atau nilai.\n12. Penyitaan adalah tindakan Jurusita Pajak untuk menguasai barang Penanggung Pajak, guna dijadikan jaminan untuk melunasi Utang pajak menurut peraturan perundang-undangan yang berlaku.\n13. Hari adalah hari kalender.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "8f293648-e426-4e06-8b6a-76aaf33d8025",
+            "name": "Chapter II",
+            "title": "\nPELAKSANAAN PENYITAAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "e03abb50-f952-44ae-9713-2df889923a5b",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "0dd67d7e-ec22-4a4a-994d-e5b59451525b",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Penyitaan terhadap barang milik Penanggung Pajak dilaksanakan oleh Jurusita Pajak berdasarkan\nSurat Perintah Melaksanakan Penyitaan yang diterbitkan oleh Pejabat.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "fc1dcc21-bdd2-46c3-b51d-9b3260e6627e",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penyitaan dilaksanakan apabila utang pajak tidak dilunasi dalam jangka waktu 2 (dua) kali 24 (dua\npuluh empat) jam terhitung sejak tanggal Surat Paksa diberitahukan kepada Penanggung Pajak.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "8cbcf432-2f8d-446e-b067-c33a1bf77b51",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f905f7d1-adae-4c92-9c61-abdaedd90109",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Barang milik Penanggung Pajak yang dapat disita adalah barang yang berada di tempat tinggal,\ntempat usaha, tempat kedudukan, atau di tempat lain termasuk yang penguasaannya berada di\ntangan pihak lain atau yang dijaminkan sebagai pelunasan utang tertentu yang dapat berupa:\na. barang bergerak termasuk mobil, perhiasan, uang tunai, dan deposito berjangka, tabungan,\nsaldo rekening koran, giro, atau bentuk lainnya yang dipersamakan dengan itu,\nobligasi, saham, atau surat berharga lainnya, piutang, dan penyertaan modal pada\nperusahaan lain; dan atau\nb. barang tidak bergerak termasuk tanah, bangunan, dan kapal dengan isi kotor tertentu.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "684a88c0-5c1d-42f6-b159-8dc46dd517dd",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Terhadap Penanggung Pajak Orang Pribadi penyitaan dapat dilaksanakan atas barang milik\npribadi yang bersangkutan, isteri, dan anak yang masih dalam tanggungan, kecuali dikehendaki\nsecara tertulis oleh suami atau isteri berdasarkan perjanjian pemisahan harta dan penghasilan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "98f8e393-26ac-44ec-944f-481f5cb00aa5",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Terhadap Penanggung Pajak Badan penyitaan dapat dilaksanakan atas barang milik perusahaan,\npengurus, kepala perwakilan, kepala cabang, penanggung jawab, pemilik modal, baik di tempat\nkedudukan yang bersangkutan, di tempat tinggal mereka maupun di tempat lain.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "6f6052a8-24cb-426d-ba86-81440b3b01cd",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Penyitaan dilaksanakan dengan mendahulukan barang bergerak kecuali dalam keadaan tertentu\ndapat dilaksanakan langsung terhadap barang tidak bergerak.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "3235c254-c97b-4c98-8ccf-78246987608a",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": " Urutan barang bergerak dan atau barang tidak bergerak yang disita ditentukan oleh Jurusita Pajak\ndengan memperhatikan jumlah utang pajak dan biaya penagihan pajak, kemudahan penjualan\natau pencairannya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "2f4e2dcf-f3b5-4f75-9499-4733d286e1da",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "abb0b5b4-1c73-42de-ab59-ae2659132927",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Penyitaan dilaksanakan oleh Jurusita Pajak dengan disaksikan oleh sekurang-kurangnya 2 (dua)\norang yang telah dewasa, penduduk Indonesia, dikenal oleh Jurusita Pajak dan dapat dipercaya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "12e1001d-9ce5-4e1f-aa51-bd5751c67174",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Dalam melaksanakan penyitaan, Jurusita Pajak harus:\na. memperlihatkan kartu tanda pengenal Jurusita Pajak;\nb. memperlihatkan Surat Perintah Melaksanakan Penyitaan; dan\nc. memberitahukan tentang maksud dan tujuan penyitaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "87555e2d-8c53-4cd6-81ca-d1df0f36be78",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Setiap melaksanakan penyitaan Jurusita Pajak harus membuat Berita Acara Pelaksanaan Sita\nyang ditandatangani oleh Jurusita Pajak, Penanggung Pajak dan saksi-saksi.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "15e70317-783d-4f91-93fb-e023b60288ce",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Dalam hal Penanggung Pajak menolak untuk menandatangani Berita Acara Pelaksanaan Sita,\nJurusita Pajak harus mencantumkan penolakan tersebut dalam Berita Acara Pelaksanaan Sita,\ndan Berita Acara Pelaksanaan Sita tersebut ditandatangani oleh Jurusita Pajak dan saksi-saksi,\ndan Berita Acara Pelaksanaan Sita tersebut tetap sah dan mempunyai kekuatan mengikat.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "a837590a-a14b-4c0a-97c5-06761f8d67bb",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": " Penyitaan tetap dapat dilaksanakan walaupun Penanggung Pajak tidak hadir, sepanjang salah\nseorang saksi sebagaimana dimaksud dalam ayat (1) berasal dari Pemerintah Daerah setempat,\nsekurang-kurangnya setingkat Sekretaris Kelurahan atau Sekretaris Desa.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "69362eb3-eaa6-4499-86b5-ceefab809b27",
+                            "name": "Verse 6",
+                            "number": "6",
+                            "type": "verse",
+                            "content": " Dalam hal pelaksanaan penyitaan tidak dihadiri oleh Penanggung Pajak, Berita Acara\nPelaksanaan Sita ditandatangani oleh Jurusita Pajak dan saksi-saksi, dan Berita Acara\nPelaksanaan Sita tersebut tetap sah dan mempunyai kekuatan mengikat.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "8e8d8fc2-94e1-451e-9e63-fdc8428a5b9f",
+                            "name": "Verse 7",
+                            "number": "7",
+                            "type": "verse",
+                            "content": " Salinan Berita Acara Pelaksanaan Sita dapat ditempelkan pada barang bergerak dan atau barang\ntidak bergerak yang disita, atau di tempat barang bergerak dan atau barang tidak bergerak yang\ndisita berada, atau di tempat-tempat umum.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "f6b9f031-b9e0-41ae-b3bc-5d2076937278",
+                            "name": "Verse 8",
+                            "number": "8",
+                            "type": "verse",
+                            "content": " Salinan Berita Acara Pelaksanaan Sita disampaikan kepada:\na. Penanggung Pajak;\nb. Kepolisian untuk barang bergerak yang kepemilikannya terdaftar;\nc. Badan Pertanahan Nasional, untuk tanah yang kepemilikannya sudah terdaftar;\nd. Pemerintah Daerah dan Pengadilan Negeri setempat, untuk tanah yang kepemilikannya belum terdaftar;\ne. Direktorat Jenderal Perhubungan Laut, untuk kapal.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "56171241-9fac-405f-8cd9-9796f14d7ba5",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "7d0670d9-d1d0-4e42-b78c-29be992674e5",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Penyitaan terhadap perhiasan emas, permata dan sejenisnya dilaksanakan sebagai berikut:\na. membuat rincian tentang jenis, jumlah dan harga perhiasan yang disita dalam suatu daftar\nyang merupakan lampiran Berita Acara Pelaksanaan Sita;\nb. membuat Berita Acara Pelaksanaan Sita.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "e173404a-0916-4972-9d79-c3837192a6dc",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penyitaan terhadap uang tunai termasuk mata uang asing dilaksanakan sebagai berikut:\na. menghitung terlebih dahulu uang tunai yang disita dan membuat rinciannya dalam suatu\ndaftar yang merupakan lampiran Berita Acara Pelaksanaan Sita;\n\nb. membuat Berita Acara Pelaksanaan Sita;\nc. menyimpan uang tunai yang telah disita dalam tempat penyimpanan yang selanjutnya\nditempeli dengan segel sita dan kemudian menitipkannya pada Penanggung Pajak atau\nmenitipkannya pada bank.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "bb6a661e-a903-4052-9780-5e586cf05fea",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Penyitaan terhadap kekayaan Penanggung Pajak yang disimpan di bank berupa deposito\nberjangka, tabungan, saldo rekening koran, giro, atau bentuk lainnya yang dipersamakan dengan\nitu dilaksanakan sebagai berikut:\na. Pejabat mengajukan permintaan pemblokiran kepada bank disertai dengan penyampaian\nSalinan Surat Paksa dan Surat Perintah Melaksanakan Penyitaan;\nb. bank wajib memblokir seketika setelah menerima permintaan pemblokiran dari Pejabat dan\nmembuat berita acara pemblokiran serta menyampaikan salinannya kepada Pejabat dan\nPenanggung Pajak;\nc. Jurusita Pajak setelah menerima berita acara pemblokiran dari bank memerintahkan\nPenanggung Pajak untuk memberi kuasa kepada bank agar memberitahukan saldo\nkekayaannya yang tersimpan pada bank tersebut kepada Jurusita Pajak;\nd. dalam hal Penanggung Pajak tidak memberikan kuasa kepada bank sebagaimana dimaksud\ndalam huruf c, Pejabat meminta Bank Indonesia melalui Menteri Keuangan untuk\nmemerintahkan bank untuk memberitahukan saldo kekayaan Penanggung Pajak yang\ntersimpan pada bank yang dimaksud;\ne. setelah saldo kekayaan yang tersimpan pada bank diketahui, Jurusita Pajak melaksanakan\npenyitaan dan membuat Berita Acara Pelaksanaan Sita, dan menyampaikan salinan Berita\nAcara Pelaksanaan Sita kepada Penanggung Pajak dan bank yang bersangkutan;\nf. Pejabat mengajukan permintaan pencabutan pemblokiran kepada bank setelah Penanggung\nPajak melunasi utang pajak dan biaya penagihan pajak;\ng. Pejabat mengajukan permintaan pencabutan pemblokiran terhadap kekayaan Penanggung\nPajak setelah dikurangi dengan jumlah yang disita apabila utang pajak dan Biaya Penagihan\nPajak tidak dilunasi oleh Penanggung Pajak sekalipun telah dilakukan pemblokiran.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "2efd1e2b-417c-4bc2-9483-67c6673e80f2",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": "\nPenyitaan terhadap surat berharga berupa obligasi, saham, dan sejenisnya yang diperdagangkan\ndi bursa efek dilaksanakan sebagai berikut:\na. Pemblokiran Rekening Efek pada Kustodian dilakukan berdasarkan permintaan tertulis dari\nDirektur Jenderal Pajak atau Pejabat yang ditunjuknya kepada Ketua Badan Pengawas Pasar\nModal dengan menyebutkan nama Pemegang Rekening atau nomor Pemegang Rekening\nsebagai Penanggung Pajak, sebab dan alasan perlunya pemblokiran tersebut dilakukan;\n\nb. Berdasarkan permintaan Direktur Jenderal Pajak atau Pejabat yang ditunjuknya sebagaimana\ndimaksud pada huruf a, Ketua Badan Pengawas Pasar Modal dapat menyampaikan perintah\ntertulis kepada Kustodian untuk melakukan pemblokiran terhadap Rekening Efek Penanggung\nPajak;\nc. Berdasarkan perintah tertulis dari Ketua Badan Pengawas Pasar Modal sebagaimana\ndimaksud pada huruf b, Kustodian melakukan pemblokiran;\nd. Dalam hal permintaan pemblokiran tersebut disertai dengan permintaan keterangan tentang\nRekening Efek pada Kustodian, maka permintaan tertulis dari Direktur Jenderal Pajak harus\nmemuat nama Pejabat yang berwenang mendapat keterangan tersebut;\ne. Kustodian yang melakukan pemblokiran dan memberikan keterangan tentang Rekening Efek\nPemegang Rekening membuat Berita Acara Pemblokiran dan Berita Acara Pemberian\nKeterangan;\nf. Berita Acara Pemblokiran dan Berita Acara Pemberian Keterangan tersebut disampaikan\nkepada Direktur Jenderal Pajak dan salinannya disampaikan kepada Ketua Badan Pengawas\nPasar Modal dan Pemegang Rekening sebagai Penanggung Pajak, selambat-lambatnya 2\n(dua) hari kerja setelah pemblokiran dan pemberian keterangan tersebut dilakukan;\ng. Jurusita Pajak melaksanakan penyitaan atas Efek dan atau dana dalam Rekening Efek pada\nKustodian segera setelah menerima Berita Acara Pemblokiran dan Berita Acara Pemberian\nKeterangan;\nh. Jurusita Pajak yang melakukan penyitaan harus membuat Berita Acara Pelaksanaan Sita\nyang ditandatangani oleh Jurusita Pajak, Penanggung Pajak dan saksi-saksi;\ni. Dalam hal Penanggung Pajak tidak hadir, Berita Acara Pelaksanaan Sita ditandatangani oleh\nJurusita Pajak dan saksi-saksi;\nj. Berita Acara Pelaksanaan Sita disampaikan kepada Penanggung Pajak, dan salinannya\ndisampaikan kepada Ketua Badan Pengawas Pasar Modal dan Kustodian;\nk. Pejabat mengajukan permintaan pencabutan pemblokiran terhadap Rekening Efek\nPenanggung Pajak kepada Kustodian, setelah Penanggung Pajak melunasi utang pajak dan\nbiaya penagihan pajak;\nl. Pejabat mengajukan permintaan pencabutan pemblokiran terhadap Rekening Efek\nPenanggung Pajak setelah dikurangi dengan jumlah yang disita apabila utang pajak dan\nBiaya Penagihan Pajak tidak dilunasi oleh Penanggung Pajak sekalipun telah dilakukan pemblokiran;\nm. Efek yang diperdagangkan di bursa yang telah disita, dijual di bursa melalui Perantara Pedagang Efek Anggota Bursa atas permintaan Pejabat.\n\nPenyitaan terhadap surat berharga berupa obligasi, saham, dan sejenisnya yang tidak diperdagangkan di bursa efek dilaksanakan sebagai berikut:\na. melakukan inventarisasi dan membuat rincian tentang jenis, jumlah dan nilai nominal atau perkiraan nilai lainnya dari surat berharga yang disita dalam suatu daftar yang merupakan lampiran Berita Acara Pelaksanaan Sita;\nb. membuat Berita Acara Pelaksanaan Sita;\nc. membuat Berita Acara Pengalihan Hak Surat Berharga atas nama dari Penanggung Pajak kepada Pejabat.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "85a1d8fb-9561-477d-8ec5-8f7eac440e1c",
+                            "name": "Verse 6",
+                            "number": "6",
+                            "type": "verse",
+                            "content": " Penyitaan terhadap piutang dilaksanakan sebagai berikut:\na. melakukan inventarisasi dan membuat rincian tentang jenis dan jumlah piutang yang disita dalam suatu daftar yang merupakan lampiran Berita Acara Pelaksanaan Sita;\nb. membuat Berita Acara Pelaksanaan Sita;\nc. membuat Berita Acara Persetujuan Pengalihan Hak Menagih Piutang dari Penanggung Pajak kepada Pejabat, dan salinannya disampaikan kepada Penanggung Pajak dan pihak yang berkewajiban membayar utang.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "df26848c-093c-406c-b7ad-4691c7462230",
+                            "name": "Verse 7",
+                            "number": "7",
+                            "type": "verse",
+                            "content": " Penyitaan terhadap penyertaan modal pada perusahaan lain yang tidak ada surat sahamnya dilaksanakan sebagi berikut:\na. melakukan inventarisasi dan membuat rincian tentang jumlah penyertaan modal pada perusahaan lain dalam suatu daftar yang merupakan lampiran Berita Acara Pelaksanaan Sita;\nb. membuat Berita Acara Pelaksanaan Sita;\nc. membuat Akte Persetujuan Pengalihan Hak Penyertaan Modal pada perusahaan lain dari Penanggung Pajak kepada Pejabat, dan salinannya disampaikan kepada perusahaan tempat penyertaan modal.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "1f166c97-a490-4c25-b478-6da6868fa2ea",
+                            "name": "Verse 8",
+                            "number": "8",
+                            "type": "verse",
+                            "content": " Tata cara pemblokiran diatur dengan Keputusan Menteri Keuangan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "f53265e2-fe7b-4725-968f-fdea3f7597ee",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "8ae61bf6-3ac2-4dfc-9ce9-db38eb50451c",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPenyitaan terhadap barang yang telah disita oleh Kejaksaan atau Kepolisian sebagai barang bukti dalam\nkasus pidana, baru dapat dilaksanakan setelah barang bukti tersebut dikembalikan kepada Penanggung Pajak.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "23c31470-c00d-42f1-becf-d51fa0560dc3",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a9067001-98f9-4585-99a4-6f506843559b",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": "\tBarang yang telah disita dititipkan kepada Penanggung Pajak, kecuali apabila menurut pertimbangan Jurusita Pajak barang sitaan tersebut perlu disimpan di kantor Pejabat atau di tempat lain.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "c905d18f-cf86-4f93-bb9d-58f2a14dbd3b",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": "\tDalam hal penyitaan tidak dihadiri oleh Penanggung Pajak:\na.\tbarang bergerak yang telah disita dapat dititipkan kepada aparat Pemerintah Daerah setempat yang menjadi saksi dalam pelaksanaan sita;\nb.\tbarang tidak bergerak pengawasannya diserahkan kepada aparat Pemerintah Daerah setempat yang menjadi saksi dalam pelaksanaan sita tersebut.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "90d70b2b-a598-403f-b78e-3d566e4bc38d",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": "\tTempat lain yang dapat digunakan sebagai tempat penitipan barang yang telah disita sebagaimana dimaksud dalam ayat (1) adalah Kantor Pegadaian, bank, Kantor Pos atau tempat lain yang ditetapkan oleh Menteri Keuangan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "f13ca31e-6390-4abc-a72e-68cad5395616",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": {
+                        "id": "a842c20a-3056-4580-9591-8e878c87bc85",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPenyitaan tambahan dapat dilaksanakan apabila:\na.\tnilai barang yang disita nilainya tidak cukup untuk melunasi biaya penagihan pajak dan utang pajak; atau\nb.\thasil lelang barang yang telah disita tidak cukup untuk melunasi biaya penagihan pajak dan utang pajak.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "7eb7655f-5fc6-4b67-b84a-1593d3ffe9f0",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6ccdeab9-d464-466a-a65b-a5f13c7fdbbe",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": "\tAtas barang yang disita dapat ditempeli atau diberi segel sita.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "cfb113ad-eb74-46c0-b1de-5dbfedb5dcf8",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": "\tPenempelan segel sita dilaksanakan dengan memperhatikan jenis, sifat dan bentuk barang sitaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "0edc8f1c-cf19-46fd-b021-5c96e5228f8e",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": "\tSegel sita sebagaimana dimaksud dalam ayat (1) memuat sekurang-kurangnya:\na. kata \" DISITA\";\nb. nomor dan tanggal Berita Acara Pelaksanaan Sita;\nc. larangan untuk memindahtangankan, memindahkan hak, meminjamkan, merusak barang\nyang disita.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "84644b69-d3d0-454c-8d27-36e792e83a38",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ef40e6b6-de82-4977-a65e-14c102279a6d",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pencabutan sita dilaksanakan apabila Penanggung Pajak telah melunasi biaya penagihan pajak\ndan utang pajak atau berdasarkan putusan pengadilan atau berdasarkan putusan badan peradilan\npajak atau ditetapkan lain oleh Menteri Keuangan atau Gubernur atau Bupati/Walikota.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "7682e874-1bf8-41ad-ab38-7b71fa9c7f3c",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pencabutan sita sebagaimana dimaksud dalam ayat (1) dilaksanakan berdasarkan Surat\nPencabutan Sita yang diterbitkan oleh Pejabat.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "dec5baf6-f561-4f83-9f77-658ffdf6444b",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Surat Pencabutan Sita sekaligus berfungsi sebagai pencabutan Berita Acara Pelaksanaan Sita\ndisampaikan oleh Jurusita Pajak kepada Penanggung Pajak dan instansi yang terkait, diikuti\ndengan pengembalian penguasaan barang yang disita kepada Penanggung Pajak.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "78d9b2a5-af38-4bf0-b32a-0200dbb2de49",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Pencabutan sita terhadap:\na. deposito berjangka, tabungan, saldo rekening koran, giro atau yang dipersamakan dengan itu\ndilaksanakan dengan menyampaikan Surat Pencabutan Sita kepada Penanggung Pajak dan\ntembusannya disampaikan kepada bank yang bersangkutan;\nb. surat berharga berupa obligasi, saham atau sejenisnya baik yang diperdagangkan maupun\nyang tidak diperdagangkan di bursa efek dilaksanakan dengan menyampaikan Surat\nPencabutan Sita kepada Penanggung Pajak dan tembusannya disampaikan kepada pihak\nterkait yang sekaligus berfungsi sebagai pembatalan Berita Acara Pengalihan Hak Atas Surat\nBerharga tersebut;\nc. piutang dilaksanakan dengan menyampaikan Surat Pencabutan Sita kepada Penanggung\nPajak dan tembusannya disampaikan kepada pihak yang berutang yang sekaligus berfungsi\nsebagai pembatalan Berita Acara Persetujuan Pengalihan Hak Menagih Piutang;\nd. penyertaan modal pada perusahaan lain dilaksanakan dengan menyampaikan Surat\nPencabutan Sita kepada Penanggung Pajak dan tembusannya disampaikan kepada pihak\nterkait serta membuat Akte Pembatalan Pengalihan Hak.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "25707dd2-2b73-4ae5-9e1d-b61f9740c63b",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": {
+                        "id": "7b25aca6-77d3-40ef-b688-868390dc3637",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPenanggung Pajak dilarang:\na. memindahkan hak, memindahtangankan, menyewakan, meminjamkan, menyembunyikan,\nmenghilangkan, atau merusak barang yang telah disita;\nb. membebani barang tidak bergerak yang telah disita dengan hak tanggungan untuk pelunasan utang tertentu;\nc. membebani barang bergerak yang telah disita dengan fidusia atau diagunkan untuk pelunasan utang tertentu; dan atau\nd. merusak, mencabut, atau menghilangkan segel sita atau salinan Berita Acara Pelaksanaan Sita yang telah ditempel pada barang sitaan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "ca55362d-c005-4f20-b18d-d63f0fbf76e0",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "fa3333ad-883d-4058-992b-e972a920e34d",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pihak-pihak yang terkait dengan pelaksanaan penyitaan atas barang-barang sebagaimana dimaksud dalam Pasal 25 ayat (3) huruf b, huruf c, huruf d, huruf e dan huruf f Undang-undang Nomor 19 Tahun 1997 tentang Penagihan Pajak dengan Surat Paksa sebagaimana telah diubah dengan Undang-undang Nomor 19 Tahun 2000, wajib membantu pelaksanaan penyitaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "97361445-842e-42fa-814d-a6857b9d7acd",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Setiap orang dilarang dengan sengaja untuk tidak menuruti perintah atau permintaan yang dilakukan menurut undang-undang, atau dengan sengaja mencegah, menghalang-halangi atau menggagalkan tindakan penagihan pajak yang dilakukan oleh Juru Sita Pajak.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "d75a1a91-67ba-4d60-a5ae-32a1f3991e2a",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "4a3a6fee-85da-4871-a9e7-55ed54993f24",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Apabila utang pajak dan atau biaya penagihan pajak tidak dilunasi setelah dilaksanakan penyitaan, Pejabat berwenang melaksanakan penjualan secara lelang atau tidak secara lelang, maupun menggunakan atau memindahbukukan barang yang disita untuk pelunasan utang pajak dan atau biaya penagihan pajak dimaksud.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "e523dae7-f0b4-4592-a71b-8aa47e0ea799",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penjualan secara lelang dilakukan melalui Kantor Lelang dan dilaksanakan paling cepat setelah jangka waktu 14 (empat belas) hari terhitung sejak Pengumuman Lelang;\n(3) Pengumuman Lelang sebagaimana dimaksud dalam ayat (2), dilaksanakan paling cepat setelah lewat jangka waktu 14 (empat belas) hari terhitung sejak penyitaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "4d8d7e71-1d53-47ad-aa02-57df02004b40",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Apabila hasil lelang sudah mencapai jumlah yang cukup untuk melunasi biaya penagihan pajak dan utang pajak, maka pelaksanaan lelang dihentikan dan sisa barang serta kelebihan uang hasil lelang dikembalikan oleh Pejabat kepada Penanggung Pajak paling lambat 3 (tiga) hari setelah pelaksanaan lelang.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "c893a2e7-1db1-4254-bce1-7fa62f8b6d12",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": {
+                        "id": "6756ffa0-f9a5-46c5-a6c5-f94bc71c132e",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPenanggung Pajak dapat melunasi utang pajak dan biaya yang timbul dalam rangka penagihan pajak selama barang yang telah disita belum dijual, digunakan atau dipindahbukukan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "4a5980ac-a91d-4c33-b9b3-c3253991bbab",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a08b24a1-c141-41f8-8ff7-eca04037b71a",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Besarnya biaya penagihan pajak adalah Rp.50.000,00 (lima puluh ribu rupiah) untuk setiap pemberitahuan Surat Paksa dan Rp100.000,00 (seratus ribu rupiah) untuk setiap pelaksanaan Surat Perintah Melaksanakan Penyitaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "b34ce19b-f751-48e4-9b7f-56c918378eee",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Besarnya tambahan biaya penagihan pajak yang dibayar oleh Penanggung Pajak dalam hal barang yang telah disita dijual adalah sebagai berikut:\na. secara lelang, 1% (satu persen) dari pokok lelang.\nb. tidak secara lelang, 1% (satu persen) dari hasil penjualan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "baabe3b5-bb7a-4935-90ee-2a8056967ceb",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Biaya penagihan pajak sebagaimana dimaksud dalam ayat (1) dan tambahan biaya penagihan pajak sebagaimana dimaksud dalam ayat (2) merupakan Penerimaan Negara Bukan Pajak.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "ad1119e5-01a4-4376-beac-c407254eaca2",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Tata cara pengelolaan dan penggunaan biaya penagihan pajak dan tambahan biaya penagihan pajak diatur sesuai dengan peraturan perundang-undangan yang berlaku.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "9d45fcb8-0288-4e12-bbab-ac3a405273f0",
+            "name": "Chapter III",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "8855e8cb-c37a-438a-9026-9c4c8f715d76",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": {
+                        "id": "9305a885-4b20-4c8b-a1ca-b1d15c06ee04",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKetentuan lebih lanjut yang diperlukan bagi pelaksanaan Peraturan Pemerintah ini diatur dengan Keputusan Menteri Keuangan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "b6a010e2-534a-4106-b5ce-9a9a9fd38688",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": {
+                        "id": "d39f195b-4e77-4659-8cc0-4ba7b796c5a1",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 3 Tahun 1998 tentang\nTata Cara Penyitaan Dalam Rangka Penagihan Pajak Dengan Surat Paksa (lembaran Negara Republik\nIndonesia Tahun 1998 Nomor 5, Tambahan Lembaran Negara Nomor 3725) dinyatakan tidak berlaku.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "5a82c6fd-c8c4-4f54-800d-c602e9a804f8",
+                    "name": "Article 19",
+                    "type": "article",
+                    "children": {
+                        "id": "0c6bdc07-ed88-4262-b03f-c8ee436e24de",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari 2001.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "135",
+        "Tahun": "2000",
+        "Tentang": "TATA CARA PENYITAAN DALAM RANGKA PENAGIHAN PAJAK",
+        "Menimbang": {
+            "Introduction": "\nbahwa dalam rangka melaksanakan ketentuan Pasal 24 Undang-undang Nomor 19\nTahun 1997 tentang Penagihan Pajak dengan Surat Paksa sebagaimana telah diubah\ndengan Undang-undang Nomor 19 Tahun 2000, perlu menetapkan Peraturan\nPemerintah tentang Tata Cara Penyitaan Dalam Rangka Penagihan Pajak Dengan Surat\nPaksa"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (1) dan Pasal 20 ayat (2) Undang Undang Dasar 1945 sebagaimana\ntelah diubah dengan Perubahan Kedua Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 19 Tahun 1997 tentang Penagihan Pajak dengan Surat\nPaksa (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 42, Tambahan\nLembaran Negara Nomor 3686) sebagaimana telah diubah dengan Undang-undang\nNomor 19 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor\n129, Tambahan Lembaran Negara Nomor 3987);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG TATA CARA PENYITAAN DALAM RANGKA\nPENAGIHAN PAJAK DENGAN SURAT PAKSA.",
+        "tanggal sah": "1 Januari 2001"
+    }
+}

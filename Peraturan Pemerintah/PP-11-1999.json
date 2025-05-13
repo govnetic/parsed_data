@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "id": "2525b5b8-4fe1-4076-b6b5-a0007c55b45a",
+            "id": "45596bbe-1d79-47a6-b5df-5a3e7763d061",
             "name": "Chapter I",
             "title": "\nPENAMBAHAN PENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "12be6644-f6b4-4f7d-80e4-cb3f5629478e",
+                    "id": "4f172d0f-da01-40fc-bafd-6adf0eccb049",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "0aae71b9-1082-4c46-97e2-275eaf584cee",
+                        "id": "2cf0fa12-eb76-492a-9429-5852fe473b22",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -20,22 +20,22 @@
                     }
                 },
                 {
-                    "id": "43a86235-6e77-46d1-b347-115057136a46",
+                    "id": "3b772914-e271-4694-814c-1fc13c0fdaaf",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "98c71d33-967f-4b10-b1c6-8f99651c7a72",
+                            "id": "b70b44bd-83ca-4a81-b029-106ff02af885",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Penambahan penyertaan modal Negara sebagaimana dimaksud\ndalam Pasal 1 berasal dari dana Anggaran Pendapatan dan Belanja\nNegara Tahun Anggaran 1997/1998 yang telah digunakan untuk\nmendukung kegiatan operasional Perusahaan Umum (PERUM)\nPengembangan Keuangan Koperasi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8c4c2bae-0fd0-48c8-a3bb-4c3deb5b672a",
+                            "id": "04b3e7c6-8076-4049-a3bd-1139960be200",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Nilai penambahan penyertaan modal Negara sebagaimana dimaksud\ndalam ayat (1) adalah sebesar Rp 56.403.365.160,00 (lima puluh\nenam miliar empat ratus tiga juta tiga ratus enam puluh lima ribu\nseratus enam puluh rupiah).",
                             "explanation": "Tidak ada Penjelasan"
@@ -45,17 +45,17 @@
             ]
         },
         {
-            "id": "1c793eca-5a4e-4e98-8bb6-a2536a2f9a0f",
+            "id": "658eabd9-81af-4381-9c66-a669350814e7",
             "name": "Chapter II",
             "title": "\nPELAKSANAAN PENAMBAHAN\nPENYERTAAN MODAL",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8269bdf9-d1a2-4204-a89b-9ccd2bb25e18",
+                    "id": "66423486-2d6a-4281-bdf0-31ca002b01d6",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "732d94d1-c334-4d22-8c9f-b8058f3a10fb",
+                        "id": "a82160ac-19cb-4892-aa8b-9e3efb0346fd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -66,17 +66,17 @@
             ]
         },
         {
-            "id": "6cec8ca1-3ece-4ade-a0c7-1cfa07a7902c",
+            "id": "c7984fae-225c-4aa9-be2f-46e619c47559",
             "name": "Chapter III",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "5c93179e-aeeb-4ac6-a017-685aa1f3095f",
+                    "id": "6297a039-671e-40f8-856b-26a6b657a9ab",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "01f77d84-5346-4dcb-a361-70652b9e5b69",
+                        "id": "5cbe7432-2f18-447a-8d17-42a8adb9f00e",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -85,11 +85,11 @@
                     }
                 },
                 {
-                    "id": "d4263cb8-7bab-4bbc-b645-6870f8e86299",
+                    "id": "ad5f5408-d472-41d7-9747-98898f04a17b",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "dacc874c-a722-46fa-ab33-3bfb27c260bd",
+                        "id": "c522140b-dcbc-474d-9434-846b19854e32",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",

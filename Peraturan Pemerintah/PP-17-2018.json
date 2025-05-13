@@ -1,0 +1,1385 @@
+{
+    "results": [
+        {
+            "id": "9fa9bdad-c226-48d4-9311-b222d02f143a",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "68eb8b8a-48a9-4c5a-a26f-06a7cc5eb749",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "b9103319-d8e5-4338-ac90-46003096c9ed",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Kecamatan atau yang disebut dengan nama lain adalah bagian wilayah dari daerah kabupaten/kota yang dipimpin oleh camat.\n2. Kelurahan adalah bagian wilayah dari Kecamatan sebagai perangkat Kecamatan.\n3. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan dalam negeri.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "3e9d2e86-e80b-4337-a0ba-5cb3454f6082",
+            "name": "Chapter II",
+            "title": "\nKECAMATAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "7bc2c9ab-71e1-491a-85e7-4a657b1848e2",
+                    "name": "Section First",
+                    "title": "\nPenataan Kecamatan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "6e456276-33f5-4308-829f-b88a8b915bd4",
+                            "name": "Article 2",
+                            "type": "article",
+                            "children": {
+                                "id": "6882224b-2c25-4dfd-943b-2e51b6c3ac8c",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nPenataan Kecamatan meliputi:\na. pembentukan Kecamatan;\nb. penggabungan Kecamatan; dan\nC. penyesuaian Kecamatan.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "209704c4-2b71-455f-bbdb-171b1fdd1cbf",
+                    "name": "Section Second",
+                    "title": "\nPembentukan Kecamatan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "901bc86a-b2fe-4da2-97ea-9de3289b5827",
+                            "name": "Paragraph 1",
+                            "title": "\nUmum",
+                            "type": "paragraph",
+                            "children": [
+                                {
+                                    "id": "73354fb1-933e-4a3c-ab5d-4eb19e7893b5",
+                                    "name": "Article 3",
+                                    "type": "article",
+                                    "children": [
+                                        {
+                                            "id": "aaf1b033-3514-48bd-b225-0a373ef91f19",
+                                            "name": "Verse 1",
+                                            "number": "1",
+                                            "type": "verse",
+                                            "content": " Pembentukan Kecamatan dilakukan melalui:\na. pemekaran 1 (satu) Kecamatan menjadi 2 (dua)\nKecamatan atau lebih; atau\nb. penggabungan bagian Kecamatan dari Kecamatan\nyang bersandingan dalam satu daerah\nkabupaten/kota menjadi Kecamatan baru.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "3e0bec64-953d-4371-beca-d6fb21234bac",
+                                            "name": "Verse 2",
+                                            "number": "2",
+                                            "type": "verse",
+                                            "content": " Pembentukan Kecamatan sebagaimana dimaksud\npada ayat (1) harus memenuhi persyaratan dasar,\npersyaratan teknis, dan persyaratan administratif.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "ad12d4ef-a22e-418e-a420-6cee05fa3715",
+                                            "name": "Verse 3",
+                                            "number": "3",
+                                            "type": "verse",
+                                            "content": " Kecamatan dibentuk dengan Peraturan Daerah\nkabupaten/kota sesuai dengan ketentuan peraturan\nperundang-undangan.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "492e3ba0-c7c8-4cce-8418-69050beec5c2",
+                            "name": "Paragraph 2",
+                            "title": "\nPersyaratan Dasar",
+                            "type": "paragraph",
+                            "children": [
+                                {
+                                    "id": "7bd9bda8-47a7-4eb2-92ee-b9363764f5ec",
+                                    "name": "Article 4",
+                                    "type": "article",
+                                    "children": [
+                                        {
+                                            "id": "bbd1b754-054d-4e4b-9a1b-9d0a4720ed06",
+                                            "name": "Verse 1",
+                                            "number": "1",
+                                            "type": "verse",
+                                            "content": " Persyaratan dasar pembentukan Kecamatan\nsebagaimana dimaksud dalam Pasal 3 ayat (2)\nmeliputi:\na. jumlah penduduk minimal;\nb. luas wilayah minimal;\nc. usia minimal Kecamatan; dan\nd. jumlah minimal desa/Kelurahan yang menjadi\ncakupan.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "8b955180-a608-4d04-9fcc-9b886002340b",
+                                            "name": "Verse 2",
+                                            "number": "2",
+                                            "type": "verse",
+                                            "content": " Persyaratan dasar pembentukan Kecamatan\nsebagaimana dimaksud pada ayat (1) tercantum dalam\nLampiran I yang merupakan bagian yang tidak\nterpisahkan dari Peraturan Pemerintah ini.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5a1f039c-b54e-40ca-8d8a-ab3dd865f414",
+                            "name": "Paragraph 3",
+                            "title": "\nPersyaratan Teknis",
+                            "type": "paragraph",
+                            "children": [
+                                {
+                                    "id": "e889c14e-5a9d-49fb-81c8-f02c7c1a85e4",
+                                    "name": "Article 5",
+                                    "type": "article",
+                                    "children": [
+                                        {
+                                            "id": "759357c8-f304-4620-8486-cda9e2c8cbd1",
+                                            "name": "Verse 1",
+                                            "number": "1",
+                                            "type": "verse",
+                                            "content": " Persyaratan teknis pembentukan Kecamatan\nsebagaimana dimaksud dalam Pasal 3 ayat (2)\nmeliputi:\na. kemampuan keuangan daerah;\nb. sarana dan prasarana pemerintahan; dan\nc. persyaratan teknis lainnya.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "303c94db-62bb-4202-8fe2-9b5297d3da46",
+                                            "name": "Verse 2",
+                                            "number": "2",
+                                            "type": "verse",
+                                            "content": " Kemampuan keuangan daerah sebagaimana dimaksud pada ayat (1) huruf a merupakan rasio belanja pegawai terhadap anggaran pendapatan dan belanja daerah kabupaten/kota tidak lebih dari 50% (lima puluh persen).",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "eb9a7c61-85f4-4dbe-b026-35d83968794c",
+                                            "name": "Verse 3",
+                                            "number": "3",
+                                            "type": "verse",
+                                            "content": " Sarana dan prasarana pemerintahan sebagaimana dimaksud pada ayat (1) huruf b paling sedikit sudah memiliki lahan untuk kantor camat dan lahan untuk sarana dan prasarana pendukung pelayanan publik lainnya.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "7aba0457-7167-4220-aa88-71c5b184819d",
+                                            "name": "Verse 4",
+                                            "number": "4",
+                                            "type": "verse",
+                                            "content": " Persyaratan teknis lainnya sebagaimana dimaksud pada ayat (1) huruf c meliputi:\na. kejelasan batas wilayah Kecamatan dengan menggunakan titik koordinat sesuai dengan ketentuan peraturan perundang-undangan;\nb. nama Kecamatan yang akan dibentuk;\nc. lokasi calon ibu kota Kecamatan yang akan dibentuk; dan\nd. kesesuaian dengan rencana tata ruang wilayah.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "19f93ea2-2ddc-4c33-8e73-9e906f061410",
+                            "name": "Paragraph 4",
+                            "title": "\nPersyaratan Administratif",
+                            "type": "paragraph",
+                            "children": [
+                                {
+                                    "id": "ea79345a-723b-43de-8c07-665ff82073ac",
+                                    "name": "Article 6",
+                                    "type": "article",
+                                    "children": [
+                                        {
+                                            "id": "33492ded-3665-44e9-b5ec-42b939d7edbb",
+                                            "name": "Verse 1",
+                                            "number": "1",
+                                            "type": "verse",
+                                            "content": " Persyaratan administratif pembentukan Kecamatan sebagaimana dimaksud dalam Pasal 3 ayat (2) merupakan kesepakatan musyawarah desa dan/atau keputusan forum komunikasi Kelurahan atau yang disebut dengan nama lain di Kecamatan induk dan Kecamatan yang akan dibentuk.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "0831e6a9-16c8-4833-8c09-ee68a359755e",
+                                            "name": "Verse 2",
+                                            "number": "2",
+                                            "type": "verse",
+                                            "content": " Musyawarah desa sebagaimana dimaksud pada ayat (1) harus dihadiri oleh seluruh desa atau yang disebut dengan nama lain.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "568517e4-c485-4e91-8874-6d540a856d6d",
+                                            "name": "Verse 3",
+                                            "number": "3",
+                                            "type": "verse",
+                                            "content": " Keputusan forum komunikasi Kelurahan sebagaimana dimaksud pada ayat (1) disepakati secara musyawarah\n2018, No.73\nyang harus dihadiri oleh seluruh Kelurahan.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "94839028-261a-429c-a39f-f0b2dc29acba",
+                            "name": "Paragraph 5",
+                            "title": "\nPembentukan Kecamatan Dalam Rangka Kepentingan\nStrategis Nasional",
+                            "type": "paragraph",
+                            "children": [
+                                {
+                                    "id": "3649c34e-3f89-46c6-bbee-0a81950a5351",
+                                    "name": "Article 7",
+                                    "type": "article",
+                                    "children": [
+                                        {
+                                            "id": "c5f41434-126f-4cd0-bea1-ac04d38cf372",
+                                            "name": "Verse 1",
+                                            "number": "1",
+                                            "type": "verse",
+                                            "content": " Untuk kepentingan strategis nasional, Pemerintah\nPusat dapat menugaskan kepada Pemerintah Daerah\nkabupaten/kota tertentu melalui gubernur sebagai\nwakil Pemerintah Pusat untuk membentuk\nKecamatan.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "f069f2a0-7799-4802-8109-370aa1b7d018",
+                                            "name": "Verse 2",
+                                            "number": "2",
+                                            "type": "verse",
+                                            "content": " Pembentukan Kecamatan sebagaimana dimaksud\npada ayat (1) meliputi:\na. Kecamatan di kepulauan terpencil dan terluar;\nb. Kecamatan di kawasan perbatasan negara di\nwilayah darat; dan\nc. Kecamatan dalam rangka kepentingan strategis\nnasional lainnya sesuai dengan ketentuan\nperaturan perundang-undangan.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "c866948d-66b1-40ce-8a97-23514a83429c",
+                                            "name": "Verse 3",
+                                            "number": "3",
+                                            "type": "verse",
+                                            "content": " Ketentuan lebih lanjut mengenai penugasan,\npersyaratan, dan tata cara pembentukan Kecamatan\nsebagaimana dimaksud pada ayat (1) diatur dengan\nPeraturan Presiden.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4a738a34-59cb-4fca-a159-04624b022533",
+                    "name": "Section Third",
+                    "title": "\nPenggabungan Kecamatan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "efc615aa-c145-451c-95fa-4d7490d6ae47",
+                            "name": "Article 8",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "31224a5b-5e0b-4a88-af0d-d94ffb305200",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Penggabungan Kecamatan dapat dilakukan berupa\npenggabungan 2 (dua) Kecamatan atau lebih yang\nbersanding dalam 1 (satu) daerah kabupaten/kota.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "2c5fa090-9b32-4e9e-8876-33379f830a82",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Penggabungan Kecamatan sebagaimana dimaksud\npada ayat (1) dapat dilakukan apabila:\na. terjadi bencana yang mengakibatkan fungsi\npenyelenggaraan pemerintahan tidak dapat\ndilaksanakan;\nb. terdapat kepentingan strategis nasional sebagaimana dimaksud dalam Pasal 7; dan/atau\nc. tercapai kesepakatan antara kepala daerah dan Dewan Perwakilan Rakyat Daerah kabupaten/kota berdasarkan hasil kesepakatan antara seluruh desa/Kelurahan yang akan bergabung.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "52b49688-b1f4-4d92-8ac2-5c94034ef543",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Kecamatan yang digabung sebagaimana dimaksud pada ayat (2) dapat menggunakan nama salah satu Kecamatan yang bergabung atau menggunakan nama baru.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "dcce7541-1968-47da-99bc-059816202ad6",
+                                    "name": "Verse 4",
+                                    "number": "4",
+                                    "type": "verse",
+                                    "content": " Persyaratan pembentukan Kecamatan sebagaimana dimaksud dalam Pasal 3 ayat (2) tidak berlaku untuk penggabungan Kecamatan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "65321cf6-27d7-4dcf-a659-966be8b38a19",
+                                    "name": "Verse 5",
+                                    "number": "5",
+                                    "type": "verse",
+                                    "content": " Penggabungan Kecamatan sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Daerah kabupaten/kota sesuai dengan ketentuan peraturan perundang-undangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "0c74b33d-915b-49e6-a7cf-6e44067fa158",
+                    "name": "Section Fourth",
+                    "title": "\nPenyesuaian Kecamatan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "eee80c86-f0ce-433c-9b8e-ca2275b031eb",
+                            "name": "Article 9",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "d2cc41b5-d591-41dd-8098-860f45989d2c",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Penyesuaian Kecamatan berupa:\na. perubahan batas wilayah Kecamatan;\nb. perubahan nama Kecamatan;\nc. pemindahan ibu kota Kecamatan; dan\nd. perubahan nama ibu kota Kecamatan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "a812b4e1-4986-405e-82a7-b086159a7846",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Penyesuaian Kecamatan sebagaimana dimaksud pada ayat (1) dilakukan berdasarkan kesepakatan musyawarah desa dan/atau keputusan forum komunikasi Kelurahan atau yang disebut dengan nama lain.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "02169435-1d72-461d-b74b-786222c9b581",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Musyawarah desa sebagaimana dimaksud pada ayat (2) harus dihadiri oleh seluruh desa atau yang disebut dengan nama lain.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "66842a96-9f36-4ac6-b79d-e532dbf8567e",
+                                    "name": "Verse 4",
+                                    "number": "4",
+                                    "type": "verse",
+                                    "content": " Keputusan forum komunikasi Kelurahan sebagaimana dimaksud pada ayat (2) disepakati secara musyawarah\n2018, No.73\nyang harus dihadiri oleh seluruh Kelurahan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "8a8d259d-064d-4fab-af79-b21a65f8326c",
+                                    "name": "Verse 5",
+                                    "number": "5",
+                                    "type": "verse",
+                                    "content": " Penyesuaian Kecamatan sebagaimana dimaksud pada\nayat (1) ditetapkan dengan Peraturan Daerah\nkabupaten/kota sesuai dengan ketentuan peraturan\nperundang-undangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "b0ec5ffd-1b39-4334-b060-d209448cb36e",
+                    "name": "Section Fifth",
+                    "title": "\nTugas Camat",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "3153d88a-b66b-4866-b1eb-9449ec1a95cb",
+                            "name": "Article 10",
+                            "type": "article",
+                            "children": {
+                                "id": "496fc693-6808-4558-bfa0-292327829091",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nCamat dalam memimpin Kecamatan bertugas:\na. menyelenggarakan urusan pemerintahan umum di\ntingkat Kecamatan sesuai dengan ketentuan peraturan\nperundang-undangan yang mengatur pelaksanaan\nurusan pemerintahan umum;\nb. mengoordinasikan kegiatan pemberdayaan\nmasyarakat, meliputi:\n1. partisipasi masyarakat dalam forum musyawarah\nperencanaan pembangunan di desa/Kelurahan\ndan Kecamatan;\n2. sinkronisasi program kerja dan kegiatan\npemberdayaan masyarakat yang dilakukan oleh\nPemerintah dan swasta di wilayah kerja\nKecamatan;\n3. efektivitas kegiatan pemberdayaan masyarakat di\nwilayah Kecamatan; dan\n4. pelaporan pelaksanaan tugas pemberdayaan\nmasyarakat di wilayah kerja Kecamatan kepada\nbupati/wali kota;\nc. mengoordinasikan upaya penyelenggaraan\nketenteraman dan ketertiban umum, meliputi:\n1. sinergitas dengan Kepolisian Negara Republik\nIndonesia, Tentara Nasional Indonesia, dan\ninstansi vertikal di wilayah Kecamatan;\n2. harmonisasi hubungan dengan tokoh agama dan\ntokoh masyarakat; dan\n3. pelaporan pelaksanaan pembinaan ketenteraman dan ketertiban kepada bupati/wali kota;\nd. mengoordinasikan penerapan dan penegakan Peraturan Daerah dan Peraturan Kepala Daerah, meliputi:\n1. sinergitas dengan perangkat daerah yang tugas dan fungsinya di bidang penegakan peraturan perundang-undangan dan/atau Kepolisian Negara Republik Indonesia; dan\n2. pelaporan pelaksanaan penerapan dan penegakan peraturan perundang-undangan di wilayah Kecamatan kepada bupati/wali kota;\ne. mengoordinasikan pemeliharaan prasarana dan sarana pelayanan umum, meliputi:\n1. sinergitas dengan perangkat daerah dan/atau instansi vertikal yang terkait;\n2. pelaksanaan pemeliharaan prasarana dan fasilitas pelayanan umum yang melibatkan pihak swasta; dan\n3. pelaporan pelaksanaan pemeliharaan prasarana dan fasilitas pelayanan umum di wilayah Kecamatan kepada bupati/wali kota;\nf. mengoordinasikan penyelenggaraan kegiatan pemerintahan di tingkat Kecamatan, meliputi:\n1. sinergitas perencanaan dan pelaksanaan kegiatan dengan perangkat daerah dan instansi vertikal terkait;\n2. efektivitas penyelenggaraan kegiatan pemerintahan di tingkat Kecamatan; dan\n3. pelaporan penyelenggaraan kegiatan pemerintahan di tingkat Kecamatan kepada bupati/wali kota;\ng. membina dan mengawasi penyelenggaraan pemerintahan desa sesuai dengan ketentuan peraturan perundang-undangan yang mengatur desa;\nh. melaksanakan urusan pemerintahan yang menjadi kewenangan daerah kabupaten/kota yang tidak",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        },
+                        {
+                            "id": "e52e0999-f740-4417-8004-6ecf6da38b8d",
+                            "name": "Article 11",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "67cfa0c3-4a1e-45cf-a5b9-1bca790e5a65",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Selain melaksanakan tugas sebagaimana dimaksud dalam Pasal 10, camat mendapatkan pelimpahan sebagian kewenangan bupati/wali kota:\na. untuk melaksanakan sebagian urusan pemerintahan yang menjadi kewenangan daerah kabupaten/kota; dan\nb. untuk melaksanakan tugas pembantuan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "d963df34-f472-4103-b04b-d1c7e340dcc6",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Sebagian urusan pemerintahan yang dilimpahkan sebagaimana dimaksud pada ayat (1) huruf a terdiri atas pelayanan perizinan dan nonperizinan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "953d85b2-a9d7-4560-8faa-52f53a5eb70f",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Pelayanan perizinan sebagaimana dimaksud pada ayat (2) dilaksanakan dengan kriteria:\na. proses sederhana;\nb. objek perizinan berskala kecil;\nc. tidak memerlukan kajian teknis yang kompleks; dan\nd. tidak memerlukan teknologi tinggi.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "e8ad927e-c8f5-41cf-a87a-c79f83d6eecd",
+                                    "name": "Verse 4",
+                                    "number": "4",
+                                    "type": "verse",
+                                    "content": " Pelayanan perizinan sebagaimana dimaksud pada ayat (3) dilakukan melalui pelayanan terpadu.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "f47d78d5-ef8f-4694-af36-16950a118eb5",
+                                    "name": "Verse 5",
+                                    "number": "5",
+                                    "type": "verse",
+                                    "content": " Pelaksanaan pelayanan perizinan sebagaimana dimaksud pada ayat (3) dikembangkan sebagai inovasi pelayanan publik sesuai dengan ketentuan peraturan\n2018, No.73\n(6) Pelayanan nonperizinan sebagaimana dimaksud pada\nayat (2) dilakukan dengan kriteria:\na. berkaitan dengan pengawasan terhadap objek\nperizinan;\nb. kegiatan berskala kecil; dan\nc. pelayanan langsung pada masyarakat yang\nbersifat rutin.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "df7296b1-9a67-423d-979a-32da16fdd6ff",
+                                    "name": "Verse 7",
+                                    "number": "7",
+                                    "type": "verse",
+                                    "content": " Pelimpahan sebagian urusan pemerintahan\nsebagaimana dimaksud pada ayat (2) sampai dengan\nayat (6) dilakukan berdasarkan pemetaan pelayanan\npublik sesuai dengan karakteristik Kecamatan\ndan/atau kebutuhan masyarakat setempat.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "9b0713d4-ff6d-45a5-97d2-accf23726eff",
+                                    "name": "Verse 8",
+                                    "number": "8",
+                                    "type": "verse",
+                                    "content": " Tugas pembantuan sebagaimana dimaksud pada ayat\n(1) huruf b dilaksanakan oleh camat sesuai dengan\nketentuan peraturan perundang-undangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "416c85ef-2689-436e-b497-934900fb1eb8",
+                                    "name": "Verse 9",
+                                    "number": "9",
+                                    "type": "verse",
+                                    "content": " Ketentuan lebih lanjut mengenai tata cara pelimpahan\nsebagian kewenangan bupati/wali kota kepada camat\nsebagaimana dimaksud pada ayat (1) diatur dengan\nPeraturan Menteri.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "d92250b0-f111-40cf-aaf1-9974d4a77875",
+                            "name": "Article 12",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "87ee5031-602d-462e-8f9f-f54a045a2be5",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Camat di kawasan perbatasan negara yang wilayahnya\ndi luar pos lintas batas negara dapat membantu\npengawasan di bidang keimigrasian, kepabeanan, dan\nperkarantinaan yang ditugaskan kementerian/\nlembaga pemerintah nonkementerian terkait kepada\nbupati/wali kota.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "f37c799b-1d6d-41fe-a453-cee32c6fdf6c",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Camat di kawasan perbatasan negara dapat diberikan\nkewenangan tertentu sesuai penugasan dari\nPemerintah Pusat secara berjenjang dalam pengelolaan\ndan pemanfaatan kawasan perbatasan negara sesuai\ndengan ketentuan peraturan perundang-undangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "b2a5e497-43b7-4567-982c-919ee420d152",
+                    "name": "Section Sixth",
+                    "title": "\nPersyaratan Camat",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "8977e8dc-342a-4b9f-af08-c2e02fddd288",
+                            "name": "Article 13",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "d9e57aef-0928-44bf-9493-c002884b586b",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Persyaratan dan pengangkatan camat dilaksanakan\nsesuai dengan ketentuan peraturan perundang-\nundangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "1f156534-f365-467f-a1c3-b549d9e5ec04",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Pelaksanaan pengangkatan camat dilaksanakan\nmelalui mekanisme seleksi sesuai dengan ketentuan\nperaturan perundang-undangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "63646cf3-2ca0-426e-a6e9-a0e670ef1272",
+                    "name": "Section Seventh",
+                    "title": "\nKlasifikasi, Susunan Organisasi, dan Tata Kerja Kecamatan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "8410cfb1-2745-4546-8bc4-19fe8a20f978",
+                            "name": "Article 14",
+                            "type": "article",
+                            "children": {
+                                "id": "01d62dba-a8f4-411e-844e-7c04ff6be0b1",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nKlasifikasi, susunan organisasi, dan tata kerja Kecamatan\nditetapkan sesuai dengan ketentuan perundang-undangan.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "235a4bc0-4824-4c96-ad2d-8462a0c8bbc5",
+                    "name": "Section Eighth",
+                    "title": "\nForum Koordinasi Pimpinan di Kecamatan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "3ffa9e67-3d82-4522-aefb-dff028b0e73c",
+                            "name": "Article 15",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "337f992d-3685-4939-9297-b8ef0f41383c",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Untuk menunjang kelancaran pelaksanaan urusan\npemerintahan umum, dibentuk forum koordinasi\npimpinan di Kecamatan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "3e3e5fe2-7cf9-48d6-8cf1-c85e7fb87ec2",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Forum koordinasi pimpinan di Kecamatan\nsebagaimana dimaksud pada ayat (1) diketuai oleh\ncamat.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "a540aa69-3781-4963-9c94-053aee00d059",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Anggota forum koordinasi pimpinan di Kecamatan\nsebagaimana dimaksud pada ayat (1) terdiri atas\npimpinan Kepolisian Negara Republik Indonesia,\npimpinan kewilayahan Tentara Nasional Indonesia,\ndan pimpinan instansi vertikal lainnya di Kecamatan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "4e55ba01-e6ce-4801-8102-3d3460d96e7b",
+                                    "name": "Verse 4",
+                                    "number": "4",
+                                    "type": "verse",
+                                    "content": " Forum koordinasi pimpinan di Kecamatan\nsebagaimana dimaksud pada ayat (1) dapat\nmengundang pimpinan instansi vertikal sesuai dengan\nmasalah yang dibahas.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "7be971fd-5bfb-461f-8785-f73400530c98",
+                                    "name": "Verse 5",
+                                    "number": "5",
+                                    "type": "verse",
+                                    "content": " Forum koordinasi pimpinan di Kecamatan ditetapkan dengan keputusan camat.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "bef6f095-8500-4fa1-884b-e3655c6fc65e",
+                            "name": "Article 16",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "294c1a93-16fc-4d60-bdd1-7096a0bd0ec4",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Forum koordinasi pimpinan di Kecamatan sebagaimana dimaksud dalam Pasal 15 bertugas untuk menunjang kelancaran pelaksanaan urusan pemerintahan umum di Kecamatan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "0a070b99-d9c9-44e5-8aba-fe915daa3a48",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Pelaksanaan tugas forum koordinasi pimpinan di Kecamatan sebagaimana dimaksud pada ayat (1) meliputi:\na. identifikasi permasalahan urusan pemerintahan umum di Kecamatan;\nb. deteksi dini potensi gangguan keamanan dan ketertiban umum;\nc. pengoordinasian strategi penyelesaian permasalahan keamanan dan ketertiban umum;\nd. penyelesaian secara bersama permasalahan keamanan dan ketertiban umum; dan\ne. pengoordinasian seluruh kegiatan yang dilaksanakan oleh instansi vertikal di wilayahnya.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "12f211eb-427e-4c38-9daf-f4e5718691fa",
+                    "name": "Section Ninth",
+                    "title": "\nPerencanaan Kecamatan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "37b076bf-be45-47d0-8d64-feeffe3eb1ad",
+                            "name": "Article 17",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "40a51f36-3083-42b7-bb4c-9e51593350d9",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Dalam rangka penyelenggaraan pemerintahan di Kecamatan, disusun perencanaan pembangunan Kecamatan sebagai kelanjutan dari hasil musyawarah perencanaan pembangunan desa/Kelurahan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "ea65f372-89c4-40e3-b94e-05fe9c471b7f",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Perencanaan pembangunan Kecamatan sebagaimana dimaksud pada ayat (1) merupakan bagian dari perencanaan pembangunan kabupaten/kota.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "a50371ec-8fa4-4102-a0a0-2013dad4a8a2",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Perencanaan pembangunan Kecamatan sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ce0448a2-c8ad-4b2b-ac16-1a98e04bb1c5",
+            "name": "Chapter III",
+            "title": "\nKELURAHAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "985629b0-b07d-4d4c-9ded-2f97a357c6b3",
+                    "name": "Section First",
+                    "title": "\nPenataan Kelurahan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "be8b1153-7090-41b0-b9bc-7a6a39f363cb",
+                            "name": "Article 18",
+                            "type": "article",
+                            "children": {
+                                "id": "7cd3e7e7-6a73-4b62-8809-1e9196b27b8e",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nPenataan Kelurahan meliputi:\na. pembentukan Kelurahan;\nb. penggabungan Kelurahan; dan\nc. penyesuaian Kelurahan.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "dd348f19-d29a-45f7-958a-461fd4320875",
+                    "name": "Section Second",
+                    "title": "\nPembentukan Kelurahan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "8d756cf1-3743-4e4d-aa64-57f7aaa54e1d",
+                            "name": "Paragraph 1",
+                            "title": "\nUmum",
+                            "type": "paragraph",
+                            "children": [
+                                {
+                                    "id": "bc538636-b17e-4fd5-8993-456867b343c3",
+                                    "name": "Article 19",
+                                    "type": "article",
+                                    "children": [
+                                        {
+                                            "id": "26f3c6a1-bb12-4393-976b-ee06cd497b48",
+                                            "name": "Verse 1",
+                                            "number": "1",
+                                            "type": "verse",
+                                            "content": " Pembentukan Kelurahan sebagaimana dimaksud\ndalam Pasal 18 huruf a dilakukan melalui:\na. pemekaran 1 (satu) Kelurahan menjadi 2 (dua)\nKelurahan atau lebih;\nb. penggabungan bagian Kelurahan dari Kelurahan\nyang bersandingan dalam 1 (satu) wilayah\nKecamatan menjadi Kelurahan baru; atau\nc. penggabungan bagian Kelurahan dari Kelurahan\nyang bersandingan dari 2 (dua) atau lebih wilayah\nKecamatan menjadi Kelurahan baru.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "b5f88613-bd2a-4055-88b9-852c08d9c551",
+                                            "name": "Verse 2",
+                                            "number": "2",
+                                            "type": "verse",
+                                            "content": " Pembentukan Kelurahan sebagaimana dimaksud pada\nayat (1) harus memenuhi persyaratan dasar,\npersyaratan teknis, dan persyaratan administratif.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "33010796-0e7f-4b49-b482-0761c74ec772",
+                                            "name": "Verse 3",
+                                            "number": "3",
+                                            "type": "verse",
+                                            "content": " Kelurahan dibentuk dengan Peraturan Daerah\nkabupaten/kota sesuai dengan ketentuan peraturan\nperundang-undangan.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5e865661-bc6b-40de-bf8d-cb7a595d044e",
+                            "name": "Paragraph 2",
+                            "title": "\nPersyaratan Dasar",
+                            "type": "paragraph",
+                            "children": [
+                                {
+                                    "id": "b2e52f81-933a-4105-9147-c762cab84a62",
+                                    "name": "Article 20",
+                                    "type": "article",
+                                    "children": [
+                                        {
+                                            "id": "6b35fa6f-e61b-444a-89b3-dd4644c447d6",
+                                            "name": "Verse 1",
+                                            "number": "1",
+                                            "type": "verse",
+                                            "content": " Persyaratan dasar pembentukan Kelurahan\nsebagaimana dimaksud dalam Pasal 19 ayat (2)\nmeliputi:\na. jumlah penduduk minimal;\nb. luas wilayah minimal; dan\nc. usia minimal Kelurahan.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "c84e2e5c-077c-46b2-85aa-0321f1b32c30",
+                                            "name": "Verse 2",
+                                            "number": "2",
+                                            "type": "verse",
+                                            "content": " Persyaratan dasar pembentukan Kelurahan\nsebagaimana dimaksud pada ayat (1) tercantum dalam\nLampiran II yang merupakan bagian yang tidak\nterpisahkan dari Peraturan Pemerintah ini.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "beb68378-54b2-4742-95f5-3a3408333674",
+                            "name": "Paragraph 3",
+                            "title": "\nPersyaratan Teknis",
+                            "type": "paragraph",
+                            "children": [
+                                {
+                                    "id": "e16d183e-f7e3-41f7-b6be-0df0adc80966",
+                                    "name": "Article 21",
+                                    "type": "article",
+                                    "children": [
+                                        {
+                                            "id": "29395dcd-7ce9-4923-bae7-3f96fe64b8e1",
+                                            "name": "Verse 1",
+                                            "number": "1",
+                                            "type": "verse",
+                                            "content": " Persyaratan teknis pembentukan Kelurahan\nsebagaimana dimaksud dalam Pasal 19 ayat (2)\nmeliputi:\na. kemampuan keuangan daerah;\nb. sarana dan prasarana pemerintahan; dan\nc. persyaratan teknis lainnya.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "fcc3af76-be88-4e8c-981c-a141b5ae2f59",
+                                            "name": "Verse 2",
+                                            "number": "2",
+                                            "type": "verse",
+                                            "content": " Kemampuan keuangan daerah sebagaimana dimaksud\npada ayat (1) huruf a merupakan rasio belanja pegawai\nterhadap anggaran pendapatan dan belanja daerah\nkabupaten/kota tidak lebih dari 50% (lima puluh\npersen).",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "471ff50a-247e-473d-b3bf-2b947128dec7",
+                                            "name": "Verse 3",
+                                            "number": "3",
+                                            "type": "verse",
+                                            "content": " Sarana dan prasarana pemerintahan sebagaimana\ndimaksud pada ayat (1) huruf b paling sedikit sudah\nmemiliki lahan untuk kantor lurah dan lahan untuk\nsarana dan prasarana pendukung pelayanan publik\nlainnya.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "694aa51c-bfc2-400e-a6a3-9f26d9f3c731",
+                                            "name": "Verse 4",
+                                            "number": "4",
+                                            "type": "verse",
+                                            "content": " Persyaratan teknis lainnya sebagaimana dimaksud\npada ayat (1) huruf c meliputi:\na. kejelasan batas wilayah Kelurahan dengan\nmenggunakan titik koordinat sesuai dengan\nketentuan peraturan perundang-undangan; dan\nb. nama Kelurahan yang akan dibentuk.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "c5343fd5-f919-49fc-ad79-0a743bdfec21",
+                            "name": "Paragraph 4",
+                            "title": "\nPersyaratan Administratif",
+                            "type": "paragraph",
+                            "children": [
+                                {
+                                    "id": "abd01dc9-7b23-4352-b828-bf33bdb6f158",
+                                    "name": "Article 22",
+                                    "type": "article",
+                                    "children": [
+                                        {
+                                            "id": "cc9642ff-347e-4028-8eaa-99155bc92bcc",
+                                            "name": "Verse 1",
+                                            "number": "1",
+                                            "type": "verse",
+                                            "content": " Persyaratan administratif pembentukan Kelurahan\nsebagaimana dimaksud dalam Pasal 19 ayat (2)\nmerupakan keputusan forum komunikasi Kelurahan\natau yang disebut dengan nama lain.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        },
+                                        {
+                                            "id": "970dc1f2-f5c3-4ff7-8c70-04d716b0e3cf",
+                                            "name": "Verse 2",
+                                            "number": "2",
+                                            "type": "verse",
+                                            "content": " Keputusan forum komunikasi Kelurahan sebagaimana\ndimaksud pada ayat (1) disepakati secara musyawarah\nyang harus dihadiri oleh seluruh anggota forum\nkomunikasi Kelurahan atau yang disebut dengan\nnama lain.",
+                                            "explanation": "Tidak ada Penjelasan"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "a096341a-6554-4535-8cab-abf27f3e9745",
+                    "name": "Section Third",
+                    "title": "\nPenggabungan Kelurahan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "5e2efbf3-6e5a-47de-b8d5-b78c9e7cc9b1",
+                            "name": "Article 23",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "0086d5f6-403a-43d9-ac26-0006842a6dd7",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Penggabungan Kelurahan dapat dilakukan berupa\npenggabungan 2 (dua) Kelurahan atau lebih yang\nbersanding dalam 1 (satu) wilayah Kecamatan atau\ndalam wilayah Kecamatan yang bersandingan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "89cbaf0d-ceb3-410f-bc4b-16b93c487506",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Penggabungan Kelurahan sebagaimana dimaksud\npada ayat (1) dapat dilakukan apabila:\na. terjadi bencana yang mengakibatkan fungsi\npenyelenggaraan pemerintahan tidak dapat\ndilaksanakan;\nb. terdapat kepentingan strategis nasional sesuai\ndengan ketentuan peraturan perundang-\nundangan; dan/atau\nC. tercapai kesepakatan antara kepala daerah dan\nDewan Perwakilan Rakyat Daerah kabupaten/\nkota berdasarkan hasil kesepakatan antara\nseluruh Kelurahan yang akan bergabung.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "fa1bcb10-007f-4c3d-b0e4-430bdf5d2372",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Kelurahan yang digabung sebagaimana dimaksud\npada ayat (2) dapat menggunakan nama salah satu\nKelurahan yang bergabung atau menggunakan nama\nbaru.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "93484401-e090-468f-b98c-33fbc52043a9",
+                                    "name": "Verse 4",
+                                    "number": "4",
+                                    "type": "verse",
+                                    "content": " Persyaratan pembentukan Kelurahan sebagaimana\ndimaksud dalam Pasal 19 ayat (2) tidak berlaku untuk\npenggabungan Kelurahan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "96719eb6-1dfd-4180-9f40-471462a88a66",
+                                    "name": "Verse 5",
+                                    "number": "5",
+                                    "type": "verse",
+                                    "content": " Penggabungan Kelurahan sebagaimana dimaksud\npada ayat (1) ditetapkan dengan Peraturan Daerah\nkabupaten/kota sesuai dengan ketentuan peraturan\nperundang-undangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "093bdc70-3efc-4981-a059-36ac9d96ed53",
+                    "name": "Section Fourth",
+                    "title": "\nPenyesuaian Kelurahan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "f622a4f6-425e-4401-a8c6-a4829ab42293",
+                            "name": "Article 24",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "40a4d5a6-b620-4b84-a418-9a9da6d437ee",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Penyesuaian Kelurahan berupa:\na. perubahan batas wilayah Kelurahan;\nb. perubahan nama Kelurahan; dan\nc. perubahan status desa menjadi Kelurahan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "cfa26e82-7489-48f7-823a-7b37d8e3f707",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Penyesuaian Kelurahan sebagaimana dimaksud pada\nayat (1) huruf a dan huruf b dilakukan berdasarkan\nkeputusan forum komunikasi Kelurahan atau yang\ndisebut dengan nama lain.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "64e9d3e0-0e8e-4b88-9719-db2a9b04b774",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Penyesuaian Kelurahan sebagaimana dimaksud pada\nayat (1) huruf c dilakukan sesuai dengan ketentuan\nperaturan perundang-undangan yang mengatur desa.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "382ef9cd-1b29-428b-abf2-d0185ebc3e55",
+                                    "name": "Verse 4",
+                                    "number": "4",
+                                    "type": "verse",
+                                    "content": " Keputusan forum komunikasi Kelurahan sebagaimana\ndimaksud pada ayat (2) disepakati secara musyawarah\nyang harus dihadiri oleh seluruh anggota forum\nkomunikasi Kelurahan atau yang disebut dengan\nnama lain.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "760e5036-95f6-48b5-b885-4b50015292d1",
+                                    "name": "Verse 5",
+                                    "number": "5",
+                                    "type": "verse",
+                                    "content": " Penyesuaian Kelurahan sebagaimana dimaksud pada\nayat (1) ditetapkan dengan Peraturan Daerah\nkabupaten/kota sesuai dengan ketentuan peraturan\n---",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "f0c35f0c-e5ab-479d-9fae-c296df3a4ad5",
+                    "name": "Section Fifth",
+                    "title": "\nKedudukan Kelurahan dan Tugas Lurah",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "b69324cc-1a97-483e-952e-263996a886b5",
+                            "name": "Article 25",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "5d311b3d-ea31-48ba-833d-01f04725e07b",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Kelurahan sebagai perangkat Kecamatan yang mempunyai tugas dan fungsi melaksanakan penyelenggaraan pemerintahan di wilayah Kelurahan yang dipimpin lurah.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "5c812a6c-9782-4985-8740-49b0ce1226da",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Selain melaksanakan tugas dan fungsi sebagaimana dimaksud pada ayat (1), lurah dibantu oleh perangkat Kelurahan untuk melaksanakan tugas yang diberikan oleh camat.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "6f14efe1-e52b-4fc4-999b-cfd1c37c9194",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Tugas lurah meliputi:\na. pelaksanaan kegiatan pemerintahan Kelurahan;\nb. pelaksanaan pemberdayaan masyarakat;\nc. pelaksanaan pelayanan masyarakat;\nd. pemeliharaan ketenteraman dan ketertiban umum;\ne. pemeliharaan prasarana dan fasilitas pelayanan umum;\nf. pelaksanaan tugas lain yang diberikan oleh camat; dan\ng. pelaksanaan tugas lain sesuai dengan ketentuan peraturan perundang-undangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "95607655-2bc0-4c3f-b195-168ee9fc56f6",
+                    "name": "Section Sixth",
+                    "title": "\nPersyaratan Lurah",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "f76cfc09-1cae-4730-8607-9836f8e0fa55",
+                            "name": "Article 26",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "e1c0ec1f-7336-4644-a83e-8a86c519a7a6",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Persyaratan dan pengangkatan lurah dilaksanakan sesuai dengan ketentuan peraturan perundang- undangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "400cc302-8c86-4d4c-8af6-6935deeb0625",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Lurah sebagaimana dimaksud pada ayat (1) berasal dari pegawai negeri sipil yang memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-\n(3) Selain persyaratan sebagaimana dimaksud pada ayat\n(2), pegawai negeri sipil harus mempunyai\nkemampuan teknis dibidang administrasi\npemerintahan dan memahami sosial budaya\nmasyarakat setempat.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "ae88af13-dfab-4211-88f1-d0f029aab059",
+                    "name": "Section Seventh",
+                    "title": "\nPemberdayaan, Pendampingan Masyarakat Kelurahan, dan\nLembaga Kemasyarakatan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "bf267f68-0fb0-401f-b3b2-02d08a0fa922",
+                            "name": "Article 27",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "fe98ad19-19ef-4905-8d26-f9afd701eaa6",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Pemberdayaan dan pendampingan masyarakat\nKelurahan dilaksanakan sesuai dengan ketentuan\nperaturan perundang-undangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "f8b13f95-615f-4a85-8139-1a6435ee8e8a",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Lembaga kemasyarakatan Kelurahan dibentuk oleh\nmasyarakat sesuai dengan kebutuhan dan merupakan\nmitra lurah yang membantu pelaksanaan tugas dalam\npenyelenggaraan pemerintahan Kelurahan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "0dd30d74-e2d9-4c58-851e-9813515a9452",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Ketentuan lebih lanjut mengenai lembaga\nkemasyarakatan Kelurahan diatur dengan Peraturan\nMenteri.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0545b288-fd82-4cb0-b612-24532c5354ce",
+            "name": "Chapter IV",
+            "title": "\nPENDANAAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "df4ef0e8-71da-4499-a77d-a5c4861ac3a3",
+                    "name": "Section First",
+                    "title": "\nPendanaan Kecamatan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "5f0056ad-e879-4669-bc1c-4d97d3b34cf9",
+                            "name": "Article 28",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "1b2a8e05-011e-4b49-991e-f298078ad8e3",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Pendanaan penyelenggaraan urusan pemerintahan\numum sebagaimana dimaksud dalam Pasal 10 huruf a\nsesuai dengan ketentuan peraturan perundang-\nundangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "b2d91ee4-002e-447a-9132-e0828457b0b1",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Pendanaan sebagaimana dimaksud pada ayat (1)\ntermasuk pendanaan untuk forum koordinasi\npimpinan di Kecamatan dalam melaksanakan tugas\n2018, No.73\nuntuk menunjang kelancaran pelaksanaan urusan\npemerintahan umum di Kecamatan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "12c11e0f-4fbd-4e4d-843e-f0106d659a34",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Pendanaan penyelenggaraan urusan pemerintahan\ndaerah provinsi yang dilimpahkan dan/atau\nditugaskan kepada bupati/wali kota yang\ndilaksanakan oleh camat sesuai dengan ketentuan\nperaturan perundang-undangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "02cbae3d-3dcf-44e5-88d0-d997b2415959",
+                            "name": "Article 29",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "2380d097-5698-40d8-a506-afa3c752f8b2",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Pendanaan pelaksanaan tugas lain sebagaimana\ndimaksud dalam Pasal 10 huruf i dibebankan kepada\nyang menugaskan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "1e2154e7-2f67-4d8d-99d2-ad341f9c5e1e",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Pendanaan pelaksanaan tugas sebagaimana dimaksud\ndalam Pasal 11 dibebankan pada anggaran\npendapatan dan belanja daerah kabupaten/kota.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "7c57242e-0b67-48cf-992b-76e1a2b7bd75",
+                    "name": "Section Second",
+                    "title": "\nPendanaan Kelurahan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "c6b4e891-d6cb-4d59-bbd3-bda37d8b4eff",
+                            "name": "Article 30",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "0b3ed148-7130-49ff-968b-4da45642f068",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Pemerintah Daerah kabupaten/kota mengalokasikan\nanggaran dalam anggaran pendapatan dan belanja\ndaerah kabupaten/kota untuk pembangunan sarana\ndan prasarana Kelurahan dan pemberdayaan\nmasyarakat di Kelurahan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "f6bdde85-f540-47a0-9db4-cd0024be1358",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Alokasi anggaran sebagaimana dimaksud pada ayat (1)\ndimasukkan ke dalam anggaran Kecamatan pada\nbagian anggaran Kelurahan untuk dimanfaatkan\nsesuai dengan ketentuan peraturan perundang-\nundangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "18fbd9eb-51a3-400e-ad81-344d4067cad7",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Dalam rangka pelaksanaan anggaran untuk\npembangunan sarana dan prasarana Kelurahan dan\npemberdayaan masyarakat di Kelurahan, lurah\nberkedudukan sebagai kuasa pengguna anggaran.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "2b67a397-0ae6-4e13-9f22-46a18635efe0",
+                                    "name": "Verse 4",
+                                    "number": "4",
+                                    "type": "verse",
+                                    "content": " Lurah dalam melaksanakan anggaran untuk\npembangunan sarana dan prasarana serta\npemberdayaan masyarakat di Kelurahan sebagaimana\ndimaksud pada ayat (3) menunjuk pejabat\npenatausahaan keuangan kegiatan sesuai dengan\nketentuan peraturan perundang-undangan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "24021775-ab65-4fef-b0e8-b24250f76739",
+                                    "name": "Verse 5",
+                                    "number": "5",
+                                    "type": "verse",
+                                    "content": " Penentuan kegiatan pembangunan sarana dan\nprasarana Kelurahan dan pemberdayaan masyarakat\ndi Kelurahan sebagaimana dimaksud pada ayat (1)\ndilakukan melalui musyawarah\nKelurahan.\npembangunan\n(6) Pelaksanaan anggaran untuk pembangunan sarana\ndan prasarana lokal Kelurahan dan pemberdayaan\nmasyarakat di Kelurahan melibatkan kelompok\nmasyarakat dan/atau organisasi kemasyarakatan.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "09e00c0b-c2ff-45a9-a2ff-e2bedfcf4993",
+                                    "name": "Verse 7",
+                                    "number": "7",
+                                    "type": "verse",
+                                    "content": " Untuk daerah kota yang tidak memiliki desa, alokasi\nanggaran sebagaimana dimaksud pada ayat (1) paling\nsedikit 5% (lima persen) dari anggaran pendapatan\ndan belanja daerah setelah dikurangi dana alokasi\nkhusus.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "231dc10e-d962-433e-9421-e08efcbf91f3",
+                                    "name": "Verse 8",
+                                    "number": "8",
+                                    "type": "verse",
+                                    "content": " Untuk daerah kabupaten yang memiliki Kelurahan\ndan kota yang memiliki desa, alokasi anggaran\nKelurahan sebagaimana dimaksud pada ayat (1) paling\nsedikit sebesar dana desa terendah yang diterima oleh\ndesa di kabupaten/kota.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "716c7360-a80f-4cea-af01-abac7d1063dd",
+                                    "name": "Verse 9",
+                                    "number": "9",
+                                    "type": "verse",
+                                    "content": " Ketentuan lebih lanjut mengenai penentuan kegiatan\npembangunan sarana dan prasarana Kelurahan dan\npemberdayaan masyarakat di Kelurahan sebagaimana\ndimaksud pada ayat (5) dan ayat (6) diatur dengan\nPeraturan Menteri.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5aa8884d-d506-463f-8aa3-c9b902b055b2",
+            "name": "Chapter V",
+            "title": "\nPAKAIAN DINAS",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "a4c44242-c8cb-4816-9e63-6f473902971b",
+                    "name": "Article 31",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "9471a584-d51f-4a3f-bb89-a93e1835d723",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pakaian dinas camat dan lurah terdiri atas:\na. pakaian dinas harian;\nb. pakaian dinas upacara; dan\nC. pakaian dinas lapangan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "56b86eac-74bd-449b-833a-841ed56b456a",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Ketentuan lebih lanjut mengenai pakaian dinas\nsebagaimana dimaksud pada ayat (1) diatur dengan\nPeraturan Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "d0ac2529-b5a2-4da7-905a-6dd738fff0b1",
+            "name": "Chapter VI",
+            "title": "\nPEMBINAAN DAN PENGAWASAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "4368f530-56eb-4642-bc3d-edb99f13552f",
+                    "name": "Section First",
+                    "title": "\nPembinaan dan Pengawasan Kecamatan dan Kelurahan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "64a44bf7-3f9d-4ee2-baab-591a1924d693",
+                            "name": "Article 32",
+                            "type": "article",
+                            "children": {
+                                "id": "f131bd92-d7dd-46a9-bffe-8768059b711c",
+                                "name": "Verse 1",
+                                "number": "(1)",
+                                "type": "verse",
+                                "content": "\nPembinaan dan pengawasan Kecamatan dan Kelurahan\ndilaksanakan sesuai dengan ketentuan peraturan\nperundang-undangan.",
+                                "explanation": "Tidak ada Penjelasan"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "fe61f55e-b471-4cbb-bf71-87042ba1a8f5",
+                    "name": "Section Second",
+                    "title": "\nEvaluasi Kecamatan dan Kelurahan",
+                    "type": "section",
+                    "children": [
+                        {
+                            "id": "e60a7cb6-db8b-491f-a07c-ee8f1bd93c6b",
+                            "name": "Article 33",
+                            "type": "article",
+                            "children": [
+                                {
+                                    "id": "afa94858-c7a7-48ef-90af-22d18b9ec959",
+                                    "name": "Verse 1",
+                                    "number": "1",
+                                    "type": "verse",
+                                    "content": " Setiap tahun Pemerintah Daerah kabupaten/kota\nmelakukan evaluasi terhadap kinerja Kecamatan dan\nKelurahan yang mencakup:\na. penyelenggaraan sebagian wewenang bupati/wali\nkota yang dilimpahkan untuk melaksanakan\nsebagian urusan pemerintahan daerah dalam\nrangka otonomi daerah;\nb. penyelenggaraan urusan pemerintahan umum;\nc. penyelenggaraan pelayanan terpadu; dan\nd. penyelenggaraan tugas lainnya yang ditugaskan\nkepada camat.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "b8d25943-4665-4591-b8d8-d8b5e17cbfb7",
+                                    "name": "Verse 2",
+                                    "number": "2",
+                                    "type": "verse",
+                                    "content": " Hasil evaluasi sebagaimana dimaksud pada ayat (1)\ndisampaikan oleh bupati/wali kota kepada gubernur\nsebagai wakil Pemerintah Pusat dengan tembusan\nkepada Menteri.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                },
+                                {
+                                    "id": "cfe6fe27-845c-455b-9bdd-167989a88a18",
+                                    "name": "Verse 3",
+                                    "number": "3",
+                                    "type": "verse",
+                                    "content": " Ketentuan lebih lanjut mengenai pelaksanaan evaluasi\nsebagaimana dimaksud pada ayat (1) dan ayat (2)\ndiatur dalam Peraturan Menteri.",
+                                    "explanation": "Tidak ada Penjelasan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3adbe047-9c06-4fe3-9f53-3e6d2f28cb0a",
+            "name": "Chapter VII",
+            "title": "\nKETENTUAN LAIN-LAIN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "d2cd08a9-936f-42f1-ad70-036cfd450fa2",
+                    "name": "Article 34",
+                    "type": "article",
+                    "children": {
+                        "id": "7dd80c4a-b7ca-4c49-ba20-99a59765e838",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKetentuan dalam Peraturan Pemerintah ini berlaku juga\nbagi Provinsi Daerah Istimewa Yogyakarta, Provinsi Daerah\nKhusus Ibukota Jakarta, Provinsi Aceh, Provinsi Papua,\ndan Provinsi Papua Barat, sepanjang tidak diatur secara\nkhusus dalam peraturan perundang-undangan yang\nmengatur mengenai keistimewaan dan kekhususan daerah\ntersebut.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "0081d7e4-7453-486e-af51-a7f2f5ff3d4e",
+            "name": "Chapter VIII",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "813a509b-c51e-4acc-8fd8-a7cd8f5d97bb",
+                    "name": "Article 35",
+                    "type": "article",
+                    "children": {
+                        "id": "2c44a478-a8e5-42dd-b594-ea7404c6273f",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPada saat Peraturan Pemerintah ini mulai berlaku, semua\nperaturan perundang-undangan yang merupakan\nperaturan pelaksanaan dari Peraturan Pemerintah Nomor\n19 Tahun 2008 tentang Kecamatan (Lembaran Negara\nRepublik Indonesia Tahun 2008 Nomor 40, Tambahan\nLembaran Negara Republik Indonesia Nomor 4826) dan\nPeraturan Pemerintah Nomor 73 Tahun 2005 tentang\nKelurahan (Lembaran Negara Republik Indonesia Tahun\n2005 Nomor 159, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4588) dinyatakan masih tetap berlaku\nsepanjang tidak bertentangan dengan ketentuan dalam\nPeraturan Pemerintah ini.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "0d5c6315-922c-410f-abd1-99660fe20727",
+                    "name": "Article 36",
+                    "type": "article",
+                    "children": {
+                        "id": "51b8e949-5a80-42e8-ae91-4fdaacf10b53",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPada saat Peraturan Pemerintah ini mulai berlaku,\nPeraturan Pemerintah Nomor 19 Tahun 2008 tentang\nKecamatan (Lembaran Negara Republik Indonesia Tahun\n2008 Nomor 40, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4826) dan Peraturan Pemerintah Nomor\n73 Tahun 2005 tentang Kelurahan (Lembaran Negara\nRepublik Indonesia Tahun 2005 Nomor 159, Tambahan\n2018, No.73\nLembaran Negara Republik Indonesia Nomor 4588) dicabut\ndan dinyatakan tidak berlaku.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "2bef9993-f758-414f-9169-8a900c3929e8",
+                    "name": "Article 37",
+                    "type": "article",
+                    "children": {
+                        "id": "8e9d17f7-a52f-40a8-8c36-998dadf25db5",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "17",
+        "Tahun": "2018",
+        "Tentang": "KECAMATAN",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 228 dan\nPasal 230 Undang-Undang Nomor 23 Tahun 2014 tentang\nPemerintahan Daerah, perlu menetapkan Peraturan\nPemerintah tentang Kecamatan;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "2": "\n 1. Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\nUndang-Undang Nomor 23 Tahun 2014 tentang\nPemerintahan Daerah (Lembaran Negara Republik\nIndonesia Tahun 2014 Nomor 244, Tambahan\nLembaran Negara Republik Indonesia Nomor 5587)\nsebagaimana telah beberapa kali diubah terakhir\ndengan Undang-Undang Nomor 9 Tahun 2015 tentang\nPerubahan Kedua atas Undang-Undang Nomor 23\nTahun 2014 tentang Pemerintahan Daerah (Lembaran\nNegara Republik Indonesia Tahun 2015 Nomor 58,\nTambahan Lembaran Negara Republik Indonesia\nNomor 5679);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG KECAMATAN.",
+        "tanggal sah": "3 Mei 2018"
+    }
+}

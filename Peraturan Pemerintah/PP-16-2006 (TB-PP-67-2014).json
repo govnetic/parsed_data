@@ -1,0 +1,112 @@
+{
+    "results": [
+        {
+            "id": "518fc2eb-844c-4e86-b638-dd090f5cac2b",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "2a1ce805-57c6-4ca4-9e8b-3274347e6a98",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "78abb9c3-89a4-4460-9a00-2802ce86ee25",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Tunjangan Veteran diberikan kepada Veteran Pejuang\nKemerdekaan Republik Indonesia sebagaimana\ndimaksud dalam Pasal 3 ayat (2) bagi :\na. Golongan A sebesar Rp 605.000,00 (enam ratus\nlima ribu rupiah) setiap bulan;\nb. Golongan B sebesar Rp 590.000,00 (lima ratus\nsembilan puluh ribu rupiah) setiap bulan;\nc. Golongan C sebesar Rp 566.000,00 (lima ratus\nenam puluh enam ribu rupiah) setiap bulan;\nd. Golongan D sebesar Rp 552.000,00 (lima ratus lima\npuluh dua ribu rupiah) setiap bulan;\ne. Golongan E sebesar Rp 540.000,00 (lima ratus\nempat puluh ribu rupiah) setiap bulan."
+                        },
+                        {
+                            "id": "4565e54c-d6d5-46f3-ac8d-ffd2a47e89fe",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Kepada Veteran Pembela Kemerdekaan Republik\nIndonesia sebagaimana dimaksud dalam Pasal 3\nayat (2) diberikan Tunjangan Veteran sebesar\nRp 540.000,00 (lima ratus empat puluh ribu rupiah)\nsetiap bulan;\n(3) Kepada . . ."
+                        },
+                        {
+                            "id": "386f6348-427b-4f82-84df-5e7e94e4b12d",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Kepada Veteran yang menderita cacat badan dan/atau\ncacat ingatan sebagaimana dimaksud dalam Pasal 2\nhuruf b dan huruf c diberikan tambahan tunjangan\ncacat sesuai dengan ketentuan yang berlaku bagi\nPurnawirawan Tentara Nasional Indonesia/Kepolisian\nNegara Republik Indonesia yang cacat."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "1b557e1b-2a33-47f2-86a9-7295400f4f02",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "0d1ab5dd-4a7f-41c5-8dbf-fb1230daf0b1",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Tunjangan Janda/Duda Veteran diberikan kepada\nJanda/Duda Veteran Pejuang Kemerdekaan Republik\nIndonesia :\na. Golongan A sebesar Rp. 550.000,00 (lima ratus\nlima puluh ribu rupiah) setiap bulan;\nb. Golongan B sebesar Rp. 524.000,00 (lima ratus dua\npuluh empat ribu rupiah) setiap bulan;\nc. Golongan C sebesar Rp. 500.000,00 (lima ratus ribu\nrupiah) setiap bulan;\nd. Golongan D sebesar Rp. 478.000,00 (empat ratus\ntujuh puluh delapan ribu rupiah) setiap bulan;\ne. Golongan E sebesar Rp. 455.000,00 (empat ratus\nlima puluh lima ribu rupiah) setiap bulan."
+                        },
+                        {
+                            "id": "847d0708-f94a-4e38-aebd-cddfba8a857b",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Tunjangan Janda/Duda Veteran bagi Janda/Duda\nVeteran Pembela Kemerdekaan Republik Indonesia\nadalah sebesar Rp 455.000,00 (empat ratus lima\npuluh lima ribu rupiah ) setiap bulan."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "97ea1652-a1d0-477b-ad2f-b622966981fc",
+                    "name": "Article 5A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "d3e3d7e2-5e82-4cfd-adf4-21288729e9ad",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPemberian Tunjangan sebagaimana dimaksud dalam Pasal\n4 dan Pasal 5 berlaku sejak tanggal 1 Januari 2006."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "06a1d34d-b375-4156-b2bd-8c4cc17ba4a8",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "7f0fcf04-ea8b-4441-aa14-0d00210b6d3b",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "16",
+        "Tahun": "2006",
+        "Tentang": "PERUBAHAN KEDUA ATAS\nPERATURAN PEMERINTAH NOMOR 34 TAHUN 1985\nTENTANG PEMBERIAN TUNJANGAN VETERAN\nKEPADA VETERAN REPUBLIK INDONESIA",
+        "Menimbang": {
+            "Introduction": "\nbahwa besaran Tunjangan Veteran dalam Peraturan\nPemerintah Nomor 34 Tahun 1985 sebagaimana telah diubah\ndengan Peraturan Pemerintah Nomor 34 Tahun 2001, tidak\nsesuai lagi dengan perkembangan keadaan, sehingga perlu\nmengubah besaran Tunjangan Veteran dengan Peraturan\nPemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945",
+            "2": " Undang-Undang Nomor 7 Tahun 1967 tentang Veteran\nRepublik Indonesia (Lembaran Negara Republik Indonesia\nTahun 1967 Nomor 17, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 2826);",
+            "3": " Peraturan Pemerintah Nomor 38 Tahun 1958 tentang\nPendaftaran Penyaringan dan Pengakuan Veteran Pejuang\nKemerdekaan Republik Indonesia (Lembaran Negara\nRepublik Indonesia Tahun 1958 Nomor 65, Tambahan\nLembaran Negara Republik Indonesia Nomor 1609);",
+            "4": " Peraturan Pemerintah Nomor 34 Tahun 1985 tentang\nPemberian Tunjangan Veteran Kepada Veteran Republik\nIndonesia (Lembaran Negara Republik Indonesia Tahun\n1985 Nomor 49) sebagaimana telah diubah dengan\nPeraturan Pemerintah Nomor 34 Tahun 2001 (Lembaran\nNegara Republik Indonesia Tahun 2001 Nomor 57);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN KEDUA\nATAS PERATURAN PEMERINTAH NOMOR 34 TAHUN 1985\nTENTANG PEMBERIAN TUNJANGAN VETERAN KEPADA\nVETERAN REPUBLIK INDONESIA.",
+        "tanggal sah": "20 April 2006"
+    }
+}

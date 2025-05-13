@@ -1,0 +1,191 @@
+{
+    "results": [
+        {
+            "id": "f55a0739-4a3a-4641-a10d-1cde15465db2",
+            "name": "Chapter I",
+            "title": "\nPENYERTAAN MODAL NEGARA",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "17ecfe34-cda3-4496-905e-336d357c5d25",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "237f0863-1680-445c-81bf-f2d8b949d9fa",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nNegara Republik Indonesia melakukan penyertaan modal untuk pendirian Perusahaan Perseroan (PERSERO) dalam bidang usaha perencanaan, perekayasaan, dan konstruksi industri.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "4d5e53b9-6ce8-4bc0-b46c-fa7a03834123",
+            "name": "Chapter II",
+            "title": "\nMAKSUD DAN TUJUAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "e128de9f-5c76-424d-baa6-5df076eca259",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": {
+                        "id": "925a4686-3817-4e96-b274-2712ed232799",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nMaksud dan tujuan PERSERO adalah untuk melakukan kegiatan dalam bidang usaha perencanaan, perekayasaan, dan konstruksi industri dalam menunjang usaha pembangunan industri dalam arti kata seluas-luasnya mencakup kegiatan industri di Departemen-departemen.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "3c5d5010-afa0-4e62-b80b-343b1467bd95",
+            "name": "Chapter III",
+            "title": "\nMODAL PERSERO",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "495f4bab-b869-49bf-89c8-1ca8ef19367a",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f05defe0-2e1b-4292-9e89-f6de17a1277f",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Modal PERSERO adalah kekayaan Negara Republik Indonesia yang dipisahkan.\n\n(2) Penetapan kekayaan sebagaimana dimaksud dalam ayat (1) dan\nnilainya sebagaimana yang akan dipergunakan sebagai penyertaan\nNegara dalam modal saham PERSERO ditetapkan oleh Menteri\nKeuangan berdasarkan hasil perhitungan bersama oleh Departemen\nKeuangan dan Departemen Perindustrian.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "bee631f7-3300-4c92-8de4-178fe8eeb7d0",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Ketentuan-ketentuan lain mengenai permodalan PERSERO diatur\ndalam Anggaran Dasarnya, iermasuk ketentuan mengenai modal\ndasar PERSERO yang terbagi atas saham-saham sesuai dengan\nketentuan Pasal 1 Peraturan Pemerintah Nomor 24 Tahun 1972.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "6f557f19-915d-4e13-a812-dc8d2e534726",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Neraca Pembukaan PERSERO ditetapkan oleh Menteri Keuangan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2e73a843-8c4b-44c6-8da5-d76cfa770448",
+            "name": "Chapter IV",
+            "title": "\nPELAKSANAAN PENDIRIAN PERSERO",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "07406e6f-4c6c-414b-90c4-e062d2cde2cb",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "5afd9aa3-4947-4a09-9638-fcce1142e6ce",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPelaksanaan pendirian PERSERO sebagaimana dimaksud dalam Pasal 1\ndilakukan menurut ketentuan-ketentuan Kitab Undang-undang Hukum\nDagang (Staatsblad Tahun 1847 Nomor 23) sebagaimana telah beberapa\nkali diubah dan ditambah, terakhir dengan Undang-undang Nomor 4 Tahun\n1971 dengan memperhatikan ketentuan-ketentuan yang termaktub dalam\nPeraturan Pemerintah Nomor 12 Tahun 1969 jo Peraturan Pemerintah\nNomor 24 Tahun 1972.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "9d43b0fd-c259-43c6-86f9-152ce7db98ec",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "cb3aa87e-26b3-495f-9020-0cb8d128f310",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Penyelesaian pendirian PERSERO dikuasakan kepada Menteri\nKeuangan, sesuai dengan ketentuan Pasal 3 Peraturan Pemerintah\nNomor 12 Tahun 1969.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "4a3f73b4-ff02-40e8-9c74-352282bcfd7c",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Menteri Keuangan dapat menyerahkan kekuasaan sebagaimana\ndimaksud dalam ayat (1) dengan disertai hak substitusi kepada\nMenteri Perindustrian dengan ketentuan bahwa Rancangan Anggaran\nDasar PERSERO harus mendapat persetujuan terlebih dahulu dari\nMenteri Keuangan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "c79e2599-3016-4e63-98bb-84f6a08e4db6",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Kepada Menteri Perindustrian diberi kekuasaan untuk menunjuk\nseseorang ikut serta mendirikan PERSERO, sesuai dengan ketentuan\nPasal 6 Peraturan Pemerintah Nomor 12 Tahun 1969.\n",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "c4a3bf64-ab35-44ae-8181-0739604d95ae",
+            "name": "Chapter V",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "4838ae36-2dae-4131-a65f-4db5ff684862",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "3b578f6a-ce9d-475b-9ada-1ef17e141a44",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nHal-hal lain yang belum diatur, dalam Peraturan Pemerintah ini akan diatur\ntersendiri.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "ba2072fe-e514-4803-8cfc-938ad49f60f1",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": {
+                        "id": "4b5d71da-01ef-418a-b479-3e81ce5c11f2",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "17",
+        "Tahun": "1981",
+        "Tentang": "PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK\nPENDIRIAN PERUSAHAAN PERSEROAN (PERSERO) DALAM BIDANG\nUSAHA PERENCANAAN, PEREKAYASAAN DAN KONSTRUKSI INDUSTRI",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa dalam rangka pembangunan nasional khususnya dalam bidang\npembangunan industri, perlu dilakukan peningkatan pengetahuan dan\nketrampilan bagi tenaga ahli Indonesia dan perusahaan-perusahaan\nnasional untuk menangani pembangunan industri dalam arti kata seluas-\nluasnya;",
+            "b": " bahwa berhubung dengan hal tersebut pada huruf a serta untuk\nmeningkatkan dayaguna dan hasilguna pembangunan industri, perlu\ndidirikan suatu badan usaha yang berbentuk Perusahaan Perseroan\n(PERSERO) sebagaimana dimaksud dalam Undang-undang Nomor 9\nTahun 1969, yang akan bergerak dalam bidang perencanaan,\nperekayasaan (engineering) dan konstruksi industri;",
+            "c": " bahwa sesuai dengan ketentuan Pasal 2 ayat (1) Peraturan Pemerintah\nNomor 12 Tahun 1969, penyertaan modal Negara Republik Indonesia\ndalam rangka pendirian suatu Perusahaan Perseroan (PERSERO),\nditetapkan dengan Peraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Kitab Undang-undang Hukum Dagang (Staatsblad Tahun 1847 Nomor\n23) sebagaimana telah beberapa kali diubah dan ditambah, terakhir\ndengan Undang-undang Nomor 4 Tahun 1971 tentang Perubahan dan\nPenambahan Atas Ketentuan Pasal 54 Kitab Undang-Undang Hukum\nDagang (Staatsblad Tahun 1847 Nomor 23) (Lembaran Negara Tahun\n1971 Nomor 20, Tambahan Lembaran Negara Nomor 2959);",
+            "3": " Undang-Undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang-undang Nomor 1 Tahun 1969\n(Lembaran Negara Tahun 1969 Nomor 16, Tambahan Lembaran\nNegara Nomor 2890) tentang Bentuk-bentuk Usaha Negara Menjadi\nUndang-undang (Lembaran Negara Tahun 1969 Nomor 40, Tambahan\nLembaran Negara Nomor 2904);",
+            "4": " Peraturan Pemerintah Nomor 12 Tahun 1960 tentang Perusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1969 Nomor 21, Tambahan Lembaran Negara Nomor 2894) jo. Peraturan Pemerintah Nomor 24 Tahun 1972 tentang Perubahan Atas Ketentuan Pasal 7 Peraturan Pemerintah Nomor 12 Tahun 1969 (Lembaran Negara Tahun 1969 Nomor 21, Tambahan Lembaran Negara Nomor 2894) tentang Perusahaan Perseroan (PERSERO) (Lembaran Negara Tahun 1972 Nomor 32, Tambahan Lembaran Negara Nomor 2987);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN PERUSAHAAN PERSEROAN (PERSERO) DALAM BIDANG USAHA PERENCANAAN, PEREKAYASAAN, DAN KONSTRUKSI INDUSTRI",
+        "tanggal sah": "11 Juni 1981"
+    }
+}

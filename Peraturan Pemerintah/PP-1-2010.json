@@ -1,61 +1,61 @@
 {
     "results": [
         {
-            "id": "3d52bd7e-c523-4423-aef3-45569d33b486",
+            "id": "d501d2ad-4c2b-4885-b91c-bd29d6508c2d",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "cdcbbc96-dcb7-4b03-b6e2-aacc1ab77175",
+                    "id": "430fc01e-349f-4fcb-bb67-0ab16e7067f9",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "d4eecf7d-9680-410f-9d4b-9944a8aae9d7",
+                        "id": "df22ca19-c2ef-47ff-996c-934fa15427d2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Gelar adalah penghargaan negara yang diberikan\nPresiden kepada seseorang yang telah gugur atau\nmeninggal dunia atas perjuangan, pengabdian,\ndarmabakti, dan karya yang luar biasa kepada bangsa\ndan negara.\n2. Tanda Jasa adalah penghargaan negara yang diberikan\nPresiden kepada seseorang yang berjasa dan\nberprestasi luar biasa dalam mengembangkan dan\nmemajukan suatu bidang tertentu yang bermanfaat\nbesar bagi bangsa dan negara.\n3. Tanda Kehormatan adalah penghargaan negara yang\ndiberikan Presiden kepada seseorang, kesatuan,\ninstitusi pemerintah, atau organisasi atas darmabakti\ndan kesetiaan yang luar biasa terhadap bangsa dan\nnegara.\n4. Dewan Gelar, Tanda Jasa, dan Tanda Kehormatan yang\nselanjutnya disebut Dewan adalah dewan yang\nbertugas memberikan pertimbangan kepada Presiden\ndalam pemberian Gelar, Tanda Jasa, dan Tanda\nKehormatan.\n5. Presiden adalah Presiden sebagaimana dimaksud dalam\nUndang-Undang Dasar Negara Republik Indonesia\nTahun 1945.\n\n6. Menteri adalah menteri yang menyelenggarakan urusan\npemerintahan di bidang kesekretariatan negara.\n7. Pemerintah Daerah adalah gubernur, bupati, atau\nwalikota, dan perangkat daerah sebagai unsur\npenyelenggara pemerintahan daerah.",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Gelar adalah penghargaan negara yang diberikan\nPresiden kepada seseorang yang telah gugur atau\nmeninggal dunia atas perjuangan, pengabdian,\ndarmabakti, dan karya yang luar biasa kepada bangsa\ndan negara.\n2. Tanda Jasa adalah penghargaan negara yang diberikan\nPresiden kepada seseorang yang berjasa dan\nberprestasi luar biasa dalam mengembangkan dan\nmemajukan suatu bidang tertentu yang bermanfaat\nbesar bagi bangsa dan negara.\n3. Tanda Kehormatan adalah penghargaan negara yang\ndiberikan Presiden kepada seseorang, kesatuan,\ninstitusi pemerintah, atau organisasi atas darmabakti\ndan kesetiaan yang luar biasa terhadap bangsa dan\nnegara.\n4. Dewan Gelar, Tanda Jasa, dan Tanda Kehormatan yang\nselanjutnya disebut Dewan adalah dewan yang\nbertugas memberikan pertimbangan kepada Presiden\ndalam pemberian Gelar, Tanda Jasa, dan Tanda\nKehormatan.\n5. Presiden adalah Presiden sebagaimana dimaksud dalam\nUndang-Undang Dasar Negara Republik Indonesia\nTahun 1945.\n\n6. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang kesekretariatan negara.\n7. Pemerintah Daerah adalah gubernur, bupati, atau walikota, dan perangkat daerah sebagai unsur penyelenggara pemerintahan daerah.",
                         "explanation": "\nCukup jelas."
                     }
                 }
             ]
         },
         {
-            "id": "3bf425da-6188-44c4-acbc-3b615c766682",
+            "id": "acb6cf52-7bcf-478e-b295-783ee140a405",
             "name": "Chapter II",
             "title": "\nKEDUDUKAN, TUGAS, DAN KEWAJIBAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "eab6aa57-bab0-49a7-893a-2a20c4609596",
+                    "id": "cb643b32-2d11-4f76-9fcc-5e5f3164ccf7",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "a03414df-e31b-4930-a50c-258505c44924",
+                            "id": "37b6a00b-66ce-459a-8d09-bd25b0752c5c",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Dewan dibentuk untuk memberikan pertimbangan\nkepada Presiden dalam pemberian Gelar, Tanda Jasa,\ndan Tanda Kehormatan sebagaimana dimaksud dalam\nUndang-Undang tentang Gelar, Tanda Jasa, dan Tanda\nKehormatan.",
+                            "content": " Dewan dibentuk untuk memberikan pertimbangan kepada Presiden dalam pemberian Gelar, Tanda Jasa, dan Tanda Kehormatan sebagaimana dimaksud dalam Undang-Undang tentang Gelar, Tanda Jasa, dan Tanda Kehormatan.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "7114f884-5b06-463d-86fb-ad1924db2e44",
+                            "id": "36046287-b187-4335-9d1e-bdeb0dbc4481",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Dewan berada di bawah dan bertanggung jawab kepada\nPresiden.",
+                            "content": " Dewan berada di bawah dan bertanggung jawab kepada Presiden.",
                             "explanation": "\nCukup jelas."
                         }
                     ]
                 },
                 {
-                    "id": "d513091d-af5d-4342-9e98-bee27147a8ed",
+                    "id": "2792709c-0c28-4015-b495-9fa33d7297f4",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "78307fff-2053-4914-a95f-ad2a0c22d4ff",
+                        "id": "36ce132e-9286-4f13-acca-4731513e9216",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -64,34 +64,34 @@
                     }
                 },
                 {
-                    "id": "80da5532-d5a6-4009-9d5a-c5baa225aaeb",
+                    "id": "db03ed6b-7828-4360-b48b-fa8fa138ea3c",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5a50f633-358f-4b4e-9561-751a2bde76cd",
+                            "id": "0b6039c8-5f3d-4af3-90e9-b88ea01126f3",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Tugas dan kewajiban Dewan meliputi:\nA. meneliti, membahas, dan memverifikasi usulan,\nserta memberikan pertimbangan mengenai\npemberian Gelar;\nB. meneliti . . .\nb. meneliti, membahas, dan memverifikasi usulan,\nserta memberikan pertimbangan mengenai\npemberian dan pencabutan Tanda Jasa dan Tanda\nKehormatan;\nc. merencanakan dan menetapkan kebijakan\nmengenai pembinaan kepahlawanan.",
+                            "content": " Tugas dan kewajiban Dewan meliputi:\na. meneliti, membahas, dan memverifikasi usulan, serta memberikan pertimbangan mengenai pemberian Gelar;\nb. meneliti . . .\nb. meneliti, membahas, dan memverifikasi usulan,\nserta memberikan pertimbangan mengenai\npemberian dan pencabutan Tanda Jasa dan Tanda\nKehormatan;\nc. merencanakan dan menetapkan kebijakan\nmengenai pembinaan kepahlawanan.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "38dd5614-d6b3-400e-b21f-4eac4dcae28f",
+                            "id": "72cd16bd-a9c1-4e4e-a510-58eacd52e198",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dalam melaksanakan tugas dan kewajibannya\nsebagaimana dimaksud pada ayat (1), Dewan\nberkoordinasi dengan kementerian/lembaga\npemerintah nonkementerian terkait.",
-                            "explanation": "\nYang dimaksud dengan “kementerian/lembaga pemerintah\nnonkementerian terkait” antara lain kementerian yang menangani\nurusan sosial apabila pengajuan usul berkaitan dengan gelar,\nkementerian yang menangani urusan pemuda dan olah raga\napabila pengajuan usul berkaitan dengan pemberian tanda jasa\natau tanda kehormatan di bidang olah raga, kementerian yang\nmenangani urusan pendidikan apabila pengajuan usul berkaitan\ndengan pemberian tanda jasa atau tanda kehormatan di bidang\npendidikan."
+                            "explanation": "\nYang dimaksud dengan \"kementerian/lembaga pemerintah\nnonkementerian terkait” antara lain kementerian yang menangani\nurusan sosial apabila pengajuan usul berkaitan dengan gelar,\nkementerian yang menangani urusan pemuda dan olah raga\napabila pengajuan usul berkaitan dengan pemberian tanda jasa\natau tanda kehormatan di bidang olah raga, kementerian yang\nmenangani urusan pendidikan apabila pengajuan usul berkaitan\ndengan pemberian tanda jasa atau tanda kehormatan di bidang\npendidikan."
                         }
                     ]
                 },
                 {
-                    "id": "32c2841a-d119-4029-b2d2-feef4d62d8be",
+                    "id": "17725c44-5514-4c79-a79a-6a10dc1a96d7",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "32ae8181-c74c-4f47-84eb-04fb6676a820",
+                        "id": "a6a5d156-f500-42ea-889f-c26856a6261d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -100,30 +100,30 @@
                     }
                 },
                 {
-                    "id": "914ff615-1f84-4488-ae86-64b22cd03801",
+                    "id": "a879fd1a-2581-4ac5-a876-71603a1baaf2",
                     "name": "Article 6",
                     "type": "article",
                     "children": [
                         {
-                            "id": "9e19badf-0634-4615-83f7-4b34e83cbc39",
+                            "id": "98f68c3a-78fb-47fa-ad9c-498f1ae14abf",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pelaksanaan tugas Dewan di daerah diselenggarakan\noleh Pemerintah Daerah sebagai tugas pembantuan.",
                             "explanation": "\nYang dimaksud dengan “tugas pembantuan” adalah penugasan\ndari Pemerintah kepada pemerintah provinsi dan/atau pemerintah\nkabupaten/kota untuk melaksanakan tugas tertentu."
                         },
                         {
-                            "id": "4986d6e1-b331-4d29-9592-8fa447e02c48",
+                            "id": "60a284a7-429f-4d91-826c-80e82fedb160",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Tugas pembantuan sebagaimana dimaksud pada\nayat (1), meliputi:\na. menerima dan mengajukan usulan pemberian\nGelar;\nb. menerima dan mengajukan usulan pemberian dan\npencabutan Tanda Jasa dan Tanda Kehormatan;\n\nC.\nmelaksanakan dan membina kepahlawanan di\ndaerah; dan\nd. mengelola dan memelihara taman makam\npahlawan nasional di daerah.",
-                            "explanation": "\nCukup jelas.\n"
+                            "content": " Tugas pembantuan sebagaimana dimaksud pada\nayat (1), meliputi:\na. menerima dan mengajukan usulan pemberian\nGelar;\nb. menerima dan mengajukan usulan pemberian dan\npencabutan Tanda Jasa dan Tanda Kehormatan;\nc. melaksanakan..\nC. melaksanakan dan membina kepahlawanan di\ndaerah; dan\nd. mengelola dan memelihara taman makam\npahlawan nasional di daerah.",
+                            "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "de524b48-6a83-40d5-82ae-5a6d8c772429",
+                            "id": "735428cb-2b79-42d6-9137-89a59a61b1dc",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Tugas pembantuan sebagaimana dimaksud pada\nayat (2) dilaksanakan sesuai dengan ketentuan\nperaturan perundang-undangan.",
                             "explanation": "\nYang dimaksud dengan “ketentuan peraturan perundang-undangan” antara lain Peraturan Pemerintah Nomor 7 Tahun 2008 tentang Dekonsentrasi dan Tugas Pembantuan."
@@ -133,154 +133,146 @@
             ]
         },
         {
-            "id": "d77bb9e4-fbda-467c-825b-74eb18e708ed",
+            "id": "f32c9781-53ad-421e-a8ee-2544b3771e45",
             "name": "Chapter III",
             "title": "\nSUSUNAN DAN KEANGGOTAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "af7db292-ef24-4a1b-a9ec-e24dfac495d5",
+                    "id": "c3494768-b1d7-4273-909a-fdbf078d130b",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "5eea5de3-b28d-4733-9d61-1aca3bc87464",
+                        "id": "2dbc03bd-a03a-44c0-9d90-fae907fb37bd",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDewan terdiri atas:\na. 1 (satu) orang ketua merangkap anggota;\nb. 1 (satu) orang wakil ketua merangkap anggota; dan\nc. 5 (lima) orang anggota.",
+                        "content": "\nDewan terdiri atas:\na. 1 (satu) orang ketua merangkap anggota;\nb. 1 (satu) orang wakil ketua merangkap anggota; dan\nC. 5 (lima) orang anggota.",
                         "explanation": "\nCukup jelas."
                     }
                 },
                 {
-                    "id": "3e30be6f-08da-4d61-9cf6-4065510eaf3b",
+                    "id": "96baa6c7-d782-431c-92a3-2a7757fdd185",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5f4afbc7-18df-4fea-95df-b2eae9b3788c",
+                            "id": "c2bbe81e-6643-4916-969e-c690f2c35e55",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Dewan terdiri dari unsur:\na. akademisi sebanyak 2 (dua) orang;\nb. militer dan/atau berlatar belakang militer\nsebanyak 2 (dua) orang; dan\nc. tokoh masyarakat yang pernah mendapatkan\nTanda Jasa dan/atau Tanda Kehormatan\nsebanyak 3 (tiga) orang.",
+                            "content": " Dewan terdiri dari unsur:\na. akademisi sebanyak 2 (dua) orang;\nb. militer dan/atau berlatar belakang militer\nsebanyak 2 (dua) orang; dan\nC. tokoh masyarakat yang pernah mendapatkan\nTanda Jasa dan/atau Tanda Kehormatan\nsebanyak 3 (tiga) orang.",
                             "explanation": "\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nYang dimaksud dengan “tokoh masyarakat” adalah seseorang yang telah memiliki Tanda Jasa dan/atau Tanda Kehormatan berupa bintang Republik Indonesia atau bintang mahaputera."
                         },
                         {
-                            "id": "fb2a9678-73f9-4063-8e4d-2be6753abc70",
+                            "id": "03bee949-dd91-4236-9583-300229f957c9",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Calon anggota Dewan diusulkan oleh Menteri kepada\nPresiden.",
+                            "content": " Calon anggota Dewan diusulkan oleh Menteri kepada Presiden.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "bef9dabe-0091-4a71-b854-4a81c235d684",
+                            "id": "f4199f2d-0ea6-4680-b61c-d089ea2b5d4a",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Ketua, wakil ketua, dan anggota Dewan diangkat dan\ndiberhentikan oleh Presiden.",
+                            "content": " Ketua, wakil ketua, dan anggota Dewan diangkat dan diberhentikan oleh Presiden.",
                             "explanation": "\nCukup jelas."
                         }
                     ]
                 },
                 {
-                    "id": "a6ed9ff7-bb38-497b-bcc7-34c2b56f6d06",
+                    "id": "6f844eb7-919b-400d-b9e0-55c7d5cf9b7c",
                     "name": "Article 9",
                     "type": "article",
                     "children": {
-                        "id": "73baad21-efe4-4fe3-a800-701d118c83b6",
+                        "id": "4c3bb44b-78fe-4cd5-8351-bffdf8e37c8a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nMasa jabatan ketua, wakil ketua, dan anggota Dewan\nadalah 5 (lima) tahun dan dapat diusulkan untuk diangkat\nkembali untuk 1 (satu) kali masa jabatan.",
+                        "content": "\nMasa jabatan ketua, wakil ketua, dan anggota Dewan adalah 5 (lima) tahun dan dapat diusulkan untuk diangkat kembali untuk 1 (satu) kali masa jabatan.",
                         "explanation": "\nCukup jelas."
                     }
                 },
                 {
-                    "id": "56f0e61c-5ad8-4069-b7dc-c25e0b08050c",
+                    "id": "40f89d41-208b-4cb4-8a91-2aeaf3a8f330",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "69234330-3310-4626-b408-dc2680435b5b",
+                        "id": "5dc2dd38-c122-4bf9-b2e8-3d2417b1e165",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nUntuk dapat diangkat menjadi ketua, wakil ketua, dan\nanggota Dewan, seseorang harus memenuhi syarat sebagai\nberikut:\na. warga negara Indonesia;\nb. sehat jasmani dan rohani;\nc. memiliki integritas moral dan keteladanan;\nd. berkelakuan baik;\ne. tidak pernah dipidana penjara berdasarkan putusan\npengadilan yang telah memperoleh kekuatan hukum\ntetap karena melakukan tindak pidana yang diancam\ndengan pidana penjara paling singkat 5 (lima) tahun;\nf. berusia paling rendah 45 (empat puluh lima) tahun;\ng. berpendidikan paling rendah S1(strata satu); dan\nh. mempunyai pengetahuan dan pemahaman tentang\nGelar, Tanda Jasa, dan Tanda Kehormatan.\nPasal 11 . . .",
+                        "content": "\nUntuk dapat diangkat menjadi ketua, wakil ketua, dan anggota Dewan, seseorang harus memenuhi syarat sebagai berikut:\na. warga negara Indonesia;\nb. sehat jasmani dan rohani;\nc. memiliki integritas moral dan keteladanan;\nd. berkelakuan baik;\ne. tidak pernah dipidana penjara berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap karena melakukan tindak pidana yang diancam dengan pidana penjara paling singkat 5 (lima) tahun;\nf. berusia paling rendah 45 (empat puluh lima) tahun;\ng. berpendidikan paling rendah S1(strata satu); dan\nh. mempunyai pengetahuan dan pemahaman tentang Gelar, Tanda Jasa, dan Tanda Kehormatan.\nPasal 11 . . .",
                         "explanation": "\nCukup jelas."
                     }
                 },
                 {
-                    "id": "9b540ef1-4e2d-4f6a-a3ac-99ef8edd6cf3",
+                    "id": "123f1941-bc3f-4d1e-9d93-b1a273ecbcdc",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "687805b8-a6cf-42c8-801a-18490d1eae82",
+                            "id": "a5a7b5dd-6d91-40df-916c-62c7f3131929",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Ketua, wakil ketua, dan anggota Dewan berhenti\nsebelum masa jabatannya berakhir karena:\na. meninggal dunia;\nb. mengundurkan diri atas permintaan sendiri secara\ntertulis; atau\nc. diberhentikan.",
+                            "content": " Ketua, wakil ketua, dan anggota Dewan berhenti sebelum masa jabatannya berakhir karena:\na. meninggal dunia;\nb. mengundurkan diri atas permintaan sendiri secara tertulis; atau\nc. diberhentikan.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "f8292eee-5ccc-428c-b14e-d8192a3f3564",
+                            "id": "ccf6c78c-7e54-41f5-9d78-ab2e177ee064",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Ketua, wakil ketua, dan anggota Dewan diberhentikan\nsebagaimana dimaksud pada ayat (1) huruf c karena:\na. tidak dapat melaksanakan tugas karena\nberhalangan tetap; atau\nb. dipidana penjara berdasarkan putusan pengadilan\nyang telah memperoleh kekuatan hukum tetap\nkarena melakukan tindak pidana yang diancam\ndengan pidana penjara paling singkat 5 (lima)\ntahun.",
+                            "content": " Ketua, wakil ketua, dan anggota Dewan diberhentikan sebagaimana dimaksud pada ayat (1) huruf c karena:\na. tidak dapat melaksanakan tugas karena berhalangan tetap; atau\nb. dipidana penjara berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap karena melakukan tindak pidana yang diancam dengan pidana penjara paling singkat 5 (lima) tahun.",
                             "explanation": "\nCukup jelas."
                         }
                     ]
                 },
                 {
-                    "id": "3830872f-1a5c-4f2a-abe2-a981f67e7a81",
+                    "id": "5bc7301e-5837-4a4a-863c-19cf4f30b1b3",
                     "name": "Article 12",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bece0a08-e299-436c-bf46-bffbf7fd20ff",
+                            "id": "29f1b1be-fc2d-4d2f-9ed7-4cd282ee3238",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Dalam hal anggota Dewan berhenti sebelum masa\njabatannya berakhir sebagaimana dimaksud dalam\nPasal 11, Menteri mengajukan usul penggantian\nanggota Dewan kepada Presiden",
+                            "content": " Dalam hal anggota Dewan berhenti sebelum masa jabatannya berakhir sebagaimana dimaksud dalam Pasal 11, Menteri mengajukan usul penggantian anggota Dewan kepada Presiden\n(2) Penggantian anggota Dewan sebagaimana dimaksud pada ayat (1) harus memenuhi ketentuan Pasal 8 ayat (1) dan Pasal 10 Peraturan Pemerintah ini.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "b8a1979b-74f7-4ba5-bac0-b5087e8640b1",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": " Penggantian anggota Dewan sebagaimana dimaksud\npada ayat (1) harus memenuhi ketentuan Pasal 8\nayat (1) dan Pasal 10 Peraturan Pemerintah ini.",
-                            "explanation": "\nCukup jelas."
-                        },
-                        {
-                            "id": "617195f7-7422-4954-b199-b1fdbba6f96e",
+                            "id": "46bbefa0-30c0-47d6-a542-cede3ca105f0",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Masa jabatan anggota Dewan pengganti adalah sisa\nmasa jabatan anggota Dewan yang digantikannya.",
+                            "content": " Masa jabatan anggota Dewan pengganti adalah sisa masa jabatan anggota Dewan yang digantikannya.\n",
                             "explanation": "\nCukup jelas."
                         }
                     ]
                 },
                 {
-                    "id": "441ec4c7-7c99-469f-9c08-efee9d4dc0c9",
+                    "id": "cc37f9cd-8b71-4267-8c7c-27a157c02bbf",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "33ab48b5-3e33-4241-896e-2719b11044e7",
+                            "id": "9c6202ef-2a36-4ce0-a518-bb1d07fae595",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Hak keuangan ketua, wakil ketua, dan anggota Dewan\ndiatur dengan Peraturan Presiden.",
+                            "content": " Hak keuangan ketua, wakil ketua, dan anggota Dewan diatur dengan Peraturan Presiden.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "26ad40ab-e9a6-4d24-ba7b-64f4cf9243fa",
+                            "id": "15be556c-2ffc-4023-a5b4-d058091ded20",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Ketua, wakil ketua, dan anggota Dewan apabila\nberhenti atau telah berakhir masa jabatannya tidak\ndiberikan pensiun dan/atau pesangon.",
+                            "content": " Ketua, wakil ketua, dan anggota Dewan apabila berhenti atau telah berakhir masa jabatannya tidak diberikan pensiun dan/atau pesangon.",
                             "explanation": "\nCukup jelas."
                         }
                     ]
@@ -288,64 +280,64 @@
             ]
         },
         {
-            "id": "bbe0e6a3-0809-41ee-8fde-2e5807969232",
+            "id": "485f1df2-cb00-414b-a182-1cc8f5871b30",
             "name": "Chapter IV",
             "title": "\nSEKRETARIAT",
             "type": "chapter",
             "children": [
                 {
-                    "id": "0dcf9c6a-27df-4b97-824e-bdef3a50693e",
+                    "id": "2a8090d9-e981-4cd0-85bc-4bf7c2034948",
                     "name": "Article 14",
                     "type": "article",
                     "children": [
                         {
-                            "id": "7ba5f477-5f23-4d57-8ef3-0843471be8aa",
+                            "id": "1e41c916-16cf-401c-ba92-8095deb7f4a2",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Dalam melaksanakan tugasnya, Dewan dibantu oleh\nsekretariat.",
+                            "content": " Dalam melaksanakan tugasnya, Dewan dibantu oleh sekretariat.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "7bc06083-6c0f-4333-8c3a-49ab884a5f44",
+                            "id": "495228ed-f007-4817-a800-bd334556cab9",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Sekretariat Dewan dilaksanakan oleh salah satu unit\nkerja di lingkungan kementerian yang menangani\nurusan kesekretariatan negara.",
-                            "explanation": "\nYang dimaksud “unit kerja” adalah unit kerja yang menangani\natau membidangi urusan pemberian Gelar, Tanda Jasa, dan\nTanda Kehormatan."
+                            "content": " Sekretariat Dewan dilaksanakan oleh salah satu unit kerja di lingkungan kementerian yang menangani urusan kesekretariatan negara.",
+                            "explanation": "\nYang dimaksud \"unit kerja\" adalah unit kerja yang menangani\natau membidangi urusan pemberian Gelar, Tanda Jasa, dan\nTanda Kehormatan."
                         },
                         {
-                            "id": "15ecb5d7-e4e4-40d6-a4c0-a572ed645a1d",
+                            "id": "6ce41558-4efc-45f7-affd-80f31f7b42e4",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Sekretariat Dewan mempunyai tugas memberikan\ndukungan teknis, operasional, dan administrasi kepada\nDewan.",
+                            "content": " Sekretariat Dewan mempunyai tugas memberikan dukungan teknis, operasional, dan administrasi kepada Dewan.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "883a1ca7-016b-4b84-ab28-735bc85ba575",
+                            "id": "64186668-d489-4fd5-9e65-ba38d3b47ab5",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
-                            "content": " Sekretariat Dewan dipimpin oleh seorang sekretaris\ndari unsur pegawai negeri, berada di bawah dan\nbertanggung jawab kepada Dewan dan secara\nadministratif dikoordinasikan oleh Menteri.",
+                            "content": " Sekretariat Dewan dipimpin oleh seorang sekretaris dari unsur pegawai negeri, berada di bawah dan bertanggung jawab kepada Dewan dan secara administratif dikoordinasikan oleh Menteri.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "23623235-8a22-4394-b9a2-8a844ad094bd",
+                            "id": "f0ac1aa0-4657-4486-984f-e0b66f8cc0b1",
                             "name": "Verse 5",
-                            "number": "(5)",
+                            "number": "5",
                             "type": "verse",
-                            "content": " Sekretaris Dewan secara *ex officio* dijabat oleh salah\nseorang pimpinan unit kerja terkait pada kementerian\nyang menangani urusan kesekretariatan negara.",
+                            "content": " Sekretaris Dewan secara *ex officio* dijabat oleh salah seorang pimpinan unit kerja terkait pada kementerian yang menangani urusan kesekretariatan negara.",
                             "explanation": "\nCukup jelas."
                         }
                     ]
                 },
                 {
-                    "id": "d42a4451-b18a-4dbe-97a1-0ab7104d8449",
+                    "id": "8fff59ad-6334-4341-b0f8-35de5fbcea89",
                     "name": "Article 15",
                     "type": "article",
                     "children": {
-                        "id": "6353944c-c65a-4c4f-bace-bceb3281c148",
+                        "id": "3b764a12-6af1-4983-abd0-4f0f8987840f",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -354,11 +346,11 @@
                     }
                 },
                 {
-                    "id": "20abe7e5-aac7-42d3-a66c-ace3e93c7087",
+                    "id": "261c830d-8357-4cbe-b68a-714fbe71e13d",
                     "name": "Article 16",
                     "type": "article",
                     "children": {
-                        "id": "d34dbf81-f8b1-427b-9f9a-cb3068ca7cd6",
+                        "id": "65797288-f72f-478e-ab44-f4b229f32792",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -369,48 +361,48 @@
             ]
         },
         {
-            "id": "bd65bc1e-bad4-4022-94ba-3fc4e6deb078",
+            "id": "164c121f-2b30-48de-8882-1d2973589a9b",
             "name": "Chapter V",
             "title": "\nTATA KERJA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "4d494f56-8af2-461a-b0a3-2251f9e81503",
+                    "id": "a98338a9-5444-4eab-a581-a522ddd7d0b5",
                     "name": "Article 17",
                     "type": "article",
                     "children": [
                         {
-                            "id": "5ce3850d-1acd-4c8f-92fc-d6135646fa14",
+                            "id": "1af43397-63a1-4207-9808-9477f41571df",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dalam rangka pemberian pertimbangan kepada\nPresiden atas usul pemberian Gelar, Tanda Jasa, dan\nTanda Kehormatan, Dewan mengadakan sidang yang\ndipimpin oleh ketua Dewan.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "4069bb98-5bd2-42c5-87c8-fca7fc056564",
+                            "id": "b17d7911-f63a-46d5-ad40-9e51a1c73440",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Dalam hal ketua Dewan berhalangan, sidang\nsebagaimana dimaksud pada ayat (1) dipimpin oleh\nwakil ketua Dewan.",
                             "explanation": "\nCukup jelas."
                         },
                         {
-                            "id": "24f8ab22-3fc8-4788-8de2-acf9bb40a532",
+                            "id": "b574de78-9b68-46c7-81d2-b3ad64c6c142",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Risalah sidang sebagaimana dimaksud pada ayat (1)\ndan ayat (2) disampaikan kepada Presiden sebagai\nbahan pertimbangan pemberian Gelar, Tanda Jasa, dan\nTanda Kehormatan.\n",
+                            "content": " Risalah sidang sebagaimana dimaksud pada ayat (1)\ndan ayat (2) disampaikan kepada Presiden sebagai\nbahan pertimbangan pemberian Gelar, Tanda Jasa, dan\nTanda Kehormatan.\n\n- 10 -",
                             "explanation": "\nCukup jelas."
                         }
                     ]
                 },
                 {
-                    "id": "36f2e36f-e296-472e-b857-b54ef5ecb4dd",
+                    "id": "dae2cef9-d8c9-47d3-aa68-5480a06376b4",
                     "name": "Article 18",
                     "type": "article",
                     "children": {
-                        "id": "2afacec4-68ba-434a-ae19-cfb91713fcde",
+                        "id": "bc402670-a6be-477e-b5c1-5bbdc8fe3e5c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -419,11 +411,11 @@
                     }
                 },
                 {
-                    "id": "ca893ff5-eaf8-4ae9-8f92-28a416fffded",
+                    "id": "981a7b71-2427-4557-a130-fcc36482d3ce",
                     "name": "Article 19",
                     "type": "article",
                     "children": {
-                        "id": "8263644b-e8c0-4668-ab69-55588b81e721",
+                        "id": "49c357b6-b2e1-40b4-890d-ad683c1cebe2",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -434,17 +426,17 @@
             ]
         },
         {
-            "id": "ef2b07fb-5ec2-4cfd-b119-28aba6c21eb5",
+            "id": "c95d7289-4c39-4819-90f0-a32d80b74c79",
             "name": "Chapter VI",
             "title": "\nPENDANAAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "2ddcfe10-dbe6-404b-b396-b7b8f4d190da",
+                    "id": "d698076a-3c5c-4fbf-9262-2bb4d50ec686",
                     "name": "Article 20",
                     "type": "article",
                     "children": {
-                        "id": "27fbb034-3e94-474b-8b3d-9cd1bcf8c2f3",
+                        "id": "aee40d48-e74d-4eb4-8ba8-e300c133e7b5",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -455,17 +447,17 @@
             ]
         },
         {
-            "id": "46e00c7e-99dc-439d-8baa-33073e15f95b",
+            "id": "8c156878-bbd3-4e39-b1a1-b11ae018476a",
             "name": "Chapter VII",
             "title": "\nKETENTUAN PENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8bdd019b-cbfe-4640-ba8f-0ed72f68e787",
+                    "id": "7ccf3618-75cc-4294-93bf-fbd265385b24",
                     "name": "Article 21",
                     "type": "article",
                     "children": {
-                        "id": "6500ccbb-093d-4369-aa53-276a62ecbfee",
+                        "id": "7da2d6eb-d1eb-47be-9002-c5e00a106634",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -477,7 +469,7 @@
         }
     ],
     "metadata": {
-        "Umum": "\nUndang-Undang tentang Gelar, Tanda Jasa, dan Tanda Kehormatan merupakan landasan bagi setiap warga negara untuk memperoleh penghormatan dan penghargaan dari negara atas jasa dan prestasinya dalam membangun Negara Kesatuan Republik Indonesia.\nBentuk penghormatan dan penghargaan tersebut diwujudkan dengan pemberian Gelar, Tanda Jasa, dan Tanda Kehormatan oleh Presiden. Dalam rangka pemberian Gelar, Tanda Jasa, dan Tanda Kehormatan tersebut, Presiden dibantu oleh sebuah Dewan yang bertugas memberikan pertimbangan kepada Presiden terhadap permohonan usul yang diajukan oleh perseorangan, lembaga negara, kementerian, lembaga pemerintah nonkementerian, Pemerintah Daerah, organisasi atau kelompok masyarakat.\nUndang-Undang Nomor 20 Tahun 2009 tentang Gelar, Tanda Jasa, dan Tanda Kehormatan mengamanatkan untuk diatur lebih lanjut mengenai Dewan Gelar, Tanda Jasa, dan Tanda Kehormatan dalam Peraturan Pemerintah.\nOleh karena itu, Peraturan Pemerintah ini mengatur mengenai kedudukan, tugas dan kewajiban, susunan dan keanggotaan Dewan Gelar, Tanda Jasa, dan Tanda Kehormatan, hak keuangan, sekretariat, tata kerja, dan pendanaan.\nII. PASAL",
+        "Umum": "\nUndang-Undang tentang Gelar, Tanda Jasa, dan Tanda\nKehormatan merupakan landasan bagi setiap warga negara untuk\nmemperoleh penghormatan dan penghargaan dari negara atas jasa dan\nprestasinya dalam membangun Negara Kesatuan Republik Indonesia.\nBentuk penghormatan dan penghargaan tersebut diwujudkan\ndengan pemberian Gelar, Tanda Jasa, dan Tanda Kehormatan oleh\nPresiden. Dalam rangka pemberian Gelar, Tanda Jasa, dan Tanda\nKehormatan tersebut, Presiden dibantu oleh sebuah Dewan yang\nbertugas memberikan pertimbangan kepada Presiden terhadap\npermohonan usul yang diajukan oleh perseorangan, lembaga negara,\nkementerian, lembaga pemerintah nonkementerian, Pemerintah Daerah,\norganisasi atau kelompok masyarakat.\nUndang-Undang Nomor 20 Tahun 2009 tentang Gelar, Tanda\nJasa, dan Tanda Kehormatan mengamanatkan untuk diatur lebih lanjut\nmengenai Dewan Gelar, Tanda Jasa, dan Tanda Kehormatan dalam\nPeraturan Pemerintah.\nOleh karena itu, Peraturan Pemerintah ini mengatur mengenai\nkedudukan, tugas dan kewajiban, susunan dan keanggotaan Dewan\nGelar, Tanda Jasa, dan Tanda Kehormatan, hak keuangan, sekretariat,\ntata kerja, dan pendanaan.\nII. PASAL",
         "Nomor": "1",
         "Tahun": "2010",
         "Tentang": "DEWAN GELAR, TANDA JASA, DAN TANDA KEHORMATAN",

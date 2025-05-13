@@ -1,0 +1,84 @@
+{
+    "results": [
+        {
+            "id": "2ca88cfb-5138-4c33-a539-9fc78eb6c46a",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "17adef1e-4ece-4764-9ee3-e4d62d1f30b7",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Penghasilan berupa bunga simpanan yang dibayarkan oleh koperasi yang didirikan di Indonesia kepada anggota koperasi orang pribadi dikenai Pajak Penghasilan yang bersifat final.",
+                "explanation": "\nYang dimaksud dengan \"penghasilan berupa bunga simpanan\"\nadalah imbalan berupa bunga simpanan yang diterima anggota\nkoperasi orang pribadi dari dana yang disimpan anggota koperasi\norang pribadi pada koperasi tempat orang pribadi tersebut\nmenjadi anggota.\n\nTidak termasuk dalam pengertian ini adalah bunga simpanan\nyang diterima anggota koperasi orang pribadi yang merupakan\nbagian dari sisa hasil usaha."
+            }
+        },
+        {
+            "id": "b9f3ce08-7c8a-4e9a-bb32-ae93183a152d",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "052d8343-83d9-46bb-be74-65a89e3268f8",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Besarnya Pajak Penghasilan sebagaimana dimaksud dalam Pasal 1 adalah:\na. 0% (nol persen) untuk penghasilan berupa bunga simpanan sampai dengan Rp240.000,00 (dua ratus empat puluh ribu rupiah) per bulan; atau\nb. 10% (sepuluh persen) dari jumlah bruto bunga untuk penghasilan berupa bunga simpanan lebih dari Rp240.000,00 (dua ratus empat puluh ribu rupiah) per bulan.",
+                "explanation": "\nContoh perhitungan Pajak Penghasilan atas bunga simpanan:\n1. Bunga dibayarkan pada bulan Februari Rp240.000,00 untuk\nmasa Januari, maka PPh terutang 0% x Rp240.000,00 = Rp0,00\n2. Bunga dibayarkan pada bulan Februari Rp245.000,00 untuk\nmasa Januari, maka PPh terutang 10% x Rp245.000,00 =\nRp24.500,00\n3. Bunga dibayarkan pada bulan April sebesar Rp500.000,00\ndengan rincian:\nBulan Januari Rp.250.000,00\nBulan Februari Rp150.000,00\nBulan Maret Rp100.000,00\nMaka yang dikenakan PPh 10% adalah bunga bulan Januari\nsebesar 10% x Rp250.000,00 = Rp25.000,00 dan untuk bulan\nFebruari dan Maret Rp0,00"
+            }
+        },
+        {
+            "id": "5e9e163f-8349-48eb-b0bc-9428e86d4ac8",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "6782b625-6bbd-4222-a516-e94458439a3a",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Koperasi yang melakukan pembayaran bunga simpanan kepada anggota koperasi orang pribadi, wajib memotong Pajak Penghasilan yang bersifat final sebagaimana dimaksud dalam Pasal 1 pada saat pembayaran.",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "42a04bb4-a464-476e-85bb-38350d5d3a36",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "876cdd6b-df9e-46b5-8799-47a6f13bd2a2",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Ketentuan lebih lanjut mengenai tata cara pemotongan, penyetoran, dan pelaporan Pajak Penghasilan atas bunga simpanan yang dibayarkan oleh koperasi kepada anggota koperasi orang pribadi diatur dengan atau berdasarkan Peraturan Menteri Keuangan.",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "e69dbac1-e105-4220-b73a-c11a9fe7d1d2",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "1a4279a2-4ce5-4298-8633-178c217b3337",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari 2009.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "explanation": "\nCukup jelas.\n"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "15",
+        "Tahun": "2009",
+        "Tentang": "PAJAK PENGHASILAN ATAS BUNGA SIMPANAN YANG DIBAYARKAN OLEH\nKOPERASI KEPADA ANGGOTA KOPERASI ORANG PRIBADI",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk melaksanakan ketentuan Pasal 4 ayat (2)\nhuruf a dan Pasal 17 ayat (7) Undang-Undang Nomor 36\nTahun 2008 tentang Perubahan Keempat atas Undang-\nUndang Nomor 7 Tahun 1983 tentang Pajak Penghasilan\nmengenai pengenaan Pajak Penghasilan atas bunga\nsimpanan yang dibayarkan oleh koperasi kepada anggota\nkoperasi orang pribadi, perlu menetapkan Peraturan\nPemerintah tentang Pajak Penghasilan atas Bunga\nSimpanan yang Dibayarkan oleh Koperasi kepada Anggota\nKoperasi Orang Pribadi;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 7 Tahun 1983 tentang Pajak\nPenghasilan (Lembaran Negara Republik Indonesia\nTahun 1983 Nomor 50, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 3263) sebagaimana telah\nbeberapa kali diubah terakhir dengan Undang-Undang\nNomor 36 Tahun 2008 tentang Perubahan Keempat\natas Undang-Undang Nomor 7 Tahun 1983 tentang\nPajak Penghasilan (Lembaran Negara Republik\nIndonesia Tahun 2008 Nomor 133, Tambahan\nLembaran Negara Republik Indonesia Nomor 4893);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PAJAK\nPENGHASILAN ATAS BUNGA SIMPANAN YANG\nDIBAYARKAN OLEH KOPERASI KEPADA ANGGOTA\nKOPERASI ORANG PRIBADI.",
+        "tanggal sah": "1 Januari 2009"
+    }
+}

@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "53b2a24d-3c39-4ee7-859b-64cb922a5623",
+            "id": "25540938-3613-4862-a1eb-adf392500226",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "915bad7f-90a8-4457-93d5-7e99e17c7d02",
+                "id": "036a4abd-9461-4f73-99e7-3ae9315d1fbf",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "275ab783-a2ef-4172-ad53-cabceafc7aa7",
+            "id": "481c3b27-942c-48bd-9678-bffa43995b34",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "324df217-5bf1-4a89-8dda-f8972c4060fd",
+                "id": "feee722f-a000-43e3-a838-baa5121b2db2",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "bddaed75-915d-4c48-b28e-2761551eab7a",
+            "id": "1a95b015-b7b9-4f05-9881-d3cb9123a2a4",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "e52e6bcc-026b-4d0f-b271-a721560ef4de",
+                "id": "c5c42b01-e1b1-49f7-b821-002a37adf734",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,11 +40,11 @@
             }
         },
         {
-            "id": "6dbc983b-ea11-43f5-a254-95b0c0b9b788",
+            "id": "e1cbbf8e-cf8f-461a-ba2f-54b6504c4b3b",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "bcf8af7d-1b8c-47bd-b2db-06f57438e2dc",
+                "id": "0e02675d-71e7-4bca-9b86-090e991083f6",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -53,11 +53,11 @@
             }
         },
         {
-            "id": "62036087-41d4-4bc1-b515-fc508f5fbdcb",
+            "id": "2c46d5a6-77b9-499c-8398-388498db4801",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "c3bca382-2765-4239-a2d9-a6301b448b94",
+                "id": "1a90517e-ce43-4310-bb77-4318598f711e",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "9ac018d3-c22f-41d2-b5a2-5530002157a7",
+            "id": "143d6310-5f29-45b2-8472-bf874a11ee24",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "ba156d99-772c-4e3a-8560-4124dd93d800",
+                "id": "c67ba053-8857-4197-aea4-77db01899137",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -79,11 +79,11 @@
             }
         },
         {
-            "id": "4b6e93ad-4f24-44e7-9c3a-bd03ba7c7bfa",
+            "id": "c70ca254-b6b3-4c59-9b37-d47f13833c9b",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "f669c7e3-c3aa-4797-978b-8c74ca1a6113",
+                "id": "9801a86b-3897-4c47-b0cf-69b87e649ff0",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -92,15 +92,15 @@
             }
         },
         {
-            "id": "a082e179-8ed2-4d0c-a995-d86bfb50042f",
+            "id": "8e2c79c4-4925-4f54-bd1d-800bf59f3740",
             "name": "Article 8",
             "type": "article",
             "children": {
-                "id": "0c4ac54a-761c-4379-9598-dc826641e5ad",
+                "id": "f6935857-53c4-4dfc-aa24-5f42322cf751",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1977.\nAgar\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1977.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
                 "explanation": "Tidak ada Penjelasan"
             }
         }

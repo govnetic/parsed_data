@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "6ff17ee9-db57-46c0-83e4-fbb858199c6d",
+            "id": "812f0288-e0c2-422b-8dd3-357ec8482deb",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "db482093-c112-4416-9c02-6eeedb88378f",
+                "id": "1894cb5d-e293-4ed3-ab62-a57d815ae753",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,24 +14,24 @@
             }
         },
         {
-            "id": "97710cc5-6fe3-4df9-a980-06b043724cc5",
+            "id": "b8a77581-e985-4d21-a05a-7d9871d4d06c",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "e0c70fc2-d581-4d7b-ada8-a60311174910",
+                "id": "2f2c22eb-f277-4b58-9d9a-8b1fd5ae25bf",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Meniadakan ketentuan-ketentuan dalam Peraturan Pemerintah\nNomor 11 tahun 1962 (Lembaran-Negara Nomor 46 tahun 1962)\nberikut peraturan pelaksanaannya, yang mengharuskan adanya :\n(a) Surat Izin Pengeluaran (S.I.P.) untuk mengekspor\nbarang;\n(b) Surat Pemberitahuan tentang Perjanjian Penjualan\nbarang-barang ke luar negeri (SP3);\n(2) Ketentuan tersebut dalam ayat (1) di atas, tidak mengurangi\nwewenang Menteri Perdagangan untuk membatasi ekspor dari\nbarang-barang, yang diharuskan menurut perjanjian\ninternasional atau berdasarkan pertimbangan kepentingan\nnasional;\n(3) Menteri Perdagangan, Menteri Keuangan dan Gubernur Bank\nNegara Indonesia/Pimpinan Biro Lalu Lintas Devisa\nmengeluarkan peraturan-peraturan pelaksannaan.",
+                "content": "(1) Meniadakan ketentuan-ketentuan dalam Peraturan Pemerintah\n    Nomor 11 tahun 1962 (Lembaran-Negara Nomor 46 tahun 1962)\n    berikut peraturan pelaksanaannya, yang mengharuskan adanya :\n    (a) Surat Izin Pengeluaran (S.I.P.) untuk mengekspor\n          barang;\n    (b) Surat Pemberitahuan tentang Perjanjian Penjualan\n          barang-barang ke luar negeri (SP3);\n(2) Ketentuan tersebut dalam ayat (1) di atas, tidak mengurangi\n    wewenang Menteri Perdagangan untuk membatasi ekspor dari\n    barang-barang, yang diharuskan menurut perjanjian\n    internasional atau berdasarkan pertimbangan kepentingan\n(3) Menteri Perdagangan, Menteri Keuangan dan Gubernur Bank\nNegara Indonesia/Pimpinan Biro Lalu Lintas Devisa\nmengeluarkan peraturan-peraturan pelaksannaan.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "dc837e99-fdbe-421c-be7f-ab26e6b594ee",
+            "id": "9d76a3a7-f338-4c14-ac56-d4d9d3cc9d03",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "73ca95ef-8f3e-4808-9771-78fa19f6b099",
+                "id": "c1d036de-6f6c-4cf7-b04a-6679531d3eb2",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,24 +40,24 @@
             }
         },
         {
-            "id": "12b3b026-82b6-4c3a-948e-6fece88ace19",
+            "id": "26b4f768-b4a4-47f0-96db-0a0809bc3b54",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "d4c653f9-24cc-4e55-bbbe-a76951286925",
+                "id": "e38a756c-1c13-4bf2-a99d-ed1b7683a192",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Gubernur Bank Negara Indonesia/Pimpinan Biro Lalu Lintas\nDevisa mencabut kembali ketentuan-ketentuan dalam peraturan-\nperaturan pelaksanaan Undang-undang Nomor 32 tahun 1964\nmengenai keharusan adanya Pernyataan Impor (PI);\n(2) Pencabutan ketentuan ini tidak berlaku untuk impor dengan\nBonus Ekspor tanpa cover.",
+                "content": "(1)\tGubernur Bank Negara Indonesia/Pimpinan Biro Lalu Lintas\nDevisa mencabut kembali ketentuan-ketentuan dalam peraturan-\nperaturan pelaksanaan Undang-undang Nomor 32 tahun 1964\nmengenai keharusan adanya Pernyataan Impor (PI);\n(2)\tPencabutan ketentuan ini tidak berlaku untuk impor dengan\nBonus Ekspor tanpa cover.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "ebf2703f-2621-4877-8f6c-8ccf75986e30",
+            "id": "e717bf67-8348-4180-8f39-737775adb85a",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "5cfdde14-a9bc-42c1-9781-dc6c23e8a0e4",
+                "id": "eaa2920a-bfa1-4de4-b56d-7b4880196e5d",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -71,13 +71,13 @@
         "Tahun": "1967",
         "Tentang": "PENYEDERHANAAN PROSEDUR EKSPOR DAN IMPOR\nKAMI, PEJABAT PRESIDEN REPUBLIK INDONESIA,",
         "Menimbang": {
-            "Introduction": "\n1. bahwa untuk lebih memperlancarkan pelaksanaan perdagangan\nluar negeri dalam rangka mensukseskan program rehabilitasi\ndan stabilisasi ekonomi, perlu menyederhanakan prosedur\nekspor dan impor;\n2. bahwa prosedur ekspor dan impor dapat disederhanakan dengan\nmenghapuskan beberapa peraturan-peraturan;"
+            "Introduction": "\n1. bahwa untuk lebih memperlancarkan pelaksanaan perdagangan\n   luar negeri dalam rangka mensukseskan program rehabilitasi\n   dan stabilisasi ekonomi, perlu menyederhanakan prosedur\n   ekspor dan impor;\n2. bahwa prosedur ekspor dan impor dapat disederhanakan dengan\n   menghapuskan beberapa peraturan-peraturan;"
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Musyawarah Kerja antara Pemerintah Pusat dan Daerah pada\ntanggal 26 dan 27 Juli 1967;",
+            "1": " Musyawarah Kerja antara Pemerintah Pusat dan Daerah pada\n   tanggal 26 dan 27 Juli 1967;",
             "2": " Dewan Stabilisasi Ekonomi Nasional.",
-            "3": " Peraturan Pemerintah Nomor 11 tahun 1962 (Lembaran-Negara\nNomor 46 tahun 1962).\nMendengar "
+            "3": " Peraturan Pemerintah Nomor 11 tahun 1962 (Lembaran-Negara\n   Nomor 46 tahun 1962).\nMendengar "
         },
         "Menetapkan": "\nPeraturan Pemerintah tentang penyederhanaan Prosedur Ekspor dan\nImpor.",
         "tanggal sah": "28 Juli 1967"

@@ -1,57 +1,57 @@
 {
     "results": [
         {
-            "id": "e707d62a-0603-44b7-8a2a-8721d8983121",
+            "id": "05079ffa-a227-4523-a55b-22ebdb0dc0d3",
             "name": "Chapter I",
             "title": "\nKETENTUAN UMUM",
             "type": "chapter",
             "children": [
                 {
-                    "id": "a79d4ad4-7d35-43ce-9717-974860b5a034",
+                    "id": "4b0fa45d-5e25-4eb0-9543-1453755f2289",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "68e40a12-403e-429b-8b44-803152e008ac",
+                        "id": "5658fba9-0244-4a22-93a4-7f46029ccda3",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nYang dimaksud dengan \"Propinsi\" dalam Peraturan ini, ialah\nPropinsi-propinsi Jawa-Timur, Jawa-Tengah, Jawa-Barat, Sumatera-\nSelatan, Sumatera-Tengah, Sumatera Utara, Kalimantan dan Daerah\nIstimewa Yogyakarta.",
+                        "content": "\nYang dimaksud dengan \"Propinsi\" dalam Peraturan ini, ialah\nPropinsi-propinsi Jawa Timur, Jawa Tengah, Jawa-Barat, Sumatera-\nSelatan, Sumatera-Tengah, Sumatera Utara, Kalimantan dan Daerah\nIstimewa Yogyakarta.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "2cd55f19-525e-41a9-88a7-d90c6fc074e9",
+            "id": "d20f867d-81d2-4aab-a26b-9938a34371f3",
             "name": "Chapter II",
             "title": "\nTENTANG URUSAN-URUSAN YANG DISERAHKAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "8e741190-b160-452e-a4b6-b10feae3bd25",
+                    "id": "73f93dd8-9935-40e7-90f4-7810db7548b6",
                     "name": "Article 2",
                     "type": "article",
                     "children": [
                         {
-                            "id": "8ce18c19-e526-4109-bf67-5e405090895e",
+                            "id": "5569843b-3d32-4a85-994f-1ef67089995a",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " pasal ini, ialah perindustrian yang bekerja dengan tenaga\norang sejumlah tidak lebih dari 50 orang.",
+                            "content": " Dengan memperhatikan kebijaksanaan yang ditetapkan oleh\nPemerintah Pusat, Propinsi menyelenggarakan urusan\nmemperkembangkan perindustrian-kecil dan kerajinan\nrumahtangga.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a355208b-2764-4b32-8040-72d6416c19c3",
+                            "id": "48d608db-5d56-4f2d-a2b1-e06dbfef2e6e",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Yang dimaksud dengan perindustrian-kecil tersebut dalam ayat",
+                            "content": " Yang dimaksud dengan perindustrian-kecil tersebut dalam ayat\n(1) pasal ini, ialah perindustrian yang bekerja dengan tenaga\norang sejumlah tidak lebih dari 50 orang.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "2bd7d448-0741-4c93-888b-a44157aff818",
+                            "id": "fc268966-7477-47cc-b8c0-80945a3ba0ea",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Dari urusan termaksud dalam ayat (1) pasal ini dikecualikan\nurusan mengenai penyelidikan dan balai-penyelidikan\n(proefstation).",
                             "explanation": "Tidak ada Penjelasan"
@@ -59,11 +59,11 @@
                     ]
                 },
                 {
-                    "id": "fc056bb1-f231-46b5-80b3-49d16ea1c7bb",
+                    "id": "30502398-8966-4e88-8d1f-36536d476c5a",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "25cad09c-6d6f-4a18-9659-e48990274ce7",
+                        "id": "ea1120ca-80b9-4a56-9729-121469be4b8d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -72,22 +72,22 @@
                     }
                 },
                 {
-                    "id": "5ea54f79-e42c-4eba-b157-ebe6d3b5403b",
+                    "id": "35a4144a-a674-457e-9f06-27728ee9f99b",
                     "name": "Article 4",
                     "type": "article",
                     "children": [
                         {
-                            "id": "21f0773e-589d-4064-b177-a3388fb7864c",
+                            "id": "b1b4320b-9741-4b73-b22d-0a12c9846531",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Dewan Pemerintah Daerah Propinsi diwajibkan menjalankan\nkekuasaan, hak, tugas dan kewajiban mengenai urusan\npembatasan perusahaan (bedrijfsreglementering) yang tersebut\ndalam:\na. pasal 3 ayat 5, dan pasal 6 ayat 1 dari Staatsblad 1935\nNo. 127 (Bedrijfsreglementeringsverordening Drukkerijen\n1935);\nb. pasal 3 ayat 5, pasal 4 ayat 2 dan pasal 6 ayat 1 dari\nStaats-blad 1935 No. 313\n(Bedrijfsreglementeringsverordening Veembedrijven 1935-I1);\nc. pasal 3 ayat 5, dan pasal 6 ayat 1 dari Staatsblad 1935\nNo. 427 (Bedrijfsreglementeringsverordening Sigaretten-\nfabriek 1935);\nd. pasal 3 ayat 5, pasal 4 ayat 2 dan pasal 6 ayat 1 dari\nStaatsblad 1935 No. 459\n(Bedrijfsreglementeringsverordening Metaalgieterijen\n1935);\ne. pasal 3 ayat 5, pasal 4 ayat 2 dan pasal 6 ayat 1 dari\nStaatsblad 1935 No. 568\n(Bedrijfsreglementeringsverordening Ijsfabrieken 1935);\nf. pasal-pasal 2, 6, 8 ayat-ayat 3, 4 dan 5 dan pasal 9\ndari Staatsblad 1940 No. 104 (Bedrijfsreglementerings-\nverordening Rijstpellerijen 1940);\ng. pasal-pasal 2, 3 dan 6 dari Staatsblad 1940 No. 451\n(Bedrijfsreglementeringsverordening Rubberherbereiding\n1940);\nh. pasal-pasal 2, 4, 8 ayat-ayat 3, 4 dan 5 pasal 9 dari\nStaatsblad 1940 No. 452\n(Bedrijfsreglementeringsverordening Rubberrookhuizen);\ni. pasal-pasal 3, 5 dan 7 dari Staatsblad 1940 No. 518\n(Bedrijfsreglementeringsverordening Textielbedrijven\n1940);\na.s/d j untuk daerah-hukumnya yang ditugaskan kepada\nGubernur, Residen dan Hoofd van Gewestelijk\nBestuur.",
+                            "content": " Dewan Pemerintah Daerah Propinsi diwajibkan menjalankan\nkekuasaan, hak, tugas dan kewajiban mengenai urusan\npembatasan perusahaan (bedrijfsreglementering) yang tersebut\ndalam:\na. pasal 3 ayat 5, dan pasal 6 ayat 1 dari Staatsblad 1935\nNo. 127 (Bedrijfsreglementeringsverordening Drukkerijen\n1935);\nb. pasal 3 ayat 5, pasal 4 ayat 2 dan pasal 6 ayat 1 dari\nStaats-blad 1935 No. 313\n(Bedrijfsreglementeringsverordening Veembedrijven 1935-\nII);\nc. pasal 3 ayat 5, dan pasal 6 ayat 1 dari Staatsblad 1935\nNo. 427 (Bedrijfsreglementeringsverordening Sigaretten-\nfabriek 1935)\nd. pasal 3 ayat 5, pasal 4 ayat 2 dan pasal 6 ayat 1 dari\nStaatsblad 1935 No. 459\n(Bedrijfsreglementeringsverordening Metaalgieterijen\n1935);\ne. pasal 3 ayat 5, pasal 4 ayat 2 dan pasal 6 ayat 1 dari\nStaatsblad 1935 No. 568\n(Bedrijfsreglementeringsverordening Ijsfabrieken 1935);\nf. pasal-pasal 2, 6, 8 ayat-ayat 3, 4 dan 5 dan pasal 9\ndari Staatsblad 1940 No. 104 (Bedrijfsreglementerings-\nverordening Rijstpellerijen 1940);\ng. pasal-pasal 2, 3 dan 6 dari Staatsblad 1940 No. 451\n(Bedrijfsreglementeringsverordening Rubberherbereiding\n1940);\nh. pasal-pasal 2, 4, 8 ayat-ayat 3, 4 dan 5 pasal 9 dari\nStaatsblad 1940 No. 452\n(Bedrijfsreglementeringsverordening Rubberrookhuizen);\ni. pasal-pasal 3, 5 dan 7 dari Staatsblad 1940 No. 518\n(Bedrijfsreglementeringsverordening Textielbedrijven\n1940);\na.s/d j untuk daerah-hukumnya yang ditugaskan kepada\nGubernur, Residen dan Hoofd van Gewestelijk\nBestuur.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "1dcc149d-1f2e-49aa-89ca-226f327790f9",
+                            "id": "62c01a30-38f5-4c3b-b860-f4b04999facd",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pendapatan retribusi yang dipungut dari perusahaan-perusahaan\nyang mendapat izin atau lisensi yang dikeluarkan oleh Dewan\nPemerintah Daerah Propinsi menurut Peraturan-peraturan\nPembatasan Perusahaan tersebut di atas, dimasukkan dalam kas",
                             "explanation": "Tidak ada Penjelasan"
@@ -95,81 +95,81 @@
                     ]
                 },
                 {
-                    "id": "367bf0b2-8fa9-4b20-b317-8baf7a5cb255",
+                    "id": "8558502f-3238-4e29-b5af-4ad88f92dc0c",
                     "name": "Article 5",
                     "type": "article",
                     "children": [
                         {
-                            "id": "14f9be5e-6806-4ec1-947d-14f2d2833575",
+                            "id": "cfdcd203-2722-4d3d-85c2-fc89052d9481",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Propinsi memberi bantuan yang diminta oleh atau atas nama\nMenteri Perekonomian untuk kepentingan perkembangan\nperindustrian dalam daerah Propinsi.",
+                            "content": " Propinsi memberi bantuan yang diminta oleh atau atas nama Menteri Perekonomian untuk kepentingan perkembangan perindustrian dalam daerah Propinsi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "a9b03cbe-bb69-4809-9a9f-a36e0a5fcd0f",
+                            "id": "eab0960f-e152-4a2c-a632-c2fa9ca85f0c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Biaya khusus untuk keperluan itu ditanggung oleh Kementerian\nPerekonomian.",
+                            "content": " Biaya khusus untuk keperluan itu ditanggung oleh Kementerian Perekonomian.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "d6944223-fd80-4f62-8348-5fcb87f724a8",
+                    "id": "898a6e2f-3925-4706-a90a-864370757f47",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "41822c33-8c33-4da7-8f16-22b137320d7c",
+                        "id": "eb84eaac-007b-4118-98d6-8e7b3b4b7ae7",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPemerintah Daerah Propinsi berkuasa dengan persetujuan Menteri\nPerekonomian menyerahkan sebagian dari kekuasaan tersebut dalam\npasal 2 sampai dengan pasal 5 kepada daerah otonoom bawahan dalam\ndaerahnya.",
+                        "content": "\nPemerintah Daerah Propinsi berkuasa dengan persetujuan Menteri Perekonomian menyerahkan sebagian dari kekuasaan tersebut dalam pasal 2 sampai dengan pasal 5 kepada daerah otonoom bawahan dalam daerahnya.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "843929d4-c07d-4a0f-98d1-b6cbe7e993a6",
+                    "id": "c3327786-0c46-48af-b4cb-7445ffe0d3f3",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "ef08f5b3-4e40-47b3-8aad-14242e5adc48",
+                        "id": "c1b645ed-6afa-4c46-9f95-a78754415535",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDewan Pemerintah Daerah Propinsi membantu daerah-daerah otonoom\nbawahan dalam daerahnya dalam menyelenggarakan tugas kewajiban\nmengenai urusan perindustrian-kecil yang telah diserahkan menjadi\ntugasnya.",
+                        "content": "\nDewan Pemerintah Daerah Propinsi membantu daerah-daerah otonoom bawahan dalam daerahnya dalam menyelenggarakan tugas kewajiban mengenai urusan perindustrian-kecil yang telah diserahkan menjadi tugasnya.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }
             ]
         },
         {
-            "id": "57f46ef2-9adc-4409-92f4-284d640fab5a",
+            "id": "4e7feab8-36a4-46dc-ae54-a90fc3afedf9",
             "name": "Chapter III",
             "title": "\nTENTANG BENTUK DAN SUSUNAN DINAS PERINDUSTRIAN PROPINSI",
             "type": "chapter",
             "children": [
                 {
-                    "id": "b9cff92e-e1fb-4ec3-9f6f-d3fdc806d8d6",
+                    "id": "85e645b9-3ccc-4f2e-aeda-d71d41ad94e0",
                     "name": "Article 8",
                     "type": "article",
                     "children": [
                         {
-                            "id": "bc8e686f-b765-4020-8a55-22e2d93d44c5",
+                            "id": "55cdb414-3d5b-476e-8530-876fec3415a2",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Propinsi membentuk dan menyusun suatu Dinas Perindustrian\ndalam susunan Pemerintahan Propinsi dengan memperhatikan\npetunjuk-petunjuk dari Menteri Perekonomian.",
+                            "content": " Propinsi membentuk dan menyusun suatu Dinas Perindustrian dalam susunan Pemerintahan Propinsi dengan memperhatikan petunjuk-petunjuk dari Menteri Perekonomian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "56d31c10-f6c7-41f2-a29d-0f560e98ad6d",
+                            "id": "1d90e0e2-93dc-4dfa-b70d-a9542575092c",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Kepala dari Dinas tersebut dalam ayat (1) pasal ini teknis\nberada di bawah Menteri Perekonomian dan administratif di\nbawah Dewan Pemerintah Daerah Propinsi.",
+                            "content": " Kepala dari Dinas tersebut dalam ayat (1) pasal ini teknis berada di bawah Menteri Perekonomian dan administratif di bawah Dewan Pemerintah Daerah Propinsi.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
@@ -177,40 +177,40 @@
             ]
         },
         {
-            "id": "fb2404ae-968e-4cd0-a23a-8748859acdd8",
+            "id": "a9760a2f-0be3-4461-ade9-b3bbb4e6606f",
             "name": "Chapter IV",
-            "title": "\nTENTANG HUBUNGAN ANTARA KEMENTERIAN\nPEREKONOMIAN DENGAN PROPINSI DAN ANTARA\nPROPINSI DENGAN DAERAH OTONOOM BAWAHAN\nDALAM DAERAHNYA",
+            "title": "\nTENTANG HUBUNGAN ANTARA KEMENTERIAN PEREKONOMIAN DENGAN PROPINSI DAN ANTARA PROPINSI DENGAN DAERAH OTONOOM BAWAHAN DALAM DAERAHNYA",
             "type": "chapter",
             "children": [
                 {
-                    "id": "812c8e66-0851-4b08-8af8-aae3f4e9a5dc",
+                    "id": "24c288b5-b403-44f2-909c-95e81e9b7aaf",
                     "name": "Article 9",
                     "type": "article",
                     "children": [
                         {
-                            "id": "b69c156d-45d2-48c9-9760-e4dd4815cd38",
+                            "id": "b002da96-0cb0-40f0-9425-b242a3ed35b7",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Menteri Perekonomian menyelenggarakan pengawasan serta\nmemberi nasihat dan dorongan mengenai penyelenggaraan urusan-\nurusan perindustrian yang telah diserahkan, agar tercapai\nkoordinasi dengan urusan perindustrian lainnya.",
+                            "content": " Menteri Perekonomian menyelenggarakan pengawasan serta memberi nasihat dan dorongan mengenai penyelenggaraan urusan-urusan perindustrian yang telah diserahkan, agar tercapai koordinasi dengan urusan perindustrian lainnya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "e9586816-1da2-418f-881d-2d792d9ed0ea",
+                            "id": "445d6579-8dfa-4eba-acf1-3d2a4dea67b4",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
-                            "content": " Tugas seperti dinyatakan dalam ayat (1) pasal ini terhadap\nDewan Pemerintah Daerah Kabupaten dan Kota Besar dalam\nlingkungan daerahnya, diselenggarakan juga oleh Dewan\nPemerintah Daerah Propinsi.",
+                            "content": " Tugas seperti dinyatakan dalam ayat (1) pasal ini terhadap Dewan Pemerintah Daerah Kabupaten dan Kota Besar dalam lingkungan daerahnya, diselenggarakan juga oleh Dewan Pemerintah Daerah Propinsi.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "992e01b0-7494-46f7-8231-6c3e4562d60b",
+                    "id": "41b69981-8e22-4095-9a5d-311f9645259b",
                     "name": "Article 10",
                     "type": "article",
                     "children": {
-                        "id": "29effeaf-a9f8-4ec1-82ba-9c61890a20fc",
+                        "id": "9d788258-532c-4f32-9615-46804a55071d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -219,22 +219,22 @@
                     }
                 },
                 {
-                    "id": "6e756f70-ce12-4625-baca-180aaddde16a",
+                    "id": "ad50c7bc-b307-4804-afb9-1f9d4408402b",
                     "name": "Article 11",
                     "type": "article",
                     "children": [
                         {
-                            "id": "94abee1b-0695-4f1b-8fe1-c28888bd0e1e",
+                            "id": "3ff2db87-e4fa-4050-9d1b-9207bcf966ef",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Dewan Pemerintah Daerah Propinsi mengusahakan, supaya kepala\ndari Dinas Perindustrian termaksud dalam pasal 8 atau pegawai\nyang ditunjuk olehnya, memenuhi panggilan dari atau atas nama\nMenteri Perekonomian untuk mengadakan pembicaraan bersama\nmengenai urusan perindustrian.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "30470385-6958-47e8-8d05-624bdb7669eb",
+                            "id": "c26a7df6-ffe6-4465-8fdd-2ec74c5b0891",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Biaya untuk memenuhi panggilan-panggilan itu ditanggung oleh\nKementerian Perekonomian.",
                             "explanation": "Tidak ada Penjelasan"
@@ -242,11 +242,11 @@
                     ]
                 },
                 {
-                    "id": "6ad15fea-5c74-4254-a38c-91522f981a16",
+                    "id": "996c92ac-0db0-41d5-8832-00c9bcea0e95",
                     "name": "Article 12",
                     "type": "article",
                     "children": {
-                        "id": "2795dfbe-0a1c-468e-9949-126189705b81",
+                        "id": "9b68c583-8f99-464d-914e-5656fcc3116a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -257,44 +257,44 @@
             ]
         },
         {
-            "id": "e420df73-643f-47a2-adf1-c3b770a2ce84",
+            "id": "ba7d91ce-0ca0-40d4-9edb-7e3e12cc6940",
             "name": "Chapter V",
             "title": "\nTENTANG HAL TANAH-TANAH, BANGUNAN-BANGUNAN,\nALAT-ALAT DAN HUTANGPIUTANG",
             "type": "chapter",
             "children": [
                 {
-                    "id": "31cdba99-dcc6-4204-8d79-6af7d1905aaf",
+                    "id": "848b7b94-f271-439c-a288-f9de8756824b",
                     "name": "Article 13",
                     "type": "article",
                     "children": [
                         {
-                            "id": "0a3e932d-75db-4b71-9eb6-fcaa3347384b",
+                            "id": "deef30ac-67c1-4f44-b7f9-6d2b595f53e9",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Tanah-tanah dan bangunan-bangunan, yang dipergunakan untuk\nmenyelenggarakan tugas kewajiban Propinsi dalam urusan\nperindustrian-kecil, diserahkan kepada Propinsi untuk dipakai\ndan diurus guna keperluannya.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "55fe2d7d-c305-402a-9166-2a039410b36c",
+                            "id": "1f00220d-e6d2-4a44-bdd1-e74702e753d7",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Alat-alat serta barang-barang inventaris lainnya yang dipakai\nguna kepentingan urusan yang tersebut dalam ayat (1) pasal\nini, diserahkan kepada Propinsi untuk dimiliki.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "8e9890af-b18d-4a07-86af-fc48494ac096",
+                            "id": "2eeea3a0-79d0-47fa-a8b4-d620a0ec7eaf",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
                             "content": " Hutang-piutang yang bersangkutan dengan urusan-urusan\nperindustrian-kecil yang telah diserahkan, yang ada pada\nwaktu penyerahan ini, menjadi tanggungan Propinsi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "674a1123-1afc-45f2-b78f-6d92b63f3d6c",
+                            "id": "7c25724d-1053-47de-a95a-c8d3cc05d6aa",
                             "name": "Verse 4",
-                            "number": "(4)",
+                            "number": "4",
                             "type": "verse",
                             "content": " Guna pelaksanaan ketentuan termaksud dalam ayat-ayat (1), (2)\ndan (3) pasal ini, diadakan timbang-terima antara Dewan\nPemerintah Daerah Propinsi atau wakilnya dan instansi yang\nditunjuk oleh Menteri Perekonomian.",
                             "explanation": "Tidak ada Penjelasan"
@@ -304,59 +304,51 @@
             ]
         },
         {
-            "id": "f834d5d5-80f1-49d2-b521-f68f09db1926",
+            "id": "aa371a6c-dcef-428d-b88e-d6d9393546fe",
             "name": "Chapter VI",
             "title": "\nTENTANG HAL KEPEGAWAIAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "238fd9a3-d2ba-47f9-b6e0-b3028d3e40ad",
+                    "id": "93997231-3109-4d6b-a8d4-f68c2eb21d75",
                     "name": "Article 14",
                     "type": "article",
                     "children": [
                         {
-                            "id": "4f1edf23-3a48-4d79-ab6b-6b5412d07044",
+                            "id": "ea78fce9-3750-429f-b30e-f47d97109305",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
-                            "content": " Untuk menyelenggarakan tugas kewajiban Propinsi dalam urusan\nperindustrian-kecil dengan penetapan Menteri Perekonomi an\nkepada Propinsi:\na. diserahkan pegawai-pegawai Negara, bukan tenaga teknis,\nuntuk diangkat menjadi pegawai Propinsi;\nb. diperbantukan pegawai-pegawai Negara, yang termasuk\ntenaga teknis, untuk dipekerjakan pada Propinsi.",
+                            "content": " Untuk menyelenggarakan tugas kewajiban Propinsi dalam urusan\nperindustrian-kecil dengan penetapan Menteri Perekonomi an\nkepada Propinsi:\na. diserahkan pegawai-pegawai Negara, bukan tenaga teknis,\nuntuk diangkat menjadi pegawai Propinsi;\nb. diperbantukan pegawai-pegawai Negara, yang termasuk\n(2) Tenaga-tenaga teknis yang dibutuhkan oleh Propinsi, diangkat\noleh Menteri Perekonomian dan diperbantukan kepada Propinsi.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "7befa6e4-69a0-48c6-bad5-448b234a04ed",
-                            "name": "Verse 2",
-                            "number": "(2)",
-                            "type": "verse",
-                            "content": " Tenaga-tenaga teknis yang dibutuhkan oleh Propinsi, diangkat\noleh Menteri Perekonomian dan diperbantukan kepada Propinsi.",
-                            "explanation": "Tidak ada Penjelasan"
-                        },
-                        {
-                            "id": "ea30e6ec-a781-42c0-a193-cd690514a64b",
+                            "id": "85867077-e8d7-47da-ad9d-c5d3b3622581",
                             "name": "Verse 3",
-                            "number": "(3)",
+                            "number": "3",
                             "type": "verse",
-                            "content": " Tenaga-tenaga apa yang termasuk tenaga teknis dan syarat-\nsyarat pengangkatannya seperti yang dimaksud dalam ayat\npasal ini ditetapkan oleh Menteri Perekonomian.",
+                            "content": " Tenaga-tenaga apa yang termasuk tenaga teknis dan syarat-\nsyarat pengangkatannya seperti diar yang dimaksud dalam ayat\n(2)pasal ini ditetapkan oleh Menteri Perekonomian.",
                             "explanation": "Tidak ada Penjelasan"
                         }
                     ]
                 },
                 {
-                    "id": "e19a9619-b783-49ce-9ee2-e9c604d5b025",
+                    "id": "b6c72447-bf4f-46b2-bc3a-a6759fb99855",
                     "name": "Article 15",
                     "type": "article",
                     "children": [
                         {
-                            "id": "e2ff203e-a429-439b-a92b-10c5511aa86e",
+                            "id": "2d63782d-ee4d-4f16-bdb9-4d7baf5854e1",
                             "name": "Verse 1",
-                            "number": "(1)",
+                            "number": "1",
                             "type": "verse",
                             "content": " Pemindahan pegawai-pegawai Negara yang diperbantukan kepada\nsuatu Propinsi ke lain Propinsi, diselenggarakan oleh Menteri\nPerekonomian setelah mendengar pertimbangan Dewan Pemerintah\nDaerah Propinsi yang bersangkutan.",
                             "explanation": "Tidak ada Penjelasan"
                         },
                         {
-                            "id": "bc316514-1d0e-4cfc-b49a-80f8762294c5",
+                            "id": "a650ef93-3a4f-465d-b398-8ee58eeab157",
                             "name": "Verse 2",
-                            "number": "(2)",
+                            "number": "2",
                             "type": "verse",
                             "content": " Pemindahan pegawai-pegawai Negara yang diperbantukan kepada\nPropinsi dalam lingkungan daerah Propinsi, diselenggarakan\noleh Dewan Pemerintah Daerah Propinsi dengan memberitahukan\nkepada Menteri Perekonomian.",
                             "explanation": "Tidak ada Penjelasan"
@@ -366,17 +358,17 @@
             ]
         },
         {
-            "id": "f4286784-4208-4fba-b5e2-b43e7f790461",
+            "id": "55a71936-2b0b-49bb-8500-7b3c9bc4bf3e",
             "name": "Chapter VII",
             "title": "\nTENTANG HAL KEUANGAN",
             "type": "chapter",
             "children": [
                 {
-                    "id": "1f0dca6c-7b5d-4506-826a-e33c906f5de1",
+                    "id": "2e7d9df4-8985-4b05-87de-2c2b24124cc2",
                     "name": "Article 16",
                     "type": "article",
                     "children": {
-                        "id": "5321c9e6-7b0d-4662-910f-4843ee91fe91",
+                        "id": "e919d7f8-8f94-423f-b4e7-d1a0a059daac",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -387,17 +379,17 @@
             ]
         },
         {
-            "id": "0600c6d6-0dd8-4401-8b89-d81949ac4428",
+            "id": "ffbeb492-6ec4-4eb3-a54b-77d87bd2eae8",
             "name": "Chapter VIII",
             "title": "\nPENUTUP",
             "type": "chapter",
             "children": [
                 {
-                    "id": "ea1d0cbf-d0b4-4379-83fb-cea7c664b9a9",
+                    "id": "6943ee25-78f7-4ee3-a2cc-b8b8f14f263a",
                     "name": "Article 17",
                     "type": "article",
                     "children": {
-                        "id": "dc779f91-007f-4e2f-894c-df9c93dddb2d",
+                        "id": "51c7967b-cc13-450e-a76b-54daf4756e4b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -406,24 +398,24 @@
                     }
                 },
                 {
-                    "id": "7b84b312-988f-40be-aa31-101dbb0e0086",
+                    "id": "1becff14-a6cc-429b-bb43-ddc87805314e",
                     "name": "Article 18",
                     "type": "article",
                     "children": {
-                        "id": "c2037d40-df17-4a10-907e-8ae205f66461",
+                        "id": "a467cec2-0f18-4d4c-b123-9d79d177e3b8",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 3 Maret 1954\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nSOEKARNO\nMENTERI DALAM NEGERI,\nttd.\nPENJELASAN\nPERATURAN PEMERINTAH NOMOR 12 TAHUN 1954\nTENTANG\nPELAKSANAAN PENYERAHAN SEBAGIAN DARI URUSAN PEMERINTAH PUSAT\nDALAM LAPANGAN PERINDUSTRIAN KEPADA PROPINSI-PROPINSI\nI. Luas kekuasaan Kementerian Perekonomian yang dapat diserahkan\nkepada daerah otonom.\n1. Pada azasnya penyerahan urusan Pemerintah Pusat kepada\ndaerah-daerah otonoom juga mengenai urusan-urusan yang\ntermasuk dalam lingkungan Kementerian Perekonomi an\nharus dijalankan sebanyak mungkin.\n2. Akan tetapi penyerahan kekuasaan itu dalam langkah\npertama mengenai berbagai-bagai lapangan sampai berapa\njauh dapat dijalankan, adalah terbatas oleh karena\nbeberapa faktor:\na. Beberapa kekuasaan Pemerintah Pusat tidak mungkin\ndidesentraliseer, karena beleid dan\npenyelenggaraan kekuasaan itu melihat sifatnya,\nperlu dipegang langsung oleh Pemerintah Pusat\nsendiri, ialah kekuasaan yang pengaruhnya tidak\nterbatas pada sesuatu atau beberapa daerah saja,\ntetapi mengenai Indonesia pada umumnya, bahkan\nmengenai dunia internasional juga (misalnya:\nHubungan ekonomi dengan Luar Negeri, Perdagangan,\nPertambangan dan sebagainya).\nb. Mengenai kekuasaan yang dapat didesentraliseer,\nperlu diketahui, apakah Pemerintah Pusat terhadap\nurusan itu sudah dapat menetapkan beleid yang\ntegas dan tertentu.\nC. Perlu ditinjau apakah organisasi Pemerintah Daerah\nsudah siap untuk menerima penyerahan kekuasaan\nitu.\n3. Mengenai jawatan-jawatan yang \"tua\" dapat dikatakan,\nbahwa beleid Pemerintah Pusat sudah tetap dan jelas.\n4. Sebelum perang dunia ke II Jawatan-jawatan itu sudah\ndidesentraliseer. Organisasinyapun sudah teratur. Untuk\npenyerahan kekuasaan yang hendak dilaksanakan sekarang\nini dapat mengambil pedoman dari keadaan yang dulu\ntelah berlaku serta meninjau kemungkinan untuk\nmemperluas batas-batasnya.\n5. Sebaliknya mengenai jawatan-jawatan yang \"muda\" beleid\nPemerintah Pusat pun masih dalam penyempurnaan dạn\norganisasi-organisasi jawatan-jawatan itupun masih\nbelum lengkap.\n6. Lagi pula adalah suatu kenyataan, bahwa peralatan\ndaerah-daerah otonom dewasa ini pada umunmya belum\nmencukupi, karena kekurangan tenaga-tenaga ahli\ndan/atau yang berpengalaman.\nMengingat apa yang telah diuraikan di atas itu, maka\nkekuasaan Pemerintah Pusat dalam lingkungan Kementerian\nPerekonomian yang dapat diserahkan kepada daerah\notonoom pada tingkatan sekarang ini hanyalah terbatas\npada urusan dalam lapangan \"perindustrian kecil\",\nsebagaimana tertera dalam Peraturan Pemerintah ini.\nII. Penyerahan kekuasaan dalam lapangan \"Perindustrian kecil\".\n7. Penyerahan urusan-urusan termaksud hanya dilakukan\nkepada Propinsi, sedang kepadanya diberi kelonggaran\nuntuk menyerahkan sebagian dari kekuasaannya kepada\ndaerah-daerah otonoom bawahan dalam daerahnya.\n8. Penyerahan sebagian dari kekuasaan Pemerintah Pusat\nlangsung kepada Propinsi dan sebagian lagi langsung\nkepada Kabupaten pun tidak mempunyai dijalankan, karena\ndemikian itu menjumpai keberatan praktis, bahwa tenaga-\ntenaga pemimpin yang cakap yang ada pada dewasa ini\ntidak mungkin dibagi-bagikan antara Propinsi dan\nKabupaten.\n9. Dalam membentuk dan menyusun Dinas Perindustrian dalam\nsusunan Pemerintahan Propinsi Propinsi diwajibkan\nmemperhatikan petunjuk-petunjuk Menteri Perekonomian.\nMaksud kewajiban tersebut di atas ialah agar supaya\nsusunan Dinas itu dapat diatur setepat-tepatnya dan\nsesuai dengan kepentingan efficiency keuangan. Juga\nterutama Pimpinan tehnis ditempatkan di bawah Menteri\nPerekonomian.\n10. Berhubung dengan kekurangan tenaga tehnis, maka pegawai\nNegara yang merupakan tenaga tehnis berlainan dari\npegawai-pegawai administratip tidak diangkat menjadi\npegawai Propinsi melainkan diperbantukan untuk\ndipekerjakan pada Propinsi. Ketentuan ini dimaksudkan\nuntuk menghindarkan keadaan, bahwa sesuatu Propinsi\nkekurangan tenaga tehnis, sedangkan Propinsi lain\nkelebihan.\n11. Tenaga-tenaga administratip yang dibutuhkan oleh\nPropinsi diangkat oleh Dewan Pemerintah Daerah Propinsi\ndari pegawai-pegawai Kementerian Perekonomian yang\ndapat dilepaskan.\n12. Dalam mengangkat pegawai-pegawai administratip baru\nPENJELASAN PASAL DEMI PASAL",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 3 Maret 1954\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nSOEKARNO\nMENTERI DALAM NEGERI,\nttd.\nPENJELASAN\nPERATURAN PEMERINTAH NOMOR 12 TAHUN 1954\nTENTANG\nPELAKSANAAN PENYERAHAN SEBAGIAN DARI URUSAN PEMERINTAH PUSAT\nDALAM LAPANGAN PERINDUSTRIAN KEPADA PROPINSI-PROPINSI\nI. Luas kekuasaan Kementerian Perekonomian yang dapat diserahkan\nkepada daerah otonom.\n1. Pada azasnya penyerahan urusan Pemerintah Pusat kepada\ndaerah-daerah otonoom juga mengenai urusan-urusan yang\ntermasuk dalam lingkungan Kementerian Perekonomian\nharus dijalankan sebanyak mungkin.\n2. Akan tetapi penyerahan kekuasaan itu dalam langkah\npertama mengenai berbagai-bagai lapangan sampai berapa\njauh dapat dijalankan, adalah terbatas oleh karena\nbeberapa faktor:\na. Beberapa kekuasaan Pemerintah Pusat tidak mungkin\ndidesentraliseer, karena beleid dan\npenyelenggaraan kekuasaan itu melihat sifatnya,\nperlu dipegang langsung oleh Pemerintah Pusat\nsendiri, ialah kekuasaan yang pengaruhnya tidak\nterbatas pada sesuatu atau beberapa daerah saja,\ntetapi mengenai Indonesia pada umumnya, bahkan\nmengenai dunia internasional juga (misalnya:\nHubungan ekonomi dengan Luar Negeri, Perdagangan,\nPertambangan dan sebagainya).\nb. Mengenai kekuasaan yang dapat didesentraliseer,\nperlu diketahui, apakah Pemerintah Pusat terhadap\nurusan itu sudah dapat menetapkan beleid yang\ntegas dan tertentu.\nc. Perlu ditinjau apakah organisasi Pemerintah Daerah\nsudah siap untuk menerima penyerahan kekuasaan\nitu.\n3. Mengenai jawatan-jawatan yang \"tua\" dapat dikatakan,\nbahwa beleid Pemerintah Pusat sudah tetap dan jelas.\nSebelum perang dunia ke II Jawatan-jawatan itu sudah\ndidesentraliseer. Organisasinyapun sudah teratur. Untuk\npenyerahan kekuasaan yang hendak dilaksanakan sekarang\nini dapat mengambil pedoman dari keadaan yang dulu\ntelah berlaku serta meninjau kemungkinan untuk\nmemperluas batas-batasnya.\n4. Sebaliknya mengenai jawatan-jawatan yang \"muda\" beleid\nPemerintah Pusat pun masih dalam penyempurnaan dạn\norganisasi-organisasi jawatan-jawatan itupun masih\nbelum lengkap.\n5. Lagi pula adalah suatu kenyataan, bahwa peralatan\ndaerah-daerah otonom dewasa ini pada umunmya belum\nmencukupi, karena kekurangan tenaga-tenaga ahli\ndan/atau yang berpengalaman.\n6. Mengingat apa yang telah diuraikan di atas itu, maka\nkekuasaan Pemerintah Pusat dalam lingkungan Kementerian\nPerekonomian yang dapat diserahkan kepada daerah\notonoom pada tingkatan sekarang ini hanyalah terbatas\npada urusan dalam lapangan \"perindustrian kecil\",\nsebagaimana tertera dalam Peraturan Pemerintah ini.\nII. Penyerahan kekuasaan dalam lapangan \"Perindustrian kecil\".\n7. Penyerahan urusan-urusan termaksud hanya dilakukan\nkepada Propinsi, sedang kepadanya diberi kelonggaran\nuntuk menyerahkan sebagian dari kekuasaannya kepada\ndaerah-daerah otonoom bawahan dalam daerahnya.\n8. Penyerahan sebagian dari kekuasaan Pemerintah Pusat\nlangsung kepada Propinsi dan sebagian lagi langsung\nkepada Kabupaten pun tidak mempunyai dijalankan, karena\ndemikian itu menjumpai keberatan praktis, bahwa tenaga-\ntenaga pemimpin yang cakap yang ada pada dewasa ini\ntidak mungkin dibagi-bagikan antara Propinsi dan\nKabupaten.\n9. Dalam membentuk dan menyusun Dinas Perindustrian dalam\nsusunan Pemerintahan Propinsi Propinsi diwajibkan\nmemperhatikan petunjuk-petunjuk Menteri Perekonomian.\nMaksud kewajiban tersebut di atas ialah agar supaya\nsusunan Dinas itu dapat diatur setepat-tepatnya dan\nsesuai dengan kepentingan efficiency keuangan. Juga\nterutama Pimpinan tehnis ditempatkan di bawah Menteri\nPerekonomian.\n10. Berhubung dengan kekurangan tenaga tehnis, maka pegawai\nNegara yang merupakan tenaga tehnis berlainan dari\npegawai-pegawai administratip tidak diangkat menjadi\npegawai Propinsi melainkan diperbantukan untuk\ndipekerjakan pada Propinsi. Ketentuan ini dimaksudkan\nuntuk menghindarkan keadaan, bahwa sesuatu Propinsi\nkekurangan tenaga tehnis, sedangkan Propinsi lain\nkelebihan.\n11. Tenaga-tenaga administratip yang dibutuhkan oleh\nPropinsi diangkat oleh Dewan Pemerintah Daerah Propinsi\ndari pegawai-pegawai Kementerian Perekonomian yang\ndapat dilepaskan.\n12. Dalam mengangkat pegawai-pegawai administratip baru\nPENJELASAN PASAL DEMI PASAL",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "744090ed-d4a0-45b1-879f-efcfa37c81bb",
+                    "id": "ebf97308-f7cf-43d8-9222-4715fdd0b093",
                     "name": "Article 1",
                     "type": "article",
                     "children": {
-                        "id": "1b3fcc3b-e39a-44ef-9cb6-fe86102cf6c8",
+                        "id": "7c6acdb5-0841-4c95-aced-601aeb24cec6",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -432,11 +424,11 @@
                     }
                 },
                 {
-                    "id": "0620354f-7310-4737-9cd3-7451db747bbf",
+                    "id": "40530b34-a61b-491d-bd85-168d1c86b76f",
                     "name": "Article 2",
                     "type": "article",
                     "children": {
-                        "id": "40d5a15e-7cfe-4181-b21a-0a1f58519ff7",
+                        "id": "9105c6d5-168c-4d41-ba84-6e9723c147a7",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -445,11 +437,11 @@
                     }
                 },
                 {
-                    "id": "b2627a4f-28bb-48ca-88e8-7bf793510a87",
+                    "id": "22cc894d-0d22-4b08-81cc-60bb5d648898",
                     "name": "Article 3",
                     "type": "article",
                     "children": {
-                        "id": "3cc4ccc4-4873-4913-a1e0-86daf14adc55",
+                        "id": "1ab57560-715e-4fbb-be8e-c2e7793265da",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -458,24 +450,24 @@
                     }
                 },
                 {
-                    "id": "d82281dd-0c09-4316-b5cd-f783bbcd9689",
+                    "id": "a12cdafe-c359-45b5-a698-d1e87f80bb68",
                     "name": "Article 4",
                     "type": "article",
                     "children": {
-                        "id": "c0f5e71a-728c-43d9-a842-d2ea21a24d53",
+                        "id": "0046efcd-8b67-47a8-b0d2-54aabadc9e2a",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nDengan ketentuan dalam pasal ini, kekuasaan, hak, tugas dan\nkewajiban dari Gubernur, Residen dan \"Hoofd van Gewestelijk\nBestuur\" termaksud dalam peraturan pembatasan perusahaan\n(bedrijfsreglementeringsverordening) yang berlaku dalam\ndaerah hukunmya, beralih kepada Dewan Pemerintah Daerah\nPropinsi yang bersangkutan.\nKekuasaan-kekuasaan dan lain-lain yang tersebut di atas, pada\numumnya bersifat memberi bantuan dalam pelaksanaan dan\npengawasan atas penyelenggaraan peraturan tentang \"Pembatasan\nPerusahaan\". Akan tetapi di dalam hal pembatasan:\na. penggilingan padi\nb. rumah-rumah asap karet dan\nc. pertenunan dengan tidak lebih dari empat buah alat tenun tangan.\nPropinsi bertindak penuh dalam urusan-urusan tersebut.\nBerhubung dengan campur tangannya Propinsi dalam hal\npembatasan perusahaan, maka retribusi yang didapat dari\nperusahaan-perusahaan tersebut dalam a, b, dan c di atas\ndimasukkan dalam kas Propinsi.\nLihat selanjutnya penjelasan pasal 6.",
+                        "content": "\nDengan ketentuan dalam pasal ini, kekuasaan, hak, tugas dan\nkewajiban dari Gubernur, Residen dan \"Hoofd van Gewestelijk\nBestuur\" termaksud dalam peraturan pembatasan perusahaan\n(bedrijfsreglementeringsverordening) yang berlaku dalam\ndaerah hukunmya, beralih kepada Dewan Pemerintah Daerah\nPropinsi yang bersangkutan.\nKekuasaan-kekuasaan dan lain-lain yang tersebut di atas, pada\numumnya bersifat memberi bantuan dalam pelaksanaan dan\npengawasan atas penyelenggaraan peraturan tentang \"Pembatasan\nPerusahaan\". Akan tetapi di dalam hal pembatasan:\na.  penggilingan padi,\nb.  rumah-rumah asap karet dan\nc.  pertenunan dengan tidak lebih dari empat buah alat\ntenun tangan.\nPropinsi bertindak penuh dalam urusan-urusan tersebut.\nBerhubung dengan campur tangannya Propinsi dalam hal\npembatasan perusahaan, maka retribusi yang didapat dari\nperusahaan-perusahaan tersebut dalam a, b, dan c di atas\ndimasukkan dalam kas Propinsi.\nLihat selanjutnya penjelasan pasal 6.",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 },
                 {
-                    "id": "fd3ced7e-ade1-4f6e-9682-33530c379f9f",
+                    "id": "8473d967-4c4d-4177-83c4-4cb2ea32726a",
                     "name": "Article 5",
                     "type": "article",
                     "children": {
-                        "id": "154f057c-3417-4356-9d96-8edb4f2ad588",
+                        "id": "3354401a-9bf0-4720-847d-0562a7a6dc4b",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -484,11 +476,11 @@
                     }
                 },
                 {
-                    "id": "c56777ba-4bc7-45ae-b4ec-a685a2691871",
+                    "id": "0576ffc0-9bec-4153-b8d9-c1a56405ce2e",
                     "name": "Article 6",
                     "type": "article",
                     "children": {
-                        "id": "1cdc5d77-7543-4b81-a5e5-01479b4c81aa",
+                        "id": "e20be53b-240a-4826-9060-10ea1842e19c",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -497,11 +489,11 @@
                     }
                 },
                 {
-                    "id": "9fe0953d-36cc-4931-9d78-8006414f34d2",
+                    "id": "fcf53536-3e05-4fe6-ac34-ca59dea1542c",
                     "name": "Article 7",
                     "type": "article",
                     "children": {
-                        "id": "795409c6-abe1-4cd8-bf45-aff9394084bd",
+                        "id": "de39c048-76bb-48ff-82a6-55cefa438d71",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
@@ -510,15 +502,15 @@
                     }
                 },
                 {
-                    "id": "72736a58-5c72-4b2b-afc6-b513652af8ee",
+                    "id": "9c983978-54e3-45bd-b53f-1520d50ac584",
                     "name": "Article 8",
                     "type": "article",
                     "children": {
-                        "id": "cddec386-9cb6-4b46-9d10-c8f138bc3e66",
+                        "id": "13d49a7b-63c2-4fb9-a418-d438661ab53d",
                         "name": "Verse 1",
                         "number": "(1)",
                         "type": "verse",
-                        "content": "\nLihat penjelasan umum.\nPasal 9 s/d 13\nCukup jelas.\nPasal 14 dan 15\nLihat penjelasan umum.\nPasal 16 s/d 18\nCukup jelas.\nMENTERI PEREKONOMIAN,\nttd.\nISKAQ TJOKROHADISURYO\nMENTERI DALAM NEGERI,\nttd.\nHAZAIRIN\nCATATAN\nKutipan: EMBARAN NEGARA DAN ",
+                        "content": "\nLihat penjelasan umum.\nPasal 9 s/d 13\nCukup jelas.\nPasal 14 dan 15\nLihat penjelasan umum.\nPasal 16 s/d 18\nCukup jelas.\nMENTERI PEREKONOMIAN,\nttd.\nISKAQ TJOKROHADISURYO\nMENTERI DALAM NEGERI,\nttd.\nHAZAIRIN\n",
                         "explanation": "Tidak ada Penjelasan"
                     }
                 }

@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "id": "253e3b2a-8a50-42a5-8e00-c0b251546335",
+            "id": "5a376265-ea58-4bb6-aa8c-78e77bf97f91",
             "name": "Article 1",
             "type": "article",
             "children": {
-                "id": "9619869c-de6f-44e3-9004-37dd1b065135",
+                "id": "37d989e4-d95b-405b-951d-0ca7498f53a0",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -14,11 +14,11 @@
             }
         },
         {
-            "id": "8e0e165a-53b0-4e30-b7b3-4f59451fc841",
+            "id": "94896dd4-a933-4b0d-b866-729da111423f",
             "name": "Article 2",
             "type": "article",
             "children": {
-                "id": "f30dde49-32a2-4c25-b816-01e15d475e6a",
+                "id": "74078a48-5642-4226-a5bf-df94e370fd5f",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -27,11 +27,11 @@
             }
         },
         {
-            "id": "829cf684-341c-4e84-868b-c2c699065b80",
+            "id": "71c6af7c-4d91-4c48-83cd-a6277574ad5d",
             "name": "Article 3",
             "type": "article",
             "children": {
-                "id": "fee682ae-ee89-4496-ade2-ec16ffe59f88",
+                "id": "ae3d609c-3dfe-4be3-9f5b-dfa1c90467be",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -40,24 +40,24 @@
             }
         },
         {
-            "id": "702e14f3-7e89-4a95-b582-585a4b58913e",
+            "id": "01493fae-dde4-4a76-9162-075b0b00319c",
             "name": "Article 4",
             "type": "article",
             "children": {
-                "id": "37992691-dca4-4f60-8f9f-a4f15885110c",
+                "id": "62bed112-5658-450d-9554-471cfbce7893",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
-                "content": "(1) Dalam menyelenggarakan tugas yang dimaksudkan dalam pasal 3\nayat (1) Kepala Staf Penguasa Darurat Sipil Daerah, Kepala\nStaf Penguasa Darurat Militer Daerah atau Kepala Staf\nPenguasa Perang Daerah dibantu oleh:\na.\nb.\nc.\nd.\nKepala Seksi Keamanan/Pertahanan yang mengkoordinir\nsemua kegiatan mengenai keamanan/pertahanan;\nKepala Seksi Finec yang mengkoordinir semua kegiatan\nmengenai keuangan, ekonomi dan pembangunan;\nKepala Seksi Kesejahteraan Sosial yang mengkoordinir\nsemua kegiatan mengenai kesejahteraan sosial;\nKepala Seksi Sekretariat yang meliputi urusan-urusan\ntata hukum dan perundang-undangan, tata-usaha dan\ndokumentasi, perlengkapan dan angkutan, kepegawaian dan\nkeuangan;\n(2) Untuk kepentingan kerja-sama antara Angkatan Darat, Angkatan\nLaut, Angkatan Udara, Kepolisian Negara dan pemerintahan\nsipil, Kepala Staf Penguasa Darurat Sipil Daerah, Kepala Staf\nPenguasa Darurat Militer Daerah atas Penguasa Perang Daerah\ndapat dibantu pula oleh :\na.\nAsisten Urusan Angkatan Darat, yang mengurus soal-soal\nmengenai Angkatan Darat dengan Panglima/Komandannya;\ndan/atau\nb. Asisten Urusan Angkatan Laut, yang mengurus soal-soal\nmengenai Angkatan Laut dengan Panglima/Komandan-nya;\ndan/atau\nC.\nd.\nAsisten Urusan Angkatan Udara, yang mengurus soal-soal\natau\nmengenai Angkatan Udara dengan\nPanglima/Komandannya; dan/atau\nAsisten Urusan Kepolisian, yang mengurus soal-soal\nmengenai Kepolisian dengan Kepalanya; dan atau\ne. Asisten Urusan Sipil, yang mengurus soal-soal\npemerintahan dengan Kepala Daerahnya dan Kepala-kepala\ninstansi yang bersangkutan didaerahnya.\n(3) Kepala-kepala Seksi yang dimaksudkan dalam ayat (1) pasal ini\ndiangkat oleh masing-masing Penguasa Darurat Sipil Daerah,\nPenguasa Darurat Militer Daerah atau Penguasa Perang Daerah\nyang bersangkutan.\n(4) Asisten-asisten yang dimaksudkan dalam ayat (2) pasal ini\ndiangkat oleh masing-masing Penguasa Darurat Sipil Daerah,\nPenguasa Darurat Militer Daerah atau Penguasa Perang Daerah\nyang bersangkutan, dengan persetujuan masing-masing Komandan\nMiliter tertinggi Angkatan Darat, Komandan Militer tertinggi\nAngkatan Laut, Komandan Militer tertinggi Angkatan Udara,\nKepala Polisi, Kepala Daerah, dari daerah yang bersangkutan.\n(5) Petugas-petugas lainnya dalam Staf Penguasa Darurat Sipil\nDaerah, Staf Penguasa Darurat Militer Daerah atau Staf\nPenguasa Perang Daerah diangkat oleh masing-masing Kepala\nStaf Penguasa Darurat Sipil Daerah, Kepala Staf Penguasa\nDarurat Militer Daerah atau Kepala Staf Penguasa Perang\nDaerah yang bersangkutan.",
+                "content": "(1) Dalam menyelenggarakan tugas yang dimaksudkan dalam pasal 3\nayat (1) Kepala Staf Penguasa Darurat Sipil Daerah, Kepala\nStaf Penguasa Darurat Militer Daerah atau Kepala Staf\nPenguasa Perang Daerah dibantu oleh:\na.\nb.\nc.\nd.\nKepala Seksi Keamanan/Pertahanan yang mengkoordinir\nsemua kegiatan mengenai keamanan/pertahanan;\nKepala Seksi Finec yang mengkoordinir semua kegiatan\nmengenai keuangan, ekonomi dan pembangunan;\nKepala Seksi Kesejahteraan Sosial yang mengkoordinir\nsemua kegiatan mengenai kesejahteraan sosial;\nKepala Seksi Sekretariat yang meliputi urusan-urusan\ntata hukum dan perundang-undangan, tata-usaha dan\ndokumentasi, perlengkapan dan angkutan, kepegawaian dan\nkeuangan;\n(2) Untuk kepentingan kerja-sama antara Angkatan Darat, Angkatan\nLaut, Angkatan Udara, Kepolisian Negara dan pemerintahan\nsipil, Kepala Staf Penguasa Darurat Sipil Daerah, Kepala Staf\nPenguasa Darurat Militer Daerah atas Penguasa Perang Daerah\ndapat dibantu pula oleh :\na.\nAsisten Urusan Angkatan Darat, yang mengurus soal-soal\nmengenai Angkatan Darat dengan Panglima/Komandannya;\ndan/atau\nb. Asisten Urusan Angkatan Laut, yang mengurus soal-soal\nmengenai Angkatan Laut dengan Panglima/Komandan-nya;\ndan/atau\nC.\nd.\nAsisten Urusan Angkatan Udara, yang mengurus soal-soal\natau\nAngkatan Udara\ndengan\nsoal-soal\nmengenai\nPanglima/Komandannya; dan/atau\nAsisten Urusan Kepolisian, yang mengurus\nmengenai Kepolisian dengan Kepalanya; dan atau\ne. Asisten Urusan Sipil, yang mengurus\npemerintahan dengan Kepala Daerahnya dan Kepala-kepala\ninstansi yang bersangkutan didaerahnya.\nsoal-soal\n(3) Kepala-kepala Seksi yang dimaksudkan dalam ayat (1) pasal ini\ndiangkat oleh masing-masing Penguasa Darurat Sipil Daerah,\nPenguasa Darurat Militer Daerah atau Penguasa Perang Daerah\nyang bersangkutan.\n(4) Asisten-asisten yang dimaksudkan dalam ayat (2) pasal ini\ndiangkat oleh masing-masing Penguasa Darurat Sipil Daerah,\nPenguasa Darurat Militer Daerah atau Penguasa Perang Daerah\nyang bersangkutan, dengan persetujuan masing-masing Komandan\nMiliter tertinggi Angkatan Darat, Komandan Militer tertinggi\nAngkatan Laut, Komandan Militer tertinggi Angkatan Udara,\nKepala Polisi, Kepala Daerah, dari daerah yang bersangkutan.\n(5) Petugas-petugas lainnya dalam Staf Penguasa Darurat Sipil\nDaerah, Staf Penguasa Darurat Militer Daerah atau Staf\nPenguasa Perang Daerah diangkat oleh masing-masing Kepala\nStaf Penguasa Darurat Sipil Daerah, Kepala Staf Penguasa\nDarurat Militer Daerah atau Kepala Staf Penguasa Perang\nDaerah yang bersangkutan.",
                 "explanation": "Tidak ada Penjelasan"
             }
         },
         {
-            "id": "0898c12f-0e44-4b2a-a2f1-85abaa0e3306",
+            "id": "a08fc214-2a05-4cb1-9128-cef57850f2b2",
             "name": "Article 5",
             "type": "article",
             "children": {
-                "id": "997be5b7-f14b-4269-b0ed-1a13fed99d90",
+                "id": "69a0ebed-05f9-4190-a707-a039f4c8c0e2",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -66,11 +66,11 @@
             }
         },
         {
-            "id": "d91f7221-5f04-4c56-b7a7-5379de992747",
+            "id": "cb610282-d8c1-4833-a06f-159b53690ce0",
             "name": "Article 6",
             "type": "article",
             "children": {
-                "id": "8bff26f5-9dd5-4a78-b4f9-12b4486e357e",
+                "id": "8c396dd4-8952-4b83-9c96-9e5cb21e0946",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -79,11 +79,11 @@
             }
         },
         {
-            "id": "f7ab3156-5c4b-4179-9937-8cce10a6a898",
+            "id": "491694a6-de2c-436c-b604-9052809652f4",
             "name": "Article 7",
             "type": "article",
             "children": {
-                "id": "9649581d-2365-4290-a7ee-f062406e1e30",
+                "id": "b4baa958-9610-4201-b355-7da4665b2456",
                 "name": "Verse 1",
                 "number": "(1)",
                 "type": "verse",
@@ -97,12 +97,12 @@
         "Tahun": "1960",
         "Tentang": "ORGANISASI PEMBANTU PENGUASA DALAM KEADAAN BAHAYA DI DAERAH",
         "Menimbang": {
-            "Introduction": "\n1. ahwa untuk menjamin kelancaran penguasaan dalam keadaan\nbahaya didaerah, perlu diatur organisasi yang membantu\nPenguasa dalam Keadaan Bahaya didaerah, baik Penguasa Darurat\nSipil Daerah, Penguasa Darurat Militer Daerah maupun Penguasa\nPerang Daerah;\n2. ahwa dalam hubungan itu, perlu menghapuskan organisasi Staf\nPenguasa Perang Pusat untuk daerah Angkatan Darat. Staf\nPenguasa Perang Pusat untuk Daerah Angkatan Laut. Staf\nPenguasa Perang Pusat untuk daerah Angkatan Udara dan semua\nStaf Penguasa Perang Daerah yang dibentuk atau berdasarkan\nUndang-undang Keadaan Bahaya 1957;"
+            "Introduction": "\n1.  ahwa untuk menjamin kelancaran penguasaan dalam keadaan\n    bahaya didaerah, perlu diatur organisasi yang membantu\n    Penguasa dalam Keadaan Bahaya didaerah, baik Penguasa Darurat\n    Sipil Daerah, Penguasa Darurat Militer Daerah maupun Penguasa\n    Perang Daerah;\n2.  ahwa dalam hubungan itu, perlu menghapuskan organisasi Staf\n    Penguasa Perang Pusat untuk daerah Angkatan Darat. Staf\n    Penguasa Perang Pusat untuk Daerah Angkatan Laut. Staf\n    Penguasa Perang Pusat untuk daerah Angkatan Udara dan semua\n    Staf Penguasa Perang Daerah yang dibentuk atau berdasarkan\n    Undang-undang Keadaan Bahaya 1957;"
         },
         "Mengingat": {
             "Introduction": "",
-            "1": " Pasal 5 ayat (2) Undang-undang Dasar;",
-            "2": " Pasal-pasal 4, 5 dan 6 Peraturan Pemerintah Pengganti Undang-\nundang No. 23 tahun 1959 (Lembaran-Negara tahun 1959 No. 139)\ntentang Keadaan Bahaya;\nMendengar \nMusyawarah Badan Pembantu sebagaimana yang\ndimaksudkan dalam pasal 3 ayat (2) Peraturan\nPemerintah Pengganti Undang-undang No. 23 tahun\n1959 tentang Keadaan Bahaya pada tanggal 16\nJanuari 1960;"
+            "1": "  Pasal 5 ayat (2) Undang-undang Dasar;",
+            "2": "  Pasal-pasal 4, 5 dan 6 Peraturan Pemerintah Pengganti Undang-\n    undang No. 23 tahun 1959 (Lembaran-Negara tahun 1959 No. 139)\n    tentang Keadaan Bahaya;\nMendengar \nMusyawarah Badan Pembantu sebagaimana yang\ndimaksudkan dalam pasal 3 ayat (2) Peraturan\nPemerintah Pengganti Undang-undang No. 23 tahun\n1959 tentang Keadaan Bahaya pada tanggal 16\nJanuari 1960;"
         },
         "Menetapkan": "\nPertama \nMenghapuskan organisasi Staf Penguasa Perang Pusat\nuntuk daerah Angkatan Darat, Staf Penguasa Perang\nPusat untuk daerah Angkatan Laut, Staf Penguasa\nPerang Pusat untuk daerah Angkatan Udara dan semua\nStaf Penguasa Perang Daerah yang dibentuk\nberdasarkan Undang-undang Keadaan Bahaya 1097;\nKedua\nDengan membatalkan semua ketentuan yang bertentangan\ndengan Peraturan Pemerintah ini;\nMenetapkan \nPeraturan Pemerintah tentang Organisasi Pembantu Penguasa\ndalam Keadaan Bahaya didaerah.",
         "tanggal sah": "8 Maret 1960"

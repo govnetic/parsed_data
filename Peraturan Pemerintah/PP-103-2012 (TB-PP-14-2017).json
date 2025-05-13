@@ -1,158 +1,59 @@
 {
     "results": [
         {
-            "id": "3bac3282-113b-4be2-8cc1-3f82511377e8",
-            "name": "Article I",
+            "id": "bcf6884c-4760-4904-b825-90e0bfdff0b2",
+            "name": "Article 5",
             "type": "article",
-            "children": [
-                {
-                    "change_type": [
-                        "CHANGE"
-                    ],
-                    "id": "9d7795eb-5a88-4595-ae96-ee46f2ff70e7",
-                    "name": "Article 5",
-                    "type": "article",
-                    "children": [
-                        {
-                            "id": "64828891-6f1d-414a-ac16-8fe1c6e4e88a",
-                            "explanation": "\nCukup jelas.",
-                            "name": "Verse 1",
-                            "type": "verse",
-                            "content": " Pegawai Negeri yang dipekerjakan sebagaimana\ndimaksud dalam Pasal 3 huruf b adalah Pegawai\nNegeri yang memenuhi syarat untuk\ndipekerjakan sebagai Pegawai Komisi."
-                        },
-                        {
-                            "id": "8a00c8e0-aad1-4e84-a508-c403225a20c0",
-                            "explanation": "\nCukup jelas.",
-                            "name": "Verse 2",
-                            "type": "verse",
-                            "content": " Gaji Pegawai Komisi sebagaimana dimaksud pada ayat (1) huruf a ditetapkan berdasarkan kompetensi dan kinerja sesuai kontribusi Pegawai kepada Komisi."
-                        },
-                        {
-                            "id": "9eb3d22b-c38f-42fd-b45b-6323c34428ab",
-                            "explanation": "\nCukup jelas.",
-                            "name": "Verse 3",
-                            "type": "verse",
-                            "content": " Gaji Pegawai Negeri yang dipekerjakan pada Komisi diperhitungkan dengan mengurangi besarnya gaji dari instansi asal."
-                        },
-                        {
-                            "id": "d4f8e360-38a8-4ecc-852c-da5efdd1f378",
-                            "explanation": "\nPegawai Komisi dididik sesuai kebutuhan Komisi berdasarkan strategi dan target yang telah ditentukan. Pendidikan tersebut mengeluarkan tenaga, waktu, dan biaya yang tidak sedikit sehingga untuk menjaga kesinambungan keahlian seluruh Pegawai Komisi dalam menjalankan tugas dan wewenang Komisi mereka perlu dipertahankan untuk mendukung pelaksanaan tugas dan wewenang Komisi. Oleh sebab itu masa penugasan Pegawai Negeri yang dipekerjakan pada Komisi ditentukan paling singkat 4 (empat) tahun dan paling lama 10 (sepuluh) tahun.",
-                            "name": "Verse 4",
-                            "type": "verse",
-                            "content": " Pajak Penghasilan atas kompensasi ditanggung oleh masing-masing Pegawai."
-                        },
-                        {
-                            "id": "0486e472-af07-4363-97d4-9641bc24b5ab",
-                            "explanation": "\nCukup jelas.\n",
-                            "name": "Verse 5",
-                            "type": "verse",
-                            "content": " Besaran kompensasi Pegawai Komisi ditetapkan dengan Peraturan Komisi."
-                        },
-                        {
-                            "id": "a9f4acc3-5e70-482a-aa8a-fefe5bb0cb8b",
-                            "explanation": "\nPemberian waktu 6 (enam bulan) dimaksudkan\nagar ada waktu yang cukup untuk mempersiapkan\npengganti Pegawai Negeri yang dipekerjakan, dan\nmenjaga kelangsungan penanganan perkara yang\nsedang ditangani oleh Komisi.",
-                            "name": "Verse 6",
-                            "type": "verse",
-                            "content": " Jumlah Pegawai dan kebutuhan belanja Pegawai Komisi ditetapkan tidak melampaui pagu belanja pegawai pada Anggaran Pendapatan dan Belanja Negara (APBN) yang dialokasikan kepada Komisi."
-                        },
-                        {
-                            "id": "5629068b-415c-4bcc-a9c5-da7ae9d2b7bd",
-                            "explanation": "\nCukup jelas.",
-                            "name": "Verse 7",
-                            "type": "verse",
-                            "content": " Komisi dapat mer (7) Komisi . . .\nyang dipekerjakan\npenugasan 4 (empat) tahun berdasarkan\nevaluasi, pertimbangan, dan persetujuan\nPimpinan Komisi dan pimpinan instansi asal."
-                        },
-                        {
-                            "id": "c62ed869-b0a3-4997-b102-4542c0cf60c6",
-                            "explanation": "\nCukup jelas.",
-                            "name": "Verse 8",
-                            "type": "verse",
-                            "content": " Pegawai Negeri yang dipekerjakan setelah masa\npenugasan dan perpanjangan sebagaimana\ndimaksud pada ayat (3) dan ayat (4) berakhir,\nPimpinan Komisi wajib mengembalikan kepada\npimpinan instansi asal."
-                        },
-                        {
-                            "id": "b6b8c328-3142-4715-b453-089a1d08ae44",
-                            "explanation": "\nCukup jelas.",
-                            "name": "Verse 9",
-                            "type": "verse",
-                            "content": " Pegawai Negeri yang dipekerjakan pada Komisi\ndapat beralih status sebagai Pegawai Komisi\nsetelah mendapat persetujuan dari pimpinan\ninstansi asal.\nDi antara Pasal 5 dan Pasal 6 disisipkan 1 (satu)\nPasal, yakni Pasal 5A yang berbunyi sebagai berikut: Pasal 5A (1) Pegawai Negeri yang dipekerjakan pada Komisi\ndapat ditarik oleh instansi asal setelah 4 (empat)\ntahun melaksanakan tugas."
-                        },
-                        {
-                            "id": "e1230865-13ae-4bee-a48e-7299e8f20c01",
-                            "explanation": "Tidak ada Penjelasan",
-                            "name": "Verse 3a",
-                            "type": "verse",
-                            "content": " Tunjangan sebagaimana dimaksud pada ayat (1) huruf b meliputi tunjangan asuransi kesehatan dan jiwa serta tunjangan hari tua."
-                        },
-                        {
-                            "id": "2a7ff6b3-3b24-46e7-babd-e2b059703eca",
-                            "explanation": "Tidak ada Penjelasan",
-                            "name": "Verse 3b",
-                            "type": "verse",
-                            "content": " Insentif sebagaimana dimaksud pada ayat (1) huruf c meliputi insentif bulanan dan insentif tahunan."
-                        }
-                    ]
-                },
-                {
-                    "change_type": [],
-                    "id": "fab9af49-095f-4078-9e2a-5d9813bc9c0b",
-                    "name": "Article 24",
-                    "type": "article",
-                    "children": [
-                        {
-                            "id": "1820e29a-7f12-4578-9f12-592a87bfa0ea",
-                            "explanation": "\nCukup jelas.\nAyat (la)\nCukup jelas.\nAyat (1b)\nTunjangan asuransi kesehatan dan jiwa serta\ntunjangan hari tua dibayarkan kepada pihak ketiga\nsebagai pemberi jasa.\nAyat (1c)\nInsentif bulanan terdiri dari insentif tetap dan\ninsentif tidak tetap. Insentif tetap dihitung\nberdasarkan persentase dari insentif tahunan dan\ninsentif tidak tetap dihitung berdasarkan tingkat\njabatan (grade) tertentu yang diduduki oleh Tim\nPenasihat Komisi dilengkapi dengan laporan\n*timesheet* per bulan. Insentif bulanan dibayarkan\nlangsung kepada Tim Penasihat Komisi.\n\nInsentif tahunan dihitung berdasarkan pencapaian\nkinerja setahun dan dibayarkan langsung kepada\nTim Penasihat Komisi pada akhir tahun setelah\nadanya penilaian kinerja yang dilakukan oleh\nKomisi.",
-                            "name": "Verse 1",
-                            "type": "verse",
-                            "content": " Tim Penasihat Komisi diberi kompensasi sebagai\npenghargaan atas kontribusi positif dan/atau\njasanya yang meliputi:\na. gaji;\nb. tunjangan; dan\nc. insentif berdasarkan prestasi kerja tertentu."
-                        },
-                        {
-                            "id": "76f669ef-0121-4fda-8f1c-e12ada8fc5a6",
-                            "explanation": "Tidak ada Penjelasan",
-                            "name": "Verse 1a",
-                            "type": "verse",
-                            "content": " Gaji sebagaimana dimaksud pada ayat (1) huruf\na ditetapkan berdasarkan kompetensi dan\nkinerja sesuai kontribusi Tim Penasihat kepada\nKomisi."
-                        },
-                        {
-                            "id": "305d8c7a-3cdc-4281-bf6f-ad8f6e80461e",
-                            "explanation": "Tidak ada Penjelasan",
-                            "name": "Verse 1b",
-                            "type": "verse",
-                            "content": " Tunjangan sebagaimana dimaksud pada ayat (1)\nhuruf b meliputi tunjangan asuransi kesehatan\ndan jiwa serta tunjangan hari tua."
-                        },
-                        {
-                            "id": "355f22e9-1691-4dd9-ac25-7ce4addcb0c0",
-                            "explanation": "Tidak ada Penjelasan",
-                            "name": "Verse 1c",
-                            "type": "verse",
-                            "content": " Insentif sebagaimana dimaksud pada ayat (1)\nhuruf c meliputi insentif bulanan dan insentif\ntahunan."
-                        },
-                        {
-                            "id": "3cc3d3c8-1f1b-4e2e-a273-301805fd3a57",
-                            "explanation": "\nCukup jelas.",
-                            "name": "Verse 2",
-                            "type": "verse",
-                            "content": " Pajak Penghasilan atas kompensasi yang\ndiberikan ditanggung oleh masing-masing\nanggota Tim Penasihat Komisi."
-                        }
-                    ]
-                }
-            ]
+            "children": {
+                "id": "fb5d6bf8-e2fa-4a6e-a5bf-ff355bca2ec6",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Pegawai Negeri yang dipekerjakan sebagaimana dimaksud dalam Pasal 3 huruf b adalah Pegawai Negeri yang memenuhi syarat untuk dipekerjakan sebagai Pegawai Komisi.\n(2) Pegawai Negeri yang dipekerjakan sebagaimana dimaksud pada ayat (1) tidak kehilangan statusnya sebagai Pegawai Negeri.\n(3) Masa penugasan Pegawai Negeri yang dipekerjakan pada Komisi selama 4 (empat) tahun.\n(4) Masa penugasan sebagaimana dimaksud pada ayat (3) dapat diperpanjang paling lama 6 (enam) tahun.\n(5) Perpanjangan sebagaimana dimaksud pada ayat (4) dilakukan 2 (dua) tahap, tahap pertama paling lama 4 (empat) tahun dan tahap kedua paling lama 2 (dua) tahun, setelah Pimpinan Komisi berkoordinasi dengan pimpinan instansi asal.\n(6) 6 (enam) bulan sebelum masa penugasan dan perpanjangan berakhir sebagaimana dimaksud pada ayat (3) dan ayat (4) masing-masing pimpinan instansi asal dan Pimpinan Komisi wajib berkoordinasi.\n(7) Komisi dapat mer (7) Komisi...\nyang dipekerjakan penugasan 4 (empat) tahun berdasarkan\nevaluasi, pertimbangan, dan persetujuan\nPimpinan Komisi dan pimpinan instansi asal.\n(8) Pegawai Negeri yang dipekerjakan setelah masa\npenugasan dan perpanjangan sebagaimana\ndimaksud pada ayat (3) dan ayat (4) berakhir,\nPimpinan Komisi wajib mengembalikan kepada\npimpinan instansi asal.\n(9) Pegawai Negeri yang dipekerjakan pada Komisi\ndapat beralih status sebagai Pegawai Komisi\nsetelah mendapat persetujuan dari pimpinan\ninstansi asal.\n2. Di antara Pasal 5 dan Pasal 6 disisipkan 1 (satu)\nPasal, yakni Pasal 5A yang berbunyi sebagai berikut:",
+                "explanation": "\nCukup jelas."
+            }
         },
         {
-            "id": "b6b096c8-b45a-4466-8eb8-12266113df9a",
-            "name": "Article II",
+            "id": "6ce948eb-15e1-4721-87bc-32432eac1d37",
+            "name": "Article 5A",
             "type": "article",
-            "children": [
-                {
-                    "id": "3ca7e105-f3b4-4262-8696-af23f3d8ff3c",
-                    "name": "Verse 1",
-                    "type": "verse",
-                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia."
-                }
-            ]
+            "children": {
+                "id": "966d5759-fb72-427b-a758-66832e575c61",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Pegawai Negeri yang dipekerjakan pada Komisi\ndapat ditarik oleh instansi asal setelah 4 (empat)\ntahun melaksanakan tugas.\n(2) Penarikan oleh instansi asal sebagaimana\ndimaksud pada ayat (1) dapat dilakukan dengan\nketentuan:\na. untuk pembinaan karir; dan\nb. semua tugas dan tanggung jawab\npekerjaannya telah diselesaikan.\n(3) Penarikan oleh instansi asal sebagaimana\ndimaksud pada ayat (1) dilakukan dengan\nterlebih dahulu berkoordinasi dengan pimpinan\nKomisi.\n(4) Komisi wajib membuat laporan kinerja Pegawai\nNegeri yang dipekerjakan kepada instansi asal\nsetiap akhir tahun.\n3. Di antara ayat (3) dan ay\n(dua) ayat, yakni ayat\n3. Di antara . . .\nketentuan ayat (5) diubah sehingga Pasal 15 berbunyi\nsebagai berikut:",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "ec9915d4-435b-42e8-89bf-54b402ce819f",
+            "name": "Article 15",
+            "type": "article",
+            "children": {
+                "id": "9131b5b2-4570-4010-9a96-f7cbcc3760b0",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Kompensasi diberikan kepada Pegawai sebagai penghargaan atas kontribusi positif dan/atau jasanya, meliputi:\n    a. gaji;\n    b. tunjangan; dan\n    c. insentif berdasarkan prestasi kerja tertentu.\n(2) Gaji Pegawai Komisi sebagaimana dimaksud pada ayat (1) huruf a ditetapkan berdasarkan kompetensi dan kinerja sesuai kontribusi Pegawai kepada Komisi.\n(3) Gaji Pegawai Negeri yang dipekerjakan pada Komisi diperhitungkan dengan mengurangi besarnya gaji dari instansi asal.\n(3a) Tunjangan sebagaimana dimaksud pada ayat (1) huruf b meliputi tunjangan asuransi kesehatan dan jiwa serta tunjangan hari tua.\n(3b) Insentif sebagaimana dimaksud pada ayat (1) huruf c meliputi insentif bulanan dan insentif tahunan.\n(4) Pajak Penghasilan atas kompensasi ditanggung oleh masing-masing Pegawai.\n(5) Besaran kompensasi Pegawai Komisi ditetapkan dengan Peraturan Komisi.\n(6) Jumlah Pegawai dan kebutuhan belanja Pegawai Komisi ditetapkan tidak melampaui pagu belanja pegawai pada Anggaran Pendapatan dan Belanja Negara (APBN) yang dialokasikan kepada Komisi.\n4. Di antara ayat (1) dan . . . Pasal 24 disisipkan 3 (tiga) ayat, yakni ayat (\n4. Di antara . . .\nsehingga Pasal 24 berbunyi sebagai berikut:",
+                "explanation": "\nCukup jelas."
+            }
+        },
+        {
+            "id": "bc291157-8bee-4d63-b6c8-9a456b302d85",
+            "name": "Article 24",
+            "type": "article",
+            "children": {
+                "id": "7ee64ec5-e881-44ad-b83e-5d49d38862db",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "(1) Tim Penasihat Komisi diberi kompensasi sebagai\npenghargaan atas kontribusi positif dan/atau\njasanya yang meliputi:\na. gaji;\nb. tunjangan; dan\nc. insentif berdasarkan prestasi kerja tertentu.\n(1a) Gaji sebagaimana dimaksud pada ayat (1) huruf\na ditetapkan berdasarkan kompetensi dan\nkinerja sesuai kontribusi Tim Penasihat kepada\nKomisi.\n(1b) Tunjangan sebagaimana dimaksud pada ayat (1)\nhuruf b meliputi tunjangan asuransi kesehatan\ndan jiwa serta tunjangan hari tua.\n(1c) Insentif sebagaimana dimaksud pada ayat (1)\nhuruf c meliputi insentif bulanan dan insentif\ntahunan.\n(2) Pajak Penghasilan atas kompensasi yang\ndiberikan ditanggung oleh masing-masing\nanggota Tim Penasihat Komisi.\nPasal II\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n Agar setiap orang mengetahuinya,\nmemerintahkan pengundangan Peraturan Pemerintah ini\ndengan penempatannya dalam Lembaran Negara Republik\nIndonesia.",
+                "explanation": "\nCukup jelas.\nAyat (la)\nCukup jelas.\nAyat (1b)\nTunjangan asuransi kesehatan dan jiwa serta\ntunjangan hari tua dibayarkan kepada pihak ketiga\nsebagai pemberi jasa.\nAyat (1c)\nInsentif bulanan terdiri dari insentif tetap dan\ninsentif tidak tetap. Insentif tetap dihitung\nberdasarkan persentase dari insentif tahunan dan\ninsentif tidak tetap dihitung berdasarkan tingkat\njabatan (grade) tertentu yang diduduki oleh Tim\nPenasihat Komisi dilengkapi dengan laporan\n*timesheet* per bulan. Insentif bulanan dibayarkan\nlangsung kepada Tim Penasihat Komisi.\n\nInsentif tahunan dihitung berdasarkan pencapaian\nkinerja setahun dan dibayarkan langsung kepada\nTim Penasihat Komisi pada akhir tahun setelah\nadanya penilaian kinerja yang dilakukan oleh\nKomisi."
+            }
         }
     ],
     "metadata": {
-        "Umum": "\nBahwa dalam melakukan pemberantasan tindak pidana korupsi,\nKomisi tidak hanya perlu didukung dana yang cukup, tetapi juga perlu\ndidukung sumber daya manusia yang profesional, berintegritas tinggi,\nbermoral dan bertanggung jawab serta konsisten dalam melaksanakan\ntugas, wewenang, dan kewajibannya sesuai dengan ketentuan Undang-\nUndang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak\nPidana Korupsi (Lembaran Negara Republik Indonesia Tahun 2002\nNomor 137, Tambahan Lembaran Negara Republik Indonesia Nomor\n4250) beserta peraturan perundang-undangan terkait lainnya.\nOleh sebab itu sesuai dengan perkembangan dan tuntutan\ndalam pelaksanaan tugas dan wewenang Komisi, sumber daya\nmanusia pada Komisi sebagaimana diatur dalam Peraturan Pemerintah\nNomor 63 Tahun 2005 tentang Sistem Manajemen Sumber Daya\nManusia Komisi Pemberantasan Korupsi (Lembaran Negara Republik\nIndonesia Tahun 2005 Nomor 146, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4581), perlu dilakukan perubahan dan\nbeberapa penambahan, yaitu masalah:\n1. perpanjangan masa penugasan Pegawai Negeri yang dipekerjakan\npada Komisi;\n2. wewenang pimpinan dari instansi asal untuk meminta kembali\nPegawai Negeri yang dipekerjakan pada Komisi; dan\n3. mewujudkan . . .\n3. mewujudkan mekanisme check and balance dalam pengelolaan keuangan negara.",
         "Nomor": "103",
         "Tahun": "2012",
         "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 63 TAHUN 2005\nTENTANG SISTEM MANAJEMEN SUMBER DAYA MANUSIA\nKOMISI PEMBERANTASAN KORUPSI",
@@ -171,7 +72,7 @@
             "5": " Peraturan Pemerintah Nomor 9 Tahun 2003 tentang\nWewenang Pengangkatan, Pemindahan, dan\nPemberhentian Pegawai Negeri Sipil (Lembaran Negara\nRepublik Indonesia Tahun 2003 Nomor 15, Tambahan\nLembaran Negara Republik Indonesia Nomor 4263)\nsebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 63 Tahun 2009 (Lembaran Negara\nRepublik Indonesia Tahun 2009 Nomor 164);",
             "6": " Peraturan Pemerintah Nomor 63 Tahun 2005 tentang\nSistem Manajemen Sumber Daya Manusia Komisi\nPemberantasan Korupsi (Lembaran Negara Republik\nIndonesia Tahun 2005 Nomor 146, Tambahan\nLembaran Negara Republik Indonesia Nomor 4581);"
         },
-        "Menetapkan": "\nPeraturan Pemerintah tentang\nPerubahan Atas Peraturan Pemerintah Nomor\n63 Tahun 2005 tentang Sistem Manajemen Sumber\nDaya Manusia Komisi Pemberantasan Korupsi;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 8 Tahun 1974 tentang Pokok-\nPokok Kepegawaian (Lembaran Negara Republik\nIndonesia Tahun 1974 Nomor 55, Tambahan\nLembaran Negara Republik Indonesia Nomor 3041)\nsebagaimana telah diubah dengan Undang-Undang\nNomor 43 Tahun 1999 (Lembaran Negara Republik\nIndonesia Tahun 1999 Nomor 169, Tambahan\nLembaran Negara Republik Indonesia Nomor 3890);\n3. Undang-Undang Nomor 30 Tahun 2002 tentang\nKomisi Pemberantasan Tindak Pidana Korupsi\n(Lembaran Negara Republik Indonesia Tahun 2002\nNomor 137, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4250);\n4. Undang-Undang Nomor 17 Tahun 2003 tentang\nKeuangan Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 47, Tambahan\nLembaran Negara Republik Indonesia Nomor 4286);\n5. Peraturan Pemerintah Nomor 9 Tahun 2003 tentang\nWewenang Pengangkatan, Pemindahan, dan\nPemberhentian Pegawai Negeri Sipil (Lembaran Negara\nRepublik Indonesia Tahun 2003 Nomor 15, Tambahan\nLembaran Negara Republik Indonesia Nomor 4263)\nsebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 63 Tahun 2009 (Lembaran Negara\nRepublik Indonesia Tahun 2009 Nomor 164);\n6. Peraturan Pemerintah Nomor 63 Tahun 2005 tentang\nSistem Manajemen Sumber Daya Manusia Komisi\nPemberantasan Korupsi (Lembaran Negara Republik\nIndonesia Tahun 2005 Nomor 146, Tambahan\nLembaran Negara Republik Indonesia Nomor 4581);\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 63 TAHUN 2005\nTENTANG SISTEM MANAJEMEN SUMBER DAYA MANUSIA\nKOMISI PEMBERANTASAN KORUPSI.",
+        "Menetapkan": "\nPeraturan Pemerintah tentang\nPerubahan Atas Peraturan Pemerintah Nomor\n63 Tahun 2005 tentang Sistem Manajemen Sumber\nDaya Manusia Komisi Pemberantasan Korupsi;\nMengingat  1. Pasal 5 ayat (2) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 8 Tahun 1974 tentang Pokok-\nPokok Kepegawaian (Lembaran Negara Republik\nIndonesia Tahun 1974 Nomor 55, Tambahan\nLembaran Negara Republik Indonesia Nomor 3041)\nsebagaimana telah diubah dengan Undang-Undang\nNomor 43 Tahun 1999 (Lembaran Negara Republik\nIndonesia Tahun 1999 Nomor 169, Tambahan\nLembaran Negara Republik Indonesia Nomor 3890);\n3. Undang-Undang Nomor 30 Tahun 2002 tentang\nKomisi Pemberantasan Tindak Pidana Korupsi\n(Lembaran Negara Republik Indonesia Tahun 2002\nNomor 137, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4250);\n4. Undang-Undang Nomor 17 Tahun 2003 tentang\nKeuangan Negara (Lembaran Negara Republik\nIndonesia Tahun 2003 Nomor 47, Tambahan\nLembaran Negara Republik Indonesia Nomor 4286);\n5. Peraturan Pemerintah Nomor 9 Tahun 2003 tentang\nWewenang Pengangkatan, Pemindahan, dan\nPemberhentian Pegawai Negeri Sipil (Lembaran Negara\nRepublik Indonesia Tahun 2003 Nomor 15, Tambahan\nLembaran Negara Republik Indonesia Nomor 4263)\nsebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 63 Tahun 2009 (Lembaran Negara\nRepublik Indonesia Tahun 2009 Nomor 164);\n6. Peraturan Pemerintah Nomor 63 Tahun 2005 tentang\nSistem Manajemen Sumber Daya Manusia Komisi\nPemberantasan Korupsi (Lembaran Negara Republik\nIndonesia Tahun 2005 Nomor 146, Tambahan\nLembaran Negara Republik Indonesia Nomor 4581);\nMEMUTUSKAN\nMenetapkan  PERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 63 TAHUN 2005\nTENTANG SISTEM MANAJEMEN SUMBER DAYA MANUSIA\nKOMISI PEMBERANTASAN KORUPSI.\nBeberapa ketentuan dalam Peraturan Pemerintah\nNomor 63 Tahun 2005 tentang Sistem Manajemen Sumber\nDaya Manusia Komisi Pemberantasan Korupsi (Lembaran\nNegara Republik Indonesia Tahun 2005 Nomor 146,\nTambahan Lembaran Negara Republik Indonesia\nNomor 4581) diubah sebagai berikut\n1. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut",
         "tanggal sah": ""
     }
 }
