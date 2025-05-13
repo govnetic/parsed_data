@@ -1,0 +1,211 @@
+{
+    "results": [
+        {
+            "id": "4d3ed781-0d2d-4ae3-897c-7af03705e6f0",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "07408b3d-57bc-418c-955a-b51f690bfaee",
+                    "name": "Article 15A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e3613ddd-8041-45a7-9c16-ce270bcef6cd",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nDalam hal permohonan pengesahan akta pendirian Yayasan\nsebagaimana dimaksud dalam Pasal 15 ayat (1) dan kekayaan awal\nYayasan berasal dari Yayasan yang sudah tidak dapat menggunakan\nkata \"Yayasan\" di depan namanya, permohonan pengesahan dilampiri:\na. salinan akta pendirian Yayasan yang dalam premise aktanya\nmenyebutkan asal-usul pendirian Yayasan termasuk kekayaan\nYayasan yang bersangkutan;\nb. laporan kegiatan Yayasan paling sedikit selama 5 (lima) tahun\nterakhir secara berturut-turut yang ditandatangani oleh Pengurus\nYayasan dan diketahui oleh instansi terkait;\nс. surat pernyataan Pengurus Yayasan bahwa Yayasan tidak pernah\ndibubarkan secara sukarela atau berdasarkan putusan\npengadilan;\nd. fotokopi Nomor Pokok Wajib Pajak Yayasan yang telah dilegalisir\noleh notaris;\ne. surat pernyataan tempat kedudukan disertai alamat lengkap\nYayasan yang ditandatangani oleh Pengurus Yayasan dan\ndiketahui oleh lurah atau kepala desa setempat;\nf. pernyataan tertulis dari Pengurus Yayasan yang memuat\nketerangan nilai kekayaan pada saat penyesuaian Anggaran\nDasar;\ng. surat pernyataan Pengurus mengenai keabsahan kekayaan\nYayasan; dan\nh. bukti penyetoran biaya pengesahan dan pengumuman Yayasan."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [],
+                    "id": "952c7d3f-fbac-4cfb-aa7f-d322d153ec04",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "b9ce891f-4124-4888-8b14-a7b6e4231069",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pemberitahuan perubahan Anggaran Dasar Yayasan selain\nperubahan nama dan kegiatan Yayasan disampaikan kepada\nMenteri oleh Pengurus Yayasan untuk dicatat dalam Daftar\nYayasan dan diumumkan dalam Tambahan Berita Negara\nRepublik Indonesia."
+                        },
+                        {
+                            "id": "2a2aae56-10b5-4c3f-b850-73061f4141e2",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Pemberitahuan sebagaimana dimaksud pada ayat (1) dilampiri:\na. salinan akta perubahan Anggaran Dasar Yayasan;\nb. fotokopi Nomor Pokok Wajib Pajak Yayasan yang telah\ndilegalisir oleh notaris;\nc. bukti penyetoran biaya penerimaan pemberitahuan\nperubahan Anggaran Dasar dan pengumumannya."
+                        },
+                        {
+                            "id": "9955f336-8e52-4340-b9a0-a188e14c064a",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Selain persyaratan sebagaimana dimaksud pada ayat (2) Yayasan\nyang:\na. mengubah tempat kedudukan harus melampirkan surat\npernyataan tempat kedudukan Yayasan yang ditandatangani\noleh Pengurus Yayasan dan diketahui oleh lurah atau kepala\ndesa setempat;\nb. memperoleh bantuan negara, bantuan luar negeri, dan/atau\npihak lain sebesar Rp500.000.000,00 (lima ratus juta rupiah)\natau lebih dalam 1 (satu) tahun buku atau mempunyai\nkekayaan di luar harta wakaf sebesar Rp20.000.000.000,00\n(dua puluh miliar rupiah) atau lebih harus melampirkan\npengumuman surat kabar yang memuat ikhtisar laporan\ntahunan dan tembusan hasil audit laporan tahunan."
+                        },
+                        {
+                            "id": "75c20969-5463-44fb-ba46-05c36f0a2a4d",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Perubahan Anggaran Dasar Yayasan sebagaimana dimaksud pada\nayat (1) berlaku sejak tanggal diterbitkannya surat penerimaan\npemberitahuan perubahan Anggaran Dasar Yayasan oleh Menteri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "afef3a74-69b1-4bde-a0f7-a3533c6f64c3",
+                    "name": "Article 19",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e13558a6-9960-4ecc-a7e2-36390e8e78ea",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Pemberitahuan perubahan data Yayasan disampaikan kepada\nMenteri oleh Pengurus Yayasan atau kuasanya dengan\nmelampirkan dokumen yang memuat perubahan tersebut."
+                        },
+                        {
+                            "id": "5cf83693-eab8-462f-909b-6af2ee6669a7",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Perubahan sebagaimana dimaksud pada ayat (1) mulai berlaku\nsejak tanggal keputusan rapat atau tanggal kemudian yang\nditetapkan dalam keputusan rapat yang sah memutuskan\nperubahan data tersebut."
+                        },
+                        {
+                            "id": "e369ffed-70cf-458f-b8ff-29296698a815",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Menteri berdasarkan pemberitahuan perubahan data\nsebagaimana dimaksud pada ayat (1) melakukan pencatatan\nperubahan data dan menerbitkan surat penerimaan\npemberitahuan perubahan data."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "d8294855-952a-4c58-a47e-dc64719eab1b",
+                    "name": "Article 19A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "7edce788-bad9-487b-835c-f3a907f6ba97",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nMenteri hanya dapat menerima perubahan Anggaran Dasar dan/atau\nperubahan data Yayasan yang dilakukan oleh anggota organ yang\ntelah diberitahukan kepada Menteri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [],
+                    "id": "f0e4e4f5-2bdc-44ee-bca0-80d539e6bc38",
+                    "name": "Article 37A",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f08b5d7e-af1d-436c-bb97-e33e54d07eec",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": " Dalam hal perubahan Anggaran Dasar sebagaimana dimaksud\ndalam Pasal 37 ayat (1) dilakukan untuk Yayasan yang sudah\ntidak dapat menggunakan kata \"Yayasan\" di depan namanya\nmaka Yayasan tersebut harus memenuhi persyaratan sebagai\nberikut:\na. paling sedikit selama 5 (lima) tahun berturut-turut sebelum\npenyesuaian Anggaran Dasar masih melakukan kegiatan\nsesuai Anggaran Dasarnya; dan\nb. belum pernah dibubarkan."
+                        },
+                        {
+                            "id": "76f3fa90-c655-44a1-9265-e0b76e166a71",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 2",
+                            "type": "verse",
+                            "content": " Perubahan Anggaran Dasar Yayasan sebagaimana dimaksud pada\nayat (1) dilakukan dengan cara mengubah seluruh Anggaran\nDasar Yayasan dan mencantumkan:\na. seluruh kekayaan Yayasan yang dimiliki pada saat\npenyesuaian, yang dibuktikan dengan:\n1) laporan keuangan yang dibuat dan ditandatangani oleh\nPengurus Yayasan tersebut; atau\n2) laporan keuangan yang telah diaudit oleh akuntan\npublik bagi Yayasan yang laporan keuangannya wajib\ndiaudit sesuai dengan ketentuan Undang-Undang;\nb. data mengenai nama dari anggota Pembina, Pengurus, dan\nPengawas yang diangkat pada saat perubahan dalam rangka\npenyesuaian Anggaran Dasar tersebut."
+                        },
+                        {
+                            "id": "3489b198-f762-4903-ae34-79d2bf72af39",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 3",
+                            "type": "verse",
+                            "content": " Pemberitahuan perubahan Anggaran Dasar Yayasan sebagaimana\ndimaksud pada ayat (2) yang telah disesuaikan dengan Undang-\nUndang disampaikan kepada Menteri oleh Pengurus Yayasan atau\nkuasanya melalui notaris yang membuat akta perubahan\nAnggaran Dasar Yayasan."
+                        },
+                        {
+                            "id": "78e574b1-72ca-4175-a32f-de2c9f330651",
+                            "explanation": "Tidak ada Penjelasan",
+                            "name": "Verse 4",
+                            "type": "verse",
+                            "content": " Pemberitahuan perubahan Anggaran Dasar sebagaimana\ndimaksud pada ayat (1) dilampiri:\na. salinan akta perubahan seluruh Anggaran Dasar yang\ndilakukan dalam rangka penyesuaian dengan ketentuan\nUndang-Undang;\nb. Tambahan Berita Negara Republik Indonesia yang memuat\nakta pendirian Yayasan atau bukti pendaftaran akta\npendirian di pengadilan negeri dan izin melakukan kegiatan\nc.\ndari instansi terkait;\nlaporan kegiatan Yayasan selama 5 (lima) tahun berturut-\nturut sebelum penyesuaian Anggaran Dasar yang\nditandatangani oleh Pengurus dan diketahui oleh instansi\nterkait;\nd. surat pernyataan Pengurus Yayasan bahwa Yayasan tidak pernah dibubarkan secara sukarela atau berdasarkan putusan pengadilan;\ne. fotokopi Nomor Pokok Wajib Pajak Yayasan yang telah dilegalisir oleh notaris;\nf. surat pernyataan tempat kedudukan disertai alamat lengkap Yayasan yang ditandatangani oleh Pengurus Yayasan dan diketahui oleh lurah atau kepala desa setempat;\ng. neraca Yayasan yang ditandatangani oleh semua anggota organ Yayasan atau laporan akuntan publik mengenai kekayaan Yayasan pada saat penyesuaian;\nh. pengumuman surat kabar mengenai ikhtisar laporan tahunan bagi Yayasan yang sebagian kekayaannya berasal dari bantuan negara, bantuan luar negeri, dan/atau sumbangan masyarakat sebagaimana dimaksud dalam Pasal 72 Undang-Undang; dan\ni. bukti penyetoran biaya pemberitahuan perubahan Anggaran Dasar Yayasan dan pengumumannya."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "e0350b71-2459-400e-8320-9db850847109",
+                    "name": "Article 38",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "13df6442-d410-4265-a937-9b4f996d88eb",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nPerubahan Anggaran Dasar Yayasan sebagaimana dimaksud dalam Pasal 37 dan Pasal 37A mulai berlaku sejak tanggal diterbitkannya surat penerimaan pemberitahuan perubahan Anggaran Dasar Yayasan oleh Menteri."
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "87480eff-c069-4f32-8892-e8e161dfc3aa",
+                    "name": "Article 39",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ff0164d2-958f-4e72-8719-db812004e84c",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\nYayasan yang belum memberitahukan kepada Menteri sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 71 ayat (3) Undang- Undang tidak dapat menggunakan kata \"Yayasan\" di depan namanya sebagaimana dimaksud dalam Pasal 71 ayat (4) Undang-Undang dan tidak lagi melakukan kegiatannya sesuai dengan Anggaran Dasar selama 3 (tiga) tahun berturut-turut, harus melikuidasi kekayaannya serta menyerahkan sisa hasil likuidasi sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 68 Undang-Undang."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cf37b37a-574e-42cd-a23c-2319f52e7ebf",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "e251ee4d-031b-48e0-bd12-20ae556be075",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "2",
+        "Tahun": "2013",
+        "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 63 TAHUN 2008\nTENTANG PELAKSANAAN UNDANG-UNDANG TENTANG YAYASAN",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa Yayasan wajib menyesuaikan Anggaran Dasarnya\ndengan Undang-Undang Nomor 16 Tahun 2001 tentang\nYayasan sebagaimana telah diubah dengan Undang-\nUndang Nomor 28 Tahun 2004 tentang Perubahan atas\nUndang-Undang Nomor 16 Tahun 2001 tentang Yayasan,\nagar memperoleh status badan hukum Yayasan atau\ntetap diakui sebagai Yayasan yang berbadan hukum;",
+            "b": " bahwa sampai saat ini masih terdapat Yayasan yang\nbelum menyesuaikan Anggaran Dasarnya dengan\nUndang-Undang sebagaimana dimaksud dalam huruf a;",
+            "c": " bahwa untuk memberikan kemudahan kepada\nmasyarakat dalam mendaftarkan pendirian dan/atau\nperubahan Anggaran Dasar Yayasan dalam rangka\npenyesuaian dengan Undang-Undang tentang Yayasan\nperlu menyempurnakan beberapa ketentuan dalam\nPeraturan Pemerintah Nomor 63 Tahun 2008 tentang\nPelaksanaan Undang-Undang tentang Yayasan;",
+            "d": " bahwa berdasarkan pertimbangan sebagaimana\ndimaksud dalam huruf a, huruf b, dan huruf c, perlu\nmenetapkan Peraturan Pemerintah tentang Perubahan\natas Peraturan Pemerintah Nomor 63 Tahun 2008 tentang\nPelaksanaan Undang-Undang tentang Yayasan;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;",
+            "2": " Undang-Undang Nomor 16 Tahun 2001 tentang Yayasan\n(Lembaran Negara Republik Indonesia Tahun 2001 Nomor\n112, Tambahan Lembaran Negara Republik Indonesia\nNomor 4132) sebagaimana telah diubah dengan Undang-\nUndang Nomor 28 Tahun 2004 tentang Perubahan atas\nUndang-Undang Nomor 16 Tahun 2001 tentang Yayasan\n(Lembaran Negara Republik Indonesia Tahun 2004 Nomor\n115, Tambahan Lembaran Negara Republik Indonesia\nNomor 4430);",
+            "3": " Peraturan Pemerintah Nomor 63 Tahun 2008 tentang\nPelaksanaan Undang-Undang tentang Yayasan (Lembaran\nNegara Republik Indonesia Tahun 2008 Nomor 134,\nTambahan Lembaran Negara Republik Indonesia Nomor\n4894);"
+        },
+        "Menetapkan": "\nPeraturan Pemerintah tentang Perubahan\natas Peraturan Pemerintah Nomor 63 Tahun 2008 tentang\nPelaksanaan Undang-Undang tentang Yayasan;\nMengingat 1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 16 Tahun 2001 tentang Yayasan\n(Lembaran Negara Republik Indonesia Tahun 2001 Nomor\n112, Tambahan Lembaran Negara Republik Indonesia\nNomor 4132) sebagaimana telah diubah dengan Undang-\nUndang Nomor 28 Tahun 2004 tentang Perubahan atas\nUndang-Undang Nomor 16 Tahun 2001 tentang Yayasan\n(Lembaran Negara Republik Indonesia Tahun 2004 Nomor\n115, Tambahan Lembaran Negara Republik Indonesia\nNomor 4430);\n3. Peraturan Pemerintah Nomor 63 Tahun 2008 tentang\nPelaksanaan Undang-Undang tentang Yayasan (Lembaran\nNegara Republik Indonesia Tahun 2008 Nomor 134,\nTambahan Lembaran Negara Republik Indonesia Nomor\n4894);\nMEMUTUSKAN\nMenetapkan PERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 63 TAHUN 2008\nTENTANG PELAKSANAAN UNDANG-UNDANG TENTANG\nYAYASAN.",
+        "tanggal sah": "2 Januari 2013"
+    }
+}

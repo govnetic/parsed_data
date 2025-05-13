@@ -1,0 +1,56 @@
+{
+    "results": [
+        {
+            "id": "29fd95d4-fee9-4421-9c71-e6610332f3d4",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "929d1dc0-e479-4d88-873c-83489a125fd3",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Kepada Presiden Universitet Negeri Gajah Mada di Yogyakarta dan\nPresiden Balai Perguruan Tinggi Republik Indonesia di Jakarta\ndiberikan kedudukan selama menjabat jabatan itu menurut golongan/\nruang VI/g Peraturan Pemerintah No. 16 tahun 1950.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "a44397a8-a13c-4c0b-98c9-1ab769b4cb4b",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "11e965ef-6a44-485b-a413-60dd659e18d1",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Kepada penjabat-penjabat tersebut dalam pasal 1 diberi ongkos\nrepresentasi bulanan menurut aturan khusus yang akan ditetapkan\nkemudian.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "63be8ce3-03e0-430b-8c32-3ac5f1a4cbc3",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "77550c8e-53e5-40de-8983-80468c433060",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan dan\nberlaku surut sampai tanggal 1 Agustus 1950.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "19",
+        "Tahun": "1951",
+        "Tentang": "PERATURAN TENTANG KEDUDUKAN PRESIDEN UNIVERSITET\nNEGERI GAJAH MADA DI YOGYAKARTA DAN PRESIDEN\nBALAI PERGURUAN TINGGI REPUBLIK INDONESIA DI JAKARTA.",
+        "Menimbang": {
+            "Introduction": "\nPerlu menetapkan kedudukan Presiden Universitet Negeri Gajah Mada\ndi Yogyakarta dan Presiden Balai Perguruan Tinggi Republik\nIndonesia di Jakarta;"
+        },
+        "Mengingat": {
+            "Introduction": "\na. Pasal 31 Peraturan Pemerintah No. 37 tahun 1950 (R.I.\ndahulu);\nb. Peraturan Pemerintah No. 16 tahun 1950 (R.I.S. dahulu);"
+        },
+        "Menetapkan": "\nNot Available",
+        "tanggal sah": "1 Agustus 1950"
+    }
+}

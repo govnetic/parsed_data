@@ -1,0 +1,84 @@
+{
+    "results": [
+        {
+            "id": "d2fd07fa-a8c2-4b46-9988-b87f5bee2d4b",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "2cb4f42c-c994-468f-b7ff-97f8e398f2c7",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Akan dikeluarkan uang kertas Pemerintah dalam pecahan dua setengah rupiah dan satu rupiah sampai jumlah semua setinggi-tingginya Rp. 175.000.000,- (Seratus tujuh puluh lima juta rupiah).",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "7d9a1cff-aba0-4178-8dbb-40e3db2ae857",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "d9a0921d-5fcf-419a-84e3-944a935ff24e",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Uang-uang kertas Pemerintah termaksud merupakan alat-alat pembayaran yang sah sampai setiap jumlah.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "51275595-4725-4968-8370-4f0867976b09",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "b49826bd-1bea-439d-b35d-386da35931c9",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Menteri Keuangan diberi kuasa untuk memasukkan dalam peredaran dengan perantaraan Bank Sentral uang-uang kertas Pemerintah termaksud menurut adanya kebutuhan.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "a0c61b13-7c2e-4698-9982-cb7fcf156667",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "4806aeeb-9832-4761-bc55-c63efcd3f8c6",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1. Peraturan-peraturan lanjut tentang pengeluaran uang-uang kertas Pemerintah termaksud, ditetapkan oleh Menteri Keuangan, yang diserahi pula pelaksanaan Peraturan Pemerintah ini.\n2. Bersamaan dengan peraturan-peraturan ini, Menteri Keuangan\nmenetapkan pula peraturan tentang penarikan kembali dari\nperedaran dan penggantian uang-uang kertas Pemerintah yang\nkini masih berlaku dalam pecahan Rp. 0,50, Rp.1,- dan Rp.\n2,50.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "032a8a8b-763f-4576-8988-177951e54174",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "4ff264b9-909b-49a4-af94-db1feff7dc98",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada waktu yang akan\nditetapkan oleh Menteri Keuangan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "20",
+        "Tahun": "1953",
+        "Tentang": "PENGELUARAN UANG KERTAS PEMERINTAH",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa untuk mencukupi kebutuhan alat-alat pembayaran yang sah di Republik Indonesia perlu lagi dikeluarkan uang kertas Pemerintah baru;",
+            "b": " bahwa pengeluaran uang kertas Pemerintah baru ini, dapat dipergunakan untuk mengganti dan menarik kembali dari peredaran uang kertas Pemerintah yang lama;"
+        },
+        "Mengingat": {
+            "Introduction": "\nPasal 109 Undang-undang Dasar Sementara Republik Indonesia dan pasal 5 \"Undang-undang mata uang 1951 \"(Lembaran Negara Nomor 95 tahun 1951);\nMendengar\nDewan Menteri dalam rapatnya yang ke-100 pada tanggal 28 April 1953."
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENGELUARAN UANG,KERTAS PEMERINTAH.",
+        "tanggal sah": "11 Mei 1953"
+    }
+}

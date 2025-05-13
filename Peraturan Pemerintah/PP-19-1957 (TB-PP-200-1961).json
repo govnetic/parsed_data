@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+            "id": "2e3006e6-090c-4a2f-a505-417023d0f034",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "36b91459-2570-4735-8353-2de5c71c22fd",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Untuk semua pangkat-pangkat, yang dalam lampiran A Peraturan\nGaji Pegawai Negeri Sipil Republik Indonesia ('TGPN 1955\")\nsebagaimana diubah dan ditambah kemudian, dicantumkan dalam\ndaftar-daftar pangkat dan daftar aturan khusus golongan gaji Al,\nB1, BB1, C1, CC1, D1, DD1 dan El diberikan gaji berturut-turut\nmenurut golongan gaji A2, B2, BB2, C2, CC2, D2, DD2 dan E2.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "395f9a33-b3e9-4730-98f4-5207e2967721",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "765159d5-7b90-4cb3-9336-63093d785b3a",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Segala sesuatu yang perlu untuk melaksanakan ketentuan-\nketentuan dalam Peraturan ini, diatur oleh Menteri yang diserahi\nUrusan Pegawai.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "61f2d5d1-2032-4cd9-8439-e1dd02299c30",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "63a90047-c961-4680-abb5-d67b4902d854",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan ini berlaku mulai tanggal 1 Mei 1957.\nAgar setiap orang dapat mengetahuinya, memerintahkan supaya\nPeraturan Pemerintah ini diundangkan dalam Lembaran Negara\nRepublik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "19",
+        "Tahun": "1957",
+        "Tentang": "PENGUBAHAN PERATURAN GAJI PEGAWAI NEGERI SIPIL \"PGPN 1955\"\n(PERATURAN PEMERINTAH NO. 23 TAHUN 1955, LEMBARAN-NEGARA\nNO. 48 TAHUN 1955 SEBAGAIMANA TELAH DIUBAH DAN\nDITAMBAH KEMUDIAN)",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa dianggap perlu untuk segera menghapuskan perbedaan\ndalam pemberian gaji kepada pelbagai pangkat yang menurut\n\"PGPN 1955\" diatur menurut dua jenis golongan-golongan gaji\nyang berlainan;",
+            "b": " bahwa berhubung dengan hal itu perlu untuk mengubah peraturan\ntentang gaji Pegawai Negeri Sipil Republik Indonesia\n(Peraturan Pemerintah No. 23 tahun 1955) sebagaimana diubah\ndan ditambah kemudian, sedemikian sehingga semua pangkat-\npangkat akan termasuk dalam satu jenis daftar pangkat dengan\npemberian gaji menurut satu jenis golongan-golongan gaji;"
+        },
+        "Mengingat": {
+            "Introduction": "\nPasal 119 ayat (1) Undang-undang Dasar Sementara Republik\nIndonesia;\nMendengar\nDewan Menteri dalam rapatnya pada tanggal 13 Maret 1957;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERATURAN UNTUK MENGUBAH PERATURAN\nGAJI PEGAWAI NEGERI SIPIL PGPN 1955\" (PERATURAN PEMERINTAH NOMOR\n23 TAHUN 1955 SEBAGAIMANA DIUBAH DAN DITAMBAH KEMUDIAN); SEBAGAI\nBERIKUT",
+        "tanggal sah": "1 Mei 1957"
+    }
+}

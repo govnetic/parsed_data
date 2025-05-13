@@ -1,0 +1,123 @@
+{
+    "results": [
+        {
+            "id": "745301d5-2de3-4358-bed5-d4e42191e031",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "ADD"
+                    ],
+                    "id": "6029ce0a-cb29-408b-a064-db59278617ef",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "2db39b00-8f1c-44ea-8be2-00d0f776f7a4",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "ee898631-9ab6-4bee-9b4e-b001df520a5c",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "b60bdc2a-9261-4bdc-be27-4ab940869c27",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "f25c38d9-caff-4797-91c2-cef1e106bf49",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "4369efa8-b4cc-49af-b040-2691c833a56e",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "51c49b59-dead-4ec5-b95c-bb3165500e77",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "5dde9782-861e-4fc3-951a-a0d06a4755b5",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "1280448b-64dc-40cb-bd6e-79912cdc64e9",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "9c8de64a-6544-4469-8411-d8bba93b3601",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "69512fef-8d92-4bb0-9fcf-262eb5d5e5d3",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "b00ec880-e508-4b21-b4e0-6dda7d596154",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "20",
+        "Tahun": "1980",
+        "Tentang": "PERUBAHAN DAN TAMBAHAN ATAS PERATURAN PEMERINTAH NOMOR 21 TAHUN 1967\nTENTANG RADIO AMARATISME DI INDONESIA",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa berdasarkan Keputusan Presiden Nomor 18 Tahun 1975,\nDewan Telekomunikasi telah diubah menjadi suatu forum\npertimbangan, sehingga tugas-tugas eksekutif bidang\ntelekomunikasi secara fungsional dilaksanakan oleh Menteri\nPerhubungan cq Direktorat Jenderal Pos dan Telekomunikasi,\ntidak lagi dilaksanakan oleh Dewan Telekomunikasi;",
+            "b": " berdasarkan hal tersebut pada huruf a dan dalam rangka\npenataan dan penyempurnaan kembali kelembagaan Aparatur\nPemerintah, maka Peraturan Pemerintah Nomor 21 Tahun 1967\ntentang Radio Amatirisme di Indonesia perlu\ndiubah/disempurnakan;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 5 Tahun 1964 tentang Penetapan\nPeraturan Pemerintah Pengganti Undang-undang Nomor 6\nTahun 1963 tentang Telekomunikasi menjadi Undang-undang\n(Lembaran Negara Tahun 1964 Nomor 59, Tambahan Lembaran\nNegara Nomor 2657);",
+            "3": " Undang-undang Nomor 11 Tahun 1967 tentang Pengesahan\nKonvensi Telekomunikasi Internasional (ITU) Malaga\nTorremolinos 1973 (Lembaran Negara Tahun 1976 Nomor 56,\nTambahan Lembaran Negara Nomor 3092);",
+            "4": " Peraturan Pemerintah Nomor 21 Tahun 1967 tentang Radio\nAmatirisme di Indonesia (Lembaran Negara Tahun 1967 Nomor.\n35, Tambahan Lembaran Negara Nomor 2843);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN DAN TAMBAHAN\nATAS PERATURAN PEMERINTAH NOMOR 21 TAHUN 1967 TENTANG\nRADIO AMATIRISME DI INDONESIA.",
+        "tanggal sah": "23 Juni 1980"
+    }
+}

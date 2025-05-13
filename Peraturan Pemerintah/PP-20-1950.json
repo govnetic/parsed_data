@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "8f1b6371-ab75-4db4-856f-3f038b757ba5",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "eb5abc0d-5182-44a3-b893-7be9ee257f4f",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1. Ayat ke-5 Pasal 6 Peraturan Devisen 1940 (Staatsblad\nIndonesia 1940 No. 291) seperti yang kemudian telah ditambah\ndan diubah, yang terakhir dengan Peraturan Pemerintah No. 10\nTahun 1950 (Lembaran Negara 1950 No. 32) dihapuskan.\n2. Ayat ke-6 sub a pasal 6 tersebut menjadi ayat ke-5.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "a7e35f3d-66a1-4d88-aa0b-7973801f95e9",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "c594241d-4e66-4a07-8425-fc1a06a3f185",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diumumkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengumuman Peraturan Pemerintah ini dengan penempatan dalam\nLembaran Negara Republik Indonesia Serikat.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "20",
+        "Tahun": "1950",
+        "Tentang": "MENGUBAH PERATURAN DEVISEN (STAATSBLAD INDONESIA 1940 NO. 291)",
+        "Menimbang": {
+            "Introduction": "\nBahwa perlu diadakan perubahan dalam pembebasan dari kewajiban\nuntuk memberitahukan tentang emas seperti diterangkan dalam\nPeraturan Devisen 1940 (Staatsblad Indonesia 1940 No. 291),\nseperti yang kemudian telah ditambah dan diubah, yang terakhir\ndengan Peraturan Pemerintah No. 10 Tahun 1950 (Lembaran Negara\n1950 No. 32);"
+        },
+        "Mengingat": {
+            "Introduction": "\nOrdonansi Devisen 1940 (Staatsblad Indonesia 1940 No. 205),\nseperti yang kemudian telah ditambah dan diubah, yang terakhir\ndengan Staatsblad Indonesia 1948 No. 141;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH UNTUK MENGUBAH PERATURAN DEVISEN (STAATSBLAD\n1940 No. 291).",
+        "tanggal sah": "10 Agustus 1950"
+    }
+}

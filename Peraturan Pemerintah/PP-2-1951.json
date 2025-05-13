@@ -1,0 +1,342 @@
+{
+    "results": [
+        {
+            "id": "108d5156-dc1c-4114-94c9-b47dad3ed29a",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "8e4bf4ac-a39e-466b-8af4-100aa6d84075",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan ini berlaku untuk:\na. Semua anggauta tentara dari Angkatan Darat dan\nb. Mereka, yang pada waktu berlakunya peraturan ini atau\nsesudahnya diperhentikan dari dinas ketentaraan dengan\nmendapat pensiun atau onderstand terus-menerus.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "a4e39c0f-2836-4909-806f-a92351162b49",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "7dcd1768-57e7-46af-a6c0-b73e39ba855b",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Para anggauta tentara tersebut dalam pasal Ia diwajibkan\nmembayar tujuh per seratus dari jumlah penghasilan kotor\nmereka (gaji, uang tunggu atau bagian gaji), agar supaya\nkelak dapat diberikan pensiun kepada janda-jandanya dan\nonderstand kepada anak-anak yatim/piatunya.\n2). Iuran yang termaksud dalam ayat (1) dan yang disebut \"iuran\nbiasa\" dipotong pada waktu pembayaran penghasilan termasuk di\nayat itu.\n3). Kewajiban untuk membayar \"iuran-biasa\" itu diperhentikan pada\nakhir bulan jika yang berkepentingan :\na. Tidak lagi masuk golongan tersebut dalam pasal Ia;\nb. Tidak lagi mendapat penghasilan seperti tersebut dalam\nayat 1 pasal ini.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "b80a0c19-aca9-4663-8b82-8579f955b801",
+            "name": "Article 3",
+            "type": "article",
+            "children": {
+                "id": "16d503a1-8935-4ad9-8543-6cd18b54f777",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Jikalau seorang anggauta tentara yang wajib membayar iuran\nbiasa, atau kewajibannya itu telah berakhir menurut pasal 2\nayat (3) sub b dikeluarkan dari dinas ketentaraan dengan\nmendapat pensiun atau onderstand terus-menerus, maka ia wajib\nmembayar iuran-biasa sebesar tujuh per seratus dari pensiun\natau onderstand yang diperolehnya.\n2). Kewajiban untuk membayar iuran tersebut dalam ayat (1) yang\ndipotong tiap-tiap bulan dari pensiun atau Understand\ndibatalkan;\na. Mulai dari bulan sesudah yang berkepentingan menjabat\npekerjaan dan mendapat keanggautaan disesuatu Peraturan\npensiun janda dan anak yatim/piatu yang dibawah\npenilikan Pemerintah, sehingga jika ia pada waktu\nmeninggal isterinya dan/atau anak-anaknya mempunyai hak\natas pensiun-janda dan/atau onderstand anak\nyatim/piatu;\nb. Mulai dari bulan sesudahnya pensiun atau onderstand\nterus-menerus itu dibatalkan;\nc. Jika usia enam puluh tahun tercapai dan pada waktu itu\nta' ada istri yang berhak atas pensiun dan ta' ada anak\nyang berhak atas onderstand\nd. Sesudahnya usia enam puluh tahun tercapai, lalu ta' ada\nistri yang berhak atas pensiun dan ta' ada anak yang\nberhak atas onderstand.\n3). Jikalau kewajiban seperti termaksud dalam ayat (1) telah\ndibatalkan, maka kewajiban itu tidak dapat diadakan lagi.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "0cfef233-3d20-4620-be2c-8faf6fce6903",
+            "name": "Article 4",
+            "type": "article",
+            "children": {
+                "id": "592d3551-b68d-42e4-8736-be8df614031c",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Yang dimaksud \"pembayar-iuran-wajib\" dalam peraturan ini, ialah\nanggauta tentara atau bekas anggauta tentara yang diwajibkan\nmembayar iuran-biasa menurut pasal 2 dan 3.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "47753f63-a425-407a-a3ec-0f209033fcf9",
+            "name": "Article 5",
+            "type": "article",
+            "children": {
+                "id": "4f1346e3-ff14-4953-a945-17dd61f98fff",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Apabila pembayar-iuran-wajib mendapat kenaikan gaji, maka ia harus\nmembayar iuran sebesar sama dengan kenaikan gaji itu. Iuran ini\ndisebutkan \"iuran-luar-biasa\" dan dipotong sekaligus dari\npenghasilan bulan pertama dari kenaikan itu. Dari kenaikan gaji\nuntuk bulan itu tidak dipotong iuran-biasa.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "04de141f-dfc1-4c65-acc6-19e835ca8527",
+            "name": "Article 6",
+            "type": "article",
+            "children": {
+                "id": "4fd4a08e-25c4-49f4-a2f0-3c112d59cc18",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Selanjutnya untuk tiap-tiap penunjukan seorang isteri sebagai\nyang berhak menerima pensiun, maka pembayar-iuran-wajib pada\nwaktu penunjukan itu harus membayar iuran sebesar satu bulan\ngaji, tetapi jika pada ketika itu ia tidak menerima gaji\naktip, besarnya iuran ialah satu bulan gaji yang paling akhir\ndibayarkannya. Iuran ini disebut \"iuran-nikah\"\n2). Mulai dari bulan sesudah penunjukan itu, maka iuran-nikah ini\ndipotong dari penghasilan seperti dimaksud dalam ayat (1)\ndari pasal 2 dan 3, dalam tiga puluh enam angsuran yang\nsedapat mungkin sama besarnya.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "b927b050-cd24-4965-a2d8-9ed939cf74ef",
+            "name": "Article 7",
+            "type": "article",
+            "children": {
+                "id": "943eae91-ff95-47c3-8eb8-d53c772c5580",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Apabila kewajiban membayar iuran biasa telah dibatalkan, maka\npemotongan iuran-nikah ini diperhentikan, tetapi kewajiban itu\ndimulai lagi, jika yang berkepentingan membayar iuran-biasa lagi.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "cdf94064-30c3-413c-a47c-6f3802c2718b",
+            "name": "Article 8",
+            "type": "article",
+            "children": {
+                "id": "53fe60f4-01d2-46ab-8604-0a1c51666f3d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Seorang anggauta tentara atau bekas anggauta tentara yang\npada waktu berlakunya peraturan ini atau sesudah berhenti\nmenjadi pembayar-iuran-wajib, dapat meneruskan membayar iuran\nuntuk keperluan pemberian pensiun-janda kepada isterinya yang\npada waktu pembatalan kewajiban membayar iuran biasa telah\nditunjuk sebagai isteri yang berhak menerima pensiun atau\nyang harus dianggap sedemikian, dan onderstand-anak\nyatim/piatu kepada anak-anaknya yang berhak menerimanya, jika\ndengan cara yang akan ditentukan lebih lanjut dalam petunjuk\npenglaksanaannya, ia menyatakan kehendaknya dalam waktu enam\nbulan sesudah waktu tersebut.\n2). Jikalau seorang anggauta tentara atau bekas anggauta tentara\nseperti termaksud dalam ayat 1) di atas meninggal dunia dalam\nwaktu tersebut pada ayat itu dan sebelum meninggalnya tidak\nmenyatakan kehendaknya untuk terus membayar iuran, maka\nbiarpun demikian ia dianggap sebagai telah menyatakan\nkehendaknya sebelum waktu itu berakhir.\n3). Yang dimaksud dengan \"pembayar-iuran-sukarela\" dalam\nperaturan ini, ialah orang-orang yang menurut ketentuan-\nketentuan dalam ayat-ayat tersebut diatas telah atau dianggap\nsebagai telah menyatakan kehendaknya meneruskan membayar\niuran.\n4). Kecuali ketentuan-ketentuan yang termaksud dalam ayat-ayat di\nbawah ini, maka pembayar-iuran-sukarela harus membayar iuran\nbiasa sebesar tujuh per seratus dari gaji terakhir yang\ndiperolehnya, tetapi apabila ia sebagai pembayar-iuran-wajib\nmembayar iuran-biasa dari pensiun atau onderstand, maka dalam\nhal ini ia sebagai pembayar-iuran-sukarela juga harus\nmembayar iuran-biasa itu sebesar tujuh per seratus dari\npensiun atau onderstand tersebut. Selain dari pada itu\nseorang pembayar-iuran-sukarela diwajibkan melanjutkan\npembayaran iuran-nikah yang dahulu dikenakan kepadanya\nsebagai pembayar-iuran-wajib dan belum dibayar lunas.\n5). Jikalau seorang pembayar iuran-sukarela, yang dahulunya belum\nmempunyai pensiun ketika ia berhenti menjadi pembayar iuran-\nwajib, pada pemberhentian dengan hormat dari dinas\nketentaraan seharusnya telah akan dapat hak atas pensiun\nberdasarkan pasal I sub a \"Peraturan pemberian pensiun/dan\nonderstand kepada para anggauta tentara Angkatan Darat\"\n(Lembaran Negara 1950 No. 28), maka iuran-biasa tersebut\ndalam ayat di muka ini dihitung dari jumlah pensiun yang\nseharusnya telah akan diberikannya pada saat itu.\n6). Seorang pembayar-iuran-sukarela, yang tidak membayar iuran\ndari pensiun atau onderstand yang dahulu seharusnya diperoleh\natau dari pemberian pembayaran-pembayaran yang kayal seperti\ntermaksud dalam ayat di muka ini, diperkenankan membayar\niuran dari jumlah yang lebih rendah dari pada jumlah-jumlah\nyang untuk ia tersebut dalam ayat (4) di atas, akan tetapi\ntidak boleh kurang dari lima puluh rupiah. Dasar pemungutan\niuran ini dihari kemudian tidak dapat dinaikkan.\n7). Jikalau pembayar-iuran-sukarela akan memakai haknya tersebut\ndalam ayat (6) di atas, maka ia harus menetapkan dengan\npemberitahuan yang dimaksud pada ayat (1) atau apabila kelak\nhendak menurunkannya, juga dengan pemberitahuan semacam itu,\ndalam hal-hal mana tiap-tiap kali harus ditetapkan dasar\npembayaran iuran yang dikehendakinya.\n8). Setelah seorang pembayar-iuran-sukarela yang tidak membayar\niuran dari pensiun atau onderstand yang seharusnya diperoleh\natau dari pemberian pembayaran-pembayaran yang kayal seperti\ntermaksud dalam ayat (5), telah mencapai umur 50 tahun, dan\ntelah membayar iuran sekurang-kurangnya selama 25 tahun, maka\nia harus membayar separoh dari jumlah iuran-sukarela yang\ndahulunya harus dipungut, mulai dari bulan berikutnya setelah\nusia itu tercapai.\n9). Kewajiban membayar-iuran-biasa dari seorang pembayar-iuran-\nsukarela mulai berlaku pada bulan berikutnya setelah ia\nberhenti sebagai pembayar-iuran-wajib.\n10). Jikalau seorang pembayar-iuran-sukarela harus membayar iuran\nberdasarkan jumlah yang lebih rendah dari pada jumlah seperti\ntermaksud dalam ayat (6), maka pembayaran iuran itu berlaku\nmulai dari bulan berikutnya setelah pemberitahuan yang\nbersangkutan diterima.\n11). Kewajiban membayar iuran biasa oleh seorang pembayar-iuran-\nsukarela berakhir :\na.  Pada bulan waktu ia menjadi pembayar-iuran-wajib lagi;\nb.  pada bulan sesudahnya :\nke 1. ia meninggal dunia;\nke 2. suratnya permohonan pemberhentian pembayaran\n      iuran diterima;\nke 3. ia tidak mempunyai lagi isteri yang pada\n      waktu batalnya kewajiban membayar iuran-biasa\n      telah ditunjuk sebagai yang berhak menerima\n      pensiun, begitu juga anak-anak yang berhak\n      menerima onderstand, atau\nke 4. ia menunggak satu tahun dalam pembayaran\n      iuran-biasa, iuran-luar-biasa, atau juga\n      mempunyai tunggakan satu angsuran atau lebih\n      dari iuran-nikah yang masih harus dilunasinya\n      pada ketika kewajiban membayar iuran-biasa\n      dibatalkan\n12). Mulai ketika ia tidak lagi diharuskan membayar iuran-biasa,\nmaka yang berkepentingan dianggap bukan lagi pembayar-iuran-\nsukarela.\nApabila iuran-biasa, iuran-luar-biasa dan angsuran-angsuran iuran-\nnikah yang pada ketika tersebut di atas masih harus dilunasinya,\nmaka sedapat mungkin dipungut dengan potongan lima per seratus\nbaik dari penghasilan yang kelak mungkin diperolehnya seperti yang\ntermaksud dalam ayat (1) pasal 2, baik dari pensiun atau",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "681961fb-4b89-4733-a33a-7c08a0e2b3f2",
+            "name": "Article 9",
+            "type": "article",
+            "children": {
+                "id": "f2f7cdda-91d6-4fed-a5ac-8f94bf4cf29c",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Jikalau seorang pembayar-iuran-wajib meninggal dunia, maka\nisteri yang menurut penetapan peraturan ini telah ditunjuk\nsebagai yang berhak menerima pensiun atau yang dianggap\nsedemikian tersebut dalam ayat (9) dari pasal ini dan\npenunjukan itu masih berlaku, berhak mendapat pensiun.\n2). Penunjukan seorang isteri sebagai yang berhak menerima\npensiun hanya dapat dilakukan oleh seorang pembayar-iuran-\nwajib yang belum berumur 60 tahun.\n3). Penunjukan pertama kali dari seorang isteri sebagai yang\nberhak menerima pensiun harus dilakukan dalam waktu enam\nbulan sesudahnya peraturan ini untuk pertama kali berlaku\nbagi pembayar-iuran-wajib sebagai orang yang beristeri.\n4). Penunjukan dari seorang isteri lain sebagai yang berhak\nmenerima pensiun hanya diperkenankan setelah seorang\npembayar-iuran-wajib yang bersangkutan telah bercerai dengan\nisteri yang dahulu telah ditunjukkan, atau sesudah ia nikah\nlagi sedangkan penunjukan seorang isteri lainnya masih\nberlaku.\nDalam hal yang terakhir ini maka hanya isteri baharu itu\ndapat ditunjuk sebagai yang berhak menerima pensiun.\nUntuk menjalankan ayat ini maka penunjukan yang lalai tidak\ndiajukan, disamakan dengan penunjukan yang telah diberikan.\n5). Penunjukan seperti yang dimaksud dalam ayat 4) diatas harus\ndiberikan dalam waktu tiga bulan mulai dari adanya kesempatan\nmelakukan penunjukan itu.\n6). Tiap-tiap penunjukan seorang isteri yang berhak menerima\npensiun dianggap telah diberikannya pada waktu dan berlaku\nmulai hari diterimanya pemberitahuan yang diberikan menurut\ncara yang telah ditentukan.\n7). Seorang pembayar-iuran-wajib yang beristeri dan yang\nmelalaikan penunjukkan isterinya sebagai yang berhak menerima\npensiun dalam waktu yang telah ditentukan dalam ayat 3) dan\n5), dikenakan denda penunjukkan sepuluh per seratus dari\niuran-nikah, yang harus dibayarnya berangsur-angsur dan cara\nyang sama seperti pemungutan iuran-nikah.\n8). Tiap-tiap penunjukan seorang isteri sebagai yang berhak\nmenerima pensiun berhenti :\na. Jikalau perkawinan dengan isteri yang ditunjukkannya\nputus, mulai dari hari perkawinan itu putus;\nb. Jikalau pembayar-iuran-wajib yang bersangkutan menunjuk\nisteri lain sebagai yang berhak menerima pensiun, mulai\ndari hari penunjukan itu;\nc. Setelah yang berkepentingan bukan lagi pembayar-iuran-\nwajib, dengan tidak mengurangi ketentuan dalam pasal 8.\n9). Jikalau seorang pembayar-iuran-wajib yang beristeri meninggal\ndunia, sedangkan tidak ada penunjukan isterinya atau salah\nseorang dari isteri-isterinya sebagai yang berhak menerima\npensiun, maka yang dianggap sebagai yang berhak menerima\npensiun itu ialah isteri yang pada waktu itu dikawinnya,",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "5a63f23b-18da-40e1-b533-1575071c100d",
+            "name": "Article 10",
+            "type": "article",
+            "children": {
+                "id": "fe36b301-cde8-4548-9e2c-9321ecf01891",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Pensiun-janda tersebut dalam pasal 9 tiap-tiap bulan adalah\nsebesar dua puluh per seratus dari gaji terakhir dari\nsuaminya yang telah meninggal dunia, dengan ketentuan bahwa\npensiun-janda itu serendah-rendahnya dua puluh rupiah dan\nsebanyak-banyaknya dua ratus rupiah.\n2). Jika meninggalnya itu disebabkan di dalam dan oleh karena\ndinas, maka pensiun-janda itu ditambah dengan lima puluh per\nseratus dengan ketentuan bahwa pensiun-janda itu tidak boleh\nlebih dari dua ratus lima puluh rupiah.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "28802ee7-3620-49f0-b0e4-259293048c6d",
+            "name": "Article 11",
+            "type": "article",
+            "children": {
+                "id": "168b172e-ba3e-4380-9291-09f4131dbfab",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Isteri seorang pembayar-iuran-sukarela seperti yang dimaksud\ndalam ayat 1) pasal 8 berhak mendapat pensiun, jikalau\nsuaminya pada waktu meninggal dunia masih menjadi pembayar-\niuran-sukarela.\n2). Besarnya pensium-janda tersebut dalam ayat di atas tiap-tiap\nbulan dua puluh per seratus dari dasar pembayaran terachir\nyang telah ditetapkan, dengan ketentuan bahwa pensiun-janda\nitu sebanyak-banyaknya dua ratus rupiah.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "ed1af2d8-44ba-4945-ac27-890fefb9d2cc",
+            "name": "Article 12",
+            "type": "article",
+            "children": {
+                "id": "fc2852d0-8dac-4a21-b1c5-2739a5987d8f",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Kepada anak-anak jatim/piatu yang ditinggalkan oleh seorang\npembayar-iuran-wajib atau oleh seorang pembayar-iuran-wajib\natau oleh seorang pembayar-iuran-sukarela yang pada waktu\nmeninggalnya masih menjadi pembayaran-iuran-sukarela akan\ndiberi onderstand, kecuali mereka termasuk dalam pasal 16.\n2). Yang diartikan anak-anak yatim/piatu dalam peraturan ini\nialah anak-anak (yang berhak menerima onderstand) dari\nseorang pembayar-iuran-wajib yang meninggal dunia, jikalau\ndan selama mereka belum berumur cukup dua puluh satu tahun.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "2e54fdff-4cdb-4c96-86a0-32f6574804d0",
+            "name": "Article 13",
+            "type": "article",
+            "children": {
+                "id": "48e27136-3baa-4303-8806-7258905ff550",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Yang berhak menerima onderstand yatim/piatu ialah anak-anak\ndari pembayar-pembayar-iuran-wajib seperti yang dimaksud\ndalam ayat-ayat di bawah ini, yang belum mencapai umur cukup\ndua puluh satu tahun dan yang telah atau harus sudah\ndidaftarkan menurut peraturan yang telah ditetapkan.\n2). Yang dicatat sebagai yang berhak menerima onderstand\nyatim/piatu seperti termaksud dalam ayat di atas, yaitu anak-\nanak yang dilahirkan dari perkawinan seorang pembayar-iuran-\nwajib dengan seorang isteri, yang pada waktu atau selambat-\nlambatnya tiga ratus hari sebelum lahirnya anak-anak itu\nditunjuk sebagai isteri yang berhak menerima pensiun atau\nyang dapat dianggap sedemikian.\n3). Selain dari pada itu dapat pula dicatat sebagai yang berhak\nmenerima onderstand yatim/piatu tersebut dalam ayat (1),\nanak-anak yang belum kawin, yang belum mencapai umur cukup\ndua puluh satu tahun dan yang sebelum waktu peraturan berlaku\nbagi pembayar-iuran-wajib yang bersangkutan, dilahirkan dari\nperkawinan dengan seorang isteri, yang pada waktu itu telah\ndinikah dan ditunjuk sebagai isteri pertama yang berhak\nmenerima pensiun, seperti yang dimaksud dalam ayat (3) pasal\n9 atau yang dapat dianggap sedemikian.\n4). Tiap-tiap pendaftaran seorang anak sebagai yang berhak\nmenerima onderstand dianggap telah selesai pada dan berlaku\nmulai dari hari diterimanya keterangan-keterangan yang\ndiperlukan, sebagaimana tercantum dalam ayat (1) di atas.\n5). Pembayar-iuran-wajib yang bersangkutan wajib mengirimkan\nketerangan-keterangan yang diperlukan untuk dimasukkan dalam\ndaftar dalam waktu yang telah ditetapkan dalam ayat-ayat enam\ndan tujuh di bawah ini.\nApabila pembayar-iuran-wajib yang bersangkutan telah\nmeninggal dunia sebelum kewajiban itu dipenuhi, maka\nketerangan-keterangan yang diperlukan itu dalam waktu yang\ntelah ditentukan harus dikirimkan oleh atau atas nama ibu\ndari anak yang bersangkutan.\n6). Pendaftaran sebagai yang berhak menerima onderstand-\nyatim/piatu bagi seorang anak tersebut dalam ayat (2), yang\ndilahirkan pada waktu berlakunya peraturan ini atau\nsesudahnya harus telah selesai dalam waktu enam bulan sesudah\nkelahiran itu.\n7). Pendaftaran sebagai yang berhak menerima onderstand-\nyatim/piatu bagi anak termaksud dalam ayat (3) harus telah\nselesai dalam waktu enam bulan setelah selesai mulai\nberlakunya peraturan ini bagi pembayar-iuran-wajib yang\nbersangkutan.\n8). Jikalau keterangan-keterangan yang diperlukan untuk\npendaftaran seorang anak sebagai yang berhak menerima\nonderstand-yatim/piatu tidak dikirim dalam waktu yang telah\nditentukan, maka harus dikenakan denda-pendaftaran sebesar\nsatu bulan iuran biasa yang seharusnya dibayar oleh ayahnya\npada permulaan kewajiban pendaftaran.\nPembayaran untuk ini dilakukan dengan dua kali angsuran yang\nsedapat mungkin sama jumlahnya dan dipotong dari\npenghasilannya tiap-tiap bulan tersebut dalam ayat 1) pasal 2\ndan 3 dan jika perlu dengan potongan atas pembayaran-\npembayaran yang menurut peraturan ini diberikan kepada\nkeluarga yang ditinggalkannya.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "4b73dd77-f57d-4a01-a461-7d8aadf8842b",
+            "name": "Article 14",
+            "type": "article",
+            "children": {
+                "id": "b41e5fe8-778f-4254-8c3e-d50d69d7a60d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Barang siapa dengan sengaja memberikan keterangan-keterangan\nyang tidak benar tersebut dalam pasal 13 atau siapa juga\ndengan sengaja turut membantu perbuatan itu, dihukum dengan\nhukuman penjara selama-lamanya satu tahun.\n2). Perbuatan tersebut dalam ayat (1) pasal ini dianggap sebagai\nkejahatan.\n3). Masa liwat-waktunya (verjaring) penuntutan hukuman karena\nkejahatan itu mulai dari hari sesudahnya hak atas pembayaran",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "a1e8115f-e92d-4623-b2bf-c56870866822",
+            "name": "Article 15",
+            "type": "article",
+            "children": {
+                "id": "5eadf3ef-8e12-40aa-a8d5-ab5d69b1897c",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Onderstand untuk anak-anak yatim yang dimaksud dalam pasal\n12, yang ibunya berhak mendapat pensiun menurut peraturan ini\nadalah sebesar :\nuntuk 1 anak = 25 per seratus dari pensiun-janda\n\" 2 \" = 40 \" \" \" \"\n\" 3 \" = 50 \" \" \" \"\n\" 4 \" = 55 \" \" \" \"\n\" 5 atau lebih=60 \" \" \" \"\n2). Untuk anak-anak piatu (yang ibunya meninggal), atau untuk\nanak-anak yatim, yang ibunya menurut peraturan ini tidak\nberhak mendapat pensiun, onderstand termasuk dalam pasal 12\nadalah sebesar :\nuntuk 1 anak = 40 per seratus dari pensiun-janda\n\" 2 \" = 70 \" \" \" \"\n\" 3 \" = 100 \" \" \" \"\n\" 4 \" = 115 \" \" \" \"\n\" 5 atau lebih= 120\n3). Pemberian onderstand kepada anak-anak yatim/piatu yang seayah\ntetapi berlainan ibu, ditetapkan untuk tiap-tiap golongan\ntersendiri, dengan catatan bahwa onderstand untuk semua\ngolongan anak-anak piatu dihitung dari pensiun-janda, untuk\npensiun mana ayahnya sebelum meninggal membayar iuran.\n4). Selama seorang janda yang ditinggalkan oleh pembayar-iuran-\nwajib menerima pensiun-janda menurut peraturan ini, maka\nbanyaknya jumlah onderstand-onderstand itu tidak boleh\nmelebihi dari pada banyaknya pensiun janda itu.\n5). Jika janda itu juga meninggal dunia, atau jika menurut\nperaturan ini ia tidak mendapat pensiun, maka banyaknya\njumlah onderstand-onderstand tidak boleh lebih dari dua kali\npensiun-janda, untuk pensiun mana pembayar iuran-wajib pada\nwaktu meninggal telah membayar iuran.\n6). Jika seluruh jumlah onderstand-anak yatim/piatu dari pelbagai\nperkawinan dari pembayar-iuran-wajib melebihi maximum yang\ndimaksud dalam ayat (4) atau ayat (5) dalam pasal ini, maka\npengurangan itu harus diadakan sedemikian rupa, sehingga\nimbangan antara onderstand-onderstand itu, tidak berobah.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "1a799086-cc3b-4a88-b541-2afba7e50026",
+            "name": "Article 16",
+            "type": "article",
+            "children": {
+                "id": "ede149b4-9e38-4562-b887-b5064b4713c0",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Onderstand tidak akan diberikan :\na. Kepada anak-anak yatim/piatu yang bekerja dan mendapat\npenghasilan paling sedikit f. 100, sebulan;\nb.kepada anak-anak yatim/piatu yang telah menikah.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "d19a3634-bb2c-401d-99f3-a610f89a407b",
+            "name": "Article 17",
+            "type": "article",
+            "children": {
+                "id": "e34066a3-24f6-4039-9f5b-978ba9b1412e",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Pensiun-janda dan onderstand-anak yatim/-piatu termasuk dalam",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "a5f66ac8-2406-45e8-a0a8-a0244f4e4245",
+            "name": "Article 18",
+            "type": "article",
+            "children": {
+                "id": "c0a049c6-8ea3-423c-bb3d-083f8a94f4be",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1).Jika kemudian ternyata, bahwa pensiun-janda atau onderstand anak yatim/piatu terlampau tinggi ditetapkannya, maka keputusan tentang pemberian pensiun atau onderstand itu akan ditinjau kembali dan diperbaharui dengan disebutkan alasan-alasan karena apa terjadinya perobahan-perobahan itu.\nDalam hal ini yang diterima lebih tidak akan ditagih kembali.\n2).Jika pensiun atau onderstand yang telah diberikan ternyata terlampau rendah ditetapkannya, maka jumlah pensiun atau onderstand itu akan dinaikkan sampai jumlah yang besar dengan keputusan baru dari yang berwajib tersebut dalam pasal 17.\nDalam hal ini hanya yang diterima kurang selama waktu lima tahun terakhir dapat diberikan kepada yang berkepentingan dengan tidak ditambah bunganya.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "8b0bdc6d-437d-42c3-ae12-fa4d68ebb052",
+            "name": "Article 19",
+            "type": "article",
+            "children": {
+                "id": "79b9a1e8-c78f-4386-83d5-aa76911d4ce3",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1).Pembayaran pensiun-janda dan onderstand-anak yatim/piatu seperti termaksud dalam peraturan ini, mulai berlaku pada tanggal 1 dari bulan dalam mana hak itu didapatkannya dan, jika mengenai anak yang dilahirkan setelah pembayaran-iuran-wajib meninggal dunia, terhitung mulai bulan berikutnya setelah anak itu dilahirkan.\n2).Pembayaran pensiun dan onderstand dilakukan tiap-tiap bulan menurut peraturan yang akan ditetapkan lebih lanjut.\n3).Pensiun dan onderstand itu akan dibayarkan sampai dengan bulan meninggalnya yang berhak atau hak menerima pembayaran itu hilang.\n4).Pensiun-janda atau onderstand anak yatim/piatu yang tidak diambil dalam waktu lima tahun, sesudah hari pensiun atau onderstand itu dapat diambil, tidak akan dibayar lagi.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "d238c071-171a-4627-92c2-fed4127f7dfe",
+            "name": "Article 20",
+            "type": "article",
+            "children": {
+                "id": "07bdf8d2-ba17-4519-ad0b-06f4048375a0",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1).Pensiun seorang janda yang ditetapkan menurut peraturan ini hilang, jika janda itu bersuami lagi mulai dari bulan setelah perkawinan itu terjadi.\n2).Jikalau perkawinan tersebut dalam ayat di atas diputuskan, maka janda tersebut mendapat kembali pensiunnya yang telah hilang, atau kepadanya diberikan pensiun yang lebih tinggi, yang menurut peraturan ini didapatnya sebagai akibat perkawinannya yang terakhir dan\nditetapkan mulai pada tanggal 1 dalam bulan putusnya\nperkawinan itu.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "11086544-4aeb-468f-acf9-9bed414adcdd",
+            "name": "Article 21",
+            "type": "article",
+            "children": {
+                "id": "1bac096b-a454-46e9-99af-2a2eddd2e4ea",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Presiden Republik Indonesia dapat mencabut hak atas :\na.pensiun yang telah diberikan kepada seorang janda menurut\nketentuan-ketentuan peraturan ini, jika janda itu\ndengan sengaja memberikan keterangan-keterangan yang\ntidak benar atau dengan sengaja melalaikan memberi\nketerangan-keterangan itu;\nb.onderstand yang telah diberikan kepada seorang anak, jika\npada ketika pendaftaran anak itu sebagai yang berhak\nmenerima onderstand, dengan sengaja diberikan\nketerangan-keterangan yang tidak benar atau dengan\nsengaja dilalaikan memberi keterangan-keterangan itu,\nyang dapat mempengaruhi pemberian atau pembayaran itu\natau penetapan jumlah pensiun/ onderstand.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "21289d04-fc9c-49e6-bfa6-0f553c71e8d5",
+            "name": "Article 22",
+            "type": "article",
+            "children": {
+                "id": "064c8ca3-dcde-437f-a420-9ac88c2af919",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Hak atas pensiun atau onderstand yang ditetapkan menurut\nperaturan ini tidak dapat dipindahkan.\n2). Hak atas pensiun atau onderstand seperti tersebut dalam\nayat di atas juga tidak dapat digadaikan, kecuali pada\nbadan-badan atau bank-bank yang untuk keperluan itu\nditunjuk oleh Menteri Sosial, dan dengan mengingat\nperaturan-peraturan dan syarat-syarat yang untuk\nkeperluan itu ditetapkan oleh Menteri tersebut.\n3).Jikalau yang berhak menerima pensiun atau onderstand telah\nmemberi kuasa pada orang lain untuk menerima\npensiunnya, maka sewaktu-waktu kuasa itu dapat ditarik\nkembali.\n4). Semua perjanjian-perjanjian yang bertentangan dengan\nketentuan-ketentuan dari pasal ini, tidak berlaku.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "d59654de-74d5-478a-9192-b5ff6c798987",
+            "name": "Article 23",
+            "type": "article",
+            "children": {
+                "id": "71d830fe-5e4e-4740-b675-a8685dab7f4d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "untuk mengerjakan dan menyelenggarakan ketentuan-ketentuan dari\nperaturan ini, maka seperlunya diadakan peraturan-peraturan\nlebih lanjut yang akan ditetapkan oleh Menteri Pertahanan\ndengan persetujuan Menteri Keuangan dan Wakil Direksi Dana\nPensiun Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "1b47fd1f-3955-49ef-b2ec-2d7ee7bfacc6",
+            "name": "Article 24",
+            "type": "article",
+            "children": {
+                "id": "2053f3a3-7562-4394-9fc8-0537614b4013",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "1). Dalam hal-hal yang luar biasa dan yang tidak termuat dalam\nperaturan ini, maka Presiden mempunyai kuasa untuk\nmengambil keputusan yang tersendiri dengan dijelaskan\nalasan-alasannya.\n2). Untuk kepentingan yang bersangkutan, maka dalam hal-hal\nyang luar biasa jika ada alasannya, Presiden juga\nmempunyai kuasa untuk menyimpang dari peraturan ini\ndengan surat keputusan yang memuat alasan-alasannya.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "44183c3c-e0fb-49e7-94cb-441ce0bbb760",
+            "name": "Article 25",
+            "type": "article",
+            "children": {
+                "id": "8924422c-6209-4565-9276-2d75c5df4527",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada hari diundangkan dan berlaku surat sampai tanggal 1 Januari 1950.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatan dalam Lembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "2",
+        "Tahun": "1951",
+        "Tentang": "PERATURAN PEMBERIAN PENSIUN KEPADA JANDA-JANDA\nDAN ONDERSTAN KEPADA ANAK-ANAK YATIM/PIATU DARI\nPARA ANGGAUTA TENTARA ANGKATAN DARAT",
+        "Menimbang": {
+            "Introduction": "\nBahwa perlu diadakan peraturan tentang pensiun untuk janda-janda\ndan onderstan untuk anak-anak yatim/piatu dari para anggauta\ntentara Angkatan Darat;"
+        },
+        "Mengingat": {
+            "Introduction": "\nPasal 36 dan pasal 98 Undang-undang Dasar Sementara Republik\nIndonesia dan pasal 7 Undang-undang darurat Republik Indonesia\nSerikat No. 4 tahun 1950 (Lembaran Negara 1950 No. 5);\nMendengar \nDewan Menteri;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PEMBERIAN PENSIUN KEPADA JANDA-JANDA\nDAN ONDERSTAN KEPADA ANAK-ANAK YATIM/PIATU DARI PARA ANGGAUTA\nTENTARA ANGKATAN DARAT.",
+        "tanggal sah": "1 Januari 1950"
+    }
+}

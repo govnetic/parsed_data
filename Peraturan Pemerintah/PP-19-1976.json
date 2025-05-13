@@ -1,0 +1,420 @@
+{
+    "results": [
+        {
+            "id": "17b243fe-a9ef-4535-89db-ed4fa91c773e",
+            "name": "Chapter I",
+            "title": "\nKEDUDUKAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "3e9af951-752c-4991-8088-d77d6375b568",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "8e0deb4a-ff3b-4cc3-ab1b-9f98a4808c7d",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPemerintah Propinsi Daerah Tingkat I Timor Timur berkedudukan di\nDili.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "269176be-ebe0-47aa-99d8-800966714312",
+            "name": "Chapter II",
+            "title": "\nSUSUNAN PEMERINTAHAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "0c325923-1a18-4f43-9bd9-946acdb2bfc1",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "7a2d6894-dc1b-4313-b02f-381eff77bda6",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Wilayah Propinsi Daerah Tingkat I Timor Timur dibagi dalam\nKabupaten-kabupaten Daerah Tingkat II.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "f8111b14-7500-4f8d-8084-227804b23282",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Tiap wilayah Kabupaten-kabupaten Daerah Tingkat II masing-\nmasing dibagi dalam beberapa Kecamatan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "0eb526d9-8b82-44ec-811b-250898eeb07b",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Wilayah Kecamatan masing-masing dibagi dalam beberapa Desa\natau nama lain yang setingkat dengan Desa.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "95f6ee98-8a5f-46f4-b2b2-6a7b97180c1c",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "5565c6b8-6370-48dc-8d01-c46848586a53",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Wilayah Propinsi Daerah Tingkat I Timor Timur terdiri dari 13\n(tiga belas) Kabupaten Daerah Tingkat II sebagai berikut:\n1. Kabupaten Daerah Tingkat II Dili dengan Ibukota Dili,\nmeliputi wilayah Kecamatan-kecamatan :\n(a) Dili Timur;\n(b) Dili Barat;\n\n(c) Atauro;\n(d) Metinaro;\n2. Kabupaten Daerah Tingkat II Baucau dengan Ibukota Baucau,\nmeliputi wilayah Kecamatan-kecamatan :\n(a) Baucau;\n(b) Vemasse;\n(c) Laga;\n(d) Baguia;\n(e) Venilale:\n(f) Quelicai;\n3. Kabupaten Daerah Tingkat II Manatuto dengan Ibukota\nManatuto, meliputi wilayah Kecamatan-kecamatan :\n(a) Manatuto;\n(b) Laclubar;\n(c) Barique;\n(d) Laclo;\n(e) Laleia;\n4. Kabupaten Daerah Tingkat II Lautem dengan Ibukota\nLospalos, meliputi wilayah Kecamatan-kecamatan :\n(a) Lospalos;\n(b) Luro;\n(c) Iliomar;\n(d) Lautem;\n(e) Tutuala:\n5. Kabupaten Daerah Tingkat II Viqueque dengan Ibukota\nViqueque, meliputi wilayah Kecamatan-kecamatan :\n(a) Viqueque;\n(b) Ossu;\n(c) Uato-Lari;\n(d) Lacluta:\n(e) Uato-Carbau;\n\n6. Kabupaten Daerah Tingkat II Ainaro dengan Ibukota Ainaro,\nmeliputi wilayah Kecamatan-kecamatan :\n(a) Ainaro;\n(b) Maubisse;\n(c) Hato-Bullico;\n(d) Hato-Hudo;\n(e) Mape;\n7. Kabupaten Daerah Tingkat II Manufahi dengan Ibukota Same,\nmeliputi wilayah Kecamatan-kecamatan :\n(a) Same:\n(b) Alas;\n(c) Fato-Berliu;\n(d) Turiscai.\n8. Kabupaten Daerah Tingkat II Cova-Lima dengan Ibukota Suai,\nmeliputi wilayah Kecamatan-kecamatan :\n(a) Suai;\n(b) Tilomar;\n(c) Fohorem;\n(d) Fatu-Lulic;\n(e) Fatu-Mean.\n9. Kabupaten Daerah Tingkat II Ambeno dengan Ibukota Pante-\nMacassar, meliputi wilayah Kecamatan-kecamatan :\n(a) Pante-Macassar;\n(b) Oe-Silo;\n(c) Nitibe;\n(d) Passabe;\n10. Kabupaten Daerah Tingkat II Bobonaro dengan Ibukota\nMaliana, meliputi wilayah Kecamatan-kecamatan :\n(a) Maliana;\n(b) Bobonaro;\n(c) Lolotoi;\n(d) Atabai;\n\n(e) Balibo;\n(f) Cailaco;\n11. Kabupaten Daerah Tingkat II Liquica dengan Ibukota Liquica,\nmeliputi wilayah Kecamatan-kecamatan :\n(a) Liquiga;\n(b) Bazar-Tete;\n(c) Maubara;\n12. Kabupaten Daerah Tingkat II Ermera dengan Ibukota Ermera,\nmeliputi wilayah Kecamatan-kecamatan :\n(a) Ermera;\n(b) Atsabe;\n(c) Hatolia;\n(d) Lete-Foho;\n(e) Railaco.\n13. Kabupaten Daerah Tingkat II Aileu dengan Ibukota Aileu,\nmeliputi wilayah Kecamatan-kecamatan :\n(a) Aileu:\n(b) Remexio;\n(c) Laulara;\n(d) Lequidoe.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "db0d29ca-ced3-422e-9fe7-ab088b02a516",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Batas-batas wilayah Kabupaten dan wilayah Kecamatan tersebut\ndalam ayat (1) ialah sebagaimana tercantum dalam peta Lampiran\nPeraturan Pemerintah ini.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "8773d0af-d469-4fca-8246-e40942f9e6b7",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "53973d95-4fd7-4615-8d5f-b6a2fdd7fc16",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPembagian lebih lanjut wilayah Kecamatan ke dalam Desa, atau nama\nlain yang setingkat dengan Desa, ditetapkan dengan Keputusan Menteri\nDalam Negeri.\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "1a85681c-2815-4870-b62e-0d1ee636cf0a",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": {
+                        "id": "587274be-20b6-45f3-85c1-fd057ade9990",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nTempat kedudukan masing-masing Pemerintah Kecamatan dan\nPemerintah Desa, atau nama lain yang setingkat dengan Desa, ditetapkan\nlebih lanjut dengan Keputusan Gubernur Kepala Daerah Tingkat I Timor\nTimur.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a0768e60-28eb-4b92-b861-6228a978f466",
+            "name": "Chapter III",
+            "title": "\nPENYELENGGARAAN URUSAN RUMAH TANGGA DAERAH",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "4ccc9f5b-6487-43ba-b53b-7fb67dd9f825",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "49726c16-ddcb-444d-8cdb-796480d1e14d",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Urusan Rumah tangga Daerah sebagai kewenangan pangkal dari\nDaerah dimaksud dalam Pasal 3, meliputi :\n    a. Urusan Kesejahteraan Sosial;\n    b. Urusan Pertanian;\n    c. Urusan Kesehatan;\n    d. Urusan Pendidikan dan Kebudayaan;\n    e. Urusan Pekerjaan Umum.",
+                            "explanation": "\n5 (lima) urusan rumah tangga Daerah adalah merupakan wewenang pangkal baik\nbagi Propinsi Daerah Tingkat I Timor Timur maupun bagi Kabupaten-kabupaten\nDaerah Tingkat II di Timor Timur. Tetapi pelaksanaan secara nyata urusan\ntersebut menjadi urusan rumah tangga Daerah, mengingat keadaan dan kondisi\nserta kemampuan dari Daerah yang bersangkutan, pengaturannya dilakukan\nsecara bertahap dan bersama-sama oleh masing-masing Menteri yang memiliki\nkewenangannya atas urusan tersebut dengan Menteri Dalam Negeri.\nPasal 7 sampai dengan Pasal 13\nCukup jelas."
+                        },
+                        {
+                            "id": "f1c4ed79-1254-4663-a761-c2a8d7232edc",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pelaksanaan urusan rumah tangga dimaksud dalam ayat (1) diatur\nlebih lanjut oleh Menteri yang membawahi bidang bersangkutan\ndengan Menteri Dalam Negeri.",
+                            "explanation": "\n5 (lima) urusan rumah tangga Daerah adalah merupakan wewenang pangkal baik\nbagi Propinsi Daerah Tingkat I Timor Timur maupun bagi Kabupaten-kabupaten\nDaerah Tingkat II di Timor Timur. Tetapi pelaksanaan secara nyata urusan\ntersebut menjadi urusan rumah tangga Daerah, mengingat keadaan dan kondisi\nserta kemampuan dari Daerah yang bersangkutan, pengaturannya dilakukan\nsecara bertahap dan bersama-sama oleh masing-masing Menteri yang memiliki\nkewenangannya atas urusan tersebut dengan Menteri Dalam Negeri.\nPasal 7 sampai dengan Pasal 13\nCukup jelas."
+                        },
+                        {
+                            "id": "5b1c8b4d-b970-43ac-883e-a9dc489661e5",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Penyerahan urusan lainnya dilaksanakan secara bertahap dan diatur\nsesuai dengan peraturan perundang-undangan yang berlaku.",
+                            "explanation": "\n5 (lima) urusan rumah tangga Daerah adalah merupakan wewenang pangkal baik\nbagi Propinsi Daerah Tingkat I Timor Timur maupun bagi Kabupaten-kabupaten\nDaerah Tingkat II di Timor Timur. Tetapi pelaksanaan secara nyata urusan\ntersebut menjadi urusan rumah tangga Daerah, mengingat keadaan dan kondisi\nserta kemampuan dari Daerah yang bersangkutan, pengaturannya dilakukan\nsecara bertahap dan bersama-sama oleh masing-masing Menteri yang memiliki\nkewenangannya atas urusan tersebut dengan Menteri Dalam Negeri.\nPasal 7 sampai dengan Pasal 13\nCukup jelas."
+                        }
+                    ]
+                },
+                {
+                    "id": "4eb9abd9-93cf-4943-ada3-4cf9662d3eb9",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": {
+                        "id": "33c884ec-5be5-4b77-a50b-b5ce9004b3c1",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nUntuk penyelenggaraan urusan rumah-tangga Daerah dimaksud dalam\nPasal 6, Pemerintah Propinsi Daerah Tingkat I Timor Timur dan\nPemerintah Kabupaten-kabupaten Daerah Tingkat II di Timor Timur\nmembentuk dan menyusun Dinas-dinas Daerah yang jumlah pegawai dan\nperalatannya disesuaikan dengan keperluan.\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "bbb279f2-80f6-4524-8a8a-4e1d114e0f5e",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": {
+                        "id": "425faf2e-048d-4722-b212-56fb33799e23",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPemerintah Propinsi Daerah Tingkat I Timor Timur dan Kabupaten-kabupaten Daerah Tingkat II dimaksud dalam Pasal 3 menyelenggarakan usaha-usaha untuk melancarkan jalannya pemerintahan di Daerah, antara lain dengan :\na. menyusun Sekretariat Wilayah/Daerah sesuai dengan pedoman yang ditetapkan oleh Menteri Dalam Negeri;\nb. menyelenggarakan segala sesuatu yang berhubungan dengan urusan kepegawaian, perbendaharaan, pemeliharaan harta milik, serta lain-lain yang dipandang perlu sesuai dengan peraturan perundang-undangan yang berlaku.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "36c9e662-667e-4b35-b935-e8184cb328a2",
+            "name": "Chapter IV",
+            "title": "\nPENYELENGGARAAN URUSAN PEMERINTAH PUSAT",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "c1374c08-4678-47aa-8382-8a4283adcac0",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "be3e8bfc-260b-4b3d-8516-21dabe045bad",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Urusan-urusan yang belum atau tidak diserahkan menjadi wewenang Daerah, diselenggarakan oleh Instansi-instansi vertikal yang bersangkutan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "283441d2-fb73-431f-a1c1-6c541f225d1b",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Instansi-instasi yang melaksanakan urusan Pemerintah Pusat merupakan perangkat Departemen atau Lembaga Non Departemen yang bersangkutan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "3da1be10-850e-44bd-9a0c-2a61a30ed936",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": {
+                        "id": "df814e7a-9448-491c-bc0e-66dcce37ab64",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nUntuk menyelenggarakan urusan-urusan yang belum atau tidak diserahkan menjadi wewenang Daerah dimaksud dalam Pasal 9, Menteri atau Kepala Lembaga Non Departemen yang bersangkutan sesuai urgensinya membentuk Instansi-instansi vertikalnya di Propinsi Daerah Tingkat I Timor Timur.\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1cc2c564-035e-4751-84f1-f2f0fe598088",
+            "name": "Chapter V",
+            "title": "\nPEMBIAYAAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "bcdf9e9a-7c8d-4623-b16c-47efde9e1135",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": {
+                        "id": "b264b8a9-7f9f-4dd5-aa96-8e894cd0675f",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nUntuk kelancaran roda pemerintahan Propinsi Daerah Tingkat I Timor\nTimur dan Kabupaten-kabupaten Daerah Tingkat II di Timor Timur perlu\nadanya dukungan anggaran belanja rutin dan pembangunan atas beban\nAnggaran Pendapatan dan Belanja Negara yang penyediaan dan\npengelolaannya diatur secara khusus.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "e0f874dc-084f-4380-ac87-5f3d12a2ced1",
+            "name": "Chapter VI",
+            "title": "\nKETENTUAN PERALIHAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "627d16e5-2610-4743-ae72-6a4a4bcc0a79",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": {
+                        "id": "8d93799a-141f-4a00-acdb-a0e3744b38df",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nKepala dan Wakil Kepala Pemerintah Sementara Timor Timur (PSTT)\nditetapkan sebagai Gubernur dan Wakil Gubernur Kepala Daerah Tingkat\nI Timor Timur.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "dcadc082-327b-4aa0-8146-4ae9826ff2e3",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": {
+                        "id": "4a191deb-3906-491a-86fe-0f8b0a67eaf9",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPenetapan Bupati Kepala Daerah Tingkat II, Sekretaris Wilayah Daerah\nTingkat I dan II, Sekretaris Dewan Perwakilan Rakyat Daerah Tingkat I\ndan II, dilakukan oleh Menteri Dalam Negeri.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "fbe8a1a0-540c-4094-8123-44ab9445f4ae",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a75c13fd-ab77-4167-b4a4-7d83bf99b1ba",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Badan-badan Perwakilan Rakyat yang ada pada saat Peraturan\nPemerintah ini berlaku sesuai dengan tingkatannya ditetapkan\nmenjadi Dewan Perwakilan Rakyat Daerah Propinsi Daerah\nTingkat I Timor Timur dan Dewan Perwakilan Rakyat Daerah\nKabupaten Daerah Tingkat II di Timor Timur.",
+                            "explanation": "\nBadan-badan Perwakilan Rakyat yang ada ialah :\na.  Badan Perwakilan Rakyat di tingkat Pemerintahan Propinsi Daerah Tingkat\nI Timor Timur.\nb.  13 (tiga belas) Badan Perwakilan Rakyat yang terdapat di tiap-tiap tingkat\nwilayah Kabupaten-kabupaten Daerah Tingkat II di Timor Timur.\nSesuai dengan penjelasan Pasal 3 Undang-undang Nomor 7 Tahun 1976 tentang\nPengesahan Penyatuan Timor Timur ke dalam Negara Kesatuan Republik\nIndonesia dan Pembentukan Propinsi Daerah Tingkat I Timor Timur yang\nkemudian ditegaskan lagi dengan Peraturan Pemerintah ini, maka Badan-badan\nPerwakilan tersebut diatas ditetapkan masing-masing menjadi:\na. Dewan Perwakilan Rakyat Propinsi Daerah Tingkat I Timor Timur;\nb. Dewan Perwakilan Rakyat Kabupaten-kabupaten Daerah Tingkat II\nyang bersangkutan di Timor Timur.\nPasal 15 sampai dengan Pasal 20\nCukup jelas.\nCATATAN\nKutipan: LEMBARAN NEGARA DAN "
+                        },
+                        {
+                            "id": "69aed575-8173-4e96-a099-b59f957a5c19",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Pimpinan dan jumlah keanggotaan Dewan Perwakilan Rakyat\nDaerah dimaksud dalam ayat (1), ditetapkan lebih lanjut oleh\nMenteri Dalam Negeri.\n",
+                            "explanation": "\nBadan-badan Perwakilan Rakyat yang ada ialah :\na.  Badan Perwakilan Rakyat di tingkat Pemerintahan Propinsi Daerah Tingkat\nI Timor Timur.\nb.  13 (tiga belas) Badan Perwakilan Rakyat yang terdapat di tiap-tiap tingkat\nwilayah Kabupaten-kabupaten Daerah Tingkat II di Timor Timur.\nSesuai dengan penjelasan Pasal 3 Undang-undang Nomor 7 Tahun 1976 tentang\nPengesahan Penyatuan Timor Timur ke dalam Negara Kesatuan Republik\nIndonesia dan Pembentukan Propinsi Daerah Tingkat I Timor Timur yang\nkemudian ditegaskan lagi dengan Peraturan Pemerintah ini, maka Badan-badan\nPerwakilan tersebut diatas ditetapkan masing-masing menjadi:\na. Dewan Perwakilan Rakyat Propinsi Daerah Tingkat I Timor Timur;\nb. Dewan Perwakilan Rakyat Kabupaten-kabupaten Daerah Tingkat II\nyang bersangkutan di Timor Timur.\nPasal 15 sampai dengan Pasal 20\nCukup jelas.\nCATATAN\nKutipan: LEMBARAN NEGARA DAN "
+                        }
+                    ]
+                },
+                {
+                    "id": "ea5eb94e-23c7-456d-824d-93c7e15daca5",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "b0f2ffdc-e972-4d08-83a9-62f767c01c1a",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Menteri Dalam Negeri dan Menteri Negara Penertiban Aparatur\nNegara mengatur penetapan atau pengangkatan Pegawai-pegawai\nyang tersedia dengan status:\n- Pegawai Negeri Sipil Pusat\n- Pegawai Negeri Sipil Daerah dan\n- Pegawai Negeri Sipil Pusat yang diperbantukan kepada\nDaerah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "3e1704f3-34c7-40f2-86cd-7780483e5497",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Perubahan status pegawai-pegawai diatur oleh Menteri Dalam\nNegeri bersama-sama Menteri Negara Penertiban Aparatur Negara.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "78d5756c-20cf-44a9-80cc-a4563ab30367",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": {
+                        "id": "34fe36ac-c370-4994-b466-23c033c9f265",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSegala peraturan perundang-undangan yang ada pada saat berlakunya\nPeraturan Pemerintah ini, selama belum diubah, diganti, atau dicabut,\ntetap berlaku bagi Propinsi Daerah Tingkat I Timor Timur dan\nKabupaten-kabupaten Daerah Tingkat II di Timor Timur sepanjang tidak\nbertentangan dengan Peraturan Pemerintah ini.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "0b3bbdea-2e2f-449d-b917-423c5d61a6fb",
+            "name": "Chapter VII",
+            "title": "\nKETENTUAN LAIN-LAIN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "b56ce325-bd32-4293-975d-e35a5711d9dd",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": {
+                        "id": "6b0544ab-e706-47f0-821e-37a0554c6113",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSegala harta milik serta kekayaan bekas Pemerintah Sementara Timor\nTimur sesuai dengan statusnya diatur tersendiri.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "915e2588-8bc1-4043-bd7b-b3203e612891",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": {
+                        "id": "b38bcf02-5e25-43eb-8f8b-cb8dff0e50e8",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSegala hal yang timbul sebagai akibat dan dalam rangka pelaksanaan\nPeraturan Pemerintah ini, diselesaikan oleh Menteri Dalam Negeri.\n",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "2f772fb6-60e1-4259-ab5d-d13d242f5db7",
+            "name": "Chapter VIII",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "cef6e9d2-e62a-4098-9cc6-92ebe68b9410",
+                    "name": "Article 19",
+                    "type": "article",
+                    "children": {
+                        "id": "0537841a-167c-47b8-af61-869bb95e1ac4",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini dapat disebut \"Peraturan Pemerintah tentang\nPemerintahan di Timor Timur\"",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "d1df8e98-5655-469d-b1de-3dd9a1a59b9d",
+                    "name": "Article 20",
+                    "type": "article",
+                    "children": {
+                        "id": "2260d73d-714c-4393-a174-38a0cd8da27d",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\n1. Dengan telah ditetapkannya Undang-undang Nomor 7 Tahun 1976 tentang\nPengesahan Penyatuan Timor Timur ke dalam Negara Kesatuan Republik Indonesia\ndan Pembentukan Propinsi Daerah Tingkat I Timor Timur, maka secara resmi\nwilayah Timor Timur menjadi wilayah Negara Kesatuan Republik Indonesia dan\nmerupakan Propinsi Daerah Tingkat I Timor Timur.\nHal ini tertuang dalam Pasal 2 Undang-undang Nomor 7 Tahun 1976 tersebut yang\nberbunyi \"Membentuk Propinsi Daerah Tingkat I Timor Timur yang wilayahnya\nmeliputi wilayah bekas koloni Portugis di Timor Timur.\"\n2. Pengaturan pembentukan suatu Daerah ditetapkan dalam suatu Undang-undang\nyang mengatur mengenai nama, batas, ibukota, hak dan wewenang urusan serta\nmodal pangkal Daerah. Tetapi materi tersebut belum ditampung dalam Undang-\nundang Nomor 7 Tahun 1976, dan sesuai dengan ketentuan Pasal 3 Undang-undang\nNomor 7 Tahun 1976 tersebut menyatakan bahwa Hal-hal yang berhubungan\ndengan pelaksanaan ketentuan tersebut dalam Pasal 2 Undang-undang Nomor 7\nTahun 1976 diatur lebih lanjut dengan peraturan perundang-undangan tersendiri,\ndengan memperhatikan keadaan dan perkembangan di wilayah Timor Timur.\n3. Dengan memperhatikan ketentuan tersebut dan pertimbangan agar jarak waktu\nantara ditetapkannya Undang-undang mengenai pembentukan Propinsi Daerah\nTingkat I Timor Timur dan segera terwujudnya mekanisme pemerintahan baik\nditingkat Propinsi Daerah Tingkat I Timor Timur maupun di Kabupaten-kabupaten\nDaerah Tingkat II di Timor Timur, maka pengaturan pelaksanaan dari pembentukan\nPropinsi Daerah Tingkat I Timor Timur diatur dengan Peraturan Pemerintah.\n\nHal ini merupakan pengaturan status pemerintahan di Timor Timur sebagai\nkonsekwensi logis dari penyatuan wilayah tersebut ke dalam wilayah Negara\nKesatuan Republik Indonesia.\nDengan demikian materi yang diatur dalam Peraturan Pemerintah ini ialah:\na. Kedudukan pemerintahan Propinsi Daerah Tingkat I Timor Timur;\nb. Pembagian wilayah Propinsi Daerah Tingkat I Timor Timur ke dalam\nKabupaten-kabupaten Daerah Tingkat II dengan ibukotanya masing-masing\ndan pembagian wilayah Kabupaten-kabupaten Daerah Tingkat II tersebut ke\ndalam Kecamatan-kecamatan;\nc. Penetapan kewenangan pangkal Daerah;\nd. Modal pangkal Daerah yang dalam hal ini berupa pembiayaan yang didukung\ndalam Anggaran Pendapatan dan Belanja Negara.\n4. Agar Propinsi Daerah Tingkat I Timor Timur dan Kabupaten-kabupaten Daerah\nTingkat II di Timor Timur dapat segera melaksanakan tugas dan fungsinya maka\nperlu segera ditetapkan sarana-sarana pemerintahannya.\nPenetapan sarana-sarana pemerintahan tersebut sejauh mungkin disesuaikan dengan\nsarana-sarana pemerintahan dari Propinsi Daerah Tingkat I dan Kabupaten-\nkabupaten Daerah Tingkat II lainnya di wilayah Timor Timur dengan berpedoman\npada Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan Di\nDaerah.\nNamun demikian mengingat Propinsi Daerah Tingkat I Timor Timur dan\nKabupaten-kabupaten Daerah Tingkat II di Timor Timur mempunyai sejarah dan\npertumbuhan yang berlainan sehingga terdapat perbedaan-perbedaan mengenai\nkeadaan masyarakatnya, sistim hukumnya, sistim pemerintahannya, sistim\nperekonomiannya, sistim pendidikannya serta sistim pertahanan dan keamanannya,\nmaka perlu adanya kebijaksanaan secara khusus mengenai pembangunan\npelaksanaan pemerintahan, baik ditingkat Propinsi Daerah Tingkat I maupun di\ntingkat Kabupaten-kabupaten Daerah Tingkat II.\n\n5.  Oleh karena itu maka Peraturan Pemerintah ini mengatur hal-hal yang telah nyata-\nnyata ada untuk dapat berjalan memenuhi kebutuhan dengan memberikan\nkewenangan kepada Pemerintah untuk mengatur lebih lanjut sesuai dengan\nperaturan perundang-undangan yang berlaku dengan memperhatikan perkembangan\nsituasi dan kondisi yang ada di Propinsi Daerah Tingkat I Timor Timur.",
+        "Nomor": "19",
+        "Tahun": "1976",
+        "Tentang": "PEMERINTAHAN PROPINSI DAERAH TINGKAT I TIMOR TIMUR DAN\nKABUPATEN-KABUPATEN DAERAH TINGKAT II DI TIMOR TIMUR\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "",
+            "a": "\nbahwa sebagai tindak lanjut Undang-undang Nomor 7 Tahun 1976\ntentang Pengesahan Penyatuan Timor Timur ke dalam Negara\nKesatuan Republik Indonesia dan Pembentukan Propinsi Daerah\nTingkat I Timor Timur, perlu segera menetapkan peraturan\npelaksanaan dari Pembentukan Propinsi Daerah Tingkat I Timor\nTimur dan Kabupaten-kabupaten Daerah Tingkat II di Timor\nTimur",
+            "b": " bahwa berdasarkan ketentuan Pasal 3 Undang-undang Nomor 7\nTahun 1976 dan mengingat hal-hal yang mendesak dan khusus di\nTimor Timur, maka pengaturan tersebut perlu ditetapkan dengan\nPeraturan Pemerintah;"
+        },
+        "Mengingat": {
+            "Introduction": "\nNot Available"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PEMERINTAHAN\nPROPINSI DAERAH TINGKAT I TIMOR TIMUR DAN\nKABUPATEN-KABUPATEN DAERAH TINGKAT II DI TIMOR\nTIMUR.",
+        "tanggal sah": "30 Juli 1976"
+    }
+}

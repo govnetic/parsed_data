@@ -1,0 +1,350 @@
+{
+    "results": [
+        {
+            "id": "7202092e-2aa0-4714-9726-7a5fefc0333f",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "6c40950c-8d7e-4db4-ba41-23b3001d2cff",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "029998ab-4125-4258-9a87-635b44126316",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\na. Sensus Pertanian adalah usaha pengumpulan, pengolahan, penyajian, analisa, dan\nevaluasi data tentang jumlah dan sifat-sifat ekonomi petani/ perusahaan pertanian di\nIndonesia yang penyelenggaraannya dilakukan setiap 10 (sepuluh) tahun sekali;\nb. Petugas Sensus adalah mereka yang mendapat pengangkatan untuk melakukan\npencacahan, pemeriksaan atau pengawasan dan pengolahan lapangan;\nc. Pertanian adalah pertanian dalam arti luas yang meliputi pertanian tanaman pangan,\nperkebunan, perikanan, peternakan, dan kehutanan.",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "27854b87-88e1-4b50-9b5e-a81abd82799c",
+            "name": "Chapter II",
+            "title": "\nORGANISASI",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "505137ba-55fc-494c-bce3-7b5ce24b546d",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "b0336da2-0246-47a0-a5ee-8669d58f9d72",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Kepala Biro Pusat Statistik bertanggung jawab atas segi teknis dan administrasi pelaksanaan Sensus Pertanian.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "7aacccd9-2f17-4fe6-ac2d-2fe0b7d76191",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penyelenggaraan Sensus Pertanian di daerah dilakukan oleh Kepala Kantor Statistik di daerah, atas instruksi dan petunjuk Kepala Biro Pusat Statistik.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "b30657e9-7188-4f7e-bc59-2f42aefb4d35",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Kepala Biro Pusat Statistik dapat membentuk Panitia Penasehat Sensus dengan tugas memberi pertimbangan atau saran mengenai hal-hal yang berhubungan dengan Sensus Pertanian.",
+                            "explanation": "\nYang dimaksud pertimbangan atau saran mengenai hal-hal yang berhubungan\ndengan Sensus Pertanian dalam ayat ini antara lain meliputi konsep, klasifikasi\nketerangan yang dikumpulkan dan tata cara pelaksanaan Sensus Pertanian."
+                        }
+                    ]
+                },
+                {
+                    "id": "3ebc5ccb-4dba-479b-9d10-717adfe44aa8",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "e81c8563-1512-4ce8-81d2-417046afd3e6",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Gubernur Kepala Daerah Tingkat I, Bupati Kepala Daerah Tingkat II/Walikotamadya Kepala Daerah Tingkat II, Walikota dan Camat bertanggung jawab mengkoordinasikan kegiatan untuk menjamin kelancaran pelaksanaan Sensus Pertanian di daerahnya masing-masing.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "ac971c05-ef8c-4d98-8bcc-f79eacc9328d",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Kepala Desa / Kepala Kelurahan bertanggung jawab atas kelancaran penyelenggaraan Sensus Pertanian di daerahnya, terutama penerangan terhadap masyarakat dan pengerahan calon Petugas Sensus.",
+                            "explanation": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "d25c33c3-6d4a-4277-b82c-3d8750549696",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "43e81f0e-249b-42a1-9af4-d6934efddce8",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Camat atas nama Kepala Biro Pusat Statistik mengangkat dan memberhentikan Petugas Sensus yang dipekerjakan selama waktu tertentu di wilayahnya.",
+                            "explanation": "\nPetugas Sensus Pertanian sedapat mungkin ditunjuk dari warga dalam\nlingkungan desa itu sendiri setelah mereka memenuhi persyaratan yang\nditentukan oleh Kepala Biro Pusat Statistik. Dengan demikian pelaksanaan\npencacahan Sensus Pertanian akan menjadi lebih mudah karena mereka telah\nmengenal daerah dan penduduk di wilayah kerjanya."
+                        },
+                        {
+                            "id": "43267ae3-bfa4-4855-8d67-8efdf405fca0",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Sebelum melakukan tugasnya Petugas Sensus diharuskan menandatangani surat pernyataan untuk memegang teguh rahasia, sebagaimana dimaksud dalam Pasal 8 ayat (1) Undang-undang Nomor 6 Tahun 1960.",
+                            "explanation": "\nCukup jelas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "649b4b37-2a8e-43de-abfd-fe9273e2f53e",
+            "name": "Chapter III",
+            "title": "\nTATA CARA PELAKSANAAN SENSUS PERTANIAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "4ee0dba1-b036-4b57-a023-65d6dfa0091d",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": {
+                        "id": "c2c6579f-9a48-48eb-a313-b0ae46d9e699",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nUntuk pelaksanaan Sensus Pertanian akan ditetapkan wilayah kerja pencacahan Petugas Sensus, yang merupakan bagian, seluruh atau gabungan desa/ kelurahan yang pembentukannya diatur oleh Kepala Biro Pusat Statistik.",
+                        "explanation": "\nYang dimaksud dengan wilayah kerja pencacahan adalah satuan daerah kerja\npencacahan yang merupakan bagian dari suatu desa/kelurahan yang mencakup paling\nbanyak 300 (tiga ratus) rumahtangga dan dibatasi oleh batas-batas alam atau batas-\nbatas lainnya yang tetap dan jelas.\nWilayah kerja pencacahan ini pada dasarnya mengikuti pembagian wilayah kerja\npencacahan sensus penduduk tahun 1980, dan wilayah kerja pencacahan ini semata-\nmata hanya diperlukan untuk pelaksanaan kegiatan sensus atau survai yang dilakukan\noleh Biro Pusat Statistik."
+                    }
+                },
+                {
+                    "id": "e3f2a9be-df9a-437a-bc7d-9a0df9e3bb08",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "8c75881b-5e54-4120-a71c-6e09a2fbe71d",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Sensus Pertanian, ini dicacah semua rumah tangga dan badan usaha yang bergerak di sektor pertanian serta bertempat tinggal di wilayah Negara Republik Indonesia.",
+                        "explanation": "\nDalam Sensus Pertanian tidak dilakukan pencacahan terhadap Korps Diplomatik.\nDemikian pula tidak dilakukan pencacahan terhadap warga negara Indonesia yang\nberada di luar negeri."
+                    }
+                },
+                {
+                    "id": "73f13a5f-1b79-4d11-8f3c-1781e4e95f06",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "624956a5-b3b9-419a-8824-d8e63eabe56e",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pelaksanaan pencacahan Sensus Pertanian akan dilakukan dalam 2 (dua) tahap yaitu :\na. Pencacahan terhadap seluruh rumah tangga dan badan usaha untuk memilih mereka\nyang berusaha di sektor pertanian guna mengumpulkan keterangan\npokok/struktural;\nb. Pencacahan terhadap rumah tangga tani terpilih guna mengumpulkan data keadaan\nsosial ekonomi petani.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "f9a6a002-d9f2-4c0d-8069-f88a2fd70df3",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Cara pemilihan rumah tangga tani terpilih ditentukan oleh Kepala Biro Pusat Statistik.",
+                            "explanation": "\nPemilihan rumah tangga tani dilakukan dengan menggunakan metode pemilihan\ncontoh tertentu yang dapat dipertanggung-jawabkan dari segi teknis statistik, sehingga\nperlu ditentukan oleh Kepala Biro Pusat Statistik."
+                        }
+                    ]
+                },
+                {
+                    "id": "f1c2b6ee-c813-4ea0-b189-607054274b1e",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": {
+                        "id": "78f3af71-9a3d-4053-9558-b2e0fe65e811",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nMetodologi, ruang lingkup dan cara pelaksanaan lapangan ditentukan lebih lanjut oleh\nKepala Biro Pusat Statistik.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "c07d59ca-1238-4f13-994c-a6412257f476",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "0a695c7a-e060-4937-8676-677ebaa7a62f",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Petugas Sensus sebelum diangkat terlebih dahulu diharuskan mengikuti latihan cara\npelaksanaan Sensus Pertanian.",
+                            "explanation": "\nCukup jelas."
+                        },
+                        {
+                            "id": "42b8a79f-36c2-4507-be88-4df3fb0ccddd",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Hasil pelaksanaan Petugas Sensus diteliti atau diperiksa oleh Pejabat Kantor Statistik\nDaerah yang bersangkutan atau petugas lainnya yang ditunjuk untuk itu.",
+                            "explanation": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "a7c6ba9b-078f-4583-ae79-63a401487665",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "8541c8f5-cb09-486b-bddf-3d751faee473",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Petugas Sensus berkewajiban untuk melakukan tugas di wilayah kerjanya selama masa\npelaksanaan Sensus Pertanian dengan memperhatikan waktu, tata susila, adat istiadat,\nagama, dan ketertiban umum.",
+                            "explanation": "\nUntuk mencegah penyalahgunaan wewenang selama mengunjungi bangunan,\nrumah dan tempat tinggal lainnya perlu diadakan batas-batas hak dan\nkewajiban bagi Petugas Sensus. Wilayah kerja tiap Petugas Sensus ditentukan\nsecara tertulis.Jenis pekerjaan yang dilakukan tidak boleh menyimpang dari\nyang tercantum dalam buku Instruksi Khusus yang dikeluarkan untuk itu.\nWaktu untuk melakukan tugas perlu dibatasi sehingga dapat dicegah\nterjadinya pelanggaran terhadap adat istiadat, agama dan ketertiban umum."
+                        },
+                        {
+                            "id": "0b28d6be-3e7e-48ca-8af3-0026aa96f90e",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Tugas sebagaimana dimaksud dalam ayat (1) Pasal ini terdiri dari :\na. Memeriksa tanda nomor bangunan dan memperbaharui tanda nomor bangunan pada\nsemua jenis bangunan tempat tinggal maupun bukan tempat tinggal;\nb. Mencacah rumah tangga atau badan usaha dengan mengajukan pertanyaan-\npertanyaan yang tercantum dalam Daftar-daftar Isian Sensus Pertanian;\nc. Tugas-tugas khusus lainnya yang berhubungan dengan Sensus Pertanian dan\ndiperintahkan kepadanya secara tertulis.",
+                            "explanation": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "22764286-bbb9-476b-97a8-4451d64fdc6e",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": {
+                        "id": "d2ceca43-fa52-4c5d-9620-1d01923b009a",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSetiap rumah tangga dan badan usaha yang ada di Indonesia serta melakukan kegiatan di\nsektor pertanian diwajibkan;\na. Memberi izin kepada Petugas Sensus untuk memasuki halaman, pelataran, tanah\npertanian atau perusahaan yang berada di wilayah kerja Petugas Sensus yang\nbersangkutan;\nb. Memberi izin kepada Petugas Sensus untuk memeriksa atau memperbaharui nomor\nbangunan tempat tinggal maupun bukan tempat tinggal;\nc. Memberi keterangan mengenai dirinya, anggota rumah tangganya maupun kegiatannya.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "d44a8b25-de9a-4b5a-b97d-635e42ca00ba",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": {
+                        "id": "9ff57aa1-1168-47ae-849d-de09d99a9162",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nTata cara pencacahan yang menyangkut rumah tangga atau badan usaha anggota Angkatan\nBersenjata Republik Indonesia, yang berada di wilayah kesatrian dan melakukan kegiatan di\nbidang pertanian ditetapkan oleh Kepala Biro Pusat Statistik bersama-sama dengan\nDepartemen Pertahanan Keamanan.",
+                        "explanation": "\nCukup jelas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "f4be4d17-5089-496b-8ab3-fa0b8707048a",
+            "name": "Chapter IV",
+            "title": "\nPEMBIAYAAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "e45e2954-edfb-4a7b-b195-9c037a071270",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "f61f7547-c7e0-4117-bc8c-8aa61d9436d4",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pembiayaan Sensus Pertanian seluruhnya dibebankan kepada anggaran Biro Pusat\nStatistik.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "6b0abf59-15b1-43bc-8e2f-006613f9df8c",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Bagi Petugas Sensus bukan Pegawai Negeri Sipil yang merupakan petugas tenaga lepas,\napabila mendapat kecelakaan atau meninggal dunia dalam menjalankan tugasnya\nmendapat bantuan sesuai dengan ketentuan yang akan diatur oleh Biro Pusat Statistik.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3ad3aeb2-fcd6-4818-a918-7a41be3e5747",
+            "name": "Chapter V",
+            "title": "\nKETENTUAN PENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "34b3395f-a9de-4ebe-a569-962c4265e96b",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": {
+                        "id": "72ebf32c-f5cb-4598-9568-027f54770542",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPenentuan waktu penyelenggaraan Sensus Pertanian serta petunjuk pelaksanaan lebih lanjut\nditetapkan dengan Instruksi Presiden.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "e91dff04-f448-41c2-b316-23caa58be10f",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": {
+                        "id": "7ad3b402-572b-495b-ba27-12689160c548",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nHal-hal lain yang belum diatur dalam Peraturan Pemerintah ini diatur lebih lanjut oleh Kepala\nBiro Pusat Statistik.",
+                        "explanation": "\nCukup jelas."
+                    }
+                },
+                {
+                    "id": "45e4442a-1bf4-46db-b2df-be471ae3ce34",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": {
+                        "id": "46973b16-a8fe-45d9-a2ce-f5e1d4e8880e",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+                        "explanation": "\nCukup jelas.\n"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nSesuai dengan perkembangan teknis penyelenggaraan Sensus Pertanian dan besarnya\ncakupan bidang pertanian, pelaksanaan Sensus Pertanian di Indonesia dilakukan\ndalam dua tahap. Pada tahap pertama dilakukan pencacahan terhadap seluruh rumah\ntangga/badan usaha untuk mengumpulkan data dasar sektor pertanian.\nSedang pada tahap kedua dilakukan pencacahan terhadap rumah tangga yang\ntergolong petani dirumah tangga terpilih untuk mengumpulkan keterangan yang lebih\nlengkap dan terperinci. Tahap kedua ini dilakukan segera setelah tahap pertama\nselesai.\nDalam rangkaian tahap kedua, untuk sub sektor perikanan laut, perkebunan rakyat dan\nperkebunan besar akan dilakukan pencacahan tersendiri. Sistem pencacahan di atas\ndipilih untuk mengatasi kesulitan dalam memperoleh petugas sensus yang baik, untuk\nmengatasi terbatasnya ruang penyimpanan dokumen dan untuk mempercepat\npengolahan, serta untuk menghemat biaya pelaksana.\nPengolahan hasil pencacahan tahap pertama akan dikerjakan di daerah secara\nbertingkat, sedangkan pengolahan dari pencacahan tahap kedua akan dikerjakan di\nJakarta dengan mempergunakan komputer. Dengan demikian hasilnya sudah dapat\ndimanfaatkan untuk pemantapan Rencana Pembangunan Lima Tahun yang\nberikutnya.\nAgar supaya hasil Sensus Pertanian dapat dipergunakan secara seksama bagi berbagai\nkeperluan, pelaksanaannya perlu diatur sebaik-baiknya sehingga dapat berlangsung\ndengan tertib dan lancar.",
+        "Nomor": "2",
+        "Tahun": "1983",
+        "Tentang": "SENSUS PERTANIAN\nPRESIDEN REPUBLIK INDONESIA,",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa untuk keperluan pembangunan dalam bidang pertanian diperlukan\ndata yang lengkap dan terperinci melalui Sensus Pertanian;",
+            "b": " bahwa untuk maksud tersebut pada huruf a, perlu ditetapkan Peraturan\nPemerintah tentang Sensus Pertanian;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 6 Tahun 1960 tentang Sensus (Lembaran Negara\nTahun 1960 Nomor 105, Tambahan Lembaran Negara Nomor 2044);",
+            "3": " Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan\ndi Daerah (Lembaran Negara Tahun 1974 Nomor 38, Tambahan Lembaran\nNegara Nomor 3037);",
+            "4": " Peraturan Pemerintah Nomor 6 Tahun 1980 tentang Organisasi Biro Pusat\nStatistik (Lembaran Negara Tahun 1980 Nomor 11, Tambahan Lembaran\nNegara Nomor 3158);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG SENSUS PERTANIAN.",
+        "tanggal sah": "21 Januari 1983"
+    }
+}

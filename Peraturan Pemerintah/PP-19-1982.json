@@ -1,0 +1,76 @@
+{
+    "results": [
+        {
+            "id": "897b50fa-3945-4920-8d9d-1a4fa1880970",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "INSERT"
+                    ],
+                    "id": "bc345e77-4e6d-43e8-9a83-65c0e17fb368",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "c5cbd704-d948-455b-a15e-284eb4043cde",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "45fe923b-b86f-4af4-9935-1a7d26efefc4",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "d4fbe65a-e820-4923-a54b-1be14b2757ab",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\n(1) Permohonan tunjangan yang masuk pada tanggal 1 Januari 1981 atau sesudahnya\ntidak dipertimbangkan lagi.\n(2) Permohonan untuk mendapatkan tunjangan yang telah masuk sebelum 1 Januari\n1981 di instansi/badan yang ditunjuk oleh Kepala Staf Angkatan/POLRI dan telah\nmemenuhi persyaratan diselesaikan selambatlambatnya pada akhir Maret 1982."
+                }
+            ]
+        },
+        {
+            "id": "87683953-7060-4114-b5b2-27e967547730",
+            "name": "Article III",
+            "type": "article",
+            "children": [
+                {
+                    "id": "1868888b-7e59-43d7-8cfd-9e30496bab16",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan, dan mempunyai daya\nlaku surut sejak tanggal 1 Januari 1981.\nAgar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "19",
+        "Tahun": "1982",
+        "Tentang": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 6 TAHUN 1950\nTENTANG PERATURAN SEMENTARA TENTANG PEMBERIAN TUNJANGAN\nKEPADA ANGGOTA TENTARA NASIONAL INDONESIA YANG PADA\nWAKTU PENYERAHAN KEDAULATAN TIDAK MASUK ANGKATAN PERANG\nREPUBLIK INDONESIA SERIKAT SEBAGAIMANA TELAH DIUBAH DENGAN\nPERATURAN PEMERINTAH NOMOR 39 TAHUN 1954",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa tunjangan yang dimaksud dalam Pasal 2 ayat (1) huruf a\nPeraturan Pemerintah Nomor 6 Tahun 1950 sebagaimana telah\ndibuah dengan Peraturan Pemerintah Nomor 39 Tahun 1954\nmerupakan jaminan sosial sementara, dimaksudkan sebagai\npenghargaan kepada anggota Tentara Nasional Indonesia yang\npada waktu penyerahan kedaulatan. tidak masuk Angkatan\nPerang Republik Indonesia Serikat serta telah mempunyai masa\ndinas dalam ketentaraan sekurang-kurangnya 1 (satu) tahun;",
+            "b": " bahwa besarnya tunjangan berdasarkan Peraturan Pemerintah\nNomor 6 Tahun 1950 sebagaimana telah diubah dengan Peraturan\nPemerintah Nomor 39 Tahun 1954 dipandang sudah tidak sesuai\nlagi dengan keadaan;",
+            "c": " bahwa kesempatan pengajuan permohonan tunjangan berdasarkan\nPeraturan Pemerintah Nomor 6 Tahun 1950 sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 39 Tahun 1954 perlu\ndiadakan batas waktu pengajuan permohonan;",
+            "d": " bahwa berhubung dengan hal tersebut pada huruf b dan huruf\nc, dipandang perlu mengadakan perubahan atas Peraturan\nPemerintah Nomor 6 Tahun 1950 sebagaimana telah diubah\ndengan Peraturan Pemerintah Nomor 39 Tahun 1954;,"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 2 Tahun 1959 tentang Penetapan\nUndang-undang Darurat Nomor 19 Tahun 1950 tentang\nPeraturan Pemberian Pensiun dan Onderstand kepada para\nAnggota Tentara Angkatan Darat (Lembardan Negara Tahun\n1950 Nomor 28) sebagaimana kemudian telah diubah/ditambah\ndengan Undang-undang Darurat Nomor 28 Tahun 1950\n(Lembaran Negara Tahun 1950 Nomor 50), Undang-undang\nDarurat Nomor 11 Tahun 1951 (Lembaran Negara Tahun 1951\nNomor 76), Undang-undang Darurat Nomor 10 Tahun 1952\n(Lembaran Negara Tahun 1952 Nomor 75), dan Undang-undang\nDarurat Nomor 6 Tahun 1954 (Lembaran Negara Tahun 1954\nNomor 50) sebagai Undang-undang (Lembaran Negara Tahun\n1959 Nomor 4);",
+            "3": " Undang-undang Nomor 6 Tahun 1966 tentang Pemberian\nPensiun, Tunjangan Bersifat Pensiun dan Tunjangan kepada\nMiliter Sukarela (Lembaran Negara Tahun 1966 Nomor 33,\nTambahan Lembaran Negara Nomor 2812);",
+            "4": " Peraturan Pemerintah Nomor 6 Tahun 1950 tentang Peraturan\nSementara tentang Pemberian Tunjangan, kepada Anggota\nTentara Nasional Indonesia yang pada Waktu Penyerahan\nKedaulatan Tidak Masuk Angkatan Perang Republik Indonesia\nSerikat (Lembaran Negara Tahun 1950 Nomor 18), jo Peraturan\nPemerintah Nomor 39 Tahun 1954 tentang Perubahan Atas\nPeraturan Pemerintah Nomor 6 Tahun 1950 tentang Peraturan\nSementara tentang Pemberian Tunjangan kepada Anggota\nTentara Nasional Indonesia yang pada Waktu Penyerahan\nKedaulatan Tidak Masuk Angkatan Perang Republik Indonesia\nSerikat (Lembaran Negara Tahun 1954 Nomor 70, Tambahan\nLembaran Negara Nomor 600);",
+            "5": " Peraturan Pemerintah Nomor 18 Tahun 1977 tentang Peraturan\nGaji Anggota Angkatan Bersenjata Republik Indonesia\n(Lembaran Negara Tahun 1977 Nomor 23, Tambahan Lembaran\nNegara Nomor 3103);",
+            "6": " Peraturan Pemerintah Nomor 32 Tabun 1977 tentang Penetapan\nKembali Pensiun Pokok Purnawirawan/Warakawuri atau Duda,\nTunjangan Anak Yatim/Piatu dan Anak Yatim-Piatu Anggota\nAngkatan Bersenjata Republik Indonesia (Lembaran Negara\nTahun 1977 Nomor 53, Tambahan Lembaran Negara Nomor\n3111);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS\nPERATURAN PEMERINTAH NOMOR 6 TAHUN 1950\nTENTANG PERATURAN SEMENTARA TENTANG\nPEMBERIAN TUNJANGAN KEPADA ANGGOTA TENTARA\nNASIONAL INDONESIA YANG PADA WAKTU PENYERAHAN\nKEDAULATAN TIDAK MASUK ANGKATAN PERANG\nREPUBLIK INDONESIA SERIKAT SEBAGAIMANA TELAH\nDIUBAH DENGAN PERATURAN PEMERINTAH NOMOR 39\nTAHUN 1954.",
+        "tanggal sah": "1 Januari 1981"
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "results": [
+        {
+            "id": "731ca56b-6cb2-47dd-8202-c299e1f91e3c",
+            "name": "Chapter I",
+            "title": "\nKETENTUAN UMUM",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "e331a9e8-4eae-4dbd-a753-35a96ec7abf0",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": {
+                        "id": "695dcd6c-58e3-4684-8c4b-3489225f57e5",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Perlindungan adalah suatu bentuk pelayanan yang wajib dilaksanakan\noleh aparat penegak hukum atau aparat keamanan untuk memberikan\nrasa aman baik fisik maupun mental, kepada korban dan saksi, dari\nancaman, gangguan, teror, dan kekerasan dari pihak manapun, yang\ndiberikan pada tahap penyelidikan, penyidikan, penuntutan, dan atau\npemeriksaan di sidang pengadilan.\n\n2. Korban adalah orang perseorangan atau kelompok orang yang mengalami penderitaan sebagai akibat pelanggaran hak asasi manusia yang berat yang memerlukan perlindungan fisik dan mental dari ancaman, gangguan, teror, dan kekerasan dari pihak manapun.\n3. Saksi adalah orang yang dapat memberikan keterangan guna kepentingan penyelidikan, penyidikan, penuntutan, dan atau pemeriksaan di sidang pengadilan tentang perkara pelanggaran hak asasi manusia yang berat yang ia dengar sendiri, lihat sendiri, dan alami sendiri, yang memerlukan perlindungan fisik dan mental dari ancaman, gangguan, teror, dan kekerasan dari pihak manapun.\n4. Ancaman, gangguan, teror, dan kekerasan adalah segala bentuk perbuatan memaksa yang bertujuan menghalang-halangi atau mencegah seseorang, sehingga baik langsung atau tidak langsung mengakibatkan orang tersebut tidak dapat memberikan keterangan yang benar untuk kepentingan penyelidikan, penyidikan, penuntutan, dan atau pemeriksaan di sidang pengadilan.",
+                        "explanation": "\nCukup jelas"
+                    }
+                },
+                {
+                    "id": "674421e7-23de-4795-b086-ee393a32e751",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ed6dfac2-edbf-4a2d-83bc-ed03ade97ce6",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Setiap korban atau saksi dalam pelanggaran hak asasi manusia yang berat berhak memperoleh perlindungan dari aparat penegak hukum dan aparat keamanan.",
+                            "explanation": "\nCukup jelas"
+                        },
+                        {
+                            "id": "f46bc123-ee3a-4cee-8543-69627084f65b",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Perlindungan oleh aparat penegak hukum dan aparat keamanan sebagaimana dimaksud dalam ayat (1) diberikan sejak tahap penyelidikan, penyidikan, penuntutan, dan atau pemeriksaan di sidang pengadilan.",
+                            "explanation": "\nYang dimaksud \"pemeriksaan di sidang pengadilan\" adalah proses\npemeriksaan pada sidang di Pengadilan Negeri, Pengadilan Tinggi,\natau Mahkamah Agung."
+                        }
+                    ]
+                },
+                {
+                    "id": "dd21a117-c5f2-4a6d-b849-13cdb121c358",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "5ec6a521-d855-4006-aa4e-c3741c2b27b6",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPerlindungan sebagaimana dimaksud dalam Pasal 2, wajib dilaksanakan oleh aparat penegak hukum dan aparat keamanan.",
+                        "explanation": "\nCukup jelas"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a02e1d3c-fda9-4699-bc63-48c1f91c238e",
+            "name": "Chapter II",
+            "title": "\nBENTUK-BENTUK PERLINDUNGAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "24302b38-159b-4389-a3e7-ee1c78bacd16",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "965df9c0-fa12-4b38-b466-724bece212ad",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPerlindungan sebagaimana dimaksud dalam Pasal 2\na. perlindungan atas keamanan pribadi korban atau saksi dari ancaman fisik dan mental;\nb. perahasiaan identitas korban atau saksi;\nc. pemberian keterangan pada saat pemeriksaan di sidang pengadilan\ntanpa bertatap muka dengan tersangka.",
+                        "explanation": "\nCukup jelas"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "3f46d276-1967-4cfa-8e41-a5b90a756170",
+            "name": "Chapter III",
+            "title": "\nTATA CARA PEMBERIAN PERLINDUNGAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "5b4fe34a-ec2a-45c0-841b-606089c86179",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "bb5865b4-baf2-4e82-ac78-4d326c201d45",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Perlindungan terhadap korban dan saksi dilakukan berdasarkan:\na. inisiatif aparat penegak hukum dan aparat keamanan; dan atau\nb. permohonan yang disampaikan oleh korban atau saksi.",
+                            "explanation": "\nhuruf a\nYang dimaksud inisiatif aparat penegak hukum atau aparat\nkeamanan adalah tindakan perlindungan yang langsung\ndiberikan berdasarkan pertimbangan aparat bahwa korban dan\nsaksi perlu segera dilindungi.\nInisiatif tersebut dapat berasal dari laporan masyarakat.\nhuruf b\nCukup jelas"
+                        },
+                        {
+                            "id": "4ab9aeaa-9a63-44d8-b609-71d1ebad83ef",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Permohonan sebagaimana dimaksud dalam ayat (1) huruf b\ndisampaikan kepada:\na. Komisi Nasional Hak Asasi Manusia, pada tahap penyelidikan;\nb. Kejaksaan, pada tahap penyidikan dan penuntutan;\nc. Pengadilan, pada tahap pemeriksaan.",
+                            "explanation": "\n\nPermohonan perlindungan yang diajukan pada tahap tertentu\nsebagaimana dimaksud dalam ayat ini, sekaligus merupakan\npermohonan untuk tahap berikutnya."
+                        },
+                        {
+                            "id": "0bca727e-7a48-4e76-b65a-f71a6758a272",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Permohonan sebagaimana dimaksud dalam ayat (2) disampaikan\nlebih lanjut kepada kepada aparat keamanan untuk ditindaklanjuti.",
+                            "explanation": "\nCukup jelas"
+                        },
+                        {
+                            "id": "7c6c5bf7-08b8-4a09-aea7-d3e110054ea0",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Permohonan perlindungan dapat disampaikan secara langsung kepada\naparat keamanan.",
+                            "explanation": "\nCukup jelas"
+                        }
+                    ]
+                },
+                {
+                    "id": "62105058-a7b8-4ffe-abb0-268e7bdfbe4b",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": {
+                        "id": "bc8b9027-c11a-464a-8718-429f7b23c966",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nSetelah menerima permohonan sebagaimana dimaksud dalam Pasal 5,\naparat penegak hukum atau aparat keamanan melakukan:\na. klarifikasi atas kebenaran permohonan; dan\nb. identifikasi bentuk perlindungan yang diperlukan.",
+                        "explanation": "\nCukup jelas"
+                    }
+                },
+                {
+                    "id": "8c6ef63f-48e1-44ed-aa5a-b6d2560772f0",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "679ae7df-ae0a-45bf-9a06-dd52d10cabdc",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pemberian perlindungan terhadap korban dan saksi dihentikan\napabila:\na. atas permohonan yang bersangkutan;\nb. korban dan atau saksi meninggal dunia; atau\nc. berdasarkan pertimbangan aparat penegak hukum atau aparat keamanan, perlindungan tidak diperlukan lagi.",
+                            "explanation": "\nCukup jelas"
+                        },
+                        {
+                            "id": "bd8af33b-3a08-4162-b77a-9edc261e07d9",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penghentian perlindungan sebagaimana dimaksud dalam ayat (1) huruf c, harus diberitahukan secara tertulis kepada yang bersangkutan dalam waktu paling lambat 3 (tiga) hari sebelum perlindungan dihentikan.",
+                            "explanation": "\nCukup jelas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0385098d-0ce9-41a4-a729-d32158875244",
+            "name": "Chapter IV",
+            "title": "\nPEMBIAYAAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "5a2a5b1b-987f-4749-aaa4-5b33396da536",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "4da7bd61-e66c-4270-8903-80e449eb5e19",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Korban dan saksi tidak dikenakan biaya apapun atas perlindungan yang diberikan kepada dirinya.",
+                            "explanation": "\nCukup jelas"
+                        },
+                        {
+                            "id": "d6c577fa-18b0-4ff2-baa3-e647b432f414",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Segala biaya yang diperlukan untuk pelaksanaan perlindungan terhadap korban dan saksi dibebankan pada anggaran masing-masing instansi aparat penegak hukum atau aparat keamanan.",
+                            "explanation": "\nCukup jelas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3444b6cc-6d31-4937-8e42-dd683e1a2d4e",
+            "name": "Chapter V",
+            "title": "\nPENUTUP",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "70800565-be7b-4ceb-8a57-a12055d903ca",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": {
+                        "id": "18ff0a24-fda5-4410-927d-2898f8ac940b",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.",
+                        "explanation": "\nCukup jelas\n"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nDalam proses peradilan pidana, salah satu alat bukti yang penting adalah kesaksian\norang yang mendengar, melihat, dan mengalami sendiri tindak pidana. Demikian\npentingnya posisi keterangan saksi sebagai alat bukti yang utama terlihat dengan\nditempatkannya saksi dalam deretan pertama alat bukti dalam Pasal 184\nUndang-undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana.\nDalam proses peradilan pelanggaran hak asasi manusia yang berat, sesuai dengan\nUndang-undang Nomor 26 tahun 2000 tentang Pengadilan HAM, kepada korban\ndan saksi perlu diberikan perlindungan baik fisik maupun mental dari ancaman,\ngangguan, teror, atau kekerasan dari pihak manapun. Dengan jaminan pemberian\nperlindungan tersebut diharapkan baik korban maupun saksi dapat memberikan\nketerangan yang benar, sehingga proses peradilan terhadap pelanggaran hak asasi\nmanusia yang berat dapat dilaksanakan dengan baik.\nAgar perlindungan tersebut dapat diberikan sesuai dengan hukum dan keadilan,\nmaka sesuai dengan ketentuan Pasal 34 Undang-undang Nomor 26 Tahun 2000,\nperlindungan tersebut perlu ditetapkan dalam Peraturan Pemerintah.\nDalam Peraturan Pemerintah ini perlindungan yang diberikan kepada korban dan\natau saksi meliputi perlindungan baik fisik maupun mental, perahasiaan identitas,\ndan pemberian keterangan pada proses pemeriksaan di sidang pengadilan tanpa\nbertatap muka dengan tersangka. Permohonan perlindungan dapat diajukan oleh\nkorban dan saksi kepada aparat penegak hukum dan atau aparat keamanan, dan\nperlindungan diberikan secara cuma-cuma.",
+        "Nomor": "2",
+        "Tahun": "2002",
+        "Tentang": "TATA CARA PERLINDUNGAN TERHADAP KORBAN DAN SAKSI DALAM\nPELANGGARAN HAK ASASI MANUSIA YANG BERAT",
+        "Menimbang": {
+            "Introduction": "\nbahwa dalam rangka melaksanakan ketentuan Pasal 34 ayat (3)\nUndang-undang Nomor 26 Tahun 2000 tentang Pengadilan Hak Asasi\nManusia, perlu menetapkan Peraturan Pemerintah tentang Tata Cara\nPerlindungan terhadap Korban dan Saksi Dalam Pelanggaran Hak Asasi\nManusia yang Berat;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang Undang Dasar 1945;",
+            "2": " Undang-undang Nomor 26 Tahun 2000 tentang Pengadilan Hak Asasi\nManusia (Lembaran Negara Republik Indonesia Tahun 2000 Nomor\n208, Tambahan Lembaran Negara Nomor 4026);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG TATA CARA\nPERLINDUNGAN TERHADAP KORBAN DAN SAKSI DALAM\nPELANGGARAN HAK ASASI MANUSIA YANG BERAT.",
+        "tanggal sah": "13 Maret 2002"
+    }
+}

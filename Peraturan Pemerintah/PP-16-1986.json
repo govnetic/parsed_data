@@ -1,0 +1,94 @@
+{
+    "results": [
+        {
+            "id": "33a66d55-e321-4913-99d4-4eb24b412c3b",
+            "name": "Article I",
+            "type": "article",
+            "children": [
+                {
+                    "change_type": [
+                        "ADD"
+                    ],
+                    "id": "2b8c9f83-9105-4e5c-9616-bd833bde29d9",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "a5e6838d-5bdb-4b22-8414-f477edc5bc6a",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "28b98d66-e8b3-4185-9196-6e87e98da469",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "eca4ec85-0019-409c-9944-a6a205541059",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                },
+                {
+                    "change_type": [
+                        "CHANGE"
+                    ],
+                    "id": "85b2876a-b3bd-4a30-aa08-6e3072c2f879",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "264afcdc-0e90-4a8b-b244-71969172c5b0",
+                            "name": "Verse 1",
+                            "type": "verse",
+                            "content": "\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "d691054c-0f17-4171-a0db-d7c4a5637136",
+            "name": "Article II",
+            "type": "article",
+            "children": [
+                {
+                    "id": "1b9ca334-4946-49d9-a806-2912b163ea38",
+                    "name": "Verse 1",
+                    "type": "verse",
+                    "content": "\nPeraturan Pemerintali ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Umum": "\nDalam Peraturan Pemerintah Nomor 2 Tahun 1985 tentang Wajib dan\npembebasan Untuk Ditera dan/atau Ditera Ulang serta\nSyarat-syarat Bagi Alat-alat Ukur, Takar, Timbang dan\nPerlengkapannya (Lembaran Negara Tahun 1985 Nomor 4, Tambahan\nLembaran Negara Nomor 3283) dijelaskan mengenai penggolongan\nalat-alat ukur, takar, timbang, dan perlengkapannya (UTTP)\nmenjadi :\n- UTTP yang wajib ditera dan ditera ulang;\n- UTTP yang dibebaskan dari tera ulang;\n- UTTP yang dibebaskan dari tera dan tera ulang;\nmenyebabkan Peraturan Pemerintah Nomor 26 Tahun 1983 tentang Tarif\nBiaya Tera (Lembaran Negara Tahun 1983 Nomor 35, Tambahan\nLembaran Negara Nomor 3257) harus diubah.\nPerubahan tersebut dimaksudkan untuk dapat menjamin bahwa semua\nalat-alat ukur, takar, timbang, dan perlengkapannya yang\ndiperiksa, diuji, ditera dan ditera ulang oleh Instansi\nPemerintah yang ditugasi pembinaan Metrologi Legal dapat\ndikenakan biaya tera karena tarifnya sudah tercantum dalam\nPeraturan Pemerintah ini, Hal semacam ini tidak terdapat\ndalam Peraturan Pemerintah Nomor 26 Tahun 1983 yang\nmenyebabkan ada alat-alat ukur, takar, timbang, dan\nperlengkapannya yang sudah diperiksa/diuji/ditera/ditera\nulang tetapi sulit untuk membebankan biaya tera kepada\npemilik/pemakai/pemegang kuasa alat-alat tersebut. Hal ini\njelas merugikan kepentingan negara dalam hal penerimaan\nanggaran.\nBeberapa hal yang dapat dicatat dalam kaitan ini antara lain\nadanya alat-alat ukur, takar, timbang, dan perlengkapannya\n(UTTP) yang semula termasuk golongan UTTP bukan Metrologi\nLegal tetapi sekarang sudah termasuk golongan UTTP Metrologi\nLegal dan karenanya sudah wajib diperiksa/diuji/ditera.\nHal ini akan segera pula diuji oleh UTTP lainnya yang dalam waktu\ndekat akan termasuk UTTP Metrologi Legal karena Peraturan\nPemerintah Teknisnya sudah selesai perumusannya. Selain\ndaripada itu juga adanya keharusan untuk menjawab tantangan\ndi masa yang akan datang mengingat semakin cepatnya\nperkembangan teknologi khususnya di bidang alat-alat ukur,\ntakar, timbang, dan perlengkapannya di samping adanya\nkesalahan dan hal-hal yang tidak perlu dicantumkan dalam",
+        "Nomor": "16",
+        "Tahun": "1986",
+        "Tentang": "PERUBAHAN PERATURAN PEMERINTAH NOMOR 26 TAHUN 1983\nTENTANG TARIF BIAYA TERA",
+        "Menimbang": {
+            "Introduction": "",
+            "a": " bahwa dengan semakin bertambahnya jenis-jenis UTTP, maka\ntarif biaya tera dalam Peraturan Pemerintah Nomor 26 Tahun\n1983 tentang Tarif Biaya Tera (Lembaran Negara Tahun 1983\nNomor 35, Tambahan Lembaran Negara Nomor 3257) mengandung\nkekurangan, sehingga tidak sesuai lagi ;",
+            "b": " bahwa dengan berlakunya Peraturan Pemerintah Nomor 2 Tahun\n1985 tentang Wajib dan Pembebasan untuk Ditera dan/atau\nDitera Ulangserta Syarat-syarat bagi Alat-alat Ukur, Takar,\nTimbang, dan Perlengkapannya (Lembaran Negara Tahun 1985\nNomor 4, Tambahan Lembaran Negara Nomor 3283), maka terdapat\njenis-jenis UTTP yang tidak dapat dikenakan biaya tera\nsebagaimana dimaksud dalam Peraturan Pemerintah Nomor 26\nTahun 1983 tentang Tarif Biaya Tera;",
+            "c": " bahwa sehubungan dengan hal-hal tersebut di atas, maka perlu\nmengubah Peraturan Pemerintah Nomor 26 Tahun 1983 tentang\nTarif Biaya Tera;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+            "2": " Indische Comptabiliteitswet (Staatsblad Tahun 1925 Nomor 448)\nsebagaimana beberapa kali diubah, terakhir dengan Undang-\nundang Nomor 9 Tahun 1968 tentang Perubahan Pasal 7 Indische\nComptabiliteitswet (Lembaran Negara Tahun 1968 Nomor 53,\nTambahan Lembaran Negara Nomor 2860);",
+            "3": " Undang-undang Nomor 2 Tahun 1981 tentang Metrologi Legal\n(Lembaran Negara Tahun 1981 Nomor 11, Tambahan Lembaran\nNegara Nomor 3193);",
+            "4": " Peraturan Pemerintah Nomor 26 Tahun 1983 tentang Tarif Biaya\nTera (Lembaran Negara Tahun 1983 Nomor 35, Tambahan Lembaran\nNegara Nomor 3257);",
+            "5": " Peraturan Pemerintah Nomor 2 Tahun 1985 tentang Wajib dan\nPembebasan untuk Ditera dan/atau Ditera Ulang serta Syarat-\nsyarat Bagi Alat-alat Ukur, Takar, Timbang, dan\nPerlengkapannya (Lembaran Negara Tahun 1985 Nomor 4, Tambahan\nLembaran Negara Nomor 3283);"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG PERUBARAN\nPERATURAN PEMERINTAH NOMOR 26 TAHUN 1983 TENTANG TARIF BIAYA TERA.",
+        "tanggal sah": "22 Maret 1986"
+    }
+}

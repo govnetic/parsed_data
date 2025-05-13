@@ -1,0 +1,645 @@
+{
+    "results": [
+        {
+            "id": "876c086c-0ad3-4a58-92eb-022ecc4cc68b",
+            "name": "Chapter I",
+            "title": "\nPENDIRIAN",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "ef72eec3-2284-46ee-95a3-2d67ae4d1c97",
+                    "name": "Article 1",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "9bc81fd5-eb06-4a2f-bcf9-5c8f890a8d0b",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Dengan nama Perusahaan Aspal Negara didirikan suatu perusahaan negara sebagai\n    termaktub dalam Undang-undang Nomor 19 Prp. tahun 1960.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "27896287-e40c-4244-807a-b39439e47cb7",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Bagian BUTAS dari Jawatan Jalan-jalan dan Jembatan Departemen Pekerjaan Umum dan\n    Tenaga yang dibentuk dengan/ termaksud dalam surat-surat Keputusan Menteri Pekerjaan\n    Umum dan Tenaga tertanggal 31 Desember 1954 Nomor P 25/56/13 dan 19 Desember 1955\n    Nomor P 25/51/11 dengan ini di lebur ke dalam Perusahaan Aspal Negara tersebut dalam\n    ayat (1) di atas.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "0efb1383-c5b8-4ef4-9581-ef7433115d5e",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Segala hak dan kewajiban, perlengkapan dan kekayaan serta usaha dari Bagian BUTAS\n    tersebut dalam ayat (2) beralih kepada Perusahaan Aspal Negara tersebut dalam ayat (1).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "ff1a7e8f-2fe6-4e8f-9271-097231707e39",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Pelaksanaan peralihan termaksud dalam ayat (2) dan ayat (3) diatur oleh Menteri Pekerjaan\n    Umum dan Tenaga.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3592a0ec-0f43-4cc4-b50a-714a1ea3a1a3",
+            "name": "Chapter II",
+            "title": "\nANGGARAN DASAR\nKetentuan Umum",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "8f03eee4-d091-446d-9c02-2f565a826262",
+                    "name": "Article 2",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "5bf16e39-0af5-441e-8bca-0c97381429b2",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Perusahaan Aspal Negara adalah badan hukum yang berhak melakukan usaha-usaha berdasarkan Peraturan Pemerintah ini.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "abb29e17-27b6-4a27-ae64-47e86eea4f24",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Dalam peraturan pemerintah ini yang dimaksud dengan :\na. \"Pemerintah\" ialah Presiden Republik Indonesia;\nb.\"Menteri\" ialah Menteri Pekerjaan Umum dan Tenaga;\nc. \"Perusahaan\" ialah Perusahaan Aspal Negara termaksud dalam pasal 1 ;\nd.\"Direksi\" ialah Direksi Perusahaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "4893f698-26be-4fbd-9e40-44625d9d8099",
+                    "name": "Article 3",
+                    "type": "article",
+                    "children": {
+                        "id": "c4013f37-4617-48fe-a806-bea59a6ee170",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDengan tidak mengurangi ketentuan dalam peraturan pemerintah ini, maka terhadap perusahaan berlaku segala macam hukum Indonesia.\nTempat Kedudukan",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "c7c81a35-95a1-428d-b33d-6a336e898358",
+                    "name": "Article 4",
+                    "type": "article",
+                    "children": {
+                        "id": "386d40f9-6f05-4413-8406-333349f192c2",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPerusahaan berkedudukan dan berkantor pusat di Jakarta dan dapat mempunyai kantor-kantor cabang atau kantor-kantor perwakilan dimana dianggap perlu.\nTujuan dan Lapangan Usaha",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "6e95674f-2a42-4a05-8a59-595a86a96799",
+                    "name": "Article 5",
+                    "type": "article",
+                    "children": {
+                        "id": "a0704197-28e1-4bcb-815c-3fd6add12943",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nTujuan Perusahaan ialah untuk membangun ekonomi nasional sesuai dengan ekonomi terpimpin dengan mengutamakan kebutuhan rakyat dan ketentraman serta kegembiraan kerja dalam perusahaan menuju masyarakat adil dan makmur materiil dan spirituil.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "ed353d96-0234-4e4c-a553-bf9c5df4c7db",
+                    "name": "Article 6",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "9d19bb4d-55a5-469d-a08f-62ae553d2fb2",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " menjalankan secara perusahaan segala usaha penyelidikan dan pengambilan aspal dari semua jenis bitumen, baik padat maupun cair, dipulau Buton dan sekitarnya, termasuk juga perairan territorial sekelilingnya dan dilain tempat yang dipandang perlu.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "ad281111-e985-4f84-85ba-e869c4597cf7",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Mengolah/menjual bahan-bahan aspal dan semua bitumen, baik padat maupun cair, seperti dimaksudkan pada angka (1) diatas.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "9ee99643-8b3f-4e76-bead-9db0afa17384",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Menaikkan produksi dalam negeri dalam usaha mencukupi kebutuhan-kebutuhan negara dengan hasil-hasil dalam negeri sendiri.\nModal",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "4fbeb9df-59be-4664-956c-b65df183b6dc",
+                    "name": "Article 7",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "12ed2aeb-0366-45ba-b4f5-38a56023be70",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Modal perusahaan ialah jumlah selisih dari nilai aktiva dan nilai passiva dari pada BUTAS\ntermaksud dalam pasal 1 dan yang menurut neraca pembukuan sementara yang dilampirkan\npada Peraturan Pemerintah ini, berjumlah Rp. 17.000.000,- (tujuh belas juta rupiah).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "14d1db6f-d6b2-433b-b110-275ffa19039a",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Modal perusahaan dapat ditambah dengan ketentuan Peraturan Pemerintah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "350f3154-8263-4fb2-a384-61842ad79dcb",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Perusahaan mempunyai cadangan umum yang dibentuk dan dipupuk menurut ketentuan\ndalam pasal 20 ayat (1).",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "d0218d79-4e9c-417f-8042-dd01f4d7e15a",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Perusahaan tidak mengadakan cadangan diam/atau cadangan rahasia.\nPimpinan",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "205e2e25-e191-4d51-a7cd-6283a85a6717",
+                    "name": "Article 8",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "4ead2638-927e-461e-9acf-2bd6952a0289",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Perusahaan dipimpin oleh suatu Direksi yang terdiri dari sebanyak-banyaknya tiga orang\nDirektur.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "3a237a22-c1ca-4aea-beb7-562f199f8f47",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Salah seorang dari anggota Direksi dapat diangkat sebagai Presiden Direktur.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "2f701b37-d989-44fb-a30d-d61de13f614d",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Gaji dan penghasilan lain para anggota Direksi ditetapkan oleh Menteri dengan mengingat\nketentuan yang ditetapkan dengan atau berdasarkan undang-undang.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "bd7a63a4-2faf-4b87-b0ce-604eb5d72344",
+                    "name": "Article 9",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "3f810547-2631-4119-be66-6eddfec7c0d9",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Anggauta Direksi adalah warga negara Indonesia.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "dfc92910-a6cd-4a9c-ac2b-187ac9627b82",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Anggauta Direksi harus bertempat tinggal di tempat kedudukan Perusahaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "a0245f90-92d6-4990-ac70-7fe399364f0d",
+                    "name": "Article 10",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "cda0e2b8-67a3-4ad2-a404-1782da22f8c1",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Antara anggauta Direksi tidak boleh ada hubungan keluarga sampai derajat ketiga, baik\nmenurut garis lurus maupun garis kesamping, termasuk menantu dan ipar, kecuali jika\ndiijinkan oleh Pemerintah. Jika sesudah pengangkatan mereka masuk periparan yang\nterlarang itu, maka untuk dapat melanjutkan jabatannya diperlukan ijin pemerintah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "13b818d0-e6fa-40fa-b47f-c4fd9f1dbe09",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Anggauta Direksi tidak boleh merangkap jabatan lain kecuali dengan ijin Menteri. Tidak\ntermasuk dalam hal ini jabatan yang dipikulkan oleh Pemerintah kepadanya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "59443502-977b-4ecb-83ce-d456891342a4",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Anggauta Direksi tidak boleh mempunyai kepentingan pada perusahaan yang bertujuan\nmencari laba.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "9bdbcf62-602a-4e19-ab86-7cb0fd92764f",
+                    "name": "Article 11",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "309777ac-c419-4272-bed7-8cbf43088047",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Anggauta Direksi diangkat oleh Pemerintah atas usul Menteri untuk selama-lamanya 5\ntahun. Setelah waktu itu berakhir anggauta yang bersangkutan dapat diangkat kembali.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "cf4a7b5d-a73c-45ef-b5ce-99a3ea78b841",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Dalam hal-hal di bawah ini pemerintah dapat memberhentikan anggauta Direksi, walaupun\nwaktu tersebut dalam ayat (1) belum berakhir :\na.atas permintaan sendiri;\nb.karena tindakan yang merugikan perusahaan;\nc.karena tindakan atau sikap yang bertentangan dengan kepentingan negara;\nd.karena meninggal dunia.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "34bcb6ff-13f2-4791-915e-236738a3fadd",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Pemberhentian karena alasan tersebut dalam ayat (2) sub b dan sub c jika merupakan suatu\npelanggaran dari peraturan hukum pidana merupakan pemberhentian tidak dengan hormat.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "080d5659-8202-4423-9029-3d1d79325aa8",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Sebelum pemberhentian karena alasan tersebut dalam ayat (2) sub b dan sub c dilakukan,\nanggauta Direksi yang bersangkutan diberi kesempatan untuk membela diri, hal mana harus\ndilaksanakan dalam waktu satu bulan setelah anggauta Direksi yang bersangkutan\ndiberitahukan tentang niat akan pemberhentian itu oleh Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "440a1bbe-15f3-45cb-ab2e-61280e8e3ec4",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": " Selama persoalan tersebut dalam ayat (4) belum diputus, maka Menteri dapat\nmemberhentikan untuk sementara waktu anggauta Direksi yang bersangkutan. Jika dalam\nwaktu dua bulan setelah pemberhentian sementara dijatuhkan belum ada keputusan\nmengenai pemberhentian anggauta Direksi berdasarkan (3), maka pemberhentian sementara\nitu menjadi batal dan anggauta Direksi yang bersangkutan dapat segera menjalankan\njabatannya lagi, kecuali bilamana untuk keputusan pemberhentian tersebut diperlukan\nkeputusan pengadilan, dalam hal itu harus diberitahukan kepada yang bersangkutan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "fe0ef940-f9ca-4144-b709-aaa5d5ad56ae",
+                    "name": "Article 12",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ad0029f3-021d-4274-8e77-8664b3c91da2",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Direksi mewakili perusahaan di dalam dan di luar pengadilan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "a4ac1e93-b952-4407-be27-6b5615936aa7",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Direksi dapat menyerahkan kekuasaan mewakili tersebut dalam ayat (1) kepada anggauta\nDireksi yang khusus ditunjuk untuk itu atau kepada seorang/beberapa orang pegawai\nperusahaan, baik sendiri maupun bersama atau kepada orang/badan lain.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "aa72f891-98a1-4d1f-8e14-b87a7d52353a",
+                    "name": "Article 13",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "ba12bcf0-8c2a-4c3c-a710-5b6175076433",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Direksi menentukan kebijaksanaan perusahaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "c3f4cd11-0cca-4352-8086-b8567c5a972e",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Direksi mengurus dan menguasai kekayaan perusahaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "eb980b7d-8f94-4302-ab9f-8a45cd5553ad",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Tata-tertib dan acara menjalankan pekerjaan direksi diatur dalam suatu peraturan yang\nditetapkan oleh Direksi.\nTanggung Jawab dan Tuntutan Ganti Rugi Pegawai",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "0743491e-09c9-45a9-9d90-b376ff3f346b",
+                    "name": "Article 14",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "c0831e41-8590-4b60-9e80-6c57419e24b8",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Semua pegawai perusahaan, termasuk anggauta Direksi, dalam kedudukan selaku demikian,\nyang tidak dibebani tugas penyimpanan uang, surat berharga dan barang-barang persediaan\nyang karena tindakan melawan hukum atau karena melalaikan kewajiban dan tugas yang\ndibebankan kepada mereka dengan lasngung atau tidak langsung telah menimbulkan\nkerugian bagi perusahaan, diwajibkan mengganti kerugian tersebut.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "5c503263-241e-49a9-b970-3e0dd28da9b7",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Ketentuan-ketentuan tentang tuntutan ganti rugi terhadap pegawai negeri berlaku\nsepenuhnya terhadap pegawai perusahaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "cb0d067d-3da7-425f-9984-9d215d93add3",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Semua pegawai Perusahaan yang dibebani tugas penyimpanan pembayaran atau penyerahan\nuang dan surat-surat berharga milik Perusahaan dan barang-barang persediaan milik\nPerusahaan yang disimpan di dalam gudang atau tempat penyimpanan yang khusus dan\nsemata-mata digunakan untuk keperluan itu diwajibkan memberikan pertanggungan jawab,\ntentang pelaksanaan tugasnya kepada Badan Pemeriksa Keuangan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "27acdfab-209a-4725-a971-89c21b66727e",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": "\nPegawai termaksud pada ayat (3) tidak perlu mengirimkan pertanggungan jawab mengenai\ncara pengurusannya kepada Badan Pemeriksa Keuangan. Tuntutan terhadap pegawai\ntersebut dilakukan menurut ketentuan yang ditetapkan bagi pegawai bendaharawan yang\noleh Badan Pemeriksa Keuangan dibebaskan dari kewajiban mengirimkan pertanggungan\njawab mengenai cara mengurusnya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "e3bdcff4-d6df-40e4-82e9-d4a87a33d2ef",
+                            "name": "Verse 5",
+                            "number": "5",
+                            "type": "verse",
+                            "content": "\n(6)\nSemua surat bukti dan surat lainnya bagaimanapun juga sifatnya yang termasuk bilangan\ntata-buku dan administrasi Perusahaan, disimpan di tempat Perusahaan atau di tempat lain\nyang ditunjuk oleh Menteri, kecuali jika untuk sementara dipindahkan ke Badan Pemeriksa\nKeuangan dalam hal dianggapnya perlu untuk kepentingan suatu pemeriksaan.\nUntuk keperluan pemeriksaan bertalian dengan penetapan pajak dan kontrol akuntan pada\numumnya surat bukti dan surat lainnya termaksud pada ayat (5) untuk sementara\ndipindahkan ke Jawatan Akuntan Negara.\nKepegawaian",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "7e207565-8b25-4633-ba62-ca6046e327b6",
+                    "name": "Article 15",
+                    "type": "article",
+                    "children": {
+                        "id": "e83ea8ef-8177-4bc0-877c-36e698dcc5af",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nDireksi mengangkat dan memberhentikan pegawai Perusahaan menurut peraturan kepegawaian\nyang disetujui oleh Menteri berdasarkan peraturan pokok kepegawaian yang ditetapkan oleh\nPemerintah.\nTahun Buku",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "0f7f0fd6-6f86-467b-8308-8ef05d15aaff",
+                    "name": "Article 16",
+                    "type": "article",
+                    "children": {
+                        "id": "baf40dbe-46bc-47e0-9657-9a3ca4cb2cad",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nTahun buku Perusahaan adalah tahun takwim.\nAnggaran Perusahaan.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "38c56433-80c0-4a03-b568-dbc0c76f2d79",
+                    "name": "Article 17",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "1f94b860-9154-4925-9119-a392c796cb5a",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Selambat-lambatnya tiga bulan sebelum tahun buku baru mulai berlaku maka oleh Direksi\ndikirimkan anggaran perusahaan untuk dimintakan persetujuan kepada Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "c539dc0d-ffc3-43a3-989b-2231a2072670",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Kecuali apabila Menteri mengemukakan keberatan atau menolak proyek yang dimuat di\ndalam anggaran perusahaan sebelum menginjak tahun buku baru maka anggaran tersebut\nberlaku sepenuhnya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "45b012b5-cb88-4e8b-8066-ea9ba1f56d95",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Anggaran tambahan atau perobahan anggaran ayng terjadi dalam tahun buku yang\nbersangkutan harus mendapat persetujuan terlebih dahulu dari Menteri.\nLaporan Perhitungan Hasil Usaha Berkala\ndan Kegiatan Perusahaan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "733b0fff-b1e3-4f22-939b-e1817208a3ee",
+                    "name": "Article 18",
+                    "type": "article",
+                    "children": {
+                        "id": "0fc5aa7d-a54d-4a10-921c-3db3eb67ec3a",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nLaporan perhitungan hasil usaha berkala dan kegiatan perusahaan dikirim oleh Direksi kepada\nMenteri menurut cara dan waktu yang ditentukan oleh Menteri.\nLaporan Perhitungan Tahunan",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "09a66bbe-1372-4925-94da-d44927c03eba",
+                    "name": "Article 19",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "372ae22f-8123-49c7-95f7-6964ab496f16",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Untuk tiap tahun buku oelh Direksi disusun perhitungan tahunan yang terdiri dari neraca dan\nperhitungan laba rugi. Neraca dan perhitungan laba rugi tersebut dikirimkan kepada Menteri\ndan Badan Pemeriksa Keuangan menurut cara dan waktu yang ditetapkan oleh Menteri.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "c8f944a5-72c3-4f85-9539-8085a8d7ddfb",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Cara penilaian pos dalam perhitungan tahunan harus disebutkan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "506320f1-e31b-4ab5-91b5-7f2b91b327f9",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Jika dalam waktu dua bulan sesudah menerima perhitungan tahunan itu oleh Menteri tidak\ndiajukan keberatan tertulis, maka perhitungan tahunan itu dianggap telah disahkan.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "39950f7f-c752-4f02-a580-5c3dbbfc63a6",
+                            "name": "Verse 4",
+                            "number": "4",
+                            "type": "verse",
+                            "content": " Perhitungan tahunan disahkan oleh Menteri; pengesahan termaksud memberi pembebasan\nkepada Direksi terhadap segala sesuatu yang termuat dalam perhitungan tersebut.\nPenggunaan Laba",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "f72db89c-60c6-40d7-b03b-56a4f1a31640",
+                    "name": "Article 20",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "6c6c7ddb-d242-4fb6-82c6-ce7054dad541",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Dari laba bersih yang telah disahkan menurut pasal 19 disisihkan untuk:\na. dana pembangunan semesta 55%;\nb. untuk cadangan umum sebesar 20% sampai cadangan umum tersebut mencapai\njumlah dua kali modal perusahaan, untuk ganti rugi 3%, sedangkan sisanya\ndipisahkan untuk sumbangan dana pensiun dan sokongan pegawai, sosial dan\npendidikan, dan jasa produksi yang jumlah persentasinya masing-masing ditetapkan\noleh Pemerintah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "5414ff01-60e3-4166-919e-019eeae1ad4b",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Penggunaan laba untuk cadangan umum, bilamana telah tercapai tujuannya, dapat dialihkan\nkepada penggunaan lain dengan Peraturan Pemerintah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "80b803e7-cc2c-4d85-9485-22004e36fe2c",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Cara mengurus dan menggunakan dana penyusutan dan cadangan tujuan termaksud pada\npasal 18 ayat (2) Undang-undang Nomor 19 Prp. tahun 1960 ditentukaan dengan Peraturan\nMenteri.\nPembubaran",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                },
+                {
+                    "id": "2bd577cd-e604-4d95-ad6c-6ce1319b52ff",
+                    "name": "Article 21",
+                    "type": "article",
+                    "children": [
+                        {
+                            "id": "5441682b-5b96-49ca-afc4-5b218abeadb4",
+                            "name": "Verse 1",
+                            "number": "1",
+                            "type": "verse",
+                            "content": " Pembubaran perusahaan dan penunjukan likwidaturnya ditetapkan dengan Peraturan\nPemerintah.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "8825b535-7ef2-49d9-bb18-fff68a9b6cc5",
+                            "name": "Verse 2",
+                            "number": "2",
+                            "type": "verse",
+                            "content": " Semua kekayaan Perusahaan setelah diadakan likwidasi menjadi milik Negara.",
+                            "explanation": "Tidak ada Penjelasan"
+                        },
+                        {
+                            "id": "28306b06-6551-426d-abee-fac671497c70",
+                            "name": "Verse 3",
+                            "number": "3",
+                            "type": "verse",
+                            "content": " Pertanggungan jawab likwidasi oleh likwidatur dilakukan kepada Menteri yang memberi\npembebasan tanggung jawab tentang pekerjaan yang telah diselesaikan olehnya.",
+                            "explanation": "Tidak ada Penjelasan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8a0934f1-3305-4221-8b85-225bdc32ce0f",
+            "name": "Chapter III",
+            "title": "\nKetentuan Penutup",
+            "type": "chapter",
+            "children": [
+                {
+                    "id": "7abd9ce3-d1e2-4ae3-9e1c-3dab92508608",
+                    "name": "Article 22",
+                    "type": "article",
+                    "children": {
+                        "id": "8f76724f-1f1a-4a03-b458-832fa8600e8f",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nHal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini ditetapkan oleh Menteri.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                },
+                {
+                    "id": "e3807cf3-1114-45ab-9bcb-2fc6e7229099",
+                    "name": "Article 23",
+                    "type": "article",
+                    "children": {
+                        "id": "17eb78d8-314d-4881-86b4-cf3388f38328",
+                        "name": "Verse 1",
+                        "number": "(1)",
+                        "type": "verse",
+                        "content": "\nPeraturan Pemerintah ini mulai berlaku pada hari ditetapkan dan berlaku surut hingga tanggal 1\nJanuari 1961.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatan dalam Lembaran Negara Republik Indonesia.",
+                        "explanation": "Tidak ada Penjelasan"
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "Nomor": "195",
+        "Tahun": "1961",
+        "Tentang": "PENDIRIAN PERUSAHAAN ASPAL NEGARA",
+        "Menimbang": {
+            "Introduction": "\nbahwa untuk merasionilkan usaha produksi aspal dianggap perlu untuk mengubah/menjadikan\nBagian Butas dari Departemen Pekerjaan Umum dan Tenaga, yang sejak tahun 1954 diserahi tugas\nuntuk menyelenggarakan pekerjaan pengambilan aspal di Buton, sebagai suatu Perusahaan Negara\nberdasarkan Undang-undang Nomor 19 Prp. tahun 1960 tentang Perusahaan Negara;"
+        },
+        "Mengingat": {
+            "Introduction": "",
+            "1": " Pasal 5 ayat (2) Undang-Undang Dasar;",
+            "2": " Undang-undang Nomor 19 Prp. tahun 1960 tentang Perusahaan Negara (Lembaran-Negara\n   tahun 1960 Nomor 59),",
+            "3": " Undang-undang Nomor 10 Prp. tahun 1960 (Lembaran-Negara tahun 1960 Nomor 31);\nMendengar\nMusyawarah Kabinet Kerja pada tanggal 6 Oktober 1960;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH TENTANG PENDIRIAN PERUSAHAAN ASPAL NEGARA.",
+        "tanggal sah": "1 Januari 1961"
+    }
+}

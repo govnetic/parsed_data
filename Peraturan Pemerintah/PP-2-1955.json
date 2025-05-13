@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "3a29d0fc-e323-40d1-84c1-0a718671d028",
+            "name": "Article 1",
+            "type": "article",
+            "children": {
+                "id": "74dc3498-89a6-4d7c-86b2-8cb2b43dca9d",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Memperpanjang lagi waktu termaksud dalam pasal 3 Peraturan Pemerintah No. 44 tahun 1952 (Lembaran Negara tahun 1952 No. 72) dengan satu tahun, yaitu sampai dengan akhir Desember 1955.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        },
+        {
+            "id": "90d2cd63-f44c-4eb3-afac-31c25b4c7eb0",
+            "name": "Article 2",
+            "type": "article",
+            "children": {
+                "id": "6e9183fc-696a-492a-9cfc-842947efc7c7",
+                "name": "Verse 1",
+                "number": "(1)",
+                "type": "verse",
+                "content": "Peraturan Pemerintah ini mulai berlaku pada 1 Januari 1955.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatan dalam Lembaran Negara Republik Indonesia.",
+                "explanation": "Tidak ada Penjelasan"
+            }
+        }
+    ],
+    "metadata": {
+        "Nomor": "2",
+        "Tahun": "1955",
+        "Tentang": "MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN PEMERINTAH NO.44\nTAHUN 1952 (LEMBARAN-NEGARA NO. 72 TAHUN 1952), MENGENAI\nPENUNJUKAN DAERAH INDONESIA DIMANA UANG ASING DAPAT DITERIMA\nSEBAGAI ALAT PEMBAYARAN YANG SAH DENGAN MENYAMPINGKAN ALAT\nPEMBAYARAN INDONESIA YANG SAH",
+        "Menimbang": {
+            "Introduction": "\nbahwa usul-usul yang disampaikan Panitia ad hoc yang dibentuk untuk merencanakan tindakan Pemerintah untuk menghilangkan keganjilan bahwa di sebagian wilayah Republik Indonesia uang asing beredar sebagai alat pembayar yang syah, belum lagi menghasilkan suatu keputusan;\nbahwa, berhubung dengan itu dianggap perlu untuk memperpanjang lagi waktu berlakunya Peraturan Pemerintah No. 44 tahun 1952 (Lembaran-Negara No. tahun 1952 No. 72) yang telah 2 kali diperpanjang terakhir dengan Peraturan Pemerintah No. 1 tahun 1954 (Lembaran Negara tahun 1954 No. 2), yaitu sampai dengan akhir Desember 1954, dengan satu tahun yaitu sampai akhir Desember 1955;"
+        },
+        "Mengingat": {
+            "Introduction": "\npasal 3 Peraturan Pemerintah No. 44 tahun 1952 (Lembaran Negara tahun 1952 No. 72);\nMendengar \nDewan Menteri dalam rapatnya yang ke-89 tanggal 23 Desember 1954;"
+        },
+        "Menetapkan": "\nPERATURAN PEMERINTAH UNTUK MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN PEMERINTAH No. 44 TAHUN 1952.",
+        "tanggal sah": "1 Januari 1955"
+    }
+}
